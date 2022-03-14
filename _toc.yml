@@ -1,0 +1,38 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+chapters:
+- file: socialchange
+  sections:
+  - file: Volumes/01/01/Agitation.md
+  - file: Volumes/24/01/inter-racial_comity.md
+- file: NAACP
+  sections:
+  - file: Volumes/01/02/NAACP.md
+  - file: Volumes/01/01/TheCrisis.md
+  - file: Volumes/07/03/fightordie.md
+  - file: Volumes/24/01/anti-lynching_legislation.md
+- file: Sections/segregation
+  sections:
+  - file: Volumes/01/01/Segregation.md
+  - file: Volumes/05/02/blesseddiscrimination.md
+  - file: Volumes/17/03/jim_crow.md
+- file: southernracism
+  sections:
+  - file: Volumes/03/04/light.md
+  - file: Volumes/24/01/slavery.md
+- file: Sections/womansuffrage
+  sections:
+  - file: Volumes/09/06/womansuffrage.md
+- file: Sections/intermarriage
+  sections:
+  - file: Volumes/05/02/intermarriage.md
+- file: Sections/reparations
+  sections:
+  - file: Volumes/24/02/whitecharity.md
+- file: Sections/colonialization
+  sections:
+  - file: Volumes/09/01/worldwar.md
+  - file: Volumes/17/04/reconstruction_and_africa.md
