@@ -19,10 +19,16 @@ chapters:
   - file: Volumes/01/01/Segregation.md
   - file: Volumes/05/02/blesseddiscrimination.md
   - file: Volumes/17/03/jim_crow.md
+- file: Sections/criminal_justice
+  sections:
+   - file: Volumes/15/03/thirteen.md
 - file: southernracism
   sections:
   - file: Volumes/03/04/light.md
   - file: Volumes/24/01/slavery.md
+- file: Sections/labor
+  sections:
+  - file: Volumes/15/05/the_black_man_and_the_unions.md
 - file: Sections/womansuffrage
   sections:
   - file: Volumes/09/06/womansuffrage.md
