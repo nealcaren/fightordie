@@ -1,4 +1,4 @@
-# The Black Man and the Unions
+# The Black Man and the Unions (1918)
 
 
 I am among the few colored men who have tried conscientiously to bring about understanding and co-operation between American Negroes and the Labor Unions. I have sought to look upon the Sons of Freedom as simply a part of the great mass of the earth's Disinherited, and to realize that world movements which have lifted the lowly in the past and are opening the gates of opportunity to them today are of equal value for all men, white and black, then and now.

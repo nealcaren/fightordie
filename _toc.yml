@@ -7,6 +7,7 @@ chapters:
 - file: socialchange
   sections:
   - file: Volumes/01/01/Agitation.md
+  - file: Volumes/15/01/oath_of_the_negro_voter.md
   - file: Volumes/24/01/inter-racial_comity.md
 - file: NAACP
   sections:
@@ -32,6 +33,8 @@ chapters:
 - file: Sections/womansuffrage
   sections:
   - file: Volumes/09/06/womansuffrage.md
+  - file: Volumes/09/03/agility.md
+  - file: Volumes/15/01/votes_for_women.md
 - file: Sections/intermarriage
   sections:
   - file: Volumes/05/02/intermarriage.md
