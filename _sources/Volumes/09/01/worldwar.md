@@ -31,6 +31,4 @@ If so great, a catastrophe has followed jealousies and greed built on a desire t
 
 Let us give then our sympathies to those nations whose triumph will most tend to postpone if not to make unnecessary a world war of races.
 ______________
-**Citation:** "World War and the Color Line." Editorial. 1913. *The Crisis* 9(1): 28-30.
-
 "World War and the Color Line." Editorial. 1913. *The Crisis* 9(1): 28-30.
