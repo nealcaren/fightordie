@@ -13,7 +13,7 @@ p {
   color: #111;
 }
 
-.footnote-reference, .footnote, .brackets {
+.footnote-reference brackets {
   font-family: et-book, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
   font-size: 0.75em;
 }
