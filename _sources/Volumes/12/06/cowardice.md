@@ -16,6 +16,7 @@ In the last analysis lynching of Negroes is going to stop in the South when the 
 ```{epigraph}
 
 It may be a good thing to forget and forgive; but it is altogether too easy a trick to forget and be forgiven.
+
 -- G.K. Chesterton
 ```
 
