@@ -3,7 +3,9 @@
 There is for the future one and only one effective political move for colored voters. We have long foreseen it, have sought to avoid it. It is a move of segregation, it “hyphenates” us, it separates us from our fellow Americans; but self-defense knows no nice hesitations. The American Negro must either vote as a unit or continue to be politically emasculated as at present.
 
 
-```{margin} [Robert Reed Church](https://en.wikipedia.org/wiki/Robert_Reed_Church)```
+```{margin}
+[Robert Reed Church](https://en.wikipedia.org/wiki/Robert_Reed_Church)
+```
 
 Miss Inez Milholland, in a recent address, outlined with singular clearness and force a Negro Party on the lines of the recently formed Woman’s Party. Mr. R. R. Church, Jr., of Tennessee, and certain leading colored men in New Jersey, Ohio and elsewhere have unconsciously and effectively followed her advice.
 
