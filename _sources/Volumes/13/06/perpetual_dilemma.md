@@ -11,7 +11,7 @@ We continually submit to segregated schools, "Jim Crow" cars, and isolation, bec
 Yet, when a new alternative of such choice faces us it comes with a shock and almost without thinking we rail at the one who advises the lesser of two evils.
 
 ```{margin}
-Joel Elias Spingarn, a white liberal Republican, was on the board of the NAACP from 1913 to his death in 1939, serving as chair from 1913-1919.
+[Joel Elias Spingarn](https://en.wikipedia.org/wiki/Joel_Elias_Spingarn), a white liberal Republican, was on the board of the NAACP from 1913 to his death in 1939, serving as chair from 1913-1919.
 
 ```
 
@@ -46,6 +46,13 @@ Give us the officers.
 Give us the camp.
 
 A word to those who object:
+
+
+
+
+```{margin}
+[Leonard Wood](https://en.wikipedia.org/wiki/Preparedness_Movement), along with  former President Theodore Roosevelt, was a leader in the [Preparedness Movement](https://en.wikipedia.org/wiki/Preparedness_Movement), which sought to build up US military prior to its involvement in World War I.
+```
 
 1. The army does not wish this camp. It wishes the project to fail. General Wood refuses to name date or place until 200 apply. The reason is obvious. Up to March 8, sixty-nine men have applied.
 2. The camp is a temporary measure lasting four weeks and designed to FIGHT not encourage discrimina­tion in the army. The New York Negro regiment could not find enough qualified Negroes for its commissions. W e want trained colored officers. This camp will help furnish them.

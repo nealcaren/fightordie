@@ -1,3 +1,0 @@
-# Good Will Toward Men.
-
-This the month of the Christ Child. This is the month when there was reborn in men the ideal of doing to their neighbors that which they would wish done to themselves. It was a divine idea—a veritable Son of God. In blood and tears the world has struggled toward this Star of Bethlehem, and to-day, in the intercourse of man with man within large and growing groups, we see glimmerings of the fulfilment of the vision. But in the intercourse of group with group and nation with nation and race with race the ideal has not only miserably failed, but even its truth has been denied. God grant that on some Christmas day our nation and all others will plant themselves on this one platform: Equal justice and equal opportunity for all races.
