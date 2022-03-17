@@ -10,4 +10,4 @@ Meantime, may we not advise our Inter-racial friends,—do not fill your committ
 
 
 ______________
-*Citation:* "Inter-Racial Comity" Editorial. 1922. *The Crisis*. 24(1): 6-7.
+*Citation:* "Inter-Racial Comity" Editorial. 1922. *The Crisis*. 22(1): 6-7.
