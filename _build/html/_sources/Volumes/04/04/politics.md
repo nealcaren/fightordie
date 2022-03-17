@@ -1,10 +1,6 @@
 # Politics (1912)
 
 
-
-
-# Politics
-
 The colored voter now stands face to face with the great question of the proper use of his electoral franchise. Under normal conditions 2,000,000 of the 20,000,000 votes which might be cast at a presidential election would belong to the race, and some day, despite every effort of fraud and race prejudice, those votes are going to be cast.
 
 To-day, however, of the 15,000,000 or more votes which will actually be cast for President, some 500,000 will be black men’s votes.
