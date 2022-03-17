@@ -1,4 +1,4 @@
-# Socialism and the Negro (1922)
+# Socialism and the Negro (1921)
 
 
 We have an interesting letter from John H. Owens of Washington, which we would like to publish in full but can only note certain extracts. Mr. Owens says, in answer to the editorial in the July **Crisis** on “The Negro and Radical Thought”: “Is there not just the bare possibility that some of the issues which you consider subordinate to your central idea (of the emancipation of the Negro) might possess the neucleus of a tangible and definite solution?”
@@ -27,4 +27,4 @@ I think these questions touch the center of much modern effort and reform. I mai
 
 
 _________________
-*Citation:* "Socialism and the Negro (1922)" Editorial. 1922. 22(6):245-247.
+*Citation:* "Socialism and the Negro (1921)" Editorial.  22(6):245-247.
