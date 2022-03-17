@@ -12,4 +12,4 @@ At this time of year, when we celebrate the birthdays of our two most famous Ame
 
 
 _________________
-*Citation:* "N.A.A.C.P." Editorial. 1910. *The Crisis*. 3(5): 200-201.
+*Citation:* "Lee" Editorial. 1912. *The Crisis*. 3(5): 200-201.
