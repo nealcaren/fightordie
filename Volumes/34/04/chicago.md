@@ -1,7 +1,8 @@
 # Chicago (1927)
 
-```The [1927 Chicago mayoral election](https://en.wikipedia.org/wiki/1927_Chicago_mayoral_election) featured Republican William Thomson running an America First campaign aligned with local organized crime, including Al Capone, against incumbent Democrat William Dever, who emphasized "decency" and anti-Black racism.
-``` 
+```{margin}
+The [1927 Chicago mayoral election](https://en.wikipedia.org/wiki/1927_Chicago_mayoral_election) featured Republican William Thomson running an America First campaign aligned with local organized crime, including Al Capone, against incumbent Democrat William Dever, who emphasized "decency" and anti-Black racism.
+```
 
 The late Chicago election was a serious misfortune. The Democratic mayor had previously made overtures to colored people. He had even spoken at the annual N.A.A.C.P. Conference. Thompson, the Republican, is a well-known demagogue, who represents open house to gamblers, bootleggers and prostitutes. Wise white Americans would have advised colored people in a campaign of this sort to vote for the Democrats. If they had been permitted, many far-sighted Negroes would have taken this advice. Indeed the most astute Negro politician in Chicago fought Thompson to the last in the Republican Primary and lost his city patronage when Thompson won.
 
