@@ -11,7 +11,7 @@ The silly Democrats of Chicago did not think that the intelligent Negro vote wou
 What was the result of this campaign? It resulted in bringing in race and national propaganda of other sorts: attacks upon England; appeals to the bitter memories of Germans and the like. But above all, it forced every Negro voter, no matter what his attitude toward Thompson was, to vote for Thompson and against Dever. He did not even dare throw his vote away on a third candidate. He was compelled to deliver himself bound hand and foot to one of the worse representatives of the Republican machine.
 
 ```{margin}
-Thompson won [more than 90%](https://en.wikipedia.org/wiki/1927_Chicago_mayoral_election) of the Black vote, which the Associated Press noted was decisive in his victory.
+Thompson won [more than 90%](https://en.wikipedia.org/wiki/1927_Chicago_mayoral_election) of the Black vote, which the Associated Press claimed was decisive in his victory.
 ```
 
 All of which brings us to remark: that for bull-headed asininity, commend us to the Democratic party; only in New York City and in Tammany Hall does it appear to have glimmerings of common sense.
