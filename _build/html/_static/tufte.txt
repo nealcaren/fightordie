@@ -1,5 +1,14 @@
 @charset "UTF-8";
 
+margin-right: auto;
+padding-right: 6%;
+padding-right: 15%;
+
+p {
+    text-align: justify;
+}
+
+
 /* Import ET Book styles
    adapted from https://github.com/edwardtufte/et-book/blob/gh-pages/et-book.css */
 

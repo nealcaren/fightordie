@@ -7,18 +7,31 @@ chapters:
 - file: socialchange
   sections:
   - file: Volumes/01/01/Agitation.md
+  - file: Volumes/04/04/politics.md
+  - file: Volumes/12/06/negro_party.md
   - file: Volumes/15/01/oath_of_the_negro_voter.md
   - file: Volumes/24/01/inter-racial_comity.md
+  - file: Volumes/24/01/publicity.md
 - file: NAACP
   sections:
   - file: Volumes/01/02/NAACP.md
   - file: Volumes/01/01/TheCrisis.md
   - file: Volumes/07/03/fightordie.md
+- file: Sections/lynching.md
+  sections:
+  - file: Volumes/02/04/lynching.md
+  - file: Volumes/08/03/cause_of_lynching.md
+  - file: Volumes/12/06/cowardice.md
   - file: Volumes/24/01/anti-lynching_legislation.md
+- file: Sections/racescience
+  sections:
+  - file: Volumes/02/04/races.md
 - file: Sections/segregation
   sections:
   - file: Volumes/01/01/Segregation.md
+  - file: Volumes/03/05/homes.md
   - file: Volumes/05/02/blesseddiscrimination.md
+  - file: Volumes/13/06/perpetual_dilemma.md
   - file: Volumes/17/03/jim_crow.md
 - file: Sections/criminal_justice
   sections:
@@ -26,12 +39,15 @@ chapters:
 - file: southernracism
   sections:
   - file: Volumes/03/04/light.md
+  - file: Volumes/12/06/migration.md
   - file: Volumes/24/01/slavery.md
 - file: Sections/labor
   sections:
+  - file: Volumes/03/06/servant_in_the_south.md
   - file: Volumes/15/05/the_black_man_and_the_unions.md
 - file: Sections/womansuffrage
   sections:
+  - file: Volumes/04/04/ohio.md
   - file: Volumes/09/06/womansuffrage.md
   - file: Volumes/09/03/agility.md
   - file: Volumes/15/01/votes_for_women.md
@@ -45,3 +61,7 @@ chapters:
   sections:
   - file: Volumes/09/01/worldwar.md
   - file: Volumes/17/04/reconstruction_and_africa.md
+- file: Sections/other
+  sections:
+  - file: Volumes/03/05/lee.md
+- file: random
