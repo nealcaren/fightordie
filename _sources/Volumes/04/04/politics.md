@@ -41,11 +41,13 @@ As to Mr. Wilson, there are, one must confess, disquieting facts: he was born in
 
 Notwithstanding such possible preferences, Woodrow Wilson is a cultivated scholar and he has brains. We know that there are several hundred millions of “Chinese, Jews and Negroes” who have to be reckoned with, and that the date at which the “blond beast” will inherit this earth has been, to put it mildly, indefinitely postponed. We have, therefore, a conviction that Mr. Wilson will treat black men and their interests with farsighted fairness. He will not be our friend, but he will not belong to the gang of which Tillman, Vardaman, Hoke Smith and Blease are the brilliant expositors. He will not advance the cause of oligarchy in the South, he will not seek further means of “Jim Crow” insult, he will not dismiss black men wholesale from office, and he will remember that the Negro in the United States has a right to be heard and considered; and if he becomes President by the grace of the black man’s vote, his Democratic successors may be more willing to pay the black man’s price of decent travel, free labor, votes and education.
 
-Outside of these two men, what else? We thank God that Theodore Roosevelt has been eliminated. How many black men, with the memory of Brownsville, could support such a man passes our comprehension. Of Eugene V. Debs, the Socialist candidate, we can only say this frankly: if it lay in our power to make him President of the United States we would do so, for of the four men mentioned he alone, by word and deed, stands squarely on a platform of human rights regardless of race or class.
 
 ```{margin}
-After losing the Republican nomination, Roosevelt, running under the banner of the Progressive Party, finished in second place to Wilson in the 1912 presidential elections. Debs came in fourth with 6%. 
+After losing the Republican nomination, Roosevelt, running under the banner of the Progressive Party, finished in second place to Wilson in the 1912 presidential elections. Debs came in fourth with 6%.
 ```
+
+
+Outside of these two men, what else? We thank God that Theodore Roosevelt has been eliminated. How many black men, with the memory of Brownsville, could support such a man passes our comprehension. Of Eugene V. Debs, the Socialist candidate, we can only say this frankly: if it lay in our power to make him President of the United States we would do so, for of the four men mentioned he alone, by word and deed, stands squarely on a platform of human rights regardless of race or class.
 
 _________________
 *Citation:* "Politics." Editorial. 1912. *The Crisis*. 4(4):180-181.
