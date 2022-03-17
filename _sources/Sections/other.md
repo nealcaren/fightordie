@@ -1,4 +1,4 @@
-# Miscelanious
+# Miscellaneous
 
 Editorials on other topics.
 
