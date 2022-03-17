@@ -1,5 +1,10 @@
 # Ohio (1912)
 
+
+```{margin}
+The Ohio suffrage amendment [failed in 1912 by 15%](https://ballotpedia.org/Ohio_Amendment_23,_Women%27s_Suffrage_Measure_(September_1912)). Male Wisconsin voters also turned down a suffrage amendment that year, although Arizona and Oregon both voted in favor. 
+```
+
 This fall the colored voters of Ohio have a wonderful opportunity; the 40,000 or 50,000 votes which they cast will undoubtedly decide whether women shall vote in that State and whether the last of the infamous black laws shall be swept from the statute book.
 
 The enfranchisement of women means the doubling of the black vote at the point where that vote is needed. If woman suffrage wins in Ohio, it will sweep the Middle West and East in less than a generation. As Negroes have a larger proportion of women than the whites our relative voting importance in the North will be increased.
