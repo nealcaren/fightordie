@@ -61,6 +61,9 @@ chapters:
   - file: Volumes/09/06/womansuffrage.md
   - file: Volumes/09/03/agility.md
   - file: Volumes/15/01/votes_for_women.md
+- file: Sections/race_riots
+  sections:
+  - file: Volumes/34/06/mob_tactics.md
 - file: Sections/intermarriage
   sections:
   - file: Volumes/05/02/intermarriage.md
