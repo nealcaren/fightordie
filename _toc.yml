@@ -42,6 +42,7 @@ chapters:
 - file: Sections/racism
   sections:
   - file: Volumes/03/04/light.md
+  - file: Volumes/12/05/conduct_not_color.md
   - file: Volumes/12/06/migration.md
   - file: Volumes/24/01/slavery.md
   - file: Volumes/34/09/prejudice.md
@@ -78,4 +79,5 @@ chapters:
 - file: Sections/other
   sections:
   - file: Volumes/03/05/lee.md
+  - file: Volumes/09/02/negro.md
 - file: random
