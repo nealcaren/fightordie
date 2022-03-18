@@ -4,7 +4,7 @@ Many persons have interpreted my reassertion of our current attitude toward segr
 
 Negroes are not extraordinary human beings. They are just like other human beings, with all their foibles and ignorance and mistakes. But they are human beings, and human nature is always worth knowing, and withal, splendid in its manifestations. Therefore, we are fighting to keep open the avenues of human contact; but in the meantime, we are taking every advantage of what opportunities of contact are already open. to us, and among those opportunities which are open, and which are splendid and inspiring, is the opportunity of Negroes to work together in the twentieth century for the uplift and development of the Negro race. It is no counsel of despair to emphasize and hail the opportunity for such work.
 
-**The Anti-Segregation Campaign**
+## The Anti-Segregation Campaign
 
 The assumptions of the anti-segregation campaign have been all wrong. This is not our fault, but it is our misfortune. When I went to Atlanta University to teach in 1897, and to study the Negro problem, I said, confidently, that the basic problem is our racial ignorance and lack of culture. That once Negroes know civilization, and whites know Negroes, then the problem is solved. This proposition is still true, but the solution is much further away that my youth dreamed. Negroes are still ignorant, but the disconcerting thing is that white people on the whole are just as much opposed to Negroes of education and culture, as to any other kind, and perhaps more so. Not all whites, to be sure, but the overwhelming majority.
 
@@ -19,13 +19,13 @@ Indeed, there is nothing else we can do. If you have passed your resolution, “
 If you are going to do this, why not say so? What are you afraid of? Do you believe in the Negro race or do you not? If you do not, naturally, you are justified in keeping still. But if you do believe in the extraordinary accomplishment of the Negro church and the Negro college, the Negro school and the Negro newspaper, then say so and say so plainly, not only for the sake of those who have given their lives to make these things worthwhile, but for those young people whom you are teaching, by that negative attitude, that there is nothing that they can do, nobody that they can emulate, and no field worthwhile working in. Think of what Negro art and literature has yet to accomplish if it can only be free and untrammeled by the necessity of pleasing white folks! Think of the splendid moral appeal that you can make to a million children tomorrow, if once you can get them to see the possibilities of the American Negro today and now, whether he is segregated or not, or in spite of all possible segregation.
 
 
-**Protest**
+## Protest
 
 Some people seem to think that the fight against segregation consists merely of one damned protest after another. That the technique is to protest and wail and protest again, and to keep this thing up until the gates of public opinion and the walls of segregation fall down.
 
 The difficulty with this program is that it is physically and psychologically impossible. It would be stopped by cold and hunger and strained voices, and it is an undignified and impossible attitude and method to maintain indefinitely. Let us, therefore, remember that this program must be modified by adding to it a positive side. Make the protest, and keep on making it, systematically and thoughtfully. Perhaps now and then even hysterically and theatrically; but at the same time, go to work to prepare methods and institutions which will supply those things and those opportunities which we lack because of segregation. Stage boycotts which will put Negro clerks in the stores which exploit Negro neighborhoods. Build a 15th Street Presbyterian Church, when the First Presbyterian would rather love Jesus without your presence. Establish and elaborate a Washington system of public schools, comparable to any set of public schools in the nation; and then when you have done this, and as you are doing it, and while in the process you are saving your voice and your temper, say softly to the world: see what a precious fool you are. Here are stores as efficiently clerked as any where you trade. Here is a church better than most of yours. Here are a set of schools where you should be proud to send your children.
 
-**The Conservation of Races**
+## The Conservation of Races
 
 The Second Occasional Papers published by The American Negro Academy was “The Conservation of Races” by W. E. B. DuBois, and was published in 1897. On page 11, I read with interest this bit:
 
@@ -37,7 +37,7 @@ The Second Occasional Papers published by The American Negro Academy was “The 
 
  On the whole, I am rather pleased to find myself still so much in sympathy with myself.
 
-**Methods of Attack**
+## Methods of Attack
 
 When an army moves to attack, there are two methods which it may pursue. The older method, included brilliant forays with bugles and loud fanfare of trumpets, with waving swords, and shining uniforms. In Coryn’s “The Black Eagle”, which tells the story of Bertrand du Guesclin, one sees that kind of fighting power in the fourteenth century. It was thrilling, but messy, and on the whole rather ineffective.
 
@@ -47,7 +47,7 @@ And this is the kind of method which we trust use to solve the Negro problem and
 
 The real battle is a matter of study and thought; of the building up of loyalties; of the long training of men; of the growth of institutions; of the inculcation of racial and national ideals. It is not a publicity stunt. It is a life.
 
-**The New Negro Alliance**
+## The New Negro Alliance
 
 ```{margin}
 The arrests of members of the New Negro Alliance led to a [Supreme Court decision](https://en.wikipedia.org/wiki/New_Negro_Alliance_v._Sanitary_Grocery_Co) in 1938 establishing the right to a labor picket.
