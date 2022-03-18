@@ -1,4 +1,4 @@
-# Mob Tactics
+# Mob Tactics (1927)
 
 There has been developed in the United States a regular technique in matters of mob violence. Matters move somewhat as follows:
 
