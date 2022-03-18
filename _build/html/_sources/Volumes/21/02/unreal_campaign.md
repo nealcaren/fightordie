@@ -4,7 +4,7 @@ Never have the American people endured such a Presidential campaign. It is true 
 
 But both sorts of Voters on November 2, 1920, were in maddening puzzlement. The League of Nations? There was no real difference between the parties; between Johnson and Wilson there was a world of argument; but Taft and Holt, Hoover and Cox? It was all a matter of punctuation and style. No man then could vote either the Republican or the Democratic ticket because he favored or opposed the League. And outside the League, What? Imperialism, labor and wage, the power of capital, the marketing of farm products, the building of homes, the training of children, the ownership of land, the freedom of suffrage—in these and all else the major parties were mere fog or reaction. Indeed the only real, stinging, fighting questions in the whole campaign were President Wilson and the Negro.
 
-***The Family Tree***
+**The Family Tree**
 
 The allegation was that the President-elect had a black man somewhere among his remote ancestors. Can you conceive how real a fury this query roused? How else could it be with our deliberate cultivation of race hate and with Pat Harrison of Mississippi heading one of the Speakers’ Bureaus?
 
