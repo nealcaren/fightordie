@@ -1,4 +1,4 @@
-Negro (1914)
+# Negro (1914)
 
 There are indications that the custom of extending courtesy to 150,000,000 of human beings by capitalizing the racial name which is most in use, is slowly increasing. The manager of the  Associated Press writes us:
 
