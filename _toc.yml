@@ -39,11 +39,12 @@ chapters:
 - file: Sections/criminal_justice
   sections:
    - file: Volumes/15/03/thirteen.md
-- file: Sections/southernracism
+- file: Sections/racism
   sections:
   - file: Volumes/03/04/light.md
   - file: Volumes/12/06/migration.md
   - file: Volumes/24/01/slavery.md
+  - file: Volumes/34/09/prejudice.md
 - file: Sections/economics
   sections:
   - file: Sections/labor
