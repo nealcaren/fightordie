@@ -57,7 +57,7 @@ We find ourselves in sudden and apparently complete agreement with our young fri
 
 Further than this, the alliance explains that what it is doing, is asking for clerks whose color in the main shall correspond to neighborhoods. If there is a store in a black neighborhood, there should be at least some black clerks in the store. With this, we quite agree, and say, as we said in the Chicago case, that this is fighting segregation with segregation. If there are, for instance (and there certainly are in Washington), segregated neighborhoods, don’t squat before segregation and bawl. Use segregation. Use every bit that comes your way and transmute it into power. Power that some day will smash all race separation. In the meantime, call it what you will. If the Negro Alliance wishes to say that it is not fighting segregation with segregation, it can call the thing that it is doing Transubstantiation or Willipuswallipus. Whatever they call it, that is what we both mean.
 
-**Negro Fraternities**
+## Negro Fraternities
 
 Nothing better illustrates our current philosophy and practice in segregation, than the rise and development of Negro fraternities in colleges. When I was a student, fraternities were not allowed in Negro colleges and in the white colleges almost no fraternity ever accepted a Negro member. For a long time, Negro students went their way accepting this situation. When given opportunity, they protested against the Color Line in fraternities, and in a few cases, where the admission to fraternities depended upon scholarship, they succeeded in breaking the Color Line.
 
