@@ -4,7 +4,7 @@ Many persons have interpreted my reassertion of our current attitude toward segr
 
 Negroes are not extraordinary human beings. They are just like other human beings, with all their foibles and ignorance and mistakes. But they are human beings, and human nature is always worth knowing, and withal, splendid in its manifestations. Therefore, we are fighting to keep open the avenues of human contact; but in the meantime, we are taking every advantage of what opportunities of contact are already open. to us, and among those opportunities which are open, and which are splendid and inspiring, is the opportunity of Negroes to work together in the twentieth century for the uplift and development of the Negro race. It is no counsel of despair to emphasize and hail the opportunity for such work.
 
-## The Anti-Segregation Campaign
+**The Anti-Segregation Campaign**
 
 The assumptions of the anti-segregation campaign have been all wrong. This is not our fault, but it is our misfortune. When I went to Atlanta University to teach in 1897, and to study the Negro problem, I said, confidently, that the basic problem is our racial ignorance and lack of culture. That once Negroes know civilization, and whites know Negroes, then the problem is solved. This proposition is still true, but the solution is much further away that my youth dreamed. Negroes are still ignorant, but the disconcerting thing is that white people on the whole are just as much opposed to Negroes of education and culture, as to any other kind, and perhaps more so. Not all whites, to be sure, but the overwhelming majority.
 
@@ -50,7 +50,7 @@ The real battle is a matter of study and thought; of the building up of loyaltie
 **The New Negro Alliance**
 
 ```{margin}
-The arrests of members of the New Negro Alliance led to a [Supreme Court decision](New Negro Alliance v. Sanitary Grocery Co.) in 1938 establishing the right to a labor picket.
+The arrests of members of the New Negro Alliance led to a [Supreme Court decision](https://en.wikipedia.org/wiki/New_Negro_Alliance_v._Sanitary_Grocery_Co) in 1938 establishing the right to a labor picket.
 ```
 
 We find ourselves in sudden and apparently complete agreement with our young friends of Washington. It seems that the alliance fell afoul of ordinances against picketing, but that this did not result altogether in failure. Two pickets were arrested, and finally, after a month or so, the complaints were dismissed. In another case, a complaint and temporary injunction is still being fought out before the courts. This is fine. We are glad that the picketing has met with so much of success and we hope that in Washington, as in Chicago, ultimate success will come.
