@@ -7,7 +7,9 @@ We have an interesting letter from John H. Owens of Washington, which we would l
 
 There is more than a bare possibility, and the Negro must study proposals and reforms with great care to see if they do not carry with them some help in the solution of his problem. But he must not assume that because a proposed solution settles many important human problems, for this reason it is necessarily going to settle his.
 
-Mr. Owens continues: “The Negro group is almost a pure proletarian group,—this fact admits of no denial. Above 90 per cent. of the Negroes are unskilled, untrained workers, and unorganized. Thus it would seem that the race as a whole has less reason to be suspicious of any movement of a proletarian nature than of some scheme which offers a questionable solution for the ills of the talented minority.”
+Mr. Owens continues:
+
+> “The Negro group is almost a pure proletarian group,—this fact admits of no denial. Above 90 per cent. of the Negroes are unskilled, untrained workers, and unorganized. Thus it would seem that the race as a whole has less reason to be suspicious of any movement of a proletarian nature than of some scheme which offers a questionable solution for the ills of the talented minority.”
 
 The Negro has little reason to be suspicious of a proletarian movement if that movement is for the good of the proletariat; but it does not follow that all movements proposed by the proletariat themselves are for their own good. The workers of the world are, through no fault of their own, ignorant, inexperienced men. It is not for a moment to be assumed that movements into which they are drawn or which they themselves initiate are necessarily the best for them. If, however, the Negro sees a movement for the proletariat which, after careful thought and experience, he is convinced is for the good of the working class, then as a worker he is bound to give every aid to such a movement.
 
