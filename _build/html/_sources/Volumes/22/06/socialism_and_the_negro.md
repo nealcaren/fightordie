@@ -1,7 +1,7 @@
 # Socialism and the Negro (1921)
 
 
-We have an interesting letter from John H. Owens of Washington, which we would like to publish in full but can only note certain extracts. Mr. Owens says, in answer to the editorial in the July **Crisis** on “[The Negro and Radical Thought](../Volumes/22/03/negro_and_radical_thought.md)”: “Is there not just the bare possibility that some of the issues which you consider subordinate to your central idea (of the emancipation of the Negro) might possess the neucleus of a tangible and definite solution?”
+We have an interesting letter from John H. Owens of Washington, which we would like to publish in full but can only note certain extracts. Mr. Owens says, in answer to the editorial in the July **Crisis** on “[The Negro and Radical Thought](../03/negro_and_radical_thought.md)”: “Is there not just the bare possibility that some of the issues which you consider subordinate to your central idea (of the emancipation of the Negro) might possess the neucleus of a tangible and definite solution?”
 
 There is more than a bare possibility, and the Negro must study proposals and reforms with great care to see if they do not carry with them some help in the solution of his problem. But he must not assume that because a proposed solution settles many important human problems, for this reason it is necessarily going to settle his.
 
