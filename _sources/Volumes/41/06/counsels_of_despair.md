@@ -70,4 +70,4 @@ This fraternity movement: has spread all over the United States. It has resulted
 *Editors Note: This is the final editorial written by Du Bois for The Crisis.*
 
 _________________
-*Citation:* Counsels of Despair." 1934. Editorial.  41(6):182-184.
+*Citation:* "Counsels of Despair." 1934. Editorial.  41(6):182-184.

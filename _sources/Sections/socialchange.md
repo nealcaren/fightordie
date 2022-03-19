@@ -1,6 +1,6 @@
-# Strategy
+# Politics
 
-Editorials on politics, protest and social change.
+Editorials on electoral politics, protest and movement strategy.
 
 ```{tableofcontents}
 ```
