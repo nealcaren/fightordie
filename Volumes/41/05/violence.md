@@ -1,4 +1,4 @@
-# Violence
+# Violence (1934)
 
 A certain group of young, American Negroes, inspired by white Radicals, are distinctly looking toward violence as the only method of settling the Negro problems.
 
