@@ -6,16 +6,21 @@ root: intro
 chapters:
 - file: Sections/socialchange
   sections:
-  - file: Volumes/01/01/Agitation.md
-  - file: Volumes/04/04/politics.md
-  - file: Volumes/12/06/negro_party.md
-  - file: Volumes/15/01/oath_of_the_negro_voter.md
-  - file: Volumes/21/02/unreal_campaign.md
-  - file: Volumes/22/01/drive.md
-  - file: Volumes/22/01/inter-racial_comity.md
-  - file: Volumes/24/01/publicity.md
-  - file: Volumes/34/04/chicago.md
-  - file: Volumes/41/06/counsels_of_despair.md
+  - file: Sections/protest
+    sections:
+    - file: Volumes/01/01/Agitation.md
+    - file: Volumes/12/06/negro_party.md
+    - file: Volumes/22/01/inter-racial_comity.md
+    - file: Volumes/24/01/publicity.md
+    - file: Volumes/41/05/violence.md
+    - file: Volumes/41/06/counsels_of_despair.md
+  - file: Sections/electoral
+   sections:
+    - file: Volumes/04/04/politics.md
+    - file: Volumes/15/01/oath_of_the_negro_voter.md
+    - file: Volumes/21/02/unreal_campaign.md
+    - file: Volumes/22/01/drive.md
+    - file: Volumes/34/04/chicago.md
 - file: Sections/NAACP
   sections:
   - file: Volumes/01/02/NAACP.md
