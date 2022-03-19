@@ -15,7 +15,7 @@ chapters:
     - file: Volumes/41/05/violence.md
     - file: Volumes/41/06/counsels_of_despair.md
   - file: Sections/electoral
-   sections:
+    sections:
     - file: Volumes/04/04/politics.md
     - file: Volumes/15/01/oath_of_the_negro_voter.md
     - file: Volumes/21/02/unreal_campaign.md
