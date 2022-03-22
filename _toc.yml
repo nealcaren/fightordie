@@ -14,6 +14,9 @@ chapters:
     - file: Volumes/24/01/publicity.md
     - file: Volumes/41/05/violence.md
     - file: Volumes/41/06/counsels_of_despair.md
+  - file: Sections/voting
+    sections:
+    - file: Volumes/30/02/disenfranchisement.md
   - file: Sections/electoral
     sections:
     - file: Volumes/04/04/politics.md
