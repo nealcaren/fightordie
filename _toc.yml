@@ -17,6 +17,7 @@ chapters:
   - file: Sections/voting
     sections:
     - file: Volumes/30/02/disenfranchisement.md
+    - file: Volumes/36/05/negro_citizen.md
   - file: Sections/electoral
     sections:
     - file: Volumes/04/04/politics.md
