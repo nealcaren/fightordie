@@ -20,4 +20,4 @@ Here is a dilemma calling for thought and forbearance. Not every builder of raci
 
 
 ______________
-*Citation:* "Slavery" Editorial. 1919. *The Crisis*. 17(3): 112-13.
+*Citation:* "Jim Crow" Editorial. 1919. *The Crisis*. 17(3): 112-13.

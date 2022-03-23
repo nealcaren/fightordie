@@ -1,13 +1,11 @@
 # Slavery (1921)
 
-```{margin} **For example**
-Here's some margin content! It was created by using the
+```{margin}
+[John S. Williams](https://law.jrank.org/pages/2818/John-S-Williams-Clyde-Manning-Trials-1921-Murdering-Evidence-Peonage.html) owned a Georgia plantation and when a investigation began into the conditions of his workers, he had nine of his *peons* murdered so they could not testify against him. 
 ```
 
 Slavery still exists in the United States. In the courts of Carolina, Georgia, Alabama, Mississippi, Louisiana, Arkansas and Texas, human beings are daily sold into slavery to men like the murderer Williams of Jasper County, Georgia.
-```{margin} **For example**
-Here's some margin content! It was created by using the
-```
+
 Throughout the South—but especially in the Mississippi and Red River bottoms, from Memphis south; in middle and south Georgia and Ala­bama; and in the Brazos bottoms of Texas—Negroes are held today in as complete and awful and soul destroying slavery as they were in 1860. Their overseers ride with guns and whips; their women are prostitutes to white owners and drivers; their children are trained in ignorance, im­morality and crime.
 
 

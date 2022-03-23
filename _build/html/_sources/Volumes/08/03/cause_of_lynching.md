@@ -8,4 +8,4 @@ We have no way of proving these assertions; but they have many ear-marks of trut
 
 
 ________________
-*Citation:* "Lynching" Editorial. 1911. *The Crisis*. 8(3): 126-127.
+*Citation:* "The Cause of Lynching" Editorial. 1914. *The Crisis*. 8(3): 126-127.
