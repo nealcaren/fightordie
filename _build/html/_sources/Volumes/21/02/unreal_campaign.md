@@ -4,7 +4,7 @@ Never have the American people endured such a Presidential campaign. It is true 
 
 But both sorts of Voters on November 2, 1920, were in maddening puzzlement. The League of Nations? There was no real difference between the parties; between Johnson and Wilson there was a world of argument; but Taft and Holt, Hoover and Cox? It was all a matter of punctuation and style. No man then could vote either the Republican or the Democratic ticket because he favored or opposed the League. And outside the League, What? Imperialism, labor and wage, the power of capital, the marketing of farm products, the building of homes, the training of children, the ownership of land, the freedom of suffrage—in these and all else the major parties were mere fog or reaction. Indeed the only real, stinging, fighting questions in the whole campaign were President Wilson and the Negro.
 
-**The Family Tree**
+## The Family Tree
 
 The allegation was that the President-elect had a black man somewhere among his remote ancestors. Can you conceive how real a fury this query roused? How else could it be with our deliberate cultivation of race hate and with Pat Harrison of Mississippi heading one of the Speakers’ Bureaus?
 
@@ -12,7 +12,7 @@ Suppose President Harding is colored—What of it? He would be but one of hundre
 
 Ohio, once the home of freedom, led in Anti-Negro propaganda, egged on by Cox and the new white southern immigration. “Timely warnings” to white folk were distributed by the hundred thousand declaring, “Ohioans should remember that the time has come when we must handle this problem in somewhat the same way as the South is handling it!” As a result many of the colored candidates for the legislature were defeated, but more were elected than ever before and many friends like Governor Davis, formerly Mayor of Cleveland, triumphed.
 
-**Third Parties**
+## Third Parties
 
 The third parties have made a singularly spiritless campaign. As residual legatees of all protest and unrest they did almost nothing to answer the searching query of desperate strivers for light. Not the ultimate dogma of Marxian socialism or the undigested hodge-podge of Farmer-Laborers sufficed. Men asked and were not answered: What is the next step and how does it lead to a definite, clearmarked way? The great mass of laboring people, the thrifty, hardworking farmers and small capitalists, lacked dismally here that leadership which through the great Labor party of England and the right wing Socialists of Italy are hewing, waveringly but stubbornly, a real path, leaving on the one side intransigeant communism and on the other, organized and reactionary theft. Not so America. We, the burden-bearers, could not even agree to disagree and delivered the masses bound into the hands of the Phillistines.
 

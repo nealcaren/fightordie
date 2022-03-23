@@ -100,7 +100,7 @@ Nor is this all. Because of the rotten boroughs of the South, real Democratic go
 
 So long as this party holds this grip on 114 electoral votes despite argument, with no reference to dominant political questions and with no reference to the way in which votes are actually cast, this party cannot be displaced by a Third Party. With no Third Party corrective for a discredited minority, democratic government becomes simply impossible without something resembling revolution.
 
-## Recent Ele tions
+## Recent Eletions
 
 When in 1912 Roosevelt tried to appeal to liberal thought in the United States against the reactionary Republicans and the bourbon Democrats, he only succeeded in putting the Democrats in power. When La Follette tried to do the same thing in 1924, he simply scared the country into larger reaction, since they realized that they had to choose between bourbon Democracy and organized privilege.
 
