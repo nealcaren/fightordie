@@ -23,6 +23,5 @@ If the South or the North wants de­ cent domestic service it must
 
 The people that are unwilling to do this will find the "servant problem" always with them, even though they nickname it a "Negro" problem.
 
-
 _________________
 *Citation:* "Servant in the South" Editorial. 1912. *The Crisis*. 3(5): 200-201.

@@ -18,6 +18,8 @@ chapters:
     sections:
     - file: Volumes/30/02/disenfranchisement.md
     - file: Volumes/36/05/negro_citizen.md
+    - file: Volumes/36/11/negro_in_politics.md
+
   - file: Sections/electoral
     sections:
     - file: Volumes/04/04/politics.md
@@ -72,6 +74,7 @@ chapters:
   - file: Sections/socialism
     sections:
     - file: Volumes/22/03/negro_and_radical_thought.md
+    - file: Volumes/22/04/class_struggle.md
     - file: Volumes/22/06/socialism_and_the_negro.md
     - file: Volumes/22/06/single_tax.md
     - file: Volumes/35/11/dunbar_national_bank.md
