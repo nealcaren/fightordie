@@ -1,5 +1,7 @@
 # A University Course in Lynching (1923)
 
+[comment]: <>  Testing comments.
+
 We are glad to note that the University of Missouri has opened a course in Applied Lynching. Many of our American Universities have long defended the institution, but they have not been frank or brave enough actually to arrange a mob murder so that the students could see it in detail.
 
 ```{margin}
