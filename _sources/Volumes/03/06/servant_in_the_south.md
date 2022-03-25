@@ -15,7 +15,7 @@ South tries this there is a mawkish sentimentality throughout the North to encou
 
 If people pay their laborers low wages and cheat them out of even these, they will get cheap labor, whether that labor be black, white or blue.
 
-If the South or the North wants de­ cent domestic service it must
+If the South or the North wants de­cent domestic service it must
 
 1. Pay decent wages.
 2. Give shorter hours and more definite duties.
