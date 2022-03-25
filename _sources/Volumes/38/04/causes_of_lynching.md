@@ -8,7 +8,7 @@ This group was put together by the Commission on Interracial Cooperation and rel
 
 We have nothing but praise for the Southern Commission on the study of lynching. It has eleven members: the white members are: George F. Milton, Dr. W. J. McGlothlin, W. P. King, Julian Harris, Dr. Edward W. Odum[^odum]: My footnote text. and Alexander Spence. The colored members are: Dr. R. R. Moton, Dr. John Hope, Dr. Charles S. Johnson, President B. F. Hubert and Professor John Work.
 
-[^odum]: Edward W. Odum is incorrect. It should be Howard W. Odum.
+[^odum]: It should be Howard W. Odum, not Edward W. Odum.
 
 At the same time, we know the temptation that faces such a committee working in the South. They are almost forced to be diplomatic before they are absolutely truthful. We trust, therefore, that they are going to be brave enough to say this plain word about lynching: the cause of lynching lies in ignorance, economic exploitation, religious intolerance, political disfranchisement, and sex prejudice.
 
