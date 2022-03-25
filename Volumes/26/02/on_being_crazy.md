@@ -1,4 +1,4 @@
-# On Being Crazy
+# On Being Crazy (1923)
 
 I was one o'clock and I was hungry. I walked into a restaurant, seated myself and reached for the bill-of-fare. My table companion rose.
 
