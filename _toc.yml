@@ -9,6 +9,7 @@ chapters:
   - file: Sections/protest
     sections:
     - file: Volumes/01/01/Agitation.md
+    - file: Volumes/19/01/statement.md
     - file: Volumes/12/06/negro_party.md
     - file: Volumes/22/01/inter-racial_comity.md
     - file: Volumes/24/01/publicity.md
@@ -74,6 +75,7 @@ chapters:
     sections:
     - file: Volumes/03/06/servant_in_the_south.md
     - file: Volumes/15/05/the_black_man_and_the_unions.md
+    - file: Volumes/18/05/labor_omnia_vincit.md
   - file: Sections/socialism
     sections:
     - file: Volumes/22/03/negro_and_radical_thought.md
@@ -115,4 +117,5 @@ chapters:
     sections:
     - file: Volumes/03/05/lee.md
     - file: Volumes/09/02/negro.md
+    - file: Volumes/18/03/reconstruction.md
 - file: random
