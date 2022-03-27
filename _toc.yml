@@ -4,7 +4,6 @@
 format: jb-book
 root: intro
 chapters:
-- file: toc.md
 - file: Sections/socialchange
   sections:
   - file: Sections/protest
