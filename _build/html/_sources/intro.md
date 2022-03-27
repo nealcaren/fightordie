@@ -13,8 +13,3 @@ W. E. B. Dubois in the office of The Crisis. Source: [Schomburg Center for Resea
 
 
 This is an ongoing project to make available some of the editorials published by The Crisis, the official journal of the NAACP, between 1910 and 1934, when it was edited by W. E. B. Du Bois.
-
-![](Images/cartoon_desk.png)
-
-```{tableofcontents}
-```
