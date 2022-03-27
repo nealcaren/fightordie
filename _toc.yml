@@ -96,6 +96,7 @@ chapters:
 - file: Sections/race_riots
   sections:
   - file: Volumes/34/06/mob_tactics.md
+  - file: Volumes/19/03/brothers_come_north.md
 
 - file: Sections/other
   sections:
@@ -108,6 +109,7 @@ chapters:
   - file: Sections/intermarriage
     sections:
     - file: Volumes/05/02/intermarriage.md
+    - file: Volumes/19/03/sex_equality.md
   - file: Sections/reparations
     sections:
     - file: Volumes/24/02/whitecharity.md
