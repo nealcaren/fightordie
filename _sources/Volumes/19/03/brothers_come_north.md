@@ -1,4 +1,4 @@
-# Brothers, Come North
+# Brothers, Come North (1919)
 
 The migration of Negroes from South to North continues and ought to continue. The North is no paradise—as East St. Louis, Washington, Chicago, and Omaha prove; but the South is at best a system of caste and insult and at worst a Hell. With ghastly and persistent regularity, the lynching of Negroes in the South continues— every year, every month, every day; wholesale murders and riots have taken place at Norfolk, Longview, Arkansas, Knoxville, and 24 other places in a single year. The outbreaks in the North have been fiercer, but they have quickly been curbed; no attempt has been made to saddle the whole blame on Negroes; and the cities where riots have taken place are today safer and better for Negroes than ever before.
 
@@ -8,7 +8,8 @@ There are, to be sure, Voices in the South—wise Voices and_ troubled Conscienc
 
 > “As an American citizen the Negro is entitled to life, liberty, and the pursuit of happiness, and the equal protection of our laws for the safeguarding of these inalienable rights. ... None but the most prejudiced Negro-hater, who oftentimes goes to the extreme of denying that any black man can have a white soul, would controvert the proposition that in the administration of quasi-public utilities and courts of justice the Negro is entitled to the fair and equal protection of the law. ... The meanest Negro on a southern plantation is entitled to the same consideration in the administration of justice as the proudest scion of a cultured cavalier.”
 
-```The [Elaine massacre](https://en.wikipedia.org/wiki/Elaine_massacre) was one of the worst mass killings of African-Americans in the United States.
+```{margin}
+The [Elaine massacre](https://en.wikipedia.org/wiki/Elaine_massacre) was one of the worst mass killings of African-Americans in the United States.
 ```
 
 Yet when he ran for Governor of Arkansas, he vehemently denied and explained away his liberal Negro sentiments,—and when the “uprising” occurred in Phillips. County, he let the slave barons make their own investigation, murder the innocent, and railroad ignorant, honest laborers to imprisonment and death in droves; contrast this with the actions of Governor Lowden of Illinois and Mayor Smith of Omaha!
