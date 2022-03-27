@@ -13,7 +13,7 @@ parse:
   myst_enable_extensions:
     - smartquotes
 
-    
+
 # Define the name of the latex output file for PDF builds
 latex:
   latex_documents:
@@ -34,7 +34,7 @@ repository:
 html:
   use_issues_button: false
   use_repository_button: false
-  extra_navbar: false
+  extra_navbar: ""
 
 sphinx:
   config:
