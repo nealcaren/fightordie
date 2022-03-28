@@ -106,6 +106,7 @@ chapters:
   - file: Sections/criminal_justice
     sections:
      - file: Volumes/15/03/thirteen.md
+     - file: Volumes/19/04/crime.md
   - file: Sections/intermarriage
     sections:
     - file: Volumes/05/02/intermarriage.md
@@ -117,6 +118,7 @@ chapters:
     sections:
     - file: Volumes/09/01/worldwar.md
     - file: Volumes/17/04/reconstruction_and_africa.md
+    - file: Volumes/19/03/race_pride.md
   - file: Sections/misc
     sections:
     - file: Volumes/03/05/lee.md

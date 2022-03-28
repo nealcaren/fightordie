@@ -1,4 +1,4 @@
-# Brothers, Come North (1919)
+# Brothers, Come North (1920)
 
 The migration of Negroes from South to North continues and ought to continue. The North is no paradise—as East St. Louis, Washington, Chicago, and Omaha prove; but the South is at best a system of caste and insult and at worst a Hell. With ghastly and persistent regularity, the lynching of Negroes in the South continues— every year, every month, every day; wholesale murders and riots have taken place at Norfolk, Longview, Arkansas, Knoxville, and 24 other places in a single year. The outbreaks in the North have been fiercer, but they have quickly been curbed; no attempt has been made to saddle the whole blame on Negroes; and the cities where riots have taken place are today safer and better for Negroes than ever before.
 
@@ -29,4 +29,4 @@ Meantime, if the South really wants the Negro and wants him at his best, it can 
 
 
 ______________
-*Citation:* Du Bois, W.E.B. 1919. "Brothers, Come North." *The Crisis*. 19(3): 105-106.
+*Citation:* Du Bois, W.E.B. 1920. "Brothers, Come North." *The Crisis*. 19(3): 105-106.
