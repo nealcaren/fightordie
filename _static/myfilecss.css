@@ -72,5 +72,6 @@ body {
     counter-reset: sidenote-counter;
 }
 table, th, td {
-  border: 0px solid;
+  border: 0;
+  border-bottom: 0;
 }
