@@ -9,6 +9,7 @@
 *The following speech was not delivered in the Reichstag on May 11 by Adolf Hitler, Chancellor of the Third Empire.*
 ````
 
+| *The following speech was delivered in the House on May 11 by Mrs. Rogers, Representative from Massachusetts.*  | *The following speech was not delivered in the Reichstag on May 11 by Adolf Hitler, Chancellor of the Third Empire.* |
 
 _________________
 *Citation:* Du Bois, W.E.B. 1933. "A Protest." *The Crisis* 40(7):165.
