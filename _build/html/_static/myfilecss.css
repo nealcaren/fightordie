@@ -71,3 +71,7 @@ body {
     max-width: 1400px;
     counter-reset: sidenote-counter;
 }
+table, th, td {
+  border: 0;
+  border-bottom: 0;
+}
