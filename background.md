@@ -18,14 +18,11 @@ his is not the time for adverse expressions of non-patriotic senti- ments
 
 116,117
 
-‘Returning Soldiers,’’ Crisis 18 (May 1919): 13-14;
-‘The Riot at Longview, Texas,’’ Crisis 18 (Oct. 1919): 297-98; 
+‘The Riot at Longview, Texas,’’ Crisis 18 (Oct. 1919): 297-98;
 
 ‘‘Danger,’’ Crisis 19 (Feb. 1920): 169.
 
-Close Ranks "July 2018" (9)
 ‘Roosevelt,’’ Crisis 14 [Aug. 1917]: 164
-‘Close Ranks,’’ Crisis 16 ( July 1918): 111.
 
 Crisis 13(Apr. 1917): 270-271
  ‘‘The Perpetual Dilemma,’’ Crisis 13 (Apr. 1917): 270-1.

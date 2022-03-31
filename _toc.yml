@@ -62,12 +62,16 @@ chapters:
   - file: Volumes/17/03/jim_crow.md
   - file: Volumes/18/01/returning_soldiers.md
   - file: Volumes/26/02/on_being_crazy.md
+  - file: Volumes/41/02/naacp_and_race_segregation.md
+  - file: Volumes/41/04/segregation_in_the_north.md
   - file: Volumes/41/05/segregation.md
   - file: Volumes/40/03/Color_caste_in_the_united_states.md
+
 
 - file: Sections/racism
   sections:
   - file: Volumes/03/04/light.md
+  - file: Volumes/06/02/logic.md
   - file: Volumes/12/05/conduct_not_color.md
   - file: Volumes/12/06/migration.md
   - file: Volumes/24/01/slavery.md
