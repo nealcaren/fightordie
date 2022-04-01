@@ -2,7 +2,7 @@
 
 # Toward a New Racial Philosophy (1933)
 
-A college graduate came to me yesterday and asked: “What has the N.A.A.C.P. published concerning the present problems of the Negro, and especially of young Negroes just out of college ?”
+A college graduate came to me yesterday and asked: “What has the N.A.A.C.P. published concerning the present problems of the Negro, and especially of young Negroes just out of college?”
 
 I started to answer with stereotyped remarks; and then I said suddenly, “Nothing.”
 
@@ -13,7 +13,7 @@ Today the situation has changed enormously in its trend, objects and details, an
 1. *Birth*. The physical survival of the Negro in America is discussed in this number.
 
 2. *Health*. In February, we shall ask: How can the infant mortality, the great loss from sickness and the general death rate among Negroes, be lowered? What is the duty of colored physicians toward  Negro health? What is the extent of available hospitalization? How can we extend the life term and meet such enemies of our race as tuberculosis, pneumonia, syphilis and cancer.
-
+    <br/><br/>
     Later, we shall treat our problems in something like the following order:
 
 3. *The Home*. Should a Negro family live in the city or in the country, in the North or in the South, in a single house or in an apartment? And on what facts should an individual family base its decision? How can housework be reduced and systematized? Must paid household help be an ideal? Should Negroes seek to live in their own neighborhoods or in white neighborhoods?
