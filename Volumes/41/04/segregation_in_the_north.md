@@ -80,4 +80,4 @@ Moreover if association and contact with Negroes is distasteful to you, what is 
 
 
 _________________
-*Citation:* "Segregation in the North." 1934. Editorial.  41(4):115-117.
+*Citation:* Du Bois, W.E.B. 1934. "Segregation in the North."  41(4):115-117.
