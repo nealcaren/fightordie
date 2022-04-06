@@ -1,7 +1,5 @@
 
-# The Black Man and the Wounded World (1923)
-
-### A History of the Negro Race in the World War and After
+# The Black Man and the Wounded World - A History of the Negro Race in the World War and After (1923)
 
 *Chapter 1. Interpretations*
 
