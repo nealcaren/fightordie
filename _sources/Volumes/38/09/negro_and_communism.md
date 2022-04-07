@@ -62,9 +62,9 @@ The quintessence and final expression of this leadership is the N.A.A.C.P. For t
 
 The N.A.A.C.P. years ago laid down a clear and distinct program. Its object was to make 12 million Americans:
 
-*Physically free from peonage,
-    Mentally free from ignorance,
-    Politically free from disfranchisement,
+*Physically free from peonage,    
+    Mentally free from ignorance,     
+    Politically free from disfranchisement,    
      Socially free from insult.*
 
 Limited as this platform may seem to perfectionists, it is so far in advance of anything ever attempted before in America, that it has gained an extraordinary following. On this platform we have succeeded in uniting white and black, employers and laborers, capitalists and communists, socialists and reformers, rich and poor. The funds which support this work come mainly from poor colored people, but on the other hand, we have in 20 years of struggle, enlisted the sympathy and cooperation of the rich, the white and the powerful; and so long as this cooperation is given upon the basis of the platform we have laid down, we seek and welcome it. On the other hand, we know perfectly well that the platform of the N.A.A.C.P. is no complete program of social reform. It is a pragmatic union of certain definite problems, while far beyond its program lies the whole question of the future of the darker races and the economic emancipation of the working classes.
