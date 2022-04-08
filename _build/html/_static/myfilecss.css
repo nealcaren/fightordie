@@ -76,3 +76,9 @@ table, th, td {
   border: 0;
   border-bottom: 0;
 }
+
+@media print {
+  background-color: #FFFFFF;
+  width: 55%;
+
+}

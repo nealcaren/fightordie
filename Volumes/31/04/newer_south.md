@@ -1,4 +1,4 @@
-# The New South (1926)
+# The Newer South (1926)
 
 The New South of Henry Grady had nothing new for the Negro. And since that time thoughtful Negroes have received professions of friendship on the part of the white South with much salt. Nor can they be blamed for this: lynching, “Jim-Crow” cars, poor schools, segregation and insult form a difficult atmosphere in which to breathe the air of freedom, friendship and hope. But there can be no doubt but that the white South is changing; there is nothing revolutionary as yet, but leaven is working. Today as never before since 1863 there can be found in the white South a few intelligent and determined people who are willing to recognize black men as men— not as Super-men nor as morons, but as men. This group is not large; in no community is it in majority; only here and there is it self-conscious and vocal. But it exists and it is slowly growing in numbers and courage.
 
@@ -18,7 +18,6 @@ But all those symptoms are of but passing significance except as they indicate t
 *First*, the definite breaking up of the effort of the South to present morally and socially a solid front to the world. The South is beginning to realize that the fight for righteousness in its borders as elsewhere in the world cannot conceal itself behind the apparent absolute agreement of all southern whites on the Negro problems. Until the Better South is willing openly and flatly to take a stand and to fight the Bourbon race reactionaries, they will find themselves circumvented and represented by the Worst South. There are signs that a few Southerners, and especially the younger men and women, are realizing this and are prepared to pay the heavy price.
 
 *Secondly*, just as the South has hitherto heard with sympathetic and even exaggerated patience and respect the demands of extreme white Southern Negro haters, so too they must be willing now to listen to Negro “radicals”. To read out of the congregation of decent, reasonable and law-abiding people those black folk who demand the ballot, equal education, the abolition of “Jim Crow” legislation, the abrogation of laws and customs which protect and encourage bastardy and prostitution, and right of social equals to social equality with those who wish it—to lynch such men morally is a coward’s trick and a scoundrel’s subterfuge and there are southern white men today who realize this as never before. To such men and to such women in the dawn of the nineteen hundred and twenty-sixth year of the Prince of Peace, our hand and heart, comrades.
-
 
 ________________
 *Citation:* Du Bois, W.E.B. 1926. "The Newer South."  31(4):163-165.
