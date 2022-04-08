@@ -13,10 +13,10 @@ Which version figures: is true? See the figures:
 
 ![](../../../Images/detroit_pop.png)
 
-Negro Population of Detroit
-1900.. 4,111
-1910.. 5,741
-1920. .40,838
-1925. .60,000 (estimated)
+*Negro Population of Detroit*
+1900 .. 4,111     
+1910 .. 5,741     
+1920 .. 40,838      
+1925 .. 60,000 (estimated)     
 
 Two thirds of this population in 1920 were crowded into three wards— the Third, Fifth and Seventh. Meantime the total population of Detroit has more than doubled in ten years and the people have reached out on all sides to new dwelling places. Have the Negroes no right to rush too? Is it not their duty to seek better homes and, if they do, are they not bound to “move into white neighborhoods” which is simply another way of saying “move out of congested slums”?
