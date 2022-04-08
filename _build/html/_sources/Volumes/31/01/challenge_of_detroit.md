@@ -11,7 +11,7 @@ Immediately a red and awful challenge confronts the nation. Must black folk shoo
 
 Which version figures: is true? See the figures:
 
-![](../../Images/detroit_pop.png)
+![](../../../Images/detroit_pop.png)
 
 Negro Population of Detroit
 1900.. 4,111
