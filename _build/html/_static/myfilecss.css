@@ -69,6 +69,7 @@ body {
     background-color: #fffff8;
     color: #111;
     max-width: 1400px;
+    text-align: justify;
     counter-reset: sidenote-counter;
 }
 table, th, td {
