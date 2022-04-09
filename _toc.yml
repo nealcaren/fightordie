@@ -2,7 +2,9 @@
 # Learn more at https://jupyterbook.org/customize/toc.html
 
 format: jb-book
-root: intro
+root: index
+title: Dare You Fight
+
 chapters:
 - file: toc
 - file: Sections/socialchange
