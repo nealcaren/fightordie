@@ -6,7 +6,7 @@ root: index
 title: Dare You Fight
 
 chapters:
-- file: toc
+- file: introduction
 - file: Sections/socialchange
   sections:
   - file: Sections/protest
