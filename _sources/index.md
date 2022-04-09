@@ -1,8 +1,4 @@
-# Dare You Fight - W.E.B Du Bois in *The Crisis*
-
-
-![](Images/nypl.digitalcollections.510d47dc-8fb3-a3d9-e040-e00a18064a99.001.w.jpg)
-*W. E. B. Dubois in the office of The Crisis. Source: [Schomburg Center for Research in Black Culture](https://digitalcollections.nypl.org/items/510d47dc-8fb3-a3d9-e040-e00a18064a99)*
+# Table of Contents
 
 
 
@@ -12,3 +8,6 @@ This is an ongoing project to make available some of the editorials published by
 
 ```{tableofcontents}
 ```
+
+![](Images/nypl.digitalcollections.510d47dc-8fb3-a3d9-e040-e00a18064a99.001.w.jpg)
+*W. E. B. Dubois in the office of The Crisis. Source: [Schomburg Center for Research in Black Culture](https://digitalcollections.nypl.org/items/510d47dc-8fb3-a3d9-e040-e00a18064a99)*
