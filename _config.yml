@@ -1,8 +1,8 @@
 # Book settings
 # Learn more at https://jupyterbook.org/customize/config.html
 
-title: Dare you Fight
-author: W. E. Burghardt Du Bois
+title: Dare you Fight: W.E.B. Du Bois in the Crisis
+author: William E. Burghardt Du Bois
 logo: logo.png
 
 # Force re-execution of notebooks on each build.
