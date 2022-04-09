@@ -1,5 +1,4 @@
-# Dare You Fight
-## W.E.B Du Bois in *The Crisis*
+# Dare You Fight - W.E.B Du Bois in *The Crisis*
 
 
 ![](Images/nypl.digitalcollections.510d47dc-8fb3-a3d9-e040-e00a18064a99.001.w.jpg)
