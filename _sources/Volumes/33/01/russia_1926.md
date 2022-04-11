@@ -1,0 +1,16 @@
+# Russia, 1926 (1926)
+
+I am writing this in Russia. I am sitting in Revolution Square opposite the Second House of the Moscow Soviets and in a hotel run by the Soviet Government. Yonder the sun pours into my window over the domes and eagles and pointed towers of the Kremlin. Here is the old Chinese wall of the inner city; there is the gilded glory of the Cathedral of Christ, the Savior. Thro’ yonder gate on the vast Red Square, Lenin sleeps his last sleep, with long lines of people peering each day into his dead and speaking face. Around me roars a city of two millions—Holy Moscow.
+
+I have been in Russia something less than two months. I did not see the Russia of war and blood and rapine. I know nothing of political prisoners, secret police and underground propaganda. My knowledge of the Russian language is sketchy and of this vast land, the largest single country on earth, I have traveled over only a small, a very small part.
+
+But I have had certain advantages; I have seen something of Russia. I have traveled over two thousand miles and visited four of its largest cities, many of its towns, the Neva, Dneiper, Moscow and Volga of its rivers, and stretches of land and village. I have looked into the faces of its races—Jews, Tartars, Gypsies, Caucasians, Armenians and Chinese. To help my lack of language I have had personal friends, whom I knew before I came to Russia, as interpreters. They were born in Russia and speak English, French and German. This, with my English, German and French, has helped the language difficulty, but did not, of course, solve it.
+
+I have not done my sight seeing and investigation in gangs and crowds nor according to the program of the official Foreign Bureau; but have in nearly all cases gone alone with one Russian speaking friend. In this way I have seen schools, universities, factories, stores, printing establishments, government offices, palaces, museums, summer colonies of children, libraries, churches, monasteries, boyar houses, theatres, moving-picture houses, day nurseries and co-operatives. I have seen some celebrations—self-governing children in a school house of an evening and 200,000 children and youths marching on Youth Day. I have talked with peasants and laborers, Commissars of the Republic, teachers and children.
+
+Alone and unaccompanied I have walked the miles of streets in Leningrad, Moskow, Nijni Novgorod and Kiev at morning, noon and night; I have trafficked on the curb and in the stores; I have watched crowds and audiences and groups. I have gathered some documents and figures, plied officials and teachers with questions and sat still and gazed at this Russia, that the spirit of its life and people might enter my veins.
+
+I stand in astonishment and wonder at the revelation of Russia that has come to me. I may be partially deceived and half-informed. But if what I have seen with my eyes and heard with my ears in Russia is Bolshevism, I am a Bolshevik.
+
+________________
+*Citation:* Du Bois, W.E.B. 1926. " Russia, 1926."  33(1):8.
