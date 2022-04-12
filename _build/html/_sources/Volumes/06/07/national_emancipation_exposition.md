@@ -2,7 +2,7 @@
 
 **In New York City, October 22-31, 1913**
 
- *The pageant of Negro history as written by W. E. B. Du Bois and produced by Charles Burroughs, Master; Daisy Tapley, Dora Cole Norman, Marie Stuart Jackson, Augustus G. Dill and 350 others, during the exhibition, and entitled “The People of Peoples and Their Gifts to Men.”
+ *The pageant of Negro history as written by W. E. B. Du Bois and produced by Charles Burroughs, Master; Daisy Tapley, Dora Cole Norman, Marie Stuart Jackson, Augustus G. Dill and 350 others, during the exhibition, and entitled “The People of Peoples and Their Gifts to Men.”*
 
 ## Prelude
 
@@ -18,7 +18,7 @@ The lights of the Court of Freedom blaze. A trumpet blast is heard and four hera
 
  Whereat comes the:
 
-### First Episode. The Gift of Iron:
+## First Episode. The Gift of Iron:
 
 The lights grow dim. The roar of beasts is heard and the crash of the storm. Lightnings flash. The dark figure of an African savage hurries across the foreground, frightened and cowering and _ dancing. Another follows defying the lightning and is struck down; others come until the space is filled with 100 huddling, crowding savages. Some brave the storm, some pray their Gods with incantation and imploring dance. Mothers shield their children, and husbands their wives. At last, dimly enhaloed in mysterious light, the Veiled Woman appears, commanding in stature and splendid in garment, her dark face faintly visible, and in her right hand Fire, and Iron in her left. As she passes slowly round the Court the rhythmic roll of tomtoms begins. Then music is heard; anvils ring at the four corners. The arts flourish, huts arise, beasts are brought in and there is joy, feasting and dancing.
 
@@ -36,7 +36,7 @@ There comes a strain of mighty music, dim in the distance and drawing nearer. Th
 
 Slowly all pass out save fifty savages, who linger examining their gifts. The lights grow dim as Egyptian culture dies and the fifty savages compose themselves to sleep. As they sleep the light returns and the heralds proclaim
 
-### The Third Episode, saying:
+## The Third Episode, saying:
 
 > “Hear ye, hear ye! All them that come to see the light and listen to the tale of the bravest and truest of the races of men, whose faces be black. Hear ye, hear ye, of the Third Gift of black men to this world—a Gift of Faith in Righteousness hoped for but unknown; men of the world, keep silence and hear ye this!”
 
@@ -50,7 +50,7 @@ Mansa Musa appears at the entrance with entourage on horseback, followed by blac
 
 The herald proclaims
 
-### The Fourth Episode, saying:
+## The Fourth Episode, saying:
 
 > “Hear ye, hear ye! All them that know the sorrow of the world. Hear ye, hear ye. and listen to the tale of the humblest and the mightiest of the races of men whose faces he black. Wear ye, hear ye, and learn how this race did suffer of Pain, of Death and Slavery and yet of this Humiliation did not die. Men of the world, keep silence and hear ye this!” The banners change again and say:
 
@@ -64,7 +64,7 @@ There is silence. Then a confused moaning. Out of the moaning comes the slave so
 
 Then the heralds proclaim
 
-### The Fifth Episode, saying:
+## The Fifth Episode, saying:
 
 > “Hear ye, hear ye! All them that strive and struggle. Hear ve, hear ye, and listen to the tale of the stoutest and the sturdiest of the races of men whose faces be black. Hear ye, hear ye, and learn how this race did rise out of slavery and the valley of the shadow of death. Men of the world, keep silence and hear ye this!”
 
@@ -78,7 +78,7 @@ Twenty-five Indians enter, circling the Court right and left, stealthily and wat
 
 The heralds proclaim
 
-### The Sixth Episode, saying:
+## The Sixth Episode, saying:
 
 > “Hear ye, hear ye! Citizens of New York, and learn of the deeds of eldest and strongest of the races of men whose faces be black. Hear ye, hear ye, of the Sixth and Greatest Gift of black men to the world, the Gift of Freedom for the workers. Men of New York, keep silence and hear ye this.” The banners change and say:
 
