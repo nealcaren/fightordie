@@ -9,6 +9,9 @@
  quence of postwar militancy among these more conservative journals when the Post Office Translation Bureau chief, Robert Bowen, held the May issue at the New York Post Office because of an editorial he deemed ‘‘seditious’’ and ‘‘insolently abusive of the country.’’ In ‘‘Re- turning Soldiers,’’ W. E. B. Du Bois seemed to be making up for his ‘‘Close Ranks’’ editorial.  (5)
 
 
+34(1) Moves to Postscript by WEB Dubois
+1927
+
 
 responsible for a great deal of the present negro unrest and disaffection. - 10
 

@@ -10,4 +10,4 @@ The function of this Association is to tell this nation the crying evil of race 
 
 
 ______________
-*Citation:* "Agitation" Editorial. 1910. *The Crisis*. 1(1): 11.
+*Citation:* Dubois, W.E.B. 1910. "Agitation."  1910. *The Crisis*. 1(1):11.

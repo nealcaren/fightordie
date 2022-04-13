@@ -10,4 +10,4 @@ Not a word for the colored family seeking a decent home; but if that family live
 
 
 _________________
-*Citation:* "Homes." Editorial. 1912. *The Crisis*. 3(5): 200-201.
+*Citation:* Du Bois, W.E.B. 1912. "Homes."  *The Crisis*. 3(5): 200-201.

@@ -18,4 +18,4 @@ Note these arguments, my brothers and sisters, and watch your State legislatures
 
 
 ______________
-*Citation:* "Intermarriage" Editorial. 1913. *The Crisis*. 5(4): 57.
+*Citation:* Du Bois, W.E.B. 1913. "Intermarriage."  *The Crisis*. 5(4): 57.
