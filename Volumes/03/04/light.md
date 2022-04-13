@@ -12,4 +12,4 @@ Of course, the scientific result will be small. For many years these young stude
 
 
 ______________
-*Citation:* "Light." Editorial. 1912. *The Crisis*. 3(4): 152-153.
+*Citation:* Du Bois, W.E.B. 1912. "Light." *The Crisis*. 3(4): 152-153.

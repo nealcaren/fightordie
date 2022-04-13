@@ -9,4 +9,4 @@ The result is mob and murder. The result is barbarism and cruelty. The result is
 
 
 _________________
-*Citation:* "Lynching" Editorial. 1911. *The Crisis*. 2(4): 158-159.
+*Citation:* Du Bois, W.E.B. 1911. "Lynching."  *The Crisis*. 2(4): 158-159.

@@ -2,7 +2,7 @@
 
 
 ```{margin}
-The Ohio suffrage amendment [failed in 1912 by 15%](https://ballotpedia.org/Ohio_Amendment_23,_Women%27s_Suffrage_Measure_(September_1912)). Male Wisconsin voters also turned down a suffrage amendment that year, although Arizona and Oregon both voted in favor. 
+The Ohio suffrage amendment [failed in 1912 by 15%](https://ballotpedia.org/Ohio_Amendment_23,_Women%27s_Suffrage_Measure_(September_1912)). Male Wisconsin voters also turned down a suffrage amendment that year, although Arizona and Oregon both voted in favor.
 ```
 
 This fall the colored voters of Ohio have a wonderful opportunity; the 40,000 or 50,000 votes which they cast will undoubtedly decide whether women shall vote in that State and whether the last of the infamous black laws shall be swept from the statute book.
@@ -27,4 +27,4 @@ Is there a single argument for the right of men to vote, or for the right of bla
 
 
 _________________
-*Citation:* "Ohio." Editorial. 1912. *The Crisis*. 4(4):181-182.
+*Citation:* Du Bois, W.E.B. 1912. "Ohio."  *The Crisis*. 4(4):181-182.

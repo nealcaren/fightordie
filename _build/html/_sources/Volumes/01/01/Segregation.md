@@ -8,4 +8,4 @@ This is the history of color discrimination in general in Philadelphia, New York
 The argument, then, for color discrimination in schools and in public institutions is an argument against democracy and an attempt to shift public responsibility from the shoulders of the public to the shoulders of some class who are unable to defend themselves.
 
 ______________
-*Citation:* Editorial. 1910. *The Crisis*. 1(1): 10-11.
+*Citation:* Du Bois, W.E.B. 1910. "Segregation." *The Crisis*. 1(1): 10-11.

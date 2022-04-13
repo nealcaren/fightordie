@@ -1,8 +1,5 @@
 # N.A.A.C.P. (1910)
 
-```{index} NAACP
-```
-
 What is the National Association for the Advancement of Colored People? It is a union of those who believe that earnest, active opposition is the only effective way of meeting the forces of evil. They believe that the growth of race prejudice in the United States is evil. It is not always consciously evil. Much of it is born of ignorance and misapprehension, honest mistake and misguided zeal. However caused, it is none the less evil, wrong, dangerous, fertile of harm. For this reason it must be combatted. It is neither safe nor sane to sit down dumbly before such human error or to seek to combat it with smiles and hushed whispers. Fight the wrong with every human weapon in every civilized way.  
 
 The National Association for the Advancement of Colored People is organized to fight the wrong of race prejudice:    
@@ -34,4 +31,4 @@ We are organized to fight this great modern danger. How may we fight it?
 If you think such work is worth while aid us by joining our organization and contributing to it.
 
 _________________
-*Citation:* "N.A.A.C.P." Editorial. 1910. *The Crisis*. 1(2): 16-17.
+*Citation:* Du Bois, W.E.B. 1910. "N.A.A.C.P."  *The Crisis*. 1(2): 16-17.
