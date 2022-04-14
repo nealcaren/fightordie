@@ -70,10 +70,11 @@ chapters:
   - file: Volumes/18/01/returning_soldiers.md
   - file: Volumes/26/02/on_being_crazy.md
   - file: Volumes/31/01/challenge_of_detroit.md
+  - file: Volumes/40/03/Color_caste_in_the_united_states.md
+  - file: Volumes/41/01/segregation.md
   - file: Volumes/41/02/naacp_and_race_segregation.md
   - file: Volumes/41/04/segregation_in_the_north.md
   - file: Volumes/41/05/segregation.md
-  - file: Volumes/40/03/Color_caste_in_the_united_states.md
 
 
 - file: Sections/racism
@@ -100,6 +101,7 @@ chapters:
     - file: Volumes/18/05/labor_omnia_vincit.md
     - file: Volumes/31/02/black_man_and_labor.md
     - file: Volumes/31/06/again_pullman_porters.md
+    - file: Volumes/40/12/af_of_l.md
   - file: Sections/socialism
     sections:
     - file: Volumes/19/04/cooperation.md
@@ -167,4 +169,7 @@ chapters:
     - file: Volumes/39/01/john_brown.md
     - file: Volumes/40/10/church_and_religion.md
     - file: Volumes/40/11/panafrica_and_new_racial_philosophy.md
+    - file: Volumes/40/12/matter_of_manners.md
+    - file: Volumes/40/12/peace.md
+    - file: Volumes/41/01/scottsboro.md
 - file: random
