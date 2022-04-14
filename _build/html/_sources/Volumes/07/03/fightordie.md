@@ -21,7 +21,7 @@ What are the weapons? Organized publicity, advertisement, public meetings, petit
 
 Where is the battle line?
 
-The battle line is the NATIONAL ASSOCIATION FOR THE ADVANCEMENT OF COLORED PEOPLE.
+The battle line is the <span style="font-variant:small-caps;">National Association for the Advancement of Colored People</span>.
 
 There are individual sharpshooters fighting their own effective guerrilla warfare. We greet them and give them all credit.
 
@@ -39,7 +39,7 @@ What are you doing?
 
 Join or die!
 
-Join the NATIONAL ASSOCIATION FOR THE ADVANCEMENT OF COLORED PEOPLE or be strangled to a slow and awful death by growing prejudice.
+Join the <span style="font-variant:small-caps;">National Association for the Advancement of Colored People</span> or be strangled to a slow and awful death by growing prejudice.
 
 There is no excuse.
 

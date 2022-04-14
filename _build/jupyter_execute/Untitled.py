@@ -13,7 +13,7 @@ from glob import glob
 mds = glob('**/*.md', recursive=True)
 
 
-# In[12]:
+# In[18]:
 
 
 def crisis_swap(text):
@@ -25,8 +25,10 @@ def crisis_swap(text):
         print('Small capped')  
     if 'THE CRISIS' in  text:
         text = text.replace('THE CRISIS','<span style="font-variant:small-caps;">The Crisis</span>')
-
-
+    
+    text = text.replace('NATIONAL ASSOCIATION FOR THE ADVANCEMENT OF COLORED PEOPLE', 
+                       '<span style="font-variant:small-caps;">National Association for the Advancement of Colored People</span>')
+    
     return text
 
 
@@ -44,13 +46,13 @@ def clean(fn):
         
 
 
-# In[16]:
+# In[21]:
 
 
-fn = '/Users/nealcaren/Documents/GitHub/fightordie/Volumes/01/01/TheCrisis.md'
+fn = '/Users/nealcaren/Documents/GitHub/fightordie/Volumes/07/03/fightordie.md'
 
 
-# In[17]:
+# In[22]:
 
 
 clean(fn)
