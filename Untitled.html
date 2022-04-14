@@ -1029,6 +1029,7 @@ const thebe_selector_output = ".output, .cell_output"
   <div class="cell docutils container">
 <div class="cell_input docutils container">
 <div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="kn">from</span> <span class="nn">glob</span> <span class="kn">import</span> <span class="n">glob</span>
+<span class="kn">import</span> <span class="nn">re</span>
 </pre></div>
 </div>
 </div>
@@ -1056,6 +1057,11 @@ const thebe_selector_output = ".output, .cell_output"
                        <span class="s1">&#39;&lt;span style=&quot;font-variant:small-caps;&quot;&gt;National Association for the Advancement of Colored People&lt;/span&gt;&#39;</span><span class="p">)</span>
     
     <span class="k">return</span> <span class="n">text</span>
+
+
+<span class="k">def</span> <span class="nf">cite_fix</span><span class="p">(</span><span class="n">text</span><span class="p">):</span>
+    <span class="k">if</span> <span class="s1">&#39;*Citation:* &quot;&#39;</span> <span class="ow">in</span> <span class="n">text</span><span class="p">:</span>
+        <span class="n">text</span> <span class="o">=</span> <span class="n">text</span><span class="o">.</span><span class="n">replace</span><span class="p">(</span><span class="s1">&#39;*Citation:* &quot;&#39;</span><span class="p">,</span><span class="s1">&#39;*Citation:* Du Bois, W.E.B. &quot;&#39;</span><span class="p">)</span>
 </pre></div>
 </div>
 </div>
@@ -1085,6 +1091,65 @@ const thebe_selector_output = ".output, .cell_output"
 <div class="cell docutils container">
 <div class="cell_input docutils container">
 <div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">clean</span><span class="p">(</span><span class="n">fn</span><span class="p">)</span>
+</pre></div>
+</div>
+</div>
+</div>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">sample</span> <span class="o">=</span> <span class="s1">&#39;*Citation:* &quot;Fight or Die&quot; Editorial. 1914. *The Crisis*. 7(3): 133-134.&#39;</span>
+</pre></div>
+</div>
+</div>
+</div>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">text</span> <span class="o">=</span> <span class="n">sample</span>
+<span class="n">py</span> <span class="o">=</span> <span class="n">re</span><span class="o">.</span><span class="n">findall</span><span class="p">(</span><span class="s1">&#39;Editorial\. (19..)&#39;</span><span class="p">,</span> <span class="n">text</span><span class="p">)</span>
+<span class="k">if</span> <span class="nb">len</span><span class="p">(</span><span class="n">py</span><span class="p">)</span> <span class="o">==</span> <span class="mi">1</span><span class="p">:</span>
+    <span class="n">pubyear</span> <span class="o">=</span> <span class="n">py</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span>
+    
+</pre></div>
+</div>
+</div>
+</div>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">items</span> <span class="o">=</span> <span class="n">re</span><span class="o">.</span><span class="n">findall</span><span class="p">(</span><span class="s1">&#39;\*Citation:\* &quot;(.*?)&quot; Editorial\. (19.*?)\. (\*The Crisis\*\..*?\.)&#39;</span><span class="p">,</span> <span class="n">sample</span><span class="p">)</span>
+</pre></div>
+</div>
+</div>
+</div>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">title</span> <span class="o">=</span> <span class="n">items</span><span class="p">[</span><span class="mi">0</span><span class="p">][</span><span class="mi">0</span><span class="p">]</span>
+<span class="n">year</span> <span class="o">=</span> <span class="n">items</span><span class="p">[</span><span class="mi">0</span><span class="p">][</span><span class="mi">1</span><span class="p">]</span>
+<span class="n">pub</span> <span class="o">=</span> <span class="n">items</span><span class="p">[</span><span class="mi">0</span><span class="p">][</span><span class="mi">2</span><span class="p">]</span>
+<span class="n">new</span> <span class="o">=</span> <span class="sa">f</span><span class="s1">&#39;*Citation: Du Bois, W.E.B. </span><span class="si">{</span><span class="n">year</span><span class="si">}</span><span class="s1">. &quot;</span><span class="si">{</span><span class="n">title</span><span class="si">}</span><span class="s1">.&quot;  &#39;</span>
+<span class="n">new</span>
+</pre></div>
+</div>
+</div>
+<div class="cell_output docutils container">
+<div class="output text_plain highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>&#39;*Citation: Du Bois, W.E.B. 1914. &quot;Fight or Die.&quot;  &#39;
+</pre></div>
+</div>
+</div>
+</div>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">new</span>
+</pre></div>
+</div>
+</div>
+<div class="cell_output docutils container">
+<div class="output traceback highlight-ipythontb notranslate"><div class="highlight"><pre><span></span><span class="gt">---------------------------------------------------------------------------</span>
+<span class="ne">IndexError</span><span class="g g-Whitespace">                                </span>Traceback (most recent call last)
+<span class="o">&lt;</span><span class="n">ipython</span><span class="o">-</span><span class="nb">input</span><span class="o">-</span><span class="mi">66</span><span class="o">-</span><span class="mf">78658e914</span><span class="n">f8a</span><span class="o">&gt;</span> <span class="ow">in</span> <span class="o">&lt;</span><span class="n">module</span><span class="o">&gt;</span>
+<span class="ne">----&gt; </span><span class="mi">1</span> <span class="n">new</span> <span class="o">=</span> <span class="sa">f</span><span class="s1">&#39;*Citation: Du Bois, W.E.B. </span><span class="si">{</span><span class="n">items</span><span class="p">[</span><span class="mi">1</span><span class="p">]</span><span class="si">}</span><span class="s1">. </span><span class="si">{</span><span class="n">items</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span><span class="si">}</span><span class="s1"> &#39;</span>
+<span class="g g-Whitespace">      </span><span class="mi">2</span> <span class="n">new</span>
+
+<span class="ne">IndexError</span>: list index out of range
 </pre></div>
 </div>
 </div>
