@@ -1099,11 +1099,16 @@ const thebe_selector_output = ".output, .cell_output"
         
     <span class="n">text</span> <span class="o">=</span> <span class="n">crisis_swap</span><span class="p">(</span><span class="n">text</span><span class="p">)</span>
     
-    <span class="k">try</span><span class="p">:</span>
-        <span class="n">text</span> <span class="o">=</span> <span class="n">cite_fix</span><span class="p">(</span><span class="n">text</span><span class="p">)</span>
-    <span class="k">except</span> <span class="ne">IndexError</span><span class="p">:</span>
-        <span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s1">&#39;Cite issue with </span><span class="si">{</span><span class="n">fn</span><span class="si">}</span><span class="s1">&#39;</span><span class="p">)</span>
-    
+    <span class="n">text</span> <span class="o">=</span> <span class="n">text</span><span class="o">.</span><span class="n">replace</span><span class="p">(</span><span class="s1">&#39;N[*****]&#39;</span><span class="p">,</span> <span class="s1">&#39;N*****&#39;</span><span class="p">)</span>
+    <span class="n">text</span> <span class="o">=</span> <span class="n">text</span><span class="o">.</span><span class="n">replace</span><span class="p">(</span><span class="s1">&#39;N[******]&#39;</span><span class="p">,</span> <span class="s1">&#39;N*****&#39;</span><span class="p">)</span>
+
+
+
+    <span class="sd">&#39;&#39;&#39;try:</span>
+<span class="sd">        text = cite_fix(text)</span>
+<span class="sd">    except IndexError:</span>
+<span class="sd">        print(f&#39;Cite issue with {fn}&#39;)</span>
+<span class="sd">    &#39;&#39;&#39;</span>
     <span class="k">with</span> <span class="nb">open</span><span class="p">(</span><span class="n">fn</span><span class="p">,</span> <span class="s1">&#39;w&#39;</span><span class="p">)</span> <span class="k">as</span> <span class="n">outfile</span><span class="p">:</span>
         <span class="n">outfile</span><span class="o">.</span><span class="n">write</span><span class="p">(</span><span class="n">text</span><span class="p">)</span>
         

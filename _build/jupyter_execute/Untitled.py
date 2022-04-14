@@ -63,7 +63,7 @@ def cite_fix(text):
     return '\n'.join(new_txt)
 
 
-# In[112]:
+# In[116]:
 
 
 def clean(fn):
@@ -72,11 +72,16 @@ def clean(fn):
         
     text = crisis_swap(text)
     
-    try:
+    text = text.replace('N[*****]', 'N*****')
+    text = text.replace('N[******]', 'N*****')
+
+
+
+    '''try:
         text = cite_fix(text)
     except IndexError:
         print(f'Cite issue with {fn}')
-    
+    '''
     with open(fn, 'w') as outfile:
         outfile.write(text)
         
