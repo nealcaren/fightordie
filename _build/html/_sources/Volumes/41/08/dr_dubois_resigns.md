@@ -29,7 +29,6 @@ Under date of June 26, however, Dr. DuBois addressed the following letter to the
 > “I am, therefore, insisting upon my resignation, and on July 1st, whether the Board of Directors acts or does not act, I automatically cease to have any connection whatsoever in any shape or form with the National Association for the Advancement of Colored People. I do not, however, cease to wish it well, to follow it with personal and palpitating interest, and to applaud it when it is able to rescue itself from its present impossible position and reorganize itself according to the demands of the present crisis.  
 > &nbsp;  
 > “Very respectfully yours,  
-> &nbsp;  
 > (“Signed) W. E. B. Du Bois.”
 
  At its meeting July 9, the Board adopted the following resolution:
