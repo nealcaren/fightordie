@@ -16,4 +16,4 @@ But the situation is worse than this. Just as soon as Negroes resort to violence
 
 
 _________________
-*Citation:* "Violence"." 1934. Editorial.  41(5):147-148.
+*Citation:* Du Bois, W.E.B. 1934. "Violence"." *The Crisis*  41(5):147-148.

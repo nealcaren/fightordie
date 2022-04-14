@@ -124,4 +124,4 @@ This study beginning with Negroes should extend to whites. We must lift the curt
 
 
 _________________
-*Citation:* "The Negro Citizen." 1929. Editorial.  36(5):156-157, 171-173.
+*Citation:* Du Bois, W.E.B. 1929. "The Negro Citizen." *The Crisis*  36(5):156-157, 171-173.

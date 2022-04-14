@@ -11,4 +11,4 @@ The colored people of the North on the other hand, should welcome their escaping
 
 
 ______________
-*Citation:* "Migration." Editorial. 1916. *The Crisis*. 12(6): 270.
+*Citation:* Du Bois, W.E.B. 1916. "Migration.." *The Crisis*. 12(6): 270.

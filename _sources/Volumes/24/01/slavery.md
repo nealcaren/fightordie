@@ -18,4 +18,4 @@ But there comes a ray of hope. Georgia is to be congratulated on the conviction 
 Amen! And the Negro stands ready to recognize and appreciate every act of Justice done by the white South.
 
 ______________
-*Citation:* "Slavery" Editorial. 1922. *The Crisis*. 24(1): 6.
+*Citation:* Du Bois, W.E.B. 1922. "Slavery." *The Crisis*. 24(1): 6.
