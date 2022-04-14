@@ -14,7 +14,7 @@ import re
 mds = glob('**/*.md', recursive=True)
 
 
-# In[23]:
+# In[76]:
 
 
 def crisis_swap(text):
@@ -34,8 +34,23 @@ def crisis_swap(text):
 
 
 def cite_fix(text):
-    if '*Citation:* "' in text:
-        text = text.replace('*Citation:* "','*Citation:* Du Bois, W.E.B. "')
+    new_txt = []
+    for line in text.splitlines():
+        if '*Citation:* ' in line and "Editorial." in line:
+            
+            text = text.replace('*Citation:* "','*Citation:* Du Bois, W.E.B. "')
+            
+            items = re.findall('\*Citation:\* "(.*?)" Editorial\. (19.*?)\. (\*The Crisis\*\..*?\.)', line)
+            title = items[0][0]
+            year = items[0][1]
+            pub = items[0][2]
+            new = f'*Citation:* Du Bois, W.E.B. {year}. "{title}." {pub}'
+            new_txt.append(new)
+            print('Cite fixed')
+        else:
+            new_txt.append(line)
+            
+    return '\n'.join(new_txt)
 
 
 # In[24]:
@@ -46,6 +61,8 @@ def clean(fn):
         text = infile.read()
         
     text = crisis_swap(text)
+    
+    text = cite_fix(text)
     
     with open(fn, 'w') as outfile:
         outfile.write(text)
@@ -83,20 +100,16 @@ if len(py) == 1:
 # In[64]:
 
 
-items = re.findall('\*Citation:\* "(.*?)" Editorial\. (19.*?)\. (\*The Crisis\*\..*?\.)', sample)
 
 
-# In[72]:
+
+# In[74]:
 
 
-title = items[0][0]
-year = items[0][1]
-pub = items[0][2]
-new = f'*Citation: Du Bois, W.E.B. {year}. "{title}."  '
-new
 
 
-# In[66]:
+
+# In[75]:
 
 
 new
