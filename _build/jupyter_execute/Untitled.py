@@ -63,7 +63,7 @@ def cite_fix(text):
     return '\n'.join(new_txt)
 
 
-# In[116]:
+# In[117]:
 
 
 def clean(fn):
@@ -73,7 +73,7 @@ def clean(fn):
     text = crisis_swap(text)
     
     text = text.replace('N[*****]', 'N*****')
-    text = text.replace('N[******]', 'N*****')
+    text = text.replace('N[******]', 'N******')
 
 
 
@@ -107,7 +107,7 @@ line = '*Citation:* "The New Crisis." 1925. Editorial.  30(1):7-9.'
 print(new)
 
 
-# In[115]:
+# In[118]:
 
 
 for fn in mds:
