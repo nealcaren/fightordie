@@ -56,7 +56,7 @@ I consider it barbarism, I said, and I think I’ll walk.
 
 Walking, I met a wayfarer who immediately walked to the other side of the road where it was muddy. I asked his reasons.
 
-“ ‘N[******]’ is dirty,” he said.
+“ ‘N******’ is dirty,” he said.
 
 So is mud, said I. Moreover I added, I am not as dirty as you—at least, not yet.
 
@@ -76,7 +76,7 @@ I should think you and the Negroes might get together and vote out starvation.
 
 We? Why not? I said in surprise.
 
-“ `N[******]’ is too ignorant to vote.”
+“ `N******’ is too ignorant to vote.”
 
 But, I said, I am not so ignorant as you.
 
