@@ -41,7 +41,7 @@ He founded the **Crisis** without a cent of capital, and for many years made it 
 
 The Board has not always seen eye to eye with him in regard to various matters, and cannot subscribe to some of his criticism of the Association and its officials. But such differences in the past have in no way interfered with his usefulness, but rather the contrary. For he had been selected because of his independence of judgment, his fearlessness in expressing his convictions, and his acute and wide-reaching intelligence. A mere yes-man could not have attracted the attention of the world, could not even have stimulated the Board itself to further study of various important problems. We shall be the poorer for his loss, in intellectual stimulus, and in searching analysis of the vital problems of the American Negro; no one in the Association can fill his place with the same intellectual grasp. We therefore offer him our sincere thanks for the services he has rendered, and we wish him all happiness in all that he may now undertake.
 
-C<span style="font-variant:small-caps;">risis</span>
+<span style="font-variant:small-caps;">The Crisis</span>
 
 _________________
 *Citation:* "Dr. Du Bois Resigns." 1934. *The Crisis*. 41(8):245-246.
