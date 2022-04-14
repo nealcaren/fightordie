@@ -14,7 +14,7 @@ import re
 mds = glob('**/*.md', recursive=True)
 
 
-# In[76]:
+# In[103]:
 
 
 def crisis_swap(text):
@@ -36,8 +36,8 @@ def crisis_swap(text):
 def cite_fix(text):
     new_txt = []
     for line in text.splitlines():
-        if '*Citation:* ' in line and "Editorial." in line:
-            
+        if '*Citation:* ' in line and "Editorial." in line and 'The Crisis' in line :
+
             text = text.replace('*Citation:* "','*Citation:* Du Bois, W.E.B. "')
             
             items = re.findall('\*Citation:\* "(.*?)" Editorial\. (19.*?)\. (\*The Crisis\*\..*?\.)', line)
@@ -47,13 +47,23 @@ def cite_fix(text):
             new = f'*Citation:* Du Bois, W.E.B. {year}. "{title}." {pub}'
             new_txt.append(new)
             print('Cite fixed')
+            
+        elif '*Citation:*' in line and "Editorial." in line:
+            items = re.findall('\*Citation:\* "(.*?)" (19.*?)\. Editorial\. (.*?\.)', line)
+            title = items[0][0]
+            year = items[0][1]
+            pub = items[0][2]
+            new = f'*Citation:* Du Bois, W.E.B. {year}. "{title}" *The Crisis* {pub}'
+            new_txt.append(new)
+            print('Cite fixed')
+            
         else:
             new_txt.append(line)
             
     return '\n'.join(new_txt)
 
 
-# In[24]:
+# In[112]:
 
 
 def clean(fn):
@@ -62,39 +72,41 @@ def clean(fn):
         
     text = crisis_swap(text)
     
-    text = cite_fix(text)
+    try:
+        text = cite_fix(text)
+    except IndexError:
+        print(f'Cite issue with {fn}')
     
     with open(fn, 'w') as outfile:
         outfile.write(text)
         
 
 
-# In[25]:
+# In[113]:
 
 
-fn = '/Users/nealcaren/Documents/GitHub/fightordie/Volumes/07/03/fightordie.md'
+fn = '/Users/nealcaren/Documents/GitHub/fightordie/Volumes/21/02/unreal_campaign.md'
 
 
-# In[26]:
+# In[114]:
 
 
 clean(fn)
 
 
-# In[27]:
+# In[100]:
 
 
-sample = '*Citation:* "Fight or Die" Editorial. 1914. *The Crisis*. 7(3): 133-134.'
+line = '*Citation:* "The New Crisis." 1925. Editorial.  30(1):7-9.'
+
+print(new)
 
 
-# In[38]:
+# In[115]:
 
 
-text = sample
-py = re.findall('Editorial\. (19..)', text)
-if len(py) == 1:
-    pubyear = py[0]
-    
+for fn in mds:
+    clean(fn)
 
 
 # In[64]:

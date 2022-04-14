@@ -13,7 +13,7 @@ First, is capitalism, as at present organized, the best director of work and inc
 
 The leaders of colored thought, therefore, are faced by this problem: is the whole capitalistic system wrong or is the color problem merely the problem of securing for the darker people proper representation in the centers of capitalistic control? This question has been variously answered.
 
-Booker T. Washington in the United States, most of the Negro leaders of West Africa, and some of the leaders of India, have seen salvation in a chance to share the capitalistic control of industry with white Europe and America. Others, including the Editor of **The Crisis**, believe that industrial reform must be far more radical than this.
+Booker T. Washington in the United States, most of the Negro leaders of West Africa, and some of the leaders of India, have seen salvation in a chance to share the capitalistic control of industry with white Europe and America. Others, including the Editor of <span style="font-variant:small-caps;">The Crisis</span>, believe that industrial reform must be far more radical than this.
 
 But no matter what differences of opinion arise on this point, so long as organized capital excludes Negroes and other darker folk from its counsels and official positions, just so long will this people be forced toward radical industrial reform.
 
@@ -33,4 +33,4 @@ We shall look forward then with interest to the development of this bank. If it 
 
 
 _________________
-*Citation:* "The Dunbar National Bank." 1928. Editorial.  35(11):382.
+*Citation:* Du Bois, W.E.B. 1928. "The Dunbar National Bank." *The Crisis*  35(11):382.

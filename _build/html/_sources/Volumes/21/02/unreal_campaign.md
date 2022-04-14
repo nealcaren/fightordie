@@ -25,4 +25,4 @@ And so the great farce ends. The People have spoken—and said nothing.
 
 ______________
 
-*Citation:* "The Unreal Campaign" Editorial. 1920. *The Crisis*. 21(2): 54-56.
+*Citation:* Du Bois, W.E.B. 1920. "The Unreal Campaign." *The Crisis*. 21(2): 54-56.

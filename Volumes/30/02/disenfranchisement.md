@@ -24,4 +24,4 @@ But all this amounts to nothing as compared with the effect of the White Primary
 In addition to the power of disfranchisement thus held by the White Primary there is social and economic pressure. Colored men are continually told to keep out of politics or lose their jobs and it has become a point of honor with many Negroes of education and character not to vote nor even to attempt to vote. It is in this way that democratic government is made of no account in a large portion of the United States and it is against this that the N.A.A.C.P. is fighting in its latest judicial case against the White Primary of Texas.
 
 _________________
-*Citation:* "Disenfranchisement." 1925. Editorial.  30(2):62-63.
+*Citation:* Du Bois, W.E.B. 1925. "Disenfranchisement." *The Crisis*  30(2):62-63.

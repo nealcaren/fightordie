@@ -1062,8 +1062,8 @@ const thebe_selector_output = ".output, .cell_output"
 <span class="k">def</span> <span class="nf">cite_fix</span><span class="p">(</span><span class="n">text</span><span class="p">):</span>
     <span class="n">new_txt</span> <span class="o">=</span> <span class="p">[]</span>
     <span class="k">for</span> <span class="n">line</span> <span class="ow">in</span> <span class="n">text</span><span class="o">.</span><span class="n">splitlines</span><span class="p">():</span>
-        <span class="k">if</span> <span class="s1">&#39;*Citation:* &#39;</span> <span class="ow">in</span> <span class="n">line</span> <span class="ow">and</span> <span class="s2">&quot;Editorial.&quot;</span> <span class="ow">in</span> <span class="n">line</span><span class="p">:</span>
-            
+        <span class="k">if</span> <span class="s1">&#39;*Citation:* &#39;</span> <span class="ow">in</span> <span class="n">line</span> <span class="ow">and</span> <span class="s2">&quot;Editorial.&quot;</span> <span class="ow">in</span> <span class="n">line</span> <span class="ow">and</span> <span class="s1">&#39;The Crisis&#39;</span> <span class="ow">in</span> <span class="n">line</span> <span class="p">:</span>
+
             <span class="n">text</span> <span class="o">=</span> <span class="n">text</span><span class="o">.</span><span class="n">replace</span><span class="p">(</span><span class="s1">&#39;*Citation:* &quot;&#39;</span><span class="p">,</span><span class="s1">&#39;*Citation:* Du Bois, W.E.B. &quot;&#39;</span><span class="p">)</span>
             
             <span class="n">items</span> <span class="o">=</span> <span class="n">re</span><span class="o">.</span><span class="n">findall</span><span class="p">(</span><span class="s1">&#39;\*Citation:\* &quot;(.*?)&quot; Editorial\. (19.*?)\. (\*The Crisis\*\..*?\.)&#39;</span><span class="p">,</span> <span class="n">line</span><span class="p">)</span>
@@ -1073,6 +1073,16 @@ const thebe_selector_output = ".output, .cell_output"
             <span class="n">new</span> <span class="o">=</span> <span class="sa">f</span><span class="s1">&#39;*Citation:* Du Bois, W.E.B. </span><span class="si">{</span><span class="n">year</span><span class="si">}</span><span class="s1">. &quot;</span><span class="si">{</span><span class="n">title</span><span class="si">}</span><span class="s1">.&quot; </span><span class="si">{</span><span class="n">pub</span><span class="si">}</span><span class="s1">&#39;</span>
             <span class="n">new_txt</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="n">new</span><span class="p">)</span>
             <span class="nb">print</span><span class="p">(</span><span class="s1">&#39;Cite fixed&#39;</span><span class="p">)</span>
+            
+        <span class="k">elif</span> <span class="s1">&#39;*Citation:*&#39;</span> <span class="ow">in</span> <span class="n">line</span> <span class="ow">and</span> <span class="s2">&quot;Editorial.&quot;</span> <span class="ow">in</span> <span class="n">line</span><span class="p">:</span>
+            <span class="n">items</span> <span class="o">=</span> <span class="n">re</span><span class="o">.</span><span class="n">findall</span><span class="p">(</span><span class="s1">&#39;\*Citation:\* &quot;(.*?)&quot; (19.*?)\. Editorial\. (.*?\.)&#39;</span><span class="p">,</span> <span class="n">line</span><span class="p">)</span>
+            <span class="n">title</span> <span class="o">=</span> <span class="n">items</span><span class="p">[</span><span class="mi">0</span><span class="p">][</span><span class="mi">0</span><span class="p">]</span>
+            <span class="n">year</span> <span class="o">=</span> <span class="n">items</span><span class="p">[</span><span class="mi">0</span><span class="p">][</span><span class="mi">1</span><span class="p">]</span>
+            <span class="n">pub</span> <span class="o">=</span> <span class="n">items</span><span class="p">[</span><span class="mi">0</span><span class="p">][</span><span class="mi">2</span><span class="p">]</span>
+            <span class="n">new</span> <span class="o">=</span> <span class="sa">f</span><span class="s1">&#39;*Citation:* Du Bois, W.E.B. </span><span class="si">{</span><span class="n">year</span><span class="si">}</span><span class="s1">. &quot;</span><span class="si">{</span><span class="n">title</span><span class="si">}</span><span class="s1">&quot; *The Crisis* </span><span class="si">{</span><span class="n">pub</span><span class="si">}</span><span class="s1">&#39;</span>
+            <span class="n">new_txt</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="n">new</span><span class="p">)</span>
+            <span class="nb">print</span><span class="p">(</span><span class="s1">&#39;Cite fixed&#39;</span><span class="p">)</span>
+            
         <span class="k">else</span><span class="p">:</span>
             <span class="n">new_txt</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="n">line</span><span class="p">)</span>
             
@@ -1089,7 +1099,10 @@ const thebe_selector_output = ".output, .cell_output"
         
     <span class="n">text</span> <span class="o">=</span> <span class="n">crisis_swap</span><span class="p">(</span><span class="n">text</span><span class="p">)</span>
     
-    <span class="n">text</span> <span class="o">=</span> <span class="n">cite_fix</span><span class="p">(</span><span class="n">text</span><span class="p">)</span>
+    <span class="k">try</span><span class="p">:</span>
+        <span class="n">text</span> <span class="o">=</span> <span class="n">cite_fix</span><span class="p">(</span><span class="n">text</span><span class="p">)</span>
+    <span class="k">except</span> <span class="ne">IndexError</span><span class="p">:</span>
+        <span class="nb">print</span><span class="p">(</span><span class="sa">f</span><span class="s1">&#39;Cite issue with </span><span class="si">{</span><span class="n">fn</span><span class="si">}</span><span class="s1">&#39;</span><span class="p">)</span>
     
     <span class="k">with</span> <span class="nb">open</span><span class="p">(</span><span class="n">fn</span><span class="p">,</span> <span class="s1">&#39;w&#39;</span><span class="p">)</span> <span class="k">as</span> <span class="n">outfile</span><span class="p">:</span>
         <span class="n">outfile</span><span class="o">.</span><span class="n">write</span><span class="p">(</span><span class="n">text</span><span class="p">)</span>
@@ -1100,7 +1113,7 @@ const thebe_selector_output = ".output, .cell_output"
 </div>
 <div class="cell docutils container">
 <div class="cell_input docutils container">
-<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">fn</span> <span class="o">=</span> <span class="s1">&#39;/Users/nealcaren/Documents/GitHub/fightordie/Volumes/07/03/fightordie.md&#39;</span>
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">fn</span> <span class="o">=</span> <span class="s1">&#39;/Users/nealcaren/Documents/GitHub/fightordie/Volumes/21/02/unreal_campaign.md&#39;</span>
 </pre></div>
 </div>
 </div>
@@ -1114,18 +1127,139 @@ const thebe_selector_output = ".output, .cell_output"
 </div>
 <div class="cell docutils container">
 <div class="cell_input docutils container">
-<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">sample</span> <span class="o">=</span> <span class="s1">&#39;*Citation:* &quot;Fight or Die&quot; Editorial. 1914. *The Crisis*. 7(3): 133-134.&#39;</span>
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">line</span> <span class="o">=</span> <span class="s1">&#39;*Citation:* &quot;The New Crisis.&quot; 1925. Editorial.  30(1):7-9.&#39;</span>
+
+<span class="nb">print</span><span class="p">(</span><span class="n">new</span><span class="p">)</span>
+</pre></div>
+</div>
+</div>
+<div class="cell_output docutils container">
+<div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>*Citation:* Du Bois, W.E.B. 1925. &quot;The New Crisis.&quot; *The Crisis*  30(1):7-9.
 </pre></div>
 </div>
 </div>
 </div>
 <div class="cell docutils container">
 <div class="cell_input docutils container">
-<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">text</span> <span class="o">=</span> <span class="n">sample</span>
-<span class="n">py</span> <span class="o">=</span> <span class="n">re</span><span class="o">.</span><span class="n">findall</span><span class="p">(</span><span class="s1">&#39;Editorial\. (19..)&#39;</span><span class="p">,</span> <span class="n">text</span><span class="p">)</span>
-<span class="k">if</span> <span class="nb">len</span><span class="p">(</span><span class="n">py</span><span class="p">)</span> <span class="o">==</span> <span class="mi">1</span><span class="p">:</span>
-    <span class="n">pubyear</span> <span class="o">=</span> <span class="n">py</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span>
-    
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="k">for</span> <span class="n">fn</span> <span class="ow">in</span> <span class="n">mds</span><span class="p">:</span>
+    <span class="n">clean</span><span class="p">(</span><span class="n">fn</span><span class="p">)</span>
+</pre></div>
+</div>
+</div>
+<div class="cell_output docutils container">
+<div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>Cite issue with _build/html/_sources/Volumes/34/04/chicago.md
+Small capped
+Cite issue with _build/html/_sources/Volumes/34/09/prejudice.md
+Cite issue with _build/html/_sources/Volumes/34/01/aiken.md
+Cite issue with _build/html/_sources/Volumes/34/06/mob_tactics.md
+Small capped
+Small capped
+Cite issue with _build/html/_sources/Volumes/05/05/proper_way.md
+Small capped
+Small capped
+Cite fixed
+Cite fixed
+Small capped
+Cite fixed
+Small capped
+Small capped
+Cite fixed
+Small capped
+Cite fixed
+Small capped
+Cite fixed
+Small capped
+Small capped
+Cite fixed
+Small capped
+Cite fixed
+Small capped
+Cite fixed
+Cite fixed
+Small capped
+Cite fixed
+Cite fixed
+Cite fixed
+Small capped
+Cite fixed
+Cite fixed
+Cite fixed
+Cite fixed
+Cite fixed
+Cite fixed
+Cite fixed
+Cite fixed
+Small capped
+Cite fixed
+Small capped
+Small capped
+Cite fixed
+Small capped
+Cite issue with _build/html/_sources/Volumes/22/03/negro_and_radical_thought.md
+Cite fixed
+Cite fixed
+Cite fixed
+Cite fixed
+Small capped
+Cite issue with _build/html/_sources/Volumes/22/06/socialism_and_the_negro.md
+Cite issue with _build/html/_sources/Volumes/22/06/single_tax.md
+Small capped
+Cite fixed
+Cite fixed
+Small capped
+Cite fixed
+Cite issue with Volumes/34/04/chicago.md
+Small capped
+Cite issue with Volumes/34/09/prejudice.md
+Cite issue with Volumes/34/01/aiken.md
+Cite issue with Volumes/34/06/mob_tactics.md
+Small capped
+Small capped
+Cite issue with Volumes/05/05/proper_way.md
+Small capped
+Small capped
+Cite fixed
+Cite fixed
+Small capped
+Small capped
+Small capped
+Cite fixed
+Small capped
+Cite fixed
+Small capped
+Cite fixed
+Small capped
+Cite fixed
+Small capped
+Cite fixed
+Cite fixed
+Small capped
+Cite fixed
+Cite fixed
+Cite fixed
+Small capped
+Cite fixed
+Cite fixed
+Cite fixed
+Cite fixed
+Cite fixed
+Cite fixed
+Cite fixed
+Cite fixed
+Small capped
+Cite fixed
+Small capped
+Small capped
+Cite fixed
+Small capped
+Cite issue with Volumes/22/03/negro_and_radical_thought.md
+Cite fixed
+Cite fixed
+Cite fixed
+Cite fixed
+Small capped
+Cite issue with Volumes/22/06/socialism_and_the_negro.md
+Cite issue with Volumes/22/06/single_tax.md
 </pre></div>
 </div>
 </div>

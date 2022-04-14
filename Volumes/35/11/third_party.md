@@ -19,4 +19,4 @@ The least liberal party must be the Democratic Party:iy because that party must 
 Suppose we represent the electoral vote of the United States by the figure 16, and assume that today this power is divided almost evenly between Democrats and Republicans, each with 8 votes. To 4 of these votes, cast by the Democrats and representing the Solid South, a Third Party could make no appeal at all. This would leave 12 votes open to liberal appeal. Assume that the principles of the Third Party are so strong and compelling that they convince half of those voters; that is, half of those open to conviction. What is the result? The result is the triumph of the Democratic Party by a vote of 7 Democrats, 6 Third Party men, and 3 Republicans. This illustrates what is bound to take place as long as there is a Solid South.
 
 _________________
-*Citation:* "A Third Party." 1928. Editorial.  35(11):381.
+*Citation:* Du Bois, W.E.B. 1928. "A Third Party." *The Crisis*  35(11):381.

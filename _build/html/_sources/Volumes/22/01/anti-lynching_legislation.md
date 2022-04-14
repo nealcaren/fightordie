@@ -36,4 +36,4 @@ The strength of the N.A.A.C.P. has been its singleness of aim. We did not rescue
 
 ______________
 
-*Citation:* "Anti-Lynching Legislation" Editorial. 1922. *The Crisis*. 22(1): 8-9.
+*Citation:* Du Bois, W.E.B. 1922. "Anti-Lynching Legislation." *The Crisis*. 22(1): 8-9.

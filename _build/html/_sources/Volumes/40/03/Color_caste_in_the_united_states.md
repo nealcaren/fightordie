@@ -1,7 +1,7 @@
 # Color Caste in the United States (1933)
 
 ```{margin}
-This ran as an article in **The Crisis** but in form and content is similar to the editorial content he routinely produced.
+This ran as an article in <span style="font-variant:small-caps;">The Crisis</span> but in form and content is similar to the editorial content he routinely produced.
 ```
 
  There are a large number of well meaning citizens of this country who are under the impression that the main lines of the American Negro problem are settled, and that while there is a deal more advance to be made, nevertheless, the average Negro, who is not too impatient, should be willing from now on to proceed toward his ultimate goal by quiet progress and unemotional appeal.
@@ -53,4 +53,4 @@ This, then, is the situation, and the question is, what are modern, educated peo
 
 
 _________________
-*Citation:* "Color Caste in the United States." 1933. Editorial.  40(3):59-60, 70.
+*Citation:* Du Bois, W.E.B. 1933. "Color Caste in the United States." *The Crisis*  40(3):59-60, 70.
