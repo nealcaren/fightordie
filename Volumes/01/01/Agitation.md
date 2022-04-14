@@ -6,7 +6,7 @@ Such honest critics mistake the function of agitation. A toothache is agitation.
 
 The same is true of the Social Body. Agitation is a necessary evil to tell of the ills of the Suffering. Without it many a nation has been lulled to false security and preened itself with virtues it did not possess.
 
-The function of this Association is to tell this nation the crying evil of race prejudice. It is a hard duty but a necessary one—a divine one. It is Pain; Pain is not good but Pain is necessary. Pain does not aggravate disease — Disease causes Pain. Agitation does not mean Aggravation—Aggravation calls for Agi tation in order that Remedy may be found.
+The function of this Association is to tell this nation the crying evil of race prejudice. It is a hard duty but a necessary one—a divine one. It is Pain; Pain is not good but Pain is necessary. Pain does not aggravate disease — Disease causes Pain. Agitation does not mean Aggravation—Aggravation calls for Agitation in order that Remedy may be found.
 
 
 ______________
