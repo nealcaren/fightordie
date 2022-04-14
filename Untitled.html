@@ -1048,7 +1048,11 @@ const thebe_selector_output = ".output, .cell_output"
         <span class="nb">print</span><span class="p">(</span><span class="s1">&#39;Small capped&#39;</span><span class="p">)</span>
     <span class="k">if</span> <span class="s1">&#39;**Crisis**&#39;</span> <span class="ow">in</span> <span class="n">text</span><span class="p">:</span>
         <span class="n">text</span> <span class="o">=</span> <span class="n">text</span><span class="o">.</span><span class="n">replace</span><span class="p">(</span><span class="s1">&#39;**Crisis**&#39;</span><span class="p">,</span><span class="s1">&#39;&lt;span style=&quot;font-variant:small-caps;&quot;&gt;Crisis&lt;/span&gt;&#39;</span><span class="p">)</span>
-        <span class="nb">print</span><span class="p">(</span><span class="s1">&#39;Small capped&#39;</span><span class="p">)</span>    
+        <span class="nb">print</span><span class="p">(</span><span class="s1">&#39;Small capped&#39;</span><span class="p">)</span>  
+    <span class="k">if</span> <span class="s1">&#39;THE CRISIS&#39;</span> <span class="ow">in</span>  <span class="n">text</span><span class="p">:</span>
+        <span class="n">text</span> <span class="o">=</span> <span class="n">text</span><span class="o">.</span><span class="n">replace</span><span class="p">(</span><span class="s1">&#39;THE CRISIS&#39;</span><span class="p">,</span><span class="s1">&#39;&lt;span style=&quot;font-variant:small-caps;&quot;&gt;The Crisis&lt;/span&gt;&#39;</span><span class="p">)</span>
+
+
     <span class="k">return</span> <span class="n">text</span>
 </pre></div>
 </div>
@@ -1071,7 +1075,7 @@ const thebe_selector_output = ".output, .cell_output"
 </div>
 <div class="cell docutils container">
 <div class="cell_input docutils container">
-<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">fn</span> <span class="o">=</span> <span class="s1">&#39;/Users/nealcaren/Documents/GitHub/fightordie/Volumes/41/08/dr_dubois_resigns.md&#39;</span>
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="n">fn</span> <span class="o">=</span> <span class="s1">&#39;/Users/nealcaren/Documents/GitHub/fightordie/Volumes/01/01/TheCrisis.md&#39;</span>
 </pre></div>
 </div>
 </div>
