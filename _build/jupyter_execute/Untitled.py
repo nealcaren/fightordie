@@ -22,7 +22,11 @@ def crisis_swap(text):
         print('Small capped')
     if '**Crisis**' in text:
         text = text.replace('**Crisis**','<span style="font-variant:small-caps;">Crisis</span>')
-        print('Small capped')    
+        print('Small capped')  
+    if 'THE CRISIS' in  text:
+        text = text.replace('THE CRISIS','<span style="font-variant:small-caps;">The Crisis</span>')
+
+
     return text
 
 
@@ -40,13 +44,13 @@ def clean(fn):
         
 
 
-# In[14]:
+# In[16]:
 
 
-fn = '/Users/nealcaren/Documents/GitHub/fightordie/Volumes/41/08/dr_dubois_resigns.md'
+fn = '/Users/nealcaren/Documents/GitHub/fightordie/Volumes/01/01/TheCrisis.md'
 
 
-# In[15]:
+# In[17]:
 
 
 clean(fn)
