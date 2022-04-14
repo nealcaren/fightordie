@@ -44,6 +44,7 @@ The color caste idea persisted after Emancipation, but was gradually driven out 
 
 ```{margin} The American Negro. P. 64. Academy of Political and Social Science. [Citation in original]
 ```
+
  The apparent criminality, however, of the Negro race is greatly exaggerated for two reasons: First, accusation of crime was used systematically in the South to keep Negroes in serfdom after the Civil War; and secondly, Negroes receive but scant justice in the courts. Most writers, today, have assumed on the basis of statistics, that because the Negro population in jails and penitentiary is proportionately much larger than the white population, that, therefore, the Negro is unusually criminal. But as Thorsten Sellin has pointed out in his note on the Negro criminal, “The American Negro lacks education and earthly goods. He has had very little political experience and industrial training. His contact with city life has been unfortunate, for it has forced him into the most dilapidated and vicious areas of our great cities. Like a shadow over his whole existence lies the oppressive race prejudice of his white neighbor, restricting his activities and thwarting his ambitions. It would be extraordinary, indeed, if this group were to prove more law-abiding than the white, which enjoys more fully the advantages of a civilization the Negro has helped to create.”*
 
 
