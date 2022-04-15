@@ -1,6 +1,6 @@
 # Dare You Fight
 
-
+**This is an ongoing effort. If you would like to help out, please let [me know](mailto:nealcaren@unc.edu).**
 
 
 This book is an ongoing project to make available a selection of works by W.E.B. Du Bois that appeared in The Crisis, the official journal of the NAACP. Du Bois founded the journal in 1910 and regularly contributed editorials and occasional articles between 1910 and 1934 when he left the NAACP.
@@ -13,6 +13,8 @@ Although he published his own articles every year or so, Du Bois's main contribu
 
 This volume attempts to represent the full diversity of Du Bois's writing during this timer period, emphasizing those pieces that engage in analysis. The only substantive area largely absent is his editorials criticizing Booker Washington and his educational strategies, as these arguments are covered well elsewhere.
 
+The title of this volume, *Dare Your Fight*, comes from an [essay](Volumes/07/03/fightordie.md). 
+
 The entire run of <span style="font-variant:small-caps;">The Crisis</span> is available at the [Internet Archive](https://archive.org/details/pub_crisis). I reviewed each issue to identify relevant pieces, copied the text using the OCRed version provided with each issue, and then cleaned and edited the text to match the version found in the PDF. Each cleaned article is saved in markdown format and is available on the project's [GitHub site](http://github.com/nealcaren/fightordie/).
 
 The versions of his work published here largely reflect how they appeared when original published. For example, <span style="font-variant:small-caps;">The Crisis</span>  was always in small caps. Only a few consistent changes have been made:
@@ -22,7 +24,7 @@ The versions of his work published here largely reflect how they appeared when o
 
 The website is produced using [JuypterBook](https://jupyterbook.org/intro.html).
 
-Finally, while this project emphasizes the writing of W.E.B. Du Bois, <span style="font-variant:small-caps;">The Crisis</span> was much bigger than that. There's politics, community updates, lists of college graduates, poetry, fiction, and art. Where else will you stumble across Langston Hughes coming in second in reader-submitted poetry contest? Every author's name provides an opportunity to go down a rabbit hole exploring a new facet of early twentieth century Black culture. But, Du Bois, who always had an eye towards the bottom line, must have realized that what his readers wanted most was baby pictures. Adorable grins appear in just about every issue. There is likely no larger archive of African American infant portraiture than the pages of <span style="font-variant:small-caps;">The Crisis</span>. 
+Finally, while this project emphasizes the writing of W.E.B. Du Bois, <span style="font-variant:small-caps;">The Crisis</span> was much bigger than that. There's politics, community updates, lists of college graduates, poetry, fiction, and art. Where else will you stumble across Langston Hughes coming in second in reader-submitted poetry contest? Every author's name provides an opportunity to go down a rabbit hole exploring a new facet of early twentieth century Black culture. But, Du Bois, who always had an eye towards the bottom line, must have realized that what his readers wanted most was baby pictures. Adorable grins appear in just about every issue. There is likely no larger archive of African American infant portraiture than the pages of <span style="font-variant:small-caps;">The Crisis</span>.
 
 
 **This is an ongoing effort. If you would like to help out, please let [me know](mailto:nealcaren@unc.edu).**
