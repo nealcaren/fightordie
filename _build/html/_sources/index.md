@@ -20,7 +20,10 @@ The versions of his work published here largely reflect how they appeared when o
 * While early articles began with a drop cap and the first few words were capitalized in many pieces, those have not been reproduced here.
 * The n-word has been replace with n*****.
 
-The website is produced using [JuypterBook](https://jupyterbook.org/intro.html)
+The website is produced using [JuypterBook](https://jupyterbook.org/intro.html).
+
+Finally, while this project emphasizes the writing of W.E.B. Du Bois, <span style="font-variant:small-caps;">The Crisis</span> was much bigger than that. There's politics, community updates, lists of college graduates, poetry, fiction, and art. Where else will you stumble across Langston Hughes coming in second in reader-submitted poetry contest? Every author's name provides an opportunity to go down a rabbit hole exploring a new facet of early twentieth century Black culture. But, Du Bois, who always had an eye towards the bottom line, must have realized that what his readers wanted most was baby pictures. Adorable grins appear in just about every issue. There is likely no larger archive of African American infant portraiture than the pages of <span style="font-variant:small-caps;">The Crisis</span>. 
+
 
 **This is an ongoing effort. If you would like to help out, please let [me know](mailto:nealcaren@unc.edu).**
 
