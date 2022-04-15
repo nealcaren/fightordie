@@ -22,6 +22,7 @@ The entire run of <span style="font-variant:small-caps;">The Crisis</span> is av
 The versions of his work published here largely reflect how they appeared when original published. For example, <span style="font-variant:small-caps;">The Crisis</span>  was always in small caps. Only a few consistent changes have been made:
 * Paragraph long quotes are indented unlike in the Crisis. The quotation marks remain, however.
 * While early articles began with a drop cap and the first few words were capitalized in many pieces, those have not been reproduced here.
+* I have not reproduced the narrow non-breaking space (*espace fine insécable*) that was sometimes used in front of colons and question marks.
 * The n-word has been replace with n*****.
 
 The website is produced using [JuypterBook](https://jupyterbook.org/intro.html).
