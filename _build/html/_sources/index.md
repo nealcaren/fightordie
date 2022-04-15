@@ -1,8 +1,9 @@
-# Dare You Fight
+# Dare you Fight&#58;<br/>W.E.B. Du Bois<br/>in The Crisis
 
-**This is an ongoing effort. If you would like to help out, please let [me know](mailto:nealcaren@unc.edu).**
+**This project is an ongoing effort. If you would like to help out, please let [me know](mailto:nealcaren@unc.edu).**
 
 
+## Introduction
 This book is an ongoing project to make available a selection of works by W.E.B. Du Bois that appeared in The Crisis, the official journal of the NAACP. Du Bois founded the journal in 1910 and regularly contributed editorials and occasional articles between 1910 and 1934 when he left the NAACP.
 
 In addition to his many other commitments during this period, his writing for The Crisis was prolific, frequently writing multiple items for each of the 286 issues he edited.
@@ -30,7 +31,7 @@ The website is produced using [JuypterBook](https://jupyterbook.org/intro.html).
 Finally, while this project emphasizes the writing of W.E.B. Du Bois, <span style="font-variant:small-caps;">The Crisis</span> was much bigger than that. There's politics, community updates, lists of college graduates, poetry, fiction, and art. Where else will you stumble across Langston Hughes coming in second in reader-submitted poetry contest? Every author's name provides an opportunity to go down a rabbit hole exploring a new facet of early twentieth century Black culture. But, Du Bois, who always had an eye towards the bottom line, must have realized that what his readers wanted most was baby pictures. Adorable grins appear in just about every issue. There is likely no larger archive of African American infant portraiture than the pages of <span style="font-variant:small-caps;">The Crisis</span>.
 
 
-**This is an ongoing effort. If you would like to help out, please let [me know](mailto:nealcaren@unc.edu).**
+**This project is an ongoing effort. If you would like to help out, please let [me know](mailto:nealcaren@unc.edu).**
 
 ## Table of Contents
 
