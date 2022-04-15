@@ -1,5 +1,5 @@
-# Dare you Fight
-# W.E
+# Dare you Fight  
+# W.E.B. Du Bois in The Crisis
 
 **This project is an ongoing effort. If you would like to help out, please let [me know](mailto:nealcaren@unc.edu).**
 
@@ -21,11 +21,14 @@ The title of this volume, *Dare Your Fight*, comes from a 1914 [editorial *Join 
 
 The entire run of <span style="font-variant:small-caps;">The Crisis</span> is available at the [Internet Archive](https://archive.org/details/pub_crisis). I reviewed each issue to identify relevant pieces, copied the text using the OCRed version provided with each issue, and then cleaned and edited the text to match the version found in the PDF. Each cleaned article is saved in markdown format and is available on the project's [GitHub site](http://github.com/nealcaren/fightordie/).
 
-The versions of his work published here largely reflect how they appeared when original published. For example, <span style="font-variant:small-caps;">The Crisis</span>  was always in small caps. Only a few consistent changes have been made:
+The versions of his work published here largely reflect how they appeared when original published. For example, <span style="font-variant:small-caps;">The Crisis</span>  was always in small caps. "Jim Crow" was always in quotation marks, and hyphenated when used as an adjective. Du Bois's name was spelled both with and without a space after the u. 
+
+ Only a few consistent changes have been made:
 * Paragraph long quotes are indented unlike in the Crisis. The quotation marks remain, however.
 * While early articles began with a drop cap and the first few words were capitalized in many pieces, those have not been reproduced here.
 * I have not reproduced the narrow non-breaking space (*espace fine insécable*) that was sometimes used in front of colons and question marks.
 * The n-word has been replace with n*****.
+
 
 The website is produced using [JuypterBook](https://jupyterbook.org/intro.html).
 
