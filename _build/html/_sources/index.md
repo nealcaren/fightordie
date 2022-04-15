@@ -13,13 +13,18 @@ Although he published his own articles every year or so, Du Bois's main contribu
 
 This volume attempts to represent the full diversity of Du Bois's writing during this timer period, emphasizing those pieces that engage in analysis. The only substantive area largely absent is his editorials criticizing Booker Washington and his educational strategies, as these arguments are covered well elsewhere.
 
+The entire run of <span style="font-variant:small-caps;">The Crisis</span> is available at the [Internet Archive](https://archive.org/details/pub_crisis). I reviewed each issue to identify relevant pieces, copied the text using the OCRed version provided with each issue, and then cleaned and edited the text to match the version found in the PDF. Each cleaned article is saved in markdown format and is available on the project's [GitHub site](http://github.com/nealcaren/fightordie/).
+
 The versions of his work published here largely reflect how they appeared when original published. For example, <span style="font-variant:small-caps;">The Crisis</span>  was always in small caps. Only a few consistent changes have been made:
 * Paragraph long quotes are indented unlike in the Crisis. The quotation marks remain, however.
 * While early articles began with a drop cap and the first few words were capitalized in many pieces, those have not been reproduced here.
 * The n-word has been replace with n*****.
 
+The website is produced using [JuypterBook](https://jupyterbook.org/intro.html)
 
+**This is an ongoing effort. If you would like to help out, please let [me know](mailto:nealcaren@unc.edu).**
 
+## Table of Contents
 
 ```{tableofcontents}
 ```
