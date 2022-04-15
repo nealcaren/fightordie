@@ -35,6 +35,21 @@ with open(fn,'w') as outfile:
     outfile.write(html)
 
 
+# In[43]:
+
+
+toc_fn = '/Users/nealcaren/Documents/GitHub/fightordie/_build/html/toc.html'
+with open(toc_fn,'r') as infile:
+    toc_html = infile.read()
+toc_html = toc_html.replace('<p>PLACEHOLDER</p>', toc)
+
+
+# In[44]:
+
+
+toc_html
+
+
 # In[ ]:
 
 
