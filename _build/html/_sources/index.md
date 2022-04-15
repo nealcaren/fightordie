@@ -13,7 +13,11 @@ Although he published his own articles every year or so, Du Bois's main contribu
 
 This volume attempts to represent the full diversity of Du Bois's writing during this timer period, emphasizing those pieces that engage in analysis. The only substantive area largely absent is his editorials criticizing Booker Washington and his educational strategies, as these arguments are covered well elsewhere.
 
-The title of this volume, *Dare Your Fight*, comes from an [essay](Volumes/07/03/fightordie.md). 
+The title of this volume, *Dare Your Fight*, comes from a 1914 [editorial *Join or Die*](Volumes/07/03/fightordie.md). The emotional plea for support The Crisis
+
+>Merciful God! does a drowning man ask the USE of struggles? No, he struggles, he fights. He wins the shore or dies fighting.
+>&#8239;
+>Black men of America, are you men? Dare you fight?
 
 The entire run of <span style="font-variant:small-caps;">The Crisis</span> is available at the [Internet Archive](https://archive.org/details/pub_crisis). I reviewed each issue to identify relevant pieces, copied the text using the OCRed version provided with each issue, and then cleaned and edited the text to match the version found in the PDF. Each cleaned article is saved in markdown format and is available on the project's [GitHub site](http://github.com/nealcaren/fightordie/).
 
