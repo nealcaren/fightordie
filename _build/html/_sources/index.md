@@ -1,4 +1,5 @@
-# Dare you Fight&#58;<br/>W.E.B. Du Bois<br/>in The Crisis
+# Dare you Fight
+# W.E
 
 **This project is an ongoing effort. If you would like to help out, please let [me know](mailto:nealcaren@unc.edu).**
 

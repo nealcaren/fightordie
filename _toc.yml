@@ -5,7 +5,7 @@ format: jb-book
 root: index
 title: Dare You Fight
 
-- file: introduction
+
 chapters:
 - file: Sections/socialchange
   sections:
