@@ -6,6 +6,8 @@ title: Dare you Fight&#58;<br/>W.E.B. Du Bois<br/>in The Crisis
 author: William E. Burghardt Du Bois
 logo: logo.png
 
+exclude_patterns: ["*.ipynb", "background.md"]
+
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
 execute:
