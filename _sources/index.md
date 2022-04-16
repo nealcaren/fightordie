@@ -1,9 +1,9 @@
 # Dare you Fight  
 
-**This project is an ongoing effort. If you would like to help out, please let [me](mailto:nealcaren@unc.edu) know.**
+**This website is a work in progress. If you would like to help out, please let [me](mailto:nealcaren@unc.edu) know.**
 
 
-This book is an ongoing effort to make available a selection of works by W.E.B. Du Bois that appeared in The Crisis, the official journal of the NAACP. Du Bois founded the journal in 1910 and regularly contributed editorials and occasional articles between 1910 and 1934 when he left the NAACP.
+This website is an ongoing effort to make available a selection of works by W.E.B. Du Bois that appeared in The Crisis, the official journal of the NAACP. Du Bois founded the journal in 1910 and regularly contributed editorials and occasional articles between 1910 and 1934 when he left the NAACP.
 
 
 ## Table of Contents
