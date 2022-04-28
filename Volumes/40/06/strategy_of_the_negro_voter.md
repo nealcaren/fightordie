@@ -1,6 +1,6 @@
-## The Strategy of the Negro Voter (1933)
+# The Strategy of the Negro Voter (1933)
 
-Usually, **The Crisis** has discussed voting among Negroes during elections and sought to give specific advice concerning the action of black voters.
+Usually, <span style="font-variant:small-caps;">The Crisis</span> has discussed voting among Negroes during elections and sought to give specific advice concerning the action of black voters.
 
 In the discussion today, however, it is perhaps better that in the calm that succeeds a presidential election, we should more carefully ask ourselves, what the object of our voting is, and by what methods and strategy we are going to be able to accomplish it?
 
