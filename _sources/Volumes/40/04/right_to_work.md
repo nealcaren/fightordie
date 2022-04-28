@@ -8,7 +8,8 @@ It is immaterial to us whether this change in the surrounding white world comes 
 
 <p style="text-align: center;">~~~~~~~~~~~~~~~</p>
 
-```{margin}[Brook Farm](https://en.wikipedia.org/wiki/Brook_Farm) was a short-lived 19th century commune in Massachusetts.
+```{margin}
+[Brook Farm](https://en.wikipedia.org/wiki/Brook_Farm) was a short-lived 19th century commune in Massachusetts.
 
 The [League for Independent Political Action](https://en.wikipedia.org/wiki/League_for_Independent_Political_Action) (L.I.P.A.) was a failed effort by socialists and progressives to create a new political party. Founded in 1928, it lost much of its steam with Roosevelt’s election in 1932.
 ```
