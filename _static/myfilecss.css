@@ -74,7 +74,7 @@ body {
 }
 table, th, td, tr {
   border: none;
-  border-bottom: 0;
+  border-bottom: none;
 }
 
 @media print {
