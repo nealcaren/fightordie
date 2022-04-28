@@ -72,8 +72,8 @@ body {
     text-align: justify;
     counter-reset: sidenote-counter;
 }
-table, th, td {
-  border: 0;
+table, th, td, tr {
+  border: none;
   border-bottom: 0;
 }
 
