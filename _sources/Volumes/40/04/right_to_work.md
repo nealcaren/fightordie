@@ -8,10 +8,9 @@ It is immaterial to us whether this change in the surrounding white world comes 
 
 <p style="text-align: center;">~~~~~~~~~~~~~~~</p>
 
-```{margin}
-[Broork Farm](https://en.wikipedia.org/wiki/Brook_Farm) was a short-lived 19th century commune in Massachusetts.
+```{margin}[Brook Farm](https://en.wikipedia.org/wiki/Brook_Farm) was a short-lived 19th century commune in Massachusetts.
 
-The [League for Independent Political Action]( https://en.wikipedia.org/wiki/League_for_Independent_Political_Action) (L.I.P.A.) was a failed effort by socialists and progressives to create a new political party. Founded in 1928, it lost much of its steam with Roosevelt’s election in 1932. ```
+The [League for Independent Political Action](https://en.wikipedia.org/wiki/League_for_Independent_Political_Action) (L.I.P.A.) was a failed effort by socialists and progressives to create a new political party. Founded in 1928, it lost much of its steam with Roosevelt’s election in 1932.```
 
 What, then, shall we do? What can we do? Parties of reform, of socialism and communism beckon us. None of these offers us anything concrete or dependable. From Brook Farm down to the L.I.P.A., the face of reform has been set to lift the white producer and consumer, leaving the black man and his peculiar problems severely alone, with the fond hope that better white men will hate Negroes less and better white conditions make race contact more human and respectable. This has sometimes happened, but more often it has not.
 
