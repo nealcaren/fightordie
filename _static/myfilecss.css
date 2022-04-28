@@ -73,8 +73,8 @@ body {
     counter-reset: sidenote-counter;
 }
 table, th, td, tr {
-  border: none;
-  border-bottom: none;
+  border: 1em #fffff8;
+  border-bottom: 1em #fffff8;
 }
 
 @media print {
