@@ -23,4 +23,4 @@ I shall never forget that last night. Six thousand human faces looked down from 
 The Herald cried, “People of Washington arise, and go. The Play is done.” And yet the play was not done. Some things are quite too beautiful ever to be finished. So I walked home alone and
 the joys of God.
 
-*Citation:* Du Bois, W.E.B. 1927. “The Star of Ethopia." 11(2):91-93.
+*Citation:* Du Bois, W.E.B. 1915. “The Star of Ethopia." 11(2):91-93.
