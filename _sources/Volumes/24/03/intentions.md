@@ -106,10 +106,11 @@ On November 22nd and 23rd, the N.A.A.C.P. spent $5,136.93 for the following adve
 |  &nbsp;                | &nbsp;  | &nbsp;      | Circulation | Cost, one<br>insertion|
 | -------------          |-------- | ------------| ---- |  ---- |
 | New York *Times*       | Nov. 23 |  Full page  | 327,216 | $1,539.20 |
-| Chicago * Daily News * | Nov. 22 |  7 columns | 412,304 | $1,387.75 |
+| Chicago *Daily News* | Nov. 22 |  7 columns | 412,304 | $1,387.75 |
+| Atlanta *Constitution* | Nov. 22 |  7 columns | 109,787 | $8379.26 |
 
 
-Chicago | ov. 22 7 columns .... Atlanta Constitution Nov. 22 7 columns .... 109,787 8379.26 Kansas City Journal Nov. 24 % page ....... 40,266 258.72 Kansas City Star Nov. 23 Me MNO conten 439,374 532.00 San Antonio Express Nov. 22 SGD Si ccexs 30,536 168.00 Washington Star Nov. 23 Full page ..... 92,555 488.00 Cleveland Plain Dealer, Nov. 22 WY page ....... 181,756 384.00 New York World ec. 4 ERED ioe snes 360,080 1,344.00 1,998,883 $6,480.93
+Kansas City Journal Nov. 24 % page ....... 40,266 258.72 Kansas City Star Nov. 23 Me MNO conten 439,374 532.00 San Antonio Express Nov. 22 SGD Si ccexs 30,536 168.00 Washington Star Nov. 23 Full page ..... 92,555 488.00 Cleveland Plain Dealer, Nov. 22 WY page ....... 181,756 384.00 New York World ec. 4 ERED ioe snes 360,080 1,344.00 1,998,883 $6,480.93
 
 In this way, on one single day, they made five million intelligent Americans think about lynching. We reached the unreached: white people who knew and cared little about lynching. Was it worth it? We ought to have spent ten times that amount and we shall, if possible, spend that next year. Advertising is costly. Propaganda depends on advertising as well as other
 costly methods. What every great cause—the Red Cross, Jewish Charities, the Knights of Columbus, the Hospitals—what all white folk must do to get their cause before the public, we black folk cannot afford to neglect. All Americans do not understand about lynching. Few Americans dream of our daily life of insult, cruelty and discouragement. If we do not let them know, who will? Who will? We must advertise, we must agitate, we must, as Jehovah told Isaiah, “‘Cry aloud, spare not, lift up thy voice like a trumpet and show my people their transgression.” There is no royal road to publicity. It costs money and much money. We need to advertise as never before in the daily press, in the weekly press, white and colored, in monthly periodicals. We need lecturers and organizers of first-class ability, paid first-class wage. Now is the time to pour money into the Anti-Lynching Campaign—now or never.
