@@ -102,8 +102,9 @@ There are certain simple souls among us who seem to imagine that the emancipatio
 
 On November 22nd and 23rd, the N.A.A.C.P. spent $5,136.93 for the following advertisements in the greatest daily papers of the country:
 
+
 |   |  | | Circulation | Cost, one<br>insertion|
-| ------------- |:-------------:| | |
+| ------------- |------------- | :-------------:| | |
 | New York *Times*      | Nov. 23  |  Full page  | 327,216 | $1,539.20 |
 | Chicago * Daily News *      | Nov. 22  |  7 columns | 412,304 | $1,387.75 |
 
