@@ -1,0 +1,69 @@
+
+# Herbert Hoover (1932)
+
+ The indictment which Americans of Negro descent have against Herbert Hoover is long, and to my mind, unanswerable. The chief counts are the following:
+
+## Lily-White-ism
+```{margin}
+The [Lily-white Movement](https://en.wikipedia.org/wiki/Lily-white_movement) sought to reduce the power of the African Americans and their allies, the  black-and-tan faction, in the Republican Party in the late 19th and early 20th centuries.
+```
+
+Mr. Hoover did not hesitate in 1928 to use the old methods of manipulating Southern delegates in order to secure his nomination. Notwithstanding this, when he was elected to the presidency, he adopted into the program of the “Lily-Whites,” and sought to disfranchise Negroes in the councils of the Republican Party. At the same time, he kept in his councils white Southern Republicans like Creager and Slemp. In other words, Mr. Hoover tried to get rid of Negroes and not dishonesty in Southern politics. And the basic cause of dishonesty, illegal disfranchisement, he never mentioned.
+
+ ## Race-Hatred
+
+During the campaign of 1928, when Mr. Hoover was seeking Southern votes it was necessary for the leaders of the Negro race, including nine officials of national Negro organizations, three bishops of Negro churches, four public officials, four college presidents, and two leading editors, to protest bitterly against the methods of Hoover’s Southern friends. Never since Emancipation and the bargain of 1876, was a more dangerous attack made on the right of Negroes to vote. The protest said:
+
+> “We are asking in this appeal, for a public repudiation of this campaign of racial hatred. Silence and whispering in this case are worse than in matters of personal character and religion. Will white America make no protest? Will the candidates continue to remain silent? Will the Church say nothing? Is there in truth any issue in this campaign, either religious tolerance, liquor, water-power, tariff or farm relief, that touches in weight the transcendant and fundamental question of the open, loyal and unchallenged recognition of the essential humanity of twelve million Americans who happen to be dark-skinned?”
+
+To this national protest, Herbert Hoover did not answer a single word. On the contrary, his “Lily-White” policy continued the campaign.
+
+Nominations for Office Mr. Hoover’s persistence in this attitude was further proven by his willingness to appoint to public office known enemies of the Negro race. In the face of wide protest and plain facts, he appointed William N. Doak as Secretary of Labor, knowing that Doak was the head of a trade union which specifically excludes Negroes, and that for years he was active in West Virginia in depriving Negroes of the right to work, especially on the railways. The recent systematic campaign against Negro firemen in the South is a movement in the same direction and resulted last year alone in seven Negro firemen killed and fourteen seriously injured by their white fellow workers.
+
+```{margin}
+[John J. Parker](https://en.wikipedia.org/wiki/John_J._Parker)’s 1930 nomination to the Supreme Court was opposed by the AFL and NAACP. He nomination was rejected by the Senate 39-41.
+```
+
+Mr. Hoover nominated as Justice of the United States Supreme Court John J. Parker of North Carolina, in spite of the fact that Parker had opposed the right of Negroes to vote. We have been told that Parker was willing to repudiate this stand but that the White House refused to let him; at any rate, while Mr. Hoover hastened to explain Parker’s labor decisions, he treated his anti-Negro attitude with disdainful silence and despite advice and pleading, insisted upon sending this nomination to the Senate. It was finally defeated by a narrow margin by the influence of the Negro and labor vote and despite every effort of the administration to force it through.
+
+## Haiti and Liberia
+
+ Mr. Hoover nominated as Justice of Negro governments in Haiti and Liberia has blown both hot and cold, and ended most unfortunately in both cases. He refused to appoint a Negro member to the Haitian Commission, and while his commission made excellent recommendations, Mr. Hoover followed them slowly and with long periods of hesitation, and he still insists, at the dictation of great financial interests, that the United States keep indefinite control of Haitian finance.
+
+In the same way, in Liberia, he is refusing his assent to the excellent plan of reform drawn up by the League of Nations and assented to by Liberia and he is demanding a dictator who will destroy the independence of Liberia. The United States refuses to be represented at Geneva but the Firestone Rubber Company has headquarters there in the same hotel with Mr. Hoover’s unofficial adviser; it dictates Mr. Hoover’s policy; it demands the right to name the proposed dictator, and refuses to recognize a Negro government which has lived more than a century.
+
+ ## The Color Bar
+
+Mr. Hoover has permitted and ordered outrageous discrimination based on color. He sent colored Gold Star mothers on separate ships with inferior accommodations to visit their son's graves; in officers’ training camps, he refused nearly all Negro applicants. He was begged to stop open discrimination against Negroes in Red Cross relief, following the Mississippi flood in 1927; he first denied the facts, and when they were confirmed by his own committee, he suppressed their report, and never applied adequate remedies.
+
+In the same way, he is today allowing the War Department to white-wash the equally unjustifiable discrimination against Negroes and bad treatment of workers in the government contracts in flood control.
+
+## Colored Appointments
+
+Herbert Hoover practically promised in his 1928 campaign speech at Elizabethton, Tenn., that he would appoint to office no persons to whom white Southerners objected. He has more than carried out this promise and has made fewer first-class appointments of Negroes to office than any President since Andrew Johnson. His few minor appointments have been mediocre and political. Particularly, in cases like Haiti and Ethiopia, where logic and courtesy gave him unusual opportunity to recognize Negroes, he flatly ignored them. In the Civil Service, he has allowed eligible Negroes systematically to be refused appointment, and colored appointees to be dismissed from their positions; while in the diplomatic and consular service, he has reduced the number of incumbents and made few new appointments.
+
+## The Forgotten Black Man
+
+Especially has it been true that President Hoover, knowing as he must, the extraordinary and unprecedented struggle of the American Negro, his handicaps and disadvantages, not to mention his continuing illegal oppression, has in the four years that he has been in the White House, made only the vaguest reference to this race and its needs. He has said absolutely nothing about disfranchisement, peonage nor racial segregation, and next to nothing about lynching and mob law, although fifty-seven Negroes, unconvicted by any court of any crime, have been lynched during his administration. He has done nothing to correct discrimination in the distribution of government educational funds, although he knows that of the more than six million dollars a year, divided by the government among seventeen Southern states for education, only $340,000 goes to black people who form one-fourth of the population.
+
+## The Negro and the Nation
+
+It may be said that the above arraignment, even if true, is partial and one-sided, in that it judges the acts of a public official elected to serve 123 million people from the point of view of the special interests and desires of 12 million.
+
+If the demands of 12 million colored Americans were antagonistic to those of their 111 million fellows, there would remain a grave question of duty and sacrifice and a nice dilemma as to how far a nation can ask a tenth of its souls to commit suicide.
+
+But we Negroes contend that our problem is but a microcosm of the nation and that the president who fails us fails all.
+
+Take the great national problems: the Depression of Industry; the International Debts; the Tariff. In all these, President Hoover has been either wrong or helplessly inadequate and each of these failures affects us.
+
+Stubbornly and blindly, the President for three years denied that there was any depression; allowed the figures of unemployment to be falsified, and refused to sanction adequate and thorough-going relief. When he was forced to face relief, he went to the rescue of banks, railroads and corporations. Yet, we Negroes were the first and severest sufferers from depression and the last to be relieved.
+
+The world owes this nation a fantastic sum which it cannot pay and never will. It is arming for war as fast as it can. Here Mr. Hoover’s leadership is vacillating and contradictory. He calls for a temporary moratorium and then refuses to discuss the problems it raises. He evolves a formula for peace which makes others disarm and allows us to increase armament. He demands that the League of Nations rule in Manchuria but not in Liberia. He wants treaties observed by Japan in China and not by the United States in Haiti. As a result, Peace, industry, and international good will suffer. America becomes the best-hated nation on earth. No one credits her with either good sense or good contentions, and yet all must dance attendance on her organized and despotic economic power. And this economic power crushes Negro labor at home, just as it retards European recovery abroad.
+
+As a manufacturing nation, we need to sell goods all over the earth. We can only sell to those who can pay. Nations pay for imports with exports. Herbert Hoover signed a bill which taxed imports so highly that nations cannot afford to buy our goods. Hoover knew the rates were too high, yet he signed the bill. Our exports decline, our factories close and we starve. And we Negroes starve first and longest.
+
+Moreover, we cannot as a nation secure control of industry and politics as long as the rotten boroughs of the South, with political power based on disfranchised black and white labor, make a third party movement impossible. No one in our day has helped disfranchisement and race hatred more than Herbert Hoover by his “Lily-White” policy, his appointments to office, and his failure to recognize or appreciate the plight of the Forgotten Black Man.
+
+
+_________________
+*Citation:* Du Bois, W.E.B. 1932. "Herber Hoover.” *The Crisis* 39(11):362-363.
