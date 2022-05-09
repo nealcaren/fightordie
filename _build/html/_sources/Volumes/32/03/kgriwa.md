@@ -34,6 +34,11 @@ In the New York movement, advantage is being taken of the fact that in the cente
 
 Foremost among these is Charles Burroughs. Charles Burroughs was trained in the college department of Wilberforce and at the School of Expression in Boston and has been a dramatic reader for many years for the Board of Education in New York City. He has been unusually successful in training actors as was shown by his training the groups which gave the pageant, “The Star of Ethiopia”, in New York, Washington, Philadelphia and Los Angeles.
 
+```{margin}
+![](../../../Images/krygwa_flyer.png)
+[Source](https://credo.library.umass.edu/view/full/mums312-b034-i165)
+```
+
 In the Harlem Little Negro Theatre the library authorities built the stage and dressing rooms and furnished the lighting equipment. The players group furnished the curtain, the scenery, gave the plays and secured the audiences. Three one-act plays were selected, for the initial experiment. Two were tragedies by Willis Richardson: “Compromise”, which was published in The New Negro, and “The Broken Banjo”, which took the first prize in <span style="font-variant:small-caps;">The Crisis</span> Contest of 1925. The third, “The Church Fight”, by Mrs. R. A. Gaines-Shelton, is a comedy which took the second prize in <span style="font-variant:small-caps;">The Crisis</span> Contest of 1925. A cast of 20 persons was required and they rehearsed faithfully. Louise Latimer, assisted by Aaron Douglas, painted the scenery and on May 3, 10 and 17 the plays were given before full houses averaging 200 persons at each performance.
 
 ![](../../../Images/lnt.png)
