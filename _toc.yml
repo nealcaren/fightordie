@@ -174,7 +174,7 @@ chapters:
     - file: Volumes/40/01/listen_japan_and_china.md
   - file: Sections/history
     sections:
-    - file: Volumes/03/05/lee.html
+    - file: Volumes/03/05/lee.md
     - file: Volumes/39/01/john_brown.md
   - file: Sections/theater
     sections:
