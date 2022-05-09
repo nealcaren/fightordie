@@ -29,7 +29,7 @@ In the New York movement, advantage is being taken of the fact that in the cente
  Some time ago Miss Ernestine Rose, the Librarian, suggested that a Little Theatre movement be started in connection with this library; but other activities interfered. This year the library authorities expressed their willingness to help equip a small and inexpensive stage in the lecture room and a group of 30 persons interested in such a theatre has been organized.
 
 ```{margin}
-“[The Star of Ethiopia]( https://en.wikipedia.org/wiki/The_Star_of_Ethiopia” was Du Bois’s historical pageant.
+“[The Star of Ethiopia](https://en.wikipedia.org/wiki/The_Star_of_Ethiopia)” was Du Bois’s historical pageant.
 ```
 
 Foremost among these is Charles Burroughs. Charles Burroughs was trained in the college department of Wilberforce and at the School of Expression in Boston and has been a dramatic reader for many years for the Board of Education in New York City. He has been unusually successful in training actors as was shown by his training the groups which gave the pageant, “The Star of Ethiopia”, in New York, Washington, Philadelphia and Los Angeles.
