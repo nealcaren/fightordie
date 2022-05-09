@@ -1,4 +1,4 @@
-# Social Equity (1919)
+# Social Equality (1919)
 
 Every time the American Negro seeks reasonably and earnestly to bring his case before the white South and the nation the bourbons proceed to throw dust in the eyes of the public by screaming frantically, “Social Equality.”
 
@@ -8,4 +8,4 @@ If, on the other hand, “Social Equality” involves the denial of the social r
 
 
 ______________
-*Citation:* Du Bois, W.E.B. 1919. "Social Equity." *The Crisis*. 19(1): 337.
+*Citation:* Du Bois, W.E.B. 1919. "Social Equality." *The Crisis*. 19(1): 337.
