@@ -173,12 +173,15 @@ chapters:
     - file: Volumes/31/02/firing_line.md
     - file: Volumes/40/01/listen_japan_and_china.md
   - file: Sections/history
+    sections:
     - file: Volumes/03/05/lee.html
     - file: Volumes/39/01/john_brown.md
   - file: Sections/theater
+    sections:
     - file: Volumes/06/07/national_emancipation_exposition.md
     - file: Volumes/11/02/star_of_ethiopia.md
   - file: Sections/capital_n
+    sections:
     - file: Volumes/09/02/negro.md
     - file: Volumes/11/04/that_capital_n.md
     - file: Volumes/37/05/capital_n.md
