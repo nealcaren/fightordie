@@ -5,10 +5,10 @@
 > &nbsp;  
 >  Dear Sir:  
 > &nbsp;  
->  I am only a high school student in my Sophomore year, and have not the understanding of you college educated men. It seems to me that since <span style="font-variant:small-caps;">The Crisis</span> is the Official Organ of the National Association for the Advancement of Colored People which stand for equality for all Americans, why would it designate, and segregate us as “Negroes’, and not as “Americans”.       
-> &nbsp;
-> The most piercing thing that hurts me in this February <span style="font-variant:small-caps;"> Crisis</span>, which forced me to write, was the notice that called the natives of Africa, “Negroes”, instead of calling them “Africans”, or “natives”.
-> &nbsp;
+>  I am only a high school student in my Sophomore year, and have not the understanding of you college educated men. It seems to me that since <span style="font-variant:small-caps;">The Crisis</span> is the Official Organ of the National Association for the Advancement of Colored People which stand for equality for all Americans, why would it designate, and segregate us as “Negroes’, and not as “Americans”.    
+> &nbsp;    
+> The most piercing thing that hurts me in this February <span style="font-variant:small-caps;"> Crisis</span>, which forced me to write, was the notice that called the natives of Africa, “Negroes”, instead of calling them “Africans”, or “natives”.    
+> &nbsp;    
 > The word, “Negro”, or “n*****”, is a white man’s word to make us feel inferior. I hope to be a worker for my race, that is why I wrote this letter. I hope that by the time I become a man, that this word, “Negro”, will be abolished.    
 > &nbsp;    
 > Roland A. Barton.
