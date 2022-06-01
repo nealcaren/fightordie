@@ -1,17 +1,25 @@
 # Disenfranchisement (1925)
 
 
-How is the Negro disenfranchised? The process is so complicated that few Negroes themselves know definitely. Beginning with 1890 laws have been passed in various Southern states which today disfranchise approximately four million Negroes 21 years of age and over, over half of whom can read and write and who own property which runs into the hundreds of millions. The restrictions by which these have been accomplished are eight in number: 1. Illiteracy: The voter must be able to read and write. 2. Property: The voter must own a certain amount of property. 3. Poll Tax: The voter must have paid his poll tax for the present year or for a series of years. 4. Employment: The voter must have regular employment. 5. Army service: Soldiers in the Civil War and certain other wars, or their descendants, may vote. 6. Reputation: Persons of good reputation who understand the duties of a citizen may vote. 7. “Grandfather” clause: Persons who could vote before the freedmen were enfranchised or descendants of such persons may vote. 8. Understanding clause: Persons may vote who understand some selected clause of the Constitution and can explain it to the satisfaction of the registration officials.
+How is the Negro disenfranchised? The process is so complicated that few Negroes themselves know definitely. Beginning with 1890 laws have been passed in various Southern states which today disfranchise approximately four million Negroes 21 years of age and over, over half of whom can read and write and who own property which runs into the hundreds of millions. The restrictions by which these have been accomplished are eight in number:
+1. Illiteracy: The voter must be able to read and write.
+2. Property: The voter must own a certain amount of property.
+3. Poll Tax: The voter must have paid his poll tax for the present year or for a series of years.
+4. Employment: The voter must have regular employment.
+5. Army service: Soldiers in the Civil War and certain other wars, or their descendants, may vote.
+6. Reputation: Persons of good reputation who understand the duties of a citizen may vote.
+7. “Grandfather” clause: Persons who could vote before the freedmen were enfranchised or descendants of such persons may vote.
+8. Understanding clause: Persons may vote who understand some selected clause of the Constitution and can explain it to the satisfaction of the registration officials.
 
 The laws are often obscurely drawn and many of them have not had full judicial determination but apparently these restrictions are distributed as follows:
 
-1890—Mississippi (1 or 8) +3.
-1895—South Carolina 1 or 2 or 8.
-1898—Louisiana (1+2) or 7.
-1901—North Carolina (1+3) or 7.
-1901—Alabama (1+4) or 2 or 5 or 6.
-1902—Virginia (1+3 or 5) or 8 or 2.
-1909—Georgia 1 or 2 or 5 or 6.
+1890—Mississippi (1 or 8) +3.    
+1895—South Carolina 1 or 2 or 8.    
+1898—Louisiana (1+2) or 7.    
+1901—North Carolina (1+3) or 7.    
+1901—Alabama (1+4) or 2 or 5 or 6.    
+1902—Virginia (1+3 or 5) or 8 or 2.    
+1909—Georgia 1 or 2 or 5 or 6.    
 
 That is, in Mississippi the voter must be able to read and write or he must understand and explain a section of the Constitution read to him and, in addition to that, he must have paid his poll tax, etc.
 

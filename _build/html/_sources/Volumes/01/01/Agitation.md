@@ -2,7 +2,7 @@
 
 Some good friends of the cause we represent fear agitation. They say: "Do not agitate—do not make a noise; work." They add, "Agitation is destructive or at best negative—what is wanted is positive constructive work."
 
-Such honest critics mistake the function of agitation. A toothache is agitation. Is a toothache a good thing? No . Is it therefore useless? No. It is supremely useful, for it tells the body of decay, dyspepsia and death. Without it the body would suffer unknowingly. It would think: All is well, when lo! danger lurks.
+Such honest critics mistake the function of agitation. A toothache is agitation. Is a toothache a good thing? No. Is it therefore useless? No. It is supremely useful, for it tells the body of decay, dyspepsia and death. Without it the body would suffer unknowingly. It would think: All is well, when lo! danger lurks.
 
 The same is true of the Social Body. Agitation is a necessary evil to tell of the ills of the Suffering. Without it many a nation has been lulled to false security and preened itself with virtues it did not possess.
 
