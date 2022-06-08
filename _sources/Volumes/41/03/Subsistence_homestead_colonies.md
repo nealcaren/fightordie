@@ -12,7 +12,7 @@ Established as part of the National Industrial Recovery Act of 1933, the [Subsis
 But one of the most feasible remedies is to make it possible for the worker to support himself with food and shelter even if temporarily he is out of employment or holding out for higher wage. The one method of accomplishing this is by small homesteads where the worker and his family by extra and healthful outdoor work can raise his own food.
 
 ```{margin}
-![](https://www.nal.usda.gov/exhibits/ipd/small/files/original/resettlement.jpg)
+![](https://www.nal.usda.gov/exhibits/ipd/small/themes/deco508/images/elmonte.jpg)
 ```
 
 It is a fine project and deserves all success; but like everything in the United States, it brings up the Negro problem. Such homesteads might be bought anywhere in connection with the present distribution of industry; but it would be cheapest and on the whole most feasible, if they were established in colonies, and this immediately brings up the question: Who shall be selected for these colonies?
