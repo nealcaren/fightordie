@@ -1,17 +1,18 @@
 # Subsistence Homestead Colonies (1934)
 
 
-
-The difficulty with the modern wage contract is that the contracting parties, the worker and the employer, do not meet with equal power to negotiate. The wage earner must accept in most cases any wage offer because otherwise he will starve to death; and since the employer’s profit depends on the amount that he can save from wages, he is tempted to reduce the wage as nearly as possible to the bare necessities for keeping the worker alive.
-
-To attack this difficulty there have been many proposals, like minimum wage laws, the distribution of capital among workers and other socialistic and communistic experiments.
-
 ```{margin}
 ![](https://www.nal.usda.gov/exhibits/ipd/small/themes/deco508/images/elmonte.jpg)
 ```
 ```{margin}
 Established as part of the National Industrial Recovery Act of 1933, the [Subsistence Homesteads Division]( https://en.wikipedia.org/wiki/Subsistence_Homesteads_Division) created 30 cooperative communities to help alleviate poverty associated with the Great Depression. Families were given homes and land, with the idea that they could grow crops to sustain themselves when paid work was unavailable. The program ended in 1937 and no communities succeeded.
 ```
+
+The difficulty with the modern wage contract is that the contracting parties, the worker and the employer, do not meet with equal power to negotiate. The wage earner must accept in most cases any wage offer because otherwise he will starve to death; and since the employer’s profit depends on the amount that he can save from wages, he is tempted to reduce the wage as nearly as possible to the bare necessities for keeping the worker alive.
+
+To attack this difficulty there have been many proposals, like minimum wage laws, the distribution of capital among workers and other socialistic and communistic experiments.
+
+
 But one of the most feasible remedies is to make it possible for the worker to support himself with food and shelter even if temporarily he is out of employment or holding out for higher wage. The one method of accomplishing this is by small homesteads where the worker and his family by extra and healthful outdoor work can raise his own food.
 
 
