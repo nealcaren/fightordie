@@ -1,6 +1,11 @@
 
 # “Social Equality” (1911)
 
+
+```{margin}
+A common white attack on demands for equal rights during this period was to suggest that the true demand was radical "social equality", which was stated or implied to include forced intermarriage.
+```
+
 At last we have a definition of the very elusive phrase “Social Equality” as applied to the Negro problem. In stating their grievances colored people have recently specified these points:
 1. Disfranchisement, even of educated Negroes.
 2. Curtailment of common school training.
