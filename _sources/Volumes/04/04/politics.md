@@ -19,7 +19,7 @@ What price should you ask for 500,000 votes, black America? You should ask this:
 
 1. The abolition of the interstate “Jim Crow” car.  
 2. The enforcement of the Thirteenth Amendment by the suppression of peonage.
-3. The enforcement of the Fourteenth Amendment by cutting down the representation in Congress of the rotten boroughs of the South.
+3. The enforcement of the Fourteenth Amendment by cutting down the representation in Congress of the rotten boroughs of the South.  
 4. National aid to elementary public schools without class or racial discrimination.
 
 Is this price too much to pay for a presidency? It is not if you dare ask it.
