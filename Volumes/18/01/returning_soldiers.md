@@ -39,4 +39,4 @@ Make way for Democracy! saved it in France, and by the Great Jehovah, we will sa
 
 
 ______________
-*Citation:* Du Bois, W.E.B. 1918. "Return Soldiers." *The Crisis*. 18(1): 12-13.
+*Citation:* Du Bois, W.E.B. 1919. "Return Soldiers." *The Crisis*. 18(1): 12-13.
