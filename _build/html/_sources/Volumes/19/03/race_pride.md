@@ -1,6 +1,7 @@
 # Race Pride (1920)
 
 ```{margin}
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Robert_Russa_Moton%2C_1916.jpg/440px-Robert_Russa_Moton%2C_1916.jpg)
 The Amazing Major is a reference to [Robert Moton]( https://en.wikipedia.org/wiki/Robert_Russa_Moton), a close ally of Booker T. Washington, and his successor as head of the  Tuskegee Institute.
 ```
 
