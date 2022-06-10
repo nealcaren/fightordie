@@ -2,7 +2,7 @@
 
 ```{margin}
 *Labor Omnia Vincit*, Latin for "Work conquers all", was a common motto of labor unions, including the American Federation of Labor.    
-![]('https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/AFL-label.jpg/440px-AFL-label.jpg')
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/AFL-label.jpg/440px-AFL-label.jpg)
 ```
 
 Labor conquers all things— but slowly, O, so slowly. Ever the weary worldlings seek some easier, quicker way— the Way of Wealth, of Privilege, of Chance, of Power; but in the end all that they get—Food, Raiment, Palace and Pleasure—is the result of Toil, but not always of their own toil. The great cry of world Justice today is that the fruit of toil go to the Laborer who produces it. In this labor of Production we recognize effort of all sorts—lifting, digging, carrying, measuring, thinking, foreseeing; but we are refusing to recognize Chance, Birth or Monopoly as just grounds for compelling men to serve men.
