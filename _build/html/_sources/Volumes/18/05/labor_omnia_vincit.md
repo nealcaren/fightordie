@@ -1,7 +1,7 @@
 # Labor Omnia Vincit (1919)
 
 ```{margin}
-*Labor Omnia Vincit*, Latin for "Work conquers all", was a common motto of labor unions, including the American Federation of Labor.    
+Latin for "Work conquers all", *Labor Omnia Vincit*, was a common motto of labor unions, including the American Federation of Labor.    
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/AFL-label.jpg/440px-AFL-label.jpg)
 ```
 
