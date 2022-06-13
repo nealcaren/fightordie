@@ -7,6 +7,7 @@ The [First Universal Races Congress](https://en.wikipedia.org/wiki/First_Univers
 > To discuss, in the light of science and modern conscience, the general relations subsisting between the peoples of the West and those of the East, between the so-called "white" and the so-called "colored" peoples, with a view to encouraging between them a fuller understanding, the most friendly feelings, and the heartier co-operation.
 
 Du Bois delivered his paper, "The Negro Race in the United States of America."
+
 ```
 
 If Americans who have long since said the last word con­cerning the races of men and their proper relations will read the papers laid before the First Universal Races Congress, they will realize that America is fifty years behind the scientific world in its racial philosophy.
