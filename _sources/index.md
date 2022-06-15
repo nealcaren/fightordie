@@ -4,7 +4,7 @@
 
 **Edited by Neal Caren**
 
-This website is an ongoing effort to make available a selection of writings by W.E.B. Du Bois that appeared in <span style="font-variant:small-caps;">The Crisis</span>, the official journal of the NAACP. Du Bois founded the magazine in 1910 and regularly contributed editorials and occasional articles until 1934, when he left the NAACP.
+This project is an ongoing effort to make available a selection of writings by W.E.B. Du Bois that appeared in <span style="font-variant:small-caps;">The Crisis</span>, the official journal of the NAACP. Du Bois founded the magazine in 1910 and regularly contributed editorials and occasional articles until 1934, when he left the NAACP.
 
 
 **Work in progress. If you would like to help out, please let [me](mailto:nealcaren@unc.edu) know.**
