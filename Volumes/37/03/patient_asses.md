@@ -1,6 +1,5 @@
 # Patient Asses (1930)
 
-
 I met my friend one morning on Seventh Avenue as we were hurrying opposite ways to our work. She asked:
  
 “Did you attend Smuts lecture?”
@@ -13,7 +12,7 @@ I quite agreed with her.
  
 And then she said: “You were wise in advocating Pan-Africanism.”
  
-I thanked her. I was glad that she saw the point. I wished again, as I have often wished, that other people would see it. Here was a statesman fronm the Union of South Africa. Effort was made before his visit to the United States to commit the colored people to support of him and his policy in order that their action might influence their colored brethren in South Africa. As he was about to arrive, a movement was put on foot to get colored leaders to sign a laudatory address and thank Jans Smuts for his South African Negro program! This was fortunately blocked. Then a quiet conference was arranged in Washington by the Phelps Stokes Fund in which the program was confined to carefully restricted discussion of the American race problem and arranged so as to include no single Negro who had been in South Africa or had expert knowledge of the South African situation.
+I thanked her. I was glad that she saw the point. I wished again, as I have often wished, that other people would see it. Here was a statesman from the Union of South Africa. Effort was made before his visit to the United States to commit the colored people to support of him and his policy in order that their action might influence their colored brethren in South Africa. As he was about to arrive, a movement was put on foot to get colored leaders to sign a laudatory address and thank Jans Smuts for his South African Negro program! This was fortunately blocked. Then a quiet conference was arranged in Washington by the Phelps Stokes Fund in which the program was confined to carefully restricted discussion of the American race problem and arranged so as to include no single Negro who had been in South Africa or had expert knowledge of the South African situation.
  
 -----------------
  
