@@ -1,12 +1,12 @@
-# Patient Asses (1930)    
+# Patient Asses (1930)
 
 I met my friend one morning on Seventh Avenue as we were hurrying opposite ways to our work. She asked:
  
-“Did you attend Smuts lecture?”
+"Did you attend Smuts lecture?"
  
 I did not.
  
-She said: “He does not strike me as sincere.”
+She said: "He does not strike me as sincere.""
  
 I quite agreed with her.
  
@@ -41,7 +41,7 @@ Conceive what would happen to an Englishman who had treated Irishmen in this way
  
 How much might have been accomplished for the advantage of Africa and the reputation of American Negroes if we had with quiet dignity refused to sit on Smuts’ platform and to go into conference with him except on the clear understanding that we would be perfectly free to demand from him an explanation of South African conditions and his part in making them. Why was it not perfectly in order for some member of that conference to ask Jan Smuts courteously but firmly why he had deliberately lied at Town Hall and told a questioner that an American Negro could buy land and live in South Africa? Meantime, can not everyone see how necessary it is for persons of Negro descent in all parts of the world to understand their respective problems? How humiliating to see prominent American Negro leaders put themselves in a position to appear as catspaws against the plain wishes and interests of their blood brothers in Africa!
  
-THE problems of Negroes differ, to be sure, the world over in many intricate and vital respects, but at bottom, they are the same: the political disfranchisement of Negro blood; the distortion of the facts of Negro history and accomplishment; racial discrimination in everyday life; limitation of education so as to increase black serfdom and white profits: “Jim-Crow” policies of all sorts and personal insult based on color of skin.
+The problems of Negroes differ, to be sure, the world over in many intricate and vital respects, but at bottom, they are the same: the political disfranchisement of Negro blood; the distortion of the facts of Negro history and accomplishment; racial discrimination in everyday life; limitation of education so as to increase black serfdom and white profits: “Jim-Crow” policies of all sorts and personal insult based on color of skin.
  
 The degree in which these various disabilities are applied differs in different countries and at different times, but they are all present in some degree in every Negro group. It is, therefore, of the greatest importance that these Sroups understand each other; that British Negroes stop criticizing and sneering at American Negroes; that American Negroes realize what British Negroes are accomplishing and enduring; that South Americans and West Indians cease making a white skin their one clear ideal; that African Negroes keep in close touch with their cousins overseas, and that all Negroes look toward the Black World in an effort to be intelligent and thoughtful and helpful in the development of the black folk of all lands.
  
