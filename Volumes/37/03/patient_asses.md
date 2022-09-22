@@ -1,5 +1,6 @@
 # Patient Asses (1930)
- 
+
+
 I met my friend one morning on Seventh Avenue as we were hurrying opposite ways to our work. She asked:
  
 “Did you attend Smuts lecture?”
