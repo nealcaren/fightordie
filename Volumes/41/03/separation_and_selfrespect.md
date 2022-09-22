@@ -1,29 +1,15 @@
-# Subsistence Homestead Colonies (1934)
+# Separation and Self-Respect (1934)
 
+That we continually face in this problem of race segregation in the United States is a paradox like this:
 
-```{margin}
-![](https://www.nal.usda.gov/exhibits/ipd/small/themes/deco508/images/elmonte.jpg)
-```
-```{margin}
-Established as part of the National Industrial Recovery Act of 1933, the [Subsistence Homesteads Division]( https://en.wikipedia.org/wiki/Subsistence_Homesteads_Division) created 30 cooperative communities to help alleviate poverty associated with the Great Depression. Families were given homes and land, with the idea that they could grow crops to sustain themselves when paid work was unavailable. The program ended in 1937 and no communities succeeded.
-```
+1. Compulsory separation of human beings by essentially artificial criteria, such as birth, nationality, language, color and race, is the cause of human hate, jealousy and war, and the destruction of talent and art.    
+2. Where separation of mankind into races, groups and classes is compulsory, either by law or custom, and whether that compulsion be temporary or permanent, the only effective defense that the segregated and despised group has against complete spiritual and physical disaster, is internal self-organization for self-respect and self-defense.
 
-The difficulty with the modern wage contract is that the contracting parties, the worker and the employer, do not meet with equal power to negotiate. The wage earner must accept in most cases any wage offer because otherwise he will starve to death; and since the employer’s profit depends on the amount that he can save from wages, he is tempted to reduce the wage as nearly as possible to the bare necessities for keeping the worker alive.
+The dilemma is complete and there is no escape. The black man born in South Carolina has a right and a duty to complain that any public school system separated by artificial race and class lines is needlessly expensive, socially dangerous, and spiritually degrading. And yet that black man will send his child to a Negro school, and he will see to it, if he is really a man, that this Negro school is the best possible school; that it is decently housed and effectively taught by well-trained teachers. He will demand a voice in its control, finances and curriculum, and any action of his that asks for less than this will mark him as an idiot or a coward.
 
-To attack this difficulty there have been many proposals, like minimum wage laws, the distribution of capital among workers and other socialistic and communistic experiments.
+A black man born in Boston has a right to oppose any separation of schools by color, race or class. He has a duty to insist that the public school attended by all kinds and conditions of people, is the best and only door to true democracy and human understanding. But this black man in Boston has no right, after he has made this academic pronouncement to send his own helpless immature child into school where white children kick, cuff or abuse him, or where teachers openly and persistently neglect or hurt or dwarf its soul. If he does, he must not be surprised if the boy lands in the gutter or penitentiary. Moreover, our Boston brother has no right to sneer at the “Jim-Crow” schools of South Carolina, or at the brave teachers who guide them at starvation wage; nor can he conscientiously advise the South Carolinian to move to Boston and join the bread lines.
 
-
-But one of the most feasible remedies is to make it possible for the worker to support himself with food and shelter even if temporarily he is out of employment or holding out for higher wage. The one method of accomplishing this is by small homesteads where the worker and his family by extra and healthful outdoor work can raise his own food.
-
-
-
-It is a fine project and deserves all success; but like everything in the United States, it brings up the Negro problem. Such homesteads might be bought anywhere in connection with the present distribution of industry; but it would be cheapest and on the whole most feasible, if they were established in colonies, and this immediately brings up the question: Who shall be selected for these colonies?
-
-We can yell our heads off and pass the bravest and most uncompromising resolutions and yet we know that most homestead colonies, and particularly those in the South, are not going to select any Negro participants, except as servants and casual laborers.
-
-It would be fine if people were selected without regard to color, but in the United States this is simply impossible. The color of a man’s skin in a colony of this sort would mean more to the colony than any other characteristic. His integrity, his ability, his industry, his personal characteristics, would count for nothing, as set in all against the fact that he was of Negro descent.
-
-So far then as these colonies are voluntary associations or incorporated bodies, the Negro would be given no chance to enter on equal terms with the whites. For the most part in the South he would be deprived of political rights; he would have to have separate social institutions, such as schools and churches, and his economic opportunities in various ways would be curtailed. Under these circumstances, it would be nothing less than idiotic for colored people themselves to refuse to accept or neglect to ask for subsistence homestead colonies of their own. They would have a chance to select the character of people with whom they wanted to live; they would have a chance of making these settlements model settlements of which anybody would be proud, and they would do more in the long run to break down the Color Line than they could by any futile and helpless denunciation of race prejudice. It seems almost impossible that honest, clear-thinking American Negroes can not see this patent fact.
+Let the N.A.A.C.P. and every upstanding Negro pound at the closed gates of opportunity and denounce caste and segregation; but let us not punish our own children under the curious impression that we are punishing our white oppressors. Let us not affront our own self-respect by accepting a proffered equality which is not equality, or submitting to discrimination simply because it does not involve actual and open segregation; and above all, let us not sit down and do nothing for self-defense and self-organization just because we are too stupid or too distrustful of ourselves to take vigorous and decisive action.
 
 _________________
-*Citation:* Du Bois, W.E.B. 1934. "Subsistence Homestead Colonies." 41(3):85.
+*Citation:* Du Bois, W.E.B. 1934. "Separation and Self-Respect." 41(3):85.
