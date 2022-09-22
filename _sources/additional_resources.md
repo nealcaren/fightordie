@@ -4,7 +4,7 @@
 ## Online Archives
 
 * The Crisis. (1910-2014). Internet Archive. https://archive.org/details/pub_crisis
-* The Crisis. (1910-1922). Modernist Journal Project. https://modjourn.org/journal/crisis/
+* The Crisis. (1910-1922  ). Modernist Journal Project. https://modjourn.org/journal/crisis/
 * W. E. B. Du Bois Papers. (1803-1999). UMass Amherst Credo. https://credo.library.umass.edu/view/collection/mums312
 * WEBDuBois.org. Robert W. Williams, editor. http://www.webdubois.org/index.html
 
