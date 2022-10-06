@@ -8,8 +8,5 @@ Again there is no warrant for the assumption that the new rubber industry in Lib
 
 Certain it is that a great overshadowing corporation like this in a small country is going to wield extraordinary power; as great as that of the railroads and steel and oil interests in the United States. Liberia faces the same difficulty of controlling organized wealth as other modern lands with the disadvantage of being a “colored” country- but with the advantage of having two or three million colored voters in the United States who can, if they have sense enough, curb the Firestone power in case it becomes over-aggressive.
 
-<p style="padding-left: 2em; text-indent: -2em;">Witch: Today in 1732 Virginia a white boy is born. Today in 1732 Virginia a white boy is born. Today in 1732 Virginia a white boy is born. Today in 1732 Virginia a white boy is born.</p>
-<p style="padding-left: 2em;">The anniversary of this event. Today in 1732 Virginia a white boy is born. Today in 1732 Virginia a white boy is born. Today in 1732 Virginia a white boy is born. Today in 1732 Virginia a white boy is born.</p>
-
 _____
 *Citation:* Du Bois, W.E.B. 1927. "Liberia" *The Crisis*. 34(1): 34.
