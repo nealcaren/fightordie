@@ -9,6 +9,9 @@ This project is an ongoing effort to make available a selection of  writings by 
 
 **Work in progress. If you would like to help out, please let [me](mailto:nealcaren@unc.edu) know.**
 
+Thanks to Joyce Ebhodaghe for her editorial assistance.
+
+
 ## Table of Contents
 
 ```{tableofcontents}
