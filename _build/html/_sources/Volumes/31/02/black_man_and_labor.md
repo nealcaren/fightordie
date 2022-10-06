@@ -2,7 +2,7 @@
 
 
 ```{margin}
-The [Brotherhood of Sleeping Car Porters](https://en.wikipedia.org/wiki/Brotherhood_of_Sleeping_Car_Porters), founded by Du Bois critic A. Philip Randolph, was founded in 1925, but would not achieve its first contract until more than a decade later.
+The [Brotherhood of Sleeping Car Porters](https://en.wikipedia.org/wiki/Brotherhood_of_Sleeping_Car_Porters), lead by Du Bois critic A. Philip Randolph, was founded in 1925, but would not achieve its first contract until more than a decade later.
 
 The Communist Party USA, then known as the Workers (Communist) Party of America, held their [fourth national convention](https://archive.org/details/TheFourthNationalConventionOfTheWorkerscommunistPartyOfAmerica) in Chicago, Illinois, from August 21st to 30th, 1925.
 ```
