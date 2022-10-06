@@ -170,6 +170,7 @@ chapters:
     - file: Volumes/05/04/intermarriage.md
     - file: Volumes/19/03/sex_equality.md
     - file: Volumes/31/05/correspondence.md
+    - file: Volumes/37/02/interracial_love_in_texas.md
   - file: Sections/reparations
     sections:
     - file: Volumes/24/02/whitecharity.md
@@ -199,7 +200,7 @@ chapters:
     - file: Volumes/09/02/negro.md
     - file: Volumes/11/04/that_capital_n.md
     - file: Volumes/35/03/name_negro.md
-    - file: Volumes/37/05/capital_n.md
+    - file: Volumes/37/02/that_capital_n.md
   - file: Sections/misc
     sections:
     - file: Volumes/18/03/reconstruction.md
@@ -207,6 +208,7 @@ chapters:
     - file: Volumes/28/03/helping_africa.md
     - file: Volumes/38/03/woofterism.md
     - file: Volumes/34/02/farmers.md
+    - file: Volumes/39/04/platform_for_radicals.md
     - file: Volumes/39/08/blaine_of_maine.md
     - file: Volumes/40/02/our_rate_of_increase.md
     - file: Volumes/40/02/our_health.md
