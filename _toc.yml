@@ -109,7 +109,7 @@ chapters:
   - file: Volumes/34/02/higher_friction.md
   - file: Volumes/34/09/prejudice.md
   - file: Volumes/37/02/about_wailing.md
-  - file: Volumes/40/07/protest.md
+  #- file: Volumes/40/07/protest.md
 
 - file: Sections/economics
   sections:
