@@ -10,3 +10,4 @@ conda run -n crisis  jupyter-book clean  .
 #git push
 #conda run -n crisis ghp-import -n -p -f _build/html -c www.dareyoufight.org
 conda run -n crisis jupyter-book build ./  --builder pdflatex
+conda run -n crisis  jupyter-book clean  .

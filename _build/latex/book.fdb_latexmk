@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1665081024 "book.tex" "book.pdf" "book" 1665081024
+["pdflatex"] 1665161226 "book.tex" "book.pdf" "book" 1665161226
   "/usr/local/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/local/texlive/2022/texmf-dist/tex/generic/atbegshi/atbegshi.sty" 1575674566 24708 5584a51a7101caf7e6bbf1fc27d8f7b1 ""
@@ -216,11 +216,11 @@
   "/usr/local/texlive/2022/texmf-dist/web2c/texmf.cnf" 1646502317 40171 cdab547de63d26590bebb3baff566530 ""
   "/usr/local/texlive/2022/texmf-var/web2c/xetex/xelatex.fmt" 1649816337 5419899 766a439fa94888ce7d22d132ce646f26 ""
   "/usr/local/texlive/2022/texmf.cnf" 1647878952 577 209b46be99c9075fd74d4c0369380e8c ""
-  "book.aux" 1665081024 32 3985256e7290058c681f74d7a3565a19 ""
-  "book.tex" 1665081023 960365 898d1ebd087be33d5b54db00679204b7 ""
+  "book.aux" 1665161226 32 3985256e7290058c681f74d7a3565a19 ""
+  "book.tex" 1665161225 954779 a3800d597662d38d76141fbab5571622 ""
   "jupyterBook.cls" 1646841580 2743 52e249bf26da4a9394954634d2639f42 ""
   "sphinx.sty" 1646841577 13262 0226aaccc1147ed884a3946fce78a6d2 ""
-  "sphinxhighlight.sty" 1665081021 6679 76d10c62e0f0661410b46f5db6118e26 ""
+  "sphinxhighlight.sty" 1665161222 6679 76d10c62e0f0661410b46f5db6118e26 ""
   "sphinxlatexadmonitions.sty" 1646841577 6238 2d867d769abf3f72abc17ef52adff78b ""
   "sphinxlatexcontainers.sty" 1646841577 901 d3a3a1b7b2547f47ade2499350b5c420 ""
   "sphinxlatexgraphics.sty" 1646841577 4840 a9578332b6f3b35e198751fb632c9b79 ""
@@ -235,7 +235,7 @@
   "sphinxlatexstyletext.sty" 1646841577 6177 c18841ce3fafc366cd3b145f8faa4c37 ""
   "sphinxlatextables.sty" 1646841577 21848 2827eb0b11b99b185a8b77317d3e131c ""
   "sphinxmanual.cls" 1646841577 4241 7b0d7a37df7b5715fb0dbd585c52ecdb ""
-  "sphinxmessages.sty" 1665081023 745 3f5fcd6cdd7964ed608767954a8ced6f ""
+  "sphinxmessages.sty" 1665161225 745 3f5fcd6cdd7964ed608767954a8ced6f ""
   "sphinxoptionsgeometry.sty" 1646841577 2061 47bb34b8ed8a78823eb0c886abfb9f4d ""
   "sphinxoptionshyperref.sty" 1646841577 1094 79beb8b8a3f10784f8cce804e0f9d3aa ""
   "sphinxpackagefootnote.sty" 1646841577 13248 e2c77871396275ccf592403f8130f6f2 ""
