@@ -28,4 +28,4 @@ These are a fair summary of the conclusions of writers who are among the best-kn
 
 
 _________________
-*Citation:* Du Bois, W.E.B. 1911. "Races"  *The Crisis*. 2(4): 157-158.
+*Citation:* Du Bois, W.E.B. 1911. "Races"  *The Crisis*. 2(4):157-158.

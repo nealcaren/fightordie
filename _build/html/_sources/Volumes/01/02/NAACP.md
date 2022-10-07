@@ -31,4 +31,4 @@ We are organized to fight this great modern danger. How may we fight it?
 If you think such work is worth while aid us by joining our organization and contributing to it.
 
 _________________
-*Citation:* Du Bois, W.E.B. 1910. "N.A.A.C.P."  *The Crisis*. 1(2): 16-17.
+*Citation:* Du Bois, W.E.B. 1910. "N.A.A.C.P."  *The Crisis*. 1(2):16-17.

@@ -18,4 +18,4 @@ At this time of year, when we celebrate the birthdays of our two most famous Ame
 
 
 _________________
-*Citation:* Du Bois, W.E.B. 1912. "Lee" *The Crisis*. 3(5): 200-201.
+*Citation:* Du Bois, W.E.B. 1912. "Lee" *The Crisis*. 3(5):200-201.

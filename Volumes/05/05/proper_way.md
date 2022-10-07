@@ -30,4 +30,4 @@ What is possible to-day and tomorrow and every day is to keep up necessary agita
 
 
 ______________
-*Citation:* Du Bois, W.E.B. 1913. "The Proper Way" Editorial. *The Crisis*. 5(5): 238-239.
+*Citation:* Du Bois, W.E.B. 1913. "The Proper Way" Editorial. *The Crisis*. 5(5):238-239.
