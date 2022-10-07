@@ -20,4 +20,4 @@ At last we have a definition of the very elusive phrase “Social Equality” as
 Southern papers in Charlotte, Richmond, New Orleans and Nashville have with singular unanimity hastened to call this complaint an unequivocal demand for “social equality,” and as such absolutely inadmissible. We are glad to have a frank definition, because we have always suspected this smooth phrase. We recommend on this showing that hereafter colored men who hasten to disavow any desire for “social equality” should carefully read the above list of disabilities which social inequality would seem to prescribe.
 
 ________________
-*Citation:* Du Bois, W.E.B. 1911. "Social Equality."  1(3)20-21.
+*Citation:* Du Bois, W.E.B. 1911. "Social Equality."  1(3):20-21.
