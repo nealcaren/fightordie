@@ -58,4 +58,4 @@ Join or die!
 
 
 ______________
-*Citation:* Du Bois, W.E.B. 1914. "Fight or Die." *The Crisis*. 7(3): 133-134.
+*Citation:* Du Bois, W.E.B. 1914. "Fight or Die." *The Crisis*. 7(3):133-134.

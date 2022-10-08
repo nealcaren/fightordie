@@ -8,4 +8,4 @@ We have no way of proving these assertions; but they have many ear-marks of trut
 
 
 ________________
-*Citation:* Du Bois, W.E.B. 1914. "The Cause of Lynching." *The Crisis*. 8(3): 126-127.
+*Citation:* Du Bois, W.E.B. 1914. "The Cause of Lynching." *The Crisis*. 8(3):126-127.

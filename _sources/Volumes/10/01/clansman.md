@@ -12,4 +12,4 @@ This action while commendable is not sufficient. The whole second half of the pl
 
 
  ______________
- *Citation:* Du Bois, W.E.B. 1913. "The Clansman."" *The Crisis*. 10(1): 33.
+ *Citation:* Du Bois, W.E.B. 1913. "The Clansman." *The Crisis*. 10(1):33.
