@@ -53,6 +53,7 @@ Specific Dare You Fight style is:
 ```
 * Long articles sometimes have section break lines, which can be recreated with `<p align="center"> ~~~~~~~~~~~~~~~ </p>`
 * You can review the Markdown version of any page on Dare You Fight by clicking the down arrow in the upper right corner and selecting ".md". Reviewing these might be helpful for potentially complex formatting issues.
+* Markdown file titles is a lower-cased version of the article title, replacing spaces with underscores (`_`).
 
 ## Marginal notes
 We seek to add marginal explanatory notes. These are usually a sentence or two that provide additional information about the subject that Crisis readers would likely know, such as details about a specific person or organization. These notes can include links and pictures. To submit one, a "New Issue" on our GitHub [issues page](https://github.com/nealcaren/fightordie/issues) with the page, where on the page the note should go, and text of the note in Markdown, ending with your initials (e..g, "- npc"). Folks who contribute marginal notes will be listed on the credits page.
