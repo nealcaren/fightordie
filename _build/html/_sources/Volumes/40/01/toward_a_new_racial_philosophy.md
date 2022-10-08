@@ -1,5 +1,3 @@
-
-
 # Toward a New Racial Philosophy (1933)
 
 A college graduate came to me yesterday and asked: “What has the N.A.A.C.P. published concerning the present problems of the Negro, and especially of young Negroes just out of college?”

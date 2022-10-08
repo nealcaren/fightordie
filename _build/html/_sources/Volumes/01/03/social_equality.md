@@ -1,4 +1,3 @@
-
 # “Social Equality” (1911)
 
 

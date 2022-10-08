@@ -1,4 +1,3 @@
-
 # “Ashamed” (1911)
 
 Any colored man who complains of the treatment he receives in America is apt to be faced sooner or later by the statement that he is ashamed of his race.

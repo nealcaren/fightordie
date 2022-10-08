@@ -45,3 +45,6 @@ Another man in Detroit bought a fine home in a former exclusive district which i
 A little later another physician in Detroit bought another beautiful home and moved in. A mob—almost the same mob—came, cursed, threw stones and ordered him to move. He gathered his family and friends within and locked the door. Five or six thousand people lined the streets. The police set traffic officers to divert the traffic that could not get through. The mob invaded his yard and approached his doors. He shot and shot to kill. His wife and his friends are now in jail charged with *Murder in the first degree!* He was “colored”’.
 
 Gentle Reader, which of these three examples shall my friend of Harlem follow? Which would you follow if you were “free", black and 21?
+
+_
+*Citation:* Du Bois, W.E.B. 1925. "The Black Man and Labor."  31(1):7-10.

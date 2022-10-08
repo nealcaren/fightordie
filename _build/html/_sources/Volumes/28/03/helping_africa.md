@@ -1,4 +1,3 @@
-
 # Helping Africa (1924)
 
 There is one thought in our will to help Africa that continually recurs. We think again and again of going over there and taking charge and helping people to do things better, leading them as we are overfond of saying, “from darkness into light.” Let us curb this custom of thinking with one or two after-thoughts.
