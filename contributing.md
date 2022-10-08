@@ -46,8 +46,12 @@ Specific Dare You Fight style is:
 * The second to last line is a line, accomplished with `_____`
 * The last line is the citation, such as `*Citation:* Du Bois, W.E.B. 1924. "Kenya" *The Crisis*. 27(4): 152-153.`
 * The title of the journal where it occurs in an article is in small caps, which can be accomplished with `<span style="font-variant:small-caps;">The Crisis</span>`
-* Long quotes are indented using \>. 
-
+* Long quotes are indented using \>. For  quotes that run more than one paragraph, use a non-printing space between each paragraph to preserve the indent. Additionally, each paragraph, except the last, should end with two spaces:
+```
+    > Paragraph 1  
+    > &nbsp;  
+    > Paragraph 2
+```
 
 
 ## Marginal notes
