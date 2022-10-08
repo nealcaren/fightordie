@@ -10,5 +10,5 @@ This project is an ongoing effort to make available a selection of writings by W
 
 We welcome assistance extracting and editing article texts from PDFs and contributions of explanatory notes. Please see our contributions guidelines at contributing.md.
 
-![](https://credo.library.umass.edu/images/resize/600x600/mums312-i0463-001.jpg)  
+![W. E. B. Du Bois in his office looking at copies of The Crisis, ca. 1948.](https://credo.library.umass.edu/images/resize/600x600/mums312-i0463-001.jpg)  
 *W. E. B. Du Bois in his office, ca. 1948. W. E. B. Du Bois Papers (MS 312). Special Collections and University Archives, University of Massachusetts Amherst Libraries*
