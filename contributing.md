@@ -30,8 +30,7 @@ Each Du Bois article is saved as a plain text file, such as [kenya.md](https://r
 
 
 which appears on [the site](http://www.dareyoufight.org/Volumes/27/04/kenya.html as:
-
-	![](https://www.dropbox.com/s/i4ndddvdo1le6jx/samplehtml.png?dl=1)
+![](https://www.dropbox.com/s/i4ndddvdo1le6jx/samplehtml.png?dl=1)
 
 General markdown Markdown formatting guidelines include:
 *  `*italics*`  if you want *italics*  
