@@ -29,9 +29,24 @@ Each Du Bois article is saved as its own plain text file, such as [kenya.md](htt
 ![](https://www.dropbox.com/s/bly9i6kxuzaspsv/samplemd.png?raw=1)
 
 
-which appears on [the site](https://capture.dropbox.com/foEueoMwUVNUevPB) as:
+which appears on [the site](http://www.dareyoufight.org/Volumes/27/04/kenya.html as:
 
-![](https://www.dropbox.com/s/i4ndddvdo1le6jx/samplehtml.png?dl=1)
+	![](https://www.dropbox.com/s/i4ndddvdo1le6jx/samplehtml.png?dl=1)
+
+General markdown Markdown formatting guidelines include:
+*  \*italics\*  if you want *italics*  
+*  \*\*bold\*\*  if you want **bold**
+* \> to begin an indented paragraph
+* \# for top-level header, such as the page title and \#\# for a subheader.
+* You can create a new paragraph with either a blank line or several trailing spaces at the end of a line.
+You can find more [complete guides online](https://www.markdownguide.org/cheat-sheet/).
+
+Specific Dare You Fight style is:
+* Each file begins with a header symbol (\#) followed by the article title and the year in parenthesis, such as a `# Kenya (1924)`
+* The second to last line is a line, accomplished with `_____`
+* The last line is the citation, such as `*Citation:* Du Bois, W.E.B. 1924. "Kenya" *The Crisis*. 27(4): 152-153.`
+* The title of the journal where it occurs in an article is in small caps, which can be accomplished with `<span style="font-variant:small-caps;">The Crisis</span>`
+* Long quotes are indented using \>. 
 
 
 
