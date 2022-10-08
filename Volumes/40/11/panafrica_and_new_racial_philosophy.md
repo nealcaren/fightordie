@@ -1,7 +1,4 @@
-
 # Pan-Africa and New Racial Philosophy (1933)
-
- During the last ten months, we have tried in the <span style="font-variant:small-caps;">Crisis</span> magazine to make a re-statement of the Negro problem in certain of its aspects. We began with the question of health and disease among us. Then we took up in succession our physical rate of increase, “Karl Marx and the Negro,” “The Problem of Earning a Living,” “Marxism and the Negro Problem,” “The Negro Vote,” “The Class Struggle Within the Race,” “Negro Education,” and “Our Problems of Religion.”
 
 We have considered all these matters in relation to the American Negro but our underlying thought has been continually that they can and must be seen not against any narrow, provincial or even national background, but in relation to the great problem of the colored races of the world and particularly those of African descent.
 

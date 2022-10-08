@@ -1,4 +1,3 @@
-
 # The Name Negro (1928)
 
 > South Bend, Ind.  

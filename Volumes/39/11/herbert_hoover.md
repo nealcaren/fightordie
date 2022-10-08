@@ -1,4 +1,3 @@
-
 # Herbert Hoover (1932)
 
  The indictment which Americans of Negro descent have against Herbert Hoover is long, and to my mind, unanswerable. The chief counts are the following:

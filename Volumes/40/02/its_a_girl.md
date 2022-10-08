@@ -1,4 +1,3 @@
-
 # It is a Girl (1933)
 
 Anent my December editorial one writes :

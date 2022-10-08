@@ -132,3 +132,4 @@ dmypy.json
 .pyre/
 publish
 .DS_Store
+done.csv

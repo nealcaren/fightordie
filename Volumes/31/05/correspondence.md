@@ -1,4 +1,3 @@
-
 # Correspondence (1926)
 
 > *Broken Bow, Nebraska.*  

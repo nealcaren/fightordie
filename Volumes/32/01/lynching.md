@@ -1,4 +1,3 @@
-
 # Lynching (1926)
 
 Every 23 days a man is lynched in America and we say lynching is over because once we lynched two men every three days. The situation is still intolerable and uncivilized. The Southern states are still incapable of punishing lynchers. Even men whom the courts have declared innocent have been seized by mobs and lynched and then those same courts were unable to punish the lynchers.

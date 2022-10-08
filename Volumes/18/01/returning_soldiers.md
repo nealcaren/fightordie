@@ -1,5 +1,3 @@
-
-
 # Returning Soldiers (1919)
 
 We are returning from war! <span style="font-variant:small-caps;">The Crisis</span> and tens of thousands of black men were drafted into a great struggle. For bleeding France and what she means and has meant and will mean to us and humanity and against the threat of German race arrogance, we fought gladly and to the last drop of blood; for America and her highest ideals, we fought in far-off hope; for the dominant southern oligarchy entrenched in Washington, we fought in bitter resignation. For the America that represents and gloats in lynching, disfranchisement, caste, brutality and devilish insult—for this in the hateful upturning and mixing of things, we were forced by vindictive fate to fight, also.

@@ -1,4 +1,3 @@
-
 # Shillady and Texas (1919)
 
 There was once a man who said that if he owned Hell and Texas, he would prefer to rent out Texas and live in Hell. He may have exaggerated, but he had some supporting facts: Texas was settled by white Southerners in order to extend slave territory; it was forcibly stolen from Mexico in 1837, largely because Mexico tried to abolish slavery in 1829. Thereupon Texas became a center of the African slave trade and the “most shameful violations” of United States slave trade laws were perpetrated through Texas. During the years of Texan independence slaves were rushed in at the rate of 15,000 or more a year and the annexation of Texas and the Mexican War were movements to extend Negro slavery.
