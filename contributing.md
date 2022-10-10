@@ -9,8 +9,6 @@ Our [Code of Conduct](code_of_conduct.md) governs this project and everyone's pa
 
 ## How you can help
 
-#### Table Of Contents
-
 - [Fixing Errors](#errors)
 - [Transcribing Articles](#Transcribe)
 - [Adding notes](#Marginal-notes)
