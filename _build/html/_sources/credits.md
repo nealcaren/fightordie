@@ -1,11 +1,8 @@
 # Credits
 
-**Editor**
+<h3> Editor   
 * Neal Caren
 
-<h3> Editorial Assistant
+<h3> Editorial Assistant  
+
 * Joyce Ebhodaghe
-
-
-```{tableofcontents}
-```
