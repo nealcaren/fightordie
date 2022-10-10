@@ -133,3 +133,4 @@ dmypy.json
 publish
 .DS_Store
 done.csv
+local/
