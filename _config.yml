@@ -38,7 +38,7 @@ html:
   use_issues_button: false
   use_repository_button: false
   extra_navbar: ""
-  extra_footer: "Edited by Neal Caren"
+  extra_footer: ""
 
 sphinx:
   config:
