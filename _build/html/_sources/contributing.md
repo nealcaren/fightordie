@@ -47,11 +47,13 @@ General markdown Markdown formatting guidelines include:
 * You can create a new paragraph with either a blank line or several trailing spaces at the end of a line.
 You can find more [complete guides online](https://www.markdownguide.org/cheat-sheet/).
 
-Specific Dare You Fight style is:
+Specific *Dare You Fight* style is:
 * Each file begins with a header symbol (\#) followed by the article title and the year in parenthesis, such as a `# Kenya (1924)`
 * The second to the last line is a line, accomplished with `_____`
 * The last line is the citation, such as `*Citation:* Du Bois, W.E.B. 1924. "Kenya" *The Crisis*. 27(4): 152-153.`
 * The title of the journal where it occurs in an article is in small caps, which can be accomplished with `<span style="font-variant:small-caps;">The Crisis</span>`
+* Ignore the drop cap and excessive capitalization that begins some articles.
+* Do not reproduce the narrow non-breaking space (espace fine insécable) that was sometimes used in front of colons and question marks.
 * Long quotes are indented using \>. For quotes that run more than one paragraph, use a non-printing space between each paragraph to preserve the indent. Additionally, each paragraph, except the last, should end with two spaces:
 ```
     > Paragraph 1  
