@@ -66,6 +66,5 @@ Specific Dare You Fight style is:
 We seek to add marginal explanatory notes. These are usually a sentence or two that provide additional information about the subject that Crisis readers would likely know, such as details about a specific person or organization. In addition, these notes can include links and pictures. To submit one, a "New Issue" on our GitHub [issues page](https://github.com/nealcaren/fightordie/issues) with the page, where on the page the note should go, and text of the note in Markdown, ending with your initials (e..g, "- npc"). Folks who contribute marginal notes will be listed on the credits page.
 
 
-
 ## Inspiration
 [Ben Welsh's](https://palewi.re/who-is-ben-welsh/) [cummings.ee](https://cummings.ee/) gave me the idea to make this a participatory project.
