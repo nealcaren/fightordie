@@ -143,6 +143,7 @@ chapters:
 
 - file: Sections/womansuffrage
   sections:
+  - file: Volumes/04/02/suffering_suffragettes.md
   - file: Volumes/04/04/ohio.md
   - file: Volumes/09/06/womansuffrage.md
   - file: Volumes/09/03/agility.md
