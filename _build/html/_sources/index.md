@@ -13,7 +13,7 @@ This project is an ongoing effort to make available a selection of  writings by 
 If you would like to help out, take a look at our [Contribution Guide](https://github.com/nealcaren/fightordie/blob/main/contributing.md), or email [me](mailto:nealcaren@unc.edu).
 
 
-## Table of Contents
+Table of Contents
 
 ```{tableofcontents}
 ```
