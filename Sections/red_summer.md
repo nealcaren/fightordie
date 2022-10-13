@@ -1,4 +1,4 @@
-# Race Riots
+# Red Summer
 
 
 ```{tableofcontents}
