@@ -27,8 +27,7 @@ The day of such world organization is past and whatever excuse be made for it in
 
 The great industrial problem which has hitherto been regarded as the domestic problem of culture lands, must be viewed far more broadly, if it is ever to reach just settlement. Labor and capital in England, France and America can never solve their problem as long as a similar and vastly greater problem of poverty and injustice marks the relations of the whiter and darker peoples. It is shameful, unreligious, unscientific and undemocratic that the estimate, which half the peoples of earth put on the other half, depends mainly on their ability to squeeze profit out of them.
 
-```{margin} [Particeps Criminis](https://www.merriam-webster.com/legal/particeps%20criminis#:~:text=Legal%20Definition%20of%20particeps%20criminis,part%20in%20a%20crime%20%3A%20accomplice)
-An accomplice, someone who participates in a crime.
+```{margin} [Particeps Criminis](https://www.merriam-webster.com/legal/particeps%20criminis#:~:text=Legal%20Definition%20of%20particeps%20criminis,part%20in%20a%20crime%20%3A%20accomplice): An accomplice, someone who participates in a crime.
 ```
 
 If we are coming to recognize that the great modern problem is to correct maladjustment in the distribution of wealth, it must be remembered that the basic maladjustment is in the outrageously unjust distribution of world income between the dominant and suppressed peoples; in the rape of land and raw material, and monopoly of technique and culture. And in this crime white labor is particeps criminis with white capital. Unconsciously and consciously, carelessly and deliberately, the vast power of the white labor vote in modern democracies has been cajoled and flattered into imperialistic schemes to enslave and debauch black, brown and yellow labor, until with fatal retribution, they are themselves today bound and gagged and rendered impotent by the resulting monopoly of the world's raw material in the hands of a dominant, cruel and irresponsible few.
@@ -53,21 +52,24 @@ What do those wish who see these evils of the color line and racial discriminati
 
 The Negro race through its thinking intelligentsia is demanding:
 
-I—The recognition of civilized men as civilized despite their race or color
+<ol type="I">
+<li> The recognition of civilized men as civilized despite their race or color
 
-II—Local self government for backward groups, deliberately rising as experience and knowledge grow to complete self government under the limitations of a self governed world
+<li> Local self government for backward groups, deliberately rising as experience and knowledge grow to complete self government under the limitations of a self governed world
 
-III—Education in self knowledge, in scientific truth and in industrial technique, undivorced from the art of beauty
+<li>  Education in self knowledge, in scientific truth and in industrial technique, undivorced from the art of beauty
 
-IV—Freedom in their own religion and social customs, and with the right te be different and non-conformist
+<li>  Freedom in their own religion and social customs, and with the right to be different and non-conformist
 
-V-—-Co-operation with the rest of the world in government, industry and art on the basis of Justice, Freedom and Peace
+<li> Co-operation with the rest of the world in government, industry and art on the basis of Justice, Freedom and Peace
 
-VI—The ancient common ownership of the land and its natural fruits and defence against the unrestrained greed of invested capital
+<li>  The ancient common ownership of the land and its natural fruits and defence against the unrestrained greed of invested capital
 
-VII—The establishment under the League of Nations of an international institution for the study of Negro problems
+<li>  The establishment under the League of Nations of an international institution for the study of Negro problems
 
-VIlI—The establishment of an international section in the Labor Bureau of the League of Nations, charged with the protection of native labor.
+<li>  The establishment of an international section in the Labor Bureau of the League of Nations, charged with the protection of native labor.
+
+</ol>
 
 The world must face two eventualities: either the complete assimilation of Africa with two or three of the great world states, with political, civil and social power and privileges absolutely equal for its black and white citizens, or the rise of a great black African state founded in Peace and Good Will, based on popular education, natural art and industry and freedom of trade; autonomous and sovereign in its internal policy, but from its beginning a part of a great society of peoples in which it takes its place with others as co-rulers of the world.
 
@@ -76,5 +78,6 @@ In some such words and thoughts as these we seek to express our will and ideal, 
 The answer is written in the stars.
 
 
-—-----------
+—-----------  
+
 *Citation:* Du Bois, W.E.B. 1921. "To the World" *The Crisis*. 23(1): 5-10.
