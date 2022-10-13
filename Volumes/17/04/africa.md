@@ -8,10 +8,11 @@ In this division the British Empire gained a network of possessions extending fr
 
 This was the state of affairs when the war broke out in 1914. In Africa the only independent states were the Republic of Liberia, and the kingdom of Abyssinia which, according to history, has been independent since the days of Menelek, the reputed Son of Solomon, and the Queen of Sheba. The number of souls thus under the rule of aliens is astounding, amounting in the case of England, France, Germany and Belgium to more than 110,000,000. During the course of the war Germany lost all four of her African colonies with a population estimated at 138,420,000. It is the question of the reapportionment of this vast number of human beings which has started the Pan-African movement. Colored America is indeed involved.
 
-> *"If we do not feel the chain*
-> *When it works another's pain,*
+> *"If we do not feel the chain*  
+> *When it works another's pain,*  
 > *Are we not base slaves indeed,*  
 > *Slaves unworthy to be freed?"*  
 
-—-----------
+—-----------  
+
 *Citation:* Du Bois, W.E.B. 1919. "Africa" *The Crisis*. 17(4): 164-165.
