@@ -16,6 +16,11 @@ It may be that in the end nothing but force will break down the injustice of the
 
  They are all of them willing and eager to work, and yet because their work is misdirected in order to make a profit for white people, these dark people must starve and be unemployed.
 
+ ```{margin}
+ [National Recovery Act](https://www.archives.gov/milestone-documents/national-industrial-recovery-act)
+ The National Recovery Act of 1933 was part of Franklin D. Roosevelt administration's effort to assist the economic recovery during the Great Depression.
+ ```
+
 Here in the United States the net result of the National Recovery Act so far has been to raise wages for a small number of favored white workers and to decrease wages or push out of employment entirely the Negro. It is possible that this present result may in time be changed, and we note with interest what Secretary Ickes has said to the State Engineers and Public Works Administration:
 
 > "It is important to bear in mind that the Public Works Administration is for the benefit of all the people of the country. The established policy in the construction of public buildings and public works under its control is that in the employment of mechanics and labor, preference be given to local labor to the extent that it is available and competent, and that there be no discrimination exercised against any person because of color or religious affiliation."
