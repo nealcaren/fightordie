@@ -1,6 +1,7 @@
 # The Negro College (1933)
 
-```{margin} A [draft of the speech](https://credo.library.umass.edu/cgi-bin/pdf.cgi?id=scua:mums312-b211-i116) is available from the [Du Bois archive](https://credo.library.umass.edu/view/collection/mums312).
+```{margin}
+A [draft of the speech](https://credo.library.umass.edu/cgi-bin/pdf.cgi?id=scua:mums312-b211-i116) is available from the [Du Bois archive](https://credo.library.umass.edu/view/collection/mums312).
 ```
 
 *This is part of an address on "The Field and Function of a Negro College", delivered at the annual alumni reunion during commencement week at Fisk University last June. The complete address has been issued in pamphlet form by the University.*

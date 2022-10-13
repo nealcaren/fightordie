@@ -170,11 +170,6 @@ chapters:
 
 - file: Sections/other
   sections:
-  - file: Sections/education
-    sections:
-      - file: Volumes/39/04/again_howard.md
-      - file: Volumes/40/08/negro_college.md
-  sections:
   - file: Sections/racescience
     sections:
     - file: Volumes/02/04/races.md
@@ -219,6 +214,10 @@ chapters:
     - file: Volumes/35/03/name_negro.md
     - file: Volumes/37/02/that_capital_n.md
     - file: Volumes/37/05/capital_n.md
+  - file: Sections/education.md
+    sections:
+    - file: Volumes/39/04/again_howard.md
+    - file: Volumes/40/08/negro_college.md
   - file: Sections/misc
     sections:
     - file: Volumes/18/03/reconstruction.md

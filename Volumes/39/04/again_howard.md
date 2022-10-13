@@ -1,7 +1,7 @@
 # Again Howard (1932)
 
 ```{margin}
-![](mordecai-wyatt-johnson.jpg)
+![](https://aaregistry.org/wp-content/uploads/2009/09/mordecai-wyatt-johnson.jpg)
 [Mordecei Johnson](​​https://core.ac.uk/download/pdf/32438545.pdf)
 After a few years of praise for becoming the first Black president of Howard University in 1926, Mordecei Johnson became the subject of blame for the University's financial issues. The stock market crash of 1929 led to heightened tensions between Black and white people, resulting in a decline in the white philanthropic funds the University relied on. After helping develop a 10-year plan to increase faculty salaries, Johnson fell short.
 ```
