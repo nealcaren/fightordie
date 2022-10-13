@@ -1,8 +1,8 @@
 # La Follette (1928)
 
-Let Negroes read with thoughtful care and deep understanding the manifesto of the Third Party. It makes no direct reference to our problems. But what are our problems? They are the world’s problems and something more. That something more is color prejudice and that is our immediate problem. But back of that and even with that solved are problems as pressing, as imperative, as tremendous for us as for any working people. These we cannot neglect. Simultaneously with our peculiar problems,  these others call for solution. They cannot be postponed.
+Let Negroes read with thoughtful care and deep understanding the manifesto of the Third Party. It makes no direct reference to our problems. But what are our problems? They are the world's problems and something more. That something more is color prejudice and that is our immediate problem. But back of that and even with that solved are problems as pressing, as imperative, as tremendous for us as for any working people. These we cannot neglect. Simultaneously with our peculiar problems,  these others call for solution. They cannot be postponed.
 
-What are they? They rise according to La Follette’s Cleveland program from the effort of organized force and greed to destroy liberty; and that program therefore proposes
+What are they? They rise according to La Follette's Cleveland program from the effort of organized force and greed to destroy liberty; and that program therefore proposes
 
 1.	The crushing of private monopoly by Federal power.
 2.	Freedom of speech.

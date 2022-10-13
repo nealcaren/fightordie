@@ -10,7 +10,7 @@ Our chance for higher training is not one-fourth of what it should be, and seems
 
 We are not unmindful of our accomplishments and of a significant change in American public opinion. But we know perfectly well that all that we have accomplished is to put our feet upon the path to modern manhood. We are still the only group in civilized American life who can be openly and grossly insulted on the public platform and in newspaper editorials and columns without any effective chance to protest to a sound public opinion; but our encouragement comes from the fact that two generations ago we could be openly murdered upon the streets of New York with even less protest. This is progress. We are encouraged. But even with this before our faces, and with every respect to the *American Mercury*, We are not going to change our wailing to grinning just yet.
 
-In fact, we have a feeling that in times past we have already rather overdone that grinning business. Let’s wail a while.
+In fact, we have a feeling that in times past we have already rather overdone that grinning business. Let's wail a while.
 
 ______________
 *Citation:* Du Bois, W.E.B. 1930. "About Wailing." *The Crisis*. 37(1): 64.

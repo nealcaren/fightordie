@@ -8,7 +8,7 @@ How is the Negro disenfranchised? The process is so complicated that few Negroes
 4. Employment: The voter must have regular employment.
 5. Army service: Soldiers in the Civil War and certain other wars, or their descendants, may vote.
 6. Reputation: Persons of good reputation who understand the duties of a citizen may vote.
-7. “Grandfather” clause: Persons who could vote before the freedmen were enfranchised or descendants of such persons may vote.
+7. "Grandfather" clause: Persons who could vote before the freedmen were enfranchised or descendants of such persons may vote.
 8. Understanding clause: Persons may vote who understand some selected clause of the Constitution and can explain it to the satisfaction of the registration officials.
 
 The laws are often obscurely drawn and many of them have not had full judicial determination but apparently these restrictions are distributed as follows:

@@ -1,13 +1,13 @@
 # The Negro Party (1916)
 
-There is for the future one and only one effective political move for colored voters. We have long foreseen it, have sought to avoid it. It is a move of segregation, it “hyphenates” us, it separates us from our fellow Americans; but self-defense knows no nice hesitations. The American Negro must either vote as a unit or continue to be politically emasculated as at present.
+There is for the future one and only one effective political move for colored voters. We have long foreseen it, have sought to avoid it. It is a move of segregation, it "hyphenates" us, it separates us from our fellow Americans; but self-defense knows no nice hesitations. The American Negro must either vote as a unit or continue to be politically emasculated as at present.
 
 
 ```{margin}
 [Robert Reed Church](https://en.wikipedia.org/wiki/Robert_Reed_Church)
 ```
 
-Miss Inez Milholland, in a recent address, outlined with singular clearness and force a Negro Party on the lines of the recently formed Woman’s Party. Mr. R. R. Church, Jr., of Tennessee, and certain leading colored men in New Jersey, Ohio and elsewhere have unconsciously and effectively followed her advice.
+Miss Inez Milholland, in a recent address, outlined with singular clearness and force a Negro Party on the lines of the recently formed Woman's Party. Mr. R. R. Church, Jr., of Tennessee, and certain leading colored men in New Jersey, Ohio and elsewhere have unconsciously and effectively followed her advice.
 
 The situation is this: At present the Democratic party can maintain its ascendency only by the help of the Solid South. The Solid South is built on the hate and fear of Negroes; consequently it can never, as a party, effectively bid for the Negro vote. The Republican party is the party of wealth and big business and, as such, is the natural enemy of the humble working people who compose the mass of Negroes. Between these two great parties, as parties there is little to choose.
 
