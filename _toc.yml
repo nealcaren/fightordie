@@ -9,6 +9,117 @@ title: Dare You Fight
 chapters:
 - file: toc
 - file: introduction.md
+
+
+- file: Sections/segregation
+  sections:
+  - file: Volumes/01/01/Segregation.md
+  - file: Volumes/03/05/homes.md
+  - file: Volumes/05/04/blesseddiscrimination.md
+  - file: Volumes/13/06/perpetual_dilemma.md
+  - file: Volumes/17/03/jim_crow.md
+  - file: Volumes/18/01/returning_soldiers.md
+  - file: Volumes/26/02/on_being_crazy.md
+  - file: Volumes/31/01/challenge_of_detroit.md
+  - file: Volumes/40/03/Color_caste_in_the_united_states.md
+  - file: Volumes/40/09/on_being_ashamed.md
+  - file: Volumes/41/01/segregation.md
+  - file: Volumes/41/02/naacp_and_race_segregation.md
+  - file: Volumes/41/03/history_of_segregation_philosophy.md
+  - file: Volumes/41/03/separation_and_selfrespect.md
+  - file: Volumes/41/04/segregation_in_the_north.md
+  - file: Volumes/41/05/segregation.md
+
+- file: Sections/racism
+  sections:
+  - file: Volumes/01/03/social_equality.md
+  - file: Volumes/01/03/ashamed.md
+  - file: Volumes/03/04/light.md
+  - file: Volumes/06/02/logic.md
+  - file: Volumes/10/01/clansman.md
+  - file: Volumes/12/05/conduct_not_color.md
+  - file: Volumes/12/06/migration.md
+  - file: Volumes/19/01/social_equality.md
+  - file: Volumes/24/01/slavery.md
+  - file: Volumes/31/04/newer_south.md
+  - file: Volumes/34/02/higher_friction.md
+  - file: Volumes/34/09/prejudice.md
+  - file: Volumes/37/02/about_wailing.md
+  #- file: Volumes/40/07/protest.md
+
+- file: Sections/lynching.md
+  sections:
+  - file: Volumes/02/04/lynching.md
+  - file: Volumes/08/03/cause_of_lynching.md
+  - file: Volumes/12/06/cowardice.md
+  - file: Volumes/22/01/anti-lynching_legislation.md
+  - file: Volumes/24/03/intentions.md
+  - file: Volumes/26/02/university_course_in_lynching.md
+  - file: Volumes/32/01/lynching.md
+  - file: Volumes/34/01/aiken.md
+  - file: Volumes/33/04/lynching.md
+  - file: Volumes/38/04/causes_of_lynching.md
+  - file: Volumes/39/02/lynchings.md
+
+- file: Sections/race_riots
+  sections:
+  - file: Volumes/18/06/shillady_and_texas.md
+  - file: Volumes/19/03/brothers_come_north.md
+  - file: Volumes/34/06/mob_tactics.md
+
+- file: Sections/pan-africanism
+  sections:
+  - file: Volumes/17/04/africa.md
+  - file: Volumes/19/03/race_pride.md
+  - file: Volumes/23/01/to_the_world.md
+  - file: Volumes/37/03/patient_asses.md
+  - file: Volumes/40/11/panafrica_and_new_racial_philosophy.md
+  - file: Volumes/40/01/listen_japan_and_china.md
+
+- file: Sections/economics
+  sections:
+  - file: Sections/labor
+    sections:
+    - file: Volumes/03/06/servant_in_the_south.md
+    - file: Volumes/15/05/the_black_man_and_the_unions.md
+    - file: Volumes/18/05/labor_omnia_vincit.md
+    - file: Volumes/28/04/american_federation_of_labor.md
+    - file: Volumes/31/02/black_man_and_labor.md
+    - file: Volumes/31/06/again_pullman_porters.md
+    - file: Volumes/39/09/employment.md
+    - file: Volumes/40/12/af_of_l.md
+  - file: Sections/socialism
+    sections:
+    - file: Volumes/19/04/cooperation.md
+    - file: Volumes/22/03/negro_and_radical_thought.md
+    - file: Volumes/22/04/class_struggle.md
+    - file: Volumes/22/06/socialism_and_the_negro.md
+    - file: Volumes/22/06/single_tax.md
+    - file: Volumes/27/03/black_man_and_the_wounded_world.md
+      title: The Black Man and the Wounded World (1923)
+    - file: Volumes/33/01/russia_1926.md
+    - file: Volumes/33/04/judging_russia.md
+    - file: Volumes/35/11/dunbar_national_bank.md
+    - file: Volumes/38/09/negro_and_communism.md
+    - file: Volumes/40/04/right_to_work.md
+    - file: Volumes/40/05/marxism_and_the_negro_problem.md
+    - file: Volumes/40/07/our_class_struggle.md
+    - file: Volumes/41/03/Subsistence_homestead_colonies.md
+
+- file: Sections/NAACP
+  sections:
+  - file: Volumes/01/02/NAACP.md
+  - file: Volumes/01/01/TheCrisis.md
+  - file: Volumes/06/01/vigilance_committee.md
+  - file: Volumes/07/03/fightordie.md
+  - file: Volumes/28/03/unity.md
+  - file: Volumes/30/01/new_crisis.md
+  - file: Volumes/37/05/our_program.md
+  - file: Volumes/33/03/our_methods.md
+  - file: Volumes/40/01/toward_a_new_racial_philosophy.md
+  - file: Volumes/41/08/dr_dubois_resigns.md
+
+
 - file: Sections/socialchange
   sections:
   - file: Sections/protest
@@ -47,101 +158,6 @@ chapters:
     - file: Volumes/39/11/herbert_hoover.md
 
 
-- file: Sections/NAACP
-  sections:
-  - file: Volumes/01/02/NAACP.md
-  - file: Volumes/01/01/TheCrisis.md
-  - file: Volumes/06/01/vigilance_committee.md
-  - file: Volumes/07/03/fightordie.md
-  - file: Volumes/28/03/unity.md
-  - file: Volumes/30/01/new_crisis.md
-  - file: Volumes/37/05/our_program.md
-  - file: Volumes/33/03/our_methods.md
-  - file: Volumes/40/01/toward_a_new_racial_philosophy.md
-  - file: Volumes/41/08/dr_dubois_resigns.md
-
-- file: Sections/lynching.md
-  sections:
-  - file: Volumes/02/04/lynching.md
-  - file: Volumes/08/03/cause_of_lynching.md
-  - file: Volumes/12/06/cowardice.md
-  - file: Volumes/22/01/anti-lynching_legislation.md
-  - file: Volumes/24/03/intentions.md
-  - file: Volumes/26/02/university_course_in_lynching.md
-  - file: Volumes/32/01/lynching.md
-  - file: Volumes/34/01/aiken.md
-  - file: Volumes/33/04/lynching.md
-  - file: Volumes/38/04/causes_of_lynching.md
-  - file: Volumes/39/02/lynchings.md
-
-
-- file: Sections/segregation
-  sections:
-  - file: Volumes/01/01/Segregation.md
-  - file: Volumes/03/05/homes.md
-  - file: Volumes/05/04/blesseddiscrimination.md
-  - file: Volumes/13/06/perpetual_dilemma.md
-  - file: Volumes/17/03/jim_crow.md
-  - file: Volumes/18/01/returning_soldiers.md
-  - file: Volumes/26/02/on_being_crazy.md
-  - file: Volumes/31/01/challenge_of_detroit.md
-  - file: Volumes/40/03/Color_caste_in_the_united_states.md
-  - file: Volumes/40/09/on_being_ashamed.md
-  - file: Volumes/41/01/segregation.md
-  - file: Volumes/41/02/naacp_and_race_segregation.md
-  - file: Volumes/41/03/history_of_segregation_philosophy.md
-  - file: Volumes/41/03/separation_and_selfrespect.md
-  - file: Volumes/41/04/segregation_in_the_north.md
-  - file: Volumes/41/05/segregation.md
-
-
-
-- file: Sections/racism
-  sections:
-  - file: Volumes/01/03/social_equality.md
-  - file: Volumes/01/03/ashamed.md
-  - file: Volumes/03/04/light.md
-  - file: Volumes/06/02/logic.md
-  - file: Volumes/10/01/clansman.md
-  - file: Volumes/12/05/conduct_not_color.md
-  - file: Volumes/12/06/migration.md
-  - file: Volumes/19/01/social_equality.md
-  - file: Volumes/24/01/slavery.md
-  - file: Volumes/31/04/newer_south.md
-  - file: Volumes/34/02/higher_friction.md
-  - file: Volumes/34/09/prejudice.md
-  - file: Volumes/37/02/about_wailing.md
-  #- file: Volumes/40/07/protest.md
-
-- file: Sections/economics
-  sections:
-  - file: Sections/labor
-    sections:
-    - file: Volumes/03/06/servant_in_the_south.md
-    - file: Volumes/15/05/the_black_man_and_the_unions.md
-    - file: Volumes/18/05/labor_omnia_vincit.md
-    - file: Volumes/28/04/american_federation_of_labor.md
-    - file: Volumes/31/02/black_man_and_labor.md
-    - file: Volumes/31/06/again_pullman_porters.md
-    - file: Volumes/39/09/employment.md
-    - file: Volumes/40/12/af_of_l.md
-  - file: Sections/socialism
-    sections:
-    - file: Volumes/19/04/cooperation.md
-    - file: Volumes/22/03/negro_and_radical_thought.md
-    - file: Volumes/22/04/class_struggle.md
-    - file: Volumes/22/06/socialism_and_the_negro.md
-    - file: Volumes/22/06/single_tax.md
-    - file: Volumes/27/03/black_man_and_the_wounded_world.md
-      title: The Black Man and the Wounded World (1923)
-    - file: Volumes/33/01/russia_1926.md
-    - file: Volumes/33/04/judging_russia.md
-    - file: Volumes/35/11/dunbar_national_bank.md
-    - file: Volumes/38/09/negro_and_communism.md
-    - file: Volumes/40/04/right_to_work.md
-    - file: Volumes/40/05/marxism_and_the_negro_problem.md
-    - file: Volumes/40/07/our_class_struggle.md
-    - file: Volumes/41/03/Subsistence_homestead_colonies.md
 
 - file: Sections/womansuffrage
   sections:
@@ -150,21 +166,6 @@ chapters:
   - file: Volumes/09/06/womansuffrage.md
   - file: Volumes/09/03/agility.md
   - file: Volumes/15/01/votes_for_women.md
-
-- file: Sections/race_riots
-  sections:
-  - file: Volumes/18/06/shillady_and_texas.md
-  - file: Volumes/34/06/mob_tactics.md
-  - file: Volumes/19/03/brothers_come_north.md
-
-- file: Sections/pan-africanism
-  sections:
-  - file: Volumes/17/04/africa.md
-  - file: Volumes/19/03/race_pride.md
-  - file: Volumes/23/01/to_the_world.md
-  - file: Volumes/37/03/patient_asses.md
-  - file: Volumes/40/11/panafrica_and_new_racial_philosophy.md
-  - file: Volumes/40/01/listen_japan_and_china.md
 
 
 - file: Sections/other
