@@ -5,7 +5,7 @@ This editorial was part of a special issue on Health.
 ```
 Our death rate is without the slightest doubt a death rate due to poverty and discrimination.
 
-What little racial factor is present is too small to be taken into account. The scientific validity of such studies is utterly vitiated by ignoring not only the social condition and environment of those measured, but by classing all persons of Negro descent as belonging to the “Negro” race no matter what their percentage of white or Indian blood. Moreover, the majority of such “scientists” has been distinctly prejudiced and determined to prove an already assumed case.
+What little racial factor is present is too small to be taken into account. The scientific validity of such studies is utterly vitiated by ignoring not only the social condition and environment of those measured, but by classing all persons of Negro descent as belonging to the "Negro" race no matter what their percentage of white or Indian blood. Moreover, the majority of such "scientists" has been distinctly prejudiced and determined to prove an already assumed case.
 
 As a problem of poverty our death rate can ultimately be brought down to normal size only as our income is increased. There are no reliable figures as to the average income of Negro families but it is certain that their average is far below the minimum which social agencies have from time to time established. What shall we do about our low wage? Our inadequate income?
 
@@ -28,4 +28,4 @@ Finally, there can be no doubt that the atmosphere of discrimination and insult 
 Here, then, is our problem: Better *income*; better *use* of our present income; a frontal act upon *race discrimination* and a gospel of *defiant hope*.
 
 _________________
-*Citation:* Du Bois, W.E.B. 1933. "Our Health.” *The Crisis* 40(2):44.
+*Citation:* Du Bois, W.E.B. 1933. "Our Health." *The Crisis* 40(2):44.

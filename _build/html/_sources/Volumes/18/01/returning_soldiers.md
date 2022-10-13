@@ -2,7 +2,7 @@
 
 We are returning from war! <span style="font-variant:small-caps;">The Crisis</span> and tens of thousands of black men were drafted into a great struggle. For bleeding France and what she means and has meant and will mean to us and humanity and against the threat of German race arrogance, we fought gladly and to the last drop of blood; for America and her highest ideals, we fought in far-off hope; for the dominant southern oligarchy entrenched in Washington, we fought in bitter resignation. For the America that represents and gloats in lynching, disfranchisement, caste, brutality and devilish insult—for this in the hateful upturning and mixing of things, we were forced by vindictive fate to fight, also.
 
-But today we return! We return from the slavery of uniform which the world’s madness demanded us to don to the freedom of civil garb. We stand again to look America squarely in the face and call a spade a spade. We sing: This country of ours, despite all its better souls have done and dreamed, is yet a shameful land.
+But today we return! We return from the slavery of uniform which the world's madness demanded us to don to the freedom of civil garb. We stand again to look America squarely in the face and call a spade a spade. We sing: This country of ours, despite all its better souls have done and dreamed, is yet a shameful land.
 
 It *lynches*.
 
@@ -14,7 +14,7 @@ Disfranchisement is the deliberate theft and robbery of the only protection of p
 
 It encourages *ignorance*.
 
-It has never really tried to educate the Negro. A dominant minority does not want Negroes educated. It wants servants, dogs, whores and monkeys. And when this land allows a reactionary group by its stolen political power to force as many black folk into these categories as it possibly can, it cries in contemptible hypocrisy: “They threaten us with degeneracy; they cannot be educated.”
+It has never really tried to educate the Negro. A dominant minority does not want Negroes educated. It wants servants, dogs, whores and monkeys. And when this land allows a reactionary group by its stolen political power to force as many black folk into these categories as it possibly can, it cries in contemptible hypocrisy: "They threaten us with degeneracy; they cannot be educated."
 
 It *steals* from us.
 
