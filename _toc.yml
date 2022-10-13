@@ -171,8 +171,9 @@ chapters:
 - file: Sections/other
   sections:
   - file: Sections/education
-  sections:
-    - file: Volumes/40/08/negro_college.md
+    sections:
+      - file: Volumes/39/04/again_howard.md
+      - file: Volumes/40/08/negro_college.md
   sections:
   - file: Sections/racescience
     sections:
