@@ -14,7 +14,7 @@ The N.A.A.C.P. also sent out over 700 letters with return postals to publishers 
 
 Mr. Bruce did not stress the logic of the situation so much as the courtesy. He said repeatedly to editors: the colored people of the United States desire to have the word Negro capitalized, and their wishes ought to be respected.
 
-It was this argument that brought down the *Atlantic Monthly* and the *New York Times*. The Times says: “In our Style Book, Negro is now added to the list of words to be capitalized. It is not merely a typographical change, it is an act in recognition of racial self-respect for those who have been for generations in the `lower case’.”
+It was this argument that brought down the *Atlantic Monthly* and the *New York Times*. The Times says: "In our Style Book, Negro is now added to the list of words to be capitalized. It is not merely a typographical change, it is an act in recognition of racial self-respect for those who have been for generations in the `lower case'."
 
 There remains scarcely a respectable periodical in the United States that refuses to capitalize Negro. In fact, the Government Printing Office in Washington and the *Forum* magazine stand almost alone.
 

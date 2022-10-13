@@ -19,4 +19,4 @@ It is however clear that our birth rate is falling, just as the birth rate of al
 
 
 _________________
-*Citation:* Du Bois, W.E.B. 1933. "Our Rate of Increase.” *The Crisis* 40(2):44.
+*Citation:* Du Bois, W.E.B. 1933. "Our Rate of Increase." *The Crisis* 40(2):44.

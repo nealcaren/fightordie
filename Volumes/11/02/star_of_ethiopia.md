@@ -1,6 +1,6 @@
 # The Star of Ethiopia (1915)
 
-I wrote it four years ago. I called it, or rather it called itself by various names. Finally it decided to be called “The Star of Ethiopia.” I acquiesced. My friends looked upon it with lack-luster eye. I did not blame them. The more I read it myself the more it seemed wanting: And yet as | turned over my rejected manuscripts this always bobbed up with a certain insistance, a kind of “Why not try me” tone. Its first resurrection came in 1913 when we were celebrating, in New York, Emancipation.
+I wrote it four years ago. I called it, or rather it called itself by various names. Finally it decided to be called "The Star of Ethiopia." I acquiesced. My friends looked upon it with lack-luster eye. I did not blame them. The more I read it myself the more it seemed wanting: And yet as | turned over my rejected manuscripts this always bobbed up with a certain insistance, a kind of "Why not try me" tone. Its first resurrection came in 1913 when we were celebrating, in New York, Emancipation.
 
 What a task that was! I have been through a good many laborious jobs and had to bear on many occasions accusations difficult to rest under, but without doubt the New York Emancipation Exposition was the worst of all my experiences. Such an avalanche of altogether unmerited and absurd attacks it had never been my fortune to experience. Yet through it all one thing became clearer—the Pageant must be tried. We must attempt, at least, this one new thing in the dead level of uninteresting exhibitions. We had our ups and downs with it. It was difficult to get hold of the people; it was more difficult to keep them. There were curious little wranglings and bickerings and none of us will forget that dress rehearsal. If there had been any reasonably convenient method of escape the Pageant would never have seen the light of day.
 
@@ -8,7 +8,7 @@ And then it came—four exhibitions, singular in their striking beauty, and abov
 
 The few that came out to the preliminary meetings listened with interest. They even showed enthusiasm at times and they promised cooperation and they kept their word. I had the whole matter carefully planned but I early found that the best laid plans needed a curious personal joining together on the part of the one who has the vision of what he wants and cannot adequately tell it.
 
-I remember that Friday when I opened the office. The beautiful sign which Richard Brown had painted was going up and I was helping boost it. A good friend came by and looked at me. There was pity way down in his soul. “Are you still encouraged?” he asked. His question was a revelation. The whole city doubted. A thousand actors, gowned and trained in three weeks? “Impossible!” said the city. Nevertheless they worked loyally.
+I remember that Friday when I opened the office. The beautiful sign which Richard Brown had painted was going up and I was helping boost it. A good friend came by and looked at me. There was pity way down in his soul. "Are you still encouraged?" he asked. His question was a revelation. The whole city doubted. A thousand actors, gowned and trained in three weeks? "Impossible!" said the city. Nevertheless they worked loyally.
 
 My helpers came to town on the dot. Mr. Burroughs, with his deliberate genius and unwavering faith; Mrs. Norman with her great mastery of men—or rather of women—and Mrs. Curtis who came almost concealed under thousands of yards of cloth. Already in the field was the tireless Mrs. Glenn and eventually came Mr. Davidson. Richard Brown had long been working. So we started and our troubles started with us.
 
@@ -20,7 +20,7 @@ Then it was as it always is in things of this sort. Suddenly a great new spirit 
 
 I shall never forget that last night. Six thousand human faces looked down from the shifting blaze of lights and on the field the shimmering streams of colors came and went, silently, miraculously save for the great cloud of music. that hovered over them and enveloped them. It was no mere picture: it was reality.
 
-The Herald cried, “People of Washington arise, and go. The Play is done.” And yet the play was not done. Some things are quite too beautiful ever to be finished. So I walked home alone and
+The Herald cried, "People of Washington arise, and go. The Play is done." And yet the play was not done. Some things are quite too beautiful ever to be finished. So I walked home alone and
 the joys of God.
 
-*Citation:* Du Bois, W.E.B. 1915. “The Star of Ethopia." 11(2):91-93.
+*Citation:* Du Bois, W.E.B. 1915. "The Star of Ethopia." 11(2):91-93.

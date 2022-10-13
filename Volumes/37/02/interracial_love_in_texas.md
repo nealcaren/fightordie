@@ -2,7 +2,7 @@
 
 The Houston, Texas *Post-Dispatch* says in a recent editorial:
 
-> In announcing the annual convention of the Texas Commission on Inter-racial Co-operation in Dallas for November 1-2, Dr. R. M. Woods, instructor in sociology in Sam Houston State Teachers’ college at Huntsville, director of the commission in this State, makes it clear that attainment of social equality between the races is not the aim of the organization. Friendliness between the white and colored people is promoted, but there is no thought of bringing them together on an equal social plane, he states.  
+> In announcing the annual convention of the Texas Commission on Inter-racial Co-operation in Dallas for November 1-2, Dr. R. M. Woods, instructor in sociology in Sam Houston State Teachers' college at Huntsville, director of the commission in this State, makes it clear that attainment of social equality between the races is not the aim of the organization. Friendliness between the white and colored people is promoted, but there is no thought of bringing them together on an equal social plane, he states.  
 > &nbsp;  
 > With this aim of the commission thoroughly understood, the commission should attract the interest and support of the white people generally and of the more intelligent and better element of the colored people throughout the State.
 
