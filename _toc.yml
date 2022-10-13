@@ -170,6 +170,10 @@ chapters:
 
 - file: Sections/other
   sections:
+  - file: Sections/education
+  sections:
+    - file: Volumes/40/08/negro_college.md
+  sections:
   - file: Sections/racescience
     sections:
     - file: Volumes/02/04/races.md
