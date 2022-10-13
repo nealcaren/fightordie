@@ -14,11 +14,10 @@ Honor, endless and undying Honor, to every man, black or white, who in Houston, 
 
 If the United States is to be a Land of Law, we would live humbly and peaceably in it—working, singing, learning and dreaming to make it and ourselves nobler and better; if it is to be a Land of Mobs and Lynchers, we might as well die today as tomorrow.
 
-> "And how can man die better
-"Than facing fearful odds
-"For the ashes of his fathers
-
-"And the temples of his gods?"
+> *"And how can man die better*
+> *"Than facing fearful odds*
+> *"For the ashes of his fathers*
+> *"And the temples of his gods?"*
 
 
 
