@@ -18,5 +18,12 @@ Table of Contents
 ```{tableofcontents}
 ```
 
+![](https://images.nypl.org/index.php?id=1953586&t=w)  
+*W. E. B. Dubois and staff in the Crisis magazine office. Source: [Schomburg Center for Research in Black Culture](https://digitalcollections.nypl.org/items/8e0981a2-4aea-a10a-e040-e00a18063089)*
+
+
+<!--
 ![](Images/nypl.digitalcollections.510d47dc-8fb3-a3d9-e040-e00a18064a99.001.w.jpg)  
 *W. E. B. Dubois in the office of The Crisis. Source: [Schomburg Center for Research in Black Culture](https://digitalcollections.nypl.org/items/510d47dc-8fb3-a3d9-e040-e00a18064a99)*
+
+-->
