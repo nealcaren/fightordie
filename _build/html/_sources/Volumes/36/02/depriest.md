@@ -11,8 +11,9 @@
 > "I am sure that you will see my point in this, and I most earnestly hope that THE Crisis will repudiate this man in no uncertain terms."
 
 ```{margin}
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Oscar_Stanton_De_Priest.jpg/440px-Oscar_Stanton_De_Priest.jpg)  
 [Oscar DePriest](https://en.wikipedia.org/wiki/Oscar_Stanton_De_Priest) was an African-American Republican Congressmember from Illinois. He was the first post-Reconstruction African-American member and the first from outside of the South. DePriest served from 1929 until 1935, when he was  defeated by an African-American Democratic candidate.    
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Oscar_Stanton_De_Priest.jpg/440px-Oscar_Stanton_De_Priest.jpg)
+
 ```
 
 <span style="font-variant:small-caps;">The Crisis</span> regrets that it cannot do this. On the contrary, it congratulates Oscar DePriest upon his election. We do not approve of all that Mr. DePriest has done in the past and probably shall not approve of much that he will do in the future, but we do know that Oscar DePriest stands solidly and unwaveringly for the following things:
