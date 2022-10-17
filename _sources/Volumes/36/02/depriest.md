@@ -26,6 +26,10 @@ We wish that in addition to this, Mr. DePriest believed in clean politics; in th
 
 We wish that Mr. DePriest stood for these things, but we acknowledge with bowed head that if he had stood for such a program as this he never would have been Congressman from Illinois. In other words, the only organized interests in the United States who could be induced to send a colored man to Congress or any man who stands for the five things outlined above, are the same interests which are allied with the rule of wealth and crime.
 
+```{margin}
+Conservative [John Raskob](https://en.wikipedia.org/wiki/John_J._Raskob), an ally of Al Smith, was head of the Democratic National Committee and supported Southern white supremacists, such as Georgia Governor [Eugene Talmadge](https://en.wikipedia.org/wiki/Eugene_Talmadge).
+```
+
 We find ourselves compelled in political life, therefore, to choose the least of evils. If we remember that Senator Borah stands for clean politics, we also are compelled to remember that he stands for the disfranchisement of Negroes; that he did not vote for the DyerAnti Lynching Bill, and that he has grown dumb in the fight for Haiti. We would like to admire Al Smith because of the high level of his appointments to office, and his fight against the power trust. But we are compelled to vote against him because never in all his career has he given the slightest attention to the American Negro or expressed the slightest interests in his problems. We support Oscar DePriest, therefore, for the same reasons that we oppose Borah and Smith, namely: the things that DePriest stands for are more vital to the future of democracy in America than prohibition, crime and privilege. Given democracy in this land and we can fight drunkedness, prostitution and monopoly; without democracy and with a "Solid South" we can only wobble between Hoover and Raskob.
 
 _________________
