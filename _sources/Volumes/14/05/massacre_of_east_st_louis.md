@@ -220,14 +220,26 @@ After hearing his story the Judge dismissed him.
 ![](../../../Images/mesl_7.jpg)  
 
 <p style="text-align:left;">
-    Frank Smith Burned.
+    <b>Frank Smith Burned.</b>
     <span style="float:right;">
-        Amos Davis, Age 84 Shot.
+          <b>Amos Davis, Age 84 Shot.</b>
     </span>
 </p>
-**Frank Smith Burned. ∙  Amos Davis, Age 84 Shot.**  
-**The Refugees. ∙ Camp of Troop D. 1st Ill. Cavalry from Springfield**  
-**After the fire. ∙ Police Headquarters, St. Lois, Mo.**
+
+<p style="text-align:left;">
+    <b>The Refugees.</b>
+    <span style="float:right;">
+        <b>Camp of Troop D. 1st Ill. Cavalry from Springfield.</b>
+    </span>
+</p>
+
+<p style="text-align:left;">
+    <b>After the fire.</b>
+    <span style="float:right;">
+        <b>Police Headquarters, St. Lois, Mo.</b>
+    </span>
+</p>
+
 
 Nathaniel Cole is twenty-two years old and worked in a steel foundry. He says:
 
@@ -314,9 +326,13 @@ Miss Gruening told of a girl who lost her arm. Here is the girl's own account. H
 > &nbsp;  
 > Tuesday morning between seven and eight o'clock, as I was on my way to work (at Mrs. Gray's) I was shot in the arm, as I was about to enter the door. The only men whom I saw on the street were a soldier and a policeman, and I think I was shot by one of the two. I fainted after being shot, and when I came to I was being taken to the hospital in a patrol wagon. At the hospital the remainder of my arm was amputated. No insurance.
 
- And here is the testimony of Narcis Gurley (see page 236), who had lived for seventy-one years to come at last to this. She says that she has lived in East St. Louis for thirty years and had earned her living by keeping roomers and as a laundress. She says:
+![](../../../Images/mesl_10.jpg)  
+**Narcis Gurley, 71 next birthday, lived in her home 30 years. Afraid to come out till the blazing walls fell in.**  
+
+And here is the testimony of Narcis Gurley (see page 236), who had lived for seventy-one years to come at last to this. She says that she has lived in East St. Louis for thirty years and had earned her living by keeping roomers and as a laundress. She says:
 
 > Between five and six o'clock we noticed a house nearby burning and heard the men outside. We were afraid to come outside and remained in the house. which caught fire from the other house. When the house began falling in we ran out, terribly burned, and one white man said, "Let those old women alone." We were allowed to escape. Lost everything, clothing and household goods.
+
 
 The picture shows how terribly her arms were burned.
 
@@ -341,9 +357,6 @@ Testimony of Frank Smith, resident of East St. Louis for about twenty-five years
 > His house was set afire by the: mob, and they waited outside to shoot him. when he should emerge from the house. He waited till the last possible moment and was frightfully burned.     
 > &nbsp;  
 > Family consists of a sister and brother who lived at 2136 Gayety, East St. Louis. Lost everything and will probably have to stay in hospital for six or seven weeks longer.
-
-![](../../../Images/mesl_10.jpg)  
-**Narcis Gurley, 71 next birthday, lived in her home 30 years. Afraid to come out till the blazing walls fell in.**  
 
 
  Testimony of Samuel J. Green, age 34 years:
