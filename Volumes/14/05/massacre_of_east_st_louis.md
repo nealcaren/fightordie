@@ -16,6 +16,8 @@ East St. Louis is a great industrial center, possessing huge packing and manufac
 
  The leader of a labor union must be an opportunist. The psychology of any unskilled laborer is comparatively simple. To the knowledge then that his job is being held by an outsider add his natural and fostered prejudice against an outsider who is black and you have something of the mental attitude of the rioters of East St. Louis. Doubtless it was with some such prophetic vision as this that Edward F. Mason, secretary of the Central Trades and Labor Union, issued a letter, the facsimile of which appears on the opposite page.
 
+ ![](../../../Images/mesl_2.jpg)
+
 One point in particular is emphasized, that of color: "The Southern Negro," writes Mr. Mason, "has come into our community. No less than ten thousand of undesirable Negroes," he continues, "have poured in and are being used to the detriment of our white citizens." There is the appeal direct to prejudice. It is not that foreigners—Czechs, Slovaks, Lithuanians— or whatever ethnic division is least indigenous to East St. Louis—it is not that they are ousting Americans of any color or hue, but the "Southern Negro," the most American product there is, is being used "to the detriment of our white citizens."
 
 Mr. Mason has no hesitancy in suggesting "that some action should be taken to retard this growing menace" and "to get rid of a certain portion of those who are already here." Was not Mr. Gompers' excuse in Carnegie Hall a faint echo of all this?
@@ -35,6 +37,9 @@ Carlos F. Hurd, an eye-witness, realizes this fact and speaks of it in the artic
 > A mob is passionate, a mob follows one man or a few men blindly; a mob sometimes takes chances. The East St. Louis affair, as I saw it, was a man hunt, conducted on a sporting basis, though with anything but  an East St. Louis the fair play which is the principle of sport. The East St. Louis men took no chances, except the chance from stray shots, which every spectator of their acts took. They went in small groups, there was little leadership, and there was a horribly cool deliberateness and a spirit of fun about it.   
 > &nbsp;  
 > "Get a n*****," was the slogan, and it was varied by the recurrent cry, ''Get another!" It was like nothing so much as the holiday crowd, with thumbs turned down, in the Roman Coliseum, except that here the shouters were their own gladiators, and their own wild beasts.
+
+![](../../../Images/mesl_3.jpg)  
+**The Fire.**  *St. Louis Star.* 
 
  He goes on with another horrible account of which he was also an eye-witness:
 
