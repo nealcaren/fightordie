@@ -3,7 +3,7 @@
 <h2> National Association for the Advancement of Colored People </h2>
 
 
-<h3> The National Association for the Advancement of Colored People 70 Fifth Avenue, New York, sent Martha Gruening and W. E. Burghardt Du Bois to East St. Louis, as special investigators of the recent outrages. These two collected in person the facts and pictures from which this article is compiled. </h3>
+***The National Association for the Advancement of Colored People 70 Fifth Avenue, New York, sent Martha Gruening and W. E. Burghardt Du Bois to East St. Louis, as special investigators of the recent outrages. These two collected in person the facts and pictures from which this article is compiled.***
 
 On the 2nd of July, 1917, the city of East St. Louis in Illinois added a foul and revolting page to the history of all the massacres of the world. On that day a mob of white men, women and children burned and destroyed at least $400,000 worth of property belonging to both whites and Negroes; drove 6,000 Negroes out of their homes; and deliberately burdered, by shooting, burning and hanging, between one and two hundred human beings who were black.
 
@@ -37,7 +37,7 @@ Carlos F. Hurd, an eye-witness, realizes this fact and speaks of it in the artic
 
  He goes on with another horrible account of which he was also an eye-witness:
 
- > A Negro, his head laid open by a great stone-cut, had been dragged to the mouth of the alley on Fourth Street and a small rope was being put about his neck. There was joking comment on the weakness of the rope, and everyone was prepared for what happened when it was pulled over a projecting cable box, a short distance up the pole. It broke, letting the Negro tumble back to his knees, and causing one of the men who was pulling on it to sprawl on the pavement.
+ > A Negro, his head laid open by a great stone-cut, had been dragged to the mouth of the alley on Fourth Street and a small rope was being put about his neck. There was joking comment on the weakness of the rope, and everyone was prepared for what happened when it was pulled over a projecting cable box, a short distance up the pole. It broke, letting the Negro tumble back to his knees, and causing one of the men who was pulling on it to sprawl on the pavement.  
 > &nbsp;  
 > An old man, with a cap like those worn by street car conductors, but showing no badge of car service, came out of his house to protest. "Don't you hang that man on this street," he shouted. "I dare you to." He was pushed angrily away, and a rope, obviously strong enough for its purpose, was brought.;   
 > &nbsp;  
@@ -45,15 +45,16 @@ Carlos F. Hurd, an eye-witness, realizes this fact and speaks of it in the artic
 > &nbsp;  
 > "Get hold, and pull for East St. Louis!" called a man with a black coat and a new straw hat, as he seized the other end of the rope. The rope was long, but not too long for the number of hands that grasped it, and this time the Negro was lifted to a height of about seven feet from the ground. The body was left hanging there.   
 > &nbsp;  
+
 These accounts make gruesome reading, but they are all true. Hugh L. Wood paints in the *St. Louis Republic* another horrible picture. He says:
 
- > A Negro weighing 300 pounds came out of the burning line of dwellings just north and east of the Southern freight house. His hands were elevated and his yellow face was speckled with the awful fear of death.
+ > A Negro weighing 300 pounds came out of the burning line of dwellings just north and east of the Southern freight house. His hands were elevated and his yellow face was speckled with the awful fear of death.  
 > &nbsp;  
-> "Get him!" they cried. Here was a chance to see suffering, something that bullets didn't always make.
+> "Get him!" they cried. Here was a chance to see suffering, something that bullets didn't always make.  
 > &nbsp;  
-> So a man in the crowd clubbed his revolver and struck the Negro in the face with it. Another dashed an iron bolt between the Negro's eyes. Still another stood near and battered him with a rock.
+> So a man in the crowd clubbed his revolver and struck the Negro in the face with it. Another dashed an iron bolt between the Negro's eyes. Still another stood near and battered him with a rock.  
 > &nbsp;  
-> Then the giant Negro toppled to the ground. "This is the way," cried one. He ran back a few paces, then ran at the pros— black at full speed and made a flying leap.
+> Then the giant Negro toppled to the ground. "This is the way," cried one. He ran back a few paces, then ran at the pros— black at full speed and made a flying leap.  
 > &nbsp;  
 > His heels struck right in the middle of the battered face. A girl stepped up and struck the bleeding man with her foot. The blood spurted onto her stockings and men laughed and grunted.
 
@@ -63,11 +64,11 @@ No amount of suffering awakened pity in the hearts of the rioters. Mr. Wood tell
 
 The St. Louis Republic has still a further touch:
 
- > A Negro lay a block east on Broadway, with his face beaten in. He was not dead. An ambulance, driven by white men, dashed up.
+ > A Negro lay a block east on Broadway, with his face beaten in. He was not dead. An ambulance, driven by white men, dashed up.  
 > &nbsp;  
-> "If you pick up that skunk we'll kill you, too," cried the crowd.
+> "If you pick up that skunk we'll kill you, too," cried the crowd.  
 > &nbsp;  
-> "I've got a wife and four children at home," said the white-faced ambulance man as he climbed back on the wagon.
+> "I've got a wife and four children at home," said the white-faced ambulance man as he climbed back on the wagon.  
 > &nbsp;  
 > When the fire had eaten its way that far the body was tossed into the flames. Two blocks further east lay a Negro who had been beaten until he was dying. ''Let's string him up," shouted a man. _A rope was brought and the dying black in a moment was dangling from a pole. Several "good measure" shots were fired into the body and the crowd went further on.
 
@@ -80,7 +81,7 @@ The violence was confined not only to men. Women were in many cases the aggresso
  Mr. Hurd writes:
 > I saw Negro women begging for mercy and pleading that they had harmed no one set upon by white women of the baser sort who laughed and answered the coarse sallies of men as they beat the Negresses' faces and breasts with fists, stones and sticks. I saw one of these furies fling herself at a militiaman who was trying to protect a Negress, and wrestle with him for his bayonetted gun, while other women attacked the refugee.   
 > &nbsp;  
-> "Let the girls have her," was the shout as the women attacked one young Negress. The victim's cry, "Please, please, I ain't done nothing," was stopped by a blow in the mouth with a broomstick, which one of the women swung like a baseball bat. Another woman seized the Negress' hands, and the blow was repeated as she struggled helplessly. Fingernails clawed her hair and the sleeves were torn from her waist, when some of the men called, "Now let her see how fast she can run." The women did not readily leave off beating her, but they stopped short of murder, and the crying, hysterical girl ran down the street.
+> "Let the girls have her," was the shout as the women attacked one young Negress. The victim's cry, "Please, please, I ain't done nothing," was stopped by a blow in the mouth with a broomstick, which one of the women swung like a baseball bat. Another woman seized the Negress' hands, and the blow was repeated as she struggled helplessly. Fingernails clawed her hair and the sleeves were torn from her waist, when some of the men called, "Now let her see how fast she can run." The women did not readily leave off beating her, but they stopped short of murder, and the crying, hysterical girl ran down the street.  
 > &nbsp;  
 > An older Negress, a few moments later, came along with two or three militiamen, and the same women made for her. When one of the soldiers held his gun as a barrier, the woman with the broomstick seized it with both hands, and struggled to wrest it from him, while the others, striking at the Negress, in spite of the other militiamen, frightened her thoroughly and hurt her somewhat.
 
@@ -88,25 +89,25 @@ To this the St. Louis Republic adds:
 
 > Seized with the mob spirit, two young white girls climbed or a car at Broadway and Main Street at about 4 p. m. and dragged a Negress from her seat. As they dragged the struggling Negress through the door to the street there was a great cheer from men on the sidewalk.   
 > &nbsp;  
-> As the Negress attempted to break away from her assailants one of the girls—for they were only about 17 years old—pulled off her shoe and started to beat the victim over the head. The victim flinched under the blows of the girl and was bleeding when she was rescued by militiamen.
+> As the Negress attempted to break away from her assailants one of the girls—for they were only about 17 years old—pulled off her shoe and started to beat the victim over the head. The victim flinched under the blows of the girl and was bleeding when she was rescued by militiamen.  
 > &nbsp;  
 > The girls were not arrested and started to walk away from the scene. There were bloodstains on their clothes and as they passed their friends they told about the part they had played in the riot.
 
 But this sort of Negro-baiting did not make a strong enough appeal to the jaded senses of the mob. Surely there must be some other means of adding to such pleasurable excitement. Somebody suggested fire. The idea was immediately accepted. Says John T. Stewart:
 
-> The first houses were fired shortly after 5 o'clock. These were back of Main street, between Broadway and Railroad avenue. Negroes were "flushed" from the burning houses, and ran for their lives, screaming and begging for mercy. A Negro crawled into a shed and fired on the white men. Guardsmen started after him, but when they saw he was armed, turned to the mob and said:
+> The first houses were fired shortly after 5 o'clock. These were back of Main street, between Broadway and Railroad avenue. Negroes were "flushed" from the burning houses, and ran for their lives, screaming and begging for mercy. A Negro crawled into a shed and fired on the white men. Guardsmen started after him, but when they saw he was armed, turned to the mob and said:  
 > &nbsp;  
-> "He's armed, boys. You can have him. A white man's life is worth the lives of a thousand Negroes."
+> "He's armed, boys. You can have him. A white man's life is worth the lives of a thousand Negroes."  
 > &nbsp;  
-> A few minutes later matches were applied to hastily gathered debris piled about the corner of one of three small houses 100 feet from the first fired. These were back of the International Harvester Company's plant. Eight Negroes fied into the last of the houses and hid in the basement. When roof and walls were about to fall in, an aged Negro woman came out. She was permitted to walk to safety. Three Negro women followed and were not fired upon. Then came four Negro men, and 100 shots were fired at them. They fell. No one ventured out to see if they were dead, as the place had come to resemble No Man's Land, with bullets flying back and forth and sparks from the fires falling everywhere.
+> A few minutes later matches were applied to hastily gathered debris piled about the corner of one of three small houses 100 feet from the first fired. These were back of the International Harvester Company's plant. Eight Negroes fied into the last of the houses and hid in the basement. When roof and walls were about to fall in, an aged Negro woman came out. She was permitted to walk to safety. Three Negro women followed and were not fired upon. Then came four Negro men, and 100 shots were fired at them. They fell. No one ventured out to see if they were dead, as the place had come to resemble No Man's Land, with bullets flying back and forth and sparks from the fires falling everywhere.  
 > &nbsp;  
-> A Negro who crawled on hands and knees through the weeds was a target for a volley. The mob then turned back to Main street and another Negro was spied on a Main Street car. He was dragged to the street and a rioter stood over him, shooting.
+> A Negro who crawled on hands and knees through the weeds was a target for a volley. The mob then turned back to Main street and another Negro was spied on a Main Street car. He was dragged to the street and a rioter stood over him, shooting.  
 > &nbsp;  
-> The crowd then turned to Black Valley. Here the greatest fire damage was caused. Flames soon were raging and the shrieking rioters stood about in the streets, made lurid by the flames, and shot and beat Negroes as they fled from their burning homes.
+> The crowd then turned to Black Valley. Here the greatest fire damage was caused. Flames soon were raging and the shrieking rioters stood about in the streets, made lurid by the flames, and shot and beat Negroes as they fled from their burning homes.  
 > &nbsp;  
-> This district today was a waste of smouldering debris. Firemen fought the flames all night. In this stretch were burned the Southern Railroad freight house, the HillsThomas Lime and Cement Company plant and the Broadway Opera House. By desperate effort, firemen saved the Public Library Building, the Bon Bon Baking Powder Company, and the J. C. Grant Chemical Company. The warehouses of the latter ee 1,000 gallons of gasoline and coal oil.
+> This district today was a waste of smouldering debris. Firemen fought the flames all night. In this stretch were burned the Southern Railroad freight house, the HillsThomas Lime and Cement Company plant and the Broadway Opera House. By desperate effort, firemen saved the Public Library Building, the Bon Bon Baking Powder Company, and the J. C. Grant Chemical Company. The warehouses of the latter ee 1,000 gallons of gasoline and coal oil.  
 > &nbsp;  
-> It was rumored that many Negroes were burned to death in the Broadway Opera House, an abandoned theatre structure. Bystanders claimed to have seen men, women and children seek refuge in the basement of the building.
+> It was rumored that many Negroes were burned to death in the Broadway Opera House, an abandoned theatre structure. Bystanders claimed to have seen men, women and children seek refuge in the basement of the building.  
 > &nbsp;  
 > Rioters formed in gangs and trooped through the street, chasing Negroes when they met them, and intimidating white and Negro men alike, if they attempted to offer resistance.
 
@@ -122,9 +123,9 @@ Subsequent testimony conflicted with this statement and showed that most of the 
 
  And John T. Stewart continues in the *St. Louis Star*:
 
-> The major riot ensued at 4:30, with not a Negro in sight. A crowd of fifty young men and boys dribbling aimlessly south on Collinsville came to a pawn shop. At once there were shouts of "get his guns," and the whites crowded through the shop doors and looted the shop of every weapon and all its ammunition. A boy not over fourteen years old emerged with a rifle and several rounds of cartridges. Another boy dragged a shotgun too big for him to carry.
+> The major riot ensued at 4:30, with not a Negro in sight. A crowd of fifty young men and boys dribbling aimlessly south on Collinsville came to a pawn shop. At once there were shouts of "get his guns," and the whites crowded through the shop doors and looted the shop of every weapon and all its ammunition. A boy not over fourteen years old emerged with a rifle and several rounds of cartridges. Another boy dragged a shotgun too big for him to carry.    
 > &nbsp;  
-> A detachment of militia came along and made a half-hearted effort to disarm the civilians. The only persons who gave up their arms were boys. One white man walking beside me patted a large revolver in his shirt bosom. It was fully loaded. Another handed him two additional rounds of cartridges. Two guards passed.   
+> A detachment of militia came along and made a half-hearted effort to disarm the civilians. The only persons who gave up their arms were boys. One white man walking beside me patted a large revolver in his shirt bosom. It was fully loaded. Another handed him two additional rounds of cartridges. Two guards passed.     
 > &nbsp;  
 > "You've got nothing on me," the rioter said, and showed the militiaman his revolver and shells. When the militiaman laughed, the rioter threw his disengaged arm around the guardsman's shoulder and they disappeared around the corner.   
 
@@ -134,7 +135,6 @@ Some of the militia were active in the fray. Miss Gruening tells of the two sold
 > They grinned cheerfully. "Oh, no. Only to kill all we saw starting fires."   
 > &nbsp;  
 > "And did you see any starting fires?"
-
 > &nbsp;  
 > "No, all we saw was n****** flying."
 
@@ -268,9 +268,10 @@ The statement of Troy Watkins is to the same effect:
 
 > Tuesday I went to my house to get what I could. While inside a man was killed in front of my house. I thought since the soldiers were there to protect me I could go out of my house. I started out of my home and the white lady told me to go back, that they (the soldiers) had killed a man in front of my house. I went into the coal shed, got behind some tubs, when four men came in and saw me, but did not harm me. Then I went to where I was working (Kehlor Mill) where Mr. Cunningham gave us a team to go to my house and get my things. When I got there my house was burned down.    
 > &nbsp;  
+
 Miss Gruening told of a girl who lost her arm. Here is the girl's own account. Her name is Mineola McGee (see page 234) and she has been a chambermaid at $3.50 a week. She has resided in East St. Louis since February 8, 1917. She says:
 
- > Cannot locate a relative since riot, several cousins, aunt and uncle.
+ > Cannot locate a relative since riot, several cousins, aunt and uncle.  
 > &nbsp;  
 > Tuesday morning between seven and eight o'clock, as I was on my way to work (at Mrs. Gray's) I was shot in the arm, as I was about to enter the door. The only men whom I saw on the street were a soldier and a policeman, and I think I was shot by one of the two. I fainted after being shot, and when I came to I was being taken to the hospital in a patrol wagon. At the hospital the remainder of my arm was amputated. No insurance.
 
@@ -298,7 +299,7 @@ Testimony of Lulu Robinson, age 33 years, has lived in East St. Louis for eight 
 
 Testimony of Frank Smith, resident of East St. Louis for about twenty-five years and employed for the last fifteen years at the Acme Cement Company:
 
-> His house was set afire by the: mob, and they waited outside to shoot him. when he should emerge from the house. He waited till the last possible moment and was frightfully burned.   
+> His house was set afire by the: mob, and they waited outside to shoot him. when he should emerge from the house. He waited till the last possible moment and was frightfully burned.     
 > &nbsp;  
 > Family consists of a sister and brother who lived at 2136 Gayety, East St. Louis. Lost everything and will probably have to stay in hospital for six or seven weeks longer.
 
@@ -310,7 +311,7 @@ Testimony of Salena Hubble, age 42 years:
 
 > I am a widow. I lived in East St. Louis five years. I came to wait on my sick daughter.   
 > &nbsp;  
-> Before the riot the people of both races were friendly and pleasant in manners. On the evening the rioters told me to leave because they were going to burn up the whole block, as they thought I was a white woman, so they warned me to flee. I talked with a neighbor, Mrs. Clemens (a white woman) and asked her if she thought the mob would do any more harm. She said: "I don't know, but you get ready and leave by the way of the cars over the bridge."
+> Before the riot the people of both races were friendly and pleasant in manners. On the evening the rioters told me to leave because they were going to burn up the whole block, as they thought I was a white woman, so they warned me to flee. I talked with a neighbor, Mrs. Clemens (a white woman) and asked her if she thought the mob would do any more harm. She said: "I don't know, but you get ready and leave by the way of the cars over the bridge."  
 > &nbsp;  
 > Just as I started over the bridge the mob broke my windows out with rocks. I escaped because the mob didn't know I belonged to the Negro race. Before I got out of East St. Louis I saw the mob with a rope and I heard them say: "There's a n*****. Let us hang the S of a B——," and they threw the rope over the telegraph pole, but I didn't know what came of that; I saw the soldiers and they offered no assistance to the colored people. I saw the fire department come before the fire was started, but when the fire was started they did nothing to stop it. I also saw the mob throw a rope around a colored man's neck and shoot him full of holes. The soldiers offered no assistance to the man who was shot, neither did the police. I saw a crowd of soldiers go into a saloon and engage in drinking heavily of beer. The mob burned the houses in the localities where colored lived mostly. The women were as vile as the men in their vile treatment to the Negroes. I saw the soldiers driving a crowd of colored men in the streets. The men were made to hold their hands above their heads as they walked.
 
@@ -326,7 +327,7 @@ Testimony of Jerry Mayhorn:
 
 > I have lived in East St. Louis since the 25th of March, 1917. I came here because of bad treatment and poor wages. I worked in a tobacco factory in St. Louis, Mo., and received two dollars a day.   
 > &nbsp;  
-> Before the riot everyone seemed friendly toward me. I never got into the thickest of the men or riot, but they hit me with clubs, bricks, and stamped me on the head. They broke my arm. But for all of that I got away from them.
+> Before the riot everyone seemed friendly toward me. I never got into the thickest of the men or riot, but they hit me with clubs, bricks, and stamped me on the head. They broke my arm. But for all of that I got away from them.  
 > &nbsp;  
 > I shall never return to the South whatever may happen to me here, for in the South it is always killing and burning some of our people. No let up on bad treatment and no wages either. Men must work for eighty cents a day, women for fifty cents a week, and if the whites choose not to pay that, they won't do it. I shall stay in St. Louis, Mo.
 
