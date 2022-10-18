@@ -43,11 +43,6 @@ Carlos F. Hurd, an eye-witness, realizes this fact and speaks of it in the artic
 **The Fire.**  *St. Louis Star.*
 
 
-<figure>
-  <img src="../../../Images/mesl_3.jpg">
-  <figcaption>**The Fire.**  *St. Louis Star.*</figcaption>
-</figure>
-
  He goes on with another horrible account of which he was also an eye-witness:
 
  > A Negro, his head laid open by a great stone-cut, had been dragged to the mouth of the alley on Fourth Street and a small rope was being put about his neck. There was joking comment on the weakness of the rope, and everyone was prepared for what happened when it was pulled over a projecting cable box, a short distance up the pole. It broke, letting the Negro tumble back to his knees, and causing one of the men who was pulling on it to sprawl on the pavement.  
@@ -132,6 +127,11 @@ Where was the militia? At best they stood idly about in tacit sympathy with the 
 
 > I wish to point out that in these riots all the antipathy toward the Negro was not confined to East St. Louis. Among the first militia to arrive from Central and Northern Illinois, were not a few who declared feelingly their understanding they were not here to protect Negroes against whites, but to guard whites against Negroes.
 
+![](../../../Images/mesl_4.jpg)  
+**Broadway Opera House after the fire. $700,000 damage was done in this vincinity.**  *St. Louis Globe Democrat.*
+
+
+
 Subsequent testimony conflicted with this statement and showed that most of the militia, as one would suppose from the location of East St. Louis, came from Southern Illinois.
 
  And John T. Stewart continues in the *St. Louis Star*:
@@ -188,6 +188,11 @@ Mrs. Cox saw a Negro beheaded with a butcher's knife by someone in a crowd stand
 A trolley-car came along. The crowd forced its inmates to put their hands out the window. Colored people thus recognized were hauled out of the car to be beaten, trampled on, shot. A little twelve-year-old colored girl fainted—her mother knelt beside her. The crowd surged in on her. When its ranks opened up again Mrs. Cox saw the mother prostrate with a hole as large as one's fist in her head.
 
 Around a corner came a group of miners, fresh from work, their pick-axes over their shoulders. They plunged joyously into the arena. Presently Mrs. Cox caught sight of them again resting from their labors, their pick-axes slung once more over their shoulders, and on their backs dripped blood.
+
+![](../../../Images/mesl_5.jpg)  
+**Looking for bodies of victims. Six were found here.**  *St. Louis Star.*
+
+
 
 While Mrs. Cox was talking to Miss Gruening and Dr. Du Bois, a colored woman came up and exclaimed: "There's the lady that saved me!" The woman had spent all that terrible night crouching in a sewer pipe.
 
