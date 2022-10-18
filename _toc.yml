@@ -68,6 +68,10 @@ chapters:
   - file: Volumes/19/03/brothers_come_north.md
   - file: Volumes/34/06/mob_tactics.md
 
+- file: Sections/east_st_louis
+  sections:
+  - file: Volumes/14/05/massacre_of_east_st_louis.md
+
 - file: Sections/pan-africanism
   sections:
   - file: Volumes/17/04/africa.md
