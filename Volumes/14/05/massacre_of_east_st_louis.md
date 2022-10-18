@@ -2,6 +2,7 @@
 
 <h2> National Association for the Advancement of Colored People </h2>
 
+![](../../../Images/mesl_1.jpg)
 
 ***The National Association for the Advancement of Colored People 70 Fifth Avenue, New York, sent Martha Gruening and W. E. Burghardt Du Bois to East St. Louis, as special investigators of the recent outrages. These two collected in person the facts and pictures from which this article is compiled.***
 
