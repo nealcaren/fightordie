@@ -40,13 +40,14 @@ Carlos F. Hurd, an eye-witness, realizes this fact and speaks of it in the artic
 
 ![](../../../Images/mesl_3.jpg)  
 
+:::{figure-md} mesl_3
+<img src="../../../Images/mesl_3.jpg" >
 
-```{figure} ../../../Images/mesl_3.jpg
----
-name: mesl_3
----
 **The Fire.**  *St. Louis Star.*
-```
+:::
+
+
+
 
  He goes on with another horrible account of which he was also an eye-witness:
 
