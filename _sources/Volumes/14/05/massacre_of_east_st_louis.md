@@ -212,7 +212,22 @@ This is the testimony of Mary Edwards. She is twenty-three years old, directress
 > &nbsp;  
 He got up and told of his experience from five o'clock Monday evening until he was arrested at 5:45 Tuesday morning.
 
- After hearing his story the Judge dismissed him.
+![](../../../Images/mesl_6.jpg)  
+**Colored man, in front of car, being mobbed. Militia look on.**  *Internatinal Film Service.*
+
+After hearing his story the Judge dismissed him.
+
+![](../../../Images/mesl_7.jpg)  
+
+<p style="text-align:left;">
+    Frank Smith Burned.
+    <span style="float:right;">
+        Amos Davis, Age 84 Shot.
+    </span>
+</p>
+**Frank Smith Burned. ∙  Amos Davis, Age 84 Shot.**  
+**The Refugees. ∙ Camp of Troop D. 1st Ill. Cavalry from Springfield**  
+**After the fire. ∙ Police Headquarters, St. Lois, Mo.**
 
 Nathaniel Cole is twenty-two years old and worked in a steel foundry. He says:
 
@@ -282,10 +297,16 @@ The testimony of William Seawood shows the attitude of the soldiers. Seawood is 
 
 > Age, thirty years old, and have been a resident of East St. Louis seven years. I left my work at 2:30 P.M., went down Fifth Street to Walnut Avenue. I then went to a lunch stand, and as there was so much shooting I was afraid to leave. The mob came very close to the stand and I ran into an alley; there I found more of the rioters. I ran out of the alley between two buildings. I met a soldier who pointed a gun at me and told me to stop and throw up my hands. One of the men hit me on the back of my neck with his fist and another hit me across the head with a stick, and I also received a glance shot. One of the rioters also put a rope around my neck and said, "We will hang this one."
 
+![](../../../Images/mesl_8.jpg)  
+**At the Municipal Lodging House, St. Louis, Mo.**  
+
 The statement of Troy Watkins is to the same effect:
 
 > Tuesday I went to my house to get what I could. While inside a man was killed in front of my house. I thought since the soldiers were there to protect me I could go out of my house. I started out of my home and the white lady told me to go back, that they (the soldiers) had killed a man in front of my house. I went into the coal shed, got behind some tubs, when four men came in and saw me, but did not harm me. Then I went to where I was working (Kehlor Mill) where Mr. Cunningham gave us a team to go to my house and get my things. When I got there my house was burned down.    
 > &nbsp;  
+
+![](../../../Images/mesl_9.jpg)  
+**Mineola McGee. Shot by soldier and policeman. Her arm had to be amputated.**  
 
 Miss Gruening told of a girl who lost her arm. Here is the girl's own account. Her name is Mineola McGee (see page 234) and she has been a chambermaid at $3.50 a week. She has resided in East St. Louis since February 8, 1917. She says:
 
@@ -320,6 +341,10 @@ Testimony of Frank Smith, resident of East St. Louis for about twenty-five years
 > His house was set afire by the: mob, and they waited outside to shoot him. when he should emerge from the house. He waited till the last possible moment and was frightfully burned.     
 > &nbsp;  
 > Family consists of a sister and brother who lived at 2136 Gayety, East St. Louis. Lost everything and will probably have to stay in hospital for six or seven weeks longer.
+
+![](../../../Images/mesl_10.jpg)  
+**Narcis Gurley, 71 next birthday, lived in her home 30 years. Afraid to come out till the blazing walls fell in.**  
+
 
  Testimony of Samuel J. Green, age 34 years:
 
