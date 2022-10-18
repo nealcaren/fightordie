@@ -212,7 +212,15 @@ This is the testimony of Mary Edwards. She is twenty-three years old, directress
 > &nbsp;  
 He got up and told of his experience from five o'clock Monday evening until he was arrested at 5:45 Tuesday morning.
 
- After hearing his story the Judge dismissed him.
+![](../../../Images/mesl_6.jpg)  
+**Colored man, in front of car, being mobbed. Militia look on.**  *Internatinal Film Service.*
+
+After hearing his story the Judge dismissed him.
+
+![](../../../Images/mesl_7.jpg)  
+**Frank Smith Burned. ∙  Amos Davis, Age 84 Shot.**  
+**The Refugees. ∙ Camp of Troop D. 1st Ill. Cavalry from Springfield**  
+**After the fire. ∙ Police Headquarters, St. Lois, Mo.**
 
 Nathaniel Cole is twenty-two years old and worked in a steel foundry. He says:
 
