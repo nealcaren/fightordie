@@ -39,7 +39,14 @@ Carlos F. Hurd, an eye-witness, realizes this fact and speaks of it in the artic
 > "Get a n*****," was the slogan, and it was varied by the recurrent cry, ''Get another!" It was like nothing so much as the holiday crowd, with thumbs turned down, in the Roman Coliseum, except that here the shouters were their own gladiators, and their own wild beasts.
 
 ![](../../../Images/mesl_3.jpg)  
-**The Fire.**  *St. Louis Star.* 
+
+
+```{figure} ../../../Images/mesl_3.jpg
+---
+name: mesl_3
+---
+**The Fire.**  *St. Louis Star.*
+```
 
  He goes on with another horrible account of which he was also an eye-witness:
 
