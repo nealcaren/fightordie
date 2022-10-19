@@ -9,6 +9,9 @@ __pycache__/
 # No notebooks
 *.ipynb
 
+# Ignore files with variables
+index_with_var.md
+
 # Distribution / packaging
 .Python
 build/
