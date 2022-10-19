@@ -61,17 +61,23 @@ chapters:
   - file: Volumes/38/04/causes_of_lynching.md
   - file: Volumes/39/02/lynchings.md
 
-- file: Sections/red_summer
-  sections:
-  - file: Volumes/18/05/let_us_reason_together.md
-  - file: Volumes/18/06/shillady_and_texas.md
-  - file: Volumes/19/03/brothers_come_north.md
-  - file: Volumes/34/06/mob_tactics.md
 
-- file: Sections/east_st_louis
+- file: Sections/race_riots
   sections:
-  - file: Volumes/14/05/massacre_of_east_st_louis.md
-  - file: Volumes/14/05/east_st_louis.md
+  - file: Volumes/14/03/memphis_or_east_st_louis.md
+  - file: Sections/east_st_louis
+    sections:
+    - file: Volumes/14/04/roosevelt.md
+    - file: Volumes/14/05/massacre_of_east_st_louis.md
+    - file: Volumes/14/05/east_st_louis.md
+  - file: Sections/red_summer
+    sections:
+    - file: Volumes/18/05/let_us_reason_together.md
+    - file: Volumes/18/06/shillady_and_texas.md
+    - file: Volumes/19/03/brothers_come_north.md
+    - file: Volumes/34/06/mob_tactics.md
+
+
 
 - file: Sections/pan-africanism
   sections:
