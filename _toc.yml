@@ -71,6 +71,7 @@ chapters:
 - file: Sections/east_st_louis
   sections:
   - file: Volumes/14/05/massacre_of_east_st_louis.md
+  - file: Volumes/14/05/east_st_louis.md
 
 - file: Sections/pan-africanism
   sections:
