@@ -1,5 +1,4 @@
-﻿
-# Suffering Suffragettes (1912)
+﻿# Suffering Suffragettes (1912)
 
 The woman suffragists are wincing a bit under the plain speaking of  <span style="font-variant:small-caps;">The Crisis</span>. President Anna Shaw writes us:
 

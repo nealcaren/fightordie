@@ -1,4 +1,4 @@
-# The Negro in Politics
+# The Negro in Politics (1929)
 
 The political situation of the American Negro this fall has many anomalies, contradictions and encouragements. A white Southerner has been made Chairman of the Republican National Committee. He will undoubtedly do what he can to eliminate the Negroes from political activity in the South. If he is successful, there will grow up in the South two parties dominated by white men. This alarms some Negroes and certain of their friends. <span style="font-variant:small-caps;">The Crisis</span> is not alarmed. If these are two real parties and not merely one party with two faces, then they will need votes; and the more progressive their program is, the greater will be their need. This will be the Negroes' opportunity.
 
