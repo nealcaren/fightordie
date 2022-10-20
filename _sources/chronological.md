@@ -30,9 +30,9 @@
 |   1915 |       09 |      03 | [Agility](https://www.dareyoufight.org/Volumes/09/03/agility.html)                                                                                                              |
 |   1915 |       09 |      06 | [Woman Suffrage](https://www.dareyoufight.org/Volumes/09/06/womansuffrage.html)                                                                                                 |
 |   1915 |       10 |      01 | [The Clansman](https://www.dareyoufight.org/Volumes/10/01/clansman.html)                                                                                                        |
+|   1915 |       10 |      01 | [Peace](https://www.dareyoufight.org/Volumes/10/01/peace.html)                                                                                                                  |
 |   1915 |       10 |      01 | [Credit](https://www.dareyoufight.org/Volumes/10/01/credit.html)                                                                                                                |
 |   1915 |       10 |      01 | [The Republicans](https://www.dareyoufight.org/Volumes/10/01/the_republicans.html)                                                                                              |
-|   1915 |       10 |      01 | [Peace](https://www.dareyoufight.org/Volumes/10/01/peace.html)                                                                                                                  |
 |   1915 |       11 |      02 | [The Star of Ethiopia](https://www.dareyoufight.org/Volumes/11/02/star_of_ethiopia.html)                                                                                        |
 |   1916 |       11 |      04 | [That Capital "N"](https://www.dareyoufight.org/Volumes/11/04/that_capital_n.html)                                                                                              |
 |   1916 |       12 |      03 | [The Drama Among Black Folk](https://www.dareyoufight.org/Volumes/12/03/drama_among_black_folk.html)                                                                            |
@@ -94,8 +94,8 @@
 |   1925 |       30 |      01 | [The New Crisis](https://www.dareyoufight.org/Volumes/30/01/new_crisis.html)                                                                                                    |
 |   1925 |       30 |      02 | [Disenfranchisement](https://www.dareyoufight.org/Volumes/30/02/disenfranchisement.html)                                                                                        |
 |   1925 |       31 |      01 | [The Challenge of Detroit](https://www.dareyoufight.org/Volumes/31/01/challenge_of_detroit.html)                                                                                |
-|   1925 |       31 |      02 | [The Black Man and Labor](https://www.dareyoufight.org/Volumes/31/02/black_man_and_labor.html)                                                                                  |
 |   1925 |       31 |      02 | [The Firing Line](https://www.dareyoufight.org/Volumes/31/02/firing_line.html)                                                                                                  |
+|   1925 |       31 |      02 | [The Black Man and Labor](https://www.dareyoufight.org/Volumes/31/02/black_man_and_labor.html)                                                                                  |
 |   1926 |       31 |      04 | [The Newer South](https://www.dareyoufight.org/Volumes/31/04/newer_south.html)                                                                                                  |
 |   1926 |       31 |      05 | [Correspondence](https://www.dareyoufight.org/Volumes/31/05/correspondence.html)                                                                                                |
 |   1926 |       31 |      06 | [Again, Pullman Porters](https://www.dareyoufight.org/Volumes/31/06/again_pullman_porters.html)                                                                                 |
