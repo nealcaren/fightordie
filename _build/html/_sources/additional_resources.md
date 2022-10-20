@@ -10,6 +10,7 @@
 
 ## Edited Volumes of The Crisis
 * Aptheker, Herbert. 1973. *Annotated bibliography of the published writings of W. E. B. Du Bois.* Kraus-Thomson Organization. [Includes brief summaries of all of Du Bois's writing, including the *The Crisis*.]
+* Du Bois, W. E. B. 1980. *Selections from the Crisis.* Herbert Aptheker, editor. Kraus-Thomson Organization.
 * Moon, Henry Lee, editor. 1972. *The Emerging Thought of W. E. B. Du Bois: Essays and Editorials from the Crisis. With an introduction, commentaries, and a personal memoir by Henry Lee, Moon.* Simon and Schuster.
 * Wilson, Sondra Kathryn, editor. 1999. *The Crisis Reader: Stories, Poetry, and Essays from the N.A.A.C.P.'s Crisis Magazine.* Random House.
 
