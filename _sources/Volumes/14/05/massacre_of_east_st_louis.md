@@ -415,14 +415,14 @@ The District Attorney told of seeing a man on a street car exhibit a revolver op
 
 Karch emphatically confirmed the statements made to the *Post-Dispatch* Tuesday by City Clerk Whalen, who is president of the Central Trades and Labor Union of East St. Louis, to the effect that large employers of labor had given marked and continuous preference to Negroes.
 
- "Their attitude for some time has been that they would give jobs to white men when they couldn't get any more Negroes," Karch declared. "This, as Mr. Whalen said, is because the Negroes will not unionize. Before the tenseness of this situation is relieved, these employers must convince the laboring whites that they will be given preference over imported blacks in applying for work. Instead of doing that, they are declaring they will put all the Negroes back to work, and protect them, if they have to keep troops here indefinitely. That kind of flamboyant talk only angers the men who should be quieted.
+"Their attitude for some time has been that they would give jobs to white men when they couldn't get any more Negroes," Karch declared. "This, as Mr. Whalen said, is because the Negroes will not unionize. Before the tenseness of this situation is relieved, these employers must convince the laboring whites that they will be given preference over imported blacks in applying for work. Instead of doing that, they are declaring they will put all the Negroes back to work, and protect them, if they have to keep troops here indefinitely. That kind of flamboyant talk only angers the men who should be quieted.
 
- "As long as the heads of these big plants break up strikes by importing Negro strikebreakers, so long can they expect to have race riots. This is no defense for the rioters; there is no defense for them. It is just a fact that when a man's family is hungry his sense of justice doesn't operate very accurately."
+"As long as the heads of these big plants break up strikes by importing Negro strikebreakers, so long can they expect to have race riots. This is no defense for the rioters; there is no defense for them. It is just a fact that when a man's family is hungry his sense of justice doesn't operate very accurately."
 
- Prejudice is a bad thing. But prejudice in the hands of Organized Labor in America! The Central Trades and Labor Union of East St. Louis has perpetrated a grim jest. Its motto as one may see by glancing back at page 221, is "Labor omnia vincit." Latin is apt to be a bit obscure, so we translate: "Labor conquers everything." It does. In East St. Louis it has conquered Liberty, Justice, Mercy, Law and the Democracy which is a nation's vaunt.
+Prejudice is a bad thing. But prejudice in the hands of Organized Labor in America! The Central Trades and Labor Union of East St. Louis has perpetrated a grim jest. Its motto as one may see by glancing back at page 221, is "Labor omnia vincit." Latin is apt to be a bit obscure, so we translate: "Labor conquers everything." It does. In East St. Louis it has conquered Liberty, Justice, Mercy, Law and the Democracy which is a nation's vaunt.
 
 And what of the Federal Government?
 
 
 ______________
-*Citation:* National Association for the Advancement of Colored People. 1917. "The Massacre in East St. Louis." *The Crisis*. 13(6): 219-238.
+*Citation:* National Association for the Advancement of Colored People. 1917. "The Massacre in East St. Louis." *The Crisis*. 14(5): 219-238.
