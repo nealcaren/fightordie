@@ -7,7 +7,7 @@
 This project is an ongoing effort to make available the writings by W.E.B. Du Bois that appeared in <span style="font-variant:small-caps;">The Crisis</span>, the official journal of the NAACP. Du Bois founded the magazine in 1910 and regularly contributed editorials and articles until 1934.
 
 
-**Work in progress.** This site currently includes 173 articles, but hundreds more are in the Crisis archives. If you want to help make more of Dubois's work available, look at our [Contribution Guide](https://github.com/nealcaren/fightordie/blob/main/contributing.md), or email [me](mailto:nealcaren@unc.edu).
+**Work in progress.** This site currently includes 174 articles, but hundreds more are in the Crisis archives. If you want to help make more of Dubois's work available, look at our [Contribution Guide](https://github.com/nealcaren/fightordie/blob/main/contributing.md), or email [me](mailto:nealcaren@unc.edu).
 
 
 

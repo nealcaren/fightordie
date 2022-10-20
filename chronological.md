@@ -17,6 +17,7 @@
 |   1912 |       04 |      02 | [Suffering Suffragettes](https://www.dareyoufight.org/Volumes/04/02/suffering_suffragettes.html)                                                                                |
 |   1912 |       04 |      04 | [Politics](https://www.dareyoufight.org/Volumes/04/04/politics.html)                                                                                                            |
 |   1912 |       04 |      04 | [Ohio](https://www.dareyoufight.org/Volumes/04/04/ohio.html)                                                                                                                    |
+|   1912 |       04 |      05 | [Votes for Women](https://www.dareyoufight.org/Volumes/04/05/votes_for_women.html)                                                                                              |
 |   1913 |       05 |      04 | [Blessed Discrimination](https://www.dareyoufight.org/Volumes/05/04/blesseddiscrimination.html)                                                                                 |
 |   1913 |       05 |      04 | [Intermarriage](https://www.dareyoufight.org/Volumes/05/04/intermarriage.html)                                                                                                  |
 |   1913 |       05 |      05 | [The Proper Way](https://www.dareyoufight.org/Volumes/05/05/proper_way.html)                                                                                                    |
