@@ -2,7 +2,7 @@
 
 There is developing within the Negro race a situation bordering on tragedy in regard to the "Jim Crow" movement now growing and spreading in the North. The tragedy has been with us before but it has been more or less dormant and unspoken. To-day it is flaring to red flame and we must sit down and reason together.
 
-<p align="center"> ~~~~~~~~~~~~~~~ </p>
+<p style="text-align:center> ~~~~~~~~~~~~~~~ </p>
 
 I stood yesterday before three thousand folk in Philadelphia and said at length what I am saying now more concisely and definitely. It was an earnest crowd quivering with excitement and feeling, and the thing that it had in mind was this:
 
