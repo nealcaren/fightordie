@@ -1,4 +1,4 @@
-# Voting and Parties
+# Suffrage and Voting
 
 
 ```{tableofcontents}

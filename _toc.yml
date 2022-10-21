@@ -100,6 +100,41 @@ chapters:
     - file: Volumes/31/02/firing_line.md
     - file: Volumes/34/01/liberia.md
 
+- file: Sections/electoral
+  sections:
+  - file: Sections/womansuffrage
+    sections:
+    - file: Volumes/04/02/suffering_suffragettes.md
+    - file: Volumes/04/04/ohio.md
+    - file: Volumes/04/05/votes_for_women.md
+    - file: Volumes/09/06/womansuffrage.md
+    - file: Volumes/09/03/agility.md
+    - file: Volumes/15/01/votes_for_women.md
+  - file: Sections/disenfranchisement
+    sections:
+    - file: Volumes/30/02/disenfranchisement.md
+    - file: Volumes/36/05/negro_citizen.md
+    - file: Volumes/36/11/negro_in_politics.md
+    - file: Volumes/39/09/young_voters.md
+    - file: Volumes/40/06/strategy_of_the_negro_voter.md
+  - file: Sections/voting
+    sections:
+    - file: Volumes/04/04/politics.md
+    - file: Volumes/10/01/the_republicans.md
+    - file: Volumes/15/01/oath_of_the_negro_voter.md
+    - file: Volumes/21/02/unreal_campaign.md
+    - file: Volumes/22/01/drive.md
+    - file: Volumes/28/03/vote.md
+    - file: Volumes/28/04/la_follette.md
+    - file: Volumes/28/05/naacp_and_parties.md
+    - file: Volumes/29/01/how_shall_we_vote.md
+    - file: Volumes/34/04/chicago.md
+    - file: Volumes/35/11/on_the_fence.md
+    - file: Volumes/35/11/third_party.md
+    - file: Volumes/36/02/depriest.md
+    - file: Volumes/39/11/herbert_hoover.md
+
+
 
 - file: Sections/economics
   sections:
@@ -132,6 +167,20 @@ chapters:
     - file: Volumes/40/07/our_class_struggle.md
     - file: Volumes/41/03/Subsistence_homestead_colonies.md
 
+- file: Sections/protest
+  sections:
+  - file: Volumes/01/01/Agitation.md
+  - file: Volumes/05/05/proper_way.md
+  - file: Volumes/13/02/refinement_and_love.md
+  - file: Volumes/16/03/close_ranks.md
+  - file: Volumes/19/01/statement.md
+  - file: Volumes/12/06/negro_party.md
+  - file: Volumes/22/01/inter-racial_comity.md
+  - file: Volumes/24/01/publicity.md
+  - file: Volumes/37/03/boycott.md
+  - file: Volumes/41/05/violence.md
+  - file: Volumes/41/06/counsels_of_despair.md
+
 - file: Sections/NAACP
   sections:
   - file: Volumes/01/02/NAACP.md
@@ -147,56 +196,6 @@ chapters:
   - file: Volumes/41/08/dr_dubois_resigns.md
 
 
-- file: Sections/socialchange
-  sections:
-  - file: Sections/protest
-    sections:
-    - file: Volumes/01/01/Agitation.md
-    - file: Volumes/05/05/proper_way.md
-    - file: Volumes/13/02/refinement_and_love.md
-    - file: Volumes/16/03/close_ranks.md
-    - file: Volumes/19/01/statement.md
-    - file: Volumes/12/06/negro_party.md
-    - file: Volumes/22/01/inter-racial_comity.md
-    - file: Volumes/24/01/publicity.md
-    - file: Volumes/37/03/boycott.md
-    - file: Volumes/41/05/violence.md
-    - file: Volumes/41/06/counsels_of_despair.md
-  - file: Sections/voting
-    sections:
-    - file: Volumes/30/02/disenfranchisement.md
-    - file: Volumes/36/05/negro_citizen.md
-    - file: Volumes/36/11/negro_in_politics.md
-    - file: Volumes/39/09/young_voters.md
-    - file: Volumes/40/06/strategy_of_the_negro_voter.md
-
-  - file: Sections/electoral
-    sections:
-    - file: Volumes/04/04/politics.md
-    - file: Volumes/10/01/the_republicans.md
-    - file: Volumes/15/01/oath_of_the_negro_voter.md
-    - file: Volumes/21/02/unreal_campaign.md
-    - file: Volumes/22/01/drive.md
-    - file: Volumes/28/03/vote.md
-    - file: Volumes/28/04/la_follette.md
-    - file: Volumes/28/05/naacp_and_parties.md
-    - file: Volumes/29/01/how_shall_we_vote.md
-    - file: Volumes/34/04/chicago.md
-    - file: Volumes/35/11/on_the_fence.md
-    - file: Volumes/35/11/third_party.md
-    - file: Volumes/36/02/depriest.md
-    - file: Volumes/39/11/herbert_hoover.md
-
-
-
-- file: Sections/womansuffrage
-  sections:
-  - file: Volumes/04/02/suffering_suffragettes.md
-  - file: Volumes/04/04/ohio.md
-  - file: Volumes/04/05/votes_for_women.md
-  - file: Volumes/09/06/womansuffrage.md
-  - file: Volumes/09/03/agility.md
-  - file: Volumes/15/01/votes_for_women.md
 
 
 - file: Sections/other
