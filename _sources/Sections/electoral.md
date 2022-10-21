@@ -1,4 +1,4 @@
-# Suffrage and Voting
+# Disenfranchisement, Suffrage and Voting
 
 
 ```{tableofcontents}
