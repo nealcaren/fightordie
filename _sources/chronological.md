@@ -3,8 +3,8 @@
 |   Year |   Volume |   Issue | Title                                                                                                                                                                           |
 |-------:|---------:|--------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |   1910 |       01 |      01 | [Segregation](https://www.dareyoufight.org/Volumes/01/01/Segregation.html)                                                                                                      |
-|   1910 |       01 |      01 | [The Crisis](https://www.dareyoufight.org/Volumes/01/01/TheCrisis.html)                                                                                                         |
 |   1910 |       01 |      01 | [Agitation](https://www.dareyoufight.org/Volumes/01/01/Agitation.html)                                                                                                          |
+|   1910 |       01 |      01 | [The Crisis](https://www.dareyoufight.org/Volumes/01/01/TheCrisis.html)                                                                                                         |
 |   1910 |       01 |      02 | [N.A.A.C.P.](https://www.dareyoufight.org/Volumes/01/02/NAACP.html)                                                                                                             |
 |   1911 |       01 |      03 | ["Social Equality"](https://www.dareyoufight.org/Volumes/01/03/social_equality.html)                                                                                            |
 |   1911 |       01 |      03 | ["Ashamed"](https://www.dareyoufight.org/Volumes/01/03/ashamed.html)                                                                                                            |
@@ -15,8 +15,8 @@
 |   1912 |       03 |      05 | [Lee](https://www.dareyoufight.org/Volumes/03/05/lee.html)                                                                                                                      |
 |   1912 |       03 |      06 | [The Servant in the South](https://www.dareyoufight.org/Volumes/03/06/servant_in_the_south.html)                                                                                |
 |   1912 |       04 |      02 | [Suffering Suffragettes](https://www.dareyoufight.org/Volumes/04/02/suffering_suffragettes.html)                                                                                |
-|   1912 |       04 |      04 | [Politics](https://www.dareyoufight.org/Volumes/04/04/politics.html)                                                                                                            |
 |   1912 |       04 |      04 | [Ohio](https://www.dareyoufight.org/Volumes/04/04/ohio.html)                                                                                                                    |
+|   1912 |       04 |      04 | [Politics](https://www.dareyoufight.org/Volumes/04/04/politics.html)                                                                                                            |
 |   1912 |       04 |      05 | [Votes for Women](https://www.dareyoufight.org/Volumes/04/05/votes_for_women.html)                                                                                              |
 |   1913 |       05 |      04 | [Blessed Discrimination](https://www.dareyoufight.org/Volumes/05/04/blesseddiscrimination.html)                                                                                 |
 |   1913 |       05 |      04 | [Intermarriage](https://www.dareyoufight.org/Volumes/05/04/intermarriage.html)                                                                                                  |
@@ -32,8 +32,8 @@
 |   1915 |       09 |      06 | [Woman Suffrage](https://www.dareyoufight.org/Volumes/09/06/womansuffrage.html)                                                                                                 |
 |   1915 |       10 |      01 | [The Clansman](https://www.dareyoufight.org/Volumes/10/01/clansman.html)                                                                                                        |
 |   1915 |       10 |      01 | [Peace](https://www.dareyoufight.org/Volumes/10/01/peace.html)                                                                                                                  |
-|   1915 |       10 |      01 | [Credit](https://www.dareyoufight.org/Volumes/10/01/credit.html)                                                                                                                |
 |   1915 |       10 |      01 | [The Republicans](https://www.dareyoufight.org/Volumes/10/01/the_republicans.html)                                                                                              |
+|   1915 |       10 |      01 | [Credit](https://www.dareyoufight.org/Volumes/10/01/credit.html)                                                                                                                |
 |   1915 |       11 |      02 | [The Star of Ethiopia](https://www.dareyoufight.org/Volumes/11/02/star_of_ethiopia.html)                                                                                        |
 |   1916 |       11 |      04 | [That Capital "N"](https://www.dareyoufight.org/Volumes/11/04/that_capital_n.html)                                                                                              |
 |   1916 |       12 |      03 | [The Drama Among Black Folk](https://www.dareyoufight.org/Volumes/12/03/drama_among_black_folk.html)                                                                            |
@@ -48,8 +48,10 @@
 |   1917 |       14 |      04 | [Roosevelt](https://www.dareyoufight.org/Volumes/14/04/roosevelt.html)                                                                                                          |
 |   1917 |       14 |      05 | [The Massacre in East St. Louis](https://www.dareyoufight.org/Volumes/14/05/massacre_of_east_st_louis.html)                                                                     |
 |   1917 |       14 |      05 | [East St. Louis](https://www.dareyoufight.org/Volumes/14/05/east_st_louis.html)                                                                                                 |
-|   1917 |       15 |      01 | [The Oath of the Negro Voter](https://www.dareyoufight.org/Volumes/15/01/oath_of_the_negro_voter.html)                                                                          |
+|   1917 |       14 |      06 | [Houston](https://www.dareyoufight.org/Volumes/14/06/houston.html)                                                                                                              |
 |   1917 |       15 |      01 | [Votes for Women](https://www.dareyoufight.org/Volumes/15/01/votes_for_women.html)                                                                                              |
+|   1917 |       15 |      01 | [The Oath of the Negro Voter](https://www.dareyoufight.org/Volumes/15/01/oath_of_the_negro_voter.html)                                                                          |
+|   1917 |       15 |      01 | [Houston: An N.A.A.C.P. Investigation](https://www.dareyoufight.org/Volumes/15/01/houston.html)                                                                                 |
 |   1918 |       15 |      05 | [The Black Man and the Unions](https://www.dareyoufight.org/Volumes/15/05/the_black_man_and_the_unions.html)                                                                    |
 |   1918 |       16 |      03 | [Close Ranks](https://www.dareyoufight.org/Volumes/16/03/close_ranks.html)                                                                                                      |
 |   1919 |       15 |      03 | [Thirteen](https://www.dareyoufight.org/Volumes/15/03/thirteen.html)                                                                                                            |
@@ -71,8 +73,8 @@
 |   1920 |       19 |      04 | [Crime](https://www.dareyoufight.org/Volumes/19/04/crime.html)                                                                                                                  |
 |   1920 |       21 |      02 | [The Unreal Campaign](https://www.dareyoufight.org/Volumes/21/02/unreal_campaign.html)                                                                                          |
 |   1921 |       22 |      01 | [Anti-Lynching Legislation](https://www.dareyoufight.org/Volumes/22/01/anti-lynching_legislation.html)                                                                          |
-|   1921 |       22 |      01 | [Inter-Racial Comity](https://www.dareyoufight.org/Volumes/22/01/inter-racial_comity.html)                                                                                      |
 |   1921 |       22 |      01 | [The Drive](https://www.dareyoufight.org/Volumes/22/01/drive.html)                                                                                                              |
+|   1921 |       22 |      01 | [Inter-Racial Comity](https://www.dareyoufight.org/Volumes/22/01/inter-racial_comity.html)                                                                                      |
 |   1921 |       22 |      03 | [The Negro and Radical Thought](https://www.dareyoufight.org/Volumes/22/03/negro_and_radical_thought.html)                                                                      |
 |   1921 |       22 |      04 | [The Class Struggle](https://www.dareyoufight.org/Volumes/22/04/class_struggle.html)                                                                                            |
 |   1921 |       22 |      06 | [Socialism and the Negro](https://www.dareyoufight.org/Volumes/22/06/socialism_and_the_negro.html)                                                                              |
@@ -87,8 +89,8 @@
 |   1923 |       27 |      03 | [The Black Man and the Wounded World - A History of the Negro Race in the World War and After](https://www.dareyoufight.org/Volumes/27/03/black_man_and_the_wounded_world.html) |
 |   1924 |       27 |      04 | [Kenya](https://www.dareyoufight.org/Volumes/27/04/kenya.html)                                                                                                                  |
 |   1924 |       28 |      01 | [A Lunatic or a Traitor](https://www.dareyoufight.org/Volumes/28/01/lunatic_or_a_traitor.html)                                                                                  |
-|   1924 |       28 |      03 | [Unity](https://www.dareyoufight.org/Volumes/28/03/unity.html)                                                                                                                  |
 |   1924 |       28 |      03 | [Vote](https://www.dareyoufight.org/Volumes/28/03/vote.html)                                                                                                                    |
+|   1924 |       28 |      03 | [Unity](https://www.dareyoufight.org/Volumes/28/03/unity.html)                                                                                                                  |
 |   1924 |       28 |      03 | [Helping Africa](https://www.dareyoufight.org/Volumes/28/03/helping_africa.html)                                                                                                |
 |   1924 |       28 |      04 | [To the American Federation of Labor](https://www.dareyoufight.org/Volumes/28/04/american_federation_of_labor.html)                                                             |
 |   1925 |       29 |      05 | [Radicals and the Negro](https://www.dareyoufight.org/Volumes/29/05/radicals_and_the_negro.html)                                                                                |
@@ -120,9 +122,9 @@
 |   1928 |       29 |      01 | [How Shall We Vote](https://www.dareyoufight.org/Volumes/29/01/how_shall_we_vote.html)                                                                                          |
 |   1928 |       35 |      03 | [Black and White Workers](https://www.dareyoufight.org/Volumes/35/03/black_and_white_workers.html)                                                                              |
 |   1928 |       35 |      03 | [The Name Negro](https://www.dareyoufight.org/Volumes/35/03/name_negro.html)                                                                                                    |
-|   1928 |       35 |      11 | [The Dunbar National Bank](https://www.dareyoufight.org/Volumes/35/11/dunbar_national_bank.html)                                                                                |
 |   1928 |       35 |      11 | [On the Fence](https://www.dareyoufight.org/Volumes/35/11/on_the_fence.html)                                                                                                    |
 |   1928 |       35 |      11 | [A Third Party](https://www.dareyoufight.org/Volumes/35/11/third_party.html)                                                                                                    |
+|   1928 |       35 |      11 | [The Dunbar National Bank](https://www.dareyoufight.org/Volumes/35/11/dunbar_national_bank.html)                                                                                |
 |   1929 |       36 |      02 | [DePriest](https://www.dareyoufight.org/Volumes/36/02/depriest.html)                                                                                                            |
 |   1929 |       36 |      05 | [The Negro Citizen](https://www.dareyoufight.org/Volumes/36/05/negro_citizen.html)                                                                                              |
 |   1929 |       36 |      11 | [The Negro in Politics](https://www.dareyoufight.org/Volumes/36/11/negro_in_politics.html)                                                                                      |
@@ -143,8 +145,8 @@
 |   1932 |       39 |      04 | [Again Howard](https://www.dareyoufight.org/Volumes/39/04/again_howard.html)                                                                                                    |
 |   1932 |       39 |      04 | [A Platform for Radicals](https://www.dareyoufight.org/Volumes/39/04/platform_for_radicals.html)                                                                                |
 |   1932 |       39 |      08 | [Blaine of Maine](https://www.dareyoufight.org/Volumes/39/08/blaine_of_maine.html)                                                                                              |
-|   1932 |       39 |      09 | [Employment](https://www.dareyoufight.org/Volumes/39/09/employment.html)                                                                                                        |
 |   1932 |       39 |      09 | [Young Voters](https://www.dareyoufight.org/Volumes/39/09/young_voters.html)                                                                                                    |
+|   1932 |       39 |      09 | [Employment](https://www.dareyoufight.org/Volumes/39/09/employment.html)                                                                                                        |
 |   1932 |       39 |      11 | [Herbert Hoover](https://www.dareyoufight.org/Volumes/39/11/herbert_hoover.html)                                                                                                |
 |   1933 |       40 |      01 | [Listen, Japan and China](https://www.dareyoufight.org/Volumes/40/01/listen_japan_and_china.html)                                                                               |
 |   1933 |       40 |      01 | [Toward a New Racial Philosophy](https://www.dareyoufight.org/Volumes/40/01/toward_a_new_racial_philosophy.html)                                                                |

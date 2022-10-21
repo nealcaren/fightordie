@@ -1,4 +1,3 @@
-
 # Houston (1917)
 
 It is difficult for one of Negro blood to write of Houston. Is not the ink within the very wells crimsoned with the blood of black martyrs? Do they not cry unavenged, saying:—Always WE pay; always WE die; always, whether right or wrong, it is SO MANY NEGROES killed, so many NEGROES wounded. But here, at last, at Houston is a change. Here, at last, white folk died. Innocent, adventitious strangers, perhaps, as innocent as the thousands of Negroes done to death in the last two centuries. Our hands tremble to rise and exult, our lips strive to cry.
