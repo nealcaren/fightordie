@@ -263,6 +263,7 @@ chapters:
 
 - file: Sections/nondubois
   sections:
+  - file: Volumes/14/05/negro_silent_parade.md
   - file: Volumes/15/01/houston.md
 
 - file: additional_resources.md
