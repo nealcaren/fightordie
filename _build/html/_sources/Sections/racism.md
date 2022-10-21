@@ -1,6 +1,0 @@
-#  Racism and Discrimination
-
-
-
-```{tableofcontents}
-```

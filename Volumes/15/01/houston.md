@@ -1,5 +1,3 @@
-
-
 # Houston: An N.A.A.C.P. Investigation (1917)
 <h2> National Association for the Advancement of Colored People </h2>
 
