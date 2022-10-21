@@ -81,7 +81,7 @@ Although the paraders marched by in silence their sentiments were proclaimed by 
 
 ![](../../../Images/nsp_2.jpg)   
 ```{margin}
-In the second row, Du Bois is second from the right, marching next to James Weldon Johnson.
+Du Bois is in the second row, second from the right, marching next to James Weldon Johnson.
 ```
 ![](../../../Images/nsp_3.jpg)    
 **The Negro Silent Parade, Fifth avenue, New York City.**  *Underwood & Underwood.*
