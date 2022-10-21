@@ -4,11 +4,10 @@ This book is an ongoing effort to make available a selection of works by W.E.B. 
 
 In addition to his many other commitments during this period, his writing for <span style="font-variant:small-caps;">The Crisis</span> was prolific, frequently writing multiple items for each of the 286 issues he edited.
 
-The content of his pieces varied widely, from short items recognizing developments at Black colleges or Y.W.C.A chapters, to fiery denunciations of Southern Jim Crow laws, to long essays on the relationship between capitalism and racism.  
+The content of his pieces varied widely, from short items recognizing developments at Black colleges or Y.W.C.A chapters, to fiery denunciations of Southern Jim Crow laws, to long essays on the relationship between capitalism and racism.  This volume attempts to represent the full diversity of Du Bois's writing during this period, particularly those pieces that engage in analysis.
 
-Although he published his own articles every year or so, Du Bois's main contribution to the writing of The Crisis was his editorials. Early editorials in The Crisis are unsigned, although historians and biographers attribute most to Du Bois, except those appearing under the name of another NAACP official or when it was noted in the pages that Du Bois was traveling during the production of the issues. These usually appeared near the back, after an "Opinion" section composed of extracts from Black newspapers. In 1921, the Crisis switched from publishing "Editorials" to an "Opinion" column credit to Du Bois, and it was usually the first section in each issue. Finally, in the late 1920s, his section was renamed "Postscript" and moved to the back pages.
+Although he published his own articles every year or so, Du Bois's main contribution to the writing of <span style="font-variant:small-caps;">The Crisis</span> was his editorials. Early editorials in <span style="font-variant:small-caps;">The Crisis</span> are unsigned, although historians and biographers attribute most to Du Bois, except those appearing under the name of another NAACP official or when it was noted in the pages that Du Bois was traveling during the production of the issues. These usually appeared near the back, after an "Opinion" section composed of extracts from Black newspapers. In 1921, <span style="font-variant:small-caps;">The Crisis</span> switched from publishing "Editorials" to an "Opinion" column credit to Du Bois, and it was usually the first section in each issue. Finally, in the late 1920s, his section was renamed "Postscript" and moved to the back pages.
 
-This volume attempts to represent the full diversity of Du Bois's writing during this period, emphasizing those pieces that engage in analysis. The only substantive area largely absent is his editorials criticizing Booker Washington and his educational strategies, as these arguments are covered well elsewhere.
 
 The title of this volume, *Dare Your Fight*, comes from a 1914 [editorial *Join or Die*](Volumes/07/03/fightordie.md), which provides a rationale for the journal and an emotional plea to support it and the NAACP:
 
@@ -19,10 +18,11 @@ The entire run of <span style="font-variant:small-caps;">The Crisis</span> is av
 The versions of his work published here largely reflect how they appeared when originally published. For example, <span style="font-variant:small-caps;">The Crisis</span>  was always in small caps. "Jim Crow" was always in quotation marks and hyphenated when used as an adjective. Du Bois's name was spelled both with and without a space after the u.
 
  Only a few consistent changes have been made:
-* Paragraph-long quotes are indented, unlike in the Crisis. The quotation marks remain, however.
+* Paragraph-long quotes are indented, unlike in <span style="font-variant:small-caps;">The Crisis</span>. The quotation marks remain, however.
 * While early articles began with a drop cap, and the first few words were capitalized in many pieces, those have not been reproduced here.
 * I have not reproduced the narrow non-breaking space (*espace fine insécable*) that was sometimes used in front of colons and question marks.
 * The n-word has been replaced with n*****.
+* The rare typographical errors are corrected.
 
 
 The website is produced using [JuypterBook](https://jupyterbook.org/intro.html).
