@@ -25,4 +25,4 @@ It is, therefore, of the utmost importance that every single black voter in the 
 It is only in such broad-minded willingness to do justice to all, that the black man can prove his right not only to share, but to help direct modern culture.
 
 __________
-*Citation:* "Votes for Women. 1917. *The Crisis*. 15(1): 8.
+*Citation:* Du Bois, W.E.B. 1917. "Votes for Women." *The Crisis*. 15(1): 8.

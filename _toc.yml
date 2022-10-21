@@ -66,6 +66,7 @@ chapters:
   sections:
   - file: Volumes/14/03/memphis_or_east_st_louis.md
   - file: Volumes/14/06/houston.md
+  - file: Volumes/15/03/thirteen.md
   - file: Sections/east_st_louis
     sections:
     - file: Volumes/14/04/roosevelt.md
@@ -101,7 +102,15 @@ chapters:
     - file: Volumes/34/01/liberia.md
 
 - file: Sections/electoral
+  title: Disenfranchisement and Voting
   sections:
+  - file: Sections/disenfranchisement
+    sections:
+    - file: Volumes/30/02/disenfranchisement.md
+    - file: Volumes/36/05/negro_citizen.md
+    - file: Volumes/36/11/negro_in_politics.md
+    - file: Volumes/39/09/young_voters.md
+    - file: Volumes/40/06/strategy_of_the_negro_voter.md
   - file: Sections/womansuffrage
     sections:
     - file: Volumes/04/02/suffering_suffragettes.md
@@ -110,13 +119,6 @@ chapters:
     - file: Volumes/09/06/womansuffrage.md
     - file: Volumes/09/03/agility.md
     - file: Volumes/15/01/votes_for_women.md
-  - file: Sections/disenfranchisement
-    sections:
-    - file: Volumes/30/02/disenfranchisement.md
-    - file: Volumes/36/05/negro_citizen.md
-    - file: Volumes/36/11/negro_in_politics.md
-    - file: Volumes/39/09/young_voters.md
-    - file: Volumes/40/06/strategy_of_the_negro_voter.md
   - file: Sections/voting
     sections:
     - file: Volumes/04/04/politics.md
@@ -205,7 +207,6 @@ chapters:
     - file: Volumes/02/04/races.md
   - file: Sections/criminal_justice
     sections:
-     - file: Volumes/15/03/thirteen.md
      - file: Volumes/19/04/crime.md
      - file: Volumes/32/01/crime.md
      - file: Volumes/39/04/courts_and_jails.md
@@ -259,6 +260,11 @@ chapters:
     - file: Volumes/40/12/matter_of_manners.md
     - file: Volumes/40/12/peace.md
     - file: Volumes/41/01/scottsboro.md
+
+- file: Sections/nondubois
+  sections:
+  - file: Volumes/15/01/houston.md
+
 - file: additional_resources.md
 - file: chronological.md
 - file: covers
