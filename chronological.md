@@ -21,6 +21,8 @@
 |   1912 |       04 |      05 | [Garrison and Woman's Suffrage](https://www.dareyoufight.org/Volumes/04/05/garrison_and_womans_suffrage.html)                                                                   |
 |   1912 |       04 |      05 | [Colored Women as Voters](https://www.dareyoufight.org/Volumes/04/05/colored_women_as_voters.html)                                                                              |
 |   1912 |       04 |      05 | [The Justice of Woman Suffrage](https://www.dareyoufight.org/Volumes/04/05/justice_of_woman_sffrage.html)                                                                       |
+|   1912 |       04 |      05 | [Two Suffrage Movements](https://www.dareyoufight.org/Volumes/04/05/two_suffrage_movements.html)                                                                                |
+|   1912 |       04 |      05 | [Brother Baptis' on Woman Suffrage](https://www.dareyoufight.org/Volumes/04/05/brother_batis.html)                                                                              |
 |   1913 |       05 |      04 | [Blessed Discrimination](https://www.dareyoufight.org/Volumes/05/04/blesseddiscrimination.html)                                                                                 |
 |   1913 |       05 |      04 | [Intermarriage](https://www.dareyoufight.org/Volumes/05/04/intermarriage.html)                                                                                                  |
 |   1913 |       05 |      05 | [The Proper Way](https://www.dareyoufight.org/Volumes/05/05/proper_way.html)                                                                                                    |
