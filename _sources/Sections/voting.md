@@ -1,4 +1,4 @@
-# Disenfranchisement
+# Voting
 
 
 ```{tableofcontents}
