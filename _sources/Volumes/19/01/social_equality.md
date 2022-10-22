@@ -8,4 +8,4 @@ If, on the other hand, "Social Equality" involves the denial of the social right
 
 
 ______________
-*Citation:* Du Bois, W.E.B. 1919. "Social Equality." *The Crisis*. 19(1): 337.
+*Citation:* Du Bois, W.E.B. 1919. "Social Equality." *The Crisis*. 19(1):337.

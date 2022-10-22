@@ -22,4 +22,4 @@ It is lynching, forced labor, and discrimination that is sending the Negro North
 
 
 ______________
-*Citation:* Du Bois, W.E.B. 1917. "Memphis or East St. Louis?" *The Crisis*. 13(3):113-114.
+*Citation:* Du Bois, W.E.B. 1917. "Memphis or East St. Louis?" *The Crisis*. 14(3):113-114.

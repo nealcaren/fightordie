@@ -425,4 +425,4 @@ And what of the Federal Government?
 
 
 ______________
-*Citation:* National Association for the Advancement of Colored People. 1917. "The Massacre in East St. Louis." *The Crisis*. 14(5): 219-238.
+*Citation:* National Association for the Advancement of Colored People. 1917. "The Massacre in East St. Louis." *The Crisis*. 14(5):219-238.

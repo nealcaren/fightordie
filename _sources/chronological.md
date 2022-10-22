@@ -50,6 +50,7 @@
 |   1916 |       12 |      06 | [Migration](https://www.dareyoufight.org/Volumes/12/06/migration.html)                                                      |
 |   1916 |       13 |      02 | ["Refinement and Love"](https://www.dareyoufight.org/Volumes/13/02/refinement_and_love.html)                                |
 |   1917 |       13 |      06 | [The Perpetual Dilemma](https://www.dareyoufight.org/Volumes/13/06/perpetual_dilemma.html)                                  |
+|   1917 |       14 |      01 | [The Migration](https://www.dareyoufight.org/Volumes/14/01/migration.html)                                                  |
 |   1917 |       14 |      02 | [The Migration of Negroes](https://www.dareyoufight.org/Volumes/14/02/migration_of_negroes.html)                            |
 |   1917 |       14 |      03 | [Memphis or East St. Louis?](https://www.dareyoufight.org/Volumes/14/03/memphis_or_east_st_louis.html)                      |
 |   1917 |       14 |      04 | [Roosevelt](https://www.dareyoufight.org/Volumes/14/04/roosevelt.html)                                                      |
@@ -67,6 +68,7 @@
 |   1919 |       17 |      04 | [Africa](https://www.dareyoufight.org/Volumes/17/04/africa.html)                                                            |
 |   1919 |       17 |      04 | [Reconstruction and Africa](https://www.dareyoufight.org/Volumes/17/04/reconstruction_and_africa.html)                      |
 |   1919 |       18 |      01 | [Returning Soldiers](https://www.dareyoufight.org/Volumes/18/01/returning_soldiers.html)                                    |
+|   1919 |       18 |      01 | [My Mission](https://www.dareyoufight.org/Volumes/18/01/my_mission.html)                                                    |
 |   1919 |       18 |      02 | [Egypt and India](https://www.dareyoufight.org/Volumes/18/02/egypt_and_india.html)                                          |
 |   1919 |       18 |      03 | [Reconstruction](https://www.dareyoufight.org/Volumes/18/03/reconstruction.html)                                            |
 |   1919 |       18 |      05 | [Let us Reason Together](https://www.dareyoufight.org/Volumes/18/05/let_us_reason_together.html)                            |
@@ -98,9 +100,9 @@
 |   1923 |       27 |      03 | [The Black Man and the Wounded World](https://www.dareyoufight.org/Volumes/27/03/black_man_and_the_wounded_world.html)      |
 |   1924 |       27 |      04 | [Kenya](https://www.dareyoufight.org/Volumes/27/04/kenya.html)                                                              |
 |   1924 |       28 |      01 | [A Lunatic or a Traitor](https://www.dareyoufight.org/Volumes/28/01/lunatic_or_a_traitor.html)                              |
+|   1924 |       28 |      03 | [Helping Africa](https://www.dareyoufight.org/Volumes/28/03/helping_africa.html)                                            |
 |   1924 |       28 |      03 | [Vote](https://www.dareyoufight.org/Volumes/28/03/vote.html)                                                                |
 |   1924 |       28 |      03 | [Unity](https://www.dareyoufight.org/Volumes/28/03/unity.html)                                                              |
-|   1924 |       28 |      03 | [Helping Africa](https://www.dareyoufight.org/Volumes/28/03/helping_africa.html)                                            |
 |   1924 |       28 |      04 | [To the American Federation of Labor](https://www.dareyoufight.org/Volumes/28/04/american_federation_of_labor.html)         |
 |   1925 |       29 |      05 | [Radicals and the Negro](https://www.dareyoufight.org/Volumes/29/05/radicals_and_the_negro.html)                            |
 |   1925 |       30 |      01 | [The New Crisis](https://www.dareyoufight.org/Volumes/30/01/new_crisis.html)                                                |
@@ -163,9 +165,10 @@
 |   1933 |       40 |      02 | [Our Health](https://www.dareyoufight.org/Volumes/40/02/our_health.html)                                                    |
 |   1933 |       40 |      02 | [It is a Girl](https://www.dareyoufight.org/Volumes/40/02/its_a_girl.html)                                                  |
 |   1933 |       40 |      02 | [Dodging the Issue](https://www.dareyoufight.org/Volumes/40/02/dodging_the_issue.html)                                      |
-|   1933 |       40 |      03 | [Color Caste in the United States](https://www.dareyoufight.org/Volumes/40/03/Color_caste_in_the_united_states.html)        |
+|   1933 |       40 |      03 | [Color Caste in the United States](https://www.dareyoufight.org/Volumes/40/03/color_caste_in_the_united_states.html)        |
 |   1933 |       40 |      04 | [The Right to Work](https://www.dareyoufight.org/Volumes/40/04/right_to_work.html)                                          |
 |   1933 |       40 |      05 | [Marxism and The Negro Problem](https://www.dareyoufight.org/Volumes/40/05/marxism_and_the_negro_problem.html)              |
+|   1933 |       40 |      05 | [Scottsboro](https://www.dareyoufight.org/Volumes/40/05/scottsboro.html)                                                    |
 |   1933 |       40 |      06 | [The Strategy of the Negro Voter](https://www.dareyoufight.org/Volumes/40/06/strategy_of_the_negro_voter.html)              |
 |   1933 |       40 |      07 | [A Protest](https://www.dareyoufight.org/Volumes/40/07/protest.html)                                                        |
 |   1933 |       40 |      07 | [Our Class Struggle](https://www.dareyoufight.org/Volumes/40/07/our_class_struggle.html)                                    |
