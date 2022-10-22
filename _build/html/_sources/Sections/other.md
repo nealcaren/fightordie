@@ -1,4 +1,4 @@
-# Miscellaneous
+# Other Topics
 
 
 ```{tableofcontents}

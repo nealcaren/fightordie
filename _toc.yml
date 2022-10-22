@@ -39,7 +39,6 @@ chapters:
   - file: Volumes/06/02/logic.md
   - file: Volumes/10/01/clansman.md
   - file: Volumes/12/05/conduct_not_color.md
-  - file: Volumes/12/06/migration.md
   - file: Volumes/19/01/social_equality.md
   - file: Volumes/24/01/slavery.md
   - file: Volumes/31/04/newer_south.md
@@ -77,7 +76,6 @@ chapters:
     sections:
     - file: Volumes/18/05/let_us_reason_together.md
     - file: Volumes/18/06/shillady_and_texas.md
-    - file: Volumes/19/03/brothers_come_north.md
     - file: Volumes/34/06/mob_tactics.md
 
 
@@ -206,6 +204,12 @@ chapters:
   - file: Sections/racescience
     sections:
     - file: Volumes/02/04/races.md
+  - file: Sections/great_migration
+    sections:
+     - file: Volumes/12/06/migration.md
+     - file: Volumes/14/02/migration_of_negroes.md
+     - file: Volumes/19/03/brothers_come_north.md
+
   - file: Sections/criminal_justice
     sections:
      - file: Volumes/19/04/crime.md
@@ -245,6 +249,7 @@ chapters:
     - file: Volumes/40/08/negro_college.md
   - file: Sections/misc
     sections:
+    - file: Volumes/02/02/starvation_and_prejudice.md
     - file: Volumes/18/03/reconstruction.md
     - file: Volumes/28/01/lunatic_or_a_traitor.md
     - file: Volumes/28/03/helping_africa.md
