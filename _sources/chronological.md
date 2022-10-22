@@ -8,6 +8,7 @@
 |   1910 |       01 |      02 | [N.A.A.C.P.](https://www.dareyoufight.org/Volumes/01/02/NAACP.html)                                                         |
 |   1911 |       01 |      03 | ["Social Equality"](https://www.dareyoufight.org/Volumes/01/03/social_equality.html)                                        |
 |   1911 |       01 |      03 | ["Ashamed"](https://www.dareyoufight.org/Volumes/01/03/ashamed.html)                                                        |
+|   1911 |       02 |      02 | [Starvation and Prejudice](https://www.dareyoufight.org/Volumes/02/02/starvation_and_prejudice.html)                        |
 |   1911 |       02 |      04 | [Lynching](https://www.dareyoufight.org/Volumes/02/04/lynching.html)                                                        |
 |   1911 |       02 |      04 | [Races](https://www.dareyoufight.org/Volumes/02/04/races.html)                                                              |
 |   1912 |       03 |      04 | [Light](https://www.dareyoufight.org/Volumes/03/04/light.html)                                                              |
@@ -44,11 +45,12 @@
 |   1916 |       12 |      03 | [The Drama Among Black Folk](https://www.dareyoufight.org/Volumes/12/03/drama_among_black_folk.html)                        |
 |   1916 |       12 |      04 | [Ireland](https://www.dareyoufight.org/Volumes/12/04/ireland.html)                                                          |
 |   1916 |       12 |      05 | [Conduct, Not Color](https://www.dareyoufight.org/Volumes/12/05/conduct_not_color.html)                                     |
-|   1916 |       12 |      06 | [Migration](https://www.dareyoufight.org/Volumes/12/06/migration.html)                                                      |
 |   1916 |       12 |      06 | [Cowardice](https://www.dareyoufight.org/Volumes/12/06/cowardice.html)                                                      |
 |   1916 |       12 |      06 | [The Negro Party](https://www.dareyoufight.org/Volumes/12/06/negro_party.html)                                              |
+|   1916 |       12 |      06 | [Migration](https://www.dareyoufight.org/Volumes/12/06/migration.html)                                                      |
 |   1916 |       13 |      02 | ["Refinement and Love"](https://www.dareyoufight.org/Volumes/13/02/refinement_and_love.html)                                |
 |   1917 |       13 |      06 | [The Perpetual Dilemma](https://www.dareyoufight.org/Volumes/13/06/perpetual_dilemma.html)                                  |
+|   1917 |       14 |      02 | [The Migration of Negroes](https://www.dareyoufight.org/Volumes/14/02/migration_of_negroes.html)                            |
 |   1917 |       14 |      03 | [Memphis or East St. Louis?](https://www.dareyoufight.org/Volumes/14/03/memphis_or_east_st_louis.html)                      |
 |   1917 |       14 |      04 | [Roosevelt](https://www.dareyoufight.org/Volumes/14/04/roosevelt.html)                                                      |
 |   1917 |       14 |      05 | [The Massacre in East St. Louis](https://www.dareyoufight.org/Volumes/14/05/massacre_of_east_st_louis.html)                 |
@@ -72,8 +74,8 @@
 |   1919 |       18 |      06 | [Shillady and Texas](https://www.dareyoufight.org/Volumes/18/06/shillady_and_texas.html)                                    |
 |   1919 |       19 |      01 | [Social Equality](https://www.dareyoufight.org/Volumes/19/01/social_equality.html)                                          |
 |   1919 |       19 |      01 | [A Statement](https://www.dareyoufight.org/Volumes/19/01/statement.html)                                                    |
-|   1920 |       19 |      03 | [Brothers, Come North](https://www.dareyoufight.org/Volumes/19/03/brothers_come_north.html)                                 |
 |   1920 |       19 |      03 | [Race Pride](https://www.dareyoufight.org/Volumes/19/03/race_pride.html)                                                    |
+|   1920 |       19 |      03 | [Brothers, Come North](https://www.dareyoufight.org/Volumes/19/03/brothers_come_north.html)                                 |
 |   1920 |       19 |      03 | [Sex Equality](https://www.dareyoufight.org/Volumes/19/03/sex_equality.html)                                                |
 |   1920 |       19 |      04 | [Coöperation](https://www.dareyoufight.org/Volumes/19/04/cooperation.html)                                                  |
 |   1920 |       19 |      04 | [Crime](https://www.dareyoufight.org/Volumes/19/04/crime.html)                                                              |
