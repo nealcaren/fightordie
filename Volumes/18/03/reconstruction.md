@@ -10,4 +10,4 @@ In *Politics* the colored woman is going to vote. This is our chance. Away with 
 
 
 ______________
-*Citation:* Du Bois, W.E.B. 1919. "Reconstruction." *The Crisis*. 18(3): 130-131.
+*Citation:* Du Bois, W.E.B. 1919. "Reconstruction." *The Crisis*. 18(3):130-131.

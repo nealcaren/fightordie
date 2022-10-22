@@ -17,4 +17,4 @@ No—not yet. And there lies the most stupendous labor problem of the twentieth 
 
 
 ______________
-*Citation:* Du Bois, W.E.B. 1919. "Labor Omnia Vincit." *The Crisis*. 18(5): 231-232.
+*Citation:* Du Bois, W.E.B. 1919. "Labor Omnia Vincit." *The Crisis*. 18(5):231-232.

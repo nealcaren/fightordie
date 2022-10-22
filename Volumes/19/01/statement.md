@@ -9,4 +9,4 @@ But we must fight and we are going to fight in every legitimate and lawful way u
 
 
 ______________
-*Citation:* Du Bois, W.E.B. 1919. "A Statement." *The Crisis*. 19(1): 335.
+*Citation:* Du Bois, W.E.B. 1919. "A Statement." *The Crisis*. 19(1):335.

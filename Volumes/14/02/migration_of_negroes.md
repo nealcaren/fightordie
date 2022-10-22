@@ -80,4 +80,4 @@ At any rate, we face here a social change among American Negroes of great moment
 
 
 ______________
-*Citation:* Du Bois, W.E.B. 1917. "The Migration of Negroes." *The Crisis*. 13(4):63-66.
+*Citation:* Du Bois, W.E.B. 1917. "The Migration of Negroes." *The Crisis*. 14(3):63-66.

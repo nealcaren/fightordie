@@ -1,17 +1,13 @@
 # Color Caste in the United States (1933)
 
-```{margin}
-This ran as an article in <span style="font-variant:small-caps;">The Crisis</span> but in form and content is similar to the editorial content he routinely produced.
-```
 
- There are a large number of well meaning citizens of this country who are under the impression that the main lines of the American Negro problem are settled, and that while there is a deal more advance to be made, nevertheless, the average Negro, who is not too impatient, should be willing from now on to proceed toward his ultimate goal by quiet progress and unemotional appeal.
+There are a large number of well meaning citizens of this country who are under the impression that the main lines of the American Negro problem are settled, and that while there is a deal more advance to be made, nevertheless, the average Negro, who is not too impatient, should be willing from now on to proceed toward his ultimate goal by quiet progress and unemotional appeal.
 
- This is not true. It is so far from the truth that it is probably a fact that if inhabitants of a modern country, like France, England or Germany, who know the meaning of freedom, were subjected to the caste restrictions which surround American Negroes, they would without hesitation burst into flaming revolution.
+This is not true. It is so far from the truth that it is probably a fact that if inhabitants of a modern country, like France, England or Germany, who know the meaning of freedom, were subjected to the caste restrictions which surround American Negroes, they would without hesitation burst into flaming revolution.
 
 Let us consider the facts.
 
- We may begin with marriage. A Negro in this country may not, in 26 of the 38 states, marry the person whom he wishes to marry, unless the partner is of Negro descent. Even if he has been married legally elsewhere, he may not in most Southern states live with his wife on pain of fine or imprisonment, unless she is also of Negro descent. A colored girl who is with a child by a white man in the South has no legal way of making her child legitimate, and in most Southern states and many Northern could get no standing in court. The very fact of having Negro blood is regarded in most Southern states as being such a stigma that the false allegation of it may be basis of an action for damages.
-
+We may begin with marriage. A Negro in this country may not, in 26 of the 38 states, marry the person whom he wishes to marry, unless the partner is of Negro descent. Even if he has been married legally elsewhere, he may not in most Southern states live with his wife on pain of fine or imprisonment, unless she is also of Negro descent. A colored girl who is with a child by a white man in the South has no legal way of making her child legitimate, and in most Southern states and many Northern could get no standing in court. The very fact of having Negro blood is regarded in most Southern states as being such a stigma that the false allegation of it may be basis of an action for damages.
 
 The Negro married couple may not live where they wish or in a home that they are able to buy. By law or custom, covenant or contract, or by mob violence, they are everywhere in the United States restricted in their right of domicile and for the most part must live in the worst parts of the city, and on the poorest land in the country; their sections receive from the local government the least attention and they are peculiarly exposed to crime and disease.
 
