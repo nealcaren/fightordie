@@ -33,4 +33,4 @@ What lies beyond if the nation allows this last attack to succeed?
 
 
 ______________
-*Citation:* Du Bois, W.E.B. 1913. "Logic." *The Crisis*. 6(2): 81.
+*Citation:* Du Bois, W.E.B. 1913. "Logic." *The Crisis*. 6(2):81.
