@@ -76,6 +76,7 @@
 |   1919 |       18 |      05 | [Let us Reason Together](https://www.dareyoufight.org/Volumes/18/05/let_us_reason_together.html)                            |
 |   1919 |       18 |      05 | [Labor Omnia Vincit](https://www.dareyoufight.org/Volumes/18/05/labor_omnia_vincit.html)                                    |
 |   1919 |       18 |      06 | [Shillady and Texas](https://www.dareyoufight.org/Volumes/18/06/shillady_and_texas.html)                                    |
+|   1919 |       18 |      06 | [The True Brownies](https://www.dareyoufight.org/Volumes/18/06/true_brownies.html)                                          |
 |   1919 |       19 |      01 | [Social Equality](https://www.dareyoufight.org/Volumes/19/01/social_equality.html)                                          |
 |   1919 |       19 |      01 | [A Statement](https://www.dareyoufight.org/Volumes/19/01/statement.html)                                                    |
 |   1920 |       19 |      03 | [Race Pride](https://www.dareyoufight.org/Volumes/19/03/race_pride.html)                                                    |
