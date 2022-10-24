@@ -1,5 +1,0 @@
-# NAACP
-
-
-```{tableofcontents}
-```

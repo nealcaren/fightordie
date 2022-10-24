@@ -1,5 +1,0 @@
-# Criminal Justice
-
-
-```{tableofcontents}
-```
