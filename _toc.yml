@@ -18,7 +18,6 @@ chapters:
   - file: Volumes/05/04/blesseddiscrimination.md
   - file: Volumes/13/06/perpetual_dilemma.md
   - file: Volumes/17/03/jim_crow.md
-  - file: Volumes/18/01/returning_soldiers.md
   - file: Volumes/26/02/on_being_crazy.md
   - file: Volumes/26/04/tradgedy_of_jim_crow.md
   - file: Volumes/31/01/challenge_of_detroit.md
@@ -256,6 +255,7 @@ chapters:
     sections:
     - file: Volumes/02/02/starvation_and_prejudice.md
     - file: Volumes/07/04/work_for_black_folk.md
+    - file: Volumes/18/01/returning_soldiers.md
     - file: Volumes/18/03/reconstruction.md
     - file: Volumes/28/01/lunatic_or_a_traitor.md
     - file: Volumes/38/03/woofterism.md

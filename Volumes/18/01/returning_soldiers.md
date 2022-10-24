@@ -24,17 +24,17 @@ It *insults* us.
 
 It has organized a nation-wide and latterly a world-wide propaganda of deliberate and continuous insult and defamation of black blood wherever found. It decrees that it shall not be possible in travel nor residence, work nor play, education nor instruction for a black man to exist without tacit or open acknowledgment of his inferiority to the dirtiest white dog. And it looks upon any attempt to question or even discuss this dogma as arrogance, unwarranted assumption and treason.
 
-This is the country to which we Soldiers of Democracy return. This is the fatherland for which we fought! But it is or fatherland. It was right for us to fight. The faults of our country are our faults. Under similar circumstances, we would fight again. But by the God of Heaven, we are cowards and jackasses if now that that war is over, we do not marshal every ounce of our brain and brawn to fight a sterner, longer, more unbending battle against the forces of hell in our own land.
+This is the country to which we Soldiers of Democracy return. This is the fatherland for which we fought! But it is *our* fatherland. It was right for us to fight. The faults of *our* country are *our* faults. Under similar circumstances, we would fight again. But by the God of Heaven, we are cowards and jackasses if now that that war is over, we do not marshal every ounce of our brain and brawn to fight a sterner, longer, more unbending battle against the forces of hell in our own land.
 
-We return.
+We *return*.
 
-We return from fighting.
+We *return from fighting*.
 
-We return fighting.
+We *return fighting*.
 
-Make way for Democracy! saved it in France, and by the Great Jehovah, we will save it in the United States of America, or know the reason why.
+Make way for Democracy! We saved it in France, and by the Great Jehovah, we will save it in the United States of America, or know the reason why.
 
 
 
 ______________
-*Citation:* Du Bois, W.E.B. 1919. "Return Soldiers." *The Crisis*. 18(1): 12-13.
+*Citation:* Du Bois, W.E.B. 1919. "Return Soldiers." *The Crisis*. 18(1):12-13.
