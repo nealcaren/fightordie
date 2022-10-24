@@ -1,5 +1,0 @@
-# Socialism and Communism
-
-
-```{tableofcontents}
-```
