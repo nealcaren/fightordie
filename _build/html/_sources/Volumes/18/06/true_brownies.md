@@ -13,18 +13,18 @@ There seems but one alternative: We shall publish hereafter not ONE Children's N
 It will be called, naturally, *The Brownies' Book*, and as we have advertised, "It will be a thing of Joy and Beauty, dealing in Happiness, Laughter and Emulation, and designed especially for Kiddies from Six to Sixteen.
 
 > "It will seek to teach Universal Love and Brotherhood for all little folk—black and brown and yellow and white.   
-> &nbsp;
+> &nbsp;   
 > "Of course, pictures, puzzles, stories, letters from little ones, clubs, games and oh—everything!"
 
 Deftly intertwined with this mission of entertainment will go the endeavor:
 
-a. To make colored children realize that being "colored" is a normal, beautiful thing.
-b.  To make them familiar with the history and achievements of the Negro race.
-c.  To make them know that other colored children have grown into beautiful, useful and famous persons.
-d. To teach them delicately a code of honor and action in their relations with white children.
-e. To turn their little hurts and resentments into emulation, ambition and love of their own homes and companions.
-f. To point out the best amusements and joys and worth-while things of life.
-g.To inspire them to prepare for definite occupations and duties with a broad spirit of sacrifice.
+a. To make colored children realize that being "colored" is a normal, beautiful thing.  
+b.  To make them familiar with the history and achievements of the Negro race.  
+c.  To make them know that other colored children have grown into beautiful, useful and famous persons.  
+d. To teach them delicately a code of honor and action in their relations with white children.  
+e. To turn their little hurts and resentments into emulation, ambition and love of their own homes and companions.  
+f. To point out the best amusements and joys and worth-while things of life.  
+g.To inspire them to prepare for definite occupations and duties with a broad spirit of sacrifice.  
 
 This is a great program—a tremendous task. We want the advice of all mothers and fathers, of all men and women and children in helping us accomplish it. We can conceive of no more splendid duty at this critical hour.
 
