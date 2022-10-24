@@ -1,6 +1,6 @@
 # The True Brownies (1919)
 
-The Children's <span style="font-variant:small-caps;"> Crisis</span> has been published annually for nine years and is easily the most popular number of the year— that is, it makes the widest appeal to our readers. This is as it should be. Of course, we are and must be interested in our children above all else, if we love our race and humanity.
+The Children's <span style="font-variant:small-caps;"> Crisis</span> has been published annually for nine years and is easily the most popular number of the year—that is, it makes the widest appeal to our readers. This is as it should be. Of course, we are and must be interested in our children above all else, if we love our race and humanity.
 
 But in the problem of our children we black folk are sorely puzzled. For example, a little girl writes us—we remember her as red-bronze and black-curled, with dancing eyes—'"I want to learn more about my race, so I want to begin early. … *I hate the white man just as much as he hates me and probably more!*"
 
