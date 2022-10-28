@@ -40,6 +40,7 @@
 |   1915 |       09 |      06 | [Woman Suffrage](https://www.dareyoufight.org/Volumes/09/06/womansuffrage.html)                                             |
 |   1915 |       10 |      01 | [The Clansman](https://www.dareyoufight.org/Volumes/10/01/clansman.html)                                                    |
 |   1915 |       10 |      01 | [Peace](https://www.dareyoufight.org/Volumes/10/01/peace.html)                                                              |
+|   1915 |       10 |      01 | [The Fourteenth Amendment](https://www.dareyoufight.org/Volumes/10/01/fourteenth_amendment.html)                            |
 |   1915 |       10 |      01 | [The Republicans](https://www.dareyoufight.org/Volumes/10/01/the_republicans.html)                                          |
 |   1915 |       10 |      01 | [Credit](https://www.dareyoufight.org/Volumes/10/01/credit.html)                                                            |
 |   1915 |       11 |      02 | [The Star of Ethiopia](https://www.dareyoufight.org/Volumes/11/02/star_of_ethiopia.html)                                    |
