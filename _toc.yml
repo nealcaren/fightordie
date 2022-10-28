@@ -108,6 +108,7 @@ chapters:
   sections:
   - file: Sections/disenfranchisement
     sections:
+    - file: Volumes/10/01/fourteenth_amendment.md
     - file: Volumes/30/02/disenfranchisement.md
     - file: Volumes/36/05/negro_citizen.md
     - file: Volumes/36/11/negro_in_politics.md
