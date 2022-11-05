@@ -25,6 +25,7 @@
 |   1912 |       04 |      05 | [The Justice of Woman Suffrage](https://www.dareyoufight.org/Volumes/04/05/justice_of_woman_suffrage.html)                  |
 |   1912 |       04 |      05 | [Two Suffrage Movements](https://www.dareyoufight.org/Volumes/04/05/two_suffrage_movements.html)                            |
 |   1912 |       04 |      05 | [Brother Baptis' on Woman Suffrage](https://www.dareyoufight.org/Volumes/04/05/brother_batis.html)                          |
+|   1912 |       08 |      05 | [The Last Word in Politics](https://www.dareyoufight.org/Volumes/08/05/last_word_in_politics.html)                          |
 |   1913 |       05 |      04 | [Blessed Discrimination](https://www.dareyoufight.org/Volumes/05/04/blesseddiscrimination.html)                             |
 |   1913 |       05 |      04 | [Intermarriage](https://www.dareyoufight.org/Volumes/05/04/intermarriage.html)                                              |
 |   1913 |       05 |      05 | [The Proper Way](https://www.dareyoufight.org/Volumes/05/05/proper_way.html)                                                |
@@ -35,6 +36,7 @@
 |   1914 |       07 |      04 | [Work for Black Folk in 1914](https://www.dareyoufight.org/Volumes/07/04/work_for_black_folk.html)                          |
 |   1914 |       07 |      05 | [Lynching](https://www.dareyoufight.org/Volumes/07/05/lynching.html)                                                        |
 |   1914 |       08 |      03 | [The Cause of Lynching](https://www.dareyoufight.org/Volumes/08/03/cause_of_lynching.html)                                  |
+|   1914 |       08 |      05 | [Does Race Antagonism Serve Any Good Purpose](https://www.dareyoufight.org/Volumes/08/05/does_race_antagonism.html)         |
 |   1914 |       09 |      01 | [World War and the Color Line](https://www.dareyoufight.org/Volumes/09/01/worldwar.html)                                    |
 |   1914 |       09 |      01 | [The Burden of Black Women](https://www.dareyoufight.org/Volumes/09/01/burden_of_black_women.html)                          |
 |   1914 |       09 |      02 | [Negro](https://www.dareyoufight.org/Volumes/09/02/negro.html)                                                              |

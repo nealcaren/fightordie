@@ -35,6 +35,7 @@ chapters:
   - file: Volumes/01/03/ashamed.md
   - file: Volumes/03/04/light.md
   - file: Volumes/06/02/logic.md
+  - file: Volumes/08/05/does_race_antagonism.md
   - file: Volumes/10/01/clansman.md
   - file: Volumes/12/05/conduct_not_color.md
   - file: Volumes/19/01/social_equality.md
@@ -125,6 +126,7 @@ chapters:
   - file: Sections/voting
     sections:
     - file: Volumes/04/04/politics.md
+    - file: Volumes/08/05/last_word_in_politics.md
     - file: Volumes/10/01/the_republicans.md
     - file: Volumes/15/01/oath_of_the_negro_voter.md
     - file: Volumes/21/02/unreal_campaign.md
