@@ -47,6 +47,7 @@
 |   1915 |       10 |      01 | [The Fourteenth Amendment](https://www.dareyoufight.org/Volumes/10/01/fourteenth_amendment.html)                            |
 |   1915 |       10 |      01 | [The Republicans](https://www.dareyoufight.org/Volumes/10/01/the_republicans.html)                                          |
 |   1915 |       10 |      01 | [Credit](https://www.dareyoufight.org/Volumes/10/01/credit.html)                                                            |
+|   1915 |       11 |      01 | [We Come of Age](https://www.dareyoufight.org/Volumes/11/01/we_come_of_age.html)                                            |
 |   1915 |       11 |      02 | [The Star of Ethiopia](https://www.dareyoufight.org/Volumes/11/02/star_of_ethiopia.html)                                    |
 |   1916 |       11 |      04 | [That Capital "N"](https://www.dareyoufight.org/Volumes/11/04/that_capital_n.html)                                          |
 |   1916 |       12 |      03 | [The Drama Among Black Folk](https://www.dareyoufight.org/Volumes/12/03/drama_among_black_folk.html)                        |
