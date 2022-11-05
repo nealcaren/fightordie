@@ -148,6 +148,7 @@
 |   1929 |       36 |      02 | [DePriest](https://www.dareyoufight.org/Volumes/36/02/depriest.html)                                                        |
 |   1929 |       36 |      05 | [The Negro Citizen](https://www.dareyoufight.org/Volumes/36/05/negro_citizen.html)                                          |
 |   1929 |       36 |      11 | [The Negro in Politics](https://www.dareyoufight.org/Volumes/36/11/negro_in_politics.html)                                  |
+|   1930 |       37 |      01 | [About Marrying](https://www.dareyoufight.org/Volumes/37/01/gambling.html)                                                  |
 |   1930 |       37 |      01 | [About Marrying](https://www.dareyoufight.org/Volumes/37/01/about_marrying.html)                                            |
 |   1930 |       37 |      02 | [About Wailing](https://www.dareyoufight.org/Volumes/37/02/about_wailing.html)                                              |
 |   1930 |       37 |      02 | [Interracial Love in Texas](https://www.dareyoufight.org/Volumes/37/02/interracial_love_in_texas.html)                      |
