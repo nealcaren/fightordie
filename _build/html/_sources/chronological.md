@@ -36,6 +36,7 @@
 |   1914 |       07 |      05 | [Lynching](https://www.dareyoufight.org/Volumes/07/05/lynching.html)                                                        |
 |   1914 |       08 |      03 | [The Cause of Lynching](https://www.dareyoufight.org/Volumes/08/03/cause_of_lynching.html)                                  |
 |   1914 |       09 |      01 | [World War and the Color Line](https://www.dareyoufight.org/Volumes/09/01/worldwar.html)                                    |
+|   1914 |       09 |      01 | [The Burden of Black Women](https://www.dareyoufight.org/Volumes/09/01/burden_of_black_women.html)                          |
 |   1914 |       09 |      02 | [Negro](https://www.dareyoufight.org/Volumes/09/02/negro.html)                                                              |
 |   1915 |       09 |      03 | [Agility](https://www.dareyoufight.org/Volumes/09/03/agility.html)                                                          |
 |   1915 |       09 |      06 | [Woman Suffrage](https://www.dareyoufight.org/Volumes/09/06/womansuffrage.html)                                             |

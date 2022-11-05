@@ -9,7 +9,7 @@ title: Dare You Fight
 chapters:
 - file: toc
 - file: introduction.md
-
+- file: poem
 
 - file: Sections/segregation
   sections:
@@ -200,7 +200,18 @@ chapters:
   - file: Volumes/40/01/toward_a_new_racial_philosophy.md
   - file: Volumes/41/08/dr_dubois_resigns.md
 
-
+- file: Sections/arts
+  sections:
+  - file: Volumes/32/06/criteria_of_negro_art.md
+  - file: Sections/poetry
+    sections:
+    - file: Volumes/09/01/burden_of_black_women.md
+  - file: Sections/theater
+    sections:
+    - file: Volumes/06/07/national_emancipation_exposition.md
+    - file: Volumes/11/02/star_of_ethiopia.md
+    - file: Volumes/12/03/drama_among_black_folk.md
+    - file: Volumes/32/03/kgriwa.md
 
 
 - file: Sections/other
@@ -234,13 +245,6 @@ chapters:
     sections:
     - file: Volumes/03/05/lee.md
     - file: Volumes/39/01/john_brown.md
-  - file: Sections/theater
-    sections:
-    - file: Volumes/06/07/national_emancipation_exposition.md
-    - file: Volumes/11/02/star_of_ethiopia.md
-    - file: Volumes/12/03/drama_among_black_folk.md
-    - file: Volumes/32/03/kgriwa.md
-    - file: Volumes/32/06/criteria_of_negro_art.md
   - file: Sections/capital_n
     sections:
     - file: Volumes/09/02/negro.md

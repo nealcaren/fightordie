@@ -84,6 +84,31 @@ table, th, td, tr {
   line-height:  .1;
 }
 
+
+.poem {
+    padding-left: 2em;
+    text-indent: -2em;
+    margin-bottom: 0rem;
+}
+.poem-indent {
+    padding-left: 2em;
+    text-indent: -1em;
+    margin-bottom: 0rem;
+}
+
+.poem-big-indent {
+    padding-left: 3em;
+    margin-bottom: 0rem;
+}
+.poem-bigger-indent {
+    padding-left: 4em;
+    margin-bottom: 0rem;
+}
+.poem-biggest-indent {
+    padding-left: 5em;
+    margin-bottom: 0rem;
+}
+
 @media print {
   background-color: #FFFFFF;
   width: 55%;
