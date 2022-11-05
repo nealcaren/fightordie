@@ -166,6 +166,7 @@
 |   1932 |       39 |      09 | [Young Voters](https://www.dareyoufight.org/Volumes/39/09/young_voters.html)                                                |
 |   1932 |       39 |      09 | [Employment](https://www.dareyoufight.org/Volumes/39/09/employment.html)                                                    |
 |   1932 |       39 |      11 | [Herbert Hoover](https://www.dareyoufight.org/Volumes/39/11/herbert_hoover.html)                                            |
+|   1932 |       39 |      12 | [From a Traveller](https://www.dareyoufight.org/Volumes/39/12/from_a_traveler.html)                                         |
 |   1933 |       40 |      01 | [Listen, Japan and China](https://www.dareyoufight.org/Volumes/40/01/listen_japan_and_china.html)                           |
 |   1933 |       40 |      01 | [Toward a New Racial Philosophy](https://www.dareyoufight.org/Volumes/40/01/toward_a_new_racial_philosophy.html)            |
 |   1933 |       40 |      02 | [Our Rate of Increase](https://www.dareyoufight.org/Volumes/40/02/our_rate_of_increase.html)                                |

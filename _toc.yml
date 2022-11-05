@@ -81,6 +81,7 @@ chapters:
 
 - file: Sections/global
   sections:
+  - file: Volumes/39/12/from_a_traveler.md
   - file: Sections/pan-africanism
     sections:
     - file: Volumes/17/04/africa.md
