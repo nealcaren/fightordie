@@ -64,6 +64,7 @@
 |   1917 |       14 |      04 | [Roosevelt](https://www.dareyoufight.org/Volumes/14/04/roosevelt.html)                                                      |
 |   1917 |       14 |      05 | [The Massacre in East St. Louis](https://www.dareyoufight.org/Volumes/14/05/massacre_of_east_st_louis.html)                 |
 |   1917 |       14 |      05 | [East St. Louis](https://www.dareyoufight.org/Volumes/14/05/east_st_louis.html)                                             |
+|   1917 |       14 |      05 | [Awake America](https://www.dareyoufight.org/Volumes/14/05/awake_america.html)                                              |
 |   1917 |       14 |      05 | [The Negro Silent Parade](https://www.dareyoufight.org/Volumes/14/05/negro_silent_parade.html)                              |
 |   1917 |       14 |      06 | [Houston](https://www.dareyoufight.org/Volumes/14/06/houston.html)                                                          |
 |   1917 |       15 |      01 | [Votes for Women](https://www.dareyoufight.org/Volumes/15/01/votes_for_women.html)                                          |

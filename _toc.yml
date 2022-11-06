@@ -94,7 +94,6 @@ chapters:
     - file: Volumes/40/01/listen_japan_and_china.md
   - file: Sections/colonialization
     sections:
-    - file: Volumes/09/01/worldwar.md
     - file: Volumes/10/01/peace.md
     - file: Volumes/12/04/ireland.md
     - file: Volumes/17/04/reconstruction_and_africa.md
@@ -103,6 +102,12 @@ chapters:
     - file: Volumes/28/03/helping_africa.md
     - file: Volumes/31/02/firing_line.md
     - file: Volumes/34/01/liberia.md
+  - file: Sections/wwi
+    sections:
+    - file: Volumes/09/01/worldwar.md
+    - file: Volumes/14/05/awake_america.md
+    - file: Volumes/16/03/close_ranks.md
+    - file: Volumes/18/01/returning_soldiers.md
 
 - file: Sections/electoral
   title: Disenfranchisement and Voting
@@ -180,7 +185,6 @@ chapters:
   - file: Volumes/01/01/Agitation.md
   - file: Volumes/05/05/proper_way.md
   - file: Volumes/13/02/refinement_and_love.md
-  - file: Volumes/16/03/close_ranks.md
   - file: Volumes/19/01/statement.md
   - file: Volumes/12/06/negro_party.md
   - file: Volumes/22/01/inter-racial_comity.md
@@ -264,7 +268,6 @@ chapters:
     sections:
     - file: Volumes/02/02/starvation_and_prejudice.md
     - file: Volumes/07/04/work_for_black_folk.md
-    - file: Volumes/18/01/returning_soldiers.md
     - file: Volumes/18/03/reconstruction.md
     - file: Volumes/18/06/true_brownies.md
     - file: Volumes/28/01/lunatic_or_a_traitor.md
