@@ -49,6 +49,7 @@
 |   1915 |       10 |      01 | [Credit](https://www.dareyoufight.org/Volumes/10/01/credit.html)                                                            |
 |   1915 |       11 |      01 | [We Come of Age](https://www.dareyoufight.org/Volumes/11/01/we_come_of_age.html)                                            |
 |   1915 |       11 |      02 | [The Star of Ethiopia](https://www.dareyoufight.org/Volumes/11/02/star_of_ethiopia.html)                                    |
+|   1915 |       11 |      02 | [The Star of Ethiopia](https://www.dareyoufight.org/Volumes/11/02/booker_t_washington.html)                                 |
 |   1916 |       11 |      04 | [That Capital "N"](https://www.dareyoufight.org/Volumes/11/04/that_capital_n.html)                                          |
 |   1916 |       12 |      03 | [The Drama Among Black Folk](https://www.dareyoufight.org/Volumes/12/03/drama_among_black_folk.html)                        |
 |   1916 |       12 |      04 | [Ireland](https://www.dareyoufight.org/Volumes/12/04/ireland.html)                                                          |
@@ -125,6 +126,7 @@
 |   1926 |       31 |      06 | [Again, Pullman Porters](https://www.dareyoufight.org/Volumes/31/06/again_pullman_porters.html)                             |
 |   1926 |       32 |      01 | [Lynching](https://www.dareyoufight.org/Volumes/32/01/lynching.html)                                                        |
 |   1926 |       32 |      01 | [Crime](https://www.dareyoufight.org/Volumes/32/01/crime.html)                                                              |
+|   1926 |       32 |      02 | ["Krigwa Players Little Negro Theatre"](https://www.dareyoufight.org/Volumes/32/02/italy_and_abyssinia.html)                |
 |   1926 |       32 |      03 | ["Krigwa Players Little Negro Theatre"](https://www.dareyoufight.org/Volumes/32/03/kgriwa.html)                             |
 |   1926 |       32 |      06 | [Criteria of Negro Art](https://www.dareyoufight.org/Volumes/32/06/criteria_of_negro_art.html)                              |
 |   1926 |       33 |      01 | [Russia, 1926](https://www.dareyoufight.org/Volumes/33/01/russia_1926.html)                                                 |
@@ -150,12 +152,15 @@
 |   1929 |       36 |      02 | [DePriest](https://www.dareyoufight.org/Volumes/36/02/depriest.html)                                                        |
 |   1929 |       36 |      05 | [The Negro Citizen](https://www.dareyoufight.org/Volumes/36/05/negro_citizen.html)                                          |
 |   1929 |       36 |      11 | [The Negro in Politics](https://www.dareyoufight.org/Volumes/36/11/negro_in_politics.html)                                  |
+|   1930 |       37 |      01 | [Football](https://www.dareyoufight.org/Volumes/37/01/football.html)                                                        |
 |   1930 |       37 |      01 | [About Marrying](https://www.dareyoufight.org/Volumes/37/01/gambling.html)                                                  |
 |   1930 |       37 |      01 | [About Marrying](https://www.dareyoufight.org/Volumes/37/01/about_marrying.html)                                            |
 |   1930 |       37 |      02 | [About Wailing](https://www.dareyoufight.org/Volumes/37/02/about_wailing.html)                                              |
 |   1930 |       37 |      02 | [Interracial Love in Texas](https://www.dareyoufight.org/Volumes/37/02/interracial_love_in_texas.html)                      |
 |   1930 |       37 |      02 | [That Capital "N"](https://www.dareyoufight.org/Volumes/37/02/that_capital_n.html)                                          |
+|   1930 |       37 |      02 | [Education](https://www.dareyoufight.org/Volumes/37/02/education.html)                                                      |
 |   1930 |       37 |      03 | [Patient Asses](https://www.dareyoufight.org/Volumes/37/03/patient_asses.html)                                              |
+|   1930 |       37 |      03 | [Our Economic Peril](https://www.dareyoufight.org/Volumes/37/03/our_economic_peril.html)                                    |
 |   1930 |       37 |      03 | [The Boycott](https://www.dareyoufight.org/Volumes/37/03/boycott.html)                                                      |
 |   1930 |       37 |      05 | [Our Program](https://www.dareyoufight.org/Volumes/37/05/our_program.html)                                                  |
 |   1930 |       37 |      05 | [The Capital N](https://www.dareyoufight.org/Volumes/37/05/capital_n.html)                                                  |
@@ -164,6 +169,8 @@
 |   1931 |       38 |      09 | [The Negro and Communism](https://www.dareyoufight.org/Volumes/38/09/negro_and_communism.html)                              |
 |   1932 |       39 |      01 | [John Brown](https://www.dareyoufight.org/Volumes/39/01/john_brown.html)                                                    |
 |   1932 |       39 |      02 | [Lynchings](https://www.dareyoufight.org/Volumes/39/02/lynchings.html)                                                      |
+|   1932 |       39 |      03 | [Hawaii](https://www.dareyoufight.org/Volumes/39/03/hawaii.html)                                                            |
+|   1932 |       39 |      03 | [To Your Tents, Oh Israel!](https://www.dareyoufight.org/Volumes/39/03/to_your_tents.html)                                  |
 |   1932 |       39 |      04 | [Courts and Jails](https://www.dareyoufight.org/Volumes/39/04/courts_and_jails.html)                                        |
 |   1932 |       39 |      04 | [Again Howard](https://www.dareyoufight.org/Volumes/39/04/again_howard.html)                                                |
 |   1932 |       39 |      04 | [A Platform for Radicals](https://www.dareyoufight.org/Volumes/39/04/platform_for_radicals.html)                            |
