@@ -1,5 +1,10 @@
 # Education (1915)
 
+
+```{margin}
+There are few lines missing from this article, and Du Bois subsequently published an apology for "several inexcusable errors" in this issue.
+```
+
 ### The Persistent Onslaught
 
 The quiet insidious persistent attempt to keep the mass of the Negroes in America in just sufficient ignorance to render them incapable of realizing their power or resisting the position of inferiority into which the bulk of the nation is determined to thrust them was never stronger than to-day. Let us not be deceived. It is true that our illiteracy has decreased enormously and is decreasing and that the number of our children reported to be in school is larger than ever before. At the same time our illiteracy has not decreased as quickly as it might have and it is doubtful if the proportion of our population in school is as large to-day as it was ten or twenty years ago. As a race we are still kept in ignorance far below the average standard of this nation and of the present age, and the ideals set before our children in most cases are far below their possibilities and reasonable promise.
