@@ -2,7 +2,7 @@
 
 
 ```{margin}
-![](../../../Images/lee_county.jpg)
+The graphic [photograph](https://www.dareyoufight.org/_images/lee_county.jpg) is captioned "The lynching in Lee County, GA Jan. 20, 1916 (From an actual photograph)"
 ```
 
 The picture on the opposite page is authentic. It was taken in Lee County, Ga., where on January 20 five were taken from the jail, rushed into the adjoining county in automobiles, hanged and shot. The photograph was taken on the spot and a copy sent to a prominent white man in a neighboring city. His colored servant took it while he was at lunch, handed it to a <span style="font-variant:small-caps;"> Crisis</span> agent, who had it quickly copied. The original was then returned and the copy sent to us. It was a little dim and has been slightly retouched. Otherwise it is absolutely authentic.
