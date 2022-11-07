@@ -54,6 +54,7 @@
 |   1915 |       11 |      02 | [The Star of Ethiopia](https://www.dareyoufight.org/Volumes/11/02/star_of_ethiopia.html)                                    |
 |   1915 |       11 |      02 | [The Star of Ethiopia](https://www.dareyoufight.org/Volumes/11/02/booker_t_washington.html)                                 |
 |   1916 |       11 |      04 | [That Capital "N"](https://www.dareyoufight.org/Volumes/11/04/that_capital_n.html)                                          |
+|   1916 |       11 |      06 | [Peonage](https://www.dareyoufight.org/Volumes/11/06/peonage.html)                                                          |
 |   1916 |       12 |      03 | [The Drama Among Black Folk](https://www.dareyoufight.org/Volumes/12/03/drama_among_black_folk.html)                        |
 |   1916 |       12 |      04 | [Ireland](https://www.dareyoufight.org/Volumes/12/04/ireland.html)                                                          |
 |   1916 |       12 |      05 | [Conduct, Not Color](https://www.dareyoufight.org/Volumes/12/05/conduct_not_color.html)                                     |
