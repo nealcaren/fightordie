@@ -9,6 +9,7 @@
 |   1911 |       01 |      03 | ["Social Equality"](https://www.dareyoufight.org/Volumes/01/03/social_equality.html)                                        |
 |   1911 |       01 |      03 | ["Ashamed"](https://www.dareyoufight.org/Volumes/01/03/ashamed.html)                                                        |
 |   1911 |       01 |      03 | [The Old Story](https://www.dareyoufight.org/Volumes/01/03/old_story.html)                                                  |
+|   1911 |       01 |      05 | [Politeness](https://www.dareyoufight.org/Volumes/01/05/politeness.html)                                                    |
 |   1911 |       02 |      02 | [Starvation and Prejudice](https://www.dareyoufight.org/Volumes/02/02/starvation_and_prejudice.html)                        |
 |   1911 |       02 |      04 | [Lynching](https://www.dareyoufight.org/Volumes/02/04/lynching.html)                                                        |
 |   1911 |       02 |      04 | [Races](https://www.dareyoufight.org/Volumes/02/04/races.html)                                                              |
