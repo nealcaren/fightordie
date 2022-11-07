@@ -49,6 +49,7 @@
 |   1915 |       10 |      01 | [The Republicans](https://www.dareyoufight.org/Volumes/10/01/the_republicans.html)                                          |
 |   1915 |       10 |      01 | [Credit](https://www.dareyoufight.org/Volumes/10/01/credit.html)                                                            |
 |   1915 |       10 |      03 | [Education](https://www.dareyoufight.org/Volumes/10/03/education.html)                                                      |
+|   1915 |       10 |      03 | [An Open Letter](https://www.dareyoufight.org/Volumes/10/03/an_open_letter.html)                                            |
 |   1915 |       11 |      01 | [We Come of Age](https://www.dareyoufight.org/Volumes/11/01/we_come_of_age.html)                                            |
 |   1915 |       11 |      02 | [The Star of Ethiopia](https://www.dareyoufight.org/Volumes/11/02/star_of_ethiopia.html)                                    |
 |   1915 |       11 |      02 | [The Star of Ethiopia](https://www.dareyoufight.org/Volumes/11/02/booker_t_washington.html)                                 |
