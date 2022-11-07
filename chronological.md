@@ -157,6 +157,7 @@
 |   1930 |       37 |      01 | [About Marrying](https://www.dareyoufight.org/Volumes/37/01/gambling.html)                                                  |
 |   1930 |       37 |      01 | [About Marrying](https://www.dareyoufight.org/Volumes/37/01/about_marrying.html)                                            |
 |   1930 |       37 |      02 | [About Wailing](https://www.dareyoufight.org/Volumes/37/02/about_wailing.html)                                              |
+|   1930 |       37 |      02 | [Smuts](https://www.dareyoufight.org/Volumes/37/02/smuts.html)                                                              |
 |   1930 |       37 |      02 | [Interracial Love in Texas](https://www.dareyoufight.org/Volumes/37/02/interracial_love_in_texas.html)                      |
 |   1930 |       37 |      02 | [That Capital "N"](https://www.dareyoufight.org/Volumes/37/02/that_capital_n.html)                                          |
 |   1930 |       37 |      02 | [Education](https://www.dareyoufight.org/Volumes/37/02/education.html)                                                      |
