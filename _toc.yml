@@ -84,6 +84,12 @@ chapters:
 - file: Sections/global
   sections:
   - file: Volumes/39/12/from_a_traveler.md
+  - file: Sections/wwi
+    sections:
+    - file: Volumes/09/01/worldwar.md
+    - file: Volumes/14/05/awake_america.md
+    - file: Volumes/16/03/close_ranks.md
+    - file: Volumes/18/01/returning_soldiers.md
   - file: Sections/pan-africanism
     sections:
     - file: Volumes/17/04/africa.md
@@ -105,12 +111,7 @@ chapters:
     - file: Volumes/32/02/italy_and_abyssinia.md
     - file: Volumes/34/01/liberia.md
     - file: Volumes/39/03/hawaii.md
-  - file: Sections/wwi
-    sections:
-    - file: Volumes/09/01/worldwar.md
-    - file: Volumes/14/05/awake_america.md
-    - file: Volumes/16/03/close_ranks.md
-    - file: Volumes/18/01/returning_soldiers.md
+
 
 - file: Sections/electoral
   title: Disenfranchisement and Voting
@@ -283,6 +284,7 @@ chapters:
     - file: Volumes/38/03/woofterism.md
     - file: Volumes/29/05/radicals_and_the_negro.md
     - file: Volumes/34/02/farmers.md
+    - file: Volumes/39/02/nonpartisan_conference.md
     - file: Volumes/39/04/platform_for_radicals.md
     - file: Volumes/39/08/blaine_of_maine.md
     - file: Volumes/40/02/our_rate_of_increase.md

@@ -78,8 +78,8 @@
 |   1919 |       17 |      03 | [Jim Crow](https://www.dareyoufight.org/Volumes/17/03/jim_crow.html)                                                        |
 |   1919 |       17 |      04 | [Africa](https://www.dareyoufight.org/Volumes/17/04/africa.html)                                                            |
 |   1919 |       17 |      04 | [Reconstruction and Africa](https://www.dareyoufight.org/Volumes/17/04/reconstruction_and_africa.html)                      |
-|   1919 |       18 |      01 | [My Mission](https://www.dareyoufight.org/Volumes/18/01/my_mission.html)                                                    |
 |   1919 |       18 |      01 | [Returning Soldiers](https://www.dareyoufight.org/Volumes/18/01/returning_soldiers.html)                                    |
+|   1919 |       18 |      01 | [My Mission](https://www.dareyoufight.org/Volumes/18/01/my_mission.html)                                                    |
 |   1919 |       18 |      02 | [Egypt and India](https://www.dareyoufight.org/Volumes/18/02/egypt_and_india.html)                                          |
 |   1919 |       18 |      03 | [Reconstruction](https://www.dareyoufight.org/Volumes/18/03/reconstruction.html)                                            |
 |   1919 |       18 |      05 | [Let us Reason Together](https://www.dareyoufight.org/Volumes/18/05/let_us_reason_together.html)                            |
@@ -170,6 +170,7 @@
 |   1931 |       38 |      09 | [The Negro and Communism](https://www.dareyoufight.org/Volumes/38/09/negro_and_communism.html)                              |
 |   1932 |       39 |      01 | [John Brown](https://www.dareyoufight.org/Volumes/39/01/john_brown.html)                                                    |
 |   1932 |       39 |      02 | [Lynchings](https://www.dareyoufight.org/Volumes/39/02/lynchings.html)                                                      |
+|   1932 |       39 |      02 | [The Non-Partisan Conference](https://www.dareyoufight.org/Volumes/39/02/nonpartisan_conference.html)                       |
 |   1932 |       39 |      03 | [Hawaii](https://www.dareyoufight.org/Volumes/39/03/hawaii.html)                                                            |
 |   1932 |       39 |      03 | [To Your Tents, Oh Israel!](https://www.dareyoufight.org/Volumes/39/03/to_your_tents.html)                                  |
 |   1932 |       39 |      04 | [Courts and Jails](https://www.dareyoufight.org/Volumes/39/04/courts_and_jails.html)                                        |
