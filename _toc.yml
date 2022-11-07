@@ -32,6 +32,7 @@ chapters:
 - file: Sections/racism
   sections:
   - file: Volumes/01/03/social_equality.md
+  - file: Volumes/01/05/politeness.md
   - file: Volumes/01/03/ashamed.md
   - file: Volumes/03/04/light.md
   - file: Volumes/06/02/logic.md
