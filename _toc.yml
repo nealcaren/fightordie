@@ -271,6 +271,7 @@ chapters:
     - file: Volumes/37/05/capital_n.md
   - file: Sections/education.md
     sections:
+    - file: Volumes/10/03/education.md
     - file: Volumes/37/02/education.md
     - file: Volumes/39/04/again_howard.md
     - file: Volumes/40/08/negro_college.md
