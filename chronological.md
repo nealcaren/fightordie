@@ -145,6 +145,7 @@
 |   1927 |       34 |      04 | [Chicago](https://www.dareyoufight.org/Volumes/34/04/chicago.html)                                                          |
 |   1927 |       34 |      05 | [Coffeeville, Kanasas](https://www.dareyoufight.org/Volumes/34/05/coffeville_kansas.html)                                   |
 |   1927 |       34 |      06 | [Mob Tactics](https://www.dareyoufight.org/Volumes/34/06/mob_tactics.html)                                                  |
+|   1927 |       34 |      08 | [Death Rates](https://www.dareyoufight.org/Volumes/34/08/death_rates.html)                                                  |
 |   1927 |       34 |      09 | [Prejudice](https://www.dareyoufight.org/Volumes/34/09/prejudice.html)                                                      |
 |   1928 |       28 |      04 | [La Follette](https://www.dareyoufight.org/Volumes/28/04/la_follette.html)                                                  |
 |   1928 |       28 |      05 | [The N.A.A.C.P. and Parties](https://www.dareyoufight.org/Volumes/28/05/naacp_and_parties.html)                             |
