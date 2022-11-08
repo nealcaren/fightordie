@@ -9,12 +9,11 @@ Our [Code of Conduct](code_of_conduct.md) governs this project and everyone's pa
 
 ## How you can help
 
-- [Fixing Errors](#errors)
 - [Transcribing Articles](#Transcribe)
 - [Adding notes](#Marginal-notes)
+- [Organizing](#Organizing)
+- [Fixing Errors](#errors)
 
-## Errors
-If you spot any potential error in the text, double-check with the [original issue](https://drive.google.com/drive/folders/116HKri7avjuFeg7kJgZ0X99P9KS5ZIP0?usp=sharing). You can help fix the mistake by [reporting it to us as an issue](https://github.com/nealcaren/fightordie/issues) here or sending me an [email](mailto:neal.caren@unc.edu).
 
 ## Transcribe
 We need help transcribing Du Bois's articles from PDF to text so they can be displayed on the website. We have been less than systematic about reviewing Crisis and transcribing articles, but we have a [list of articles](http://www.dareyoufight.org/chronological.html) that we have completed, and a [few more](https://docs.google.com/spreadsheets/d/1P0vQs2tMEBEt0UI2fVt65cHIOo8bYYARmF31GqswGac/edit?usp=sharing) that we have identified as good candidates. So if you want to help:
@@ -66,6 +65,14 @@ Specific *Dare You Fight* style is:
 
 ### Marginal notes
 We seek to add marginal explanatory notes. These are usually a sentence or two that provide additional information about the subject that Crisis readers would likely know, such as details about a specific person or organization. In addition, these notes can include links and pictures. To submit one, a "New Issue" on our GitHub [issues page](https://github.com/nealcaren/fightordie/issues) with the page, where on the page the note should go, and text of the note in Markdown, ending with your initials (e..g, "- npc"). Folks who contribute marginal notes will be listed on the credits page.
+
+## Organizing
+The table of contents and the way articles are slotted to section is a work in progress, evolving as new texts are available. For example, some of the [uncategorized](https://www.dareyoufight.org/Sections/misc.html) might fit somewhere now, or several might make their own section. You can contribute to the project by proposing/editing book sections by [posting your ideas as an issue](https://github.com/nealcaren/fightordie/issues). 
+
+
+## Errors
+If you spot any potential error in the text, double-check with the [original issue](https://drive.google.com/drive/folders/116HKri7avjuFeg7kJgZ0X99P9KS5ZIP0?usp=sharing). You can help fix the mistake by [reporting it to us as an issue](https://github.com/nealcaren/fightordie/issues) or sending me an [email](mailto:neal.caren@unc.edu).
+
 
 ## Copyright
 Magazine issues, including those of The Crisis, published before 1927 are now in the public domain. I have found no evidence that the copyright for later issues were renewed and all are freely available on the [Internet Archive](https://archive.org/details/pub_crisis).  
