@@ -13,5 +13,11 @@
 | No *white* army officers tried. (Military law.)                                      | 17 WHITE men acquitted. (Civil law.)          |
 
 
+![](../../../Images/park_sign.png)
+
+**Entrance to the city park, Houston, Tex.**
+
+ The park is maintained by taxes on 70,000 whites and 40,000 Negroes. A few blocks from this park Policeman Sparks shot Corporal Baltimore and started the riot. Baltimore was hanged.
+
 ______________
 *Citation:* Du Bois, W.E.B. 1918. "Houston and East St. Louis." *The Crisis*. 15(6):268.
