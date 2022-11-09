@@ -83,6 +83,9 @@ table, th, td, tr {
   border-style : hidden!important;
 }
 
+th, td {
+  padding-bottom: 0em;
+}
 
 .poem {
     padding-left: 2em;
