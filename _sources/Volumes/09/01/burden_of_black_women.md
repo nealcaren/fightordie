@@ -12,7 +12,7 @@
 <p class = "poem-indent">And crying and sighing and crying again as a voice in the midnight cries;
 <p class = "poem-indent">But the burden of white men bore her back, and the white world stifled her sighs.
 <p>
-<p class = "poem ">The White World's vermin and filth:
+<p class = "poem">The White World's vermin and filth:
 <p class = "poem-indent">All the dirt of London,
 <p class = "poem-indent">All the scum of New York;
 <p class = "poem-indent">Valiant spoilers of women
