@@ -77,6 +77,7 @@
 |   1917 |       15 |      01 | [The Oath of the Negro Voter](https://www.dareyoufight.org/Volumes/15/01/oath_of_the_negro_voter.html)                      |
 |   1917 |       15 |      01 | [Houston: An N.A.A.C.P. Investigation](https://www.dareyoufight.org/Volumes/15/01/houston.html)                             |
 |   1918 |       15 |      05 | [The Black Man and the Unions](https://www.dareyoufight.org/Volumes/15/05/the_black_man_and_the_unions.html)                |
+|   1918 |       15 |      06 | [Houston and East St. Louis](https://www.dareyoufight.org/Volumes/15/06/houston_and_east_st_louis.html)                     |
 |   1918 |       16 |      03 | [Close Ranks](https://www.dareyoufight.org/Volumes/16/03/close_ranks.html)                                                  |
 |   1918 |       16 |      04 | [A Philosophy in Time of War](https://www.dareyoufight.org/Volumes/16/04/philosophy_in_time_of_war.html)                    |
 |   1918 |       16 |      05 | [A Momentous Proposal](https://www.dareyoufight.org/Volumes/16/05/momentous_proposal.html)                                  |

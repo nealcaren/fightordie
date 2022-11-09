@@ -17,4 +17,4 @@ The recent convention of the American Federation of Labor, at Buffalo, is no pro
 
 
 ______________
-*Citation:* Du Bois, W.E.B. 1918. "The Black Man and the Unions." *The Crisis*. 15(5): 114.
+*Citation:* Du Bois, W.E.B. 1918. "The Black Man and the Unions." *The Crisis*. 15(5):114.
