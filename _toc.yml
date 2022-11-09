@@ -16,7 +16,6 @@ chapters:
   - file: Volumes/03/05/homes.md
   - file: Volumes/05/04/blesseddiscrimination.md
   - file: Volumes/17/03/jim_crow.md
-  - file: Volumes/26/02/on_being_crazy.md
   - file: Volumes/26/04/tradgedy_of_jim_crow.md
   - file: Volumes/31/01/challenge_of_detroit.md
   - file: Volumes/40/03/color_caste_in_the_united_states.md
@@ -229,6 +228,10 @@ chapters:
 - file: Sections/arts
   sections:
   - file: Volumes/32/06/criteria_of_negro_art.md
+  - file: Sections/short_stories
+    sections:
+    - file: Volumes/01/02/precept_and_practice.md
+    - file: Volumes/26/02/on_being_crazy.md
   - file: Sections/poetry
     sections:
     - file: Volumes/09/01/burden_of_black_women.md

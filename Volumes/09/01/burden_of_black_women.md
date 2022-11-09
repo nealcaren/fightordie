@@ -1,5 +1,9 @@
 # The Burden of Black Women (1914)
 
+```{margin}
+This poem first appeared in a 1907 issue of *The Horizon* and was included as "The Riddle of the Spinx" in *Darkwater*. 
+```
+
 <p class = "poem">Dark daughter of the lotus leaves that watch the Southern sea,</p>
 <p class = "poem">Wan spirit of a prisoned soul a-panting to be free;</p>
 <p class = "poem-indent">The muttered music of thy streams, the whispers of the deep</p>

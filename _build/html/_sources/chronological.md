@@ -6,6 +6,7 @@
 |   1910 |       01 |      01 | [Agitation](https://www.dareyoufight.org/Volumes/01/01/Agitation.html)                                                      |
 |   1910 |       01 |      01 | [The Crisis](https://www.dareyoufight.org/Volumes/01/01/TheCrisis.html)                                                     |
 |   1910 |       01 |      02 | [N.A.A.C.P.](https://www.dareyoufight.org/Volumes/01/02/NAACP.html)                                                         |
+|   1910 |       01 |      02 | [Precept and Practice](https://www.dareyoufight.org/Volumes/01/02/precept_and_practice.html)                                |
 |   1911 |       01 |      03 | ["Social Equality"](https://www.dareyoufight.org/Volumes/01/03/social_equality.html)                                        |
 |   1911 |       01 |      03 | ["Ashamed"](https://www.dareyoufight.org/Volumes/01/03/ashamed.html)                                                        |
 |   1911 |       01 |      03 | [The Old Story](https://www.dareyoufight.org/Volumes/01/03/old_story.html)                                                  |
@@ -117,8 +118,8 @@
 |   1922 |       24 |      01 | [Publicity](https://www.dareyoufight.org/Volumes/24/01/publicity.html)                                                      |
 |   1922 |       24 |      02 | [White Charity](https://www.dareyoufight.org/Volumes/24/02/whitecharity.html)                                               |
 |   1923 |       24 |      03 | [Intentions](https://www.dareyoufight.org/Volumes/24/03/intentions.html)                                                    |
-|   1923 |       26 |      02 | [On Being Crazy](https://www.dareyoufight.org/Volumes/26/02/on_being_crazy.html)                                            |
 |   1923 |       26 |      02 | [A University Course in Lynching](https://www.dareyoufight.org/Volumes/26/02/university_course_in_lynching.html)            |
+|   1923 |       26 |      02 | [On Being Crazy](https://www.dareyoufight.org/Volumes/26/02/on_being_crazy.html)                                            |
 |   1923 |       26 |      04 | [The Tragedy of "Jim Crow"](https://www.dareyoufight.org/Volumes/26/04/tradgedy_of_jim_crow.html)                           |
 |   1923 |       27 |      03 | [The Black Man and the Wounded World](https://www.dareyoufight.org/Volumes/27/03/black_man_and_the_wounded_world.html)      |
 |   1924 |       27 |      04 | [Kenya](https://www.dareyoufight.org/Volumes/27/04/kenya.html)                                                              |
