@@ -97,6 +97,8 @@
 |   1920 |       19 |      03 | [Sex Equality](https://www.dareyoufight.org/Volumes/19/03/sex_equality.html)                                                |
 |   1920 |       19 |      04 | [Coöperation](https://www.dareyoufight.org/Volumes/19/04/cooperation.html)                                                  |
 |   1920 |       19 |      04 | [Crime](https://www.dareyoufight.org/Volumes/19/04/crime.html)                                                              |
+|   1920 |       20 |      01 | [Get Ready](https://www.dareyoufight.org/Volumes/20/01/get_ready.html)                                                      |
+|   1920 |       20 |      01 | [Get Ready](https://www.dareyoufight.org/Volumes/20/01/white_coworkers.html)                                                |
 |   1920 |       21 |      02 | [The Unreal Campaign](https://www.dareyoufight.org/Volumes/21/02/unreal_campaign.html)                                      |
 |   1921 |       22 |      01 | [Anti-Lynching Legislation](https://www.dareyoufight.org/Volumes/22/01/anti-lynching_legislation.html)                      |
 |   1921 |       22 |      01 | [The Drive](https://www.dareyoufight.org/Volumes/22/01/drive.html)                                                          |

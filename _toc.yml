@@ -15,7 +15,6 @@ chapters:
   - file: Volumes/01/01/Segregation.md
   - file: Volumes/03/05/homes.md
   - file: Volumes/05/04/blesseddiscrimination.md
-  - file: Volumes/13/06/perpetual_dilemma.md
   - file: Volumes/17/03/jim_crow.md
   - file: Volumes/26/02/on_being_crazy.md
   - file: Volumes/26/04/tradgedy_of_jim_crow.md
@@ -89,6 +88,7 @@ chapters:
   - file: Sections/wwi
     sections:
     - file: Volumes/09/01/worldwar.md
+    - file: Volumes/13/06/perpetual_dilemma.md
     - file: Volumes/14/05/awake_america.md
     - file: Volumes/16/03/close_ranks.md
     - file: Volumes/18/01/returning_soldiers.md
@@ -135,6 +135,7 @@ chapters:
     - file: Volumes/09/06/womansuffrage.md
     - file: Volumes/09/03/agility.md
     - file: Volumes/15/01/votes_for_women.md
+    - file: Volumes/20/01/get_ready.md
   - file: Sections/voting
     sections:
     - file: Volumes/04/04/politics.md
@@ -212,6 +213,7 @@ chapters:
   - file: Volumes/07/03/fightordie.md
   - file: Volumes/11/01/we_come_of_age.md
   - file: Volumes/10/01/credit.md
+  - file: Volumes/20/01/white_coworkers.md
   - file: Volumes/28/03/unity.md
   - file: Volumes/30/01/new_crisis.md
   - file: Volumes/37/05/our_program.md
