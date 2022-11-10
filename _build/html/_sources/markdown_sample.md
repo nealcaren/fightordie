@@ -1,12 +1,20 @@
-# Title (Publication Year)
+<!--
+title:   Homes
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1912
+volume:  3
+issue:   5
+pages:   200-201
+-->
 
 Paragraph of text.
 
 **Bold** and *italics* text.
 
-Hack to creat the journal name in small caps: <span style="font-variant:small-caps;">The Crisis</span>. 
+Hack to create the journal name in small caps: <span style="font-variant:small-caps;">The Crisis</span>.
 
-Here is an anexample of an extended quote:
+Here is an example of an extended quote:
 
 > Paragraph 1 with two spaces at the end    
 > &nbsp;  
@@ -26,6 +34,4 @@ How to include a link to the Du Bois [archive](https://credo.library.umass.edu/v
 
 Including an image: ![Du Bois sitting at this desk](http://www.dareyoufight.org/_images/nypl.digitalcollections.510d47dc-8fb3-a3d9-e040-e00a18064a99.001.w.jpg)
 
-
 ______________
-*Citation:* Du Bois, W.E.B. Publication Year  "Article Title." *The Crisis*. Voolume(Issue):Page.

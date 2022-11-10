@@ -1994,11 +1994,23 @@ title="Print to PDF"
 <li><p>You can create a new paragraph with either a blank line or several trailing spaces at the end of a line.
 You can find more <a class="reference external" href="https://www.markdownguide.org/cheat-sheet/">complete guides online</a>.</p></li>
 </ul>
+<p>To provide the identifying information for the article, each begins transcribed page begins with:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span>&lt;!--
+title:   Homes
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1912
+volume:  3
+issue:   5
+pages:   200-201
+--&gt;
+</pre></div>
+</div>
+<p>We use this information to create the displayed article title and citation.</p>
 <p>Specific <em>Dare You Fight</em> style is:</p>
 <ul class="simple">
-<li><p>Each file begins with a header symbol (#) followed by the article title and the year in parenthesis, such as a <code class="docutils literal notranslate"><span class="pre"></span> <span class="pre">Kenya</span> <span class="pre">(1924)</span></code></p></li>
-<li><p>The second to the last line is a line, accomplished with <code class="docutils literal notranslate"><span class="pre">_____</span></code></p></li>
-<li><p>The last line is the citation, such as <code class="docutils literal notranslate"><span class="pre">*Citation:*</span> <span class="pre">Du</span> <span class="pre">Bois,</span> <span class="pre">W.E.B.</span> <span class="pre">1924.</span> <span class="pre">&quot;Kenya&quot;</span> <span class="pre">*The</span> <span class="pre">Crisis*.</span> <span class="pre">27(4):152-153.</span></code></p></li>
+<li><p>Start the file with the article meta data, as described above.</p></li>
+<li><p>The final line is <code class="docutils literal notranslate"><span class="pre">_____</span></code></p></li>
 <li><p>The title of the journal where it occurs in an article is in small caps, which can be accomplished with <code class="docutils literal notranslate"><span class="pre">&lt;span</span> <span class="pre">style=&quot;font-variant:small-caps;&quot;&gt;The</span> <span class="pre">Crisis&lt;/span&gt;</span></code></p></li>
 <li><p>Ignore the drop cap and excessive capitalization that begins some articles.</p></li>
 <li><p>Do not reproduce the narrow non-breaking space (espace fine insécable) that was sometimes used in front of colons and question marks.</p></li>
