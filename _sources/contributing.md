@@ -46,7 +46,7 @@ General markdown Markdown formatting guidelines include:
 * You can create a new paragraph with either a blank line or several trailing spaces at the end of a line.
 You can find more [complete guides online](https://www.markdownguide.org/cheat-sheet/).
 
-To provide the identifying information for the article, each begins transcribed page begins with:
+To provide the identifying information for the article, each begins transcribed page begins with the article's reference details:
 ```
 <!--
 title:   Homes
@@ -62,7 +62,7 @@ We use this information to create the displayed article title and citation.
 
 
 Specific *Dare You Fight* style is:
-* Start the file with the article meta data, as described above. 
+* Start the file with the article meta data, as described above.
 * The final line is `_____`
 * The title of the journal where it occurs in an article is in small caps, which can be accomplished with `<span style="font-variant:small-caps;">The Crisis</span>`
 * Ignore the drop cap and excessive capitalization that begins some articles.
