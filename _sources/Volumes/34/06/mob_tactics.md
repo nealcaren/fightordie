@@ -1,3 +1,12 @@
+<!--
+title:   Mob Tactics
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1927
+volume:  34
+issue:   6
+pages:   204
+-->
 # Mob Tactics (1927)
 
 There has been developed in the United States a regular technique in matters of mob violence. Matters move somewhat as follows:

@@ -1,3 +1,12 @@
+<!--
+title:   Kenya
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1924
+volume:  27
+issue:   4
+pages:   152-153
+-->
 # Kenya (1924)
 
 In 1920 the territory formerly known as British East Africa and the German colony of German East Africa were united by the British Empire into one colony known as the Kenya Colony. In that colony several problems have immediately appeared. In the first place, Great Britain has decided to segregate black men into the worst and least habitable parts of their own land.

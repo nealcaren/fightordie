@@ -1,3 +1,12 @@
+<!--
+title:   The Social Equality of Whites and Blacks
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1920
+volume:  21
+issue:   1
+pages:   18, 20
+-->
 # The Social Equality of Whites and Blacks (1920)
 
 When The National Association for the Advancement of Colored People was organized it seemed to us that the subject of "social equality" between races was not one that we need touch officially whatever our private opinions might be. We announced clearly our object as being the political and civil rights of Negroes and this seemed to us a sufficiently clear explanation of our work.

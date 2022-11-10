@@ -1,3 +1,12 @@
+<!--
+title:   World War and the Color Line
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1914
+volume:  9
+issue:   1
+pages:   28-30
+-->
 # World War and the Color Line (1914)
 
 ```{index} colonialization

@@ -1,3 +1,12 @@
+<!--
+title:   The Proper Way
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1913
+volume:  5
+issue:   5
+pages:   238-239
+-->
 # The Proper Way (1913)
 
 The editor of the Cleveland *Gazette* names three main points of attack for any national association which aims to help colored people:

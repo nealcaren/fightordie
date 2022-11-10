@@ -1,3 +1,12 @@
+<!--
+title:   A Protest
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1933
+volume:  40
+issue:   7
+pages:   165
+-->
 # A Protest (1933)
 
 

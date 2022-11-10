@@ -1,3 +1,12 @@
+<!--
+title:   Segregation in the North
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1934
+volume:  41
+issue:   4
+pages:   115-117
+-->
 # Segregation in the North (1934)
 
 I have with interest the various criticisms on my recent discussions of segregation. Those like that of Mr. Pierce of Cleveland, do not impress me. I am not worried about being inconsistent. What worries me is the Truth. I am talking about conditions in 1934 and not in 1910. I do not care what I said in 1910 or 1810 or in B.C. 700.

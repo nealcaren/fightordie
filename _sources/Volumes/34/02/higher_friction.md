@@ -1,3 +1,12 @@
+<!--
+title:   The Higher Friction
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1927
+volume:  34
+issue:   2
+pages:   70
+-->
 # The Higher Friction (1927)
 
 Let us take courage from certain present aspects of the Negro problem. Friction there has always been between black and white since 1619. Friction there will probably be still in 2019. But the friction rises in the scale; it touches, decade by decade, higher levels—higher interests, higher sensibilities, even while the lower friction persists. To illustrate our meaning consider this table.

@@ -1,3 +1,12 @@
+<!--
+title:   Migration
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1916
+volume:  12
+issue:   6
+pages:   270
+-->
 # Migration (1916)
 
 It has long been the custom of colored leaders to advise the colored people to stay in the South. This has been supplemented by the startling information on the part of southern whites

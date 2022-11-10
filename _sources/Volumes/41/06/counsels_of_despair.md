@@ -1,3 +1,12 @@
+<!--
+title:   Counsels of Despair
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1934
+volume:  41
+issue:   6
+pages:   182-184
+-->
 # Counsels of Despair (1934)
 
 

@@ -1,3 +1,12 @@
+<!--
+title:   Color Caste in the United States
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1933
+volume:  40
+issue:   3
+pages:   59-60, 70
+-->
 # Color Caste in the United States (1933)
 
 

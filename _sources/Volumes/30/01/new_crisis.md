@@ -1,3 +1,12 @@
+<!--
+title:   The New Crisis
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1925
+volume:  30
+issue:   1
+pages:   7-9
+-->
 # The New Crisis (1925)
 
 We have assumed, with the Spring, with the beginning  of our 30th semi-annual volume, with our 175th number and with the closing of a fateful quarter century, something of a new dress and a certain renewal of spirit.

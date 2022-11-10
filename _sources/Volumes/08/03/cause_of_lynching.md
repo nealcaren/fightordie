@@ -1,3 +1,12 @@
+<!--
+title:   The Cause of Lynching
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1914
+volume:  8
+issue:   3
+pages:   126-127
+-->
 # The Cause of Lynching (1914)
 
 It is exceedingly difficult to get at the real cause of lynching but <span style="font-variant:small-caps;">The Crisis</span> is more and more convinced that the real cause is seldom the one In the barbaric Oklahoma case of the lynching of a woman, the press despatches made it a quarrel in a "redlight" district, but two private letters in our hands from apparently trustworthy persons declare that it was the case of a seventeen-year-old girl defending her own honor.

@@ -1,3 +1,12 @@
+<!--
+title:   DePriest
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1929
+volume:  36
+issue:   2
+pages:   57
+-->
 # DePriest (1929)
 ```{margin}
 [Margaret Deland](https://en.wikipedia.org/wiki/Margaret_Deland) was an American writer active in the women's rights movements.

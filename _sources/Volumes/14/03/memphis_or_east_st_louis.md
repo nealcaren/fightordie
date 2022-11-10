@@ -1,3 +1,12 @@
+<!--
+title:   Memphis or East St. Louis?
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1917
+volume:  14
+issue:   3
+pages:   113-114
+-->
 # Memphis or East St. Louis? (1917)
 
 We seem to hear four voices screaming above the mobs of Memphis and East St. Louis—Why will Negroes be Scabs, Why will Negroes Stay in the South, How Can We Stop Negro Migration, Where Can Negroes Be Treated Justly?

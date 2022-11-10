@@ -1,3 +1,12 @@
+<!--
+title:   Segregation
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1934
+volume:  41
+issue:   5
+pages:   147
+-->
 # Segregation (1934)
 
 A girl with brown and serious face, came to me after a lecture. She was not satisfied with what I had said, nor to my answer to her questions from the floor. She said: "It seems to me you used to fight Segregation, and that now you are ready to compromise." I answered: If you mean by fighting Segregation, fighting with fists, this is a thing I have never advocated, because it seems to me that such a policy always loses more than it gains. I have fought Segregation and other evils with reason, with facts, and with agitation. In this way, I'm still fighting. I said in the past that Segregation is wrong. I am still saying it.
@@ -13,4 +22,4 @@ This is Segregation. It is Segregation by the United States Government. These ho
 I say again, if this is compromise; if this is giving up what I have advocated for many years; the change, the reversal, bothers me not at all. But Negro poverty and idleness, and distress, they bother me, and always will.
 
 _________________
-*Citation:* Du Bois, W.E.B. 1934. "Segregation"." *The Crisis*  41(5):147.
+*Citation:* Du Bois, W.E.B. 1934. "Segregation." *The Crisis*  41(5):147.

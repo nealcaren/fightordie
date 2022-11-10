@@ -1,3 +1,12 @@
+<!--
+title:   Colored Women as Voters
+author:  Logan, Aella Hunt
+journal: The Crisis
+year:    1912
+volume:  4
+issue:   5
+pages:   242-243
+-->
 # Colored Women as Voters (1912)
 
 *By Adella Hunt Logan*

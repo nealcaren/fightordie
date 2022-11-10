@@ -1,3 +1,12 @@
+<!--
+title:   The Last Word in Politics
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1912
+volume:  8
+issue:   5
+pages:   29
+-->
 # The Last Word in Politics (1912)
 
 Before another number of <span style="font-variant:small-caps;">The Crisis</span> appears the next President of the United States will have been elected. We have, therefore, but this last word to colored voters and their friends.

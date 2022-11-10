@@ -1,3 +1,12 @@
+<!--
+title:   Brother Baptis' on Woman Suffrage
+author:  Jonas, Rosalie
+journal: The Crisis
+year:    1912
+volume:  4
+issue:   5
+pages:   247
+-->
 # Brother Baptis' on Woman Suffrage (1912)
 
 *By Rosalie Jonas*

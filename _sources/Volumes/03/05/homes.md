@@ -1,3 +1,12 @@
+<!--
+title:   Homes
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1912
+volume:  3
+issue:   5
+pages:   200-201
+-->
 # Homes (1912)
 
 

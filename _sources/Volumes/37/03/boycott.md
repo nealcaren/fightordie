@@ -1,3 +1,12 @@
+<!--
+title:   The Boycott
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1930
+volume:  37
+issue:   3
+pages:   102
+-->
 # The Boycott (1930)
 
 Side by side with consumers' cooperation, and of greater initial importance because it can so easily be put into force, stands the boycott as a weapon which American Negroes can use for their economic defense. Boycotting consists of concerted refusal to trade with a particular store or firm until it meets a group's wishes in respect to treatment, conditions of work, personnel, prices, etc. In America, it has to be used with care and under careful legal advice because merchants and manufacturers have so hedged themselves about with laws that boycotters may find themselves open to prosecution for interfering with the firm's profits!

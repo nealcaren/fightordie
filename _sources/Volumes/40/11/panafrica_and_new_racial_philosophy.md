@@ -1,3 +1,12 @@
+<!--
+title:   Pan-Africa and New Racial Philosophy
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1933
+volume:  40
+issue:   10
+pages:   247, 262
+-->
 # Pan-Africa and New Racial Philosophy (1933)
 
 We have considered all these matters in relation to the American Negro but our underlying thought has been continually that they can and must be seen not against any narrow, provincial or even national background, but in relation to the great problem of the colored races of the world and particularly those of African descent.

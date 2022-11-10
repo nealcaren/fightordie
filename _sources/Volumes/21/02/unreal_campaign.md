@@ -1,3 +1,12 @@
+<!--
+title:   The Unreal Campaign
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1920
+volume:  21
+issue:   2
+pages:   54-56
+-->
 # The Unreal Campaign (1920)
 
 Never have the American people endured such a Presidential campaign. It is true that in no campaign are the great issues always distinct and clear and the alignments definite and understandable. But surely in no campaign has there ever been such a lack of alignment and such deliberate smearing of issues. One may, as one is constituted, regard voting as a test of conscience and principle or as a practical make-shift. In the first, the land may easily go to the dogs while the Dreamer walks his high and isolated path. In the other case, we may too easily forget our dreams.

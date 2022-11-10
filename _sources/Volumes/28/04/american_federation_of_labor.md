@@ -1,3 +1,12 @@
+<!--
+title:   To the American Federation of Labor
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1924
+volume:  28
+issue:   4
+pages:   153-154
+-->
 # To the American Federation of Labor (1924)
 
 For many years the American Negro has been demanding admittance to the ranks of union labor. For many years your organizations have made public profession of your interest in Negro labor, of your desire to have it unionized, and of your hatred of the black "scab."

@@ -1,3 +1,12 @@
+<!--
+title:   Ireland
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1916
+volume:  12
+issue:   4
+pages:   166-167
+-->
 # Ireland (1916)
 
 Few colored people know or realize what Ireland has suffered at the hands of England. On the other hand, the open dislike of Irish and colored people in the United States has given the Irish cause little or no sympathy so far as Negroes are concerned.

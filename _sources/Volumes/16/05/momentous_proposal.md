@@ -1,3 +1,12 @@
+<!--
+title:   A Momentous Proposal
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1918
+volume:  16
+issue:   5
+pages:   215-216
+-->
 # A Momentous Proposal (1918)
 
 A plan of far-reaching constructive effort to satisfy the pressing grievances of colored Americans has been under serious consideration by the military authorities at Washington for two months. On June 15, Dr. DuBois was called in and asked if he would accept a captaincy in a bureau of the General Staff, if one was established, for the above purposes. Dr. DuBois replied that he would, provided he could retain general oversight of <span style="font-variant:small-caps;">The Crisis</span>, and provided that his captain's salary (which was $1,000 less than his present salary) could be supplemented from <span style="font-variant:small-caps;">The Crisis</span> income, so that he would suffer no financial loss. The military authorities saw no objection to these conditions. Dr. DuBois then consulted the President of the Board of Directors of the N. A. A. C. P., the chairman and the acting chairman of the Board and several members, including Dr. H. C. Bishop, Bishop Hurst, Dr. Bentley, Mr. A. H. Grimke, Colonel Charles Young, Rev. G. R. Waller, Hon. Charles Nagel and Dr. V. Morton-Jones. All of them, except Mr. Grimke, agreed with the conditions and urged acceptance. Mr. Grimke expressed deep sympathy, but asked more time for consideration. No decision, however, as to establishing the Bureau was arrived at and when the regular July meeting of the Board took place, the priority of the  Government's claim on Dr. DuBois was recognized, but doubt was expressed as to the advisability of his continuing in charge of <span style="font-variant:small-caps;">The Crisis</span>.

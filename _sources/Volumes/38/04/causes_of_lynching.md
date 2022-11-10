@@ -1,3 +1,12 @@
+<!--
+title:   Causes of Lynching
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1931
+volume:  38
+issue:   4
+pages:   138
+-->
 # Causes of Lynching (1931)
 
 ```{margin}

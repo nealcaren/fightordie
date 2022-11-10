@@ -1,3 +1,12 @@
+<!--
+title:   A Statement
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1919
+volume:  19
+issue:   1
+pages:   335
+-->
 # A Statement (1919)
 
 At no previous period in the history of the Negro in America has he been confronted with a more critical situation than today. The forces of prejudice against which we are fighting seem determined to keep twelve millions of Americans in that bondage of prejudice because of race, while those twelve millions are determined as never before to achieve the status of citizens—full and unlimited by caste or color. When two forces of such magnitude meet, a critical situation is inevitable and such a one is upon us today.

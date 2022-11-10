@@ -1,13 +1,12 @@
 <!--
-title: The National Emancipation Exposition
-author: W.E.B. Du Bois
+title:   The National Emancipation Exposition
+author:  Du Bois, W.E.B.
 journal: The Crisis
-year: 1913
-volume: 6
-issue: 7
-pages: 339-341
+year:    1913
+volume:  6
+issue:   7
+pages:   339-341
 -->
-
 # The National Emancipation Exposition (1913)
 
 **In New York City, October 22-31, 1913**

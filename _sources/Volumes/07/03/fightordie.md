@@ -1,3 +1,12 @@
+<!--
+title:   Join or Die
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1914
+volume:  7
+issue:   3
+pages:   133-134
+-->
 # Join or Die (1914)
 
 <span style="font-variant:small-caps;">The Crisis</span> exists for one great purpose.

@@ -1,4 +1,13 @@
-# That Capital "N" (1916)
+<!--
+title:   That Capital 'N'
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1916
+volume:  11
+issue:   4
+pages:   184
+-->
+# That Capital 'N' (1916)
 
 From time to time persons write us for a brief statement of the reasons for capitalizing the word *Negro*.
 

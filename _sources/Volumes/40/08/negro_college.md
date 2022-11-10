@@ -1,3 +1,12 @@
+<!--
+title:   The Negro College
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1933
+volume:  40
+issue:   8
+pages:   175-177
+-->
 # The Negro College (1933)
 
 ```{margin}

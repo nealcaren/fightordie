@@ -1,3 +1,12 @@
+<!--
+title:   The Servant in the South
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1912
+volume:  3
+issue:   5
+pages:   200-201
+-->
 # The Servant in the South (1912)
 
 During slavery days the house servants were rewarded with extra privileges, among which were the left-over food and cast-off clothing of the "big house." This easily became, under the less rigorous forms of serfdom, a sort of payment in kind for personal service, and now and then "tips" in actual money were given. When formal emancipation came the servants were promised wages, but as a matter of fact the wages were seldom paid in cash, while a money value was often given to the food and old clothes. This old custom could easily degenerate into something very like stealing, and yet the custom could seem justifiable in the eyes of the ignorant, especially when their wages were low and often unpaid, and when they saw mistresses wink at and even expect peculations of this sort. On the other hand, colored servants are not dishonest; money, jewelry and the like are safe in their hands with few exceptions.

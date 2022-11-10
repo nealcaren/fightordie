@@ -1,3 +1,12 @@
+<!--
+title:   Let us Reason Together
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1919
+volume:  18
+issue:   5
+pages:   231
+-->
 # Let us Reason Together (1919)
 
 Brothers we are on the Great Deep. We have cast off on the vast voyage which will lead to Freedom or Death.

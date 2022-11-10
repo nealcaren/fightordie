@@ -1,3 +1,12 @@
+<!--
+title:   Roosevelt
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1917
+volume:  14
+issue:   4
+pages:   164
+-->
 # Roosevelt (1917)
 
 ```{margin}

@@ -1,3 +1,12 @@
+<!--
+title:   Radicals and the Negro
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1925
+volume:  29
+issue:   5
+pages:   199-200
+-->
 # Radicals and the Negro (1925)
 
 Most Americans having secured the right to vote, the principle of free public schools, the right to trial by jury and the right to travel without insult are proceeding to use these foundation rights for the purpose of accomplishing economic freedom, more effective education, the abolition of crime and like reforms. Among such liberal and radical thinkers any reference to the right to vote, the abolition of lynching or admission to the public schools sounds archaic. It brings to them no recognition of the fact that these demands should be part of a radical program because their own program for white people has swept so far beyond these initial demands that these demands are no longer "radical''—they are almost reactionary.

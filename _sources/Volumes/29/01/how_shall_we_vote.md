@@ -1,4 +1,13 @@
-# How Shall We Vote (1928)
+<!--
+title:   How Shall We Vote
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1924
+volume:  291
+issue:   1
+pages:   13
+-->
+# How Shall We Vote (1924)
 
 ```{margin}
 This was DuBois's contribution to a symposium on the 1928 presidential election.

@@ -1,3 +1,12 @@
+<!--
+title:   The Right to Work
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1933
+volume:  40
+issue:   4
+pages:   93-94
+-->
 # The Right to Work (1933)
 
 We have been taught to regard the industrial system today as fixed and permanent. Our problem has been locked upon as the static one of adjusting ourselves to American industry and entering it on its own terms. Our first awakening came when we found that the technique of industry changes so fast and the machine displaces and modifies human labor in so many ways, that it is practically impossible for our Negro industrial schools to equip themselves so as to train youth for current work, while the actual shops and apprentice systems are largely closed to us.

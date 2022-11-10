@@ -1,3 +1,12 @@
+<!--
+title:   Precept and Practice
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1910
+volume:  1
+issue:   2
+pages:   27
+-->
 # Precept and Practice (1910)
 
 A large audience was leaving New York's finest theatre. The play had been upon the Negro question, and one couple had been especially thrilled by the fine heroism of the white man, who, finding that he had a few drops of colored blood, allied himself with the despised race. "How magnificent," they were saying, "to dedicate oneself to the cause of the oppressed!"

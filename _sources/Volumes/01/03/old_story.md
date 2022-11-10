@@ -1,3 +1,12 @@
+<!--
+title:   The Old Story
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1911
+volume:  1
+issue:   3
+pages:   20
+-->
 # The Old Story (1911)
 
 ```{margin}

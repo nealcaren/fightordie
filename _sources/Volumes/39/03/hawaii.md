@@ -1,3 +1,12 @@
+<!--
+title:   Hawaii
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1932
+volume:  39
+issue:   3
+pages:   93
+-->
 # Hawaii (1932)
 
 The assault on a white woman in Hawaii brings this whole volcanic structure to the world's notice. Hawaii is a volcano and a series of volcanoes in more senses of the word than one. It is near the exact center of the Pacific Ocean. It was settled in prehistoric times by dark Mongolians with many evidences of a strong Negro strain. It was discovered by Captain James Cook in 1778. A company of missionaries landed there in 1820 and in 1823 came the great revival when the Queen and one-fifth of the population were converted to Christianity.

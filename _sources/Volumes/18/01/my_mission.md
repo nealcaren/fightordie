@@ -1,3 +1,12 @@
+<!--
+title:   My Mission
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1919
+volume:  18
+issue:   1
+pages:   7-9
+-->
 # My Mission (1919)
 
 I went to Paris because today the destinies of mankind center there. Make no mistake as to this, my readers. Podunk may easily persuade itself that only Podunk matters and that nothing is going on in New York. The South Sea Islander may live ignorant and careless of London. Some Americans may think that Europe does not count, and a few Negroes may argue vociferously that the Negro problem is a domestic matter, to be settled in Richmond and New Orleans.

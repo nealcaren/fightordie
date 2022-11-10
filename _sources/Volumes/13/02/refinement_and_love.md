@@ -1,4 +1,13 @@
-# "Refinement and Love" (1916)
+<!--
+title:   'Refinement and Love'
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1916
+volume:  13
+issue:   2
+pages:   63
+-->
+# 'Refinement and Love' (1916)
 
 A colored girl writes us from Oswego, N. Y., saying:
 

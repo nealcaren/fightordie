@@ -1,3 +1,12 @@
+<!--
+title:   Courts and Jails
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1932
+volume:  39
+issue:   4
+pages:   132
+-->
 # Courts and Jails (1932)
 
 It is to the disgrace of the American Negro, and particularly of his religious and philanthropic organizations, that they continually and systematically neglect Negroes who have been arrested, or who are accused of crime, or who have been convicted and incarcerated.

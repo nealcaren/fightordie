@@ -1,3 +1,12 @@
+<!--
+title:   Education
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1930
+volume:  37
+issue:   2
+pages:   65
+-->
 # Education (1930)
 
 Suppose that a Congressman is interested in the American Negro, realizing that the oppression of any group of twelve million people in America is dangerous to the whole country. Suppose he wants to do something to help the Negroes? What would be the most obvious thing that he could do?

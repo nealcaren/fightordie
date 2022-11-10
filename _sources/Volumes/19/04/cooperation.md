@@ -1,3 +1,12 @@
+<!--
+title:   Coöperation
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1920
+volume:  19
+issue:   4
+pages:   171-172
+-->
 # Coöperation (1920)
 
 Several coöperative efforts are starting among colored people. Probably today, there are fifty or more local efforts. Most of them are sporadic, and will fail. Some few are the efforts of individuals who use the magic word coöperation for stores in which there is not a trace of the coöperation principle.

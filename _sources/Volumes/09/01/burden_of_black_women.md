@@ -1,3 +1,12 @@
+<!--
+title:   The Burden of Black Women
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1914
+volume:  9
+issue:   1
+pages:   31
+-->
 # The Burden of Black Women (1914)
 
 ```{margin}

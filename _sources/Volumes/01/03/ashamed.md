@@ -1,4 +1,13 @@
-# "Ashamed" (1911)
+<!--
+title:   'Ashamed'
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1911
+volume:  1
+issue:   3
+pages:   21
+-->
+# 'Ashamed' (1911)
 
 Any colored man who complains of the treatment he receives in America is apt to be faced sooner or later by the statement that he is ashamed of his race.
 

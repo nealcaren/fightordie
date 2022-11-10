@@ -1,3 +1,12 @@
+<!--
+title:   The A.F. of L.
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1933
+volume:  40
+issue:   12
+pages:   292
+-->
 # The A.F. of L. (1933)
 
 ```{margin}

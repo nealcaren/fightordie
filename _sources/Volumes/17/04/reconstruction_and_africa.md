@@ -1,3 +1,12 @@
+<!--
+title:   Reconstruction and Africa
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1919
+volume:  17
+issue:   4
+pages:   165-166
+-->
 # Reconstruction and Africa (1919)
 
 ```{index} colonialization

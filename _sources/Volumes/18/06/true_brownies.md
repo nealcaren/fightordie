@@ -1,3 +1,12 @@
+<!--
+title:   The True Brownies
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1919
+volume:  18
+issue:   6
+pages:   285-286
+-->
 # The True Brownies (1919)
 
 The Children's <span style="font-variant:small-caps;"> Crisis</span> has been published annually for nine years and is easily the most popular number of the year—that is, it makes the widest appeal to our readers. This is as it should be. Of course, we are and must be interested in our children above all else, if we love our race and humanity.

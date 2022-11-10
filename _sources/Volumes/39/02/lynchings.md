@@ -1,3 +1,12 @@
+<!--
+title:   Lynchings
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1932
+volume:  39
+issue:   2
+pages:   58
+-->
 # Lynchings (1932)
 
 There have been this year thirteen or more persons lynched. I say thirteen "or more." It may have been fifteen or eighteen, but I am taking the reports of Tuskegee, which are usually just below the truth. This means that once a month in the United States mobs have seized prisoners, who in every case but one were black, and have murdered them without any attempt to find out whether they were guilty or not.

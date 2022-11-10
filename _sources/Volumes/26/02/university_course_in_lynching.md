@@ -1,3 +1,12 @@
+<!--
+title:   A University Course in Lynching
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1923
+volume:  26
+issue:   2
+pages:   55
+-->
 # A University Course in Lynching (1923)
 
 <!---

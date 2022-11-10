@@ -1,3 +1,12 @@
+<!--
+title:   Thirteen
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1919
+volume:  15
+issue:   3
+pages:   114
+-->
 # Thirteen (1919)
 
 

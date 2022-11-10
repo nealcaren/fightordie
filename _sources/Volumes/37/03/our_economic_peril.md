@@ -1,3 +1,12 @@
+<!--
+title:   Our Economic Peril
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1930
+volume:  37
+issue:   3
+pages:   101
+-->
 # Our Economic Peril (1930)
 
 Fortunately, the attention of thinkers, black and white, is being drawn to the economic crisis which faces the American Negro. Norman Thomas, the white leader of American Socialists, writing in the *New Leader*, said recently:

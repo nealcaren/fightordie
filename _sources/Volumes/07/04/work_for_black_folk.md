@@ -1,3 +1,12 @@
+<!--
+title:   Work for Black Folk in 1914
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1914
+volume:  7
+issue:   4
+pages:   186-187
+-->
 # Work for Black Folk in 1914 (1914)
 
 Merican citizens of Negro descent and their friends have much to do in 1914, if they are to stem the rising tide of racial proscription.

@@ -1,3 +1,12 @@
+<!--
+title:   The Negro and Radical Thought
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1921
+volume:  22
+issue:   3
+pages:   102-104
+-->
 # The Negro and Radical Thought (1921)
 
 ```{margin}

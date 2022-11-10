@@ -1,3 +1,12 @@
+<!--
+title:   Italy and Abyssinia
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1926
+volume:  32
+issue:   2
+pages:   62-63
+-->
 # Italy and Abyssinia (1926)
 
 ```{margin}

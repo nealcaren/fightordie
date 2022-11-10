@@ -1,3 +1,12 @@
+<!--
+title:   N.A.A.C.P.
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1910
+volume:  1
+issue:   2
+pages:   16-17
+-->
 # N.A.A.C.P. (1910)
 
 What is the National Association for the Advancement of Colored People? It is a union of those who believe that earnest, active opposition is the only effective way of meeting the forces of evil. They believe that the growth of race prejudice in the United States is evil. It is not always consciously evil. Much of it is born of ignorance and misapprehension, honest mistake and misguided zeal. However caused, it is none the less evil, wrong, dangerous, fertile of harm. For this reason it must be combatted. It is neither safe nor sane to sit down dumbly before such human error or to seek to combat it with smiles and hushed whispers. Fight the wrong with every human weapon in every civilized way.  
