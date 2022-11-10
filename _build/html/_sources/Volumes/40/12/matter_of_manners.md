@@ -24,4 +24,4 @@ The daughter of a colored teacher was entertaining some young friends in the din
 This sort of thing has sad effect upon the manners of colored people. They visit vicariously the insults of ignorant boors and savages, North and South, upon the mass of people, white and colored, with whom they come in contact. They push their way through crowds carelessly; their methods of salutations are crude; they ask pardon of no one, and they assert themselves offensively. Some how and in some way our younger generation must learn that courtesy and manners are not solely for the benefit of the other person; they are tributes to our own self-respect.
 
 _________________
-*Citation:* Du Bois, W.E.B. 1933. " A Matter of Manners." *The Crisis* 40(12):292-293.
+*Citation:* Du Bois, W.E.B. 1933. "A Matter of Manners." *The Crisis*. 40(12):292-293.

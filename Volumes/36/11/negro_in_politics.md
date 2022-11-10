@@ -15,6 +15,5 @@ But this means that the Negro must become opportunist in politics. No area illus
 
 It is, of course, unfortunate that in all this, Harlem and the Negroes of the United States, must vote "'colored"'; but the fault is not theirs. So long as the color of a man's skin means more, to most candidates, than the tariff, democratic government, prohibition, war, or any other issue, just so long  the black man must vote with his eye on this fact. In these larger issues, he disfranchises himself, but he refuses to commit suicide in order to save a white world.
 
-
 __________
 *Citation:* Du Bois, W.E.B. 1929. "The Negro in Politics." *The Crisis*. 36(11):387.

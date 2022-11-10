@@ -42,7 +42,6 @@ But, wail the idiots, Negroes depress real estate values! This is a lie—an anc
 
 <p align="center"> ~~~~~~~~~~~~~~~ </p>
 
-
 But these facts make no difference to organized American Negro haters. They are using every effort to maintain and increase race friction. In the South time and time again communities have almost forgotten race lines until the bitter, hate-preaching liar stirred it up again. The whole present "Anglo-Saxon" and "race purity" agitation in Virginia has arisen because one white family openly acknowledged its colored grandmother! The whole crusade in Detroit has come to a head because, in 1920, 663,000 Southern whites had migrated and were living in Wisconsin, Michigan, Illinois, Indiana and Ohio. Their numbers are swelling. They are largely clerks, artisans and laborers, not illiterate but ignorant of the modern world and forming by habit the lawless material of mobs. They are ruining the finer democracy of the Middle West and using the Negro as an excuse.
 
 What shall we do? I know a black man. He is a professional man and a graduate of a great eastern school. He has studied abroad. His wife was educated in a good western school and is a quiet housewife. His son is a college graduate and a high school teacher. They have never been arrested. They conduct themselves as cultured folk. This man is living in an apartment in Harlem. He would like more air and sunlight and less noise. He would like a new, small, modern house in the further Bronx or in the hills of Westchester or New Jersey or in the higher part of Queens. He sees daily in the papers new homes advertised suitable to his means—$500, $1,000 even $2000 down, the rest as rent. Can he buy one of these? Not without plotting, deception, insult or murder.
@@ -56,4 +55,4 @@ A little later another physician in Detroit bought another beautiful home and mo
 Gentle Reader, which of these three examples shall my friend of Harlem follow? Which would you follow if you were "free", black and 21?
 
 _
-*Citation:* Du Bois, W.E.B. 1925. "The Challenge of Detroit."  31(1):7-10.
+*Citation:* Du Bois, W.E.B. 1925. "The Challenge of Detroit." *The Crisis*. 31(1):7-10.

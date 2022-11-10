@@ -9,7 +9,6 @@ pages:   133
 -->
 # Agility (1915)
 
-
 ```{margin}
 [Alva Belmont](https://en.wikipedia.org/wiki/Alva_Belmont), was a prominent white New York suffragist and socialite.
 ```

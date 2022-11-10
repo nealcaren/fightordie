@@ -51,7 +51,6 @@ Carlos F. Hurd, an eye-witness, realizes this fact and speaks of it in the artic
 
 **The Fire.**  *St. Louis Star.*
 
-
  He goes on with another horrible account of which he was also an eye-witness:
 
  > A Negro, his head laid open by a great stone-cut, had been dragged to the mouth of the alley on Fourth Street and a small rope was being put about his neck. There was joking comment on the weakness of the rope, and everyone was prepared for what happened when it was pulled over a projecting cable box, a short distance up the pole. It broke, letting the Negro tumble back to his knees, and causing one of the men who was pulling on it to sprawl on the pavement.  
@@ -139,8 +138,6 @@ Where was the militia? At best they stood idly about in tacit sympathy with the 
 ![](../../../Images/mesl_4.jpg)  
 **Broadway Opera House after the fire. $700,000 damage was done in this vincinity.**  *St. Louis Globe Democrat.*
 
-
-
 Subsequent testimony conflicted with this statement and showed that most of the militia, as one would suppose from the location of East St. Louis, came from Southern Illinois.
 
  And John T. Stewart continues in the *St. Louis Star*:
@@ -201,8 +198,6 @@ Around a corner came a group of miners, fresh from work, their pick-axes over th
 ![](../../../Images/mesl_5.jpg)  
 **Looking for bodies of victims. Six were found here.**  *St. Louis Star.*
 
-
-
 While Mrs. Cox was talking to Miss Gruening and Dr. Du Bois, a colored woman came up and exclaimed: "There's the lady that saved me!" The woman had spent all that terrible night crouching in a sewer pipe.
 
 It was Mrs. Cox, too, who saw the baby snatched from its mother's arms and thrown into the flames, to be followed afterwards by the mother. This last act was the only merciful one on the part of the crowd.
@@ -248,7 +243,6 @@ After hearing his story the Judge dismissed him.
         <b>Police Headquarters, St. Lois, Mo.</b>
     </span>
 </p>
-
 
 Nathaniel Cole is twenty-two years old and worked in a steel foundry. He says:
 
@@ -342,7 +336,6 @@ And here is the testimony of Narcis Gurley (see page 236), who had lived for sev
 
 > Between five and six o'clock we noticed a house nearby burning and heard the men outside. We were afraid to come outside and remained in the house. which caught fire from the other house. When the house began falling in we ran out, terribly burned, and one white man said, "Let those old women alone." We were allowed to escape. Lost everything, clothing and household goods.
 
-
 The picture shows how terribly her arms were burned.
 
 Testimony of the Kendricks, residents of West Madison, Ill., since 1909:
@@ -366,7 +359,6 @@ Testimony of Frank Smith, resident of East St. Louis for about twenty-five years
 > His house was set afire by the: mob, and they waited outside to shoot him. when he should emerge from the house. He waited till the last possible moment and was frightfully burned.     
 > &nbsp;  
 > Family consists of a sister and brother who lived at 2136 Gayety, East St. Louis. Lost everything and will probably have to stay in hospital for six or seven weeks longer.
-
 
  Testimony of Samuel J. Green, age 34 years:
 
@@ -431,7 +423,6 @@ Karch emphatically confirmed the statements made to the *Post-Dispatch* Tuesday 
 Prejudice is a bad thing. But prejudice in the hands of Organized Labor in America! The Central Trades and Labor Union of East St. Louis has perpetrated a grim jest. Its motto as one may see by glancing back at page 221, is "Labor omnia vincit." Latin is apt to be a bit obscure, so we translate: "Labor conquers everything." It does. In East St. Louis it has conquered Liberty, Justice, Mercy, Law and the Democracy which is a nation's vaunt.
 
 And what of the Federal Government?
-
 
 ______________
 *Citation:* National Association for the Advancement of Colored People. 1917. "The Massacre in East St. Louis." *The Crisis*. 14(5):219-238.

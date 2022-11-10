@@ -87,4 +87,4 @@ This poem first appeared in a 1907 issue of *The Horizon* and was included as "T
 <p class = "poem">Thicken the thunders of God's voice, and lo! a world awakes!
 
 ______________
-*Citation:* Du Bois, W.E.B. 1914. "The Burden of Black Women." *The Crisis.* 9(1):31.
+*Citation:* Du Bois, W.E.B. 1914. "The Burden of Black Women." *The Crisis*. 9(1):31.

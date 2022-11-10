@@ -115,7 +115,5 @@ I gave up. Go on, I said, either you are crazy or I am.
 
 "We both are," he said as he trotted along in the mud.
 
-
-
 ______________
 *Citation:* Du Bois, W.E.B. 1923. "On Being Crazy." *The Crisis*. 26(2):56-57.

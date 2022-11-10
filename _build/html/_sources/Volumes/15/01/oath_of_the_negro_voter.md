@@ -30,4 +30,4 @@ In order to accomplish the above ends I hereby entrust the National Association 
 Persons minded to sign the above oath will send their names to the Editor of <span style="font-variant:small-caps;">The Crisis</span>.
 
 __________
-*Citation:* Du Bois, W.E.B. 1917. "The Oath of the Negro Vote." *The Crisis*. 15(1):7.
+*Citation:* Du Bois, W.E.B. 1917. "The Oath of the Negro Voter." *The Crisis*. 15(1):7.

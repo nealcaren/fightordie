@@ -111,7 +111,6 @@ There are certain simple souls among us who seem to imagine that the emancipatio
 
 On November 22nd and 23rd, the N.A.A.C.P. spent $5,136.93 for the following advertisements in the greatest daily papers of the country:
 
-
 |  &nbsp;                | &nbsp;  | &nbsp;      | Circulation | Cost, one<br>insertion|
 | -------------          |-------- | ------------| :---- |  :---- |
 | New York *Times*       | Nov. 23 |  Full page  | 327,216 | $1,539.20 |
@@ -125,9 +124,8 @@ On November 22nd and 23rd, the N.A.A.C.P. spent $5,136.93 for the following adve
 | Cleveland *World* | Nov. 22 |  Full page | 360,080 | 1,344.00 |
 |  &nbsp;     |  &nbsp;     |   &nbsp;     | 1,998,883 | $6,480.93 |
 
-
 In this way, on one single day, they made five million intelligent Americans think about lynching. We reached the unreached: white people who knew and cared little about lynching. Was it worth it? We ought to have spent ten times that amount and we shall, if possible, spend that next year. Advertising is costly. Propaganda depends on advertising as well as other
 costly methods. What every great cause—the Red Cross, Jewish Charities, the Knights of Columbus, the Hospitals—what all white folk must do to get their cause before the public, we black folk cannot afford to neglect. All Americans do not understand about lynching. Few Americans dream of our daily life of insult, cruelty and discouragement. If we do not let them know, who will? Who will? We must advertise, we must agitate, we must, as Jehovah told Isaiah, "'Cry aloud, spare not, lift up thy voice like a trumpet and show my people their transgression." There is no royal road to publicity. It costs money and much money. We need to advertise as never before in the daily press, in the weekly press, white and colored, in monthly periodicals. We need lecturers and organizers of first-class ability, paid first-class wage. Now is the time to pour money into the Anti-Lynching Campaign—now or never.
 
 _________________
-*Citation:* Du Bois, W.E.B. 1923. "Intentions." 24(3):103-107.
+*Citation:* Du Bois, W.E.B. 1923. "Intentions." *The Crisis*. 24(3):103-107.

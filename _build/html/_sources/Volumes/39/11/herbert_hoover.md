@@ -72,6 +72,5 @@ As a manufacturing nation, we need to sell goods all over the earth. We can only
 
 Moreover, we cannot as a nation secure control of industry and politics as long as the rotten boroughs of the South, with political power based on disfranchised black and white labor, make a third party movement impossible. No one in our day has helped disfranchisement and race hatred more than Herbert Hoover by his "Lily-White" policy, his appointments to office, and his failure to recognize or appreciate the plight of the Forgotten Black Man.
 
-
 _________________
-*Citation:* Du Bois, W.E.B. 1932. "Herber Hoover." *The Crisis* 39(11):362-363.
+*Citation:* Du Bois, W.E.B. 1932. "Herbert Hoover." *The Crisis*. 39(11):362-363.

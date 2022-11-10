@@ -22,4 +22,4 @@ When these goods are made, they can be distributed by Negro business, built up l
 To Your Tents, Oh Israel!
 
 ______________
-*Citation:* Du Bois, W.E.B. 1932. "To Your Tents, Oh Israel!" *The Crisis*. 39(3):93-94.
+*Citation:* Du Bois, W.E.B. 1932. "To Your Tents, Oh Israel!." *The Crisis*. 39(3):93-94.

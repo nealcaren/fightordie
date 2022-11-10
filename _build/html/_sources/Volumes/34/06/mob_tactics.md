@@ -20,4 +20,4 @@ The technique of this procedure is, of course, taken from the acts of England an
 The only solution to this kind of problem is not simply to permit but to encourage Negroes to keep and use arms in defense against lynchers and mobs.
 
 _________________
-*Citation:* Du Bois, W.E.B. 1927. "Mob Tactics."  *The Crisis* 34(6):204.
+*Citation:* Du Bois, W.E.B. 1927. "Mob Tactics." *The Crisis*. 34(6):204.

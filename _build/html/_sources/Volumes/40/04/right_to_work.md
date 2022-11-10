@@ -33,7 +33,6 @@ On the other hand, we would be idiots not to recognize the imminence of industri
 
 <p style="text-align: center;">~~~~~~~~~~~~~~~</p>
 
-
 What, then, shall we do? We cannot use the power of a State because we do not form a State. We cannot dictate as a proletariat, because we are a minority, and not as Marxism and Socialism usually assume an overwhelming majority with power in the reach of its outstretched arms.
 
 On the contrary, we are a despised minority, whose social chains are not loosed, and who have the contempt of the white workers, even more than of capitalists and investors. Despite this, we are strong. Our unrealized strength is so enormous that the world wonders at our stupid apathy. We are physically able to survive slavery, lynching, debauchery, mob-rule, cheating and poverty, and yet remain the most prolific, original element in America, with good health and strength. We have brains, energy, and even taste and genius. From our depths of poverty, we have amassed some wealth. Out of charity, our schools, colleges and universities are growing to be real centers of learning, and Negro literature and art has been distilled from our blood and sweat. There is no way of keeping us in continued industrial slavery, unless we continue to enslave ourselves, and remain content to work as servants for white folk and dumb driven laborers for nothing.
@@ -53,4 +52,4 @@ Moreover, our strength in Negro America lies in many respects precisely where th
 Negro American consumer's cooperation will cost us something. It will mean inner subordination and obedience. It will call for inflexible discipline. It will mean years of poverty and sacrifice, but not aimless, rather to one great End. It will invite ridicule, retaliation and discrimination. All this and more. But if we succeed, we have conquered a world. No future revolution can ignore us. No nation, here or elsewhere, can oppress us. No capital can enslave us. We open the gates, not only to our own twelve millions, but to five million West Indians, and eight million black South Americans, and one hundred and fifty million and more Africans. We stretch hands and hands of strength and sinew and understanding to India and China, and all Asia. We become in truth, free.
 
 _________________
-*Citation:* Du Bois, W.E.B. 1933. "The Right to Work." 40(4):93-94.
+*Citation:* Du Bois, W.E.B. 1933. "The Right to Work." *The Crisis*. 40(4):93-94.

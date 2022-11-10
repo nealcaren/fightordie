@@ -45,7 +45,6 @@ To sum up then: <span style="font-variant:small-caps;">The Crisis</span> advises
 
 <span style="font-variant:small-caps;">The Crisis</span> does not for a moment believe that any man has a right to force his company on others in their private lives but it maintains just as strongly that the right of any man to associate privately with those who wish to associate with him and publicly with anybody so long as he conducts himself gently, is the most fundamental right of a Human Being.
 
-
 ______________
 
-*Citation:* Du Bois, W.E.B. 1920. "The Social Equality of Whites and Blacks." *The Crisis*. 21(1):18,20.
+*Citation:* Du Bois, W.E.B. 1920. "The Social Equality of Whites and Blacks." *The Crisis*. 21(1):18, 20.

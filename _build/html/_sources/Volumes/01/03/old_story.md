@@ -22,6 +22,5 @@ Finally, after the whole black race in America had suffered aspersion for severa
 
 Such justice is outrageous and such methods disgraceful. Black folk are willing to shoulder their own sins, but the difference between a vagabond and a murderer is too tremendous to be lightly ignored.
 
-
 ________________
-*Citation:* Du Bois, W.E.B. 1911. "Old Story." *The Crisis*. 1(3):20.
+*Citation:* Du Bois, W.E.B. 1911. "The Old Story." *The Crisis*. 1(3):20.

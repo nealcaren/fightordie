@@ -19,6 +19,5 @@ The boulder is ostensibly erected to the memory of a free Negro who was killed i
 
 The statement that no slave helped and fought with John Brown is historically incorrect and one is glad to remember that nearly two hundred thousand Negroes yielded to the "temptation" to fight against slavery in the Civil War and that most of them were former slaves.
 
-
 _________________
-*Citation:* Du Bois, W.E.B. 1932. "John Brown" 39(1):467.
+*Citation:* Du Bois, W.E.B. 1932. "John Brown." *The Crisis*. 39(1):467.

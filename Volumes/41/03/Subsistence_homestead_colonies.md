@@ -9,7 +9,6 @@ pages:   85
 -->
 # Subsistence Homestead Colonies (1934)
 
-
 ```{margin}
 ![](https://www.nal.usda.gov/exhibits/ipd/small/themes/deco508/images/elmonte.jpg)
 ```
@@ -21,10 +20,7 @@ The difficulty with the modern wage contract is that the contracting parties, th
 
 To attack this difficulty there have been many proposals, like minimum wage laws, the distribution of capital among workers and other socialistic and communistic experiments.
 
-
 But one of the most feasible remedies is to make it possible for the worker to support himself with food and shelter even if temporarily he is out of employment or holding out for higher wage. The one method of accomplishing this is by small homesteads where the worker and his family by extra and healthful outdoor work can raise his own food.
-
-
 
 It is a fine project and deserves all success; but like everything in the United States, it brings up the Negro problem. Such homesteads might be bought anywhere in connection with the present distribution of industry; but it would be cheapest and on the whole most feasible, if they were established in colonies, and this immediately brings up the question: Who shall be selected for these colonies?
 
@@ -35,4 +31,4 @@ It would be fine if people were selected without regard to color, but in the Uni
 So far then as these colonies are voluntary associations or incorporated bodies, the Negro would be given no chance to enter on equal terms with the whites. For the most part in the South he would be deprived of political rights; he would have to have separate social institutions, such as schools and churches, and his economic opportunities in various ways would be curtailed. Under these circumstances, it would be nothing less than idiotic for colored people themselves to refuse to accept or neglect to ask for subsistence homestead colonies of their own. They would have a chance to select the character of people with whom they wanted to live; they would have a chance of making these settlements model settlements of which anybody would be proud, and they would do more in the long run to break down the Color Line than they could by any futile and helpless denunciation of race prejudice. It seems almost impossible that honest, clear-thinking American Negroes can not see this patent fact.
 
 _________________
-*Citation:* Du Bois, W.E.B. 1934. "Subsistence Homestead Colonies." 41(3):85.
+*Citation:* Du Bois, W.E.B. 1934. "Subsistence Homestead Colonies." *The Crisis*. 41(3):85.

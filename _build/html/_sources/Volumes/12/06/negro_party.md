@@ -11,7 +11,6 @@ pages:   267-268
 
 There is for the future one and only one effective political move for colored voters. We have long foreseen it, have sought to avoid it. It is a move of segregation, it "hyphenates" us, it separates us from our fellow Americans; but self-defense knows no nice hesitations. The American Negro must either vote as a unit or continue to be politically emasculated as at present.
 
-
 ```{margin}
 [Robert Reed Church](https://en.wikipedia.org/wiki/Robert_Reed_Church)
 ```

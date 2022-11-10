@@ -32,7 +32,5 @@ For the uplift of the world this is one of the best programs ever laid down by a
 
 This program then is so good in fact that it is most disheartening to find Mr. LaFollette deliberately dodging two tremendous issues—the Ku Klux Klan and the Negro. This is inexcusable. These matters were forced on his attention by this Association and by others. He and his platform are silent. Wherefore we must conclude that Robert LaFollette has no opinion so far as the Secret Mob to Foster Race and Religious Hate is concerned and no convictions as to the rights of Black Folk.
 
-
-
 _________________
-*Citation:* Du Bois, W.E.B. 1924. " La Follette." 28(4):154.
+*Citation:* Du Bois, W.E.B. 1924. "La Follette." *The Crisis*. 28(4):154.

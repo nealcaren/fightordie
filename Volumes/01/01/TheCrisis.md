@@ -22,4 +22,4 @@ Thirdly, it will publish a few short articles.
 Finally, its editorial page will stand for the rights of men, irrespective of color or race, for the highest ideals of American democracy, and for reasonable but earnest and persistent attempt to gain these rights and realize these ideals. The magazine will be the organ of no clique or party and will avoid personal rancor of all sorts. In the absence of proof to the contrary it will assume honesty of purpose on the part of all men, North and South, white and black.
 
 ______________
-*Citation:*  Du Bois, W.E.B. 1910. "The Crisis." *The Crisis*. 1(1):10.
+*Citation:* Du Bois, W.E.B. 1910. "The Crisis." *The Crisis*. 1(1):10.

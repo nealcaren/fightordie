@@ -27,4 +27,4 @@ Yet the world has seen the path preparing for many a day. First there was the ri
 Here then is the problem and the program and already Italy is beginning actual aggression by putting down, with world applause, a "rebellion" in Somaliland.
 
 ____________________
-*Citation:* Du Bois, W.E.B. 1926. "Italy and Abyssinia." *The Crisis*. 32(2):62-63
+*Citation:* Du Bois, W.E.B. 1926. "Italy and Abyssinia." *The Crisis*. 32(2):62-63.

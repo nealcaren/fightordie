@@ -74,6 +74,5 @@ The real fight in Philadelphia and Pennsylvania should be made on the following 
  5. To see to it by scholarships and local efforts that colored pupils are kept in every other normal school of the state
 6. To make the colored teacher feel that no calling is so fine and valuable as his and that the Negro race and the world knows it.
 
-
 ______________
-*Citation:* Du Bois, W.E.B. 1923. "The Tragedy of 'Jim Crow'." *The Crisis*. 26(4):169-172.
+*Citation:* Du Bois, W.E.B. 1923. "The Tragedy of 'Jim Crow.'" *The Crisis*. 26(4):169-172.

@@ -19,7 +19,5 @@ The point that the decent white South must face is: How long is the sheriff's po
 
 What has this elementary matter of simple justice and decency to do with Communism or Methodism or the Integral Calculus? Why dodge and hide behind Russia every time a cowardly Southern mob kills a black man? I believe in Peace. I shudder at Revolution. But when in 1906 the Atlanta mob began killing Negroes wholesale, I went and bought a repeating shot-gun and loaded it with buckshot. I have got it yet.
 
-
-
 _________________
-*Citation:* Du Bois, W.E.B. 1933. "Dodging the Issue." *The Crisis* 40(2):45-46.
+*Citation:* Du Bois, W.E.B. 1933. "Dodging the Issue." *The Crisis*. 40(2):45-46.

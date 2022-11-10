@@ -48,7 +48,6 @@ But as <span style="font-variant:small-caps;">The Crisis</span> has continually 
 | 5,000       | Plumbers.         |
 | 8,000       | Molders.         |
 
-
 All these black men and thousands of others have gotten their jobs and are keeping them by fighting the effort of white labor to keep bread and butter from their mouths. In most of the more highly skilled and better paid branches of labor and industry, the white workers have been successful, and today, no matter what the skill of a colored locomotive engineer might be, or a colored telegrapher, or a chemist, or an engraver, or an electrician, or a business manager, the doors of most industrial organizations are slammed fast in his face, simply and solely on account of his color.
 
 In those semi-skilled and unskilled jobs which he holds, he has gotten them only by scabbing and underbidding the white worker. And where he is a member of a trade union, he is tolerated only to keep him from working for less wages than the whites, and he is subjected to every discrimination within the Union that the Union dare apply. Naturally, there are exceptions to these sweeping general statements, but in the main, they are true.
@@ -75,7 +74,5 @@ If the object of this maneuver was simply to stir up trouble, it succeeded, but 
 
 These incidents illustrate the avowedly opportunist program of the intelligent Negro voter. Keeping his eye upon ideals, and measures which make for the uplift of mankind, and particulary for the establishment of a state ruled by the working classes for the benefit of all the workers, his object is so to use his vote as to accomplish any and all reforms leading toward the great goal, so long as he is able, simultaneously and in the same degree to break down color caste. No matter how fair the promises or programs of parties may be, Negroes will refuse to support them unless they can show an object compatible with the Negro's survival and reasonable power to carry this out. He will tell both Socialists and Communists that their first job is to make the American working classes free from color prejudice. And that until they do this, the Negro refuses to give up his chance to make a living, in order to put bread and butter into the mouths of his enemies.
 
-
-
 _________________
-*Citation:* Du Bois, W.E.B. 1933. "The Strategy of the Negro Voter." *The Crisis* 40(6):140-142.
+*Citation:* Du Bois, W.E.B. 1933. "The Strategy of the Negro Voter." *The Crisis*. 40(6):140-142.

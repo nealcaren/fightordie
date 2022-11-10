@@ -25,6 +25,5 @@ Why not then stop the exceptions? For three reasons: physical, social and moral.
 
 Note these arguments, my brothers and sisters, and watch your State legislatures. This winter will see a determined attempt to insult and degrade us by such non-intermarriage laws. We must kill them, not because we are anxious to marry white men's sisters, but because we are determined that white men shall let our sisters alone.
 
-
 ______________
-*Citation:* Du Bois, W.E.B. 1913. "Intermarriage."  *The Crisis*. 5(4):57.
+*Citation:* Du Bois, W.E.B. 1913. "Intermarriage." *The Crisis*. 5(4):57.

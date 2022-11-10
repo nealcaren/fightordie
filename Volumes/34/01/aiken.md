@@ -16,4 +16,4 @@ What shall we do? The Constitution of the United States guarantees each state "A
 Is it possible that we the people of the United States, 120 millions strong, with a great army of 120,000 men and a navy costing $300,000,000 a year; with 47 million Christians in hundreds of thousands of churches; with millionaire Foundations for Uplift, Art and Charity; with missionaries in China, India and Africa; we who in spotless holiness refuse to recognize Russia and curse the Grand Turk; we who in absolute and impeccable fairness and justice forgive no single foreign debtor a red cent if we can squeeze it from his bankrupt soul; this "Land of the Free and Home of the Brave", that boasts before God its Fundamental Righteousness—is it possible that in Aiken we can do nothing, nothing, NOTHING?
 
 _________________
-*Citation:* Du Bois, W.E.B. 1927. "Aiken." *The Crisis* 34(1):34.
+*Citation:* Du Bois, W.E.B. 1927. "Aiken." *The Crisis*. 34(1):34.

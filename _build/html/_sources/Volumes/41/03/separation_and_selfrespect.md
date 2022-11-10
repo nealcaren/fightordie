@@ -21,4 +21,4 @@ A black man born in Boston has a right to oppose any separation of schools by co
 Let the N.A.A.C.P. and every upstanding Negro pound at the closed gates of opportunity and denounce caste and segregation; but let us not punish our own children under the curious impression that we are punishing our white oppressors. Let us not affront our own self-respect by accepting a proffered equality which is not equality, or submitting to discrimination simply because it does not involve actual and open segregation; and above all, let us not sit down and do nothing for self-defense and self-organization just because we are too stupid or too distrustful of ourselves to take vigorous and decisive action.
 
 _________________
-*Citation:* Du Bois, W.E.B. 1934. "Separation and Self-Respect." 41(3):85.
+*Citation:* Du Bois, W.E.B. 1934. "Separation and Self-Respect." *The Crisis*. 41(3):85.

@@ -24,6 +24,5 @@ As it is the Pullman Company, relying on indifferent public opinion, can buy dir
 
 Well, perhaps it is better to lose this job. Perhaps we have served as porters long enough. We were good slaves; but we outgrew the job. We were good cheap servants; we are outgrowing that job. We are good porters. But if being porters means being driven slaves and alms-taking servants, then God haste the day when we outgrow that job.
 
-
 ________________
-*Citation:* Du Bois, W.E.B. 1926. "Again, Pullman Porter."  31(6):271.
+*Citation:* Du Bois, W.E.B. 1926. "Again, Pullman Porters." *The Crisis*. 31(6):271.

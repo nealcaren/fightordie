@@ -57,6 +57,5 @@ This does not involve in the slightest degree any attempt needlessly and ignoran
 
 This is the deep and unanswerable demand for a Pan-African movement. Who will respond?
 
-
 _____________
 *Citation:* Du Bois, W.E.B. 1930. "Patient Asses." *The Crisis*. 37(3):100-101.

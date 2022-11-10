@@ -27,6 +27,5 @@ It was this argument that brought down the *Atlantic Monthly* and the *New York 
 
 There remains scarcely a respectable periodical in the United States that refuses to capitalize Negro. In fact, the Government Printing Office in Washington and the *Forum* magazine stand almost alone.
 
-
 ______________
 *Citation:* Du Bois, W.E.B. 1930. "The Capital N." *The Crisis*. 37(5):172.

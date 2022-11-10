@@ -55,6 +55,5 @@ The success of the experiment is unquestioned. The audiences were enthusiastic a
 
 A second K. P. L. N. T. is being organized in Washington, D. C., and it is hoped the movement will spread widely.
 
-
 ________________
-*Citation:* Du Bois, W.E.B. 1926. "Krigwa Players Little Negro Theatre: The Story of a Little Theatre Movement"  32(3):134-136.
+*Citation:* Du Bois, W.E.B. 1926. "'Krigwa Players Little Negro Theatre.'" *The Crisis*. 32(3):134-136.

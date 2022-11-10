@@ -36,4 +36,4 @@ The collapse of the Stock Market was not only loss of capital taken from legitim
 The end is not yet. The President may repudiate all his individualism and deny the *laissez-faire* of private enterprise by hurriedly summoning the captains of industry and pleading with them for that co-operation, scientific foresight and submergence of the profit motive which only an efficient State can supply in fullest measure. The fundamental weakness of our system still remains. We are gambling with loaded dice. If gamble we must, we would far better confine ourselves to craps.
 
 _________________
-*Citation:* Du Bois, W.E.B. 1930. "Gambling" *The Crisis*. 37(1):29-30
+*Citation:* Du Bois, W.E.B. 1930. "Gambling." *The Crisis*. 37(1):29-30.

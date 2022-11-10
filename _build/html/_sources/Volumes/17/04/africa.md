@@ -24,4 +24,4 @@ This was the state of affairs when the war broke out in 1914. In Africa the only
 
 —-----------  
 
-*Citation:* Du Bois, W.E.B. 1919. "Africa" *The Crisis*. 17(4):164-165.
+*Citation:* Du Bois, W.E.B. 1919. "Africa." *The Crisis*. 17(4):164-165.

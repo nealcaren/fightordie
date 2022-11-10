@@ -27,6 +27,5 @@ Here, then, we face the curious paradox and we remember contradictory facts. Unl
 
 Here is a dilemma calling for thought and forbearance. Not every builder of racial co-operation and solidarity is a "Jim-Crow" advocate, a hater of white folk. Not every Negro who fights prejudice and segregation is ashamed of his race.
 
-
 ______________
 *Citation:* Du Bois, W.E.B. 1919. "Jim Crow." *The Crisis*. 17(3):112-13.

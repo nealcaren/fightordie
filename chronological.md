@@ -122,6 +122,7 @@
 |   1922 |       24 |       1 | [Publicity](https://www.dareyoufight.org/Volumes/24/01/publicity.html)                                                           |
 |   1922 |       24 |       2 | [White Charity](https://www.dareyoufight.org/Volumes/24/02/whitecharity.html)                                                    |
 |   1923 |       24 |       3 | [Intentions](https://www.dareyoufight.org/Volumes/24/03/intentions.html)                                                         |
+|   1923 |       26 |       2 | [A University Course in Lynching](https://www.dareyoufight.org/Volumes/26/02/university_course_in_lynching.html)                 |
 |   1923 |       26 |       2 | [On Being Crazy](https://www.dareyoufight.org/Volumes/26/02/on_being_crazy.html)                                                 |
 |   1923 |       26 |       4 | [The Tragedy of 'Jim Crow'](https://www.dareyoufight.org/Volumes/26/04/tradgedy_of_jim_crow.html)                                |
 |   1924 |       27 |       3 | [The Black Man and the Wounded World](https://www.dareyoufight.org/Volumes/27/03/black_man_and_the_wounded_world.html)           |
@@ -227,6 +228,5 @@
 |   1934 |       41 |       5 | [Violence](https://www.dareyoufight.org/Volumes/41/05/violence.html)                                                             |
 |   1934 |       41 |       6 | [Counsels of Despair](https://www.dareyoufight.org/Volumes/41/06/counsels_of_despair.html)                                       |
 |   1934 |       41 |       8 | [Dr. DuBois Resigns](https://www.dareyoufight.org/Volumes/41/08/dr_dubois_resigns.html)                                          |
-|    nan |      nan |     nan | [nan](https://www.dareyoufight.org/Volumes/26/02/university_course_in_lynching.html)                                             |
 |    nan |      nan |     nan | [nan](https://www.dareyoufight.org/Volumes/40/06/strategy_of_the_negro_voter.html)                                               |
 |    nan |      nan |     nan | [nan](https://www.dareyoufight.org/Volumes/40/07/our_class_struggle.html)                                                        |

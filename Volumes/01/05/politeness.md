@@ -17,7 +17,5 @@ So, too, black men are often rudely and impudently impolite, truculent even towa
 
 All this is wrong. No black man can afford to be less than studiously polite even in the face of possible insult. And the white man, North or South, whose courtesy does not extend to the weak, the helpless and the black, is not a gentleman, no matter whose grandson he may be.
 
-
-
 _________________
-*Citation:* Du Bois, W.E.B. 1911. "Politeness."  *The Crisis*. 1(5):21.
+*Citation:* Du Bois, W.E.B. 1911. "Politeness." *The Crisis*. 1(5):21.

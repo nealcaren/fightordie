@@ -9,7 +9,6 @@ pages:   268
 -->
 # Houston and East St. Louis (1918)
 
-
 | HOUSTON                                                                              | EAST ST. LOUIS                                |
 |--------------------------------------------------------------------------------------|-----------------------------------------------|
 | 17 WHITE persons killed.                                                             | 125 NEGROES killed.                           |
@@ -20,7 +19,6 @@ pages:   268
 | 40 COLORED soldiers on trial for life.                                               | 18 WHITE men fined.                           |
 | *White policeman who caused the riot not even indicted.*                             | One COLORED man still on trial for life.      |
 | No *white* army officers tried. (Military law.)                                      | 17 WHITE men acquitted. (Civil law.)          |
-
 
 ![](../../../Images/park_sign.png)
 

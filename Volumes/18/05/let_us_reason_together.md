@@ -28,7 +28,5 @@ If the United States is to be a Land of Law, we would live humbly and peaceably 
 > *"For the ashes of his fathers*  
 > *"And the temples of his gods?"*
 
-
-
 ______________
 *Citation:* Du Bois, W.E.B. 1919. "Let us Reason Together." *The Crisis*. 18(5):231.

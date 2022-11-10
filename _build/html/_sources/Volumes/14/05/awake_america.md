@@ -24,6 +24,5 @@ Awake! Put on they strength, America—put on thy beautiful robes. Become not a 
 
 In five wars and now the sixth we black men have fought for your freedom and honor. Wherever the American flag floats today, black hands have helped to plant it. American Religion, American Industry, American Literature, American Music and American Art are as much the gift of the American Negro as of the American white man. This is as much our country as yours, and as much the world's as ours. We Americans, black and white, are the servants of all mankind and ministering to a greater, fairer heaven. Let us be true to our mission. No land that loves to lynch "n******" can lead the hosts of Almighty God.
 
-
 ____________________
-*Citation:* Du Bois, W.E.B. 1917. "Awake America." *The Crisis*. 14(5):216-217
+*Citation:* Du Bois, W.E.B. 1917. "Awake America." *The Crisis*. 14(5):216-217.

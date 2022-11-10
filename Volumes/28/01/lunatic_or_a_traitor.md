@@ -48,6 +48,5 @@ Friends have even begged me not to publish this editorial lest I be assassinated
 
 The American Negroes have endured this wretch all too long with fine restraint and every effort at cooperation and understanding. But the end has come. Every man who apologizes for or defends Marcus Garvey from this day forth writes himself down as unworthy of the countenance of decent Americans. As for Garvey himself, this open ally of the Ku Klux Klan should be locked up or sent home.
 
-
 _________________
-*Citation:* Du Bois, W.E.B. 1924. " A Lunatic or a Traitor." 28(1):8-9.
+*Citation:* Du Bois, W.E.B. 1924. "A Lunatic or a Traitor." *The Crisis*. 28(1):8-9.

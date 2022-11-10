@@ -29,6 +29,5 @@ Charleston is a city noted for the efficiency of its colored seamstresses. Yet, 
 
 It is lynching, forced labor, and discrimination that is sending the Negro North. When he comes North he may find mobs and hostile labor unions, but he will also find the law and the law will be enforced.
 
-
 ______________
-*Citation:* Du Bois, W.E.B. 1917. "Memphis or East St. Louis?" *The Crisis*. 14(3):113-114.
+*Citation:* Du Bois, W.E.B. 1917. "Memphis or East St. Louis?." *The Crisis*. 14(3):113-114.

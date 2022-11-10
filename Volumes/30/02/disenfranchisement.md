@@ -9,7 +9,6 @@ pages:   62-63
 -->
 # Disenfranchisement (1925)
 
-
 How is the Negro disenfranchised? The process is so complicated that few Negroes themselves know definitely. Beginning with 1890 laws have been passed in various Southern states which today disfranchise approximately four million Negroes 21 years of age and over, over half of whom can read and write and who own property which runs into the hundreds of millions. The restrictions by which these have been accomplished are eight in number:
 1. Illiteracy: The voter must be able to read and write.
 2. Property: The voter must own a certain amount of property.
@@ -41,4 +40,4 @@ But all this amounts to nothing as compared with the effect of the White Primary
 In addition to the power of disfranchisement thus held by the White Primary there is social and economic pressure. Colored men are continually told to keep out of politics or lose their jobs and it has become a point of honor with many Negroes of education and character not to vote nor even to attempt to vote. It is in this way that democratic government is made of no account in a large portion of the United States and it is against this that the N.A.A.C.P. is fighting in its latest judicial case against the White Primary of Texas.
 
 _________________
-*Citation:* Du Bois, W.E.B. 1925. "Disenfranchisement." *The Crisis*  30(2):62-63.
+*Citation:* Du Bois, W.E.B. 1925. "Disenfranchisement." *The Crisis*. 30(2):62-63.

@@ -19,6 +19,5 @@ The proprietor came to the man as he sat at the table, and after a few words, th
 
 "That was too bad, wasn't it," one said to the other, "and right here in our own city. Perhaps the poor fellow really needed a meal," and they went on placidly enjoying their own.
 
-
 _________________
-*Citation:* Du Bois, W.E.B. 1910. "Precept and Practice."  *The Crisis*. 1(2):27.
+*Citation:* Du Bois, W.E.B. 1910. "Precept and Practice." *The Crisis*. 1(2):27.

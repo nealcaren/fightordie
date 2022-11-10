@@ -29,6 +29,5 @@ Can you wonder, Sirs, that we are a bit puzzled by all this and that we are aski
 
 Here is the choice. Which will you have, my masters?
 
-
 ______________
 *Citation:* Du Bois, W.E.B. 1920. "Race Pride." *The Crisis*. 19(3):107.

@@ -24,6 +24,5 @@ stricken and cowering refugees.
 
 Are we going to be misled fools, or are we going to put a quarter of a million level-headed, determined and unwavering black men and women back of the N.A.A.C.P. to continue the battle so nobly and successfully be­ gun? Answer, black folk of America, this month!
 
-
 ______________
 *Citation:* Du Bois, W.E.B. 1922. "The Drive." *The Crisis*. 22(1):8.

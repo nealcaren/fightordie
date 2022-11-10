@@ -13,6 +13,5 @@ In this presidential campaign <span style="font-variant:small-caps;">The Crisis<
 
 On the other hand, we repeat advice which we have given many times before: it is of the utmost importance that Negro voters register and vote for Congressmen who are the friends of Industrial Democracy and who do not believe in the color bar. A Congress filled with men of this sort will do much to curb the Bourbon South led by Al Smith, or entrenched plutocracy represented by Herbert Hoover.
 
-
 _________________
-*Citation:* Du Bois, W.E.B. 1928. "On the Fence." *The Crisis*  35(11):381.
+*Citation:* Du Bois, W.E.B. 1928. "On the Fence." *The Crisis*. 35(11):381.

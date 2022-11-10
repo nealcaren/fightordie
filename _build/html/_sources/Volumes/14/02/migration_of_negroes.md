@@ -21,7 +21,6 @@ As to the reasons of the migration, undoubtedly, the immediate cause was economi
 
 ![](../../../Images/nm_1.jpg)    
 
-
 A second economic cause was the cutting off of immigration from Europe to the North and the consequently wide-spread demand for common labor. The U.S. Dpartment of Labor writes:
 
  > "A representative of this department has made an investigation in regard thereto, but a report has not been printed for general distribution. It may be stated, however, that most of the help imported from the South has been employed by railroad companies, packing houses, foundries, factories, automobile plants, in the northern States as far west as Nebraska. At the present time the U. S. Employment Service is not co-operating in the direction of Negro help to the north."
@@ -86,7 +85,6 @@ The character of the people who are going varies, of course, but as the Birmingh
 How great this migration will eventually prove depends upon a number of things. The entrance of the United States into the war will undoubtedly have some effect. When the war ends it is doubtful if the labor shortage in Europe will allow a very large migration to the United States for a generation or more. This will mean increased demand for colored laborers in the North. A writer in the New York *Evening Globe* predicts that 1917 will see 400,000 of the better class of Negro workers come to the North.
 
 At any rate, we face here a social change among American Negroes of great moment, and one which needs to be watched with intelligent interest.
-
 
 ______________
 *Citation:* Du Bois, W.E.B. 1917. "The Migration of Negroes." *The Crisis*. 14(3):63-66.

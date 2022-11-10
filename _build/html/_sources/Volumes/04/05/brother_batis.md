@@ -26,7 +26,5 @@ An' he climps hit heavy on bofe us two.
 Case de tears er de mudder, nur de sign er de cross,      
 Ain't shame all de debbil yit, outen de Boss!      
 
-
-
 _________________
 *Citation:* Jonas, Rosalie. 1912. "Brother Baptis' on Woman Suffrage." *The Crisis*. 4(5):247.

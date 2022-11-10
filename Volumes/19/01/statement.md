@@ -16,6 +16,5 @@ can for a minute advise any group to use the torch or the gun to right the wrong
 
 But we must fight and we are going to fight in every legitimate and lawful way until our problem is entirely settled. To do this we need greater organization, energy, funds and courage than ever before. The call is to you to rally to the support of the National Association for the Advancement of Colored People and help in the fight to make America safe for the colored man.
 
-
 ______________
 *Citation:* Du Bois, W.E.B. 1919. "A Statement." *The Crisis*. 19(1):335.

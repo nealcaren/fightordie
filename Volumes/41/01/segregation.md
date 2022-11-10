@@ -9,7 +9,6 @@ pages:   20
 -->
 # Segregation (1934)
 
-
 The thinking colored people of the United States must stop being stampeded by the word segregation. The opposition to racial segregation is not or should not be any distaste or unwillingness of colored people to work with each other, to cooperate with each other, to live with each other. The opposition to segregation is an opposition to discrimination. The experience in the United States has been that usually when there is racial segregation, there is also racial discrimination.
 
 But the two things do not necessarily go together, and there should never be an opposition to segregation pure and simple unless that segregation does involve. discrimination. Not only is there no objection to colored people living beside colored people if the surroundings and treatment involve no discrimination, if streets are well lighted, if there is water, sewerage and police protection, and if anybody of any color who wishes, can live in that neighborhood. The same way in schools, there is no objection to schools attended by colored pupils and taught by colored teachers. On the contrary, colored pupils can by our own contention be as fine human beings as any other-sort of children, and we certainly know that there are no teachers better than trained colored teachers. But if the existence of such a school is made reason and cause for giving it worse housing, poorer facilities, poorer equipment and poorer teachers, then we do object, and the objection is not against the color of the pupils' or teachers' skins, but against the discrimination.
@@ -22,4 +21,4 @@ Doubtless, and in the long run, the greatest human development is going to take 
 
 It is the class-conscious working man uniting together who will eventually emancipate labor throughout the world. It is the race-conscious black man cooperating together in his own institutions and movements who will eventually emancipate the colored race, and the great step ahead today is for the American Negro to accomplish his economic emancipation through voluntary determined cooperative effort.
 _________________
-*Citation:* Du Bois, W.E.B. 1934. "Segregation." *The Crisis* 41(1):20.
+*Citation:* Du Bois, W.E.B. 1934. "Segregation." *The Crisis*. 41(1):20.

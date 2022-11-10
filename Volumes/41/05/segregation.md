@@ -22,4 +22,4 @@ This is Segregation. It is Segregation by the United States Government. These ho
 I say again, if this is compromise; if this is giving up what I have advocated for many years; the change, the reversal, bothers me not at all. But Negro poverty and idleness, and distress, they bother me, and always will.
 
 _________________
-*Citation:* Du Bois, W.E.B. 1934. "Segregation." *The Crisis*  41(5):147.
+*Citation:* Du Bois, W.E.B. 1934. "Segregation." *The Crisis*. 41(5):147.

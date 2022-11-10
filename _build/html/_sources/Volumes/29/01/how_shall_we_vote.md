@@ -17,4 +17,4 @@ I shall vote for La Follette and Wheeler, unusually honest and straight-forward 
 *W. E. B. DuBois.*
 
 _________________
-*Citation:* Du Bois, W.E.B. 1924. "How Shall We Vote." 291(1):13.
+*Citation:* Du Bois, W.E.B. 1924. "How Shall We Vote." *The Crisis*. 291(1):13.

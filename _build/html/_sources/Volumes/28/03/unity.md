@@ -9,7 +9,6 @@ pages:   103-104
 -->
 # Unity (1924)
 
-
 Within the Negro race we are continually scoring ourselves for lack of unity and we are holding up other races and other groups as splendid examples of perfect agreement. We forget in this criticism one thing: the basis of all advance and development is Diversity; the characteristic of stagnation and death is Unity. Any attempt in a growing organism to make all of its factors act alike, is simply and definitely to stop growth.
 
 On the other hand, without doubt, diversity, difference, the struggle of ideas and ideals means lost motion and personal bickering; but some minimum of this is absolutely essential in the present situation of the Negro race. There must be among both white people and colored, grave and deep differences of opinion as to method and end with regard to black folk in America.
@@ -26,6 +25,5 @@ This call echoes William Lloyd Garrison's line from the first issue of the [Libe
 ```
 Come and hear the story of the development of democracy in the United States and the way in which a handful of men united in 1909, have become a mighty host in 1924 and are unswervingly determined to go forward to the great ideal of American democracy despite color, sex and race; an association which "will not equivocate, will not excuse and will be heard."
 
-
 _________________
-*Citation:* Du Bois, W.E.B. 1924. "Unity." 28(3):103-104.
+*Citation:* Du Bois, W.E.B. 1924. "Unity." *The Crisis*. 28(3):103-104.

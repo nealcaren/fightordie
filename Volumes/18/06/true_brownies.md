@@ -40,6 +40,5 @@ This is a great program—a tremendous task. We want the advice of all mothers a
 
 Write us in care of *The Brownies' Book*, 2 West Thirteenth Street, New York City, and—incidentally—send a One Dollar subscription for a year.
 
-
 ________________
-*Citation:* Du Bois, W.E.B. 1919. "The True Brownies." 18(6):285-286.
+*Citation:* Du Bois, W.E.B. 1919. "The True Brownies." *The Crisis*. 18(6):285-286.

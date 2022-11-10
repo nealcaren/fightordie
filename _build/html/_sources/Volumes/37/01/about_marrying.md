@@ -49,6 +49,5 @@ I know of no book which treats this matter sanely to any extent. Haldeman-Julius
 
 And now, Reader—white, black, green or yellow, what do you say in answer to this letter? Answer and we will publish a few of the letters.
 
-
 ______________
 *Citation:* Du Bois, W.E.B. 1930. "About Marrying." *The Crisis*. 37(1):28-29.

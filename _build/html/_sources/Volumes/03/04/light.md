@@ -25,6 +25,5 @@ In 1931, Du Bois was [highly critical](http://www.dareyoufight.org/Volumes/38/03
 
 Of course, the scientific result will be small. For many years these young students will record not the observed facts, but their preconceived prejudices. This is inevitable with persons who start despising and not revering human souls simply because of their humanity. Gradually, however, truth will triumph.	Gradually it will not be possible to assert unchallenged in the University of Geor­gia that "[****] are lazy." It will be explained by some perverse per­son that this laziness has somehow accumulated a thousand millions in fifty years—although, of course, those who did this are "exceptions." In time this center of learning will cease to talk of "the" Negro and begin to talk of men—some rich, some poor; some good, some bad; some undeveloped "children" and some children of the Kingdom of God.
 
-
 ______________
 *Citation:* Du Bois, W.E.B. 1912. "Light." *The Crisis*. 3(4):152-153.

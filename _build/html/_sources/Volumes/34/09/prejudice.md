@@ -23,6 +23,5 @@ What Mrs. Pecu and others must learn is that this is the natural fruit of race p
 
 The Editor of a magazine like <span style="font-variant:small-caps;">The Crisis</span> should nevertheless try to achieve such an attitude. He does try. If he fails, do not lay the fault entirely at his door. Lay it to the last lynching, or to the last time he was insulted in the theater, or to the last time he went hungry because all available hotels and restaurants were closed against him. It is all a mess, he admits and that is precisely what <span style="font-variant:small-caps;">The Crisis</span> has been trying to say for many years.
 
-
 _________________
-*Citation:* Du Bois, W.E.B. 1927. "Prejudice."  *The Crisis* 34(9):311.
+*Citation:* Du Bois, W.E.B. 1927. "Prejudice." *The Crisis*. 34(9):311.

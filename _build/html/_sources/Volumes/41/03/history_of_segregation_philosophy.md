@@ -40,6 +40,5 @@ Which of these two methods was best will be a matter of debate. There are those 
 
 No matter which solution seems to you wisest, segregation was compulsory, and the only answer to it was internal self-organization; and the answer that was inevitable in 1787, is just an inevitable in 1934.
 
-
 _________________
-*Citation:* Du Bois, W.E.B. 1934. "History of Segregation Philosophy." 41(3):85-86.
+*Citation:* Du Bois, W.E.B. 1934. "History of Segregation Philosophy." *The Crisis*. 41(3):85-86.

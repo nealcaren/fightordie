@@ -18,4 +18,4 @@ Is it in the West Indies? Again, no. In the West Indies we have an overwhelming 
 The real fighting line for the Negro, then, is in the United States. Here he faces his foe. Here he can use unmolested the modern weapons of writing, talking and voting. He can make the world listen because he is right in the world. With his millions of votes no presidential candidate, few congressmen and fewer senators dare altogether to ignore his demands. They may play upon his ignorance and prejudices but as he becomes intelligent, sincere and clear-headed his phalanx marches forward. America, then, is today the firing line of the Negro.
 
 ________________
-*Citation:* Du Bois, W.E.B. 1925. "The Firing Line."  31(2):62.
+*Citation:* Du Bois, W.E.B. 1925. "The Firing Line." *The Crisis*. 31(2):62.

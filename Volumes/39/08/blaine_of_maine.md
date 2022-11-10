@@ -33,6 +33,5 @@ This is the kind of book that Russell has written. It is not a volume of hero wo
 
 This is a big book of nearly 450 pages, but for those who want to escape from the morass of propaganda which has been deliberately trying for fifty years to lie about slavery and the Civil War, it is the kind of book to be bought and read and handed along.
 
-
 _________________
-*Citation:* Du Bois, W.E.B. 1932. "Blaine of Maine." 39(8):267.
+*Citation:* Du Bois, W.E.B. 1932. "Blaine of Maine." *The Crisis*. 39(8):267.

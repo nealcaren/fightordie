@@ -9,7 +9,6 @@ pages:   52-53
 -->
 # The N.A.A.C.P. and Race Segregation (1934)
 
-
 ```{margin}
 This editorial was preceded by a short note called "A Free Forum" where Du Bois writes, "this year we are going to discuss Segregation and seek not dogma but enlightenment. For this purpose, we are earnestly asking not only that our readers read carefully what is going to be said, but also that they contribute their thoughts and experiences for the enlightenment of other readers."
 
@@ -56,4 +55,4 @@ The "Jim Crow" galleries of Southern moving picture houses are filled with some 
 
 Such are the flat and undeniable facts. What are we going to do about them? We can neither yell them down nor make them disappear by resolutions. We must think and act. It is this problem which THE Crisis dgsires to discuss during the present year in all its phases and with ample and fair representation to all shades of opinion.
 _________________
-*Citation:* Du Bois, W.E.B. 1934. "The N.A.A.C.P. and Race Segregation." 41(2):52-53.
+*Citation:* Du Bois, W.E.B. 1934. "The N.A.A.C.P. and Race Segregation." *The Crisis*. 41(2):52-53.

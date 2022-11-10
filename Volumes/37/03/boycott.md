@@ -25,6 +25,5 @@ The replies of the merchants were taken down and published by the *Whip*. The *W
 
 This is but the beginning. Public accommodations, like telephones and street cars, should be attacked. Meter readers for electric light and gas companies should be demanded. Large manufacturers should be confronted with the facts. All this propaganda must have back of it the organized determination of large numbers of colored people to withdraw their patronage from recalcitrant merchants, unless they yield.
 
-
 ______________
-*Citation:* Du Bois, W.E.B. 1930. "The boycott." *The Crisis*. 37(3):102.
+*Citation:* Du Bois, W.E.B. 1930. "The Boycott." *The Crisis*. 37(3):102.

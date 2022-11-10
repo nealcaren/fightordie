@@ -17,6 +17,5 @@ The same is true of the Social Body. Agitation is a necessary evil to tell of th
 
 The function of this Association is to tell this nation the crying evil of race prejudice. It is a hard duty but a necessary one—a divine one. It is Pain; Pain is not good but Pain is necessary. Pain does not aggravate disease — Disease causes Pain. Agitation does not mean Aggravation—Aggravation calls for Agitation in order that Remedy may be found.
 
-
 ______________
-*Citation:* Dubois, W.E.B. 1910. "Agitation." *The Crisis*. 1(1):11.
+*Citation:* Du Bois, W.E.B. 1910. "Agitation." *The Crisis*. 1(1):11.

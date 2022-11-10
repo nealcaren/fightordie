@@ -44,7 +44,5 @@ These are the pictures of each other which white people have painted for us and 
 
 It is a large and intricate problem but the sooner we put ourselves in position to study it with a vast and increasing area of fact and with carefully guided and momentarily tested effort, the sooner we shall find ourselves citizens of the world and not its slaves and pensioners.
 
-
-
 _________________
-*Citation:* Du Bois, W.E.B. 1933. "Our Class Struggle." *The Crisis* 40(10):247, 262.
+*Citation:* Du Bois, W.E.B. 1933. "Pan-Africa and New Racial Philosophy." *The Crisis*. 40(10):247, 262.

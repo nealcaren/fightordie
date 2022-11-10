@@ -23,7 +23,5 @@ What a reproach it is to a government which owes its very existence to the loved
 
 But why grant women the suffrage when the majority do not want it, the remonstrants sometimes ask with innocent engaging seriousness. Simply because there are many people, men as well as women, who are so constructed as to be unable to ascertain by any process of reason what is the best thing for them to have or to do. Until the path is blazed by the pioneer, even some people who have superior intellects and moral courage dare not forge ahead. On the same principle and for just exactly the same reason that American women would reject suffrage, Chinese women, if they dared to express any opinion at all, would object to having the feet of their baby girls removed from the bandages which stunt their growth. East Indian women would scorn the proferred freedom of their American sisters as unnatural and vulgar and would die rather than have their harems abolished. Slaves sometimes prefer to bear the ills of bondage rather than accept the blessings of freedom, because their poor beclouded brains have been stunted and dwarfed by oppression so long that they cannot comprehend what liberty means and have no desire to enjoy it.
 
-
-
 _________________
 *Citation:* Terrell, Mary Church. 1912. "The Justice of Woman Suffrage." *The Crisis*. 4(5):243-245.

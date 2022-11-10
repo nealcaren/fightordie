@@ -23,6 +23,5 @@ If individuals must be called upon to support the government, as they certainly 
 
 These are all simple fundamental facts. Progress, to be sure, has been made in the last few years in making these facts known. It is not too much to say that economic reform has succeeded in so far and only in so far as it was based upon the revelation of such facts. There was a time when a man's income was considered an absolutely private matter. Today it is at least partially public through the working of the income tax. Tomorrow it will be absolutely public. Today it is only with great difficulty that we can surmise the ownership of anonymous corporations. Tomorrow we will allow no corporation to exist whose ownership and control is not always a matter of accessible public record. Today a man's occupation is considered his own business. Tomorrow it will be the business and the prime business of each one of his neighbors.
 
-
 ______________
 *Citation:* Du Bois, W.E.B. 1922. "Publicity." *The Crisis*. 24(1):9-10.
