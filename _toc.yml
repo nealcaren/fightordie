@@ -38,6 +38,7 @@ chapters:
   - file: Volumes/10/01/clansman.md
   - file: Volumes/12/05/conduct_not_color.md
   - file: Volumes/19/01/social_equality.md
+  - file: Volumes/21/01/social_equality_of_blacks_and_whites.md
   - file: Volumes/24/01/slavery.md
   - file: Volumes/31/04/newer_south.md
   - file: Volumes/34/02/higher_friction.md
@@ -140,6 +141,7 @@ chapters:
     - file: Volumes/09/03/agility.md
     - file: Volumes/15/01/votes_for_women.md
     - file: Volumes/20/01/get_ready.md
+    - file: Volumes/21/01/suffrage.md
   - file: Sections/voting
     sections:
     - file: Volumes/04/04/politics.md
@@ -175,6 +177,7 @@ chapters:
     - file: Volumes/40/12/af_of_l.md
   - file: Sections/socialism
     sections:
+    - file: Volumes/18/05/forward.md
     - file: Volumes/19/04/cooperation.md
     - file: Volumes/22/03/negro_and_radical_thought.md
     - file: Volumes/22/04/class_struggle.md
