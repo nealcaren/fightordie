@@ -1,3 +1,12 @@
+<!--
+title:   Woman Suffrage
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1915
+volume:  9
+issue:   6
+pages:   57
+-->
 # Woman Suffrage (1915)
 
 ```{margin}

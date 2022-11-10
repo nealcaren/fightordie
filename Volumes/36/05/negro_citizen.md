@@ -1,3 +1,12 @@
+<!--
+title:   The Negro Citizen
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1929
+volume:  36
+issue:   5
+pages:   156-157, 171-173
+-->
 # The Negro Citizen (1929)
 
 *This article was read before the National Inter-racial Conference at Washington, D. C., December 19, 1928. It is published here entire, with only verbal changes.*

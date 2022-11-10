@@ -1,3 +1,12 @@
+<!--
+title:   The Church and Religion
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1933
+volume:  40
+issue:   10
+pages:   236-237
+-->
 # The Church and Religion (1933)
 
 Critics of religion and of the church must distinguish rather carefully between the two. Religion is a theory of the ultimate constitution of the world, more particularly in its moral aspects, and as applied to questions of individual right and wrong. The church, on the other hand, is the organization which writes down and from time to time rewrites the exact religious belief which is prevalent and which carries out celebrations and methods of worship, particularly collects and spends money for its own organization and for certain religious and ethical objects.

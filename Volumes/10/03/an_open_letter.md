@@ -1,3 +1,12 @@
+<!--
+title:   An Open Letter
+author:  Storey, Moorfield
+journal: The Crisis
+year:    1915
+volume:  10
+issue:   2
+pages:   132-133, 136
+-->
 # An Open Letter (1915)
 
 To the People of the United States:

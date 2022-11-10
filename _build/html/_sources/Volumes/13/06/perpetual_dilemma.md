@@ -1,3 +1,12 @@
+<!--
+title:   The Perpetual Dilemma
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1917
+volume:  13
+issue:   6
+pages:   270-271
+-->
 # The Perpetual Dilemma (1917)
 
 We Negroes ever face it.

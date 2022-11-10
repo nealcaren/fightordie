@@ -1,3 +1,12 @@
+<!--
+title:   Again, Pullman Porters
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1926
+volume:  31
+issue:   6
+pages:   271
+-->
 # Again, Pullman Porters (1926)
 
 As a class Pullman porters are gentlemen in the best sense of that overworked word. They are courteous, silent and of infinite patience. Nowhere in the traveling world can one find a set of public servants who do their work so thoroughly and so well.

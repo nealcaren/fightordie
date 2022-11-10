@@ -1,3 +1,12 @@
+<!--
+title:   The Non-Partisan Conference
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1932
+volume:  39
+issue:   2
+pages:   58-59
+-->
 # The Non-Partisan Conference (1932)
 
 There was held in December in Washington a "Non-Partisan Negro Conference" called by Congressman Oscar De Priest. It brought together speakers of all sorts and kinds, and speeches good, bad and indifferent. The general spirit, however, seemed excellent and the independence of thought, knowledge of subjects discussed and general morale were commendable.

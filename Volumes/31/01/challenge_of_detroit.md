@@ -1,3 +1,12 @@
+<!--
+title:   The Challenge of Detroit
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1925
+volume:  31
+issue:   1
+pages:   7-10
+-->
 # The Challenge of Detroit (1925)
 
 In Detroit, Michigan, a black man has shot into a mob which was threatening him, his family, his friends and his home in order to make him move out of the neighborhood. He killed one man and wounded another.
@@ -47,4 +56,4 @@ A little later another physician in Detroit bought another beautiful home and mo
 Gentle Reader, which of these three examples shall my friend of Harlem follow? Which would you follow if you were "free", black and 21?
 
 _
-*Citation:* Du Bois, W.E.B. 1925. "The Black Man and Labor."  31(1):7-10.
+*Citation:* Du Bois, W.E.B. 1925. "The Challenge of Detroit."  31(1):7-10.

@@ -1,4 +1,13 @@
-# The Tragedy of "Jim Crow" (1923)
+<!--
+title:   The Tragedy of 'Jim Crow'
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1923
+volume:  26
+issue:   4
+pages:   169-172
+-->
+# The Tragedy of 'Jim Crow' (1923)
 
 There is developing within the Negro race a situation bordering on tragedy in regard to the "Jim Crow" movement now growing and spreading in the North. The tragedy has been with us before but it has been more or less dormant and unspoken. To-day it is flaring to red flame and we must sit down and reason together.
 

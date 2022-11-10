@@ -1,3 +1,12 @@
+<!--
+title:   The Firing Line
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1925
+volume:  31
+issue:   2
+pages:   62
+-->
 # The Firing Line (1925)
 
 In the fight for human rights across the color bar where is the firing line? In the United States, in the West Indies, or in Africa?

@@ -1,3 +1,12 @@
+<!--
+title:   White Co-Workers
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1920
+volume:  20
+issue:   1
+pages:   6-8
+-->
 # White Co-Workers (1920)
 
 There is one charge against the N.A.A.C.P. which is made, now openly and now by veiled innuendo, which it is necessary to answer plainly. It is said that this Association is not a Negro association, but is conducted by white people and that, therefore, it cannot effectively serve the cause of Negro freedom. The veiled assumption is that the efforts of the Negroes in the Association are controlled and largely nullified by whites.

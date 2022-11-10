@@ -1,3 +1,12 @@
+<!--
+title:   Dodging the Issue
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1933
+volume:  40
+issue:   2
+pages:   45-46
+-->
 # Dodging the Issue (1933)
 
 The  only comment which the Atlanta Commission on Interracial Cooperation has on the tragedy of the share-croppers of Alabama is a quotation from a Negro newspaper against "militant resistance" :

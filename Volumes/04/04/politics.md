@@ -1,3 +1,12 @@
+<!--
+title:   Politics
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1912
+volume:  4
+issue:   4
+pages:   180-181
+-->
 # Politics (1912)
 
 

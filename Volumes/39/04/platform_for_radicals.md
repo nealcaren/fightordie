@@ -1,3 +1,12 @@
+<!--
+title:   A Platform for Radicals
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1932
+volume:  39
+issue:   4
+pages:   131
+-->
 # A Platform for Radicals (1932)
 
 Here is a platform which does not involve murder or revolution, but which we recommend to the most radical of our friends, as a step toward the millennium. Consider it:

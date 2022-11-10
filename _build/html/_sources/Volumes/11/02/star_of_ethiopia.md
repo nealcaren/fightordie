@@ -1,3 +1,12 @@
+<!--
+title:   The Star of Ethiopia
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1915
+volume:  11
+issue:   2
+pages:   91-93
+-->
 # The Star of Ethiopia (1915)
 
 I wrote it four years ago. I called it, or rather it called itself by various names. Finally it decided to be called "The Star of Ethiopia." I acquiesced. My friends looked upon it with lack-luster eye. I did not blame them. The more I read it myself the more it seemed wanting: And yet as | turned over my rejected manuscripts this always bobbed up with a certain insistance, a kind of "Why not try me" tone. Its first resurrection came in 1913 when we were celebrating, in New York, Emancipation.

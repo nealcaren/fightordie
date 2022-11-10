@@ -1,3 +1,12 @@
+<!--
+title:   History of Segregation Philosophy
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1934
+volume:  41
+issue:   3
+pages:   85-86
+-->
 # History of Segregation Philosophy (1934)
 
 Race segregation in the United States too often presents itself as an individual problem; a question of my admission to this church or that theater; a question as to whether I shall live and work in Mississippi or New York for my own enjoyment, emolument or convenience. In fact this matter of segregation is a group matter with long historic roots. When Negroes were first brought to America in any numbers, their classification was economic rather than racial. They were in law and custom classed with the laborers, most of whom were brought from Europe under a contract which made them practically serfs. In this laboring class there was at first no segregation, there was some inter-marriage and when the laborer gained his freedom, he became in numbers of cases a landholder and a voter.

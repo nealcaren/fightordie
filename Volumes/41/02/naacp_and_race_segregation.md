@@ -1,3 +1,12 @@
+<!--
+title:   The N.A.A.C.P. and Race Segregation
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1934
+volume:  41
+issue:   2
+pages:   52-53
+-->
 # The N.A.A.C.P. and Race Segregation (1934)
 
 

@@ -1,3 +1,12 @@
+<!--
+title:   Segregation
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1910
+volume:  1
+issue:   1
+pages:   10-11
+-->
 # Segregation (1910)
 
 

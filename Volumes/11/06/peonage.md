@@ -1,3 +1,12 @@
+<!--
+title:   Peonage
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1916
+volume:  11
+issue:   6
+pages:   302-305
+-->
 # Peonage (1916)
 
 

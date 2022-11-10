@@ -1,3 +1,12 @@
+<!--
+title:   Crime
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1920
+volume:  19
+issue:   4
+pages:   172-173
+-->
 # Crime (1920)
 
 We are not for a moment denying the existence of a criminal class among Negroes, who are guilty of deeds of violence. Every race in the world has such groups. No human efforts have yet been able wholly to rid society of crime. But if of all groups, the American Negro is to be singled out and punished **as a group** for the detestable deeds of its criminals, then this country is staging a race war of the bitterest kind, when the wronged and the innocent fight in desperate defense against the mob and murderer.

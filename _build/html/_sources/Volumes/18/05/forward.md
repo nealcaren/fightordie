@@ -1,3 +1,12 @@
+<!--
+title:   Forward
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1919
+volume:  18
+issue:   5
+pages:   234-235
+-->
 # Forward (1919)
 
  We black folk easily drift into intellectual provincialism. We know our problem and tend to radical thought in its solution, but do we strive to know the problems of other forward forging groups whose difficulties are inevitably intertwined with ours?

@@ -1,3 +1,12 @@
+<!--
+title:   Subsistence Homestead Colonies
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1934
+volume:  41
+issue:   3
+pages:   85
+-->
 # Subsistence Homestead Colonies (1934)
 
 

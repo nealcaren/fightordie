@@ -1,3 +1,12 @@
+<!--
+title:   Dr. DuBois Resigns
+author:  National Association for the Advancement of Colored People
+journal: The Crisis
+year:    1934
+volume:  41
+issue:   8
+pages:   245-246
+-->
 # Dr. DuBois Resigns (1934)
 
  **The full text of his letter and the resolution of the N.A.A.C.P. Board accepting his resignation**
@@ -44,4 +53,4 @@ The Board has not always seen eye to eye with him in regard to various matters, 
 
 
 _________________
-*Citation:* "Dr. Du Bois Resigns." 1934. *The Crisis*. 41(8):245-246.
+*Citation:* National Association for the Advancement of Colored People. 1934. "Dr. Du Bois Resigns." *The Crisis*. 41(8):245-246.

@@ -1,3 +1,12 @@
+<!--
+title:   Votes for Women
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1912
+volume:  4
+issue:   5
+pages:   234
+-->
 # Votes for Women (1912)
 
 Why should the colored voter be interested in woman's suffrage? There are three cogent reasons. First, it is a great human question. Nothing human must be foreign, uninteresting or unimportant to colored citizens of the world. Whatever concerns half mankind concerns us. Secondly, any agitation, discussion or reopening of the problem of voting must inevitably be a discussion of the right of black folk to vote in America and Africa. Essentially the arguments for and against are the same in the case of all groups of human beings. The world with its tendencies and temptations to caste must ever be asking itself how far may the governed govern? How far can the responsibility of directing, curbing and encouraging mankind be put upon mankind? When we face this vastest of human problems frankly, most of us, despite ourselves and half unconsciously, find ourselves strangely undemocratic, strangely tempted to exclude from participation in government larger and larger numbers of our neighbors. Only at one point, with disconcerting unanimity, do we pause, and that is with ourselves. That we should vote we cannot for a moment doubt even if we are willing to acknowledge, as most of us are, that we are neither all wise nor infinitely good.

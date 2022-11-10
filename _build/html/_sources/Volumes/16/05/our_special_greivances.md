@@ -1,3 +1,12 @@
+<!--
+title:   Our Special Grievances
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1918
+volume:  16
+issue:   5
+pages:   216-217
+-->
 # Our Special Grievances (1918)
 
 The leading editorial in the July <span style="font-variant:small-caps;">Crisis</span>, called "[Close Ranks](../03/close_ranks.md)," has been the subject of much comment. To a few it has seemed to indicate some change of position on the part of the National Association for the Advancement of Colored People and <span style="font-variant:small-caps;">Crisis</span>. It is needless to say that it indicates nothing of the sort. This Association and this magazine stand today exactly where they have stood during the eight years of their work; viz., for the full manhood rights of the American Negro.

@@ -1,3 +1,12 @@
+<!--
+title:   The Vigilance Committee: A Call To Arms
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1913
+volume:  6
+issue:   1
+pages:   26-29
+-->
 # The Vigilance Committee: A Call To Arms (1913)
 
 There is scarcely a community in the United States where a group of colored people live that has not its vigilance committee. Sometimes this committee is organized and has a name indicating its function. Sometimes it is organized for other purposes and becomes a vigilance committee on occasion. In other cases the committee has no regular organization or membership; it springs into being on occasion, but consists of approximately the same group of persons from year to year.

@@ -1,3 +1,12 @@
+<!--
+title:   Logic
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1913
+volume:  6
+issue:   2
+pages:   81
+-->
 # Logic (1913)
 
 The logical end of hatred is murder. Race prejudice is traditional hatred of human beings. Its end is lynching, war and extermination.

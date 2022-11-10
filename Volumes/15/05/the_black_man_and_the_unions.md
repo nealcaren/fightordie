@@ -1,3 +1,12 @@
+<!--
+title:   The Black Man and the Unions
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1918
+volume:  15
+issue:   5
+pages:   114
+-->
 # The Black Man and the Unions (1918)
 
 

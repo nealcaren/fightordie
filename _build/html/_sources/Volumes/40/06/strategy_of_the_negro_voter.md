@@ -1,3 +1,12 @@
+<!--
+title:   The Strategy of the Negro Voter
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1933
+volume:  40
+issue:   6
+pages:   140-142
+-->
 # The Strategy of the Negro Voter (1933)
 
 Usually, <span style="font-variant:small-caps;">The Crisis</span> has discussed voting among Negroes during elections and sought to give specific advice concerning the action of black voters.

@@ -1,3 +1,12 @@
+<!--
+title:   Separation and Self-Respect
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1934
+volume:  41
+issue:   3
+pages:   85
+-->
 # Separation and Self-Respect (1934)
 
 That we continually face in this problem of race segregation in the United States is a paradox like this:

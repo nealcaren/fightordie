@@ -1,3 +1,12 @@
+<!--
+title:   Cowardice
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1916
+volume:  12
+issue:   6
+pages:   270-271
+-->
 # Cowardice (1916)
 
 

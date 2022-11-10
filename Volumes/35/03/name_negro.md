@@ -1,3 +1,12 @@
+<!--
+title:   The Name Negro
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1928
+volume:  35
+issue:   3
+pages:   96-97
+-->
 # The Name Negro (1928)
 
 > South Bend, Ind.  

@@ -1,3 +1,12 @@
+<!--
+title:   Organization
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1915
+volume:  9
+issue:   5
+pages:   235
+-->
 # Organization (1915)
 
 If the Negroes of the United States want to know what organization is and what it can accomplish along racial lines they should buy the American Jewish Year Book. This publication has courteously been sent to this office and a glance at its pages is most informing.

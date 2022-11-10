@@ -1,3 +1,12 @@
+<!--
+title:   On the Fence
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1928
+volume:  35
+issue:   11
+pages:   381
+-->
 # On the Fence (1928)
 
 In this presidential campaign <span style="font-variant:small-caps;">The Crisis</span> is sitting squarely on the fence, naked and unashamed and without apology. It is certain that either Herbert Hoover or Al Smith is going to be elected President of the United States, and in our humble opinion, it does not matter a tinker's damn which of these gentlemen succeed. With minor exceptions, they stand for exactly the same thing: oligarchy in the South; color caste in national office holding; and recognition of the rule of organized wealth. We do not believe that there is a jot or tittle of difference between these two men in their attitude toward these fundamental matters, and we sincerely advise our readers to vote for neither of them.

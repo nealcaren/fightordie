@@ -1,3 +1,12 @@
+<!--
+title:   A Philosophy in Time of War
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1918
+volume:  16
+issue:   4
+pages:   164-165
+-->
 # A Philosophy in Time of War (1918)
 
 ```{margin}

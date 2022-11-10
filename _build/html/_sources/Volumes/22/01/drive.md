@@ -1,4 +1,13 @@
-# The Drive (1921)
+<!--
+title:   The Drive
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1922
+volume:  22
+issue:   1
+pages:   8
+-->
+# The Drive (1922)
 
 Again the pendulum has swung: it is no longer a question of educating the Negro to his just demands as an American citizen. He has ceased to be beguiled by the silly philosophy that a voteless, spineless suppliant who owns a three-story brick house is going to command anybody's respect.
 

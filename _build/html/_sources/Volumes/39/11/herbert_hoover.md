@@ -1,3 +1,12 @@
+<!--
+title:   Herbert Hoover
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1932
+volume:  39
+issue:   11
+pages:   362-363
+-->
 # Herbert Hoover (1932)
 
  The indictment which Americans of Negro descent have against Herbert Hoover is long, and to my mind, unanswerable. The chief counts are the following:

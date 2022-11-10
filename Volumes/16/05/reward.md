@@ -1,3 +1,12 @@
+<!--
+title:   The Reward
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1918
+volume:  16
+issue:   5
+pages:   216-217
+-->
 # The Reward (1918)
 
 ```{margin}

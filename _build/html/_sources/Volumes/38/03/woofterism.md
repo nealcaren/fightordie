@@ -1,4 +1,13 @@
-# Woofterism  (1931)
+<!--
+title:   Woofterism
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1931
+volume:  38
+issue:   4
+pages:   81-83
+-->
+# Woofterism (1931)
 
 The Baltimore *Afro-American* coined the term "Woofterism." It calls for definition and extension. Recently, the United States government has sent out a release based on a study by Dr. Woofter on "The Economic Status of the Negro." This survey was made under a grant from the Julius Rosenwald Fund of Chicago. The complete report in manuscript has been sent me by the Fund. It consists of a volume of studies with appendix, made in June, 1930, and a summary and recommendations by Dr. Woofter and a committee which acted with him.
 

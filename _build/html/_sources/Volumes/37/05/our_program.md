@@ -1,3 +1,12 @@
+<!--
+title:   Our Program
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1930
+volume:  37
+issue:   5
+pages:   174
+-->
 # Our Program (1930)
 
 The National Association for the Advancement of Colored People stands for the full political, economic and social equality of white folk and Negroes.

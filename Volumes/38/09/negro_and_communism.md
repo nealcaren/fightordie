@@ -1,3 +1,12 @@
+<!--
+title:   The Negro and Communism
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1931
+volume:  38
+issue:   9
+pages:   313-315, 318, 320
+-->
 # The Negro and Communism (1931)
 
 The Scottsboro, Alabama, cases have brought squarely before the American Negro the question of his attitude toward Communism.
@@ -121,4 +130,4 @@ There is no doubt, then, as to the future, or as to where the true interests of 
 
 
 _________________
-*Citation:* Du Bois, W.E.B. 1931. "The Negro and Communism."  38(9):313-315, 318, 320.
+*Citation:* Du Bois, W.E.B. 1931. "The Negro and Communism." 38(9):313-315,318,320.

@@ -1,4 +1,13 @@
-# "Krigwa Players Little Negro Theatre" (1926)
+<!--
+title:   'Krigwa Players Little Negro Theatre'
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1926
+volume:  32
+issue:   3
+pages:   134-136
+-->
+# 'Krigwa Players Little Negro Theatre' (1926)
 
 ***The Story of a Little Theatre Movement***
 

@@ -1,3 +1,12 @@
+<!--
+title:   Starvation and Prejudice
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1911
+volume:  2
+issue:   2
+pages:   62-64
+-->
 # Starvation and Prejudice (1911)
 
 Two utterances by Mr. Booker T. Washington this week illustrate the reasons why so many thinking men, black and white, are coming to doubt Mr. Washington's statesmanship. One statement is in the current Outlook and is to the effect that Mr. John E. Milholland and "certain members of my own race in the North have objected because they said I did not paint conditions in the South black enough. … I have never denied that the Negro in the South frequently meets with wrong and injustice, but he does not starve." And he quotes facts to show that there is actual starvation in London.

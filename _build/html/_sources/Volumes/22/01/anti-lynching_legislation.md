@@ -1,4 +1,13 @@
-# Anti-Lynching Legislation (1921)
+<!--
+title:   Anti-Lynching Legislation
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1922
+volume:  22
+issue:   1
+pages:   8-9
+-->
+# Anti-Lynching Legislation (1922)
 
 ```{index} lynching
 ```

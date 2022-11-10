@@ -1,3 +1,12 @@
+<!--
+title:   The Dunbar National Bank
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1928
+volume:  35
+issue:   11
+pages:   382
+-->
 # The Dunbar National Bank (1928)
 
 

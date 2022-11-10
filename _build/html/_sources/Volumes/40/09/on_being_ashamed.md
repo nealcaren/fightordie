@@ -1,3 +1,12 @@
+<!--
+title:   On Being Ashamed of Oneself
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1933
+volume:  40
+issue:   9
+pages:   199-200
+-->
 # On Being Ashamed of Oneself (1933)
 
  ***An Essay on Race Pride***

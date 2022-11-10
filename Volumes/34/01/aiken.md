@@ -1,3 +1,12 @@
+<!--
+title:   Aiken
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1927
+volume:  34
+issue:   1
+pages:   34
+-->
 # Aiken (1927)
 
 Does America thoroughly realize Aiken? Citizens declared by South Carolina courts of law to be either entirely innocent of crime or of unproven guilt have been openly murdered by persons well-known to the public. The authorities so far have refused to indict or arrest these murderers or to make any real inquiry into | their guilt. These red-handed assassins walk the streets of Aiken today free, impudent and unafraid. And the city of Aiken is advertised in the public press as an "attractive" winter resort!

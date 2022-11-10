@@ -1,3 +1,12 @@
+<!--
+title:   Education
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1915
+volume:  10
+issue:   3
+pages:   132-133, 136
+-->
 # Education (1915)
 
 

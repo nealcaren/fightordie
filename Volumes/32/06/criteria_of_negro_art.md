@@ -1,3 +1,12 @@
+<!--
+title:   Criteria of Negro Art
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1926
+volume:  32
+issue:   6
+pages:   290-297
+-->
 # Criteria of Negro Art (1926)
 
 *So many persons have asked for the complete text of the address delivered by Dr. Du Bois at the Chicago Conference of the National Association for the Advancement of Colored People that we are publishing the address here.*

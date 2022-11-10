@@ -1,3 +1,12 @@
+<!--
+title:   Egypt and India
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1919
+volume:  18
+issue:   2
+pages:   62
+-->
 # Egypt and India (1919)
 
 The sympathy of Black America must of necessity go out to colored India and colored Egypt. Their forefathers were ancient friends, cousins, bloodbrothers, in the hoary ages of antiquity. The blood of yellow and white hordes has diluted the ancient black blood of India, but her eldest Buddha still sits black, with kinky hair; the Negro who laid the founding stones of Egypt and furnished some of her mightiest thinkers, builders and leaders has mingled his blood with the invader on so vast a scale that the modern Egyptian mulatto hardly remembers his descent. But we are all one—we the Despised and Oppressed, the "n*****" of England and America.

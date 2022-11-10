@@ -1,3 +1,12 @@
+<!--
+title:   Interracial Love in Texas
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1930
+volume:  37
+issue:   2
+pages:   64-65
+-->
 # Interracial Love in Texas (1930)
 
 The Houston, Texas *Post-Dispatch* says in a recent editorial:

@@ -1,3 +1,12 @@
+<!--
+title:   Light
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1912
+volume:  3
+issue:   4
+pages:   152-153
+-->
 # Light (1912)
 
 When the trustees of the Phelps-Stokes fund gave two Southern universities $12,500 each to endow a fellowship for the study of the Negro they did well. For many decades there has been a venerable tradition that the South "knows" the Negro better than others. Gradually, however, it is dawning even on the white South that	there	is nothing in mere physical distance half so separating as the artificial social, economic and racial barriers erected in the South since the war, and that the ignorance of the white South as to the life, hurts and dreams of the darker half of their world is, in some respects, both phenomenal and disgraceful. Take, for instance, this letter from a Southern woman who has read The Crisis:

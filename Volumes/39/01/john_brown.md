@@ -1,3 +1,12 @@
+<!--
+title:   John Brown
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1932
+volume:  39
+issue:   1
+pages:   467
+-->
 # John Brown (1932)
 
 A singular contretemps has arisen at Harpers Ferry from the project of United Daughters of the Confederacy to erect a monument in memory of the slaves who remained faithful during the John Brown raid. According to their statement: "John Brown, a Connecticut abolitionist, with a criminal record behind him," planned a raid to free the slaves, but "not a single slave joined the conspirators." A boulder was accordingly put in place and dedicated and at its dedication, to the surprise of the colored world, Henry T. McDonald, the white President of colored Storer College, and the Reverend George F. Bragg, Jr., colored rector of the St. James Episcopal Church, Baltimore, took part.

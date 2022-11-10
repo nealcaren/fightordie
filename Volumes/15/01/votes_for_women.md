@@ -1,3 +1,12 @@
+<!--
+title:   Votes for Women
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1917
+volume:  15
+issue:   1
+pages:   8
+-->
 # Votes for Women (1917)
 
 Some 75,000 Negro voters in the State of New York will be asked to decide this month as to whether or not they are willing that women should have the vote in this State. It is an unpleas­ant but well-known fact that hither­ to American Negro voters have, in the majority of cases, not been favor able to woman suffrage. This attitude has been taken for two main reasons: *First*, the Negro, still imbued by the ideals of a past genera­tion, does not realize the new status of women in industrial and social life. Despite the fact that within his own­ group women are achieving economic independence even faster than whites, he thinks of these as excep­tional and abnormal and looks for­ ward to the time when his wages will be large enough to support his wife and daughters in comparative idleness at home.

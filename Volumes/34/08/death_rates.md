@@ -1,3 +1,12 @@
+<!--
+title:   Death Rates
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1927
+volume:  34
+issue:   8
+pages:   276
+-->
 # Death Rates (1927)
 
 The difficulty about nearly all statistical matter with regard to the Negro in the United States is the rather astonishing habit which we have of comparing all our figures with similar figures relating to whites. In most cases the comparisons are misleading because the groups are not at all similar. Here is a great mass of white people, aided by large immigration in the past and considerable in the present, with the advantage of hospital service, trained physicians, sanitary homes and selected areas for the richer classes. There. is neither sense nor illumination in comparing the death rate of that group with the death rate of American Negroes, only a generation removed from slavery, under great mental and physical stress by reason of prejudice and migration, and under severe economic pressure.

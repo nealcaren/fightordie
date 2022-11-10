@@ -1,3 +1,12 @@
+<!--
+title:   Close Ranks
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1918
+volume:  16
+issue:   3
+pages:   111
+-->
 # Close Ranks (1918)
 
 

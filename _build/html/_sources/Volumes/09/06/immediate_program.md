@@ -1,3 +1,12 @@
+<!--
+title:   The Immediate Program of the  American Negro
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1915
+volume:  9
+issue:   6
+pages:   310-312
+-->
 # The Immediate Program of the  American Negro (1915)
 
 The immediate program of the American Negro means nothing unless it is mediate to his great ideal and the ultimate ends of his development. We need not waste time by seeking to deceive our enemies into thinking that we are going to be content with a half loaf, or by being willing to lull our friends into a false sense of our indifference and present satisfaction.

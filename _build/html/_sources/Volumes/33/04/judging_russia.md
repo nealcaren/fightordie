@@ -1,3 +1,12 @@
+<!--
+title:   Judging Russia
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1927
+volume:  33
+issue:   4
+pages:   189-190
+-->
 # Judging Russia (1927)
 
 There is no question but that a government can carry on business. Every government does. Whether governmental industry compares in efficiency with private industry depends entirely upon what we call efficiency. And here it is and not elsewhere that the Russian experiment is astonishing and new and of fateful importance to the future civilization. What we call efficiency in America is judged primarily by the resultant profit to the rich and only secondarily by the results to the workers. The face of industrial Europe and America is set toward private wealth; that is, toward the people who have large incomes. We recognize the economic value of small incomes mainly as a means of profit for great incomes. Russia seeks another psychology. Russia is trying to make the workingman the main object of industry. His well-being and his income are deliberately set as the chief ends of organized industry directed by the state.

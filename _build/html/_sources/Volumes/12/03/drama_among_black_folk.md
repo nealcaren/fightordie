@@ -1,3 +1,12 @@
+<!--
+title:   The Drama Among Black Folk
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1916
+volume:  12
+issue:   4
+pages:   169-173
+-->
 # The Drama Among Black Folk (1916)
 
 > "Hear ye, hear ye! Men of all the Americas, and listen to the tale of the Eldest and Strongest of the Races of men whose faces be Black. Hear ye, hear ye! For lo! Upon this night a world shall pass before your souls, bathed in color, wound with song and set to the dancing of a thousand feet. And this shall be the message of this pageantry: Of the Black man's Gift of Iron to the world; of Ethiopia and her Glory; of the Valley of Humiliation through which God would she pass and of the Vision Everlasting when the Cross of Christ and the Star of Freedom set atop the Pillar of Eternal Light. Men of the world keep silence and in reverence see this holy thing."

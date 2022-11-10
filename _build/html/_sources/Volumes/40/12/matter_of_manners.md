@@ -1,3 +1,12 @@
+<!--
+title:   A Matter of Manners
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1933
+volume:  40
+issue:   12
+pages:   292-293
+-->
 # A Matter of Manners (1933)
 
 There was a time when the Negro race in America had a right to boast that its manners were better than those of its white neighbors. They were insistently courteous and soft-voiced. Their experience of public insult gave them a sort of social sense of what was due the individual in personal deference and of the good policy and kindliness that lay behind: "Excuse me," "I thank you," "Please."

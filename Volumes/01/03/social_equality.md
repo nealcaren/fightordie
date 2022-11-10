@@ -1,4 +1,13 @@
-# "Social Equality" (1911)
+<!--
+title:   'Social Equality'
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1911
+volume:  1
+issue:   3
+pages:   20-21
+-->
+# 'Social Equality' (1911)
 
 
 ```{margin}

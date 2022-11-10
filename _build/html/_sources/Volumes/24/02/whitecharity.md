@@ -1,3 +1,12 @@
+<!--
+title:   White Charity
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1922
+volume:  24
+issue:   2
+pages:   57
+-->
 # White Charity (1922)
 
 Throughout the United States are numberless charities—schools, homes, hospitals and orphanages,—supported wholly or in part by white donors for the benefit of Negroes. As the Negroes have accumulated more means and become more self-assertive, the tendency has been for white givers to reduce their gifts or discontinue their interest entirely, putting many worthy and useful, indeed indispensable, institutions in grave distress.

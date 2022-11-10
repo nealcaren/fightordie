@@ -1,3 +1,12 @@
+<!--
+title:   Garrison and Woman's Suffrage
+author:  Garrison Villard, Fanny
+journal: The Crisis
+year:    1912
+volume:  4
+issue:   5
+pages:   240-242
+-->
 # Garrison and Woman's Suffrage (1912)
 
 *By Fanny Garrison Villard*

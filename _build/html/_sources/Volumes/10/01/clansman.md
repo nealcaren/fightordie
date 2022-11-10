@@ -1,4 +1,13 @@
-# The Clansman (1915)
+<!--
+title:   The Clansman
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1913
+volume:  10
+issue:   1
+pages:   33
+-->
+# The Clansman (1913)
 
 ```{margin}
 The film, based on [Thomas Dixon Jr.'s](https://en.wikipedia.org/wiki/Thomas_Dixon_Jr) novel [The Clansman: A Historical Romance of the Ku Klux Klan](https://en.wikipedia.org/wiki/The_Clansman:_A_Historical_Romance_of_the_Ku_Klux_Klan) was renamed [The Birth of a Nation](https://en.wikipedia.org/wiki/The_Birth_of_a_Nation) in March, 1915.

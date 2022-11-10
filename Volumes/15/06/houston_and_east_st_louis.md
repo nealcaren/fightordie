@@ -1,3 +1,12 @@
+<!--
+title:   Houston and East St. Louis
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1918
+volume:  15
+issue:   6
+pages:   268
+-->
 # Houston and East St. Louis (1918)
 
 

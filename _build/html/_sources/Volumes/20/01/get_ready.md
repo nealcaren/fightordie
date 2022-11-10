@@ -1,3 +1,12 @@
+<!--
+title:   Get Ready
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1920
+volume:  20
+issue:   1
+pages:   5-6
+-->
 # Get Ready (1920)
 
 Woman Suffrage is coming. Make no mistake about that. This month possibly, this year certainly will see sex discrimination in voting swept away from the United States. Are we getting ready for this mighty change? Are we consulting and laying plans? The white South is. There is already some open discussion among newspapers and a feverish discussion in secret societies and behind closed doors after the servants retire. The South proposes to keep colored women from voting in exactly the same way in which it has disfranchised colored men. Can it do it? Are we going to let it do it?

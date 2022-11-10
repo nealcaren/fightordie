@@ -1,3 +1,12 @@
+<!--
+title:   Employment
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1932
+volume:  39
+issue:   9
+pages:   299
+-->
 # Employment (1932)
 
 Our educational problem has two difficulties: first, the great mass of Negroes are not receiving proper and adequate common school training. It means today that we are educating an aristocracy of learning, but we are not using it or allowing it to be used to educate the masses of the people.

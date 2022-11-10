@@ -1,4 +1,13 @@
-# The Black Man and the Wounded World (1923)
+<!--
+title:   The Black Man and the Wounded World
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1924
+volume:  27
+issue:   3
+pages:   110-114
+-->
+# The Black Man and the Wounded World (1924)
 <h1> A History of the Negro Race in the World War and After </h1> 
 
 *Chapter 1. Interpretations*

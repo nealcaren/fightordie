@@ -1,3 +1,12 @@
+<!--
+title:   Disenfranchisement
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1925
+volume:  30
+issue:   2
+pages:   62-63
+-->
 # Disenfranchisement (1925)
 
 

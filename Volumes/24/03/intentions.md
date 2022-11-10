@@ -1,3 +1,12 @@
+<!--
+title:   Intentions
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1923
+volume:  24
+issue:   3
+pages:   103-107
+-->
 # Intentions (1923)
 
 The Republicans did not try to pass the Dyer Bill. Local political pressure and team work engineered by the N. A. A. C. P., and the extraordinary thoughtful and determined lobbying by James Weldon Johnson forced the bill further than any American, black or white, dreamed. Politicians were surprised when the Bill emerged from the House Committee, and when it passed the House, they were astonished; but they said: "Well it is over now and the 'buck' goes to the Senate." The Senate intended burying it in committee. But the seat of Chairman Knute Nelson became so hot that despite long squirming and excusing, he had to let it be reported. Then the approaching election forced it on the calendar. And finally there was nothing to stop the Bill from becoming a law, but the Southern Democrats and the Southerners picked the Republicans' chestnuts out of the fire, to the great joy of Lodge, Curtis, Watson, and their kind. The Republicans never intended to pass the Dyer Bill, unless they could do so without effort, without a fight, and without appearing publicly to defend the rights of the Negro race.

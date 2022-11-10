@@ -1,3 +1,12 @@
+<!--
+title:   Publicity
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1922
+volume:  24
+issue:   1
+pages:   9-10
+-->
 # Publicity (1922)
 
 We learned during the Great War what Publicity could do. We saw its good effects in bringing the truth before the people; we saw its bad effects in making millions believe lies. We are thinking of these bad effects so persistently since the war that Propaganda is in bad odor. But let us remember that in pitiless Publicity we have perhaps the greatest militant organ of social reform at our hands.

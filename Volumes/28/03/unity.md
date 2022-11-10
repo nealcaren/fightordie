@@ -1,3 +1,12 @@
+<!--
+title:   Unity
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1924
+volume:  28
+issue:   3
+pages:   103-104
+-->
 # Unity (1924)
 
 

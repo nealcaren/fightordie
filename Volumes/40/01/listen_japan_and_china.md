@@ -1,3 +1,12 @@
+<!--
+title:   Listen, Japan and China
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1933
+volume:  40
+issue:   1
+pages:   20
+-->
 # Listen, Japan and China (1933)
 
 Colossi of Asia and leaders of all colored mankind: for God's sake stop fighting and get together. Compose your quarrels on any reasonable basis. Unite in self-defense and assume that leadership of distracted mankind to which your four hundred millions of people entitle you.

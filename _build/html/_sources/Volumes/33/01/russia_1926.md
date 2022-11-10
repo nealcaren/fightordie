@@ -1,3 +1,12 @@
+<!--
+title:   Russia, 1926
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1926
+volume:  33
+issue:   1
+pages:   8
+-->
 # Russia, 1926 (1926)
 
 I am writing this in Russia. I am sitting in Revolution Square opposite the Second House of the Moscow Soviets and in a hotel run by the Soviet Government. Yonder the sun pours into my window over the domes and eagles and pointed towers of the Kremlin. Here is the old Chinese wall of the inner city; there is the gilded glory of the Cathedral of Christ, the Savior. Thro' yonder gate on the vast Red Square, Lenin sleeps his last sleep, with long lines of people peering each day into his dead and speaking face. Around me roars a city of two millions—Holy Moscow.

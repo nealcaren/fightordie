@@ -1,3 +1,12 @@
+<!--
+title:   The Massacre in East St. Louis
+author:  National Association for the Advancement of Colored People
+journal: The Crisis
+year:    1917
+volume:  14
+issue:   5
+pages:   219-238
+-->
 # The Massacre in East St. Louis (1917)
 
 <h2> National Association for the Advancement of Colored People </h2>

@@ -1,3 +1,12 @@
+<!--
+title:   Awake America
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1917
+volume:  14
+issue:   5
+pages:   216-217
+-->
 # Awake America (1917)
 
 Let us enter this war for Liberty with clean hands. May no blood-smeared garments bind our feet when we rise to make the world safe for Democracy. The New Freedom cannot survive if it means Waco, Memphis and East St. Louis. We cannot lynch 2,867 untried black men and women in thirty-one years and pose successfully as leaders of civilization. Rather let us bow our shamed heads and in sack cloth and ashes declare that when in awful war we raise our weapons against the enemies of mankind, so, too, and in that same hour here at home we raise our hands to Heaven and pledge our sacred honor to make our own America a real land of the free:

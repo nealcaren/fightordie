@@ -1,3 +1,12 @@
+<!--
+title:   Socialism and the Negro
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1921
+volume:  22
+issue:   6
+pages:   245-247
+-->
 # Socialism and the Negro (1921)
 
 

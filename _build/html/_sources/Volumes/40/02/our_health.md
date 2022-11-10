@@ -1,3 +1,12 @@
+<!--
+title:   Our Health
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1933
+volume:  40
+issue:   2
+pages:   44
+-->
 # Our Health (1933)
 
 ```{margin}

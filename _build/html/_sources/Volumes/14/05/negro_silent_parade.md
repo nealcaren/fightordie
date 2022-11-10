@@ -1,3 +1,12 @@
+<!--
+title:   The Negro Silent Parade
+author:  National Association for the Advancement of Colored People
+journal: The Crisis
+year:    1917
+volume:  14
+issue:   5
+pages:   241-244
+-->
 # The Negro Silent Parade (1917)
 
 On the afternoon of Saturday July 28, a vast body of Negroes marched through the streets of New York in silent protest against the recent race riots and outrages. The *New York American* says:

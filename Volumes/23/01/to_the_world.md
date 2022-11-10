@@ -1,4 +1,13 @@
-# To The World (1921)  
+<!--
+title:   To The World
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1921
+volume:  23
+issue:   1
+pages:   5-10
+-->
+# To The World (1921)
 <h2> (Manifesto of the Second Pan-African Congress.) </h2>
 
 The absolute equality of races, —physical, political and social—is the founding stone of world peace and human advancement. No one denies great differences of gift, capacity and attainment among individuals of all races, but the voice of science, religion and practical politics is one in denying the God-appointed existence of super-races, or of races naturally and inevitably and eternally inferior.

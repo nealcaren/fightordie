@@ -1,3 +1,12 @@
+<!--
+title:   Reconstruction
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1919
+volume:  18
+issue:   3
+pages:   130-131
+-->
 # Reconstruction (1919)
 
 This is a program of reconstruction within the Negro race in America, after the the revolution of world war. In *Education* we must take up the problem of the colored child in the white school. At present the tendency is to accept and even demand separate schools because our children so often are neglected, mistreated and humiliated in the public schools. This is a dangerous and inadvisable alternative and a wicked surrender of principle for which our descendants will pay dearly. Our policy should be to form in connection with each school and district effective Parents' Associations, composed of the fathers, mothers and friends of colored pupils; these associations should establish friendly relations with teachers and school authorities, urge parents to wash and dress their children properly, help look after truancy and poverty, arrange for home work and tuition for the backward, curb delinquency and be, in fine, a vigilance committee to keep the public school open to all and fit the Negro child for it.

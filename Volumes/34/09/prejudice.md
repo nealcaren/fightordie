@@ -1,3 +1,12 @@
+<!--
+title:   Prejudice
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1927
+volume:  34
+issue:   9
+pages:   311
+-->
 # Prejudice (1927)
 
 We have received from Mrs. Helen D. Pecu of Vashon Islands, Washington, the following letter:

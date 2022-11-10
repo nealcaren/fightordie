@@ -1,3 +1,12 @@
+<!--
+title:   Jim Crow
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1919
+volume:  17
+issue:   3
+pages:   112-13
+-->
 # Jim Crow (1919)
 
 We  colored folk stand at the parting of ways, and we must take counsel. The objection to segregation and "Jim-Crowism" was in other days the fact that compelling Ne­groes to associate only with Negroes meant to exclude them from contact with the best culture of the day. How could we learn manners or get knowledge if the heritage of the past was locked away from us?

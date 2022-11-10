@@ -1,3 +1,12 @@
+<!--
+title:   Agitation
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1910
+volume:  1
+issue:   1
+pages:   11
+-->
 # Agitation (1910)
 
 Some good friends of the cause we represent fear agitation. They say: "Do not agitate—do not make a noise; work." They add, "Agitation is destructive or at best negative—what is wanted is positive constructive work."

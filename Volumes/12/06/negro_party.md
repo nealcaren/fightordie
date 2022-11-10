@@ -1,3 +1,12 @@
+<!--
+title:   The Negro Party
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1916
+volume:  12
+issue:   6
+pages:   267-268
+-->
 # The Negro Party (1916)
 
 There is for the future one and only one effective political move for colored voters. We have long foreseen it, have sought to avoid it. It is a move of segregation, it "hyphenates" us, it separates us from our fellow Americans; but self-defense knows no nice hesitations. The American Negro must either vote as a unit or continue to be politically emasculated as at present.

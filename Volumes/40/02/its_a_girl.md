@@ -1,3 +1,12 @@
+<!--
+title:   It is a Girl
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1933
+volume:  40
+issue:   2
+pages:   45
+-->
 # It is a Girl (1933)
 
 Anent my December editorial one writes :

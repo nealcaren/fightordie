@@ -1,3 +1,12 @@
+<!--
+title:   The Justice of Woman Suffrage
+author:  Terrell, Mary Church
+journal: The Crisis
+year:    1912
+volume:  4
+issue:   5
+pages:   243-245
+-->
 # The Justice of Woman Suffrage (1912)
 
  *By Mary Church Terrell*

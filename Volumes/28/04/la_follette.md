@@ -1,4 +1,13 @@
-# La Follette (1928)
+<!--
+title:   La Follette
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1924
+volume:  28
+issue:   4
+pages:   154
+-->
+# La Follette (1924)
 
 Let Negroes read with thoughtful care and deep understanding the manifesto of the Third Party. It makes no direct reference to our problems. But what are our problems? They are the world's problems and something more. That something more is color prejudice and that is our immediate problem. But back of that and even with that solved are problems as pressing, as imperative, as tremendous for us as for any working people. These we cannot neglect. Simultaneously with our peculiar problems,  these others call for solution. They cannot be postponed.
 

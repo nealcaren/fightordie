@@ -1,3 +1,12 @@
+<!--
+title:   Lynching
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1927
+volume:  33
+issue:   4
+pages:   180-181
+-->
 # Lynching (1927)
 
 There were thirty-four lynchings in the United States in 1926, nearly twice as many as in 1925.

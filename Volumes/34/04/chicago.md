@@ -1,3 +1,12 @@
+<!--
+title:   Chicago
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1927
+volume:  34
+issue:   4
+pages:   131
+-->
 # Chicago (1927)
 
 ```{margin}

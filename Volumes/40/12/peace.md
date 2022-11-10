@@ -1,3 +1,12 @@
+<!--
+title:   Peace
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1933
+volume:  40
+issue:   12
+pages:   292-293
+-->
 # Peace (1933)
 
 To one who does not comprehend the reasons, the present attitude of the civilized world toward peace would be incomprehensible. Here is a world which is literally wasting most of its taxes on war; preparing incredible machines for murder, arson and theft.

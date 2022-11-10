@@ -1,3 +1,12 @@
+<!--
+title:   Smuts
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1930
+volume:  37
+issue:   2
+pages:   63
+-->
 # Smuts (1930)
 
 ```{margin}

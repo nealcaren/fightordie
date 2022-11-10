@@ -1,3 +1,12 @@
+<!--
+title:   Liberia
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1927
+volume:  34
+issue:   1
+pages:   34
+-->
 # Liberia (1927)
 
 We have not the full text of President King's recent word concerning missions. But we would like to point out to those writers who are easily and hastily criticizing this decision and the Firestone concession that a more sympathetic attitude toward Liberia and her problems would better accord with the facts.

@@ -1,3 +1,12 @@
+<!--
+title:   Labor Omnia Vincit
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1919
+volume:  18
+issue:   5
+pages:   231-232
+-->
 # Labor Omnia Vincit (1919)
 
 ```{margin}

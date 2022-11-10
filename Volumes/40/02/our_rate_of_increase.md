@@ -1,3 +1,12 @@
+<!--
+title:   Our Rate of Increase
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1933
+volume:  40
+issue:   2
+pages:   44
+-->
 # Our Rate of Increase (1933)
 
 The  growth of the Negro  population in the United States has been an astonishing phenomenon, especially when we remember that in 1790, when there were only three-fourths of a million Negroes in the country, it was the generally accepted fact that without a slave trade Negroes could not survive. What happened was that slaves without a slave trade became more valuable and with cotton culture their value rose still further, so that they were fed adequately and their breeding systematically encouraged. The result was that the Negro population has increased as follows:

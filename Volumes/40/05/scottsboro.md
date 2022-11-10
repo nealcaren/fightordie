@@ -1,3 +1,12 @@
+<!--
+title:   Scottsboro
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1933
+volume:  40
+issue:   5
+pages:   117
+-->
 # Scottsboro (1933)
 
 Scottsboro is the perfect fruit of a generation of organized lying concerning conditions in the South.

@@ -1,3 +1,12 @@
+<!--
+title:   From a Traveller
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1932
+volume:  39
+issue:   12
+pages:   387-388
+-->
 # From a Traveller (1932)
 
 I most emphatically think that the Negro has a better chance in Liberia than any where else in Africa. I haven't been everywhere, but the Gold Coast is supposed to be the very best colony in all Africa. I was seven weeks there. Let me tell you one incident. I was walking down the street by the market in Accra. The sidewalk was so crowded that the people were also filling the street. Most of them women and children. I did not see the first part of this incident but what must have happened was this: An Englishman in a car turned the corner very rapidly. A young Negro, well-dressed, very wellbred looking must have called out to the Englishman to be careful on account of the women and children in the street. He couldn't have called loudly or rudely or I should have heard. I was only a few steps away but looking in another direction. What I saw and heard was this: The Englishman stopped his car at the curb, jumped out upon the sidewalk and slapped the young man in the face and shouted (I heard him very easily!) "How dare you call out to me like that? Don't I know more about running a car than you. I'll have you arrested if you dare to call out to a European." The young man said absolutely nothing. Then turning, the Englishman saw me (I seemed to be the only European in sight), and said: "This is outrageous. Such insolence!" And I said: "You are showing them such a good example of self control, aren't you?" He turned redder and said: "It's you missionaries who ruin them." I didn't argue with him and tell him I wasn't a missionary. What was the use! He walked to his car and as he got in he turned to the perfectly silent crowd and said: "If any of you dare to shout at a European, I'll have you arrested! And not one native made any protest. They evidently knew it would be perfectly useless.

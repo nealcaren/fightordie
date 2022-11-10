@@ -1,4 +1,13 @@
-# The N.A.A.C.P. and Parties (1928)
+<!--
+title:   The N.A.A.C.P. and Parties
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1924
+volume:  28
+issue:   5
+pages:   199-200
+-->
+# The N.A.A.C.P. and Parties (1924)
 
 A number of newspapers anxious to get in line for campaign funds have been throwing fits over the alleged endorsing of a Third Party by this Association. What the National Association for the Advancement of Colored People in annual conference actually said was printed in the plainest sort of English in the last <span style="font-variant:small-caps;">Crisis</span> . The National Association for the Advancement of Colored People does not attempt to tell its members or anyone else how to vote. It does attempt to put the facts before them and to urge them to consider the facts and vote with their brains and not with their prejudices. It has said repeatedly and says again: Any black man who votes for the present Republican party out of gratitude or with any hope that it will do a single thing for the Negro that it is not forced to do, is a born fool. Equally no Negro democrat can for a moment forget that his party depends primarily on the lynching, mobbing, disfranchising South. Toward any Third Party advocates the intelligent Negro must be receptive, hoping they are not enemies, seeking to make them friends, and trying to balance the prospects oi good and ill in supporting them.
 

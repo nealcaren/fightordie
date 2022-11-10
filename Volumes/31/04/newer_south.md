@@ -1,3 +1,12 @@
+<!--
+title:   The Newer South
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1926
+volume:  31
+issue:   4
+pages:   163-165
+-->
 # The Newer South (1926)
 
 The New South of Henry Grady had nothing new for the Negro. And since that time thoughtful Negroes have received professions of friendship on the part of the white South with much salt. Nor can they be blamed for this: lynching, "Jim-Crow" cars, poor schools, segregation and insult form a difficult atmosphere in which to breathe the air of freedom, friendship and hope. But there can be no doubt but that the white South is changing; there is nothing revolutionary as yet, but leaven is working. Today as never before since 1863 there can be found in the white South a few intelligent and determined people who are willing to recognize black men as men— not as Super-men nor as morons, but as men. This group is not large; in no community is it in majority; only here and there is it self-conscious and vocal. But it exists and it is slowly growing in numbers and courage.

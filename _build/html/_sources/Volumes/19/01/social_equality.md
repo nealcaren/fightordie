@@ -1,3 +1,12 @@
+<!--
+title:   Social Equality
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1919
+volume:  19
+issue:   1
+pages:   337
+-->
 # Social Equality (1919)
 
 Every time the American Negro seeks reasonably and earnestly to bring his case before the white South and the nation the bourbons proceed to throw dust in the eyes of the public by screaming frantically, "Social Equality."

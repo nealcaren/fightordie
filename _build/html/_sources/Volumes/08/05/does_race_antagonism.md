@@ -1,3 +1,12 @@
+<!--
+title:   Does Race Antagonism Serve Any Good Purpose
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1914
+volume:  8
+issue:   5
+pages:   232-233
+-->
 # Does Race Antagonism Serve Any Good Purpose (1914)
 
 There are four classes of reasons usually given in defense of Race Antagonism.

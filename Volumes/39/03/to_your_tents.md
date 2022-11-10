@@ -1,3 +1,12 @@
+<!--
+title:   To Your Tents, Oh Israel!
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1932
+volume:  39
+issue:   3
+pages:   93-94
+-->
 # To Your Tents, Oh Israel! (1932)
 
 With twelve million Negroes in America and at least ten millions in the adjacent West Indies, is the black race economically helpless? These two groups as consumers must at the very lowest estimate spend ten billion dollars a year. Perhaps the larger part of this expenditure is compulsory, and we have small choice as to where and how it should be spent. But there must be hundreds of millions where we do have choice in the direction of its expenditure. This expenditure can and must, if we survive in America, be so directed as to employ our own muscle and brains in the production of the goods and services which we need. Such production demands skill, but what skill, and how shall we gain this skill?

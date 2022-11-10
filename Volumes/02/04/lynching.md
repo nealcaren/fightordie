@@ -1,3 +1,12 @@
+<!--
+title:   Lynching
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1911
+volume:  2
+issue:   4
+pages:   158-159
+-->
 # Lynching (1911)
 
 

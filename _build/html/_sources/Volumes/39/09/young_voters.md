@@ -1,3 +1,12 @@
+<!--
+title:   Young Voters
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1932
+volume:  39
+issue:   9
+pages:   298
+-->
 # Young Voters (1932)
 
 The Editor of the *Louisiana Weekly* writes:

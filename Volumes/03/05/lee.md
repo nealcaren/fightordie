@@ -1,3 +1,12 @@
+<!--
+title:   Lee
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1912
+volume:  3
+issue:   5
+pages:   200-201
+-->
 # Lee (1912)
 
 In a recent review of Mr. Thomas Nelson Page's life of Robert E. Lee in the New York *Times* we find the following sentence: "Of all the figures in history, it is he (Lee) who most nearly approaches Washington; in fact, there is little or nothing to choose between them except the fact that Lee failed."

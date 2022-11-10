@@ -1,3 +1,12 @@
+<!--
+title:   Houston: An N.A.A.C.P. Investigation
+author:  Gruening, Martha
+journal: The Crisis
+year:    1917
+volume:  15
+issue:   1
+pages:   19
+-->
 # Houston: An N.A.A.C.P. Investigation (1917)
 <h2> National Association for the Advancement of Colored People </h2>
 

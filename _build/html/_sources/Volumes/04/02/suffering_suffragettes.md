@@ -1,4 +1,14 @@
-﻿# Suffering Suffragettes (1912)
+<!--
+title:   Suffering Suffragettes
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1912
+volume:  4
+issue:   2
+pages:   76-77
+-->
+# Suffering Suffragettes (1912)
+
 
 The woman suffragists are wincing a bit under the plain speaking of  <span style="font-variant:small-caps;">The Crisis</span>. President Anna Shaw writes us:
 

@@ -1,4 +1,13 @@
-# Slavery (1921)
+<!--
+title:   Slavery
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1922
+volume:  24
+issue:   1
+pages:   6
+-->
+# Slavery (1922)
 
 ```{margin}
 [John S. Williams](https://law.jrank.org/pages/2818/John-S-Williams-Clyde-Manning-Trials-1921-Murdering-Evidence-Peonage.html) owned a Georgia plantation and when a investigation began into the conditions of his workers, he had nine of his *peons* murdered so they could not testify against him. 

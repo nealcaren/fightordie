@@ -1,3 +1,12 @@
+<!--
+title:   Correspondence
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1926
+volume:  31
+issue:   5
+pages:   218
+-->
 # Correspondence (1926)
 
 > *Broken Bow, Nebraska.*  

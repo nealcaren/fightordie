@@ -1,3 +1,12 @@
+<!--
+title:   Lynching
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1914
+volume:  7
+issue:   5
+pages:   239
+-->
 # Lynching (1914)
 
 We do not blame the people of the United States for being ashamed of lynching, but we have serious doubts if recent methods of curing the evil are going to be really efficacious. We do not refer now to the unjust and dangerous hastening of the trials of accused persons, nor even to the proposed lessening of the penalty for mob murder; but rather to an attempt, deliberate or unintentional, to suppress the truth concerning the present extent of lynching in this land.

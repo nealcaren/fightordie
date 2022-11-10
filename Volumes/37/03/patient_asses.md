@@ -1,4 +1,13 @@
-# Patient Asses (1930)    
+<!--
+title:   Patient Asses
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1930
+volume:  37
+issue:   3
+pages:   100-101
+-->
+# Patient Asses (1930)
 
 I met my friend one morning on Seventh Avenue as we were hurrying opposite ways to our work. She asked:
 

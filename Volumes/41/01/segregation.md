@@ -1,3 +1,12 @@
+<!--
+title:   Segregation
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1934
+volume:  41
+issue:   1
+pages:   20
+-->
 # Segregation (1934)
 
 

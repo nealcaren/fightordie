@@ -1,3 +1,12 @@
+<!--
+title:   Marxism and The Negro Problem
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1933
+volume:  40
+issue:   5
+pages:   103-104, 118
+-->
 # Marxism and The Negro Problem (1933)
 
 Karl Marx was a Jew born at Treves, Germany, in March, 1818. He came of an educated family and studied at the Universities of Bonn and Berlin, planning first to become a lawyer, and then to teach philosophy.

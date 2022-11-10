@@ -1,3 +1,12 @@
+<!--
+title:   Africa
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1919
+volume:  17
+issue:   4
+pages:   164-165
+-->
 # Africa (1919)
 
 Europe had begun to look with covetous eyes toward Africa as early as 1415 when the Portuguese at the Battle of Ceuta gained a foothold in Morocco. Thereafter Prince Henry of Portugal instituted the series of explorations which resulted not only in the discovery of Cape Verde, the Guinea Coast and the Cape of Good Hope, but by 1487 gave to Portugal the possession of a very fair slice of the African East Coast. This was the beginning of the Portuguese Colonies of Guinea, Angola and East Africa. Other European nations, France, Holland, Spain, England and Denmark, followed and set up trading stations along the African coast whose chief reason for existence was the fostering of the slave trade.

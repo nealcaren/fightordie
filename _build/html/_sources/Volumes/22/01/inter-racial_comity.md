@@ -1,4 +1,13 @@
-# Inter-Racial Comity (1921)
+<!--
+title:   Inter-Racial Comity
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1922
+volume:  22
+issue:   1
+pages:   6-7
+-->
+# Inter-Racial Comity (1922)
 
 There are persons who assume that the N.A.A.C.P. and particularly <span style="font-variant:small-caps;">The Crisis</span> are opposed to the Inter-racial Committees in the South and to any efforts of white Southerners to settle the problems of race. This is a singu­lar misapprehension. On the contrary, we count it as one of the great results of the N.A.A.C.P., that its persistent fight in the last ten years has aroused and even compelled the South to attempt its own internal reform Can we not remember the day, but 20 years since, when conferences on the Negro were confined to white men because white Southerners would not sit with Negroes? That day is gone and gone forever, and the N.A.A.C.P. prepared its passports.
 

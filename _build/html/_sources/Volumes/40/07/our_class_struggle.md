@@ -1,3 +1,12 @@
+<!--
+title:   Our Class Struggle
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1933
+volume:  40
+issue:   7
+pages:   164-165
+-->
 # Our Class Struggle (1933)
 
 In the Marxist patois, the "class struggle" means the natural antagonism and war between the exploiter and the exploited; that is, between those persons who own capital in the form of machines, raw material and money, and who can command credit, and that other large mass of people who have practically nothing to sell but their labor. Between these two classes, there can be no peace because the profit of the capitalist depends on the amount of surplus value he can extract from the work of the laborer.

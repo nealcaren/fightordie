@@ -1,3 +1,12 @@
+<!--
+title:   Black and White Workers
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1928
+volume:  35
+issue:   3
+pages:   98
+-->
 # Black and White Workers (1928)
 
 The struggle for the liberation of the working classes in general and of the Negro race in America in particular is, of course, at bottom the same struggle. But great difficulty faces both the workers because the essential identity of the problem is not recognized either by white workingmen or black. Black workingmen are the heirs of every effort which the white working masses have made toward freedom: the bestowal of universal suffrage; the shortening of the hours of labor; the protection of women and children in industry; the recognition of the right to collective bargaining; and all the rest of the victories more or less completely won by the working class movement. Through these victories Negroes were emancipated from slavery in America; partially enfranchised; and given at least a fighting chance for a living wage. On the other hand, all this story has not been told Negroes and they are not born knowing all about it. The working class movement has seldom attempted any intelligent propaganda to let them know of the past struggle; the Negro home does not know it; and the Negro school does not teach it. And to make the matter worse, both white and black workingmen have come under the sinister influence of the white employer.

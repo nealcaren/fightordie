@@ -1,3 +1,12 @@
+<!--
+title:   About Wailing
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1930
+volume:  37
+issue:   1
+pages:   64
+-->
 # About Wailing (1930)
 
 George Jean Nathan last fall told the readers of the *American Mercury* reasons that made him tired of wails from Negroes. His argument was that lynching has decreased; that a Negro can live his private life as he pleases; that he has freedom in sex, gambling and drinking; that he plays on college athletic teams; that he acts on the stage; intermarries sometimes with whites; sings; publishes recognized books; has big churches; holds public office; shines in the prize ring and at the Bar; is entering the movies; owns land and property; has an increasing number of colleges and college students and less illiteracy; sees the whites getting glory from featuring him; and commits fewer suicides than other folk.

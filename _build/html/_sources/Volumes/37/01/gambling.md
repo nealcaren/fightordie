@@ -1,3 +1,12 @@
+<!--
+title:   Gambling
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1930
+volume:  37
+issue:   1
+pages:   29-30
+-->
 # Gambling (1930)
 
 As compared with crap-shooting, always supposed to be the peculiar diversion of Negroes, nine-tenths of the operations of the Wall Street Stock Exchange favors craps, by every consideration of morals and social welfare. Unless the dice are loaded, crap-shooting is a game of pure chance, and the utmost that can happen is the transfer of actual wealth from one gambler to another. But in Wall Street, we have something much more complicated and much less defensible.

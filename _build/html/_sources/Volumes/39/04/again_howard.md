@@ -1,3 +1,12 @@
+<!--
+title:   Again Howard
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1932
+volume:  39
+issue:   4
+pages:   131
+-->
 # Again Howard (1932)
 
 ```{margin}

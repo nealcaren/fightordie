@@ -1,3 +1,12 @@
+<!--
+title:   Agility
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1915
+volume:  9
+issue:   3
+pages:   133
+-->
 # Agility (1915)
 
 

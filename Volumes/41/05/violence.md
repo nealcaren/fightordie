@@ -1,3 +1,12 @@
+<!--
+title:   Violence
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1934
+volume:  41
+issue:   5
+pages:   147-148
+-->
 # Violence (1934)
 
 A certain group of young, American Negroes, inspired by white Radicals, are distinctly looking toward violence as the only method of settling the Negro problems.

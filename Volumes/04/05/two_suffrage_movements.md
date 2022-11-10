@@ -1,3 +1,12 @@
+<!--
+title:   Two Suffrage Movements
+author:  Gruening, Martha
+journal: The Crisis
+year:    1912
+volume:  4
+issue:   5
+pages:   245-247
+-->
 # Two Suffrage Movements (1912)
 
  By Martha Gruening

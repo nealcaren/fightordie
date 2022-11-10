@@ -1,3 +1,12 @@
+<!--
+title:   Races
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1911
+volume:  2
+issue:   4
+pages:   157-158
+-->
 # Races (1911)
 
 

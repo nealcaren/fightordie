@@ -1,3 +1,12 @@
+<!--
+title:   Sex Equality
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1920
+volume:  19
+issue:   3
+pages:   106
+-->
 # Sex Equality (1920)
 
 ```{margin}

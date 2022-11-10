@@ -1,3 +1,12 @@
+<!--
+title:   Intermarriage
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1913
+volume:  5
+issue:   4
+pages:   57
+-->
 # Intermarriage (1913)
 
 Few  groups of people are forced by their situation into such cruel dilem­mas as American Ne­groes. Nevertheless they must not allow anger or personal resentment to dim their clear vision.

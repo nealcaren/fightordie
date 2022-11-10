@@ -1,3 +1,12 @@
+<!--
+title:   Blaine of Maine
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1932
+volume:  39
+issue:   8
+pages:   267
+-->
 # Blaine of Maine (1932)
 
 The semi-secret and persistent propaganda on the history and meaning of the Civil War still keeps up to an astonishing degree. No book or article can get even a respectful hearing among the leading reviewers of the nation unless it subscribes fully to this thesis:

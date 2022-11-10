@@ -1,3 +1,12 @@
+<!--
+title:   Blessed Discrimination
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1913
+volume:  5
+issue:   4
+pages:   184-186
+-->
 # Blessed Discrimination (1913)
 
 A good friend sends us this word:

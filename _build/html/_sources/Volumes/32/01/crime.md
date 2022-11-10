@@ -1,3 +1,12 @@
+<!--
+title:   Crime
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1926
+volume:  32
+issue:   1
+pages:   9-10
+-->
 # Crime (1926)
 
 The junior organizations of the Ku Klux Klan are receiving thousands of copies of "Educational Studies Number 10" which concerns "the Negro and his relation to America". This pamphlet is arranged without the slightest regard for Truth. It asserts, for instance: "The Negro is constantly increasing in criminality". As a matter of fact, between 1910 and 1923 the number of Negroes committed for crime decreased over 26 per cent.

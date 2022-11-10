@@ -1,3 +1,12 @@
+<!--
+title:   Race Pride
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1920
+volume:  19
+issue:   3
+pages:   107
+-->
 # Race Pride (1920)
 
 ```{margin}

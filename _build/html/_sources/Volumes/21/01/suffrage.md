@@ -1,3 +1,12 @@
+<!--
+title:   Suffrage
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1920
+volume:  21
+issue:   1
+pages:   9-10
+-->
 # Suffrage (1920)
 
 There was a time when the South appealed to the world against the Negro on the ground that he was ignorant and inefficient. The answer to this was that education and social justice would gradually work the same changes in black as in white folk. Nevertheless, the strength of the southern argument lay in its insistence that during the transition from the ignorance of slavery to the efficiency of freedom, temporary disfranchisement and segregation were justifiable. It was this plea, repeated again and again with every appeal to class feeling and personal experience, that gained in the land and in the world so wide an acquiescence in the Southern Caste program.

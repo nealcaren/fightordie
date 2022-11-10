@@ -1,3 +1,12 @@
+<!--
+title:   Our Methods
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1927
+volume:  33
+issue:   3
+pages:   129-130
+-->
 # Our Methods (1927)
 
 Some assiduous friends have recalled the remark of a white secretary when he left the N.A.A.C.P. voicing serious doubts as to our methods. There has long been and long will be controversy over the stand which the N.A.A.C.P. has taken. There are those who still believe that our rights as American citizens can be won by cajoling and kow-towing and by the various methods of the so called "white-folks n*****".

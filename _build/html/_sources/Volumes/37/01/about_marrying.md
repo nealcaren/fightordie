@@ -1,3 +1,12 @@
+<!--
+title:   About Marrying
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1930
+volume:  37
+issue:   1
+pages:   28-29
+-->
 # About Marrying (1930)
 
 Dear Mr. Du Bois:

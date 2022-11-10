@@ -1,3 +1,12 @@
+<!--
+title:   The Capital N
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1930
+volume:  37
+issue:   5
+pages:   172
+-->
 # The Capital N (1930)
 
 Recently and with a certain suddenness, the periodical press of the United States has decided to capitalize the word Negro.
