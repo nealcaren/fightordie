@@ -11,4 +11,4 @@ He could, naturally, say: I do not WANT to marry this woman of another race, and
 
 
 ______________
-*Citation:* Du Bois, W.E.B. 1920. "Sex Equality." *The Crisis*. 19(3): 106.
+*Citation:* Du Bois, W.E.B. 1920. "Sex Equality." *The Crisis*. 19(3):106.

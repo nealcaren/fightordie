@@ -10,4 +10,4 @@ It will undoubtedly attract the support of those southerners who want aristocrat
 
 Moreover, there are thousands of white people in this country whom this kind of quibbling disgusts. Everybody knows what desperate effort has been made by certain elements among the suffragists to dodge the Negro problem, to try and work for democracy for white people while being dumb before slavery for blacks. This element has been squelched several times in the counsels of the party but it continually bobs up. Let the suffrage movement beware! In the turnings of time Mrs. Belmont may not be as adroit as she at present con­ceives herself.
 ______________
-*Citation:* Du Bois, W.E.B. 1915. "Agility." *The Crisis*. 9(3): 133.
+*Citation:* Du Bois, W.E.B. 1915. "Agility." *The Crisis*. 9(3):133.

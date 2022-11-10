@@ -20,4 +20,4 @@ There remains scarcely a respectable periodical in the United States that refuse
 
 
 ______________
-*Citation:* Du Bois, W.E.B. 1930. "The Capital N." *The Crisis*. 37(5): 172.
+*Citation:* Du Bois, W.E.B. 1930. "The Capital N." *The Crisis*. 37(5):172.

@@ -16,4 +16,4 @@ The Editor of a magazine like <span style="font-variant:small-caps;">The Crisis<
 
 
 _________________
-*Citation:* "Prejudice." 1927. Editorial. *The Crisis* 34(9):311.
+*Citation:* Du Bois, W.E.B. 1927. "Prejudice."  *The Crisis* 34(9):311.

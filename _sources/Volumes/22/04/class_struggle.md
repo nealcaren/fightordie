@@ -19,4 +19,4 @@ Whether this is a program of socialism or capitalism does not concern us. It is 
 
 
 ______________
-*Citation:* Du Bois, W.E.B. 1921. "The Class Struggle.." *The Crisis*. 22(4): 151-152.
+*Citation:* Du Bois, W.E.B. 1921. "The Class Struggle." *The Crisis*. 22(4):151-152.

@@ -15,4 +15,4 @@ Any readjustment of Africa is not fair and cannot be lasting which does not cons
 
 
 ______________
-*Citation:* Du Bois, W.E.B. 1919. "Reconstruction and Africa." *The Crisis*. 17(4): 165-166.
+*Citation:* Du Bois, W.E.B. 1919. "Reconstruction and Africa." *The Crisis*. 17(4):165-166.

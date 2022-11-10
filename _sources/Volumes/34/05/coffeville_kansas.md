@@ -7,4 +7,4 @@ Meantime, the colored man arrested is released when the girls declare he was not
 Then the truth begins to leak out. The white people try to hush the matter up but the Negroes petition for a Grand Jury. The Coffeeville *Daily Journal* acknowledges, May 30, that white men and not Negroes were the bedfellows of the two girls and one white man is today in jail charged with rape while one of the girls is also in jail as accessory. What comment is adequate?
 
 _________________
-*Citation:* "Coffeeville, Kanasas." 1927. Editorial. *The Crisis* 34(5):167.
+*Citation:* Du Bois, W.E.B. 1927. "Coffeeville, Kanasas." *The Crisis* 34(5):167.

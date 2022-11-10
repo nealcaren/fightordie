@@ -11,4 +11,4 @@ It would be a wiser and more far- sighted attitude today for white America to in
 On our part the way is clear: the sooner we rise above charity, the sooner we shall be free.
 
 ______________
-*Citation:* Du Bois, W.E.B. 1922. "White  charity.." *The Crisis*. 24(2): 57.
+*Citation:* Du Bois, W.E.B. 1922. "White Charity." *The Crisis*. 24(2):57.

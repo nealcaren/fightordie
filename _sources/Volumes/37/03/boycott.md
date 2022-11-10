@@ -18,4 +18,4 @@ This is but the beginning. Public accommodations, like telephones and street car
 
 
 ______________
-*Citation:* Du Bois, W.E.B. 1930. "The boycott." *The Crisis*. 37(3): 102.
+*Citation:* Du Bois, W.E.B. 1930. "The boycott." *The Crisis*. 37(3):102.

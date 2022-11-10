@@ -37,4 +37,4 @@ Our task, therefore, as it seems to <span style="font-variant:small-caps;">The C
 This was the true thought and meaning back of our May editorial. We have an immediate program for Negro emancipation laid down and thought out by the N.A.A.C.P. It is foolish for us to give up this practical program for mirage in Africa or by seeking to join a revolution which we do not at present understand. On the other hand, as Mr. McKay says, it would be just as foolish for us to sneer or even seem to sneer at the blood-entwined writhing of hundreds of millions of our whiter human brothers.
 
 _________________
-*Citation:* "Socialism and the Negro." Editorial. 1921. 22(3):102-104.
+*Citation:* Du Bois, W.E.B.  1921. "Socialism and the Negro." 22(3):102-104.

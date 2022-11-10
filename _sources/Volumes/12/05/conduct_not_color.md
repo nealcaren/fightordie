@@ -4,4 +4,4 @@ A number of papers have been repeating a recent dictum that it is conduct, not c
 
 
 ______________
-*Citation:* Du Bois, W.E.B. 1916. "Conduct, Not Color.." *The Crisis*. 12(5): 217-218.
+*Citation:* Du Bois, W.E.B. 1916. "Conduct, Not Color." *The Crisis*. 12(5):217-218.

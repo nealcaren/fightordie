@@ -50,4 +50,4 @@ This is the deep and unanswerable demand for a Pan-African movement. Who will re
 
 
 _____________
-*Citation:* Du Bois, W.E.B. 1930. "Patient Asses." *The Crisis*. 37(3): 100-101.
+*Citation:* Du Bois, W.E.B. 1930. "Patient Asses." *The Crisis*. 37(3):100-101.

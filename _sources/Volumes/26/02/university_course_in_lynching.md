@@ -19,4 +19,4 @@ In the case of James T. Scott everything was as it should be. He was a janitor a
 Here was every element of the modern American lynching. We are glad that the future fathers and mothers of the West saw it, and we are expecting great results from this course of study at one of the most eminent of our State Universities.
 
 ______________
-*Citation:* Du Bois, W.E.B. 1923. "A University Course in Lynching." *The Crisis*. 26(2): 55.
+*Citation:* Du Bois, W.E.B. 1923. "A University Course in Lynching." *The Crisis*. 26(2):55.

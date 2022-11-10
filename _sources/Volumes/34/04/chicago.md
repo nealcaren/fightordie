@@ -17,4 +17,4 @@ Thompson won [more than 90%](https://en.wikipedia.org/wiki/1927_Chicago_mayoral_
 All of which brings us to remark: that for bull-headed asininity, commend us to the Democratic party; only in New York City and in Tammany Hall does it appear to have glimmerings of common sense.
 
 _________________
-*Citation:* "Chicago." 1927. Editorial. *The Crisis* 34(4):131.
+*Citation:* Du Bois, W.E.B. 1927. "Chicago." 1927. *The Crisis* 34(4):131.

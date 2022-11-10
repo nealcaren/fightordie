@@ -143,7 +143,7 @@
 |   1926 |       31 |      06 | [Again, Pullman Porters](https://www.dareyoufight.org/Volumes/31/06/again_pullman_porters.html)                                  |
 |   1926 |       32 |      01 | [Lynching](https://www.dareyoufight.org/Volumes/32/01/lynching.html)                                                             |
 |   1926 |       32 |      01 | [Crime](https://www.dareyoufight.org/Volumes/32/01/crime.html)                                                                   |
-|   1926 |       32 |      02 | ["Krigwa Players Little Negro Theatre"](https://www.dareyoufight.org/Volumes/32/02/italy_and_abyssinia.html)                     |
+|   1926 |       32 |      02 | [Italy and Abyssinia](https://www.dareyoufight.org/Volumes/32/02/italy_and_abyssinia.html)                                       |
 |   1926 |       32 |      03 | ["Krigwa Players Little Negro Theatre"](https://www.dareyoufight.org/Volumes/32/03/kgriwa.html)                                  |
 |   1926 |       32 |      06 | [Criteria of Negro Art](https://www.dareyoufight.org/Volumes/32/06/criteria_of_negro_art.html)                                   |
 |   1926 |       33 |      01 | [Russia, 1926](https://www.dareyoufight.org/Volumes/33/01/russia_1926.html)                                                      |
@@ -171,7 +171,7 @@
 |   1929 |       36 |      05 | [The Negro Citizen](https://www.dareyoufight.org/Volumes/36/05/negro_citizen.html)                                               |
 |   1929 |       36 |      11 | [The Negro in Politics](https://www.dareyoufight.org/Volumes/36/11/negro_in_politics.html)                                       |
 |   1930 |       37 |      01 | [Football](https://www.dareyoufight.org/Volumes/37/01/football.html)                                                             |
-|   1930 |       37 |      01 | [About Marrying](https://www.dareyoufight.org/Volumes/37/01/gambling.html)                                                       |
+|   1930 |       37 |      01 | [Gambling](https://www.dareyoufight.org/Volumes/37/01/gambling.html)                                                             |
 |   1930 |       37 |      01 | [About Marrying](https://www.dareyoufight.org/Volumes/37/01/about_marrying.html)                                                 |
 |   1930 |       37 |      02 | [About Wailing](https://www.dareyoufight.org/Volumes/37/02/about_wailing.html)                                                   |
 |   1930 |       37 |      02 | [Smuts](https://www.dareyoufight.org/Volumes/37/02/smuts.html)                                                                   |

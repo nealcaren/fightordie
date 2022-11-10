@@ -102,4 +102,4 @@ We would like to ask Ira DeA. Reid, T. Arnold Hill, George Arthur and Benjamin F
 
 
 ______________
-*Citation:* Du Bois, W.E.B. 1931. "Woofterism." *The Crisis*. 38(4): 81-83.
+*Citation:* Du Bois, W.E.B. 1931. "Woofterism." *The Crisis*. 38(4):81-83.
