@@ -1,7 +1,7 @@
 # The Old Story (1911)
 
 ```{margin}
-A [draft](https://credo.library.umass.edu/view/full/mums312-b210-i059) of this article is available in the UMass Amherst [Du Bois Papers](https://credo.library.umass.edu/view/collection/mums312) collection. 
+A [draft](https://credo.library.umass.edu/view/full/mums312-b210-i059) of this article is available in the UMass Amherst [Du Bois Papers](https://credo.library.umass.edu/view/collection/mums312) collection.
 
 ```
 
@@ -15,4 +15,4 @@ Such justice is outrageous and such methods disgraceful. Black folk are willing 
 
 
 ________________
-*Citation:* Du Bois, W.E.B. 1911. "Old Story."  1(3):20.
+*Citation:* Du Bois, W.E.B. 1911. "Old Story." *The Crisis*. 1(3):20.

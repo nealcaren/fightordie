@@ -1,3 +1,13 @@
+<!--
+title: The National Emancipation Exposition
+author: W.E.B. Du Bois
+journal: The Crisis
+year: 1913
+volume: 6
+issue: 7
+pages: 339-341
+-->
+
 # The National Emancipation Exposition (1913)
 
 **In New York City, October 22-31, 1913**
@@ -106,4 +116,4 @@ Then shall the banners announce:
 
 "The play is done!"
 
-*Citation:* Du Bois, W.E.B. 1913. "The National Emancipation Exposition."  6(7):339-341.
+*Citation:* Du Bois, W.E.B. 1913. "The National Emancipation Exposition." *The Crisis*. 6(7):339-341.

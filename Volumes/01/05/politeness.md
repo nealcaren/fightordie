@@ -11,4 +11,4 @@ All this is wrong. No black man can afford to be less than studiously polite eve
 
 
 _________________
-*Citation:* Du Bois, W.E.B. 1911. "Politeness"  *The Crisis*. 1(5):21.
+*Citation:* Du Bois, W.E.B. 1911. "Politeness."  *The Crisis*. 1(5):21.
