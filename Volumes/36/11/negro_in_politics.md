@@ -8,4 +8,4 @@ It is, of course, unfortunate that in all this, Harlem and the Negroes of the Un
 
 
 __________
-*Citation:* "The Negro in Politics." 1929. *The Crisis*. 36(11): 387.
+*Citation:* Du Bois, W.E.B. 1929. "The Negro in Politics." *The Crisis*. 36(11):387.

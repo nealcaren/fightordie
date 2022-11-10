@@ -20,4 +20,4 @@ Here is a dilemma calling for thought and forbearance. Not every builder of raci
 
 
 ______________
-*Citation:* Du Bois, W.E.B. 1919. "Jim Crow." *The Crisis*. 17(3): 112-13.
+*Citation:* Du Bois, W.E.B. 1919. "Jim Crow." *The Crisis*. 17(3):112-13.

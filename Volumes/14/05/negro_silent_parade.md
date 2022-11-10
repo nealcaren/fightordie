@@ -164,4 +164,4 @@ The New York *World* says:
 
 
 ______________
-*Citation:* National Association for the Advancement of Colored People. 1917. "The Negro Silent Parade." *The Crisis*. 14(5): 241-244.
+*Citation:* National Association for the Advancement of Colored People. 1917. "The Negro Silent Parade." *The Crisis*. 14(5):241-244.

@@ -17,4 +17,4 @@ Are we going to be misled fools, or are we going to put a quarter of a million l
 
 
 ______________
-*Citation:* Du Bois, W.E.B. 1922. "The Drive." *The Crisis*. 22(1): 8.
+*Citation:* Du Bois, W.E.B. 1922. "The Drive." *The Crisis*. 22(1):8.

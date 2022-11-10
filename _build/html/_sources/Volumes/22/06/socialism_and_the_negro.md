@@ -31,4 +31,4 @@ I think these questions touch the center of much modern effort and reform. I mai
 
 
 _________________
-*Citation:* "Socialism and the Negro (1921)" Editorial.  22(6):245-247.
+*Citation:* Du Bois, W.E.B. 1921. "Socialism and the Negro." 22(6):245-247.

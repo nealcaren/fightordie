@@ -24,4 +24,4 @@ It may be a good thing to forget and forgive; but it is altogether too easy a tr
 
 
 ______________
-*Citation:* Du Bois, W.E.B. 1916. "Cowardice.." *The Crisis*. 12(6): 270-271.
+*Citation:* Du Bois, W.E.B. 1916. "Cowardice." *The Crisis*. 12(6):270-271.

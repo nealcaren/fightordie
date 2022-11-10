@@ -24,4 +24,4 @@ What, now, is the attitude of the white South toward Negro crime? First and fore
 
 
  ______________
- *Citation:* Du Bois, W.E.B. 1920. "Crime." *The Crisis*. 19(4): 172-173.
+ *Citation:* Du Bois, W.E.B. 1920. "Crime." *The Crisis*. 19(4):172-173.

@@ -4,4 +4,4 @@ Five years ago this month the first number of <span style="font-variant:small-ca
 
 
 ____________________
-*Citation:* Du Bois, W.E.B. 1915. "We come of Age" *The Crisis*. 11(1): 25
+*Citation:* Du Bois, W.E.B. 1915. "We Come of Age." *The Crisis*. 11(1):25

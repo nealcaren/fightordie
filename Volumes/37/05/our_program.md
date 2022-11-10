@@ -24,4 +24,4 @@ It is, therefore, the first job of the N.A.A.C.P. and of any colored organizatio
 
 
 ______________
-*Citation:* Du Bois, W.E.B. 1930. "Our Program." *The Crisis*. 37(5): 174.
+*Citation:* Du Bois, W.E.B. 1930. "Our Program." *The Crisis*. 37(5):174.

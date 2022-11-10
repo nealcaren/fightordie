@@ -16,4 +16,4 @@ These are all simple fundamental facts. Progress, to be sure, has been made in t
 
 
 ______________
-*Citation:* Du Bois, W.E.B. 1922. "Publicity." *The Crisis*. 24(1): 9-10.
+*Citation:* Du Bois, W.E.B. 1922. "Publicity." *The Crisis*. 24(1):9-10.

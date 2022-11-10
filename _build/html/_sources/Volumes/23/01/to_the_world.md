@@ -80,4 +80,4 @@ The answer is written in the stars.
 
 
 _________________
-*Citation:* Du Bois, W.E.B. 1921. "To the World" *The Crisis*. 23(1): 5-10.
+*Citation:* Du Bois, W.E.B. 1921. "To the World" *The Crisis*. 23(1):5-10.

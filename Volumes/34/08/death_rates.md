@@ -10,4 +10,4 @@ The group can only be compared with its own status in the past, to note progress
 
 
 _________________
-*Citation:* "Death Rates." 1927. Editorial. *The Crisis* 34(8):276.
+*Citation:* Du Bois, W.E.B. 1927. "Death Rates." *The Crisis* 34(8):276.

@@ -17,4 +17,4 @@ We of the colored race have no ordinary interest in the outcome. That which the 
 
 
 ______________
-*Citation:* Du Bois, W.E.B. 1918. "Close Ranks." *The Crisis*. 16(3): 111.
+*Citation:* Du Bois, W.E.B. 1918. "Close Ranks." *The Crisis*. 16(3):111.

@@ -15,4 +15,4 @@ The *ignorance* still forced on the colored South and still allowed in the white
 
 
 ______________
-*Citation:* Du Bois, W.E.B. 1931. "Causes of Lynching." *The Crisis*. 38(4): 138.
+*Citation:* Du Bois, W.E.B. 1931. "Causes of Lynching." *The Crisis*. 38(4):138.

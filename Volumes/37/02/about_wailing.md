@@ -13,4 +13,4 @@ We are not unmindful of our accomplishments and of a significant change in Ameri
 In fact, we have a feeling that in times past we have already rather overdone that grinning business. Let's wail a while.
 
 ______________
-*Citation:* Du Bois, W.E.B. 1930. "About Wailing." *The Crisis*. 37(1): 64.
+*Citation:* Du Bois, W.E.B. 1930. "About Wailing." *The Crisis*. 37(1):64.
