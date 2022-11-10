@@ -1,4 +1,4 @@
-# Protest
+# Strategy
 
 
 ```{tableofcontents}
