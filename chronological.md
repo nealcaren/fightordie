@@ -45,6 +45,7 @@
 |   1915 |       09 |      03 | [Agility](https://www.dareyoufight.org/Volumes/09/03/agility.html)                                                               |
 |   1915 |       09 |      05 | [Organization](https://www.dareyoufight.org/Volumes/09/05/organization.html)                                                     |
 |   1915 |       09 |      06 | [Woman Suffrage](https://www.dareyoufight.org/Volumes/09/06/womansuffrage.html)                                                  |
+|   1915 |       09 |      06 | [The Immediate Program of the  American Negro](https://www.dareyoufight.org/Volumes/09/06/immediate_program.html)                |
 |   1915 |       10 |      01 | [The Clansman](https://www.dareyoufight.org/Volumes/10/01/clansman.html)                                                         |
 |   1915 |       10 |      01 | [Peace](https://www.dareyoufight.org/Volumes/10/01/peace.html)                                                                   |
 |   1915 |       10 |      01 | [The Fourteenth Amendment](https://www.dareyoufight.org/Volumes/10/01/fourteenth_amendment.html)                                 |
