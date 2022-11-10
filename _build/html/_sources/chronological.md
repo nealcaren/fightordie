@@ -214,7 +214,9 @@
 |   1933 |       40 |       4 | [The Right to Work](https://www.dareyoufight.org/Volumes/40/04/right_to_work.html)                                               |
 |   1933 |       40 |       5 | [Marxism and The Negro Problem](https://www.dareyoufight.org/Volumes/40/05/marxism_and_the_negro_problem.html)                   |
 |   1933 |       40 |       5 | [Scottsboro](https://www.dareyoufight.org/Volumes/40/05/scottsboro.html)                                                         |
+|   1933 |       40 |       6 | [The Strategy of the Negro Voter](https://www.dareyoufight.org/Volumes/40/06/strategy_of_the_negro_voter.html)                   |
 |   1933 |       40 |       7 | [A Protest](https://www.dareyoufight.org/Volumes/40/07/protest.html)                                                             |
+|   1933 |       40 |       7 | [Our Class Struggle](https://www.dareyoufight.org/Volumes/40/07/our_class_struggle.html)                                         |
 |   1933 |       40 |       8 | [The Negro College](https://www.dareyoufight.org/Volumes/40/08/negro_college.html)                                               |
 |   1933 |       40 |       9 | [On Being Ashamed of Oneself](https://www.dareyoufight.org/Volumes/40/09/on_being_ashamed.html)                                  |
 |   1934 |       41 |       1 | [Segregation](https://www.dareyoufight.org/Volumes/41/01/segregation.html)                                                       |
@@ -228,5 +230,3 @@
 |   1934 |       41 |       5 | [Violence](https://www.dareyoufight.org/Volumes/41/05/violence.html)                                                             |
 |   1934 |       41 |       6 | [Counsels of Despair](https://www.dareyoufight.org/Volumes/41/06/counsels_of_despair.html)                                       |
 |   1934 |       41 |       8 | [Dr. DuBois Resigns](https://www.dareyoufight.org/Volumes/41/08/dr_dubois_resigns.html)                                          |
-|    nan |      nan |     nan | [nan](https://www.dareyoufight.org/Volumes/40/06/strategy_of_the_negro_voter.html)                                               |
-|    nan |      nan |     nan | [nan](https://www.dareyoufight.org/Volumes/40/07/our_class_struggle.html)                                                        |
