@@ -12,4 +12,4 @@ Their attention is drawn to the efforts of colored people to be treated decently
 
 Not so, O Blind Man. He bitterly resents your treatment of Negro blood. The prouder he is, or has a right to be, of the blood of his black fathers, the more doggedly he resists the attempt to load men of that blood with ignominy and chains. It is race pride that fights for freedom; it is the man ashamed of his blood who weakly submits and smiles.
 ________________
-*Citation:* Du Bois, W.E.B. 1911. "Ashamed."  1(3):21.
+*Citation:* Du Bois, W.E.B. 1911. "Ashamed." *The Crisis*. 1(3):21.
