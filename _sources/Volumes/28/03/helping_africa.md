@@ -15,6 +15,5 @@ First, Africa is full; not perhaps full to the extent that Belgium is, or the Rh
 
 Liberia for instance has held and defended her country with blood and tears for a hundred long and weary years. She is not going to allow American Negroes to assume control and to direct her government. Liberia, in her mind, is for Liberians.
 
-
 _________________
-*Citation:* Du Bois, W.E.B. 1924. "Helping Africa." 28(3):106.
+*Citation:* Du Bois, W.E.B. 1924. "Helping Africa." *The Crisis*. 28(3):106.

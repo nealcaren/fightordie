@@ -19,6 +19,5 @@ Meantime, what are we doing about it? Here and there, in a few spectacular cases
 
 For a race which boasts its Christianity, and for a Church which squanders its money upon carpets, organs, stained glass, bricks and stone, this attitude toward Negro crime is the most damning accusation yet made.
 
-
 _________________
-*Citation:* Du Bois, W.E.B. 1932. "Courts and Jails" 39(4):132.
+*Citation:* Du Bois, W.E.B. 1932. "Courts and Jails." *The Crisis*. 39(4):132.

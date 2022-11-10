@@ -21,6 +21,5 @@ On the other hand there are certain distinct advantages in girls. They contribut
 
 Be glad it's a girl and make life wider and safer and more equal in burden for all girls because of this one.
 
-
 _________________
-*Citation:* Du Bois, W.E.B. 1933. "It is a Girl." *The Crisis* 40(2):45.
+*Citation:* Du Bois, W.E.B. 1933. "It is a Girl." *The Crisis*. 40(2):45.

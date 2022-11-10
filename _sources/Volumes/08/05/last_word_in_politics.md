@@ -30,4 +30,4 @@ We sympathize with those faithful old black voters who will always vote the Repu
 We sincerely believe that even in the face of promises disconcertingly vague, and in the face of the solid caste-ridden South, it is better to elect Woodrow Wilson President of the United States and prove once for all if the Democratic party dares to be Democratic when it comes to black men. It has proven that it can be in many Northern States and cities. Can it be in the nation? We hope so and we are willing to risk a trial.
 
 ____________________
-*Citation:* Du Bois, W.E.B. 1912. "The Last Word in Politics" *The Crisis*. 8(5):29.
+*Citation:* Du Bois, W.E.B. 1912. "The Last Word in Politics." *The Crisis*. 8(5):29.

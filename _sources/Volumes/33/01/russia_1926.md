@@ -22,4 +22,4 @@ Alone and unaccompanied I have walked the miles of streets in Leningrad, Moskow,
 I stand in astonishment and wonder at the revelation of Russia that has come to me. I may be partially deceived and half-informed. But if what I have seen with my eyes and heard with my ears in Russia is Bolshevism, I am a Bolshevik.
 
 ________________
-*Citation:* Du Bois, W.E.B. 1926. " Russia, 1926."  33(1):8.
+*Citation:* Du Bois, W.E.B. 1926. "Russia, 1926." *The Crisis*. 33(1):8.

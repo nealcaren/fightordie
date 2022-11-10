@@ -31,6 +31,5 @@ The N.A.A.C.P. has warned its radical friends and warns them now again: there is
 
 It is, therefore, the first job of the N.A.A.C.P. and of any colored organization to get rid of this color complex; to fight color discrimination as such; to admit frankly that this is not the whole of the battle for human rights, but it is the first rampart to be taken; that until this battle is fought and won, there can be no racial political democracy in the world; there can be no complete economic justice; there can be no social equality. There can be no permanent Peace on Earth.
 
-
 ______________
 *Citation:* Du Bois, W.E.B. 1930. "Our Program." *The Crisis*. 37(5):174.

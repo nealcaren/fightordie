@@ -16,7 +16,5 @@ The difficulty about nearly all statistical matter with regard to the Negro in t
 
 The group can only be compared with its own status in the past, to note progress; and such a comparison shows that the Negro death rate has been reduced 50 per cent. in the last forty years. The Negro has reduced his infant mortality and his death rate from scurges like tuberculosis. His betterment in health has been most striking and encouraging, as Louis I. Dublin, statistician of the Metropolitan Life Insurance Company, proves in the September *American Mercury*. Of course, there is still room and need for improvement, but the present American Negro death rate is as low as that of most European countries and considerable lower than that of Spain, Hungary, Russia, and the countries of South America.
 
-
-
 _________________
-*Citation:* Du Bois, W.E.B. 1927. "Death Rates." *The Crisis* 34(8):276.
+*Citation:* Du Bois, W.E.B. 1927. "Death Rates." *The Crisis*. 34(8):276.

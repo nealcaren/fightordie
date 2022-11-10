@@ -18,6 +18,5 @@ It would, of course, be foolish for a man to give up a good chance of making a l
 
 The colored people of the North on the other hand, should welcome their escaping fellows. It means, undoubtedly, increased hardships for them; it will be proscription and temporary difficulties, but anything that means freedom to black slaves should be welcomed by their free northern brothers.
 
-
 ______________
 *Citation:* Du Bois, W.E.B. 1916. "Migration." *The Crisis*. 12(6):270.

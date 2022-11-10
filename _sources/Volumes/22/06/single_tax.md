@@ -14,4 +14,4 @@ Negro radicals com­paratively little has been said of the Single Tax, and we ta
 None can doubt but that this is true. They may doubt if the single and simple expedient of a tax on land values will remedy the growing difficulty, but even this is arguable. At any rate, monopoly of land and its products is the most sinister thing that faces modern industrial progress the rise of laboring classes, and the emancipation of the Darker World.
 
 _________________
-*Citation:* Du Bois, W.E.B. 1921. "The Single Tax." 22(6):248.
+*Citation:* Du Bois, W.E.B. 1921. "The Single Tax." *The Crisis*. 22(6):248.

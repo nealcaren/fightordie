@@ -15,7 +15,6 @@ One no sooner states this than the expert would say immediately that there is no
 
 Of Negroes, 10 years of age and over in gainful occupations, there are:
 
-
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
 | Skilled laborers | 331,839 |
@@ -27,9 +26,7 @@ Of Negroes, 10 years of age and over in gainful occupations, there are:
 | Civil Service | 15,763 |
 | Total | 5,503,535 |
 
-
 Of the farmers, 181,016 were owners. The others were tenants. We may, therefore, say that the capitalistic class among Negroes would be among the following :
-
 
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
@@ -57,14 +54,11 @@ The American Negro. P. 64. Academy of Political and Social Science. [Citation in
 
  The apparent criminality, however, of the Negro race is greatly exaggerated for two reasons: First, accusation of crime was used systematically in the South to keep Negroes in serfdom after the Civil War; and secondly, Negroes receive but scant justice in the courts. Most writers, today, have assumed on the basis of statistics, that because the Negro population in jails and penitentiary is proportionately much larger than the white population, that, therefore, the Negro is unusually criminal. But as Thorsten Sellin has pointed out in his note on the Negro criminal, "The American Negro lacks education and earthly goods. He has had very little political experience and industrial training. His contact with city life has been unfortunate, for it has forced him into the most dilapidated and vicious areas of our great cities. Like a shadow over his whole existence lies the oppressive race prejudice of his white neighbor, restricting his activities and thwarting his ambitions. It would be extraordinary, indeed, if this group were to prove more law-abiding than the white, which enjoys more fully the advantages of a civilization the Negro has helped to create."*
 
-
 On the other hand, the peculiar result of the assumed fact that Negroes are criminal is that within the race, a Negro accused or convicted of a crime immediately suffers a penalty, not only of ostracism, but lack of sympathy. Negroes make comparatively little effort to defend the accused; they do not systematically look after them; the churches take little interest in delinquents, and the general attitude of the race is one of irritation toward these members of their groups who have brought the whole race into disrepute. This makes a peculiarly bitter feeling among the unfortunate of the race and the more successful.
 
 So far as dependents are concerned, again the material which we have to measure the amount of dependents is inconclusive and unsatisfactory. There are such differences in policy in various states, such difference in treatment that it is hard to say what the condition is. It would seem, by a study of states where there is a substantial uniform  policy toward the feeble-minded and paupers, regardless of race, that there is a higher rate of institutionization among Negroes than among whites. And this would be natural unless corrected by taking into account the unequal economic and social condition.
 
 Here again within the race, there is a certain resentment against a colored person who fails to progress as rapidly as the Negro thinks a black man must. When, therefore, such a person becomes a subject of charity and must be put into an institution, he is regarded not so much as unfortunate as in some vague way blame worthy. He hinders the general advance and even if he is not at fault, his existence is a misfortune. The real question, then, in the Negro race, is how far the group can and should assume responsibility for its delinquents and dependents, and cultivate sympathy and help for these unfortunates, and how far in this way differentiation into class can keep economic exploitation from becoming a settled method of social advance.
 
-
-
 _________________
-*Citation:* Du Bois, W.E.B. 1933. "Our Class Struggle." *The Crisis* 40(7):164-165.
+*Citation:* Du Bois, W.E.B. 1933. "Our Class Struggle." *The Crisis*. 40(7):164-165.

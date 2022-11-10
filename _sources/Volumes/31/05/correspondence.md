@@ -31,6 +31,5 @@ pages:   218
 
 *W. E. B. Du Bois*
 
-
 ________________
-*Citation:* Du Bois, W.E.B. 1926. "Correspondence."  31(5):218.
+*Citation:* Du Bois, W.E.B. 1926. "Correspondence." *The Crisis*. 31(5):218.

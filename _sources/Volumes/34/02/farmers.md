@@ -16,4 +16,4 @@ The only rift in the lute is that the Southern Farmer cannot stand shoulder to s
 But let the black peasants and laborers lift up their ears to the meaning of the Farm Bloc and the McNary-Haugen Bill.
 
 ________________
-*Citation:* Du Bois, W.E.B. 1927. "Famers." *The Crisis.* 34(2):69.
+*Citation:* Du Bois, W.E.B. 1927. "Farmers." *The Crisis*. 34(2):69.

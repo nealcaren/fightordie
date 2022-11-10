@@ -25,7 +25,5 @@ If, on the other hand, he fought the accumulating capital in his own group, whic
 
 Whether this is a program of socialism or capitalism does not concern us. It is the only program that means salvation to the Negro race. The main danger and the central question of the capitalistic development through which the Negro American group is forced to go is the question of the ultimate control of the capital which they must raise and use. If this capital is going to be controlled by a few men for their own benefit, then we are destined to suffer from our own capitalists exactly what we are suffering from white capitalists today. And while this is not a pleasant prospect, it is certainly no worse than the present actuality. If, on the other hand, because of our more democratic organization and our widespread inter-class sympathy we can introduce a more democratic control, taking advantage of what the white world is itself doing to introduce industrial democracy, then we may not only escape our present economic slavery but even guide and lead a distrait economic world.
 
-
-
 ______________
 *Citation:* Du Bois, W.E.B. 1921. "The Class Struggle." *The Crisis*. 22(4):151-152.

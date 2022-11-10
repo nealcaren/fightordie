@@ -24,4 +24,4 @@ We must watch Hawaii, and in the present turmoil, remember two significant facts
 Watch Hawaii.
 
 ______________
-*Citation:* Du Bois, W.E.B. 1932. "Hawaii" *The Crisis*. 39(3):93.
+*Citation:* Du Bois, W.E.B. 1932. "Hawaii." *The Crisis*. 39(3):93.

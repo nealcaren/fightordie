@@ -26,7 +26,5 @@ We propose that this Commission undertake:
 
 The National Association for the Advancement of Colored People stands ready to take part in such a movement and hereby invites the coöperation of all organized labor. The Association hereby solemnly warns American laborers that unless some such step as this is taken and taken soon the position gained by organized labor in this country is threatened with irreparable loss.
 
-
-
 _________________
-*Citation:* Du Bois, W.E.B. 1924. "American Federation of Labor." 28(4):153-154.
+*Citation:* Du Bois, W.E.B. 1924. "To the American Federation of Labor." *The Crisis*. 28(4):153-154.

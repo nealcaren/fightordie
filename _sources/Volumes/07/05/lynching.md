@@ -17,6 +17,5 @@ As this, however, was our first attempt to keep a record, we let the matter go w
 
 God knows <span style="font-variant:small-caps;">The Crisis</span> is not anxious to increase the red record nor to revel in the spread of this most disgraceful blot upon our civilization. But nevertheless <span style="font-variant:small-caps;">The Crisis</span> has counted during the year 1913 seventy-nine and possibly eighty lynchings. There is, of course, much difficulty in determining just the number of lynchings. News agencies in the South often deliberately suppress  these reports and in nearly all cases are vague as to names, places and details. It is always possible, therefore, that the same lynching may be reported twice; then, too, there is evident difficulty in determining what constitutes a lynching. Ordinary murders, even though by mobs, have usually not been included. Making all due allowances for these things, <span style="font-variant:small-caps;">The Crisis</span> is unable to see any reason for believing that lynching decreased last year. On the contrary, the evidence of a substantial increase seems very strong. We would be only too glad to have our conclusions disproved.
 
-
 ______________
 *Citation:* Du Bois, W.E.B. 1914. "Lynching." *The Crisis*. 7(5):239.

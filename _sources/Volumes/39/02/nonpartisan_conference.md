@@ -37,7 +37,6 @@ C. To encourage, especially among our own people, such co-operative organization
 > &nbsp;    
 > For the intelligent carrying out of this industrial program, we earnestly recommend that American Negroes give attention and thought to all movements toward social reform: to Communists and Socialists, to laborers and capitalists, and to all those who are sincerely seeking to remedy the present depression and to break down the economic color line.
 
-
 In most other respects, the Findings, although inexcusably prolix, were admirable in content: Non-Partisan voting, Southern disfranchisement, the Negro in the Civil Service, Lynching, and National Aid to Education were well and sanely treated.
 
 But the economic plank should have been the most important of all, since it treated a question paramount in pressing interest and logical weight to all others. It should have been the key plank of the conference, adopted after thought, research and long discussion. And it should have expressed the real and only reason this conference had for being: the relation of the ballot to work and wages.
@@ -47,4 +46,4 @@ The plank which I proposed was my own sincere thought, but I had no silly pride 
 But in the name of a Merciful Heaven, why O why! did it seem necessary even to the jaded digestive system of Kelly Miller to feed the race on this one subject and at its hungriest moment, the thinnest economic flap-doodle?
 
 _________________
-*Citation:* Du Bois, W.E.B. 1932. "The Non-Partisan Conference." *The Crisis*. 39(2):58-59
+*Citation:* Du Bois, W.E.B. 1932. "The Non-Partisan Conference." *The Crisis*. 39(2):58-59.

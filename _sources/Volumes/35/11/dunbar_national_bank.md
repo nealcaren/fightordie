@@ -9,7 +9,6 @@ pages:   382
 -->
 # The Dunbar National Bank (1928)
 
-
 The establishment of the Dunbar National Bank in New York City, may be simply another bank; but it might prove to be an epoch making event for the darker races of the world. Here is a bank with over a million dollars of capital and surplus, with a colored and white directorate and a colored and white personnel. Even though white business men and capital predominate in numbers and authority, yet the possibilities of such an organization are tremendous.
 
 In the present organization of the world in politics and industry the line between capital and labor coincides roughly to the line between the white and darker races. Whatever salvation the darker races seek under present conditions must be attained through their admission to the ranks of capitalists.
@@ -40,6 +39,5 @@ The seemingly insoluble problems of South Africa and of East Africa could be mit
 
 We shall look forward then with interest to the development of this bank. If it adds simply one more bank in Harlem to the banks of New York, we shall be profoundly disappointed, no matter how large its capital and how great its dividends. If it takes a real step toward an industrial democracy which includes the darker races, we shall hail it as one of the great steps of the 20th Century.
 
-
 _________________
-*Citation:* Du Bois, W.E.B. 1928. "The Dunbar National Bank." *The Crisis*  35(11):382.
+*Citation:* Du Bois, W.E.B. 1928. "The Dunbar National Bank." *The Crisis*. 35(11):382.

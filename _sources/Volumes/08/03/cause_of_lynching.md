@@ -15,6 +15,5 @@ From Shreveport there are newspaper accounts of a horrible lynching of a Negro b
 
 We have no way of proving these assertions; but they have many ear-marks of truth and their very assertion is an astounding indictment of modern American barbarism. <span style="font-variant:small-caps;">The Crisis</span> knows that Negroes are human and it does not for a moment presume that every Negro accused of a horrible crime is innocent. It wants, and wants for the sake of colored people even more than of others, that colored criminals be treated so as to decrease crime, whatever that treatment may be. It is painfully significant that of all methods of suppressing crime lynching has certainly failed in Shreveport; in that city and parish seven Negroes have been lynched in two years, not counting ordinary murders.
 
-
 ________________
 *Citation:* Du Bois, W.E.B. 1914. "The Cause of Lynching." *The Crisis*. 8(3):126-127.

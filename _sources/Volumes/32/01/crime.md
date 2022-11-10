@@ -25,6 +25,5 @@ The natural delinquency arising from his position in the United States is increa
 
 The United States is deliberately manufacturing Negro crime and has been doing so for 150 years. And despite this, Negro crime has decreased 26 per cent in the last 13 years.
 
-
 ________________
-*Citation:* Du Bois, W.E.B. 1926. "Crime."  32(1):9-10.
+*Citation:* Du Bois, W.E.B. 1926. "Crime." *The Crisis*. 32(1):9-10.

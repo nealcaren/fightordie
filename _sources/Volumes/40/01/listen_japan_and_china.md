@@ -15,8 +15,5 @@ Listen to a word from twelve little black millions who live in the midst of west
 
 Unmask them, Asia; tear apart their double faces and double tongues and unite in peace. Remember Japan, that white America despises and fears you. Remember China, that England covets your land and labor. Unite! Beckon to the three hundred million Indians; drive Europe out of Asia and let her get her own raped and distracted house in order. Let the yellow and brown race, nine hundred million strong take their rightful leadership of mankind. Let the young Chinese and Japanese students and merchants of America and Europe cease debate and recrimination while gleeful whites egg them on. Get together and wire word to Asia. Get together China and Japan, cease quarrelling and fighting! Arise and lead! The world needs Asia.
 
-
-
-
  _________________
- *Citation:* Du Bois, W.E.B. 1933. "Listen, Japan and China."  40(1):20.
+*Citation:* Du Bois, W.E.B. 1933. "Listen, Japan and China." *The Crisis*. 40(1):20.

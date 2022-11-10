@@ -9,7 +9,6 @@ pages:   114
 -->
 # Thirteen (1919)
 
-
 ```{margin}
 This editorial is on the [Houston riot](https://en.wikipedia.org/wiki/Houston_riot_of_1917).
 ```

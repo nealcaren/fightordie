@@ -9,7 +9,6 @@ pages:   245-247
 -->
 # Socialism and the Negro (1921)
 
-
 We have an interesting letter from John H. Owens of Washington, which we would like to publish in full but can only note certain extracts. Mr. Owens says, in answer to the editorial in the July <span style="font-variant:small-caps;">Crisis</span> on "[The Negro and Radical Thought](../03/negro_and_radical_thought.md)":
 
 > "Is there not just the bare possibility that some of the issues which you consider subordinate to your central idea (of the emancipation of the Negro) might possess the neucleus of a tangible and definite solution?"
@@ -38,6 +37,5 @@ The change in industrial organization must come from those who think and believe
 
 I think these questions touch the center of much modern effort and reform. I maintain that English working classes are exploiting India; that the English, French and Belgian laborers are raping Africa; that the working classes of America are subjugating Santo Domingo and Haiti. They may not be as conscious of all they are doing as their more educated masters, called Nationalists and Imperialists, but they are consciously submitting themselves to the leadership of these men; they are voluntarily refusing to know; they are systematically refusing to listen; they are blindly voting armies and navies and hidden diplomacy, regardless of the result, and while the individual white employee in Europe and America is less to be condemned than the individual capitalist for the way in which the darker nations have been treated, he can not escape his responsibility. He is co-worker in the miserable modern subjugation of over half the world.
 
-
 _________________
-*Citation:* Du Bois, W.E.B. 1921. "Socialism and the Negro." 22(6):245-247.
+*Citation:* Du Bois, W.E.B. 1921. "Socialism and the Negro." *The Crisis*. 22(6):245-247.

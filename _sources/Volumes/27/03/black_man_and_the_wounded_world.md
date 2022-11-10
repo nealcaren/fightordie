@@ -62,12 +62,9 @@ The Crisis then was bound to come. It did come in 1914-18. The Great War was a S
 
 Who was to blame? Not Germany but certain Germans. Not England but certain Englishmen. Not France but certain Frenchmen. All those modern civilized citizens who submitted voluntarily to the Dominant Wills of those who ruled the leading lands in 1914 were blood guilty of the murder of the men who fell in the war. More guilty were those whose acts and thoughts made up the Dominant Wills and who were willing to increase their incomes at the expense of those who suffer in Europe and out, under the present industrial system. There is no dodging the issue. Guilt is personal. Deed is personal, Opinion and Will are personal. Systems and Nations are not to blame—individuals are to blame. Individuals caused the Great War, did its deviltry and are guilty of its endless Crime.
 
-
 *On account of its length and its frankly pro-Negro attitude, it is possible that Dr. Du Bois' history of the Negro in the World War will have to be published by subscription. In this case the possibility of publication will depend on the number of persons willing to subscribe. If you are interested will you sign and return the appended blank or one similar to it?*
 
 > The undersigned is interested in the publication of "The Black Man in the Wounded World" by Dr. W. E. Burghardt Du Bois and would like details as to its size, cost and date of issue when these matters have been determined on.
 
-
-
 _________________
-*Citation:* Du Bois, W.E.B. 1924. "The Black Man and the Wounded World: A History of the Negro Race in the World War and After" 27(3):110-114.
+*Citation:* Du Bois, W.E.B. 1924. "The Black Man and the Wounded World." *The Crisis*. 27(3):110-114.

@@ -44,4 +44,4 @@ Your real work, my dear young man, does not lie with names. It is not a matter o
 W. E. B. Du Dois.
 
 _________________
-*Citation:* Du Bois, W.E.B. 1928. "The Name Negro." *The Crisis*  35(3):96-97.
+*Citation:* Du Bois, W.E.B. 1928. "The Name Negro." *The Crisis*. 35(3):96-97.

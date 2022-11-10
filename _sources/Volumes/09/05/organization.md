@@ -17,6 +17,5 @@ The Jewish Publication Society sends out the American Jewish Year Book annually 
 
 This is the great net work of organization which makes the Jewish people the tremendous force for good and for uplift which they are in this country. Let black men look at them with admiration and emulate them. Only in our secret orders can we approach them from afar, while in voluntary organizations and philanthropic activity we can see from the record of these 3,000,000 what our 10.000,000 have to learn.
 
-
 ______________
-*Citation:* Du Bois, W.E.B.  1915. "Organization." *The Crisis*. 9(5):235.
+*Citation:* Du Bois, W.E.B. 1915. "Organization." *The Crisis*. 9(5):235.

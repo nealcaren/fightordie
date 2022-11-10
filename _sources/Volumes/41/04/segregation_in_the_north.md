@@ -19,7 +19,6 @@ The attitudes of Schuyler and Kelly Miller are historically based on the amiable
 
 In the North, neither Schuyler nor Kelly Miller nor anyone with a visible admixture of Negro blood can frequent hotels or restaurants. They have difficulty in finding dwelling places in better class neighborhoods. They occupy "Lower 1" on Pullmans, and if they are wise, they do not go into dining cars when any large number of white people is there. Their children either go to colored schools or to schools nominally for both races, but actually attended almost exclusively by colored children. In other words, they are confined by unyielding public opinion to a Negro world. They earn a living on colored newspapers or in colored colleges, or other racial institutions. They treat colored patients and preach to colored pews. Not one of the 12 colored Ph.D.'s of last year, trained by highest American and European standards, is going to get a job in any white university. Even when Negroes in the North work side by side with whites, they are Segregated. like the postal clerks, or refused by white unions or denied merited promotion.
 
-
 No matter how much we may fulminate about "No segregation," there stand the flat facts. Moreover, this situation has in the last quarter century been steadily growing worse. Mr. Spingarn may ask judicially as to whether or not the N.A.A.C.P. should change its attitude toward segregation. The point that he does not realize is that segregation has changed its attitude toward the N.A.A.C.P. The higher the Negro climbs or tries to climb, the more pitiless and unyielding the color ban. Segregation may be just as evil today as it was in 1910, but it is more insistent, more prevalent and more unassailable by appeal or argument. The pressing problem is: What are we going to do about it?
 
 In 1910, colored men could be entertained in the best hotels in Cleveland, Detroit and Chicago. Today, there is not a single Northern city, except New York, where a Negro can be a guest at a first-class hotel. Not even in Boston is he welcome; and in New York, the number of hotels where he can go is very small. Roland Hayes was unable to get regular hotel accommodations, and Dr. Moton only succeeds by powerful white influence and by refraining from use of the public dining room or the public lobbies.
@@ -86,6 +85,5 @@ It may be and often has been true that oppression and insult have become so inte
 
 Moreover if association and contact with Negroes is distasteful to you, what is it to white people? Remember that the white people of America will certainly never want us until we want ourselves. We excuse ourselves in this case and say we do not hate Negroes but we do hate their condition, and immediately the answer is thrown back on us in the very words. Whose job is it to change that condition? The job of the white people or the job of the black people themselves, and especially of their uplifted classes?
 
-
 _________________
-*Citation:* Du Bois, W.E.B. 1934. "Segregation in the North."  41(4):115-117.
+*Citation:* Du Bois, W.E.B. 1934. "Segregation in the North." *The Crisis*. 41(4):115-117.

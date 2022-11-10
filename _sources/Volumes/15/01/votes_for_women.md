@@ -29,8 +29,6 @@ In 1917, New Yorkers [voted](https://ballotpedia.org/New_York_Amendment_1,_Women
 
 It is, therefore, of the utmost importance that every single black voter in the State of New York should this month cast his ballot in favor of woman suffrage and that every black voter in the United States should do the same thing whenever and as often as he has opportunity.
 
-
-
 It is only in such broad-minded willingness to do justice to all, that the black man can prove his right not only to share, but to help direct modern culture.
 
 __________

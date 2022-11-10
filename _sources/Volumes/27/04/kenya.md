@@ -16,4 +16,4 @@ They have tried to give the best of the land for agriculture and grazing to whit
 One cannot contemplate a more unjust and shortsighted policy. It is an attempt to find white supremacy in Africa itself and to carry out the idea that the European white man is going to dominate the earth. It will never succeed but it will cause endless bloodshed and misery before it fails.
 
 _____
-*Citation:* Du Bois, W.E.B. 1924. "Kenya" *The Crisis*. 27(4):152-153.
+*Citation:* Du Bois, W.E.B. 1924. "Kenya." *The Crisis*. 27(4):152-153.

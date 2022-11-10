@@ -9,7 +9,6 @@ pages:   270-271
 -->
 # Cowardice (1916)
 
-
 ```{margin}
 The [Newberry Six](https://en.wikipedia.org/wiki/Newberry_Six_lynchings) were lynched by a posse organized by the local sheriff. Boisey Long, the "wretched man" whose arrest Du Bose describes, was executed after being convicted by an all-white jury.
 ```
@@ -28,9 +27,6 @@ It may be a good thing to forget and forgive; but it is altogether too easy a tr
 
 -- G.K. Chesterton
 ```
-
-
-
 
 ______________
 *Citation:* Du Bois, W.E.B. 1916. "Cowardice." *The Crisis*. 12(6):270-271.

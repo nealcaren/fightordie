@@ -24,6 +24,5 @@ Negro workers have been and are continually traduced and libeled by these so-cal
 
 It is too bad that the rank and file or the American Federation of Labor cannot see the kind of bureaucracy by which they are ruled and give at least some aid and comfort to the recurrent demands inside the organization for reform. Unless they do this, some time there is coming a great wave of demand from the mass of exploited laborers for an organization which represents their injuries and their wishes. And that new organization is going to sweep the A. F. of L. off the face of the earth.
 
-
 _________________
-*Citation:* Du Bois, W.E.B. 1933. "The A.F. of L." *The Crisis* 40(12):292.
+*Citation:* Du Bois, W.E.B. 1933. "The A.F. of L.." *The Crisis*. 40(12):292.

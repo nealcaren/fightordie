@@ -87,6 +87,5 @@ In some such words and thoughts as these we seek to express our will and ideal, 
 
 The answer is written in the stars.
 
-
 _________________
-*Citation:* Du Bois, W.E.B. 1921. "To the World" *The Crisis*. 23(1):5-10.
+*Citation:* Du Bois, W.E.B. 1921. "To The World." *The Crisis*. 23(1):5-10.

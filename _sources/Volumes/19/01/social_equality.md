@@ -15,6 +15,5 @@ That bogey can be easily met: If "Social Equality" means the right to vote, the 
 
 If, on the other hand, "Social Equality" involves the denial of the social right of any individual of any race or color to choose his own marital mate, his own friends and his own dinner companions—in fine, to be master of his own home, then no sane person ever dreamed of demanding the slightest interference with such an obvious right, and any one who accuses Negroes of such a demand writes himself down as an ass or a deliberate liar.
 
-
 ______________
 *Citation:* Du Bois, W.E.B. 1919. "Social Equality." *The Crisis*. 19(1):337.

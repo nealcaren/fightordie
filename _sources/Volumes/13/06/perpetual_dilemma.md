@@ -56,9 +56,6 @@ Give us the camp.
 
 A word to those who object:
 
-
-
-
 ```{margin}
 [Leonard Wood](https://en.wikipedia.org/wiki/Preparedness_Movement), along with  former President Theodore Roosevelt, was a leader in the [Preparedness Movement](https://en.wikipedia.org/wiki/Preparedness_Movement), which sought to build up US military prior to its involvement in World War I.
 ```
@@ -71,7 +68,6 @@ A word to those who object:
 Can the reader conceive of the pos­sibility of choice? The leaders of the colored race who advise them to add treason and rebellion to the other grounds on which the South urges discrimination against them would hardly be doing a service to those whom they profess to love. No, there is only one thing to do now, and that is to organize the colored people for leadership and service, if war should come. A thousand commissioned officers of colored blood is something to work for.
 
 Give us the camp!
-
 
 ______________
 *Citation:* Du Bois, W.E.B. 1917. "The Perpetual Dilemma." *The Crisis*. 13(6):270-271.

@@ -19,6 +19,5 @@ This, at least, remember, you who jump to judgment—Houston was not an ordinary
 
 What it was they had to stand, we learn only in tortuous driblets from sources bitterly prejudiced. These facts, at least, are clear: Contrary to all military precedent the Negro provost guard had been disarmed and was at the mercy of citizen police who insulted them until blood ran. At last, they stole their own arms and turned and fought. They were not young recruits; they were not wild and drunken wastrels; they were disciplined men who said—'"This is enough; we'll stand no more!" That they faced and faced fearlessly the vision of a shameful death, we do not doubt. We ask no mitigation of their punishment. They broke the law. They must suffer. But before Almighty God, if those guiltless of their black brothers' blood shot the punishing shot, there would be no dead men in that regiment.
 
-
 ______________
 *Citation:* Du Bois, W.E.B. 1917. "Houston." *The Crisis*. 14(6):284-285.

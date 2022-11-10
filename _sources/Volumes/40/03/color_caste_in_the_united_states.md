@@ -9,7 +9,6 @@ pages:   59-60, 70
 -->
 # Color Caste in the United States (1933)
 
-
 ```{margin}
 A [draft](https://credo.library.umass.edu/view/full/mums312-b211-i089) of this article is available in the UMass Amherst [Du Bois Papers](https://credo.library.umass.edu/view/collection/mums312) collection. 
 
@@ -60,6 +59,5 @@ It would be untrue to say that all these restrictions happen to all Negroes at a
 
 This, then, is the situation, and the question is, what are modern, educated people going to do about, whether they are white or black?
 
-
 _________________
-*Citation:* Du Bois, W.E.B. 1933. "Color Caste in the United States." *The Crisis*  40(3):59-60, 70.
+*Citation:* Du Bois, W.E.B. 1933. "Color Caste in the United States." *The Crisis*. 40(3):59-60, 70.

@@ -9,7 +9,6 @@ pages:   60
 -->
 # The Black Man and Labor (1925)
 
-
 ```{margin}
 The [Brotherhood of Sleeping Car Porters](https://en.wikipedia.org/wiki/Brotherhood_of_Sleeping_Car_Porters), lead by Du Bois critic A. Philip Randolph, was founded in 1925, but would not achieve its first contract until more than a decade later.
 
@@ -22,6 +21,5 @@ Why is this? It is because since the days of slavery the black laborer has been 
 
 But beyond that if black men wish to meet and learn what laborers are doing in England or in Russia and sympathize with these movements they have a perfect right to do so; it is unjust of white men and idiotic of colored men to criticize the attempt. We should stand before the astounding effort of Soviet Russia to reorganize the industrial world with open mind and listening ears. Russia has not yet failed and Negroes must not swallow all the lies told about her. She may yet show the world the Upward Path. <span style="font-variant:small-caps;">The Crisis</span> does not know the persons back of the Chicago convention, but it asserts the right of any set of American Negroes to investigate and sympathize with any industrial reform whether it springs from Russia, China or the South Seas.
 
-
 _________________
-*Citation:* Du Bois, W.E.B. 1925. "The Black Man and Labor."  31(2):60.
+*Citation:* Du Bois, W.E.B. 1925. "The Black Man and Labor." *The Crisis*. 31(2):60.

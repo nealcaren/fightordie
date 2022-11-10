@@ -25,4 +25,4 @@ It has been charged that the management of the N.A.A.C.P. is undemocratic. If by
 
 Finally some people who find pleasure and profit in opposing the officers of the N.A.A.C.P. get very much up-set if these same officers answer attacks in words just as sharp as those of the attacking parties; but surely all this is a matter of taste. If a man calls me a thief there are various kinds of answers recommended by human experience. But certainly pained surprise is the last attitude for the accuser to take if I reply that the gentleman looks to me distinctly like a liar. The facts of the case however are what the public is really interested in and these facts are clear.
 ________________
-*Citation:* Du Bois, W.E.B. 1927. "Our Methods."  33(3):129-130.
+*Citation:* Du Bois, W.E.B. 1927. "Our Methods." *The Crisis*. 33(3):129-130.

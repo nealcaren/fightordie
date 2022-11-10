@@ -53,6 +53,5 @@ All this, we admit, is an enormous task for a magazine of 52 pages, selling for 
 
 We shall probably fall far short of its well doing but we shall make the attempt in all seriousness and good will. And, Good Reader, what will you do? Write and tell us.
 
-
 _________________
-*Citation:* Du Bois, W.E.B. 1925. "The New Crisis." *The Crisis*  30(1):7-9.
+*Citation:* Du Bois, W.E.B. 1925. "The New Crisis." *The Crisis*. 30(1):7-9.

@@ -9,7 +9,6 @@ pages:   182-184
 -->
 # Counsels of Despair (1934)
 
-
 ```{margin}
 This is the final editorial written by Du Bois for The Crisis.*
 ```
@@ -31,7 +30,6 @@ Affirm, as you have a right to affirm, that the Negro race is one of the great h
 Indeed, there is nothing else we can do. If you have passed your resolution, "No segregation, Never and Nowhere," what are you going to do about it? Let me tell you what you are going to do. You are going back to continue to make your living in a Jim-Crow school; you are going to dwell in a segregated section of the city; you are going to pastor a Jim-Crow Church; you are going to occupy political office because of Jim-Crow political organizations that stand back of you and force you into office. All these things and a thousand others you are going to do because you have got to.
 
 If you are going to do this, why not say so? What are you afraid of? Do you believe in the Negro race or do you not? If you do not, naturally, you are justified in keeping still. But if you do believe in the extraordinary accomplishment of the Negro church and the Negro college, the Negro school and the Negro newspaper, then say so and say so plainly, not only for the sake of those who have given their lives to make these things worthwhile, but for those young people whom you are teaching, by that negative attitude, that there is nothing that they can do, nobody that they can emulate, and no field worthwhile working in. Think of what Negro art and literature has yet to accomplish if it can only be free and untrammeled by the necessity of pleasing white folks! Think of the splendid moral appeal that you can make to a million children tomorrow, if once you can get them to see the possibilities of the American Negro today and now, whether he is segregated or not, or in spite of all possible segregation.
-
 
 ## Protest
 
@@ -82,4 +80,4 @@ At Cornell, therefore, in 1906, a group of students formed the Alpha Phi Alpha F
 This fraternity movement: has spread all over the United States. It has resulted in colored fraternities and sororities, whose membership runs into the thousands. If anyone has any doubt as to the meaning and inspiration of these fraternities, they should attend one of their national meetings and see the type of men and women that they are bringing together: the splendid enthusiasm, the inspiration and nationwide friendship. This is the kind of segregation that is forced upon us, and it is the kind of segregation in which we glory and which we are going to make the very finest type of institution that the United States has ever seen. And moreover, this is the singular and contradictory result: more Negroes have been taken into white fraternities since Negro fraternities started than ever before. The number thus admitted is still small, but it is not, as the timid argued, smaller; it is much larger.
 
 _________________
-*Citation:* Du Bois, W.E.B. 1934. "Counsels of Despair." *The Crisis*  41(6):182-184.
+*Citation:* Du Bois, W.E.B. 1934. "Counsels of Despair." *The Crisis*. 41(6):182-184.

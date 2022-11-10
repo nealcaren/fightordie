@@ -37,4 +37,4 @@ Finally, there can be no doubt that the atmosphere of discrimination and insult 
 Here, then, is our problem: Better *income*; better *use* of our present income; a frontal act upon *race discrimination* and a gospel of *defiant hope*.
 
 _________________
-*Citation:* Du Bois, W.E.B. 1933. "Our Health." *The Crisis* 40(2):44.
+*Citation:* Du Bois, W.E.B. 1933. "Our Health." *The Crisis*. 40(2):44.
