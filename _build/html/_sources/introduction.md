@@ -1,6 +1,9 @@
 # Introduction
 
-This book is an ongoing effort to make available a selection of works by W.E.B. Du Bois that appeared in <span style="font-variant:small-caps;">The Crisis</span>, the official journal of the NAACP. Du Bois founded the journal in 1910 and regularly contributed editorials and occasional articles between 1910 and 1934 when he left the NAACP over conflicting views on segregated institutions.
+
+**By Neal Caren**
+
+This anthology is an ongoing effort to make available a selection of works by W.E.B. Du Bois that appeared in <span style="font-variant:small-caps;">The Crisis</span>, the official journal of the NAACP. Du Bois founded the journal in 1910 and regularly contributed editorials and occasional articles between 1910 and 1934 when he left the NAACP over conflicting views on segregated institutions.
 
 In addition to his many other commitments during this period, his writing for <span style="font-variant:small-caps;">The Crisis</span> was prolific, frequently writing multiple items for each of the 286 issues he edited.
 
