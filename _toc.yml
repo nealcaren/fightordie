@@ -327,7 +327,10 @@ chapters:
     - file: Volumes/04/05/brother_batis.md
   - file: Volumes/10/03/an_open_letter.md
   - file: Volumes/14/05/negro_silent_parade.md
-  - file: Volumes/15/01/houston.md
+  - file: Sections/investigations.md
+    sections:
+    - file: Volumes/15/01/houston.md
+    - file: Volumes/16/01/burning_of_jim_mcilherron.md
 
 - file: additional_resources.md
 - file: chronological.md
