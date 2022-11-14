@@ -64,7 +64,7 @@ We use this information to create the displayed article title and citation.
 Specific *Dare You Fight* style is:
 * Start the file with the article meta data, as described above.
 * The final line is `_____`
-* The title of the journal where it occurs in an article is in small caps, which can be accomplished with `<span style="font-variant:small-caps;">The Crisis</span>`
+* The title of the journal where it occurs in an article is in small caps, which can be accomplished with `<span style="font-variant:small-caps;">The Crisis</span>` This likely will not work in your online Markdown program, but will work for the final version, so don't worry.
 * Ignore the drop cap and excessive capitalization that begins some articles.
 * Do not reproduce the narrow non-breaking space (espace fine insécable) that was sometimes used in front of colons and question marks.
 * Long quotes are indented using \>. For quotes that run more than one paragraph, use a non-printing space between each paragraph to preserve the indent. Additionally, each paragraph, except the last, should end with two spaces:

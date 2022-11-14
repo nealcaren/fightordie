@@ -1,5 +1,5 @@
 <!--
-title:   The National Emancipation Exposition
+title:   The People of Peoples and Their Gifts to Men
 author:  Du Bois, W.E.B.
 journal: The Crisis
 year:    1913
@@ -7,8 +7,10 @@ volume:  6
 issue:   7
 pages:   339-341
 -->
-# The National Emancipation Exposition (1913)
-
+# The People of Peoples and Their Gifts to Men (1913)
+```{margin}
+<span style="font-variant:small-caps;">The Crisis</span> version went under the headline "National Emancipation Exposition."
+```
 **In New York City, October 22-31, 1913**
 
  *The pageant of Negro history as written by W. E. B. Du Bois and produced by Charles Burroughs, Master; Daisy Tapley, Dora Cole Norman, Marie Stuart Jackson, Augustus G. Dill and 350 others, during the exhibition, and entitled "The People of Peoples and Their Gifts to Men."*
@@ -115,4 +117,4 @@ Then shall the banners announce:
 
 "The play is done!"
 
-*Citation:* Du Bois, W.E.B. 1913. "The National Emancipation Exposition." *The Crisis*. 6(7):339-341.
+*Citation:* Du Bois, W.E.B. 1913. "The People of Peoples and Their Gifts to Men." *The Crisis*. 6(7):339-341.

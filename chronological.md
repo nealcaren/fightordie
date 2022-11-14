@@ -34,7 +34,7 @@
 |   1913 |        5 |       5 | [The Proper Way](https://www.dareyoufight.org/Volumes/05/05/proper_way.html)                                                             |
 |   1913 |        6 |       1 | [The Vigilance Committee: A Call To Arms](https://www.dareyoufight.org/Volumes/06/01/vigilance_committee.html)                           |
 |   1913 |        6 |       2 | [Logic](https://www.dareyoufight.org/Volumes/06/02/logic.html)                                                                           |
-|   1913 |        6 |       7 | [The National Emancipation Exposition](https://www.dareyoufight.org/Volumes/06/07/national_emancipation_exposition.html)                 |
+|   1913 |        6 |       7 | [The People of Peoples and Their Gifts to Men](https://www.dareyoufight.org/Volumes/06/07/national_emancipation_exposition.html)         |
 |   1914 |        7 |       3 | [Join or Die](https://www.dareyoufight.org/Volumes/07/03/fightordie.html)                                                                |
 |   1914 |        7 |       4 | [Work for Black Folk in 1914](https://www.dareyoufight.org/Volumes/07/04/work_for_black_folk.html)                                       |
 |   1914 |        7 |       5 | [Lynching](https://www.dareyoufight.org/Volumes/07/05/lynching.html)                                                                     |
