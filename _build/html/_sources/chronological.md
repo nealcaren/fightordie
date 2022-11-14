@@ -171,6 +171,7 @@
 |   1929 |       36 |      11 | [The Negro in Politics](https://www.dareyoufight.org/Volumes/36/11/negro_in_politics.html)                                               |
 |   1929 |       36 |       2 | [DePriest](https://www.dareyoufight.org/Volumes/36/02/depriest.html)                                                                     |
 |   1929 |       36 |       5 | [The Negro Citizen](https://www.dareyoufight.org/Volumes/36/05/negro_citizen.html)                                                       |
+|   1929 |       36 |       5 | [Herbert Hoover and the South](https://www.dareyoufight.org/Volumes/36/05/hoover_and_the_south.html)                                     |
 |   1930 |       37 |       1 | [Football](https://www.dareyoufight.org/Volumes/37/01/football.html)                                                                     |
 |   1930 |       37 |       1 | [About Wailing](https://www.dareyoufight.org/Volumes/37/02/about_wailing.html)                                                           |
 |   1930 |       37 |       1 | [Gambling](https://www.dareyoufight.org/Volumes/37/01/gambling.html)                                                                     |
