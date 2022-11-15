@@ -11,9 +11,10 @@ pages:   339-341
 ```{margin}
 <span style="font-variant:small-caps;">The Crisis</span> version went under the headline "National Emancipation Exposition."
 ```
+
 **In New York City, October 22-31, 1913**
 
- *The pageant of Negro history as written by W. E. B. Du Bois and produced by Charles Burroughs, Master; Daisy Tapley, Dora Cole Norman, Marie Stuart Jackson, Augustus G. Dill and 350 others, during the exhibition, and entitled "The People of Peoples and Their Gifts to Men."*
+*The pageant of Negro history as written by W. E. B. Du Bois and produced by Charles Burroughs, Master; Daisy Tapley, Dora Cole Norman, Marie Stuart Jackson, Augustus G. Dill and 350 others, during the exhibition, and entitled "The People of Peoples and Their Gifts to Men."*
 
 ## Prelude
 

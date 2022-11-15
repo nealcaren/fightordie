@@ -1,5 +1,0 @@
-# Red Summer
-
-
-```{tableofcontents}
-```
