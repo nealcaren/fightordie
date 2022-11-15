@@ -1,0 +1,57 @@
+<!--
+title:   The New Crisis
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1925
+volume:  30
+issue:   1
+pages:   7-9
+-->
+# The New Crisis (1925)
+
+We have assumed, with the Spring, with the beginning  of our 30th semi-annual volume, with our 175th number and with the closing of a fateful quarter century, something of a new dress and a certain renewal of spirit.
+
+How long may a <span style="font-variant:small-caps;">Crisis</span> last? one might ask, sensing between our name and age some contradiction. To which we answer: What is long? 15 or 5000 years? But even in 15 years we see curious and suggestive change. In November, 1910, we wrote:
+
+> "The object of this publication is to set forth those facts and arguments which show the danger of race prejudice, particularly as manifested today toward colored people. It takes its name from the fact that the editors believe that this is a critical time in the history of the advancement of men. Catholicity and tolerance. reason and forbearance can today make the world-old dream of human brotherhood approach realization; while bigotry and prejudice, emphasized race consciousness and force can repeat the awful history of the contact of nations and groups in the past. We strive for this higher and broader vision of Peace and Good Will."
+
+Then we set forth the plan to make <span style="font-variant:small-caps;">The Crisis</span> (1) a newspaper, (2) a review of opinion, (3) a magazine with "a few short articles". This initial program has unfolded itself, changed and developed. There is no longer need of a monthly newspaper for colored folk. Colored weeklies have arisen with an efficiency and scope in news-gathering that was not dreamed of in 1910. Our news therefore has transformed itself into a sort of permanent record of a few matters of widespread and historic importance. Our review of opinion continues in both "Opinion" and "Looking Glass", but rather as interpretation than as mere quotation. Particularly has our policy changed as to articles. They have increased in number, length and authority. And above all, out of the broad vagueness of our general policy have emerged certain definite matters which we shall pursue with increased earnestness. We name them in something like the order in which they appeal to us now:
+
+1. Economic Development
+
+    At Philadelphia, the N.A.A.C.P. made a suggestion of alliance among the laboring people of the United States across the color line. The American Federation of Labor has as yet made no active response to our overtures. Meantime, however, we are not waiting and we -propose to make a crusade in <span style="font-variant:small-caps;">The Crisis</span> covering the next three years and taking up in succession the history and significance of the Labor Movement in the modern world, the present actual relation of Negroes to labor unions and a practical plan of future cooperation.
+
+2. Political Independence
+
+   We shall stress as never before political independence. No longer must Negroes be born into the Republican Party. If they vote the Republican ticket or any other ticket it must be because the candidates of that party in any given election make the best promises for the future and show the best record in the past. Above all we shall urge all Negroes, male and female, to register and vote and to study political ethics and machinery.
+
+3. Education and Talent
+
+   We shall stress the education of Negro youth and the discovery of Negro talent. Our schools must be emancipated from the secret domination of the Bourbon white South. Teachers, white or black, in Negro schools who cannot receive and treat their pupils as social equals must go. We must develop brains, ambition, efficiency and ideals without limit or circumscription. If our own Southern colleges will not do this, and whether they do it or not, we must  continue to force our way into Northern colleges in larger and larger numbers and to club their doors open with our votes. We must provide larger scholarship funds to support Negroes of talent here and abroad.
+
+4. Art
+
+   We shall stress Beauty—all Beauty, but especially the beauty of Negro life and character; its music, its dancing, its drawing and painting and the new birth of its literature. This growth which <span style="font-variant:small-caps;">The Crisis</span> long since predicted is sprouting and coming to flower. We shall encourage it in every way—by reproduction, by publication, by personal mention— keeping the while a high standard of merit and stooping never to cheap flattery and misspent kindliness.
+
+5. Peace and International Understanding
+
+   Through the Pan-African movement we shall press for better knowledge of each other by groups of the peoples of African descent; we shall seek wider understanding with the brown and yellow peoples of the world and thus, by the combined impact of an appeal to decency and humanity from the oppressed and insulted to those fairer races who today accidentally rule the world, we shall seek universal peace by abolishing the rivalries and hatreds and economic competition that lead to organized murder.
+
+6. The Church
+
+   We shall recognize and stress the fact that the American Negro church is doing the greatest work in social uplift of any present agency. We criticise our churches bitterly and in these plaints <span style="font-variant:small-caps;">The Crisis</span> has often joined. At the same time we know that without the help of the Negro church neither the N.A.A.C.P. nor <span style="font-variant:small-caps;">The Crisis</span> could have come into being nor could they for a single day continue to exist. Despite an outworn creed and ancient methods of worship the black church is leading the religious world in real human brotherhood, in personal charity, in social uplift and in economic teaching. No such tremendous force can be neglected or ignored by a journal which seeks to portray and expound the truth. We shall essay, then, the contradictory task of showing month by month the accomplishment of black religious organization in America and at the same time seeking to free the minds of our people from the futile dogma that makes for unreason and intolerance.
+
+7. Self-criticism
+
+   <span style="font-variant:small-caps;">The Crisis</span> is going to be more frankly critical of the Negro group. In our fight for the sheer crumbs of decent treatment we have become habituated to regarding ourselves as always right and resenting criticism from whites and furiously opposing self-criticism from within. We are seriously crippling Negro art and literature by refusing to contemplate any but handsome heroes, unblemished heroines and flawless defenders; we insist on being always and everywhere all right and often we ruin our cause by claiming too much and admitting no fault. Here <span style="font-variant:small-caps;">The Crisis</span> has sinned with its group and it purposes hereafter to examine from time to time judicially the extraordinary number of very human faults among us—both those common to mankind and those born of our extraordinary history and experiences.
+
+8. Criticism
+
+   This does not mean that we propose for a single issue to cease playing the gadfly to the Bourbon South and the Copperhead North, to hypocritical Philanthropy and fraudulent Science, to race hate and human degradation.
+
+All this, we admit, is an enormous task for a magazine of 52 pages, selling for 15 cents and paying all of its own expenses out of that 15 cents and not out of the bribes of Big Business.
+
+We shall probably fall far short of its well doing but we shall make the attempt in all seriousness and good will. And, Good Reader, what will you do? Write and tell us.
+
+_________________
+*Citation:* Du Bois, W.E.B. 1925. "The New Crisis." *The Crisis*. 30(1):7-9.

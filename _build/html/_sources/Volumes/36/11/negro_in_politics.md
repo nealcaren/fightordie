@@ -1,0 +1,19 @@
+<!--
+title:   The Negro in Politics
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1929
+volume:  36
+issue:   11
+pages:   387
+-->
+# The Negro in Politics (1929)
+
+The political situation of the American Negro this fall has many anomalies, contradictions and encouragements. A white Southerner has been made Chairman of the Republican National Committee. He will undoubtedly do what he can to eliminate the Negroes from political activity in the South. If he is successful, there will grow up in the South two parties dominated by white men. This alarms some Negroes and certain of their friends. <span style="font-variant:small-caps;">The Crisis</span> is not alarmed. If these are two real parties and not merely one party with two faces, then they will need votes; and the more progressive their program is, the greater will be their need. This will be the Negroes' opportunity.
+
+But this means that the Negro must become opportunist in politics. No area illustrates this better than Harlem. Black Harlem cares nothing for political labels. Candidates may be marked Democrat, Republican, Socialist, Harlem votes for the candidate. Moreover, it votes very largely for local reasons. It will support Mayor Walker, not because he is the best candidate. He is not. Norman Thomas, the Socialist candidate, is by long odds the best man running. But he has no chance of election. On the other hand, Mayor Walker has done a great deal for Harlem and is a much better man than the Republican, La Guardia; and Harlem will stand by him. Harlem will vote for a colored Congressman, for two colored Aldermen, for a colored member of the Assembly, for a colored leaders in Republican organizations.
+
+It is, of course, unfortunate that in all this, Harlem and the Negroes of the United States, must vote "'colored"'; but the fault is not theirs. So long as the color of a man's skin means more, to most candidates, than the tariff, democratic government, prohibition, war, or any other issue, just so long  the black man must vote with his eye on this fact. In these larger issues, he disfranchises himself, but he refuses to commit suicide in order to save a white world.
+
+__________
+*Citation:* Du Bois, W.E.B. 1929. "The Negro in Politics." *The Crisis*. 36(11):387.

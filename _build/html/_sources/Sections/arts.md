@@ -1,0 +1,5 @@
+# The Arts
+
+
+```{tableofcontents}
+```

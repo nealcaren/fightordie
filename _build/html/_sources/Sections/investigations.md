@@ -1,0 +1,5 @@
+# NAACP Investigations
+
+
+```{tableofcontents}
+```

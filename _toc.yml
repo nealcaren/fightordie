@@ -292,9 +292,10 @@ chapters:
     - file: Volumes/37/02/education.md
     - file: Volumes/39/04/again_howard.md
     - file: Volumes/40/08/negro_college.md
- - file: Sections/religion.md
+  - file: Sections/religion.md
+    sections:
     - file: Volumes/36/05/missionaries.md
- - file: Sections/misc
+  - file: Sections/misc
     sections:
     - file: Volumes/02/02/starvation_and_prejudice.md
     - file: Volumes/07/04/work_for_black_folk.md
