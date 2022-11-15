@@ -170,6 +170,7 @@
 |   1928 |       35 |       3 | [The Name Negro](https://www.dareyoufight.org/Volumes/35/03/name_negro.html)                                                             |
 |   1929 |       36 |      11 | [The Negro in Politics](https://www.dareyoufight.org/Volumes/36/11/negro_in_politics.html)                                               |
 |   1929 |       36 |       2 | [DePriest](https://www.dareyoufight.org/Volumes/36/02/depriest.html)                                                                     |
+|   1929 |       36 |       5 | [The Chicago Debate](https://www.dareyoufight.org/Volumes/36/05/chicago_debate.html)                                                     |
 |   1929 |       36 |       5 | [The Negro Citizen](https://www.dareyoufight.org/Volumes/36/05/negro_citizen.html)                                                       |
 |   1929 |       36 |       5 | [Herbert Hoover and the South](https://www.dareyoufight.org/Volumes/36/05/hoover_and_the_south.html)                                     |
 |   1929 |       36 |       5 | [Optimism](https://www.dareyoufight.org/Volumes/36/05/optimism.html)                                                                     |
