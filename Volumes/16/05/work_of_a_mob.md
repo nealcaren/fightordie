@@ -9,7 +9,7 @@ pages:   221-223
 -->
 # The Work of a Mob (1918)
 
-An investigation by Walter F. White, Assistant Secretary, Association for the Advancement of Colored People, in Brooks and Lowndes Counties, Georgia.
+***An investigation by Walter F. White, Assistant Secretary, National Association for the Advancement of Colored People, in Brooks and Lowndes Counties, Georgia.***
 
 The recent strong letter of President Wilson on lynching was undoubtedly called forth by representations from colored people following the lynchings in Brooks and Lowndes Counties, Ga., May 17-24. Hampton Smith, a white farmer, was killed, and newspaper dispatches report six persons as having been lynched for complicity. Investigation shows that at least eleven persons were killed.
 
