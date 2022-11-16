@@ -57,6 +57,7 @@
 |   1915 |        9 |       6 | [Woman Suffrage](https://www.dareyoufight.org/Volumes/09/06/womansuffrage.html)                                                          |
 |   1915 |        9 |       6 | [The Immediate Program of the  American Negro](https://www.dareyoufight.org/Volumes/09/06/immediate_program.html)                        |
 |   1916 |       11 |       4 | [That Capital 'N'](https://www.dareyoufight.org/Volumes/11/04/that_capital_n.html)                                                       |
+|   1916 |       11 |       5 | [The Cherokee Fires: An N.A.A.C.P. Investigation](https://www.dareyoufight.org/Volumes/11/05/cherokee_fires.html)                        |
 |   1916 |       11 |       6 | [Peonage](https://www.dareyoufight.org/Volumes/11/06/peonage.html)                                                                       |
 |   1916 |       12 |       4 | [Ireland](https://www.dareyoufight.org/Volumes/12/04/ireland.html)                                                                       |
 |   1916 |       12 |       4 | [The Drama Among Black Folk](https://www.dareyoufight.org/Volumes/12/03/drama_among_black_folk.html)                                     |

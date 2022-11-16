@@ -335,6 +335,7 @@ chapters:
   - file: Volumes/14/05/negro_silent_parade.md
   - file: Sections/investigations.md
     sections:
+    - file: Volumes/11/05/cherokee_fires.md
     - file: Volumes/15/01/houston.md
     - file: Volumes/16/01/burning_of_jim_mcilherron.md
 
