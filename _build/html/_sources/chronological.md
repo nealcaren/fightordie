@@ -66,6 +66,7 @@
 |   1916 |       12 |       6 | [The Negro Party](https://www.dareyoufight.org/Volumes/12/06/negro_party.html)                                                           |
 |   1916 |       12 |       6 | [Migration](https://www.dareyoufight.org/Volumes/12/06/migration.html)                                                                   |
 |   1916 |       13 |       2 | ['Refinement and Love'](https://www.dareyoufight.org/Volumes/13/02/refinement_and_love.html)                                             |
+|   1917 |       13 |       5 | [The Attempted Lynching of Lube Martin: An N.A.A.C.P. Investigation](https://www.dareyoufight.org/Volumes/13/05/attempted_lynching.html) |
 |   1917 |       13 |       6 | [The Perpetual Dilemma](https://www.dareyoufight.org/Volumes/13/06/perpetual_dilemma.html)                                               |
 |   1917 |       14 |       1 | [The Migration](https://www.dareyoufight.org/Volumes/14/01/migration.html)                                                               |
 |   1917 |       14 |       3 | [Memphis or East St. Louis?](https://www.dareyoufight.org/Volumes/14/03/memphis_or_east_st_louis.html)                                   |
