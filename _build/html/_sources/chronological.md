@@ -76,6 +76,7 @@
 |   1917 |       14 |       5 | [East St. Louis](https://www.dareyoufight.org/Volumes/14/05/east_st_louis.html)                                                          |
 |   1917 |       14 |       5 | [Awake America](https://www.dareyoufight.org/Volumes/14/05/awake_america.html)                                                           |
 |   1917 |       14 |       5 | [The Negro Silent Parade](https://www.dareyoufight.org/Volumes/14/05/negro_silent_parade.html)                                           |
+|   1917 |       14 |       5 | [The Massacre in East St. Louis](https://www.dareyoufight.org/Volumes/14/05/massacre_of_east_st_louis_copy.html)                         |
 |   1917 |       14 |       6 | [Houston](https://www.dareyoufight.org/Volumes/14/06/houston.html)                                                                       |
 |   1917 |       15 |       1 | [Votes for Women](https://www.dareyoufight.org/Volumes/15/01/votes_for_women.html)                                                       |
 |   1917 |       15 |       1 | [The Oath of the Negro Voter](https://www.dareyoufight.org/Volumes/15/01/oath_of_the_negro_voter.html)                                   |
