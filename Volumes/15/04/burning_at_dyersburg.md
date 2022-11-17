@@ -111,7 +111,7 @@ The Memphis, Tenn., *News-Scimitar* says:
 > &nbsp;    
 > At last the irons were hot.     
 > &nbsp;    
-> "Have you anything to say?"
+> "Have you anything to say?"    
 > &nbsp;    
 > A meek voice mumbled inaudibly. The Negro made a speech, but few caught the portent.    
 > &nbsp;    
@@ -119,7 +119,7 @@ The Memphis, Tenn., *News-Scimitar* says:
 > &nbsp;    
 > The smell of burning flesh permeated the atmosphere, a pungent, sickening aroma telling those who failed to get good vantage points what their eyes could not see. Smoothing irons were searing the flesh.    
 > &nbsp;    
-> Swish. Once, twice, three times a red hot iron dug gaping places in Lation Scott's back and sides.
+> Swish. Once, twice, three times a red hot iron dug gaping places in Lation Scott's back and sides.    
 > &nbsp;    
 > "Fetch a hotter one," somebody said. The execution went on.    
 > &nbsp;    
@@ -137,11 +137,12 @@ The Memphis, Tenn., *News-Scimitar* says:
 > &nbsp;    
 > Three and a half hours were required to complete the execution.
 
-![](../../../Images/dyersburg.png)
-
 ## Dyersburg Sentiment
 
 Public opinion in Dyersburg and Dyer County seems to be divided into two groups. One group considers that the Negro got what he deserved. The other group feels that he should have had a "decent lynching." Numbers of prominent Dyersburg citizens are of this second group. They say they thought the Negro was going to  be given a "decent lynching," and that they consider the burning and torturing a disgrace to the community. By this is meant a quick, quiet hanging, with no display or torturing.
+
+![](../../../Images/dyersburg.png)    
+***Dyersburg, Tenn.***
 
 The identity of the mob leaders is known all over Dyer County. From all accounts, they are citizens of doubtful reputation, backed up for this occasion by the sentiment of the community at large.
 
