@@ -91,7 +91,7 @@
 |   1918 |       16 |       5 | [The Reward](https://www.dareyoufight.org/Volumes/16/05/reward.html)                                                                     |
 |   1918 |       16 |       5 | [The Work of a Mob](https://www.dareyoufight.org/Volumes/16/05/work_of_a_mob.html)                                                       |
 |   1919 |       15 |       3 | [Thirteen](https://www.dareyoufight.org/Volumes/15/03/thirteen.html)                                                                     |
-|   1919 |       15 |       4 | [# The burning at Dyersburg: An N.A.A.C.P. Investigation](https://www.dareyoufight.org/Volumes/15/04/burning_at_dyersburg.html)          |
+|   1919 |       15 |       4 | [The Burning at Dyersburg: An N.A.A.C.P. Investigation](https://www.dareyoufight.org/Volumes/15/04/burning_at_dyersburg.html)            |
 |   1919 |       17 |       3 | [Jim Crow](https://www.dareyoufight.org/Volumes/17/03/jim_crow.html)                                                                     |
 |   1919 |       17 |       4 | [Africa](https://www.dareyoufight.org/Volumes/17/04/africa.html)                                                                         |
 |   1919 |       17 |       4 | [Reconstruction and Africa](https://www.dareyoufight.org/Volumes/17/04/reconstruction_and_africa.html)                                   |

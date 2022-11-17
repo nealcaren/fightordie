@@ -106,36 +106,38 @@ A little distance away, in the public square, the best citizens of the county su
 The Memphis, Tenn., *News-Scimitar* says:
 
 > Not a single cry for mercy was ever uttered by Scott. His fortitude struck even the mob workers as uncanny. No one offered a plea for the Negro after he confessed.     
-& nbsp;    
+> &nbsp;    
 > Not a domino hid a face. Everyone was unmasked. Leaders were designated and assigned their parts. Long before the mob reached the city the public square was choked with humanity. All waited patiently. omen, with babies, made themselves comfortable.   
-& nbsp;    
+> &nbsp;    
 > At last the irons were hot.     
-> & nbsp;    
+> &nbsp;    
 > "Have you anything to say?"
-> & nbsp;    
+> &nbsp;    
 > A meek voice mumbled inaudibly. The Negro made a speech, but few caught the portent.    
-> & nbsp;    
+> &nbsp;    
 > A red streak shot out; a poker in a brawny hand was boring out one of the Negro's eyes. The Negro bore the ordeal with courage, only low moans escaping him. Another poker was working like an auger on the other orbit.    
-> & nbsp;    
+> &nbsp;    
 > The smell of burning flesh permeated the atmosphere, a pungent, sickening aroma telling those who failed to get good vantage points what their eyes could not see. Smoothing irons were searing the flesh.    
-> & nbsp;    
+> &nbsp;    
 > Swish. Once, twice, three times a red hot iron dug gaping places in Lation Scott's back and sides.
-> & nbsp;    
+> &nbsp;    
 > "Fetch a hotter one," somebody said. The execution went on.    
-> & nbsp;    
+> &nbsp;    
 > Now someone had another poker—jabbing its fiery joint into the ribs of the doomed black.     
-> & nbsp;    
+> &nbsp;    
 > Then rubbish was piled high about the agonized body, squirming beneath its load.     
-> & nbsp;    
+> &nbsp;    
 > Someone struck the match—they say the husband of the assaulted woman applied it —and smoke began to curl upward into a blue sky. The flames gathered momentum, engulfing the body. The fire seemed to groan, but it was Lation Scott.     
-> & nbsp;    
+> &nbsp;    
 > More and more wood and rubbish were fed the fire, but at three o'clock Lation Scott was not dead. Life finally fled at four o'clock.     
-> & nbsp;    
+> &nbsp;    
 > The executioners departed, leaving only the morbid. Women, who had left their dinners in the making, hastened home. Children, who had tarried on the way home from Sunday School, scurried away.   
-> & nbsp;    
+> &nbsp;    
 > Women scarcely changed countenance as the Negro's back was ironed with the hot brands. Even the executioners maintained their poise in the face of bloody creases left by the irons—irons which some housewife has been using.  
-> & nbsp;    
+> &nbsp;    
 > Three and a half hours were required to complete the execution.
+
+![](../../../Images/dyersburg.png)
 
 ## Dyersburg Sentiment
 
@@ -154,4 +156,4 @@ A few people—mostly women—said: "It was terrible."
 Many citizens seem to have the psychology of having performed an unpleasant duty. One citizen said: "People here can do a thing like that, and then forget all about it."
 
 ______________
-*Citation:* Du Bois, W.E.B. 1919. "# The burning at Dyersburg: An N.A.A.C.P. Investigation." *The Crisis*. 15(4):178-183.
+*Citation:* Du Bois, W.E.B. 1919. "The Burning at Dyersburg: An N.A.A.C.P. Investigation." *The Crisis*. 15(4):178-183.
