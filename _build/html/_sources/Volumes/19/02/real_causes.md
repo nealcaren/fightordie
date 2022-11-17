@@ -31,7 +31,7 @@ That was the situation in 1918. Many Negroes had their cotton taken by the plant
 
 The Negroes got tired of it. Sixty-eight of them got together and decided to hire a lawyer and get statements of their accounts and a settlement at the right figures. They decided not to hire a Negro lawyer, because they knew that it meant mobbing and death to any Negro lawyer who would have the presumption to take one of these white planters to court. They were afraid to trust any white lawyer in Phillips County for fear their attorney would lay down on them and fail to get results after getting their money. They canvassed the situation and found that the firm of Bratton and Bratton, white, of Little Rock, was a good, reliable firm, and would fight for a Negro client to the last. They made contracts with this firm to handle all the sixty-eight cases at fifty dollars each in cash and a percentage of the moneys collected from the white planters. Also some of these Negroes and their friends planned to go before the Federal Grand Jury and charge certain white planters with peonage. These men had meetings from time to time for the purpose of collecting the moneys which were to be paid in advance and to place the same in the treasury; also to collect evidence and gather facts which would enable them to successfully prosecute these cases. These meetings had to be secret to prevent harm and danger to the men concerned and to their families.
 
-![](../../../Images/phillips_county.png)    
+![](../../../Images/black_belt.png)    
 ***The "Black Belt"***     
 *Here four million Negroes live and at least 500,000 of these are still held in involuntary servitude, in defiance of the 13th Amendment.*
 
@@ -74,6 +74,7 @@ The Negroes in the Black Belt are much demoralized, discouraged, and depressed. 
 Governor Brough has issued a statement to the public press that he intends to have theDefender and THE CRISIS suppressed. The Arkansas Gazette, white, has issued an editorial demanding that Negro leaders give their people "proper advice," and warning them that their race is in danger of annihilation unless Negroes cease to be led by the lure of Liberty and equal political rights and also warning them that the freedom of the Negro from bad economic conditions is not to be obtained by the methods which were resorted to by the Negroes of Phillips County. Also any white man who fights, either in court or elsewhere, for the rights of the Negro is to be put in jail and suffer social and business ostracism from the white people of the South.
 
 ![](../../../Images/crucifixion.png)    
+***The Crucifixion at Omaha***
 
 ## Omaha
 
