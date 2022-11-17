@@ -50,6 +50,7 @@
 |   1915 |       10 |       2 | [An Open Letter](https://www.dareyoufight.org/Volumes/10/03/an_open_letter.html)                                                         |
 |   1915 |       10 |       3 | [Education](https://www.dareyoufight.org/Volumes/10/03/education.html)                                                                   |
 |   1915 |       11 |       1 | [We Come of Age](https://www.dareyoufight.org/Volumes/11/01/we_come_of_age.html)                                                         |
+|   1915 |       11 |       1 | [The Risk of Woman Suffrage](https://www.dareyoufight.org/Volumes/11/01/risk_of_woman_suffrage.html)                                     |
 |   1915 |       11 |       2 | [The Star of Ethiopia](https://www.dareyoufight.org/Volumes/11/02/star_of_ethiopia.html)                                                 |
 |   1915 |       11 |       2 | [Booker T. Washington](https://www.dareyoufight.org/Volumes/11/02/booker_t_washington.html)                                              |
 |   1915 |        9 |       3 | [Agility](https://www.dareyoufight.org/Volumes/09/03/agility.html)                                                                       |
