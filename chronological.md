@@ -101,6 +101,7 @@
 |   1919 |       18 |       5 | [Let us Reason Together](https://www.dareyoufight.org/Volumes/18/05/let_us_reason_together.html)                                         |
 |   1919 |       18 |       5 | [Labor Omnia Vincit](https://www.dareyoufight.org/Volumes/18/05/labor_omnia_vincit.html)                                                 |
 |   1919 |       18 |       5 | [Forward](https://www.dareyoufight.org/Volumes/18/05/forward.html)                                                                       |
+|   1919 |       18 |       5 | [The Riots: An N.A.A.C.P. Investigation](https://www.dareyoufight.org/Volumes/18/05/riots.html)                                          |
 |   1919 |       18 |       6 | [Shillady and Texas](https://www.dareyoufight.org/Volumes/18/06/shillady_and_texas.html)                                                 |
 |   1919 |       18 |       6 | [The True Brownies](https://www.dareyoufight.org/Volumes/18/06/true_brownies.html)                                                       |
 |   1919 |       18 |       6 | [Chicago and Its Eight Reasons](https://www.dareyoufight.org/Volumes/18/06/chicago_and_its_eight_reasons.html)                           |
