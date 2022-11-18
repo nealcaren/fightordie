@@ -9,7 +9,7 @@ pages:   1-8
 -->
 # The Waco Horror (1916)
 
-```{margin)
+```{margin}
 Suffrage activist [Elisabeth Freeman](https://en.wikipedia.org/wiki/Elisabeth_Freeman) conducted much of the primary research for this article.
 ```
 
