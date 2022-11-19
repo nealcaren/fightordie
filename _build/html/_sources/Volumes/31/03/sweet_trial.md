@@ -10,13 +10,26 @@ pages:   125-129
 
 # The Sweet Trial (1926)
 
-The Assistant Secretary of the N.A.A.C.P. "Covered" the Trial of the Negroes of Detroit Who Were Tried for Murder Because They Defended Their Home Against a Mob
+***The Assistant Secretary of the N.A.A.C.P. "Covered" the Trial of the Negroes of Detroit Who Were Tried for Murder Because They Defended Their Home Against a Mob***
+
+```{margin}
+Du Bois wrote on this case two months earlier in, "[The Challenge of Detroit](../01/challenge_of_detroit.md)"
+```
 
 At half-past three in the afternoon of the day before Thanksgiving, Judge Frank Murphy of the Recorder's Court of Detroit finished reading his charge to the jury and turned over to that body for decision the now famous case of The People of the State of Michigan vs. Ossian H. Sweet *et al*.
 
 Seldom in any court has a more impartial, learned or complete charge to a jury been heard. As was evidenced throughout the case, Judge Murphy was exerting every effort at his command to assure to the eleven defendants a completely fair trial. His charge to the jury reached its dramatic climax when in a voice filled with emotion and sincerity, he declared:
 
+```{margin}
+![](../../../Images/dr_sweet.jpeg)    
+[Dr. Ossian H. Sweet](https://en.wikipedia.org/wiki/Ossian_Sweet)
+```
  "Dr. Sweet has the same right under the  law to purchase and occupy the dwelling house on Garland Avenue as any other  man. Under the law, a man's house is his castle. It is his castle, whether he is white or black, and no man has the right to assail or invade it. The Negro is now by the Constitution of the United States given full citizenship with the white man and all the rights and privileges of citizenship attend him wherever he goes."
+
+```{margin}
+![](../../../Images/sweet_jurors.jpeg)
+[The jury](https://sweettrials.udmercy.edu/biographies.html).
+```
 
 The jury retired. All afternoon and far into the night anxious crowds thronged the court room and the corridors without. From the jury room could be heard the muffled voices of the jury raised in anger but the door remained closed. Shortly after midnight, a message was sent to Judge Murphy asking for further instructions. Out came the jury with haggard faces and listened to Judge Murphy as he re-read the parts of his charge referring to justifiable self-defense.
 
@@ -26,7 +39,7 @@ Early on Thanksgiving morning, the jury resumed its deliberations. All day long 
 
 At 1:30 in the afternoon of November 27th, the jury sent word again to Judge Murphy that there was no hope of their reaching a decision. At the end of forty-six hours of deliberation, Judge Murphy declared a mistrial and thanked and dismissed the jurors.
 
-------------
+<p align="center"> ~~~~~~~~~~~~~~~ </p>
 
 Thus ended the first trial of the case which has stirred Negro America as no other case has ever moved it. Within fifteen years, the Negro population of Detroit has been multiplied by ten, jumping from eight thousand in 1911 to 81,831 by 1925 as a result of the stoppage of immigration from Europe and increased activity on the part of Northern industries. Negroes during and after the war worked in the plants of Detroit, made money and saved it. As has been said many times, it is obvious that eighty-one thousand people cannot live in the homes which housed eight thousand people thirteen years ago. Since 1916 there has been gradual and necessary penetration by Negro home buyers of neighborhoods which hitherto have been occupied by white people. There has been practically no trouble attendant upon these so-called "invasions" until the last year or two. People in Detroit have been so busy earning money that they have not had time to nourish and develop racial or other prejudices. With the exception of a few minor clashes, Detroit has been without doubt one of the fairest cities in the country so far as its treatment of Negroes is concerned.
 
@@ -36,7 +49,17 @@ In order to gain this strength, the Klan has capitalized and stirred up bitter r
 
 Practically nothing was done by the police to prevent this attack.
 
+```{margin}
+![](../../../Images/sweet_house.jpg)
+2905 Garland Street was added to the National Register of Historic Places in 1985.
+```
+
 Dr. Ossian H. Sweet, a young Negro physician who is a graduate of Wilberforce and Howard Universities and who has done post-graduate work in pediatrics and gynecology at the Universities of Vienna and Paris, bought a home on Garland Avenue last May. Because of threats against him, Dr. Sweet deferred moving into his new house for two months and a half. He did move in on September 8th, the day after Labor Day. That night a mob gathered but no attack was made on the house. The following evening a larger crowd gathered and stoned the house. In the excitement shots were fired and one member of the mob fell dead and one was wounded.
+
+```{margin}
+![](../../../Images/gladys_sweet2.jpg)
+[Gladys Sweet](https://sweettrials.udmercy.edu/biographies.html).
+```
 
 Police officers, including a deputy superintendent of police, an inspector, a lieutenant, a sergeant, and eight officers, were galvanized into action. They rushed into the house, arrested Dr. Sweet, his wife, Mrs. Gladys B. Sweet, mother of a fourteen months old baby, and nine other occupants of the house. In September, the eleven defendants were given a preliminary hearing before the late Judge John Faust. All were held without bail charged with murder in the first degree.
 
@@ -79,6 +102,10 @@ By the time the case was ready to go to the jury, it was freely predicted throug
 On the other hand, the anti-Negro sentiment, and especially that represented by such organizations as the Ku Klux Klan and the Waterworks Park Improvement Association which had been formed for the purpose of keeping Dr. Sweet from occupying his home, definitely became very bitter as the case went on. Because of the feeling on the part of the two groups just mentioned, it is reasonably certain that all eleven defendants would have been convicted had it not been for the work of the attorneys engaged and the efforts of the N.A.A.C.P. both in retaining these attorneys and in conducting the case and in the efforts of the N.A.A.C.P. in placing before the people of Detroit the actual facts in the case to displace the half truths and untruths which had stirred such hostility against the defendants.
 
 The case has cost the N.A.A.C.P. upwards of $20,000. A new trial has been set for the first week in January. Mr. Darrow announced to the court that it was probable that the defense would ask for separate trials for the eleven defendants. With renewed vigor, the N.A.A.C.P. is going into the case again determined to see it through to the end and to secure complete justice for the defendants.
+
+```{margin}
+The motion for separate trials was granted, and after Henry Sweet, Ossian's youngest brother, was found not guilty, [charges were dropped against the remaining defendants](https://en.wikipedia.org/wiki/Ossian_Sweet).
+```
 
 After the mistrial, Messrs. Darrow and Hays made a motion for the admission to bail of the defendants. Eight of them were freed on bail of $5,500 each while three others, Dr. Ossian H. Sweet, Henry Sweet and Leonard C. Morse, were freed on bail of $10,000 each. This bail has been almost entirely furnished by Negro property owners of Detroit.
 
