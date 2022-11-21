@@ -37,4 +37,4 @@ Much additional and corroborative testimony was given. When it had been heard th
 On February 19th, murder indictments against five Clinton men were drawn and presented to the grand jury by Solicitor Homer S. Blackwell. They were Marvin Lollis, P. M. Pitts, Hubert Pitts, Roy Pitts and J. Pitts Ray. After considering the case and hearing the witnesses the grand jury adjourned without action. It will meet again in June. Will it then resume the consideration of this case? To date this is just another lynching, with the South running true to form. Another insufferable crime has been committed and the perpetrators are being shielded by the silence and passivity of the "better element."
 
 _________________
-*Citation:* Boardman, the_black_man_and_the_unions. 1934. "Grand Jury Adjourns: Laurens County Fails to Indict Dendy Lynchers." *The Crisis*. 41(5):140.
+*Citation:* Boardman, Helen. 1934. "Grand Jury Adjourns: Laurens County Fails to Indict Dendy Lynchers." *The Crisis*. 41(5):140.
