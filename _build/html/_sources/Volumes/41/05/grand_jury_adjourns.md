@@ -1,6 +1,6 @@
 <!--
 title:   Grand Jury Adjourns: Laurens County Fails to Indict Dendy Lynchers
-author:  Boardman, the_black_man_and_the_unions
+author:  Boardman, Helen
 journal: The Crisis
 year:    1934
 volume:  41
