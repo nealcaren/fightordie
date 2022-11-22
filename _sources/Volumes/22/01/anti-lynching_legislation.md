@@ -9,11 +9,6 @@ pages:   8-9
 -->
 # Anti-Lynching Legislation (1922)
 
-```{index} lynching
-```
-```{index} NAACP
-```
-
 During the last five years the N.A.A.C.P. has carried on a campaign against lynching, conducted in accordance with the most approved methods of public­ity. This campaign has been financed by philanthropists North and South, and black and white, and by wide-spread popular subscription. We have never heard any serious criticism of our campaign save, naturally, from those who oppose any effort to defend and emancipate black folk.
 
 Our accomplishment from all our effort may thus be summarized:
