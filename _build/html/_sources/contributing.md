@@ -73,7 +73,7 @@ Specific *Dare You Fight* style is:
     > &nbsp;  
     > Paragraph 2
 ```
-* Long articles sometimes have section break lines, which can be recreated with `<p align="center"> ~~~~~~~~~~~~~~~ </p>`
+* Long articles sometimes have section break lines, which can be recreated with `<p style="text-align:center"> ~~~~~~~~~~~~~~~ </p>`
 * You can review the Markdown version of any page on Dare You Fight by clicking the down arrow in the upper right corner and selecting ".md". Reviewing these might be helpful for potentially complex formatting issues. There is also a [sample markdown page](https://raw.githubusercontent.com/nealcaren/fightordie/main/markdown_sample.md).
 * Markdown file titles is a lower-cased version of the article title, replacing spaces with underscores (`_`).
 

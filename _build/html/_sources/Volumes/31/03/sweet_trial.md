@@ -24,7 +24,7 @@ Seldom in any court has a more impartial, learned or complete charge to a jury b
 ![](../../../Images/dr_sweet.jpeg)    
 [Dr. Ossian H. Sweet](https://en.wikipedia.org/wiki/Ossian_Sweet)
 ```
- "Dr. Sweet has the same right under the  law to purchase and occupy the dwelling house on Garland Avenue as any other  man. Under the law, a man's house is his castle. It is his castle, whether he is white or black, and no man has the right to assail or invade it. The Negro is now by the Constitution of the United States given full citizenship with the white man and all the rights and privileges of citizenship attend him wherever he goes."
+ > "Dr. Sweet has the same right under the  law to purchase and occupy the dwelling house on Garland Avenue as any other  man. Under the law, a man's house is his castle. It is his castle, whether he is white or black, and no man has the right to assail or invade it. The Negro is now by the Constitution of the United States given full citizenship with the white man and all the rights and privileges of citizenship attend him wherever he goes."
 
 ```{margin}
 ![](../../../Images/sweet_jurors.jpeg)
@@ -39,7 +39,7 @@ Early on Thanksgiving morning, the jury resumed its deliberations. All day long 
 
 At 1:30 in the afternoon of November 27th, the jury sent word again to Judge Murphy that there was no hope of their reaching a decision. At the end of forty-six hours of deliberation, Judge Murphy declared a mistrial and thanked and dismissed the jurors.
 
-<p align="center"> ~~~~~~~~~~~~~~~ </p>
+<p style="text-align:center"> ~~~~~~~~~~~~~~~ </p>
 
 Thus ended the first trial of the case which has stirred Negro America as no other case has ever moved it. Within fifteen years, the Negro population of Detroit has been multiplied by ten, jumping from eight thousand in 1911 to 81,831 by 1925 as a result of the stoppage of immigration from Europe and increased activity on the part of Northern industries. Negroes during and after the war worked in the plants of Detroit, made money and saved it. As has been said many times, it is obvious that eighty-one thousand people cannot live in the homes which housed eight thousand people thirteen years ago. Since 1916 there has been gradual and necessary penetration by Negro home buyers of neighborhoods which hitherto have been occupied by white people. There has been practically no trouble attendant upon these so-called "invasions" until the last year or two. People in Detroit have been so busy earning money that they have not had time to nourish and develop racial or other prejudices. With the exception of a few minor clashes, Detroit has been without doubt one of the fairest cities in the country so far as its treatment of Negroes is concerned.
 

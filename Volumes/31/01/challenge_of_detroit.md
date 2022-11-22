@@ -11,7 +11,7 @@ pages:   7-10
 
 In Detroit, Michigan, a black man has shot into a mob which was threatening him, his family, his friends and his home in order to make him move out of the neighborhood. He killed one man and wounded another.
 
-<p align="center"> ~~~~~~~~~~~~~~~ </p>
+<p style="text-align:center"> ~~~~~~~~~~~~~~~ </p>
 
 Immediately a red and awful challenge confronts the nation. Must black folk shoot and shoot to kill in order to maintain their rights or is this unnecessary and wanton bloodshed for fancied ill? The answer depends on the facts. The Mayor of Detroit has publicly warned both mob and Negroes. He has repudiated mob law but he adds, turning to his darker audience, that they ought not to invite aggression by going where they are not wanted. There are thus two interpretations:
 
@@ -50,15 +50,15 @@ Two thirds of this population in 1920 were crowded into three wards— the Third
 
 Why do they not make their own new settlements then? Because no individual can make a modern real estate development; no group of ordinary individuals can compete with organized real estate interests and get a decent deal. When Negroes have tried it they have usually had miserable results; in Birmingham, Alabama, twenty years since, they bought a nice street and lined it with pretty homes; the city took all its prostitutes and stuck them into a segregated vice district right behind the pretty homes! In Macon, Savannah, New Orleans and Atlanta crime and prostitution have been kept and protected in Negro residence districts. In New York City, for years, no Negro could rent or buy a home in Manhattan outside the "Tenderloin"; and white Religion and Respectability far from stretching a helping hand turned and cursed the blacks when by bribery, politics and brute force they broke into the light and air of Harlem. Some great leaders in Negro philanthropy like Clarence Kelsey formed a financial bloc to push the Negroes out of Harlem, to refuse mortgages to landlords renting to them; but only one practical project of furnishing them decent quarters came to fruition.
 
-<p align="center"> ~~~~~~~~~~~~~~~ </p>
+<p style="text-align:center"> ~~~~~~~~~~~~~~~ </p>
 
 Dear God! Must we not live? And if we live may we not live somewhere? And when a whole city full of white folk led and helped by banks, Chambers of Commerce, mortgage companies and "realtors" are combing the earth for every decent bit of residential property for whites, where in the name of God can we live and live decently if not by these same whites? If some of the horror-struck and law-worshipping white leaders of Detroit instead of winking at the Ku Klux Klan and admonishing the Negroes to allow themselves to be kicked and killed with impunity—if these would finance and administer 2 decent scheme of housing relief for Negroes it would not be necessary for us to kill white mob leaders -in order to live in peace and decency. These whited sepulchres pulled that trigger and not the man that held the gun.
 
-<p align="center"> ~~~~~~~~~~~~~~~ </p>
+<p style="text-align:center"> ~~~~~~~~~~~~~~~ </p>
 
 But, wail the idiots, Negroes depress real estate values! This is a lie—an ancient and bearded lie. Race prejudice decreases values both real estate and human; crime, ignorance and filth decrease values. But a decent, quiet, educated family buying property in a decent neighborhood will not affect values a bit unless the people in that neighborhood hate a colored skin more than they regard the value of their own property. This has been proven in a thousand instances. Sudden fall in values comes through propaganda and hysteria manipulated by real estate agents or by Southern slave drivers who want their labor to return South; or by ignorant gossip mongers. Usually Negroes do not move into new developments but into districts which well-to-do whites are deserting. The fall in values is not due to race but to a series of economic readjustments and often, as in Baltimore, real estate values were actually saved and raised, not lowered, when black folk bought Druid Hill Avenue and adjacent streets. Certainly a flood of. noisy dirty black folk will ruin any neighborhood but they ruin black: property as well as white, and the reason is not their color but their condition. And whom, High Heaven, shall we blame for that?
 
-<p align="center"> ~~~~~~~~~~~~~~~ </p>
+<p style="text-align:center"> ~~~~~~~~~~~~~~~ </p>
 
 But these facts make no difference to organized American Negro haters. They are using every effort to maintain and increase race friction. In the South time and time again communities have almost forgotten race lines until the bitter, hate-preaching liar stirred it up again. The whole present "Anglo-Saxon" and "race purity" agitation in Virginia has arisen because one white family openly acknowledged its colored grandmother! The whole crusade in Detroit has come to a head because, in 1920, 663,000 Southern whites had migrated and were living in Wisconsin, Michigan, Illinois, Indiana and Ohio. Their numbers are swelling. They are largely clerks, artisans and laborers, not illiterate but ignorant of the modern world and forming by habit the lawless material of mobs. They are ruining the finer democracy of the Middle West and using the Negro as an excuse.
 
