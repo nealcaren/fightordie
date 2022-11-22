@@ -111,8 +111,16 @@ th, td {
     margin-bottom: 0rem;
 }
 
+.dot-table td {
+    max-width:200px;
+    overflow:hidden;
+    white-space:nowrap;
+}
+.dot-table td:first-child:after {
+    content:" . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . "
+}
+
 @media print {
   background-color: #FFFFFF;
   width: 55%;
-
 }

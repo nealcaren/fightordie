@@ -23,10 +23,28 @@ Which version figures: is true? See the figures:
 ![](../../../Images/detroit_pop.png)
 
 *Negro Population of Detroit*    
-1900 .. 4,111     
-1910 .. 5,741     
-1920 .. 40,838      
-1925 .. 60,000 (estimated)     
+
+<table class="dot-table">
+
+  <tr>
+    <td>1900</th>
+    <td>4,111</th>
+  </tr>
+  <tr>
+    <td>1910</td>
+    <td>5,741</td>
+  </tr>
+  <tr>
+    <td>1920</td>
+    <td>40,838</td>
+  </tr>
+  <tr>
+    <td>1925</td>
+    <td>60,000 (estimated)</td>
+  </tr>
+</table>
+
+&nbsp;    
 
 Two thirds of this population in 1920 were crowded into three wards— the Third, Fifth and Seventh. Meantime the total population of Detroit has more than doubled in ten years and the people have reached out on all sides to new dwelling places. Have the Negroes no right to rush too? Is it not their duty to seek better homes and, if they do, are they not bound to "move into white neighborhoods" which is simply another way of saying "move out of congested slums"?
 
@@ -50,13 +68,13 @@ What shall we do? I know a black man. He is a professional man and a graduate of
 
 Another man in Detroit bought a fine home in a former exclusive district which is now changing. He was a physician with a large practice, the founder of a hospital, public-spirited and well-liked. He had married the daughter of perhaps the greatest of the interpreters of Negro folk songs with world-wide reputation. He moved in. A mob of thousands appeared, yelling and cursing. They broke his windows, threw out his furniture and he and his family escaped under police protection. He gave up his home, made no resistance, moved back whence he came, filed no protest, made no public complaint. He was "colored".
 
+```{margin}
+Walter F. White wrote about the "[Sweet Trial](../03/sweet_trial.md)" in Detroit two months later in The Crisis.
+```
+
 A little later another physician in Detroit bought another beautiful home and moved in. A mob—almost the same mob—came, cursed, threw stones and ordered him to move. He gathered his family and friends within and locked the door. Five or six thousand people lined the streets. The police set traffic officers to divert the traffic that could not get through. The mob invaded his yard and approached his doors. He shot and shot to kill. His wife and his friends are now in jail charged with *Murder in the first degree!* He was "colored"'.
 
 Gentle Reader, which of these three examples shall my friend of Harlem follow? Which would you follow if you were "free", black and 21?
-
-```{margin}
-Walter F. White wrote about the "[Sweet Trial](../03/sweet_trial.md)" two months later in The Crisis.
-```
 
 _________________
 *Citation:* Du Bois, W.E.B. 1925. "The Challenge of Detroit." *The Crisis*. 31(1):7-10.
