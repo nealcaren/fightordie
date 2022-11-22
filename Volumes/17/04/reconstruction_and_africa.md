@@ -9,11 +9,6 @@ pages:   165-166
 -->
 # Reconstruction and Africa (1919)
 
-```{index} colonialization
-```
-```{index} Africa
-```
-
 The suggestion has been made that these colonies which Germany has lost should not be handed over to any other nation of Europe but should, under the guidance of organized civilization, be brought to a point of development which shall finally result in an autonomous state. This plan has met with much criticism and ridicule. Let the natives develop along their own lines and they will "go back," has been the cry. Back to what, in Heaven's name?
 
 Is a civilization naturally backward because it is different? Outside of cannibalism, which can be matched in this country, at least, by lynching, there is no vice and no degradation in native African customs which can begin to touch the horrors thrust upon them by white masters. Drunkenness, terrible diseases, immorality, all these things have been the gifts of European civilization. There is no need to dwell on German and Belgian atrocities, the world knows them too well. Nor have France and England been blameless. But even supposing that these masters had been models of kindness and rectitude, who shall say that any civilization is in itself so superior that it must be super­ imposed upon another nation with­ out the expressed and intelligent con­ sent of the people most concerned. The culture indigenous to a country, its folk-customs, its art, all this must have free scope or there is no such thing as freedom for the world.

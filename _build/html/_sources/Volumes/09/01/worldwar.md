@@ -9,11 +9,6 @@ pages:   28-30
 -->
 # World War and the Color Line (1914)
 
-```{index} colonialization
-```
-```{index} Africa
-```
-
 Many colored persons, and persons interested in them, may easily make the mistake of supposing that the present war is far removed from the color problem of America and that in the face of this great catastrophe we may forget for a moment such local problems and give all attention and contributions to the seemingly more pressing cause.
 
 This attitude is a mistake. The present war in Europe is one of the great disasters due to race and color prejudice and it but foreshadows greater disasters in the future.

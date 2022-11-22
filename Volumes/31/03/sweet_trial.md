@@ -6,6 +6,7 @@ year:    1926
 volume:  31
 issue:   3
 pages:   125-129
+index: Detroit | Sweet, Ossian | White, Walter F.
 -->
 
 # The Sweet Trial (1926)
@@ -20,10 +21,6 @@ At half-past three in the afternoon of the day before Thanksgiving, Judge Frank 
 
 Seldom in any court has a more impartial, learned or complete charge to a jury been heard. As was evidenced throughout the case, Judge Murphy was exerting every effort at his command to assure to the eleven defendants a completely fair trial. His charge to the jury reached its dramatic climax when in a voice filled with emotion and sincerity, he declared:
 
-```{margin}
-![](../../../Images/dr_sweet.jpeg)    
-[Dr. Ossian H. Sweet](https://en.wikipedia.org/wiki/Ossian_Sweet)
-```
  > "Dr. Sweet has the same right under the  law to purchase and occupy the dwelling house on Garland Avenue as any other  man. Under the law, a man's house is his castle. It is his castle, whether he is white or black, and no man has the right to assail or invade it. The Negro is now by the Constitution of the United States given full citizenship with the white man and all the rights and privileges of citizenship attend him wherever he goes."
 
 ```{margin}
@@ -32,6 +29,11 @@ Seldom in any court has a more impartial, learned or complete charge to a jury b
 ```
 
 The jury retired. All afternoon and far into the night anxious crowds thronged the court room and the corridors without. From the jury room could be heard the muffled voices of the jury raised in anger but the door remained closed. Shortly after midnight, a message was sent to Judge Murphy asking for further instructions. Out came the jury with haggard faces and listened to Judge Murphy as he re-read the parts of his charge referring to justifiable self-defense.
+
+```{margin}
+![](../../../Images/dr_sweet.jpeg)    
+[Dr. Ossian H. Sweet](https://en.wikipedia.org/wiki/Ossian_Sweet)
+```
 
 Back into the jury room filed the twelve men. Again voices were heard in argument. At 2:15 Thanksgiving morning, Judge Murphy summoned the jury to permit them to go to bed. The court room was so crowded that court attendants had to use force in getting enough space in front of the judge's dais to permit the jury to stand. Ninety-five per cent of the crowd was composed of Negroes, hope and fear and apprehension and questioning in their faces, asking if justice could be secured for eleven black defendants in a white man's court and at the hands of a white judge and a white jury.
 
