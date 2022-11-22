@@ -1,5 +1,25 @@
 # The Burden of Black Women (1914)
 
+
+<table class="dot-table">
+  <tr>
+    <td>
+       Coffee
+    </td>
+    <td>
+       45 INR
+    </td>
+  </tr>
+  <tr>
+    <td>
+       Tea
+    </td>
+    <td>
+       36 INRR
+    </td>
+   </tr>
+</table>
+
 <p class = "poem">Dark daughter of the lotus leaves that watch the Southern sea,</p>
 <p class = "poem">Wan spirit of a prisoned soul a-panting to be free;</p>
 <p class = "poem-indent">The muttered music of thy streams, the whispers of the deep</p>
