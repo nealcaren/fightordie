@@ -221,6 +221,7 @@
 |   1933 |       40 | 1            | [Toward a New Racial Philosophy](https://www.dareyoufight.org/Volumes/40/01/toward_a_new_racial_philosophy.html)                          |
 |   1933 |       40 | 10           | [Pan-Africa and New Racial Philosophy](https://www.dareyoufight.org/Volumes/40/11/panafrica_and_new_racial_philosophy.html)               |
 |   1933 |       40 | 10           | [The Church and Religion](https://www.dareyoufight.org/Volumes/40/10/church_and_religion.html)                                            |
+|   1933 |       40 | 12           | [Too Rich to be a N****r](https://www.dareyoufight.org/Volumes/40/12/too_rich.html)                                                       |
 |   1933 |       40 | 12           | [The A.F. of L.](https://www.dareyoufight.org/Volumes/40/12/af_of_l.html)                                                                 |
 |   1933 |       40 | 12           | [A Matter of Manners](https://www.dareyoufight.org/Volumes/40/12/matter_of_manners.html)                                                  |
 |   1933 |       40 | 12           | [Peace](https://www.dareyoufight.org/Volumes/40/12/peace.html)                                                                            |
