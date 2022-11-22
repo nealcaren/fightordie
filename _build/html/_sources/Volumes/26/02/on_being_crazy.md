@@ -49,7 +49,7 @@ I looked around. Such a color scheme requires a great deal of cleaning, I said, 
 
 Then why—, I began, but he interrupted.
 
-"We don't keep 'n[******]'," he said, "we don't want social equality."
+"We don't keep 'n******'," he said, "we don't want social equality."
 
 Neither do I. I replied gently, I want a bed.
 
@@ -69,7 +69,7 @@ Walking, I met a wayfarer who immediately walked to the other side of the road w
 
 So is mud, said I. Moreover I added, I am not as dirty as you—at least, not yet.
 
-"But you're a 'n[*****]', ain't you?" he asked.
+"But you're a 'n*****', ain't you?" he asked.
 
 My grandfather was so-called.
 
@@ -85,15 +85,15 @@ I should think you and the Negroes might get together and vote out starvation.
 
 We? Why not? I said in surprise.
 
-" `N******' is too ignorant to vote."
+" 'N******' is too ignorant to vote."
 
 But, I said, I am not so ignorant as you.
 
-"But you're a 'n[*****]'."
+"But you're a 'n*****'."
 
 Yes, I'm certainly what you mean by that.
 
-"Well then!" he returned, with that curiously inconsequential note of triumph. "Moreover," he said, "I don't want my sister to marry a n[*****]."
+"Well then!" he returned, with that curiously inconsequential note of triumph. "Moreover," he said, "I don't want my sister to marry a n*****."
 
 I had not seen his sister, so I merely murmured, let her say, no.
 
@@ -105,7 +105,7 @@ But,—but I don't want to marry her, I answered a little perturbed at the perso
 
 Because I'm already married and I rather like my wife.
 
-"Is she a 'n[*****]'?" he asked suspiciously.
+"Is she a 'n*****'?" he asked suspiciously.
 
 Well, I said again, her grandmother —was called that.
 
