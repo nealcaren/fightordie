@@ -13,11 +13,17 @@ I was the great Jew, Benjamin Disraeli, who said: "Youth is a blunder; manhood a
 
 The first conference at Joel Spingarn's beautiful country estate, took place in 1916. And after its few days of frank fellowship there was no adequate reason left for essential differences of opinion between the followers of Booker T. Washington, then just dead, and those younger men who had so vigorously opposed some of his policies.
 
+```{margin}
+![](/Images/3c17806u_enlarge.jpg)
+Participants in the 1933 Amenia Conference.   
+Third Row (left to right): Ralph Bunche, Edward P. Lovett, W.E.B. Du Bois, Abram Harris, Charles Houston, Grace Nail Johnson, Roy Wilkins, E. Franklin Frazier, Sterling Brown, Lillian Alexander, Emmett Dorsey, William Pickens, Mary White Ovington, Ira De A. Reid, James Weldon Johnson, and Walter White.  Second Row (left to right): Hope Spingarn, Hazel Brown, Juanita Jackson, M. Moran Weston, Wenonah Logan, Joel Spingarn, Elmer A. Carter, Mabel J. Bryde, Frank Wilson, and Marion Cuthbert.  Front Row (left to right): Dr. Ernest Alexander, Ruth McGee, Dr. Virginia Alexander, Howard Shaw, Anna Arnold, Sara E. Reid, Pauline Young, Frances Williams, unidentified.  Source:[Library of Congress](https://www.loc.gov/exhibits/naacp/the-great-depression.html)
+```
+
 The second Amenia conference held at Troutbeck, seventeen years later, had a definite object,—one much more usual in this world, and yet emphasized today both within and without the Negro race because of World War and unemployment. It was an attempt to bring together and into sympathetic understanding, Youth and Age interested in the Negro problem. And more particularly Youth, with a fringe of Age; and not extreme youth. Eliminating four admittedly among the elders, the others ranged in age between twenty-five and thirty-five, with a median age of thirty, that is, they were well out of college and started on their life work, and yet, as the invitations suggested, they were still with inquiring minds and still unsettled as to their main life work.
 
 These younger conferees may be classed in various ways:
 
-There were 5 social workers; 5 college professors, 4 Y. W. C. A. workers, 3 teachers, 3 lawyers, 2 artisans, 2 librarians, a physician, a student and a Y. M. C. A. worker.
+There were 5 social workers; 5 college professors, 4 Y.W.C.A. workers, 3 teachers, 3 lawyers, 2 artisans, 2 librarians, a physician, a student and a Y.M.C.A. worker.
 
 Representing age (more or less willingly), were 2 editors, a professor and a social worker. All were college graduates except one. There were two Doctors of Philosophy.
 
