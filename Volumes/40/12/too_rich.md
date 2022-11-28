@@ -47,13 +47,15 @@ The "manish boy" was Norris. Mr. Dendy went quietly on with his building, watchf
 
 On the fourth of July, 1933, the colored people of Clinton had a picnic at Lake Murray. Norris drove one truck-load of picnickers and Marvin Lollis, a white man, drove another. Late in the afternoon a dispute arose between Norris and the white man on the subject, it is said, of the relative merits of the trucks they were driving. The argument grew heated, culminating in a verbal outburst from Lollis to which Norris replied by striking him on the mouth.
 
+&nbsp;
+
 The rest of the story is brief. The excuse for which they had been waiting was furnished. Rushing back to town on his truck Norris was met and arrested by officers and placed in the local jail—two cells at the back of the police station. His young wife and his mother came to see him but could not get him released. Men began to gather about the building. By nine o'clock a mob filled the police station and cars lined the street outside. The arrival of a man with a coil of rope was the signal for someone to unlock the cell, and the struggle began. Norris was a powerful man and no coward, but finally he was overpowered and bound. His mother stood outside, his baby in her arms, her frantic pleadings in vain, as they threw him in a car and drove away. Somebody knocked her down and all she remembers after that is the line of cars speeding past the Methodist church.
 
 Next day the body was officially "discovered" a few miles out of town. He had been half-strangled before they beat him to death.
 
 Clinton—white Clinton—has had its revenge: Mr. and Mrs. Dendy, in their spacious home, go drearily about the day's routine. Perhaps it is as well for them that they have Amanda, Norris' girl-widow, and her babies to provide for. The sympathy of their friends, white and colored, brings small comfort. A life-time of exemplary behavior could not protect their boy from the white savage.
 
-"What was the use?" ponders Mrs. Dendy as she mechanically rocks the baby. Everywhere oppressed Negroes echo, "What is the use?"
+"What was the use?" ponders Mrs. Dendy as she mechanically rocks the baby. Everywhere oppressed Negroes echo, "What *is* the use?"
 
 _________________
 *Citation:* Du Bois, W.E.B. 1933. "Too Rich to be a N****r." *The Crisis*. 40(12):282-283.

@@ -209,6 +209,7 @@
 |   1932 |       39 | 12           | [From a Traveller](https://www.dareyoufight.org/Volumes/39/12/from_a_traveler.html)                                                       |
 |   1932 |       39 | 2            | [Lynchings](https://www.dareyoufight.org/Volumes/39/02/lynchings.html)                                                                    |
 |   1932 |       39 | 2            | [The Non-Partisan Conference](https://www.dareyoufight.org/Volumes/39/02/nonpartisan_conference.html)                                     |
+|   1932 |       39 | 3            | [Hawaii](https://www.dareyoufight.org/Volumes/39/03/dalton_ga.html)                                                                       |
 |   1932 |       39 | 3            | [Hawaii](https://www.dareyoufight.org/Volumes/39/03/hawaii.html)                                                                          |
 |   1932 |       39 | 3            | [To Your Tents, Oh Israel!](https://www.dareyoufight.org/Volumes/39/03/to_your_tents.html)                                                |
 |   1932 |       39 | 4            | [Courts and Jails](https://www.dareyoufight.org/Volumes/39/04/courts_and_jails.html)                                                      |
