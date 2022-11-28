@@ -1,5 +1,5 @@
 <!--
-title:   Hawaii
+title:   Dalton, GA
 author:  Du Bois, W.E.B.
 journal: The Crisis
 year:    1932
@@ -8,9 +8,9 @@ issue:   3
 pages:   85-87
 -->
 
-# Hawaii (1932)
+# Dalton, GA (1932)
 
-Juliette Derriocotte was fatally injured in Dalton, Georgia. Dalton is the county seat of Whitfield County and is forty miles southeast of Chattanooga. It had in 1930 a population of 8,160, of which 1,028 were Negroes. There were among the whites, 2840 ten years of age in 1920 who were illiterate, and among the Negroes, 120. Dalton is a shipping point for cotton, cattle, grain and fruit, and has cotton mills with 976 looms and 94,000 spindles. It has canning factories, flour mills, foundries and machine shops. It was founded in 1848 and incorporated in 1874 and was the scene of some fighting when Bragg retreated there from Chattanooga in 1863. It is, of course, a religious town. There are 5 white churches and 6 Negro. It figured for a time as a health resort; it is the seat of Dalton Female College. There are public schools and weekly newspapers and a national bank. 
+Juliette Derriocotte was fatally injured in Dalton, Georgia. Dalton is the county seat of Whitfield County and is forty miles southeast of Chattanooga. It had in 1930 a population of 8,160, of which 1,028 were Negroes. There were among the whites, 2840 ten years of age in 1920 who were illiterate, and among the Negroes, 120. Dalton is a shipping point for cotton, cattle, grain and fruit, and has cotton mills with 976 looms and 94,000 spindles. It has canning factories, flour mills, foundries and machine shops. It was founded in 1848 and incorporated in 1874 and was the scene of some fighting when Bragg retreated there from Chattanooga in 1863. It is, of course, a religious town. There are 5 white churches and 6 Negro. It figured for a time as a health resort; it is the seat of Dalton Female College. There are public schools and weekly newspapers and a national bank.
 
 In particular, for our purpose, there is the Hamilton Memorial Hospital, with a complete modern equipment, supported by public taxation.
 
@@ -24,7 +24,7 @@ There immediately began a series of investigations. Mrs. Ethel B. Gilbert, an of
 
 Let us compare now, the report of the Inter-racial Commission and statements from other sources. First, as to what happened directly after the accident:
 
-<table>
+<table class="col-table">>
 <thead>
   <tr>
     <th>Inter-Racial Commission</th>
@@ -72,4 +72,4 @@ Let us compare now, the report of the Inter-racial Commission and statements fro
 </table>
 
 ______________
-*Citation:* Du Bois, W.E.B. 1932. "Hawaii." *The Crisis*. 39(3):85-87.
+*Citation:* Du Bois, W.E.B. 1932. "Dalton, GA." *The Crisis*. 39(3):85-87.
