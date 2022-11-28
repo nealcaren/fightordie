@@ -120,6 +120,10 @@ th, td {
     content:" . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . "
 }
 
+.col-table td  {
+  vertical-align: top;
+}
+
 @media print {
   background-color: #FFFFFF;
   width: 55%;
