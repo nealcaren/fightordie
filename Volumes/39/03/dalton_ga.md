@@ -24,16 +24,16 @@ There immediately began a series of investigations. Mrs. Ethel B. Gilbert, an of
 
 Let us compare now, the report of the Inter-racial Commission and statements from other sources. First, as to what happened directly after the accident:
 
-<table style="table-layout: fixed;">
+<table style="table-layout: fixed; vertical-align:top;">
 <thead>
   <tr>
     <th>Inter-Racial Commission</th>
     <th>Other Reports</th>
   </tr>
 </thead>
-<tbody style="vertical-align:top>
+<tbody >
   <tr>
-    <td>Mr. and Mrs. Helton, unhurt, climbed out through the broken windshield of their car and went immediately to Miss Derricotte's car... Mr. Helton stated that he hurried someone off to call for an ambulance. <br> </td>
+    <td>Mr. and Mrs. Helton, unhurt, climbed out through the broken windshield of their car and went immediately to Miss Derricotte's car... Mr. Helton stated that he hurried someone off to call for an ambulance.  </td>
     <td>About this time a white man dressed in overalls came up and asked me what I was going to do about his car. asked what was the matter with his car. He told me it was his car we had hit. I told him I would have to wait until we had received medical attention. I did not see him any more. <br> <br><span style="float:right;">Davis.</span></td>
   </tr>
   <tr>
