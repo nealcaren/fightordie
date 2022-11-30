@@ -11,7 +11,7 @@ pages:   85-87
 # Dalton, GA (1932)
 
 ```{margin}
-[Juliette Derriocotte](https://en.wikipedia.org/wiki/Juliette_Derricotte) and Du Bois had corresponded over the prior decade and she had written several times for the <span style="font-variant:small-caps;">The Crisis</span>. At the time of her death, Derriocotte was Dean of Women at Fisk University.
+[Juliette Derriocotte](https://en.wikipedia.org/wiki/Juliette_Derricotte) and Du Bois had corresponded over the prior decade and she had written several times for the <span style="font-variant:small-caps;">The Crisis</span>. At the time of her death at the age of 34, Derriocotte was Dean of Women at Fisk University.
 ![](/Images/Juliette-Derricotte.jpg)
 ```
 
@@ -83,6 +83,9 @@ Let us compare now, the report of the Inter-racial Commission and statements fro
 It must be remembered that the reports by Mrs. Gilbert, Edward Davis, Dr. Imes and Warner Lawson, were made on the spot within a few hours after the accident. While, on the other hand, the report of the Inter-Racial Commission was made some time after and with at best the unconscious purpose of making out a case for the South.
 
 There remain, naturally, irreconcilable discrepancies. The story that emerges is that very soon after the accident and at the appeal of Davis, white neighbors rushed the wounded persons to town. That the man who ran into them, at first demanded compensation for his car, and then disappeared. That in town, neither white nor colored people knew at first what to do but at last it was agreed that the patients must be taken to physicians' offices. The physicians gave them attention for an hour and a half. They knew that two of them were desperately injured and needed the utmost care. Miss Johnson's pulse was 150 and Miss Derricotte was alternately hysterical and unconscious. Nevertheless, they had them transported to a house with no hospital facilities and left them there without professional attendance for several hours; finally, the Chattanooga ambulance arrived and took them away.
+
+![](/Images/hamilton_hospital.jpg)
+***The George W. Hamilton Memorial Hospital, supported by public taxation, af Dalton, Georgia, to which no Negro citizen may be admitted.***
 
 In the light of this, what shall be said of the civilization of Dalton, Ga? We can say this best in the words of Mrs. Ethel Gilbert. She had long been connected with Negro education in the South and came to Dalton and Chattanooga immediately after the accident. She reported her facts and feelings in a private letter to a friend, which we venture to quote, without permission. Her words are so true and fair that they make a human document which must not be suppressed. She says:
 
