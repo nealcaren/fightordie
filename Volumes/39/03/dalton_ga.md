@@ -10,6 +10,11 @@ pages:   85-87
 
 # Dalton, GA (1932)
 
+```{margin}
+[Juliette Derriocotte](https://en.wikipedia.org/wiki/Juliette_Derricotte) and Du Bois had corresponded over the prior decade and she had written several times for the <span style="font-variant:small-caps;">The Crisis</span>. At the time of her death, Derriocotte was Dean of Women at Fisk University.
+![](/Images/Juliette-Derricotte.jpg)
+```
+
 Juliette Derriocotte was fatally injured in Dalton, Georgia. Dalton is the county seat of Whitfield County and is forty miles southeast of Chattanooga. It had in 1930 a population of 8,160, of which 1,028 were Negroes. There were among the whites, 2840 ten years of age in 1920 who were illiterate, and among the Negroes, 120. Dalton is a shipping point for cotton, cattle, grain and fruit, and has cotton mills with 976 looms and 94,000 spindles. It has canning factories, flour mills, foundries and machine shops. It was founded in 1848 and incorporated in 1874 and was the scene of some fighting when Bragg retreated there from Chattanooga in 1863. It is, of course, a religious town. There are 5 white churches and 6 Negro. It figured for a time as a health resort; it is the seat of Dalton Female College. There are public schools and weekly newspapers and a national bank.
 
 In particular, for our purpose, there is the Hamilton Memorial Hospital, with a complete modern equipment, supported by public taxation.
@@ -26,9 +31,9 @@ Let us compare now, the report of the Inter-racial Commission and statements fro
 
 <table style="table-layout: fixed; width: 100%; border-collapse: separate; border-spacing: 1em 2em;">
 <thead>
-  <tr border-collapse: separate; border-spacing: 1em 1em;">
-    <th style="width: 50%;">Inter-Racial Commission</th>
-    <th style="width: 50%;">Other Reports</th>
+  <tr>
+    <th style="width: 50%; border-spacing: 1em 0em;">Inter-Racial Commission</th>
+    <th style="width: 50%; border-spacing: 1em 0em;">Other Reports</th>
   </tr>
 </thead>
 <tbody>
