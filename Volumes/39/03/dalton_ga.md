@@ -24,7 +24,7 @@ There immediately began a series of investigations. Mrs. Ethel B. Gilbert, an of
 
 Let us compare now, the report of the Inter-racial Commission and statements from other sources. First, as to what happened directly after the accident:
 
-<table>
+<table >
 <thead>
   <tr>
     <th>Inter-Racial Commission</th>
@@ -33,20 +33,20 @@ Let us compare now, the report of the Inter-racial Commission and statements fro
 </thead>
 <tbody>
   <tr>
-    <td>Mr. and Mrs. Helton, unhurt, climbed out through the broken windshield of their car and went immediately to Miss Derricotte's car... Mr. Helton stated that he hurried someone off to call for an ambulance.</td>
-    <td>About this time a white man dressed in overalls came up and asked me what I was going to do about his car. asked what was the matter with his car. He told me it was his car we had hit. I told him I would have to wait until we had received medical attention. I did not see him any more. <br> <br><span style="float:right;">Davis.</span></td>
+    <td style="vertical-align:text-top">Mr. and Mrs. Helton, unhurt, climbed out through the broken windshield of their car and went immediately to Miss Derricotte's car... Mr. Helton stated that he hurried someone off to call for an ambulance.</td>
+    <td style="vertical-align:text-top">About this time a white man dressed in overalls came up and asked me what I was going to do about his car. asked what was the matter with his car. He told me it was his car we had hit. I told him I would have to wait until we had received medical attention. I did not see him any more. <br> <br><span style="float:right;">Davis.</span></td>
   </tr>
   <tr>
-    <td>No ambulance came.</td>
-    <td>I then began to make appeals for help from the people 'standing around. One man informed me that they had already sent for an ambulance. <br> <br><span style="float:right;">Davis. </span></td>
+    <td style="vertical-align:text-top">No ambulance came.</td>
+    <td style="vertical-align:text-top">I then began to make appeals for help from the people 'standing around. One man informed me that they had already sent for an ambulance. <br> <br><span style="float:right;">Davis. </span></td>
   </tr>
   <tr>
-    <td>Mrs. Gordon Mann White, who lives nearby, and at the time of the collision was between her home and the highway, saw the collision and ran immediately for her car. <br> <br>Mrs. Mann, who brought Miss Johnson in, stated that she inquired where Negroes could get treatment, and was told to go to a doctor's office, which she did. <br> <br>Miss Johnson was taken to the office of Dr. J Steed, a physician with a record of many years' service in Dalton. Miss Derricotte was taken to the office of Dr. O. E. Shellhorse. Miss Price and Mr. Davis were taken to the office of Dr. G Broaderick These three doctors, all white, have offices within two blocks of each other on King street. <br> <br>Dr. Steed states that Miss Johnson was unconscious when brought to his office and never regained consciousness, and it was evident from the first that she was seriously wounded. <br> </td>
-    <td>The man took us into Dalton. We were near the center of the town when he asked a number of people where the hospital was. A few did not know; others said there was no hospital for Negroes; and others said they would have to take us to some doctor's home. He drove on farther and asked a white boy about a_ hospital or a_ doctor. The boy told us his father was a doctor and lived right up the street. He took us to his home. This doctor's name was Dr. Broaderick. <br> <br><span style="float:right;">Davis.</span> <br> </td>
+    <td style="vertical-align:text-top">Mrs. Gordon Mann White, who lives nearby, and at the time of the collision was between her home and the highway, saw the collision and ran immediately for her car. <br> <br>Mrs. Mann, who brought Miss Johnson in, stated that she inquired where Negroes could get treatment, and was told to go to a doctor's office, which she did. <br> <br>Miss Johnson was taken to the office of Dr. J Steed, a physician with a record of many years' service in Dalton. Miss Derricotte was taken to the office of Dr. O. E. Shellhorse. Miss Price and Mr. Davis were taken to the office of Dr. G Broaderick These three doctors, all white, have offices within two blocks of each other on King street. <br> <br>Dr. Steed states that Miss Johnson was unconscious when brought to his office and never regained consciousness, and it was evident from the first that she was seriously wounded. <br> </td>
+    <td style="vertical-align:text-top">The man took us into Dalton. We were near the center of the town when he asked a number of people where the hospital was. A few did not know; others said there was no hospital for Negroes; and others said they would have to take us to some doctor's home. He drove on farther and asked a white boy about a_ hospital or a_ doctor. The boy told us his father was a doctor and lived right up the street. He took us to his home. This doctor's name was Dr. Broaderick. <br> <br><span style="float:right;">Davis.</span> <br> </td>
   </tr>
   <tr>
-    <td>Miss Derricotte was taken to Dr. O. E. Shellhorse's office and placed on his operating table. She was in a semi-conscious condition, being in possession of her faculties a part of the time, and indicating that she had severe pains in her chest and hip. Dr. Shellhorse states that he examined her thoroughly, saw the seriousness of her condition and called in for consultation Dr. Ault.</td>
-    <td>By this time Miriam was able to call in to Chattanooga to Mr. Trimble's home, and he told her that he was sending an ambulance down as soon as he could. We asked Dr. Broaderick to send his son to get some information about Miss Derricotte and Miss Johnson, which he did. The son reported that they had been taken from Dr. Steed's to a colored sanitorium. <br> <br><span style="float:right;">Davis.</span></td>
+    <td style="vertical-align:text-top">Miss Derricotte was taken to Dr. O. E. Shellhorse's office and placed on his operating table. She was in a semi-conscious condition, being in possession of her faculties a part of the time, and indicating that she had severe pains in her chest and hip. Dr. Shellhorse states that he examined her thoroughly, saw the seriousness of her condition and called in for consultation Dr. Ault.</td>
+    <td style="vertical-align:text-top">By this time Miriam was able to call in to Chattanooga to Mr. Trimble's home, and he told her that he was sending an ambulance down as soon as he could. We asked Dr. Broaderick to send his son to get some information about Miss Derricotte and Miss Johnson, which he did. The son reported that they had been taken from Dr. Steed's to a colored sanitorium. <br> <br><span style="float:right;">Davis.</span></td>
   </tr>
   <tr>
     <td>When Miss Derricotte had been treated by Dr. Shellhorse, he called the local Negro undertaker, Mr. Johnson, and asked him to build a fire and prepare a room for Miss Derricotte in the home of Mrs. Alice Wilson, colored, 3 Emory Street. <br> <br>The physicians of Dalton have been taking patients to Mrs. Wilson's home for a number of years, and major operations have been successfully performed there.<br> <br>Mrs. Wilson is without formal training or professional standing. </td>
