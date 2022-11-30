@@ -26,7 +26,7 @@ Let us compare now, the report of the Inter-racial Commission and statements fro
 
 <table style="table-layout: fixed; width: 100%; border-collapse: separate; border-spacing: 1em 2em;">
 <thead>
-  <tr>
+  <tr border-collapse: separate; border-spacing: 1em 1em;">
     <th style="width: 50%;">Inter-Racial Commission</th>
     <th style="width: 50%;">Other Reports</th>
   </tr>
