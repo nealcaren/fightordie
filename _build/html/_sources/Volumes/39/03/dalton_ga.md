@@ -32,8 +32,8 @@ Let us compare now, the report of the Inter-racial Commission and statements fro
 <table style="table-layout: fixed; width: 100%; border-collapse: separate; border-spacing: 1em 2em;">
 <thead>
   <tr>
-    <th style="width: 50%; border-spacing: 1em 0em;">Inter-Racial Commission</th>
-    <th style="width: 50%; border-spacing: 1em 0em;">Other Reports</th>
+    <th style="text-align: center; width: 50%; border-spacing: 1em 0em;">Inter-Racial Commission</th>
+    <th style="text-align: center; width: 50%; border-spacing: 1em 0em;">Other Reports</th>
   </tr>
 </thead>
 <tbody>
@@ -85,7 +85,7 @@ It must be remembered that the reports by Mrs. Gilbert, Edward Davis, Dr. Imes a
 There remain, naturally, irreconcilable discrepancies. The story that emerges is that very soon after the accident and at the appeal of Davis, white neighbors rushed the wounded persons to town. That the man who ran into them, at first demanded compensation for his car, and then disappeared. That in town, neither white nor colored people knew at first what to do but at last it was agreed that the patients must be taken to physicians' offices. The physicians gave them attention for an hour and a half. They knew that two of them were desperately injured and needed the utmost care. Miss Johnson's pulse was 150 and Miss Derricotte was alternately hysterical and unconscious. Nevertheless, they had them transported to a house with no hospital facilities and left them there without professional attendance for several hours; finally, the Chattanooga ambulance arrived and took them away.
 
 ![](/Images/hamilton_hospital.jpg)
-***The George W. Hamilton Memorial Hospital, supported by public taxation, af Dalton, Georgia, to which no Negro citizen may be admitted.***
+***The George W. Hamilton Memorial Hospital, supported by public taxation, at Dalton, Georgia, to which no Negro citizen may be admitted.***
 
 In the light of this, what shall be said of the civilization of Dalton, Ga? We can say this best in the words of Mrs. Ethel Gilbert. She had long been connected with Negro education in the South and came to Dalton and Chattanooga immediately after the accident. She reported her facts and feelings in a private letter to a friend, which we venture to quote, without permission. Her words are so true and fair that they make a human document which must not be suppressed. She says:
 
