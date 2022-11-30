@@ -24,7 +24,7 @@ There immediately began a series of investigations. Mrs. Ethel B. Gilbert, an of
 
 Let us compare now, the report of the Inter-racial Commission and statements from other sources. First, as to what happened directly after the accident:
 
-<table>
+<table style="table-layout: fixed;">
 <thead>
   <tr>
     <th>Inter-Racial Commission</th>
