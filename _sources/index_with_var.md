@@ -4,7 +4,7 @@
 This project is an ongoing effort to make available the writings by W.E.B. Du Bois that appeared in <span style="font-variant:small-caps;">The Crisis</span>, the official journal of the NAACP. Du Bois founded the magazine in 1910 and regularly contributed editorials and articles until 1934.
 
 
-![](https://images.nypl.org/index.php?id=1953586&t=w)  
+![](/Images/crisis_office.jpeg)  
 *W. E. B. Dubois and staff in the Crisis magazine office. Source: [Schomburg Center for Research in Black Culture](https://digitalcollections.nypl.org/items/8e0981a2-4aea-a10a-e040-e00a18063089)*
 
 

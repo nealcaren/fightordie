@@ -17,7 +17,7 @@ The review concludes, "He [Page] has, however, drawn a fine and thrilling pictur
 This statement is worth noting because it expresses a sentiment not uncommon to-day. Here are two gen­erals, both well born, scrupulously honorable, brave and efficient. The only difference between them is that one was victorious, while the other was obliged in the end to surrender. One won, the other lost; that is all.
 
 ```{margin}
-![](http://2.bp.blogspot.com/-UM02WU_UHE0/TeD32OWgCeI/AAAAAAAAFv4/VlMJfHfTxvA/s1600/DSC_5321.JPG)
+![](/Images/memorial_hall.jpeg)
 ```
 In Memorial Hall, at Harvard University, are the names of the college graduates who fell in battle for the cause of the Union. Again and again has come the demand that with these names there be placed the names of the graduates who fell defending the Confederacy. Both were brave youths, the argument goes, both fought unselfishly. Why not give honor to both, since they only differed in that one lost and the other won in battle?
 

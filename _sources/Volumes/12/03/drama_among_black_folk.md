@@ -14,7 +14,7 @@ pages:   169-173
 This has been the opening cry of the dark and crimson-turbaned Herald in three presentations of the pageant, "The Star of Ethiopia," given by colored people in New York, Washington and Philadelphia before audiences aggregating nearly 35,000 people.
 
 ```{margin}
-![](https://credo.library.umass.edu/images/resize/600x600/mums312-x01-i067-001.jpg)
+![](/Images/mums312-x01-i067-001.jpg)
 ```
 
 The last of these three pageants was given in Philadelphia during the month of May before audiences of eight thousand. It was in many respects the most perfect of the pageants. For while it lacked the curious thrill and newness of the New York production and the mysterious glamour of shadow, star and sky which made the Washington pageant unforgettable, yet Philadelphia in its smoothness and finish was technically the best. As this last production represents possibly the end of the series it is a fitting time to review this effort.
