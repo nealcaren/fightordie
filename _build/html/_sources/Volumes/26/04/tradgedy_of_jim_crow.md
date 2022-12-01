@@ -11,7 +11,7 @@ pages:   169-172
 
 There is developing within the Negro race a situation bordering on tragedy in regard to the "Jim Crow" movement now growing and spreading in the North. The tragedy has been with us before but it has been more or less dormant and unspoken. To-day it is flaring to red flame and we must sit down and reason together.
 
-<p style="text-align:center> ~~~~~~~~~~~~~~~ </p>
+<p style="text-align:center"> ~~~~~~~~~~~~~~~ </p>
 
 I stood yesterday before three thousand folk in Philadelphia and said at length what I am saying now more concisely and definitely. It was an earnest crowd quivering with excitement and feeling, and the thing that it had in mind was this:
 
@@ -69,9 +69,9 @@ The real fight in Philadelphia and Pennsylvania should be made on the following 
 
 1. To stop by agitation, political power, and legal method, all further increase of public common schools segregated by race. The appointment and election of openly sympathetic school officials is the first step in this campaign
 2. To continue to insist on the appointment of colored teachers in white schools
- 3. To support the efforts to make the present segregated schools the very best possible and to open them to white children
+3. To support the efforts to make the present segregated schools the very best possible and to open them to white children
 4. To make Cheyney the best Normal School in the state and to encourage the entry of white students
- 5. To see to it by scholarships and local efforts that colored pupils are kept in every other normal school of the state
+5. To see to it by scholarships and local efforts that colored pupils are kept in every other normal school of the state
 6. To make the colored teacher feel that no calling is so fine and valuable as his and that the Negro race and the world knows it.
 
 ______________
