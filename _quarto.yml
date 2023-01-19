@@ -1,0 +1,32 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "Dare You Figth"
+  subtitle: "W.E.B. Du Bois in The Crisis"
+  author: "W.E.B. Du Bois"
+  date: "11 December 2022"
+
+  sidebar:
+    collapse-level: 3
+    pinned: true
+  chapters:
+    - index.qmd
+    - introduction.qmd
+    - part: "Segregation"
+      chapters: 
+        - Volumes/01/01/Segregation.qmd
+        - Volumes/03/05/homes.qmd
+    - part: "Racism"  
+      chapters: 
+        - Volumes/01/03/social_equality.qmd
+        - Volumes/01/05/politeness.qmd
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreport
+  epub:
+    cover-image: Images/crisis_office.jpeg

@@ -1,6 +1,10 @@
 # The Burden of Black Women (1914)
 
 
+<p class="drop-cap"><span class="smcap">A</span> <span style="text-transform: capitalize;">t the beginning</span>  of the paragraph is a dropcap image.
+This text will wrap around the dropcap image, since the image is floated. This text will wrap around the dropcap image, since the image is floated. This text will wrap around the dropcap image, since the image is floated
+
+
 <table class="dot-table">
   <tr>
     <td>

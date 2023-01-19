@@ -137,3 +137,5 @@ publish
 .DS_Store
 done.csv
 local/
+
+/.quarto/

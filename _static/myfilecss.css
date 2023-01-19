@@ -87,6 +87,25 @@ th, td {
   padding-bottom: 0em;
 }
 
+p.drop-cap {
+  text-indent: 0em;
+}
+p.drop-cap:first-letter
+{
+  float: left;
+  background-color: #111;
+  color: #fffff8;
+  margin: 0.15em 0.15em 0.15em 0.15em;
+  font-size: 450%;
+  line-height:0.85em;
+}
+.x-ebookmaker  p.drop-cap:first-letter
+{
+  float: none;
+  margin: 0;
+  font-size: 100%;
+}
+
 .poem {
     padding-left: 2em;
     text-indent: -2em;
