@@ -149,10 +149,13 @@ td .dot-cell:after  {
   content:" . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . "
 }
 
-.dot-table4 td:nth-child(4):after {
+.dot-col3 td:nth-child(3):after {
   content:" . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . "
 }
 
+.dot-col3 td:nth-child(4) {
+  text-align: right;
+}
 
 .col-table td  {
   vertical-align: top;
