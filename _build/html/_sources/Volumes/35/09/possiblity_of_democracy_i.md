@@ -22,10 +22,8 @@ Or  to put it another way; in 1920 we had both a presidential election and a dec
 <table class="dot-table dot-table3">
 <thead>
   <tr>
-    <th></th>
-    <th>Per Cent</th>
-    <th></th>
-    <th>Per Cent</th>
+    <th colspan="2">Per Cent</th>
+    <th colspan="2">Per Cent</th>
   </tr>
 </thead>
 <tbody>

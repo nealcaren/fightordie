@@ -137,9 +137,16 @@ p.drop-cap:first-letter
   white-space:nowrap;
 }
 
+.dot-table3 th:nth-child(1) {
+  padding-right: 2em;
+  text-align: right;
+}
+
+
 .dot-table td:nth-child(2) {
   text-align: right;
 }
+
 .dot-table td:first-child:after {
   content:" . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . "
 }
