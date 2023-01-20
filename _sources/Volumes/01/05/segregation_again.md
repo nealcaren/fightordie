@@ -12,7 +12,7 @@ pages:   20-21
 The Baltimore segregation ordinance continues to bring out comment. When it was pronounced void, on account of technical defects, the New York *Evening Post* said: "It is interesting to note that while the judges rendered their decision on the ground of improper framing of the ordinance, they took occasion, in handing down the decision, to touch upon the real issue involved, as follows: 
 
 > "Whether it is possible to pass a valid ordinance providing for the segregation of the white and colored races in their places of residence, is a question of great importance, but is one which in our judgment ought to be decided when an ordinance not otherwise void is before this court. 
-> nbsp;
+> &nbsp;
 > "It happens that of the two judges sitting in the case one is a Democrat and the other a Republican, but there is apparently no difference of opinion between them as to the grave doubt that attaches to the question whether it would be possible constitutionally to effect the object arrived at by any device whatsoever." 
 
 Harper's Weekly observes: "Baltimore may be the first large community to attempt to legalize a discrimination against Negroes in the matter of where they shall be permitted to live and to hold property, but a similar discrimination, enforced by means as effective as any written law, is common to nearly all Southern cities and towns, Partial or complete segregation, however brought about, is almost equally common in Northern towns and cities which have considerable Negro populations. 
@@ -29,5 +29,5 @@ The colored folk of New Orleans have been complaining that if they are to be seg
 
 "We are not at all sure that the objection leveled against the street car usage is well taken, but there is no doubt of the justice of their complaint against the inconsistency of employing white teachers in Negro schools and white bartenders in black saloons. The Negroes have done well to protest, and we think the practices against which they complain can and should be stopped." 
 
-—-----------
+_________________
 *Citation:* Du Bois, W.E.B. 1911. "Segregation Again." *The Crisis*. 1(5):20-21.
