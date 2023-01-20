@@ -137,6 +137,9 @@ p.drop-cap:first-letter
   white-space:nowrap;
 }
 
+.dot-table td:nth-child(2) {
+  text-align: right;
+}
 .dot-table td:first-child:after {
   content:" . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . "
 }
@@ -145,6 +148,9 @@ p.drop-cap:first-letter
   content:" . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . "
 }
 
+.dot-table3 td:nth-child(4) {
+  text-align: right;
+}
 .col-table td  {
   vertical-align: top;
 }
