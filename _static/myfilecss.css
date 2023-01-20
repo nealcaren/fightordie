@@ -149,6 +149,11 @@ td .dot-cell:after  {
   content:" . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . "
 }
 
+.dot-table4 td:nth-child(4):after {
+  content:" . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . "
+}
+
+
 .col-table td  {
   vertical-align: top;
 }

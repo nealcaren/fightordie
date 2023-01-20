@@ -19,7 +19,7 @@ The loss of interest in voting or the prevention by various means and methods of
 
 Or  to put it another way; in 1920 we had both a presidential election and a decennial census; so that for the first time in twenty years we knew the population at the time of an election. In that election, the following percentage of citizens twenty-one years of age and over did not vote in the several states: 
 
-<table class="dot-table">
+<table class="dot-table dot-table4">
 <thead>
   <tr>
     <th></th>
