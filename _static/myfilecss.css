@@ -130,13 +130,23 @@ p.drop-cap:first-letter
     margin-bottom: 0rem;
 }
 
-.dot-table td {
+td .dot-cell {
     max-width:200px;
     overflow:hidden;
     white-space:nowrap;
 }
-.dot-table td:first-child:after {
+
+td .dot-cell:after  {
     content:" . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . "
+}
+
+.dot-table td {
+  max-width:200px;
+  overflow:hidden;
+  white-space:nowrap;
+}
+.dot-table td:first-child:after {
+  content:" . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . "
 }
 
 .col-table td  {
