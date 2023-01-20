@@ -8,6 +8,7 @@
 |   1910 |        1 | 2            | [N.A.A.C.P.](https://www.dareyoufight.org/Volumes/01/02/NAACP.html)                                                                       |
 |   1910 |        1 | 2            | [Precept and Practice](https://www.dareyoufight.org/Volumes/01/02/precept_and_practice.html)                                              |
 |   1911 |        1 | 3            | ['Social Equality'](https://www.dareyoufight.org/Volumes/01/03/social_equality.html)                                                      |
+|   1911 |        1 | 3            | [A Winter Pilgrimage](https://www.dareyoufight.org/Volumes/01/03/winter_pilmigrage.html)                                                  |
 |   1911 |        1 | 3            | ['Ashamed'](https://www.dareyoufight.org/Volumes/01/03/ashamed.html)                                                                      |
 |   1911 |        1 | 3            | [The Old Story](https://www.dareyoufight.org/Volumes/01/03/old_story.html)                                                                |
 |   1911 |        1 | 5            | [Segregation Again](https://www.dareyoufight.org/Volumes/01/05/segregation_again.html)                                                    |
