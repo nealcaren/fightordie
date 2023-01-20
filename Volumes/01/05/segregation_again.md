@@ -23,7 +23,7 @@ Inspired by Baltimore, one Mr. Vonderlehr, of Richmond, seeks to segregate the c
 
 "Segregation," remarks the Leader, "has proved to be a mitigation, if not a solution of the race problem." The "Jim Crow" car law, the Leader thinks, has done much for the peace and comfort of.the traveling public—meaning, presumably, the white traveling public—and is an "unmixed blessing." "Some ill-advised Negroes have indeed railed against it. This, however, has only accentuated its need and its usefulness." 
 
-The colored folk of New Orleans have been complaining that if they are to be segregated on cars and in schools they should not be forced to have white teachers, white bartenders and so on. The Times-Democrat, which thinks that objection to segregation shows an "abject lack of race-pride," holds that the Negroes are justified in some of their contentions. 
+The colored folk of New Orleans have been complaining that if they are to be segregated on cars and in schools they should not be forced to have white teachers, white bartenders and so on. The *Times-Democrat*, which thinks that objection to segregation shows an "abject lack of race-pride," holds that the Negroes are justified in some of their contentions. 
 
 "The speakers complained, not without reason, that these practices did not accord with the demand of the whites for segregation; were unfair and grossly inconsistent. A protest was lodged also against the methods by which the 'Jim Crow' screens in the local street cars were manipulated. 
 
