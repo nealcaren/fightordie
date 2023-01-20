@@ -142,9 +142,13 @@ p.drop-cap:first-letter
   text-align: right;
 }
 
+.dot-table3 th {
+  text-align: right;
+}
 
 .dot-table td:nth-child(2) {
   text-align: right;
+  padding-right: 2em;
 }
 
 .dot-table td:first-child:after {
