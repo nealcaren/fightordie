@@ -5,7 +5,7 @@ journal: The Crisis
 year:    1920
 volume:  20
 issue:   1
-pages:   5-6
+pages:   5--6
 -->
 # Get Ready (1920)
 
@@ -18,4 +18,4 @@ Get ready, fellow Negroes, and set your faces like flint. Resolve on two things:
 Get ready! Know the law. Obey the law. If the law says that only intelligent women may vote, let the intelligent colored women register and vote. If voting is restricted by property, let those who have property register and vote. But if the South attempts in 1920 and after the Great War to disfranchise women illegally for "race, color or previous condition of servitude", show it that it cannot be done.
 
 ______________
-*Citation:* Du Bois, W.E.B. 1920. "Get Ready." *The Crisis*. 20(1):5-6.
+*Citation:* Du Bois, W.E.B. 1920. "Get Ready." *The Crisis*. 20(1):5--6.
