@@ -130,15 +130,6 @@ p.drop-cap:first-letter
     margin-bottom: 0rem;
 }
 
-td .dot-cell {
-    max-width:200px;
-    overflow:hidden;
-    white-space:nowrap;
-}
-
-td .dot-cell:after  {
-    content:" . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . "
-}
 
 .dot-table td {
   max-width:200px;
@@ -150,7 +141,7 @@ td .dot-cell:after  {
   content:" . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . "
 }
 
-.dot-col3 td:nth-child(2):after {
+.dot-table3 td:nth-child(3):after {
   content:" . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . "
 }
 
