@@ -36,9 +36,9 @@ Or  to put it another way; in 1920 we had both a presidential election and a dec
     <td>46</td>
   </tr>
   <tr>
-    <td class="dot-cell">>Mississippi</td>
+    <td>>Mississippi</td>
     <td>91</td>
-    <td class="dot-cell">>Nebraska</td>
+    <td>>Nebraska</td>
     <td >46</td>
   </tr>
 </tbody>
