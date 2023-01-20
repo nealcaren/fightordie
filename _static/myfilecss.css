@@ -150,8 +150,7 @@ td .dot-cell:after  {
   content:" . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . "
 }
 
-
-.dot-col3 td:nth-child(3):after {
+.dot-col3 td:nth-child(2):after {
   content:" . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . "
 }
 
