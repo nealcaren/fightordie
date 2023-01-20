@@ -180,3 +180,15 @@ p.drop-cap:first-letter
   background-color: #FFFFFF;
   width: 55%;
 }
+
+.container div{
+  flex: 1 0 calc(50% - 10px);
+  margin: 5px;
+  display: inline-flex;
+  flex-direction: column;
+  -webkit-flex-direction: column;
+  -moz-flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
