@@ -141,7 +141,7 @@ p.drop-cap:first-letter
   content:" . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . "
 }
 
-.dot-col3 td:nth-child(2):after {
+.dot-table3 td:nth-child(3):after {
   content:" . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . "
 }
 
