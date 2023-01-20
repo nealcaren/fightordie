@@ -56,11 +56,12 @@ If we group the states geographically we find that in 1920 the Pacific and North
 
 Or put it another way, a million voters elect: 
 <ul style="list-style: none;">
- <li>On the Pacific Coast---12 Congressmen.</li>
-<li>In the Middle West---13 Congressmen.</li> 
-<li>In New England---16 Congressmen.</li> 
-<li>In the South---45 Congressmen.</li>
+ <li>On the Pacific Coast&mdash;12 Congressmen.</li>
+<li>In the Middle West&mdash;13 Congressmen.</li> 
+<li>In New England&mdash;16 Congressmen.</li> 
+<li>In the South&mdash;45 Congressmen.</li>
 </ul>
+
 New England has an enormous advantage over the Northwest and considerable over the Middle West, while the political advantage of the South is so extraordinary as to force consideration of its peculiar situation. When one gets thus far in the argument, there arises in the mind of the average American reader the fact that the whole argument involves, at least in large part, the South; and brings back the almost forgotten question of Negro suffrage. This is true; but the object of this paper is to impress the fact that the question at issue is much larger than this and that no matter what the discussion involves, it must be discussed, or else democratic government in the United States is impossible. 
 
 Senator Swanson of Virginia has just said in the Senate: 
@@ -70,6 +71,20 @@ Senator Swanson of Virginia has just said in the Senate:
 There is no doubt that any modern democratic community faced by a large amount of ignorance, unusual poverty and political corruption must in some way defend itself. In the defense which the South attempted to make against ignorance, poverty and corruption, she had the moral support of the majority of citizens of the United States. But it is over a half century since the 15th Amendment was proclaimed and a full generation since the new Southern disfranchisement was begun. At that time to disfranchise the poor and ignorant automatically excluded the great mass of the black men from the ballot. Today, a large number is still poor and illiterate. But today it is also true that large numbers of black men are disfranchised not because of ignorance or thriftlessness but simply and frankly because they are black. A critical time of consideration is approaching. Any day a case like the Texas primary may appear in the Supreme Court which will gravely challenge present methods and it is doubtful if any mere appeal to mob law against any such decision will be tolerated even in the South. Surely then the time has come for a careful, dispassionate consideration—not so much of the political condition of the South as of the effect which the political legislation of the South from 1890 to 1909 has had upon the politics of the nation. 
 
 First and foremost, it is necessary for the nation to ask the Southern States what it is they wish today to disfranchise---race or condition? If the first is what they propose, that is illegal and can only be done by constitutional amendment. There may be reasons which appeal to Americans why disfranchisement by race is desirable. If so, such a campaign should be inaugurated. 
+
+There has been a demand for this from a few persons North and South. But the reason that such a campaign has not been seriously suggested, is, of course, clear: the nation would logically demand first and foremost that if Negroes as such, are legally excluded from the right of suffrage, they should not be counted as a basis of representation either in Congress or the state legislatures. In the founding of the American republic, New England demanded that representation in Congress be based on the free population. Its stand was logically impregnable, and the only real, albeit unspoken argument that led to compromise, was the feeling that eventually the slave population was going to disappear, either by emancipation into freedom or by deportation. Until this time, slaves were to count two-fifths of the white population in determining representation. 
+
+With the 13th Amendment, Negroes, although still economically enslaved, counted as five-fifths. With the new disfranchising laws, they still count just as fully as the white population. But this again was permitted on the tacit assumption that these laws were temporary in their application&mdash;that when the freedmen learned to read and write, accumulated property and established a modern, cultural life, they would be allowed to vote on the same terms as other Americans. Not only was this a former assumption of the North&mdash;it was the plain statement and repeated promise of the South.
+
+It is, then, but reasonable that if the South wishes now to change the constitution and laws of the United States and make it possible to exclude men from voting on account of race and color&mdash;that the test of its sincerity is its willingness in that case not to count the colored population as a basis for representation. 
+
+If on the other hand the South merely wishes to get rid of an electorate too ignorant, too poverty stricken and corrupt to vote honestly, it has already a multiplicity of laws on the subject. But laws of this sort ought so to be drawn and administered as to encourage education and thrift and honesty and their proper test is the gradual disappearance of illiteracy and the gradual enfranchisement of Negroes, otherwise, they are ineffective and dangerous. 
+
+As a matter of fact, just whom does the South disfranchise? It is difficult to get an official record of voting in the United States and especially difficult in the South with regard to the voting of Negroes. 
+
+In Louisiana the state furnishes a fairly accurate official record. In the election for President in 1924, there were 274,592 white persons registered and 980 Negroes. The white population of the state in 1920 was 1,096,611; the Negro population was 700,257. Of these, 564,933 whites were 21 years of age and over, and 359,251 Negroes. Of the adult Negroes 229,980 were reported as illiterate. The leaves 129,271 who can read and write. The statistics of illiteracy are inaccurate. Still, it would seem reasonable to suppose that at least 100,000 Louisiana Negroes were men of average intelligence, able to read and write. Nearly eighty percent of the Negro population, 10 years of age and over, is engaged in gainful occupations, and includes 164,109 farmers, 52,687 in manufacturing and mechanical industries, 21,802 working in transportation, 6,700 engaged in trade, 
+1,983 in the public service, 3,385 in professional service, 1,308 clerks and 
+54,370 servants. Moreover, among the Negroes there were more than 10,000 persons who owned their farms, and in addition to these farmers, 28,906 Negroes owned their homes. The total property owned by Negroes of Louisiana is not not actually known but judging from  Georgia, Virginia and North Carolina, where records are kept, it cannot be less than $75,000,000. 
 
 [TO BE DONE]
 
