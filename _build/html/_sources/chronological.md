@@ -121,6 +121,7 @@
 |   1920 |       19 | 4            | [Crime](https://www.dareyoufight.org/Volumes/19/04/crime.html)                                                                            |
 |   1920 |       20 | 1            | [Get Ready](https://www.dareyoufight.org/Volumes/20/01/get_ready.html)                                                                    |
 |   1920 |       20 | 1            | [White Co-Workers](https://www.dareyoufight.org/Volumes/20/01/white_coworkers.html)                                                       |
+|   1920 |       20 | 5            | [The Rise of the West Indian](https://www.dareyoufight.org/Volumes/20/05/rise_of_the_west_indian.html)                                    |
 |   1920 |       21 | 1            | [The Social Equality of Whites and Blacks](https://www.dareyoufight.org/Volumes/21/01/social_equality_of_blacks_and_whites.html)          |
 |   1920 |       21 | 1            | [Suffrage](https://www.dareyoufight.org/Volumes/21/01/suffrage.html)                                                                      |
 |   1920 |       21 | 2            | [The Unreal Campaign](https://www.dareyoufight.org/Volumes/21/02/unreal_campaign.html)                                                    |
