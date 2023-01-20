@@ -83,6 +83,12 @@ table, th, td, tr {
   border-style : hidden!important;
 }
 
+table  {
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 1em;
+}
+
 th, td {
   padding-bottom: 0em;
 }
@@ -128,6 +134,10 @@ p.drop-cap:first-letter
 .poem-biggest-indent {
     padding-left: 5em;
     margin-bottom: 0rem;
+}
+
+.dot-table td {
+  padding-left: 2em;
 }
 
 
