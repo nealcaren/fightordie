@@ -13,6 +13,7 @@ chapters:
 - file: Sections/segregation
   sections:
   - file: Volumes/01/01/Segregation.md
+  - file: Volumes/01/05/segregation_again.md
   - file: Volumes/03/05/homes.md
   - file: Volumes/05/04/blesseddiscrimination.md
   - file: Volumes/17/03/jim_crow.md
