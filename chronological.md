@@ -5,6 +5,7 @@
 |   1910 |        1 | 1            | [Segregation](https://www.dareyoufight.org/Volumes/01/01/Segregation.html)                                                                |
 |   1910 |        1 | 1            | [Agitation](https://www.dareyoufight.org/Volumes/01/01/Agitation.html)                                                                    |
 |   1910 |        1 | 1            | [The Crisis](https://www.dareyoufight.org/Volumes/01/01/TheCrisis.html)                                                                   |
+|   1910 |        1 | 2            | [The Races in Conference](https://www.dareyoufight.org/Volumes/01/02/races_in_conference.html)                                            |
 |   1910 |        1 | 2            | [N.A.A.C.P.](https://www.dareyoufight.org/Volumes/01/02/NAACP.html)                                                                       |
 |   1910 |        1 | 2            | [Precept and Practice](https://www.dareyoufight.org/Volumes/01/02/precept_and_practice.html)                                              |
 |   1911 |        1 | 3            | ['Social Equality'](https://www.dareyoufight.org/Volumes/01/03/social_equality.html)                                                      |

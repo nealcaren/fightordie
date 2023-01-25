@@ -90,6 +90,7 @@ chapters:
 
 - file: Sections/global
   sections:
+  - file: Volumes/01/02/races_in_conference.md
   - file: Volumes/39/12/from_a_traveler.md
   - file: Sections/wwi
     sections:
