@@ -54,6 +54,7 @@ chapters:
 - file: Sections/lynching.md
   sections:
   - file: Volumes/02/04/lynching.md
+  - file: Volumes/02/05/triumph.md
   - file: Volumes/07/05/lynching.md
   - file: Volumes/08/03/cause_of_lynching.md
   - file: Volumes/11/06/peonage.md
@@ -140,6 +141,7 @@ chapters:
     - file: Volumes/40/06/strategy_of_the_negro_voter.md
   - file: Sections/womansuffrage
     sections:
+    - file: Volumes/02/06/forwardbackward.md
     - file: Volumes/04/02/suffering_suffragettes.md
     - file: Volumes/04/04/ohio.md
     - file: Volumes/04/05/votes_for_women.md
@@ -174,6 +176,7 @@ chapters:
   - file: Sections/labor
     sections:
     - file: Volumes/03/06/servant_in_the_south.md
+    - file: Volumes/04/03/organized_labor.md
     - file: Volumes/15/05/the_black_man_and_the_unions.md
     - file: Volumes/18/05/labor_omnia_vincit.md
     - file: Volumes/28/04/american_federation_of_labor.md
