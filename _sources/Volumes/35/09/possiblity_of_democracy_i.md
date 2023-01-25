@@ -20,10 +20,10 @@ The loss of interest in voting or the prevention by various means and methods of
 Or  to put it another way; in 1920 we had both a presidential election and a decennial census; so that for the first time in twenty years we knew the population at the time of an election. In that election, the following percentage of citizens twenty-one years of age and over did not vote in the several states: 
 
 <div class="container">
-  <div>South Carolina....	91</div>
-  <div>South Carolina....	92</div>
-  <div>South Carolina....	93</div>
-  <div>South Carolina....	94</div>
+  <span>South Carolina....	91</span>
+  <span>South Carolina....	92</span>
+  <span>South Carolina....	93</span>
+  <span>South Carolina....	94</span>
   <div>South Carolina....	95</div>
   <div>South Carolina....	96</div>
   <div>South Carolina....	97</div>

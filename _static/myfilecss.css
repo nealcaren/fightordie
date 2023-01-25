@@ -181,10 +181,10 @@ p.drop-cap:first-letter
   width: 55%;
 }
 
-.container div{
+.container span{
   flex: 1 0 calc(50% - 10px);
   margin: 5px;
-  display: inline-flex;
+  display: inline-block;
   flex-direction: column;
   -webkit-flex-direction: column;
   -moz-flex-direction: column;

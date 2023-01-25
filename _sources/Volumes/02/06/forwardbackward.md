@@ -1,4 +1,3 @@
-
 <!--
 title:   Forward Backward
 author:  Du Bois, W.E.B.
