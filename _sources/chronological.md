@@ -16,6 +16,7 @@
 |   1911 |        2 | 2            | [Starvation and Prejudice](https://www.dareyoufight.org/Volumes/02/02/starvation_and_prejudice.html)                                      |
 |   1911 |        2 | 4            | [Lynching](https://www.dareyoufight.org/Volumes/02/04/lynching.html)                                                                      |
 |   1911 |        2 | 4            | [Races](https://www.dareyoufight.org/Volumes/02/04/races.html)                                                                            |
+|   1911 |        2 | 5            | [Triumph](https://www.dareyoufight.org/Volumes/02/05/triumph.html)                                                                        |
 |   1912 |        3 | 4            | [Light](https://www.dareyoufight.org/Volumes/03/04/light.html)                                                                            |
 |   1912 |        3 | 5            | [Homes](https://www.dareyoufight.org/Volumes/03/05/homes.html)                                                                            |
 |   1912 |        3 | 5            | [The Servant in the South](https://www.dareyoufight.org/Volumes/03/06/servant_in_the_south.html)                                          |
