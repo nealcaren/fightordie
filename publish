@@ -1,0 +1,26 @@
+#!/bin/bash
+
+# Remove windows encodings from quotes in markdown documents
+conda run -n dyf jupyter nbconvert --to notebook --execute clean_md.ipynb
+
+# Build chronological list of ARTICLES
+conda run -n dyf jupyter nbconvert --to notebook --execute make_chrono.ipynb
+
+
+# Delete old build
+conda run -n dyf  jupyter-book clean  . --html
+
+# Build book
+conda run -n dyf jupyter-book build ./
+
+# Fix the HTML to make it prettier
+conda run -n dyf jupyter nbconvert --to notebook --execute clean.ipynb
+
+# Git add & push
+git add .
+git commit -m 'Updated'
+git push
+
+# Update website
+conda run -n dyf ghp-import -n -p -f _build/html -c www.dareyoufight.org
+# conda run -n crisis jupyter-book build ./  --builder pdflatex
