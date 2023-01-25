@@ -16,11 +16,14 @@
 |   1911 |        2 | 2            | [Starvation and Prejudice](https://www.dareyoufight.org/Volumes/02/02/starvation_and_prejudice.html)                                      |
 |   1911 |        2 | 4            | [Lynching](https://www.dareyoufight.org/Volumes/02/04/lynching.html)                                                                      |
 |   1911 |        2 | 4            | [Races](https://www.dareyoufight.org/Volumes/02/04/races.html)                                                                            |
+|   1911 |        2 | 5            | [Triumph](https://www.dareyoufight.org/Volumes/02/05/triumph.html)                                                                        |
+|   1911 |        2 | 6            | [Forward Backward](https://www.dareyoufight.org/Volumes/02/06/forwardbackward.html)                                                       |
 |   1912 |        3 | 4            | [Light](https://www.dareyoufight.org/Volumes/03/04/light.html)                                                                            |
 |   1912 |        3 | 5            | [Homes](https://www.dareyoufight.org/Volumes/03/05/homes.html)                                                                            |
 |   1912 |        3 | 5            | [The Servant in the South](https://www.dareyoufight.org/Volumes/03/06/servant_in_the_south.html)                                          |
 |   1912 |        3 | 5            | [Lee](https://www.dareyoufight.org/Volumes/03/05/lee.html)                                                                                |
 |   1912 |        4 | 2            | [Suffering Suffragettes](https://www.dareyoufight.org/Volumes/04/02/suffering_suffragettes.html)                                          |
+|   1912 |        4 | 3            | [Organized Labor](https://www.dareyoufight.org/Volumes/04/03/organized_labor.html)                                                        |
 |   1912 |        4 | 4            | [Ohio](https://www.dareyoufight.org/Volumes/04/04/ohio.html)                                                                              |
 |   1912 |        4 | 4            | [Politics](https://www.dareyoufight.org/Volumes/04/04/politics.html)                                                                      |
 |   1912 |        4 | 5            | [Votes for Women](https://www.dareyoufight.org/Volumes/04/05/votes_for_women.html)                                                        |
