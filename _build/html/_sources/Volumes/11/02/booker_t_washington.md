@@ -8,7 +8,8 @@ issue:   2
 pages:   82
 -->
 # Booker T. Washington (1915)
-![Booker T. Washington] (https://upload.wikimedia.org/wikipedia/commons/1/1b/Booker_T_Washington_retouched_flattened-crop.jpg)
+
+<!--![Booker T. Washington](https://upload.wikimedia.org/wikipedia/commons/1/1b/Booker_T_Washington_retouched_flattened-crop.jpg)-->
 
 The death of Mr. Washington marks an epoch in the history of America. He was the greatest Negro leader since Frederick Douglass, and the most distinguished man, white or black, who has come out of the South since the Civil War. His fame was international and his influence far-reaching. Of the good that he accomplished there can be no doubt: he directed the attention of the Negro race in America to the pressing necessity of economic development; he emphasized technical education and he did much to pave the way for an understanding between the white and darker races.
 
