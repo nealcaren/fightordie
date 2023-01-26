@@ -118,6 +118,7 @@ chapters:
   - file: Sections/colonialization
     sections:
     - file: Volumes/10/01/peace.md
+    - file: Volumes/10/02/amazing_island.md
     - file: Volumes/12/04/ireland.md
     - file: Volumes/17/04/reconstruction_and_africa.md
     - file: Volumes/18/02/egypt_and_india.md
