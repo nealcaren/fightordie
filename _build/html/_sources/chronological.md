@@ -54,6 +54,7 @@
 |   1915 |       10 | 1            | [The Fourteenth Amendment](https://www.dareyoufight.org/Volumes/10/01/fourteenth_amendment.html)                                          |
 |   1915 |       10 | 1            | [The Republicans](https://www.dareyoufight.org/Volumes/10/01/the_republicans.html)                                                        |
 |   1915 |       10 | 1            | [Credit](https://www.dareyoufight.org/Volumes/10/01/credit.html)                                                                          |
+|   1915 |       10 | 2            | [An Amazing Island](https://www.dareyoufight.org/Volumes/10/02/amazing_island.html)                                                       |
 |   1915 |       10 | 2            | [An Open Letter](https://www.dareyoufight.org/Volumes/10/03/an_open_letter.html)                                                          |
 |   1915 |       10 | 3            | [Education](https://www.dareyoufight.org/Volumes/10/03/education.html)                                                                    |
 |   1915 |       11 | 1            | [We Come of Age](https://www.dareyoufight.org/Volumes/11/01/we_come_of_age.html)                                                          |
