@@ -20,38 +20,21 @@ The loss of interest in voting or the prevention by various means and methods of
 Or  to put it another way; in 1920 we had both a presidential election and a decennial census; so that for the first time in twenty years we knew the population at the time of an election. In that election, the following percentage of citizens twenty-one years of age and over did not vote in the several states: 
 
 <div class="container">
-  <div>South Carolina....	91</div>
-  <div>South Carolina....	92</div>
-  <div>South Carolina....	93</div>
-  <div>South Carolina....	94</div>
-  <div>South Carolina....	95</div>
-  <div>South Carolina....	96</div>
-  <div>South Carolina....	97</div>
-  <div>South Carolina....	98</div>
+  <div><span class ="dotfollow">South Carolina</span>
+        <span style="float:right;">92</span><br></div>
+    <div><span style="float:left;">Mississippi</span>
+        <span style="float:right;">91</span><br></div>
+    <div><span style="float:left;">Georgia</span>
+        <span style="float:right;">89</span><br></div>
+  <div><span style="float:left;">Louisiana</span>
+        <span style="float:right;">86</span><br></div>
+    <div><span style="float:left;">Texas</span>
+        <span style="float:right;">82</span><br></div>
+    <div><span style="float:left;">Virginia</span>
+        <span style="float:right;">81</span><br></div>
+  <div><span style="float:left;">Arkansas</span>
+        <span style="float:right;">79</span><br></div>
 </div>
-
-<table class="dot-table dot-table3">
-<thead>
-  <tr>
-    <th colspan="2">Per Cent</th>
-    <th colspan="2">Per Cent</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>South Carolina</td>
-    <td>92</td>
-    <td>Wyoming</td>
-    <td>46</td>
-  </tr>
-  <tr>
-    <td>Mississippi</td>
-    <td>91</td>
-    <td>Nebraska</td>
-    <td >46</td>
-  </tr>
-</tbody>
-</table>
 
  The largest percentage of voluntary and involuntary disfranchisement is in South; but it is not confined to the South. Over one-half the adults of Pennsylvania, Vermont, Maine and California stayed from the poles and nearly one-half the voting population of Illinois, Minnesota, Washington, Wisconsin, Oregon, Massachusetts, Wyoming, Nebraska and Michigan. In only one state in the United States did three-fourths of the voters go to the poles and in only eight states did two-thirds go. 
 
