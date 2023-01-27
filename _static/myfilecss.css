@@ -93,7 +93,7 @@ table  {
 
 
 th, td {
-  padding-bottom: 0em;
+  padding: .1em;
   border: 0em;
 }
 
@@ -185,14 +185,32 @@ p.drop-cap:first-letter
   width: 55%;
 }
 
-.container div{
-  flex: 1 0 calc(50% - 10px);
-  margin: 5px;
-  display: inline-flex;
-  flex-direction: column;
-  -webkit-flex-direction: column;
-  -moz-flex-direction: column;
-  flex-wrap: wrap;
-  justify-content: center;
-  align-items: center;
+
+.container {
+  -webkit-columns: 1 500px;
+     -moz-columns: 1 500px;
+          columns: 1 500px;
+  -webkit-column-gap: 4em;
+  -moz-column-gap: 4em;
+  column-gap: 4em;
+}
+
+.dotfollow {
+  float: left;
+  width: 500px;
+  padding: 0;
+  overflow: hidden;
+  position: relative;
+  display: inline-block;
+  text-overflow: ellipsis;
+white-space: nowrap;
+
+}
+
+
+
+ul {
+  margin: 0;
+  text-overflow: ellipsis;
+  max-width: 100px;
 }

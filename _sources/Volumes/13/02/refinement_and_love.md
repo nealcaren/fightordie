@@ -11,7 +11,7 @@ pages:   63
 
 A colored girl writes us from Oswego, N. Y., saying:
 
-> "Do you want to know what I like best about **The Crisis**? What I enjoy most? What fires my ambition to struggle on? Well, it is just this: The successes of other members of my race and what they are doing in this United States.   
+> "Do you want to know what I like best about <span style="font-variant:small-caps;">The Crisis</span>? What I enjoy most? What fires my ambition to struggle on? Well, it is just this: The successes of other members of my race and what they are doing in this United States.   
 > &nbsp;  
 > "And do you want to know what I like least? Just such expressions as these: 'The recent Irish revolt may have been foolish, but would to God some of us had sense enough to be fools!' The great Napoleon realized after all that the use of force was not the best way to achieve one's ends. That sort of a foundation is too weak; it cannot last. So is it not better to keep before our people ideas and thoughts of culture, refinement, service and love and in that way build our progress on a sure foundation?"
 
