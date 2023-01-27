@@ -50,6 +50,7 @@
 |   1914 |        8 | 5            | [Does Race Antagonism Serve Any Good Purpose](https://www.dareyoufight.org/Volumes/08/05/does_race_antagonism.html)                       |
 |   1914 |        9 | 1            | [World War and the Color Line](https://www.dareyoufight.org/Volumes/09/01/worldwar.html)                                                  |
 |   1914 |        9 | 1            | [The Burden of Black Women](https://www.dareyoufight.org/Volumes/09/01/burden_of_black_women.html)                                        |
+|   1914 |        9 | 2            | [William Monroe Trotter](https://www.dareyoufight.org/Volumes/09/02/trotter.html)                                                         |
 |   1914 |        9 | 2            | [Negro](https://www.dareyoufight.org/Volumes/09/02/negro.html)                                                                            |
 |   1915 |       10 | 1            | [Peace](https://www.dareyoufight.org/Volumes/10/01/peace.html)                                                                            |
 |   1915 |       10 | 1            | [The Fourteenth Amendment](https://www.dareyoufight.org/Volumes/10/01/fourteenth_amendment.html)                                          |
