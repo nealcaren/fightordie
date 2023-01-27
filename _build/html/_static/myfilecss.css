@@ -109,12 +109,7 @@ p.drop-cap:first-letter
   font-size: 450%;
   line-height:0.85em;
 }
-.x-ebookmaker  p.drop-cap:first-letter
-{
-  float: none;
-  margin: 0;
-  font-size: 100%;
-}
+
 
 .poem {
     padding-left: 2em;
@@ -183,34 +178,4 @@ p.drop-cap:first-letter
 @media print {
   background-color: #FFFFFF;
   width: 55%;
-}
-
-
-.container {
-  -webkit-columns: 1 500px;
-     -moz-columns: 1 500px;
-          columns: 1 500px;
-  -webkit-column-gap: 4em;
-  -moz-column-gap: 4em;
-  column-gap: 4em;
-}
-
-.dotfollow {
-  float: left;
-  width: 500px;
-  padding: 0;
-  overflow: hidden;
-  position: relative;
-  display: inline-block;
-  text-overflow: ellipsis;
-white-space: nowrap;
-
-}
-
-
-
-ul {
-  margin: 0;
-  text-overflow: ellipsis;
-  max-width: 100px;
 }
