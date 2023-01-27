@@ -92,8 +92,13 @@ table  {
 
 th, td {
   border: 0em;
+  padding: .1em;
 }
 
+.table td, .table th {
+  padding: .1em;
+  border: 0em;
+}
 
 .dot-table td {
   max-width:200px;
