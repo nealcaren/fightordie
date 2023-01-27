@@ -11,7 +11,7 @@ pages:   239
 
 We do not blame the people of the United States for being ashamed of lynching, but we have serious doubts if recent methods of curing the evil are going to be really efficacious. We do not refer now to the unjust and dangerous hastening of the trials of accused persons, nor even to the proposed lessening of the penalty for mob murder; but rather to an attempt, deliberate or unintentional, to suppress the truth concerning the present extent of lynching in this land.
 
-<span style="font-variant:small-caps;">The Crisis</span>noted this last year. The first reports suggested that only thirty-four persons had been lynched during 1912. The second report published in other papers raised the amount to fifty or more while <span style="font-variant:small-caps;">The Crisis</span>' record was "sixty-three, possibly sixty-eight.''
+<span style="font-variant:small-caps;">The Crisis</span>noted this last year. The first reports suggested that only thirty-four persons had been lynched during 1912. The second report published in other papers raised the amount to fifty or more while <span style="font-variant:small-caps;">The Crisis</span>' record was "sixty-three, possibly sixty-eight."
 
 As this, however, was our first attempt to keep a record, we let the matter go without comment; but we note for the year 1913 precisely the same phenomena, namely, an early syndicated report in certain papers with thirty-odd lynchings; next comes the Chicago *Tribune*, which has hitherto been looked upon as an authority on lynching statistics, and reports forty-four lynchings for the year. Then comes Mr. B. T. Washington's report saying there were fifty-one.
 

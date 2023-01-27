@@ -36,3 +36,71 @@
   font-display: swap;
 }
 
+* {
+  font-family: "et-book", "Palatino", "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+  background-color: #fffff8;
+  color: #111;
+}
+
+.form-control {
+  font-family: "et-book", "Palatino", "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+  background-color: #fffff8;
+  color: #111;
+}
+
+.footnote-reference brackets {
+  font-family: "et-book", "Palatino", "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+  font-size: 0.75em;
+}
+
+.brackets {
+  font-family: "et-book", "Palatino", "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+  font-size: 0.75em;
+}
+
+
+h1, h2, h3 {
+    font-family: et-book, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+    text-align: left;
+}
+
+
+p {
+  text-align: left;
+  font-size: 1.25rem;
+  line-height: 1.875rem;
+}
+
+
+aside.sidebar {
+  font-size: 1rem;
+  line-height: 1.1rem;
+}
+
+table, th, td, tr {
+  border: 0em #fffff8;
+  border-bottom: 0em #fffff8;
+  border-style : hidden!important;
+}
+
+table  {
+  margin-left: 1em;
+  margin-bottom: 1.875rem;
+  align: left;
+  font-size: 1.25rem;
+}
+
+th, td {
+  border: 0em;
+}
+
+
+.dot-table td {
+  max-width:200px;
+  overflow:hidden;
+  white-space:nowrap;
+}
+
+.dot-table td:first-child:after {
+  content:" . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . "
+}

@@ -43,7 +43,7 @@ Carlos F. Hurd, an eye-witness, realizes this fact and speaks of it in the artic
 
 > A mob is passionate, a mob follows one man or a few men blindly; a mob sometimes takes chances. The East St. Louis affair, as I saw it, was a man hunt, conducted on a sporting basis, though with anything but  an East St. Louis the fair play which is the principle of sport. The East St. Louis men took no chances, except the chance from stray shots, which every spectator of their acts took. They went in small groups, there was little leadership, and there was a horribly cool deliberateness and a spirit of fun about it.   
 > &nbsp;  
-> "Get a n*****," was the slogan, and it was varied by the recurrent cry, ''Get another!" It was like nothing so much as the holiday crowd, with thumbs turned down, in the Roman Coliseum, except that here the shouters were their own gladiators, and their own wild beasts.
+> "Get a n*****," was the slogan, and it was varied by the recurrent cry, "Get another!" It was like nothing so much as the holiday crowd, with thumbs turned down, in the Roman Coliseum, except that here the shouters were their own gladiators, and their own wild beasts.
 
 ![](../../../Images/mesl_3.jpg)  
 
@@ -84,7 +84,7 @@ The St. Louis Republic has still a further touch:
 > &nbsp;  
 > "I've got a wife and four children at home," said the white-faced ambulance man as he climbed back on the wagon.  
 > &nbsp;  
-> When the fire had eaten its way that far the body was tossed into the flames. Two blocks further east lay a Negro who had been beaten until he was dying. ''Let's string him up," shouted a man. _A rope was brought and the dying black in a moment was dangling from a pole. Several "good measure" shots were fired into the body and the crowd went further on.
+> When the fire had eaten its way that far the body was tossed into the flames. Two blocks further east lay a Negro who had been beaten until he was dying. "Let's string him up," shouted a man. _A rope was brought and the dying black in a moment was dangling from a pole. Several "good measure" shots were fired into the body and the crowd went further on.
 
 Mr. Hurd who writes with much restraint tells how he saw a man covered with blood and half conscious, raise himself on his elbow and look feebly about, when a young man, standing directly behind him, lifted a flat stone in both hands and hurled it upon his neck. This young man was much better dressed than most of the others. He walked away unmolested.
 
