@@ -41,6 +41,7 @@
 |   1913 |        5 | 5            | [The Proper Way](https://www.dareyoufight.org/Volumes/05/05/proper_way.html)                                                              |
 |   1913 |        6 | 1            | [The Vigilance Committee: A Call To Arms](https://www.dareyoufight.org/Volumes/06/01/vigilance_committee.html)                            |
 |   1913 |        6 | 2            | [Logic](https://www.dareyoufight.org/Volumes/06/02/logic.html)                                                                            |
+|   1913 |        6 | 7            | [Another Open Letter to Woodrow Wilson](https://www.dareyoufight.org/Volumes/06/05/open_letter.html)                                      |
 |   1913 |        6 | 7            | [The People of Peoples and Their Gifts to Men](https://www.dareyoufight.org/Volumes/06/07/national_emancipation_exposition.html)          |
 |   1914 |        7 | 3            | [Join or Die](https://www.dareyoufight.org/Volumes/07/03/fightordie.html)                                                                 |
 |   1914 |        7 | 4            | [Work for Black Folk in 1914](https://www.dareyoufight.org/Volumes/07/04/work_for_black_folk.html)                                        |
@@ -73,7 +74,9 @@
 |   1916 |       12 | 3-Supplement | [The Waco Horror](https://www.dareyoufight.org/Volumes/12/03/waco_horror.html)                                                            |
 |   1916 |       12 | 4            | [Ireland](https://www.dareyoufight.org/Volumes/12/04/ireland.html)                                                                        |
 |   1916 |       12 | 4            | [The Drama Among Black Folk](https://www.dareyoufight.org/Volumes/12/03/drama_among_black_folk.html)                                      |
+|   1916 |       12 | 4            | [An Open Letter to Robert Russa Moton](https://www.dareyoufight.org/Volumes/12/03/open_letter.html)                                       |
 |   1916 |       12 | 5            | [Conduct, Not Color](https://www.dareyoufight.org/Volumes/12/05/conduct_not_color.html)                                                   |
+|   1916 |       12 | 5            | [The Colored Audience](https://www.dareyoufight.org/Volumes/12/05/coloured_audience.html)                                                 |
 |   1916 |       12 | 6            | [Cowardice](https://www.dareyoufight.org/Volumes/12/06/cowardice.html)                                                                    |
 |   1916 |       12 | 6            | [The Negro Party](https://www.dareyoufight.org/Volumes/12/06/negro_party.html)                                                            |
 |   1916 |       12 | 6            | [Migration](https://www.dareyoufight.org/Volumes/12/06/migration.html)                                                                    |
@@ -92,6 +95,8 @@
 |   1917 |       14 | 6            | [Houston](https://www.dareyoufight.org/Volumes/14/06/houston.html)                                                                        |
 |   1917 |       15 | 1            | [Votes for Women](https://www.dareyoufight.org/Volumes/15/01/votes_for_women.html)                                                        |
 |   1917 |       15 | 1            | [The Oath of the Negro Voter](https://www.dareyoufight.org/Volumes/15/01/oath_of_the_negro_voter.html)                                    |
+|   1917 |       15 | 1            | [Co-Operation](https://www.dareyoufight.org/Volumes/15/01/cooperation.html)                                                               |
+|   1917 |       15 | 1            | [Hampton](https://www.dareyoufight.org/Volumes/15/01/hampton.html)                                                                        |
 |   1917 |       15 | 1            | [Houston: An N.A.A.C.P. Investigation](https://www.dareyoufight.org/Volumes/15/01/houston.html)                                           |
 |   1918 |       15 | 5            | [The Black Man and the Unions](https://www.dareyoufight.org/Volumes/15/05/the_black_man_and_the_unions.html)                              |
 |   1918 |       15 | 6            | [Houston and East St. Louis](https://www.dareyoufight.org/Volumes/15/06/houston_and_east_st_louis.html)                                   |
