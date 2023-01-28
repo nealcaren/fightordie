@@ -29,4 +29,4 @@ It is simply silly to talk about pressure being brought to bear on the editor of
 LATER: We have won! The camp is granted; we shall have 1,000 Negro officers in the United States Army! Write us for information. 
 
 ______________
-*Citation:* Du Bois, W.E.B. 1917. "Officers." *The Crisis*. 14(3):60&ndash;61# Officers.
+*Citation:* Du Bois, W.E.B. 1917. "Officers." *The Crisis*. 14(3):60&ndash;61# Officers (1917).
