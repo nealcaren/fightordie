@@ -30,7 +30,7 @@ We black men still vote. In spite of the fact that the triumph of your party las
 In view of all this, we beg to ask the President of the United States and the leader of the Democratic party a few plain questions: 
 
 1. Do you want Negro votes? 
-2. Do you think that a '"Jim Crow" civil service will get these votes? 
+2. Do you think that a "Jim Crow" civil service will get these votes? 
 3. Is your Negro policy to be dictated by Tillman and Vardaman? 
 4. Are you going to appoint black men to office on the same terms that you choose white men? 
 

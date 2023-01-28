@@ -20,7 +20,7 @@ For instance: Today Negroes, Indians, Chinese, and other groups, are gaining new
 
 No sooner do whites see this unawaited development than they point out in dismay the inevitable consequences: "You lose our tutelage," "You spurn our knowledge," "You need our wealth and technique." They point out how fine is the world role of Elder Brother.
 
-Very well. Some of the darker brethren are convinced. They draw near in friendship; they seek to enter schools and churches; they would mingle in industry,—when lo! "Get out," yells the White World—"You're not our brothers and never will be'"'— "Go away, herd by yourselves'— "Eternal Segregation in the Lord!"
+Very well. Some of the darker brethren are convinced. They draw near in friendship; they seek to enter schools and churches; they would mingle in industry,—when lo! "Get out," yells the White World—"You're not our brothers and never will be"— "Go away, herd by yourselves'— "Eternal Segregation in the Lord!"
 
 Can you wonder, Sirs, that we are a bit puzzled by all this and that we are asking gently, but more and more insistently: Choose one or the other horn of the dilemma:
 

@@ -29,7 +29,7 @@ pages:   57
 
 1. The enforcement of the 13th, 14th and 15th Amendments of the Constitution of the United States.
 2. The passage of the Dyer-Anti Lynching Bill.
-3. The abolition of the "Jim-Crow"' car in interstate commerce.
+3. The abolition of the "Jim-Crow car in interstate commerce.
 4. The abolition of color segregation and discrimination in the Civil Service of the United States.
 
 We wish that in addition to this, Mr. DePriest believed in clean politics; in the smashing of Big Business, bootlegging and crime in their present alliance for political power; and in the organization of political life in Chicago so that the intelligent will of the majority could be openly and efficiently expressed.

@@ -202,7 +202,7 @@ It was Mrs. Cox, too, who saw the baby snatched from its mother's arms and throw
 
 This recital deals only with facts. But stop and picture for a moment Mrs. Cox's day and the memories which must haunt her and all others who spent those awful hours in St. Louis.
 
-First the mob, always a frightful thing —lowering in dense cowardly ranks through the streets. Then the fleeing Negroes, hunted, despairing. A hoarse, sullen cry, "'Get the n*****!" A shower of bullets, of bricks and stones. The flash of meat-cleavers and pickaxes. The merciless flames. And everywhere bodies, blood, hate and terrible levity.
+First the mob, always a frightful thing —lowering in dense cowardly ranks through the streets. Then the fleeing Negroes, hunted, despairing. A hoarse, sullen cry, "Get the n*****!" A shower of bullets, of bricks and stones. The flash of meat-cleavers and pickaxes. The merciless flames. And everywhere bodies, blood, hate and terrible levity.
 
 All our hunting-songs and descriptions deal with the glory of the chase as seen and felt by the hunters. No one has visualized the psychology of the quarry, the driven, hunted thing. The Negroes of East St. Louis have in their statements supplied the world with that lack.
 

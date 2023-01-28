@@ -12,7 +12,7 @@ pages:   285-286
 
 The Children's <span style="font-variant:small-caps;"> Crisis</span> has been published annually for nine years and is easily the most popular number of the year—that is, it makes the widest appeal to our readers. This is as it should be. Of course, we are and must be interested in our children above all else, if we love our race and humanity.
 
-But in the problem of our children we black folk are sorely puzzled. For example, a little girl writes us—we remember her as red-bronze and black-curled, with dancing eyes—'"I want to learn more about my race, so I want to begin early. … *I hate the white man just as much as he hates me and probably more!*"
+But in the problem of our children we black folk are sorely puzzled. For example, a little girl writes us—we remember her as red-bronze and black-curled, with dancing eyes—"I want to learn more about my race, so I want to begin early. … *I hate the white man just as much as he hates me and probably more!*"
 
 Think of this from twelve little years! And yet, can you blame the child? To the consternation of the Editors of <span style="font-variant:small-caps;">The Crisis</span> we have had to record some horror in nearly every Children's Number—in 1915, it was Leo Frank; in 1916, the lynching at Gainesville, Fla.; in 1917 and 1918, the riot and court martial at Houston, Tex., etc.
 

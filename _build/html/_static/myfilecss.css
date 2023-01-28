@@ -71,6 +71,11 @@ p {
   line-height: 1.875rem;
 }
 
+ul, ol {
+  font-size: 1.25rem;
+  line-height: 1.875rem;
+}
+
 .small-caps {
   font-variant: small-caps;
 }

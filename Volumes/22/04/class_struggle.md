@@ -9,7 +9,7 @@ pages:   151-152
 -->
 # The Class Struggle (1921)
 
-The N.A.A.C.P. hag been accused of not being a '"revolutionary" body. This is quite true. We do not believe in revolution. We expect revolutionary changes in many parts of this life and this world, but we expect these changes to come mainly through reason, human sympathy and the education of children, and not by murder. We know that there have been times when organized murder seemed the only way out of wrong, but we believe those times have been very few, the cost of the remedy excessive, the results as terrible as beneficent, and we gravely doubt if in the future there will be any real recurrent necessity for such upheaval.
+The N.A.A.C.P. hag been accused of not being a "revolutionary" body. This is quite true. We do not believe in revolution. We expect revolutionary changes in many parts of this life and this world, but we expect these changes to come mainly through reason, human sympathy and the education of children, and not by murder. We know that there have been times when organized murder seemed the only way out of wrong, but we believe those times have been very few, the cost of the remedy excessive, the results as terrible as beneficent, and we gravely doubt if in the future there will be any real recurrent necessity for such upheaval.
 
 Whether this is true or not, the N.A.A.C.P. is organized to agitate, to investigate, to expose, to defend, to reason, to appeal. This is our program and this is the whole of our program. What human reform demands today is light, more light; clear thought, accurate knowledge, careful distinctions.
 
