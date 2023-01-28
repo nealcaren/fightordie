@@ -11,7 +11,7 @@ pages:   221-223
 
 ***An investigation by Walter F. White, Assistant Secretary, National Association for the Advancement of Colored People, in Brooks and Lowndes Counties, Georgia.***
 
-The recent strong letter of President Wilson on lynching was undoubtedly called forth by representations from colored people following the lynchings in Brooks and Lowndes Counties, Ga., May 17-24. Hampton Smith, a white farmer, was killed, and newspaper dispatches report six persons as having been lynched for complicity. Investigation shows that at least eleven persons were killed.
+The recent strong letter of President Wilson on lynching was undoubtedly called forth by representations from colored people following the lynchings in Brooks and Lowndes Counties, Ga., May 17--24. Hampton Smith, a white farmer, was killed, and newspaper dispatches report six persons as having been lynched for complicity. Investigation shows that at least eleven persons were killed.
 
 Brooks and Lowndes Counties are situated in the southernmost part of the state of Georgia, near the Florida line. They are in the heart of the richest section of the state.
 

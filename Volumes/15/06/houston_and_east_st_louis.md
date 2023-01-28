@@ -13,7 +13,7 @@ pages:   268
 |--------------------------------------------------------------------------------------|-----------------------------------------------|
 | 17 WHITE persons killed.                                                             | 125 NEGROES killed.                           |
 | 13 COLORED soldiers hanged.                                                          | 10 COLORED men imprisoned for fourteen years. |
-| 41 COLORED soldiers imprisoned for life.                                             | 4 WHITE men imprisoned 14-15 years.           |
+| 41 COLORED soldiers imprisoned for life.                                             | 4 WHITE men imprisoned 14--15 years.           |
 | 4 COLORED soldiers imprisoned.                                                       | 5 WHITE men imprisoned five years.            |
 | 5 COLORED soldiers under sentence of death; temporarily reprieved by the President.  | 11 WHITE men imprisoned under one year.       |
 | 40 COLORED soldiers on trial for life.                                               | 18 WHITE men fined.                           |

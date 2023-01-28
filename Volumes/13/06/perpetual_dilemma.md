@@ -20,7 +20,7 @@ We continually submit to segregated schools, "Jim Crow" cars, and isolation, bec
 Yet, when a new alternative of such choice faces us it comes with a shock and almost without thinking we rail at the one who advises the lesser of two evils.
 
 ```{margin}
-[Joel Elias Spingarn](https://en.wikipedia.org/wiki/Joel_Elias_Spingarn), a white liberal Republican, was on the board of the NAACP from 1913 to his death in 1939, serving as chair from 1913-1919.
+[Joel Elias Spingarn](https://en.wikipedia.org/wiki/Joel_Elias_Spingarn), a white liberal Republican, was on the board of the NAACP from 1913 to his death in 1939, serving as chair from 1913--1919.
 
 ```
 

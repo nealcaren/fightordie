@@ -11,7 +11,7 @@ pages:   44
 
 The  growth of the Negro  population in the United States has been an astonishing phenomenon, especially when we remember that in 1790, when there were only three-fourths of a million Negroes in the country, it was the generally accepted fact that without a slave trade Negroes could not survive. What happened was that slaves without a slave trade became more valuable and with cotton culture their value rose still further, so that they were fed adequately and their breeding systematically encouraged. The result was that the Negro population has increased as follows:
 
-*Negro Population, 1790-1930*
+*Negro Population, 1790--1930*
 
 ![](../../../Images/increase_1.png)
 
@@ -19,7 +19,7 @@ The  growth of the Negro  population in the United States has been an astonishin
 
 ![](../../../Images/increase_2.png)
 
-It will be noticed that the rate has decreased. Just how much it has decreased, we do not know. The census figures are evidently inaccurate. The increase was smaller between 1860-1870 than between 1850-1860, but it was hardly reduced 50%; and so again the increase between 1910-1920 is officially reported as 6 1/2%, a ridiculous figure. In fact, in most states where Negroes live, accurate birth statistics are not kept. The only figures that give any true picture of our birth rate are the following, and they go only to 1910:
+It will be noticed that the rate has decreased. Just how much it has decreased, we do not know. The census figures are evidently inaccurate. The increase was smaller between 1860--1870 than between 1850--1860, but it was hardly reduced 50%; and so again the increase between 1910--1920 is officially reported as 6 1/2%, a ridiculous figure. In fact, in most states where Negroes live, accurate birth statistics are not kept. The only figures that give any true picture of our birth rate are the following, and they go only to 1910:
 
 ![](../../../Images/increase_3.png)
 

@@ -10,7 +10,7 @@ pages:   37-38
 # The Risk of Woman Suffrage (1915)
 
 ```{margin}
-[Kelly Miller](https://en.wikipedia.org/wiki/Kelly_Miller_(scientist)), an ally of Du Bois, founded the sociology department at Howard University, where he served as Dean from 1907-1999.
+[Kelly Miller](https://en.wikipedia.org/wiki/Kelly_Miller_(scientist)), often an ally of Du Bois, founded the sociology department at Howard University, where he served as Dean from 1907--1999.
 ![](https://upload.wikimedia.org/wikipedia/commons/b/b0/Kelly_Miller.jpg)
 ```
 
