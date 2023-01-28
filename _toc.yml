@@ -121,6 +121,7 @@ chapters:
   - file: Sections/colonialization
     sections:
     - file: Volumes/10/01/peace.md
+    - file: Volumes/10/06/hayti.md
     - file: Volumes/10/02/amazing_island.md
     - file: Volumes/12/04/ireland.md
     - file: Volumes/17/04/reconstruction_and_africa.md
@@ -161,9 +162,11 @@ chapters:
     - file: Volumes/04/04/politics.md
     - file: Volumes/08/05/last_word_in_politics.md
     - file: Volumes/10/01/the_republicans.md
+    - file: Volumes/13/01/mr_hughes.md
+    - file: Volumes/13/01/presidential_candidates.md
     - file: Volumes/15/01/oath_of_the_negro_voter.md
     - file: Volumes/21/02/unreal_campaign.md
-    - file: Volumes/22/01/drive.md
+    - file: Volumes/22/01/drive.md 
     - file: Volumes/28/03/vote.md
     - file: Volumes/28/04/la_follette.md
     - file: Volumes/28/05/naacp_and_parties.md
