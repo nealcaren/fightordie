@@ -15,7 +15,7 @@ Out of this past has risen the present Texas. In that state the first public bur
 
 Notwithstanding this, the Texas Negro has forged forward. Encouraged by his first great leader, Norris Wright Cuney, he has bought 21,182 farms with nearly two million acres of land, worth $25,000,000. Starting with nothing fifty years ago nearly one-third of these black folk are now land owners.
 
-To reward the Negroes for their thrift and struggles Texas gives them no voice in their own government, taxes them without representation and enforces "Jim-Crow'" travel, more irksome than in any other state because of the immense Texas distances. The Negro schools of Texas are better than in many Southern States and there are forty-four high schools for the 690,049 Negroes of the state, but 25 per cent of the Negro population is still absolutely illiterate and according to the white Houston *Post*: "The rural schools for Negro children where they exist at all are a joke."
+To reward the Negroes for their thrift and struggles Texas gives them no voice in their own government, taxes them without representation and enforces "Jim-Crow" travel, more irksome than in any other state because of the immense Texas distances. The Negro schools of Texas are better than in many Southern States and there are forty-four high schools for the 690,049 Negroes of the state, but 25 per cent of the Negro population is still absolutely illiterate and according to the white Houston *Post*: "The rural schools for Negro children where they exist at all are a joke."
 
 Is it not natural for the Negroes of such a state to endeavor to escape slavery?
 

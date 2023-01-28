@@ -23,7 +23,7 @@ Let the eagle scream!
 
 Civilization is again safe. 
 
-"Oh, say, can you see by the dawn's early light" that soap box of blackened bones and dust, standing in the dew and sunlight on the King's highway to the City of Brotherly Love, while, as the press reports, "'all day long, not only from Coatesville, but from all Chester County, and even from Philadelphia, people walked and drove out to the scene of the burning. Men and women poked the ashes and a shout of glee would signalize the finding of a blackened tooth or mere portions of unrecognizable bones. By noon the black heap had been leveled and only the scorched ground was left to tell what had happened there." 
+"Oh, say, can you see by the dawn's early light" that soap box of blackened bones and dust, standing in the dew and sunlight on the King's highway to the City of Brotherly Love, while, as the press reports, "all day long, not only from Coatesville, but from all Chester County, and even from Philadelphia, people walked and drove out to the scene of the burning. Men and women poked the ashes and a shout of glee would signalize the finding of a blackened tooth or mere portions of unrecognizable bones. By noon the black heap had been leveled and only the scorched ground was left to tell what had happened there." 
 
 Some foolish people talk of punishing the heroic mob, and the Governor of Pennsylvania seems to be real provoked. We hasten to assure our readers that nothing will be done. There may be a few formal arrests, but the men will be promptly released by the mob sitting as jury---perhaps even as judge. 
 

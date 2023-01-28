@@ -17,7 +17,7 @@ Downstairs, Bertha Lowman, her brother, Demon, twenty-two years of age and her f
 
 A mile and a half from town near an old tourist camp were gathered a thousand people and the two hundred cars which had brought them there. The three Negroes were lined up. The man to whom had been assigned the "honor" of executioner stood sickened by the task before him. He quailed and shook his head. Angrily he was brushed aside and three men took his place with two others aiding.
 
-The Negroes were told to run. Off they started. Shots rang out and they fell, the bullets having gone into their backs. The two boys were dead; the woman was not. She thrashed about on the ground begging piteously for life. '"She's bleating like a goat." One of the mob members laughed derisively as he said it. The sight was too much for some of the mob and they turned their heads away. Others, less tender hearted, fired shot after shot at the squirming figure. At last one bullet found a vital spot. A spasmodic quiver and the body was still.
+The Negroes were told to run. Off they started. Shots rang out and they fell, the bullets having gone into their backs. The two boys were dead; the woman was not. She thrashed about on the ground begging piteously for life. "She's bleating like a goat." One of the mob members laughed derisively as he said it. The sight was too much for some of the mob and they turned their heads away. Others, less tender hearted, fired shot after shot at the squirming figure. At last one bullet found a vital spot. A spasmodic quiver and the body was still.
 
 This was the end on October 8th, 1926, of a story which began early in 1925. Sam Lowman and his wife, Annie, were hard working, industrious, law-abiding Christian people. All their lives they had lived in Saluda County with their children, where no member of the family had ever been involved in trouble of any sort. In an effort to better their lot, as the family was miserably poor, Sam Lowman and his wife decided to move to Aiken in 1924. They entered there into negotiations with a white man by the name of William Hartley who had bought the old Stevens place thirteen miles from Aiken. The Lowmans agreed to farm this place on shares. Hartley was a man of considerable wealth measured by the standards of rural South Carolina. He was not a very popular man for, being independently rich, he could and did speak his mind freely. Often these opinions were acrimonious for most of his life Hartley had suffered from nervous indigestion.
 
@@ -53,7 +53,7 @@ An hour after Judge Lanham delivered his decision, a white man in Columbia was t
 
 "I am sorry," the client said, rising, "but I will have to finish talking this over with you some other time."
 
-'"What's your hurry?" the lawyer asked.
+"What's your hurry?" the lawyer asked.
 
 "Got to go over to Aiken right away."
 
