@@ -71,6 +71,9 @@ p {
   line-height: 1.875rem;
 }
 
+.small-caps {
+  font-variant: small-caps;
+}
 
 aside.sidebar {
   font-size: 1rem;

@@ -18,4 +18,4 @@ This has been the history of all such movements in the past. If the present move
 Meantime, may we not advise our Inter-racial friends,—do not fill your committees with "pussy footers" like Robert Moton or "white-folks' N*****" like Isaac Fisher. Get more real black men who dare to look you in the eye and speak the truth and who refuse to fawn and lie. An ounce of truth outweighs a ton of impudence. Do not seek to mislead or lull the Negro with ancient platitudes and generalities. Let your "black mam­my" sleep and show your "best friendship" by deeds and not words. Do something. Do not dodge and duck. Face the fundamental problems: the Vote, the "Jim-Crow" car, Peonage and Mob-law.
 
 ______________
-*Citation:* Du Bois, W.E.B. 1922. "Inter-Racial Comity." *The Crisis*. 22(1):6-7.
+*Citation:* Du Bois, W.E.B. 1922. "Inter-Racial Comity." *The Crisis*. 22(1):6&ndash;7.

@@ -43,4 +43,4 @@ We are still hoping that present indications are deceptive. We are still trying 
 <span style="font-variant:small-caps;">The Crisis</span>. 
 
 _________________
-*Citation:* Du Bois, W.E.B. 1913. "Another Open Letter to Woodrow Wilson." *The Crisis*. 6(7):339-341.
+*Citation:* Du Bois, W.E.B. 1913. "Another Open Letter to Woodrow Wilson." *The Crisis*. 6(7):339&ndash;341.

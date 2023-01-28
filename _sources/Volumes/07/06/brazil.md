@@ -36,4 +36,4 @@ And what of all this? Is it not a plea for intermarriage of whites and blacks in
 But a vast number of people are not satisfied with such bare facts. They want to bolster them up with scientific lies and social insult. They want to scare and beat people into doing precisely what people would do without bogies and force, and the result is that they not only accomplish what they wish, but they also accomplish poverty, crime, prostitution, ignorance, lynching, mob violence and the ruin of democratic government for the unfortunate victims of their lies. All this is clear, but to expect Theodore Roosevelt to say it plainly without twistings and equivocation is to expect the millennium. 
 
 ______________
-*Citation:* Du Bois, W.E.B. 1914. "Brazil." *The Crisis*. 7(6):286-287.
+*Citation:* Du Bois, W.E.B. 1914. "Brazil." *The Crisis*. 7(6):286&ndash;287.

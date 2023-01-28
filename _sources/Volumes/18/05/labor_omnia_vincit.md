@@ -25,4 +25,4 @@ Meantime, in the world round him, the battle of Industrial Democracy is being fo
 No—not yet. And there lies the most stupendous labor problem of the twentieth century—transcending the problem of Labor and Capital, of Democracy, of the Equality of Women—for it is the problem of the Equality of Humanity in the world as against white domination of black and brown and yellow serfs.
 
 ______________
-*Citation:* Du Bois, W.E.B. 1919. "Labor Omnia Vincit." *The Crisis*. 18(5):231-232.
+*Citation:* Du Bois, W.E.B. 1919. "Labor Omnia Vincit." *The Crisis*. 18(5):231&ndash;232.

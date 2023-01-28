@@ -35,4 +35,4 @@ Before the publication of this epoch-making volume, <span style="font-variant:sm
 These are a fair summary of the conclusions of writers who are among the best-known names in modern science. In the next number of <span style="font-variant:small-caps;">The Crisis</span> we shall give some of their views at length.
 
 _________________
-*Citation:* Du Bois, W.E.B. 1911. "Races." *The Crisis*. 2(4):157-158.
+*Citation:* Du Bois, W.E.B. 1911. "Races." *The Crisis*. 2(4):157&ndash;158.

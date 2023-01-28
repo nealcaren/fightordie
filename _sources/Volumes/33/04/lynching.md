@@ -17,4 +17,4 @@ The Nation, therefore, is fronted by a situation. Certain parts of the land are 
 
 Senator Borah writes to warn us that the Dyer Bill was only a political trick and hopelessly unconstitutional. Very good. Why do not Senator Borah and the other decent men in Congress unite to frame a bill that will be constitutional? It is sheer nonsense to allege that a great country like the United States cannot stop wholesale murder because of petty legal technicalities.
 
-*Citation:* Du Bois, W.E.B. 1927. "Lynching." *The Crisis*. 33(4):180-181.
+*Citation:* Du Bois, W.E.B. 1927. "Lynching." *The Crisis*. 33(4):180&ndash;181.

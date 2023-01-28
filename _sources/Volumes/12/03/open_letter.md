@@ -47,4 +47,4 @@ We hope to see, therefore, at Tuskegee in the future a carrying out and developm
 This, then, is the forward step at Tuskegee which the <span style="font-variant:small-caps;">Crisis</span> and its friends look for under your administration, and it desires to express its earnest hope, and indeed its faith, that you will not disappoint your fellow workers, 
 
 ______________
-*Citation:* Du Bois, W.E.B. 1916. "An Open Letter to Robert Russa Moton." *The Crisis*. 12(4):169-173.
+*Citation:* Du Bois, W.E.B. 1916. "An Open Letter to Robert Russa Moton." *The Crisis*. 12(4):169&ndash;173.

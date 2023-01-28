@@ -28,4 +28,4 @@ It will ever be instructive and interesting to dwell upon the steady progress of
 In conclusion, let me again quote my father's words: "The people may err—they often do; they may be badly deceived—they often are; but the people as such are never wilfully deceived, nor are they hostile to their own interests. They may be deceived, but they will by and by understand the deceptions and deal with the deceivers; but you cannot possibly have a broader basis for any government than that which includes all the people, with all their rights in their hands, and with an equal power to maintain their rights."
 
 _________________
-*Citation:* Garrison Villard, Fanny. 1912. "Garrison and Woman's Suffrage." *The Crisis*. 4(5):240-242.
+*Citation:* Garrison Villard, Fanny. 1912. "Garrison and Woman's Suffrage." *The Crisis*. 4(5):240&ndash;242.

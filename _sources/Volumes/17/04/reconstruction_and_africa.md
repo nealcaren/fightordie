@@ -18,4 +18,4 @@ The truth is, white men are merely juggling with words—or worse— when they d
 Any readjustment of Africa is not fair and cannot be lasting which does not consider the interests of native Africans and peoples of African descent. Prejudice, in European colonies in Africa, against the ambitious Negro is greater than in America, and that is saying much. But with the establishment of a form of gov­ernment which shall be based on the concept that Africa is for Africans, there would be a chance for the colored American to emigrate and to go as a pioneer to a country which must, sentimentally at least, possess for him the same fascination as England does for Indian-born English­men.
 
 ______________
-*Citation:* Du Bois, W.E.B. 1919. "Reconstruction and Africa." *The Crisis*. 17(4):165-166.
+*Citation:* Du Bois, W.E.B. 1919. "Reconstruction and Africa." *The Crisis*. 17(4):165&ndash;166.

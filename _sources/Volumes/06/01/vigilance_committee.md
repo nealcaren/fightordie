@@ -56,4 +56,4 @@ Finally, let the locals support the National Association for the Advancement of 
 We have ten branches which are beginning work as outlined above. Who will be the next?
 
 ______________
-*Citation:* Du Bois, W.E.B. 1913. "The Vigilance Committee: A Call To Arms." *The Crisis*. 6(1):26-29.
+*Citation:* Du Bois, W.E.B. 1913. "The Vigilance Committee: A Call To Arms." *The Crisis*. 6(1):26&ndash;29.

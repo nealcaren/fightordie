@@ -110,4 +110,4 @@ One wonders just what the object of this report is. The figures and facts which 
 We would like to ask Ira DeA. Reid, T. Arnold Hill, George Arthur and Benjamin F. Hubert, all colored men, and Alfred K. Stern, a representative of the Rosenwald Fund, frankly to tell us just what part they took in the collection of these facts and the formulation of these conclusions?
 
 ______________
-*Citation:* Du Bois, W.E.B. 1931. "Woofterism." *The Crisis*. 38(4):81-83.
+*Citation:* Du Bois, W.E.B. 1931. "Woofterism." *The Crisis*. 38(4):81&ndash;83.

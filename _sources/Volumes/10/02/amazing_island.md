@@ -19,4 +19,4 @@ The peasants—a great mass of hard working black laborers—were to me perhaps 
 Here is an island rich beyond dream; out of it for three centuries and more the white world has reaped its millions. Yet today the island lies poverty-stricken but facing the world proudly with one great gift, the gift of racial peace, the utter overturning of the barbaric war of color, with a chance for men to lift themselves regardless of the complexion of their grandfathers. It is the most marvelous paradox of this paradoxical western world. 
 
 ______
-*Citation:* Du Bois, W.E.B. 1915. "An Amazing Island." *The Crisis*. 10(2):80-81.
+*Citation:* Du Bois, W.E.B. 1915. "An Amazing Island." *The Crisis*. 10(2):80&ndash;81.

@@ -30,4 +30,4 @@ FIFTH, Protest, my brother, and grumble. I have seen the Vision and it shall not
 Patience, then, without compromise; silence without surrender; grim determination never to cease striving until we can vote, travel, learn, work and enjoy in peace—all this, and yet with it and above it all the tramp of our armies over the blood-stained lillies of France to show the world again what the loyalty and bravery of black men means.
 
 ______________
-*Citation:* Du Bois, W.E.B. 1918. "A Philosophy in Time of War." *The Crisis*. 16(4):164-165.
+*Citation:* Du Bois, W.E.B. 1918. "A Philosophy in Time of War." *The Crisis*. 16(4):164&ndash;165.

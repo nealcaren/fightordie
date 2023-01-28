@@ -48,4 +48,4 @@ We are realizing this in our organization. What we realize here we would extend 
 Organization is sacrifice. You cannot have absolutely your own way— you cannot be a free lance; you cannot be strongly and fiercely individual if you belong to an organization. For this reason some folk hunt and work alone. It is their nature. But the world's greatest work must be done by team work. This demands organization, and that is the sacrifice of some individual will and wish to the good of all.
 
 ______________
-*Citation:* Du Bois, W.E.B. 1920. "White Co-Workers." *The Crisis*. 20(1):6--8.
+*Citation:* Du Bois, W.E.B. 1920. "White Co-Workers." *The Crisis*. 20(1):6&ndash;8.

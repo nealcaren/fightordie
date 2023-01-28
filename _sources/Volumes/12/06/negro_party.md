@@ -24,4 +24,4 @@ On the other hand, parties are represented by individual candidates. Negroes can
 This is the program which we must follow. We may hesitate and argue about it, but if we are a sensible, reasonable people we will come to it and the quicker the better.
 
 ______________
-*Citation:* Du Bois, W.E.B. 1916. "The Negro Party." *The Crisis*. 12(6):267-268.
+*Citation:* Du Bois, W.E.B. 1916. "The Negro Party." *The Crisis*. 12(6):267&ndash;268.

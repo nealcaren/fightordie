@@ -32,5 +32,5 @@ Consider again the effort of the South to regulate the sale of liquor. "The Negr
 Of all recent forward movements the Socialists have rung truest on the race question in their theoretical statements. But here they have usually stopped. "Why do not Negroes join the Socialists?" they ask. They do not ask such silly questions of white folks: They go and see why they do not join. They teach, agitate and proselyte; while among ten million Negro Americans they have scarcely a single worker and are afraid to encourage such workers. All of which goes to show that the Negro problem is the door which bars progress in the United States and which makes us liars and hypocrites. Yet the unloosening of that door is the simplest thing on earth: Treat human beings according to their character and not according to their color. 
 
 _________________
-*Citation:* Du Bois, W.E.B. 1911. "Forward Backward." *The Crisis*. 2(6):243-244.
+*Citation:* Du Bois, W.E.B. 1911. "Forward Backward." *The Crisis*. 2(6):243&ndash;244.
 

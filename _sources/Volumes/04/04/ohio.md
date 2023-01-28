@@ -34,4 +34,4 @@ If politics are too nasty and rough for women voters, is it not time we asked th
 Is there a single argument for the right of men to vote, or for the right of black men to vote, that does not apply to the votes for women, and particularly for black women?
 
 _________________
-*Citation:* Du Bois, W.E.B. 1912. "Ohio." *The Crisis*. 4(4):181-182.
+*Citation:* Du Bois, W.E.B. 1912. "Ohio." *The Crisis*. 4(4):181&ndash;182.

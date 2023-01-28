@@ -28,4 +28,4 @@ Mr. Shillady is a gentleman of training and experience, known to social workers 
 This is Texas. This is the dominant white South. This is the answer of the Coward and the Brute to Reason and Prayer. This is the thing that America must conquer before it is civilized, and as long as Texas is this kind of Hell, civilization in America is impossible.
 
 ________________
-*Citation:* Du Bois, W.E.B. 1919. "Shillady and Texas." *The Crisis*. 18(6):283-284.
+*Citation:* Du Bois, W.E.B. 1919. "Shillady and Texas." *The Crisis*. 18(6):283&ndash;284.

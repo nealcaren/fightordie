@@ -55,4 +55,4 @@ The "Jim Crow" galleries of Southern moving picture houses are filled with some 
 
 Such are the flat and undeniable facts. What are we going to do about them? We can neither yell them down nor make them disappear by resolutions. We must think and act. It is this problem which THE Crisis dgsires to discuss during the present year in all its phases and with ample and fair representation to all shades of opinion.
 _________________
-*Citation:* Du Bois, W.E.B. 1934. "The N.A.A.C.P. and Race Segregation." *The Crisis*. 41(2):52-53.
+*Citation:* Du Bois, W.E.B. 1934. "The N.A.A.C.P. and Race Segregation." *The Crisis*. 41(2):52&ndash;53.

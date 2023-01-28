@@ -58,4 +58,4 @@ All of the facts outlined above, including the names of mob leaders and particip
 > "If this is not done, it is very probable that Federal intervention will not be long delayed."
 
 ______________
-*Citation:* White, Walter F. 1918. "The Work of a Mob." *The Crisis*. 16(5):221-223.
+*Citation:* White, Walter F. 1918. "The Work of a Mob." *The Crisis*. 16(5):221&ndash;223.

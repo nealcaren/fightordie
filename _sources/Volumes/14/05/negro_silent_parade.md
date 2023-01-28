@@ -172,4 +172,4 @@ The New York *World* says:
 > Rev. G. M. Plaskett and Dr. W. E. B. Du Bois were in the line of officers.
 
 ______________
-*Citation:* National Association for the Advancement of Colored People. 1917. "The Negro Silent Parade." *The Crisis*. 14(5):241-244.
+*Citation:* National Association for the Advancement of Colored People. 1917. "The Negro Silent Parade." *The Crisis*. 14(5):241&ndash;244.

@@ -87,4 +87,4 @@ The proceedings of the Circuit Court which opens in Canton on February 1, may sh
 
 ______________
 
-*Citation:* Nash, Royal Freeman. 1916. "The Cherokee Fires: An N.A.A.C.P. Investigation." *The Crisis*. 11(5):265-268, 270.
+*Citation:* Nash, Royal Freeman. 1916. "The Cherokee Fires: An N.A.A.C.P. Investigation." *The Crisis*. 11(5):265&ndash;268, 270.

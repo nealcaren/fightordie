@@ -49,4 +49,4 @@ After losing the Republican nomination, Roosevelt, running under the banner of t
 Outside of these two men, what else? We thank God that Theodore Roosevelt has been eliminated. How many black men, with the memory of Brownsville, could support such a man passes our comprehension. Of Eugene V. Debs, the Socialist candidate, we can only say this frankly: if it lay in our power to make him President of the United States we would do so, for of the four men mentioned he alone, by word and deed, stands squarely on a platform of human rights regardless of race or class.
 
 _________________
-*Citation:* Du Bois, W.E.B. 1912. "Politics." *The Crisis*. 4(4):180-181.
+*Citation:* Du Bois, W.E.B. 1912. "Politics." *The Crisis*. 4(4):180&ndash;181.

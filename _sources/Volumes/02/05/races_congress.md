@@ -103,5 +103,5 @@ It is also charged with the duty of holding future Races Congresses at least onc
 It is finally asked to establish an international institution whose object shall be to investigate and publish as well as form local organizations throughout the world 
 
 _________________
-*Citation:* Du Bois, W.E.B. 1911. "The Races in Congress." *The Crisis*. 2(5):200-209.
+*Citation:* Du Bois, W.E.B. 1911. "The Races in Congress." *The Crisis*. 2(5):200&ndash;209.
 

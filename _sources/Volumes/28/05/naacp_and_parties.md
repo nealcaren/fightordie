@@ -26,4 +26,4 @@ What we need in this campaign is non-partisan centers of discussion and informat
 Let us in God's name vote next November with our heads and not with our heels, as freemen and not as slaves, for racial and human uplift and not for contributions from the party slush fund.
 
 _________________
-*Citation:* Du Bois, W.E.B. 1924. "The N.A.A.C.P. and Parties." *The Crisis*. 28(5):199-200.
+*Citation:* Du Bois, W.E.B. 1924. "The N.A.A.C.P. and Parties." *The Crisis*. 28(5):199&ndash;200.

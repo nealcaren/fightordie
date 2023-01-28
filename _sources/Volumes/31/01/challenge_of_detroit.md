@@ -76,5 +76,5 @@ A little later another physician in Detroit bought another beautiful home and mo
 Gentle Reader, which of these three examples shall my friend of Harlem follow? Which would you follow if you were "free", black and 21?
 
 _________________
-*Citation:* Du Bois, W.E.B. 1925. "The Challenge of Detroit." *The Crisis*. 31(1):7-10.
+*Citation:* Du Bois, W.E.B. 1925. "The Challenge of Detroit." *The Crisis*. 31(1):7&ndash;10.
 

@@ -83,4 +83,4 @@ In Louisiana the state furnishes a fairly accurate official record. In the elect
 [TO BE DONE]
 
 _________________
-*Citation:* Du Bois, W.E.B. 1928. "The Possibility of Democracy." *The Crisis*. 35(9):296--296, 314--315.
+*Citation:* Du Bois, W.E.B. 1928. "The Possibility of Democracy." *The Crisis*. 35(9):296&ndash;296, 314&ndash;315.

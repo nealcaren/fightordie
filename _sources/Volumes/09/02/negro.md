@@ -16,4 +16,4 @@ There are indications that the custom of extending courtesy to 150,000,000 of hu
 > "A little more than a year ago we sent out 900 copies of a letter from Mr. Lester A. Walton, of the Age, to the newspapers in the Associated Press, and I think the practice of capitalizing the word Negro is very general so far as I have been able to observe."
 
 ______________
-*Citation:* Du Bois, W.E.B. 1914. "Negro." *The Crisis*. 9(2):28-30.
+*Citation:* Du Bois, W.E.B. 1914. "Negro." *The Crisis*. 9(2):28&ndash;30.

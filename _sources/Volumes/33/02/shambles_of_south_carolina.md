@@ -87,4 +87,4 @@ But three more names have been added to the black roll of victims of mob murder.
 
 ________________
 
-*Citation:* White, Walter. 1926. "The Shambles of South Carolina." *The Crisis*. 33(2):72-75.
+*Citation:* White, Walter. 1926. "The Shambles of South Carolina." *The Crisis*. 33(2):72&ndash;75.

@@ -33,4 +33,4 @@ If the South or the North wants de­cent domestic service it must
 The people that are unwilling to do this will find the "servant problem" always with them, even though they nickname it a "Negro" problem.
 
 _________________
-*Citation:* Du Bois, W.E.B. 1912. "The Servant in the South." *The Crisis*. 3(5):200-201.
+*Citation:* Du Bois, W.E.B. 1912. "The Servant in the South." *The Crisis*. 3(5):200&ndash;201.

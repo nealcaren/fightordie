@@ -28,4 +28,4 @@ Yet the young person who questions, who refuses to accept as truth all that he i
 With such fundamental facts clearly in mind, a young Negro ought not to be puzzled by his religious surroundings. He should see in the church an expression of that desire for full and ultimate truth; that desire for goodness and beauty, which is ingrained in every human being; and on the other hand, and just as clearly, he should frankly denounce all attempt on the part of any organized body of human beings when they declare that they know it all and that God has personally told them about it. That is a plain lie and they know it and everybody else ought to know it. We must have religion in the sense of a striving for the infinite, the ultimate and the best. But just as truly we must straitly curb the effort of any exclusive guild to be the single and final arbitrator of individual interpretation of desired and desirable truth.
 
 _________________
-*Citation:* Du Bois, W.E.B. 1933. "The Church and Religion." *The Crisis*. 40(10):236-237.
+*Citation:* Du Bois, W.E.B. 1933. "The Church and Religion." *The Crisis*. 40(10):236&ndash;237.

@@ -58,4 +58,4 @@ Clinton—white Clinton—has had its revenge: Mr. and Mrs. Dendy, in their spac
 "What was the use?" ponders Mrs. Dendy as she mechanically rocks the baby. Everywhere oppressed Negroes echo, "What *is* the use?"
 
 _________________
-*Citation:* Du Bois, W.E.B. 1933. "Too Rich to be a N****r." *The Crisis*. 40(12):282-283.
+*Citation:* Du Bois, W.E.B. 1933. "Too Rich to be a N****r." *The Crisis*. 40(12):282&ndash;283.
