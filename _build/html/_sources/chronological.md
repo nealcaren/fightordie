@@ -77,6 +77,7 @@
 |   1916 |       12 | 4       | [The Drama Among Black Folk](https://www.dareyoufight.org/Volumes/12/03/drama_among_black_folk.html)                                      |
 |   1916 |       12 | 4       | [An Open Letter to Robert Russa Moton](https://www.dareyoufight.org/Volumes/12/03/open_letter.html)                                       |
 |   1916 |       12 | 5       | [Conduct, Not Color](https://www.dareyoufight.org/Volumes/12/05/conduct_not_color.html)                                                   |
+|   1916 |       12 | 5       | ['The Battle of Europe'](https://www.dareyoufight.org/Volumes/12/05/battle_of_eruope.html)                                                |
 |   1916 |       12 | 5       | [The Colored Audience](https://www.dareyoufight.org/Volumes/12/05/coloured_audience.html)                                                 |
 |   1916 |       12 | 6       | [Cowardice](https://www.dareyoufight.org/Volumes/12/06/cowardice.html)                                                                    |
 |   1916 |       12 | 6       | [The Negro Party](https://www.dareyoufight.org/Volumes/12/06/negro_party.html)                                                            |
@@ -88,6 +89,7 @@
 |   1917 |       13 | 6       | [The Perpetual Dilemma](https://www.dareyoufight.org/Volumes/13/06/perpetual_dilemma.html)                                                |
 |   1917 |       14 | 1       | [The Migration](https://www.dareyoufight.org/Volumes/14/01/migration.html)                                                                |
 |   1917 |       14 | 3       | [Memphis or East St. Louis?](https://www.dareyoufight.org/Volumes/14/03/memphis_or_east_st_louis.html)                                    |
+|   1917 |       14 | 3       | [Officers](https://www.dareyoufight.org/Volumes/14/02/officers.html)                                                                      |
 |   1917 |       14 | 3       | [The Migration of Negroes](https://www.dareyoufight.org/Volumes/14/02/migration_of_negroes.html)                                          |
 |   1917 |       14 | 4       | [Roosevelt](https://www.dareyoufight.org/Volumes/14/04/roosevelt.html)                                                                    |
 |   1917 |       14 | 5       | [The Massacre in East St. Louis](https://www.dareyoufight.org/Volumes/14/05/massacre_of_east_st_louis.html)                               |
