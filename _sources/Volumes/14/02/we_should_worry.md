@@ -1,14 +1,14 @@
 <!--
-title:   Officers
+title:   'We Should Worry'
 author:  Du Bois, W.E.B.
 journal: The Crisis
 year:    1917
 volume:  14
 issue:   3
-pages:   60-61# Officers (1917)
+pages:   60-61
 -->
 
-# Officers (1917)
+# 'We Should Worry' (1917)
 
 Give us Negro officers for Negro troops. This is the slogan and let no specious argument turn us from it. Liars tell us that only white men can lead black men, and they tell us this in the face of the record of Sonni Ali, Touissaint L'Ouverture, General Dodd, Charles Young, and Frank Dennison. Give us Negro officers for Negro troops. 
 
@@ -29,4 +29,4 @@ It is simply silly to talk about pressure being brought to bear on the editor of
 LATER: We have won! The camp is granted; we shall have 1,000 Negro officers in the United States Army! Write us for information. 
 
 ______________
-*Citation:* Du Bois, W.E.B. 1917. "Officers." *The Crisis*. 14(3):60&ndash;61# Officers (1917).
+*Citation:* Du Bois, W.E.B. 1917. "'We Should Worry.'" *The Crisis*. 14(3):60&ndash;61.
