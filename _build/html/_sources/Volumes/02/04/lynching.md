@@ -16,4 +16,4 @@ Why should America count human life cheap? Because it is cheap. Because it is di
 The result is mob and murder. The result is barbarism and cruelty. The result is human hatred. Come, Americans who love America, is it not time to rub our eyes and awake and act?
 
 _________________
-*Citation:* Du Bois, W.E.B. 1911. "Lynching." *The Crisis*. 2(4):158-159.
+*Citation:* Du Bois, W.E.B. 1911. "Lynching." *The Crisis*. 2(4):158&ndash;159.

@@ -51,4 +51,4 @@ In education we must seek to give colored children free public school training. 
 
 For the accomplishment of all these ends we must organize. Organization among us already has gone far but it must go much further and higher. Organization is sacrifice. It is sacrifice of opinions, of time, of work and of money, but it is, after all, the cheapest way of buying the most priceless of gifts---freedom and efficiency. I thank God that most of the money that supports the National Association for the Advancement of Colored People comes from black hands; a still larger proportion must so come, and we must not only support but control this and similar organizations and hold them unwaveringly to our objects, our aims and our ideals.
 
-*Citation:* Du Bois, W.E.B. 1915. "The Immediate Program of the  American Negro." *The Crisis*. 9(6):310-312.
+*Citation:* Du Bois, W.E.B. 1915. "The Immediate Program of the  American Negro." *The Crisis*. 9(6):310&ndash;312.

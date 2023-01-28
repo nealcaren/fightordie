@@ -22,4 +22,4 @@ I hope and pray that the Liberian Government will see that these taxes for their
 I know that Liberia is not able to spend so much on education as the British colonies, or the West Coast spends on the education of the Africans, but knowing how to read is not everything. Some Englishmen twitted Madariaga about Spain's wishing to have a permanent seat in the council, saying: "Why, the large majority of Spaniards are illiterate!" Madariaga retorted: "Does it show greater lack of intelligence not to be able to read—or to be able to read The Daily Mail?"
 
 ______________
-*Citation:* Du Bois, W.E.B. 1932. "From a Traveller." *The Crisis*. 39(12):387-388.
+*Citation:* Du Bois, W.E.B. 1932. "From a Traveller." *The Crisis*. 39(12):387&ndash;388.

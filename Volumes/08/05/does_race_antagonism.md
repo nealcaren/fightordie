@@ -21,7 +21,7 @@ The difficulty with this theory is that it does not square with the facts: race 
 <li> Racial antagonism, whether instinctive or not, is a reasonable measure of self-defense against undesirable racial traits.
 </ol>
 
-This second proposition is the one which usually follows careful examination of the first. After all, it is admitted "instinct" 'is an unimportant fact. Instincts are simply accumulated reasons in the individual or in the race. The reasons for antagonizing inferior races are clear and may be summed up as follows:
+This second proposition is the one which usually follows careful examination of the first. After all, it is admitted "instinct" is an unimportant fact. Instincts are simply accumulated reasons in the individual or in the race. The reasons for antagonizing inferior races are clear and may be summed up as follows:
 
 <ul style="list-style: none;">
 <li> Poor health and stamina.
@@ -48,4 +48,4 @@ This argument admits the essential equality of races but insists on the differen
 Such are the arguments. Most persons use all four at once and skillfully skip from one to the other. Each argument has in other days been applied to individuals and social classes, but we have outgrown that. We apply it to-day to "races" because race is a vague, unknown term which may be made to cover a multitude of sins. After all, what is a "Race?" and how many races are there? Von Luschan, one of the greatest of modern anthropologists, says: "The question of the number of human races has quite lost its *raison d' etre,* and has become a subject rather of philosophic speculation than of scientific research." What we have on earth is men. Shall we help them or hinder them? Shall we hate and kill them or love and preserve and uplift them? Which method will do us most good? This is the real question of "Race" antipathy.
 
 _________________
-*Citation:* Du Bois, W.E.B. 1914. "Does Race Antagonism Serve Any Good Purpose." *The Crisis*. 8(5):232-233.
+*Citation:* Du Bois, W.E.B. 1914. "Does Race Antagonism Serve Any Good Purpose." *The Crisis*. 8(5):232&ndash;233.

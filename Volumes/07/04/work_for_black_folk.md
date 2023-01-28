@@ -28,4 +28,4 @@ This is the black man's program for 1914, and the more difficult it looks the mo
 P. S.—The above statement was solicited by the *Survey* and accepted; then it was returned because the writer refused to omit number six!
 
 ______________
-*Citation:* Du Bois, W.E.B. 1914. "Work for Black Folk in 1914." *The Crisis*. 7(4):186-187.
+*Citation:* Du Bois, W.E.B. 1914. "Work for Black Folk in 1914." *The Crisis*. 7(4):186&ndash;187.

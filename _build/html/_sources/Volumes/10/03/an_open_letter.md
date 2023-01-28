@@ -50,4 +50,4 @@ We appeal to the colleges and schools whose teachers so largely control the futu
 We appeal to every warm-hearted, high-minded man or woman in this country, and urge them to organize a new anti-slavery movement. We beg them by voice, vote and example to rouse their neighbors and to make our public men feel that their political careers are not to be advanced by yielding to the advocates of discrimination. We must organize our political, our religious, our educational, nay all our forces to the end that our country may be relieved from the influence of all who believe that they help themselves up by keeping others down. Our motto is "All men up" and that spirit must conquer, or terrible disaster awaits the country which we all love.
 
 ______
-*Citation:* Storey, Moorfield. 1915. "An Open Letter." *The Crisis*. 10(2):132-133, 136.
+*Citation:* Storey, Moorfield. 1915. "An Open Letter." *The Crisis*. 10(2):132&ndash;133, 136.

@@ -132,4 +132,4 @@ What then is called for? Facts. A foundation of actual fact concerning the polit
 This study beginning with Negroes should extend to whites. We must lift the curtain from democracy and view it into the open. We must insist that politics is no secret, shameful thing known only to ward heelers and political bosses, and to the corporations who buy and sell them. Here is the greatest and most insistent field of scientific investigation open to the social reformer.
 
 _________________
-*Citation:* Du Bois, W.E.B. 1929. "The Negro Citizen." *The Crisis*. 36(5):156-157, 171-173.
+*Citation:* Du Bois, W.E.B. 1929. "The Negro Citizen." *The Crisis*. 36(5):156&ndash;157, 171&ndash;173.

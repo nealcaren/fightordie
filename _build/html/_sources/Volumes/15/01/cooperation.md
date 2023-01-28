@@ -32,4 +32,4 @@ Co-operation in economics can, perhaps, best be explained by quoting a leaflet b
 This is the movement which <span style="font-variant:small-caps;">The Crisis</span> wishes to bring more and more to the attention of the Negroes of the United States. It firmly believes that this is our economic way out, our industrial emancipation. 
 
 __________
-*Citation:* Du Bois, W.E.B. 1917. "Co-Operation." *The Crisis*. 15(1):9-10.
+*Citation:* Du Bois, W.E.B. 1917. "Co-Operation." *The Crisis*. 15(1):9&ndash;10.

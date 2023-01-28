@@ -25,4 +25,4 @@ Think of it! If the black race at any time or place comes to excel the whites, t
 
 ______________
 
-*Citation:* Du Bois, W.E.B. 1920. "Suffrage." *The Crisis*. 21(1):9-10.
+*Citation:* Du Bois, W.E.B. 1920. "Suffrage." *The Crisis*. 21(1):9&ndash;10.

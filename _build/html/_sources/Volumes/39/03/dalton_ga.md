@@ -100,4 +100,4 @@ At her funeral theologian [Howard Thurman](https://en.wikipedia.org/wiki/Howard_
 > "I have been uneasy and unhappy in this situation for four years. No one understood my position better than Juliette did. From now on it will be increasingly difficult to bear at all. It makes being white about the hardest thing one has to put up with in a very sorry section of the world."
 
 ______________
-*Citation:* Du Bois, W.E.B. 1932. "Dalton, GA." *The Crisis*. 39(3):85-87.
+*Citation:* Du Bois, W.E.B. 1932. "Dalton, GA." *The Crisis*. 39(3):85&ndash;87.

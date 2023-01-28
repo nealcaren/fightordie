@@ -40,4 +40,4 @@ Male and female created He them; what God has made different man strives in vain
 
 ____________________
 
-*Citation:* Miller, Kelly. 1915. "The Risk of Woman Suffrage." *The Crisis*. 11(1):37-38.
+*Citation:* Miller, Kelly. 1915. "The Risk of Woman Suffrage." *The Crisis*. 11(1):37&ndash;38.

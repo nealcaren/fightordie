@@ -70,4 +70,4 @@ Finally, the new spirit aroused in Negroes by their war experiences enters into 
 ***The "Infuriated" White Mob in Chicago***
 
 ________________
-*Citation:* White, Walter F. 1919. "Chicago and Its Eight Reasons." *The Crisis*. 18(6):293-297.
+*Citation:* White, Walter F. 1919. "Chicago and Its Eight Reasons." *The Crisis*. 18(6):293&ndash;297.

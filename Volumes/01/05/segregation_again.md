@@ -30,4 +30,4 @@ The colored folk of New Orleans have been complaining that if they are to be seg
 "We are not at all sure that the objection leveled against the street car usage is well taken, but there is no doubt of the justice of their complaint against the inconsistency of employing white teachers in Negro schools and white bartenders in black saloons. The Negroes have done well to protest, and we think the practices against which they complain can and should be stopped." 
 
 _________________
-*Citation:* Du Bois, W.E.B. 1911. "Segregation Again." *The Crisis*. 1(5):20--21.
+*Citation:* Du Bois, W.E.B. 1911. "Segregation Again." *The Crisis*. 1(5):20&ndash;21.

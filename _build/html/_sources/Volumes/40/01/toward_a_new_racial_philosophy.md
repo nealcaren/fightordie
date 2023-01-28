@@ -53,4 +53,4 @@ What we want is suggested by the story this month—"The Three Mosquitoes." Do y
 Finally, we welcome from everybody, terse, definite and pointed opinions, which we shall try to reflect and quote.
 
  _________________
-*Citation:* Du Bois, W.E.B. 1933. "Toward a New Racial Philosophy." *The Crisis*. 40(1):20-22.
+*Citation:* Du Bois, W.E.B. 1933. "Toward a New Racial Philosophy." *The Crisis*. 40(1):20&ndash;22.

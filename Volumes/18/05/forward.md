@@ -28,4 +28,4 @@ And, finally, the one new Idea of the World War—the idea which may well stand 
 It is not the murder, the anarchy, the hate, which for years under Czar and Revolution have drenched this weary land, but it is the vision of great dreamers that *only those who work shall vote and rule.*
 
 ______________
-*Citation:* Du Bois, W.E.B. 1919. "Forward." *The Crisis*. 18(5):234-235.
+*Citation:* Du Bois, W.E.B. 1919. "Forward." *The Crisis*. 18(5):234&ndash;235.

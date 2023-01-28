@@ -157,4 +157,4 @@ A few people—mostly women—said: "It was terrible."
 Many citizens seem to have the psychology of having performed an unpleasant duty. One citizen said: "People here can do a thing like that, and then forget all about it."
 
 ______________
-*Citation:* Du Bois, W.E.B. 1919. "The Burning at Dyersburg: An N.A.A.C.P. Investigation." *The Crisis*. 15(4):178-183.
+*Citation:* Du Bois, W.E.B. 1919. "The Burning at Dyersburg: An N.A.A.C.P. Investigation." *The Crisis*. 15(4):178&ndash;183.

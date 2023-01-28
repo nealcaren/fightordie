@@ -46,4 +46,4 @@ The plank which I proposed was my own sincere thought, but I had no silly pride 
 But in the name of a Merciful Heaven, why O why! did it seem necessary even to the jaded digestive system of Kelly Miller to feed the race on this one subject and at its hungriest moment, the thinnest economic flap-doodle?
 
 _________________
-*Citation:* Du Bois, W.E.B. 1932. "The Non-Partisan Conference." *The Crisis*. 39(2):58-59.
+*Citation:* Du Bois, W.E.B. 1932. "The Non-Partisan Conference." *The Crisis*. 39(2):58&ndash;59.

@@ -50,4 +50,4 @@ As it was, we have organized the "Pan-African Congress" as a permanent body, wit
 The world-fight for black rights is on!
 
 ______________
-*Citation:* Du Bois, W.E.B. 1919. "My Mission." *The Crisis*. 18(1):7-9.
+*Citation:* Du Bois, W.E.B. 1919. "My Mission." *The Crisis*. 18(1):7&ndash;9.

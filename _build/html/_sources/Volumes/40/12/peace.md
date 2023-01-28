@@ -21,4 +21,4 @@ It is this propaganda that has got us war-minded and keeps us war-minded; and th
 
 The Pacifists today who takes his job seriously and sees war for what it really is, will roll up his sleeves first and attack race prejudice; and then he will attack all generals, colonels, captains, and ammunition makers; and then he will attack military schools and cadets; and finally, he may get us to the place where the world will realize that war is hell.
 _________________
-*Citation:* Du Bois, W.E.B. 1933. "Peace." *The Crisis*. 40(12):292-293.
+*Citation:* Du Bois, W.E.B. 1933. "Peace." *The Crisis*. 40(12):292&ndash;293.

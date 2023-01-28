@@ -88,4 +88,4 @@ Perhaps the second Amenia conference will not be as epoch-making as the first, b
 This sketch of the conference cannot close without reference to the hospitality of the host, Joel E. Spingarn, and the thoughtful co-operation of his wife, his two daughters and his two sons. It was withal a very beautiful experience.
 
 _________________
-*Citation:* Du Bois, W.E.B. 1933. "Youth and Age at Amenia." *The Crisis*. 40(10):226-227.
+*Citation:* Du Bois, W.E.B. 1933. "Youth and Age at Amenia." *The Crisis*. 40(10):226&ndash;227.

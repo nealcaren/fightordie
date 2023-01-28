@@ -38,4 +38,4 @@ It is not always easy to say just how these various needs and disabilities can b
 It is astonishing that Radicals are not always eager and determined to put into their program planks covering these matters.
 
 _________________
-*Citation:* Du Bois, W.E.B. 1925. "Radicals and the Negro." *The Crisis*. 29(5):199-200.
+*Citation:* Du Bois, W.E.B. 1925. "Radicals and the Negro." *The Crisis*. 29(5):199&ndash;200.

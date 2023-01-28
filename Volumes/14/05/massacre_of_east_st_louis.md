@@ -423,4 +423,4 @@ Prejudice is a bad thing. But prejudice in the hands of Organized Labor in Ameri
 And what of the Federal Government?
 
 ______________
-*Citation:* National Association for the Advancement of Colored People. 1917. "The Massacre in East St. Louis." *The Crisis*. 14(5):219-238.
+*Citation:* National Association for the Advancement of Colored People. 1917. "The Massacre in East St. Louis." *The Crisis*. 14(5):219&ndash;238.

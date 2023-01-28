@@ -70,4 +70,4 @@ Can the reader conceive of the pos­sibility of choice? The leaders of the color
 Give us the camp!
 
 ______________
-*Citation:* Du Bois, W.E.B. 1917. "The Perpetual Dilemma." *The Crisis*. 13(6):270-271.
+*Citation:* Du Bois, W.E.B. 1917. "The Perpetual Dilemma." *The Crisis*. 13(6):270&ndash;271.

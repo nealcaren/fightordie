@@ -86,4 +86,4 @@ It may be and often has been true that oppression and insult have become so inte
 Moreover if association and contact with Negroes is distasteful to you, what is it to white people? Remember that the white people of America will certainly never want us until we want ourselves. We excuse ourselves in this case and say we do not hate Negroes but we do hate their condition, and immediately the answer is thrown back on us in the very words. Whose job is it to change that condition? The job of the white people or the job of the black people themselves, and especially of their uplifted classes?
 
 _________________
-*Citation:* Du Bois, W.E.B. 1934. "Segregation in the North." *The Crisis*. 41(4):115-117.
+*Citation:* Du Bois, W.E.B. 1934. "Segregation in the North." *The Crisis*. 41(4):115&ndash;117.

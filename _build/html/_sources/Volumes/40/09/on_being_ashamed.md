@@ -55,4 +55,4 @@ We cannot entirely escape it, since it is just as true, and just as false as suc
 There is no other way; let us not be deceived. American Negroes will be beaten into submission and degradation if they merely wait unorganized to find some place voluntarily given them in the new reconstruction of the economic world. They must themselves force their race into the new economic set-up and bring with them the millions of West Indians and Africans by peaceful organization for normative action or else drift into greater poverty, greater crime, greater helplessness until there is no resort but the last red alternative of revolt, revenge and war.
 
 _________________
-*Citation:* Du Bois, W.E.B. 1933. "On Being Ashamed of Oneself." *The Crisis*. 40(9):199-200.
+*Citation:* Du Bois, W.E.B. 1933. "On Being Ashamed of Oneself." *The Crisis*. 40(9):199&ndash;200.

@@ -29,4 +29,4 @@ But all those symptoms are of but passing significance except as they indicate t
 *Secondly*, just as the South has hitherto heard with sympathetic and even exaggerated patience and respect the demands of extreme white Southern Negro haters, so too they must be willing now to listen to Negro "radicals". To read out of the congregation of decent, reasonable and law-abiding people those black folk who demand the ballot, equal education, the abolition of "Jim Crow" legislation, the abrogation of laws and customs which protect and encourage bastardy and prostitution, and right of social equals to social equality with those who wish it—to lynch such men morally is a coward's trick and a scoundrel's subterfuge and there are southern white men today who realize this as never before. To such men and to such women in the dawn of the nineteen hundred and twenty-sixth year of the Prince of Peace, our hand and heart, comrades.
 
 ________________
-*Citation:* Du Bois, W.E.B. 1926. "The Newer South." *The Crisis*. 31(4):163-165.
+*Citation:* Du Bois, W.E.B. 1926. "The Newer South." *The Crisis*. 31(4):163&ndash;165.

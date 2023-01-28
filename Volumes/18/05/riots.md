@@ -52,4 +52,4 @@ On July 30 Mr. John R. Shillady, Secretary, and Mr. Herbert J. Seligmann, Direct
 > The lawyers furnish free one of their number to be at each police station and court every morning, to take charge of the legal defense of any colored person needing such service. Headquarters have been arranged for at Olivet Baptist Church, where two lawyers, at least one stenographer, and necessary investigators, paid and volunteer, will be stationed to receive relatives and friends of men in jail and under arrest.
 
 ______________
-*Citation:* Johnson, James Weldon. 1919. "The Riots: An N.A.A.C.P. Investigation." *The Crisis*. 18(5):241-244.
+*Citation:* Johnson, James Weldon. 1919. "The Riots: An N.A.A.C.P. Investigation." *The Crisis*. 18(5):241&ndash;244.

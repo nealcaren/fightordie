@@ -36,4 +36,4 @@ And. we are winning right now. Since this war began we have won:
 Blessed saints! Is this nothing? Should it not discourage slackers and fools? Come, fellow black man, fight for your rights, but for God's sake have sense enough to know when you are getting what you fight for.
 
 ______________
-*Citation:* Du Bois, W.E.B. 1918. "The Reward." *The Crisis*. 16(5):216-217.
+*Citation:* Du Bois, W.E.B. 1918. "The Reward." *The Crisis*. 16(5):216&ndash;217.

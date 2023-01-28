@@ -39,4 +39,4 @@ President Anna Shaw refused absolutely to invite the colored lady suggested and 
 We have already shown that the statement that colored men oppose woman suffrage is false, and we have only to add that every effort was made to keep this resolution from being presented; and when it finally appeared it was incontinently sidetracked in committee. We are not surprised that under the circumstances the information of the corresponding secretary is "somewhat indefinite."
 
 ______________
-*Citation:* Du Bois, W.E.B. 1912. "Suffering Suffragettes." *The Crisis*. 4(2):76-77.
+*Citation:* Du Bois, W.E.B. 1912. "Suffering Suffragettes." *The Crisis*. 4(2):76&ndash;77.

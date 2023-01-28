@@ -112,4 +112,4 @@ The motion for separate trials was granted, and after Henry Sweet, Ossian's youn
 After the mistrial, Messrs. Darrow and Hays made a motion for the admission to bail of the defendants. Eight of them were freed on bail of $5,500 each while three others, Dr. Ossian H. Sweet, Henry Sweet and Leonard C. Morse, were freed on bail of $10,000 each. This bail has been almost entirely furnished by Negro property owners of Detroit.
 
 ________________
-*Citation:* White, Walter F. 1926. "The Sweet Trial." *The Crisis*. 31(3):125-129.
+*Citation:* White, Walter F. 1926. "The Sweet Trial." *The Crisis*. 31(3):125&ndash;129.

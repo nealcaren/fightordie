@@ -31,4 +31,4 @@ To understand the situation look at your map of Georgia. Worth, Lee and Early Co
 
 "The power and the influence of the interests which are protected by lynch law!" There you have the whole modern government of the black belt with the South in its naked nastiness. Small wonder that the President of the United States is "protesting" against the Armenian atrocities of the Turks. We trust that A. Rustem Bey will answer that protest.
 
-*Citation:* Du Bois, W.E.B. 1916. "Peonage." *The Crisis*. 11(6):302-305.
+*Citation:* Du Bois, W.E.B. 1916. "Peonage." *The Crisis*. 11(6):302&ndash;305.

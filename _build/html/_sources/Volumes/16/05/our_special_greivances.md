@@ -28,4 +28,4 @@ The last line of the article is referenced in the subsequent editorial, "[The Re
 Did Negroes refuse to serve in the draft until they got the right to vote? No, they stormed the gates of the army for the right to fight. Did they refuse commissions because their army school was segregated? No, they were eager to enter and diligent to learn. Have we black men for one moment hesitated to do our full duty in this war because we thought the country was not doing its full duty to us? Is there a single Negro leader who advised by word, written or spoken, rebellion and disloyalty? Certainly not. Then somebody "forgot his special grievance" and fought for his country, and to him and for him <span style="font-variant:small-caps;">Crisis</span> speaks. <span style="font-variant:small-caps;">Crisis</span> says, *first* your Country, *then* your Rights!
 
 ______________
-*Citation:* Du Bois, W.E.B. 1918. "Our Special Grievances." *The Crisis*. 16(5):216-217.
+*Citation:* Du Bois, W.E.B. 1918. "Our Special Grievances." *The Crisis*. 16(5):216&ndash;217.

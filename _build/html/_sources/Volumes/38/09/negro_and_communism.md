@@ -129,4 +129,4 @@ Present organization of industry for private profit and control of government by
 There is no doubt, then, as to the future, or as to where the true interests of American Negroes lie. There is no doubt, too, but that the first step toward the emancipation of colored labor must come from white labor.
 
 _________________
-*Citation:* Du Bois, W.E.B. 1931. "The Negro and Communism." *The Crisis*. 38(9):313-315, 318, 320.
+*Citation:* Du Bois, W.E.B. 1931. "The Negro and Communism." *The Crisis*. 38(9):313&ndash;315, 318, 320.

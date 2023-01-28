@@ -24,4 +24,4 @@ But with the true coöperative principle, your clientele is nailed down. Your sh
 Don't be afraid. Try the whole coöperative program. Write us.
 
  ______________
-*Citation:* Du Bois, W.E.B. 1920. "Coöperation." *The Crisis*. 19(4):171-172.
+*Citation:* Du Bois, W.E.B. 1920. "Coöperation." *The Crisis*. 19(4):171&ndash;172.

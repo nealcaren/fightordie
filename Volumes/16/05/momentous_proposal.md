@@ -18,4 +18,4 @@ Finally, the General Staff, after carefully considering the matter from all angl
 Here the matter rests. It is deplorable that this splendid and statesmanlike plan has been abandoned and equally unfortunate that any question as to its desirability should have ever arisen among black folk. The personal side of it is of less consequence and has left Dr. DuBois in unruffiled serenity. No one who essays to teach the multitude can long escape crucifixion.
 
 ______________
-*Citation:* Du Bois, W.E.B. 1918. "A Momentous Proposal." *The Crisis*. 16(5):215-216.
+*Citation:* Du Bois, W.E.B. 1918. "A Momentous Proposal." *The Crisis*. 16(5):215&ndash;216.

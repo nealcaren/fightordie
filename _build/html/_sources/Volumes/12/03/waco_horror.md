@@ -94,7 +94,7 @@ He seemed not to care, but was thoroughly indifferent."
 
 The trial was hurried through. The Waco *Semi-Weekly Tribune,* May 17 says: > "The jury returned into court at 11:22 and presented a verdict: 'We, the jury, find the defendant guilty of murder as charged in the indictment and assess his punishment at death.' This was signed by W.B. Brazelton, foreman.   
 > &nbsp;    
->" 'Is that your verdict, gentlemen?' asked Judge Munroe.        
+>"'Is that your verdict, gentlemen?' asked Judge Munroe.        
 > &nbsp;    
 > "They answered, 'yes.'    
 > &nbsp;    
@@ -215,4 +215,4 @@ Interested persons may write to Roy Nash, secretary, 70 Fifth Avenue, New York C
 ***Finis***
 
 ______________
-*Citation:* Du Bois, W.E.B. 1916. "The Waco Horror." *The Crisis*. 12(3-Supplement):1-8.
+*Citation:* Du Bois, W.E.B. 1916. "The Waco Horror." *The Crisis*. 12(3-Supplement):1&ndash;8.

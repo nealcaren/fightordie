@@ -16,4 +16,4 @@ It happened unfortunately that the first Irish immigration to the United States 
 But all this is past. Today we must remember that the white slums of Dublin represent more bitter depths of human degradation than the black slums of Charleston and New Orleans, and where human oppression exists there the sympathy of all black hearts must go. The recent Irish revolt may have been foolish, but would to God some of us had sense enough to be fools!
 
 ______________
-*Citation:* Du Bois, W.E.B. 1916. "Ireland." *The Crisis*. 12(4):166-167.
+*Citation:* Du Bois, W.E.B. 1916. "Ireland." *The Crisis*. 12(4):166&ndash;167.

@@ -67,4 +67,4 @@ Who was to blame? Not Germany but certain Germans. Not England but certain Engli
 > The undersigned is interested in the publication of "The Black Man in the Wounded World" by Dr. W. E. Burghardt Du Bois and would like details as to its size, cost and date of issue when these matters have been determined on.
 
 _________________
-*Citation:* Du Bois, W.E.B. 1924. "The Black Man and the Wounded World." *The Crisis*. 27(3):110-114.
+*Citation:* Du Bois, W.E.B. 1924. "The Black Man and the Wounded World." *The Crisis*. 27(3):110&ndash;114.

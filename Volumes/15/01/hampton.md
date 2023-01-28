@@ -38,7 +38,7 @@ These are the reasons why many educated Negroes are and have been "opposed" to H
 
 I reiterate my respect for the Institution and my firm belief that it has done great good, but I insist that no school which deliberately curtails the training of the talented, refuses to guide her apter students to their greatest development, save in restricted lines, and not only gives her beneficiaries little or no voice in its control, but seems even to harbor and encourage their enemies---no such school is reaching its greatest usefulness. 
 
-W. E. B. DU BOIS.
+W. E. B. <span class = "small-caps">DU BOIS<.span>.
 
 __________
-*Citation:* Du Bois, W.E.B. 1917. "Hampton." *The Crisis*. 15(1):10-12.
+*Citation:* Du Bois, W.E.B. 1917. "Hampton." *The Crisis*. 15(1):10&ndash;12.

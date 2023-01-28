@@ -26,4 +26,4 @@ This call echoes William Lloyd Garrison's line from the first issue of the [Libe
 Come and hear the story of the development of democracy in the United States and the way in which a handful of men united in 1909, have become a mighty host in 1924 and are unswervingly determined to go forward to the great ideal of American democracy despite color, sex and race; an association which "will not equivocate, will not excuse and will be heard."
 
 _________________
-*Citation:* Du Bois, W.E.B. 1924. "Unity." *The Crisis*. 28(3):103-104.
+*Citation:* Du Bois, W.E.B. 1924. "Unity." *The Crisis*. 28(3):103&ndash;104.

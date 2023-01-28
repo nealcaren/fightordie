@@ -37,4 +37,4 @@ Meantime, if the South really wants the Negro and wants him at his best, it can 
 5. A complete system of education, free and compulsory.
 
 ______________
-*Citation:* Du Bois, W.E.B. 1920. "Brothers, Come North." *The Crisis*. 19(3):105-106.
+*Citation:* Du Bois, W.E.B. 1920. "Brothers, Come North." *The Crisis*. 19(3):105&ndash;106.

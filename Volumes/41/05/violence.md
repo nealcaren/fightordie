@@ -24,4 +24,4 @@ But, someone added, could we not induce a large enough number of white people to
 But the situation is worse than this. Just as soon as Negroes resort to violence or thoughts of violence, they will solidify white opposition. They will give every enemy of the Negro race a chance for using world-wide propaganda to prove that we are enemies of the United States, and of European civilization. With the same tactics that Hitler is using in Germany, they would seek to annihilate, and spiritually, even physically, reinslave the black folk of America. Of this, there is no reasonable doubt, and it is, therefore, our clear policy not to appeal to force until clearly and evidently, there is no other way.
 
 _________________
-*Citation:* Du Bois, W.E.B. 1934. "Violence." *The Crisis*. 41(5):147-148.
+*Citation:* Du Bois, W.E.B. 1934. "Violence." *The Crisis*. 41(5):147&ndash;148.

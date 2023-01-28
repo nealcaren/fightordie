@@ -44,4 +44,4 @@ We *return fighting*.
 Make way for Democracy! We saved it in France, and by the Great Jehovah, we will save it in the United States of America, or know the reason why.
 
 ______________
-*Citation:* Du Bois, W.E.B. 1919. "Returning Soldiers." *The Crisis*. 18(1):12-13.
+*Citation:* Du Bois, W.E.B. 1919. "Returning Soldiers." *The Crisis*. 18(1):12&ndash;13.

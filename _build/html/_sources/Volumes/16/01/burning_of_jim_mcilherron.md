@@ -78,4 +78,4 @@ By this time, however, some of the members of the mob had, apparently, become si
 **The Grand Jury Found "No information sufficient to Indict" the lynchers, but this postcard was sold on the streets "to white people" at 25 cents each.**
 
 ______________
-*Citation:* White, Walter F. 1918. "The Burning of Jim Mc Ilherron: An N.A.A.C.P. Investigation." *The Crisis*. 16(1):16-20.
+*Citation:* White, Walter F. 1918. "The Burning of Jim Mc Ilherron: An N.A.A.C.P. Investigation." *The Crisis*. 16(1):16&ndash;20.

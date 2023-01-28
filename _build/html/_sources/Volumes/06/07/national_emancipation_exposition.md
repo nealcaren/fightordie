@@ -119,4 +119,4 @@ Then shall the banners announce:
 "The play is done!"
 
 ___________________
-*Citation:* Du Bois, W.E.B. 1913. "The People of Peoples and Their Gifts to Men." *The Crisis*. 6(7):339-341.
+*Citation:* Du Bois, W.E.B. 1913. "The People of Peoples and Their Gifts to Men." *The Crisis*. 6(7):339&ndash;341.

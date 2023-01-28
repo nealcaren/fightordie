@@ -93,4 +93,4 @@ There was still left in the Police Department from the old regime a large percen
 Both Brown, who was lynched, and the woman who accused him belonged to the under-world which met at the houses of assignation. They had quarreled and the woman "got back" at Brown by alleging attempted assault. It is said that at the time she was wearing a diamond ring given her by Brown.
 
 ______________
-*Citation:* National Association for the Advancement of Colored People. 1919. "The Real Causes of Two Race Riots." *The Crisis*. 19(2):56-62.
+*Citation:* National Association for the Advancement of Colored People. 1919. "The Real Causes of Two Race Riots." *The Crisis*. 19(2):56&ndash;62.

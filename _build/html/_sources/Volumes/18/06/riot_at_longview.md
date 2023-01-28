@@ -32,4 +32,4 @@ Both Professor Jones and Dr. Davis reached a place of safety. Professor Jones hi
 The riot at Longview has two aspects. First, simply and solely it is a fair sample of the lawlessness which at present is stalking restlessly through the nation, Secondly, it is indicative of the attitude which Negroes are determined to adopt for the future. As the *Associated Press* report (it appeared, by the way, in a Longview paper), has it: "Negroes are not planning anything, but will defend themselves if attacked."
 
 ________________
-*Citation:* National Association for the Advancement of Colored People. 1919. "The Riot at Longview, Texas." *The Crisis*. 18(6):291-292.
+*Citation:* National Association for the Advancement of Colored People. 1919. "The Riot at Longview, Texas." *The Crisis*. 18(6):291&ndash;292.

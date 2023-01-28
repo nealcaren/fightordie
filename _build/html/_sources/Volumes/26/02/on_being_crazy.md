@@ -65,7 +65,7 @@ I consider it barbarism, I said, and I think I'll walk.
 
 Walking, I met a wayfarer who immediately walked to the other side of the road where it was muddy. I asked his reasons.
 
-" 'N******' is dirty," he said.
+"'N******' is dirty," he said.
 
 So is mud, said I. Moreover I added, I am not as dirty as you—at least, not yet.
 
@@ -85,7 +85,7 @@ I should think you and the Negroes might get together and vote out starvation.
 
 We? Why not? I said in surprise.
 
-" 'N******' is too ignorant to vote."
+"'N******' is too ignorant to vote."
 
 But, I said, I am not so ignorant as you.
 
@@ -116,4 +116,4 @@ I gave up. Go on, I said, either you are crazy or I am.
 "We both are," he said as he trotted along in the mud.
 
 ______________
-*Citation:* Du Bois, W.E.B. 1923. "On Being Crazy." *The Crisis*. 26(2):56-57.
+*Citation:* Du Bois, W.E.B. 1923. "On Being Crazy." *The Crisis*. 26(2):56&ndash;57.

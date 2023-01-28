@@ -91,4 +91,4 @@ I do not doubt that the ultimate art coming from black folk is going to be just 
 I had a classmate once who did three beautiful things and died. One of them was a story of a folk who found fire and then went wandering in the gloom of night seeking again the stars they had once known and lost; suddenly out of blackness they looked up and there loomed the heavens; and what was it that they said? They raised a mighty cry: "It is the stars, it is the ancient stars, it is the young and everlasting stars!"
 
 ________________
-*Citation:* Du Bois, W.E.B. 1926. "Criteria of Negro Art." *The Crisis*. 32(6):290-297.
+*Citation:* Du Bois, W.E.B. 1926. "Criteria of Negro Art." *The Crisis*. 32(6):290&ndash;297.

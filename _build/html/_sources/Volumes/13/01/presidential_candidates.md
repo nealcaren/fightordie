@@ -35,4 +35,4 @@ We beg to remain, Sir,<br>
 </ul>
 
 ______________
-*Citation:* NAACP. 1916. "Presidential Candidates." *The Crisis*. 13(1):16-17.
+*Citation:* NAACP. 1916. "Presidential Candidates." *The Crisis*. 13(1):16&ndash;17.
