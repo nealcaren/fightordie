@@ -46,7 +46,7 @@ One has only to remember St. Helena Island, which Woofter himself has just studi
 
 If there were on St. Helena Island, with Negro landholding peasants, good-hearted, hard-working and naturally intelligent people, a chance for self-government, universal education, and protection from hostile neighbors, who could doubt but that agricultural education, farm demonstration work and co-operation, would make here a model rural settlement? But to suggest that this can be done without political power; without public schools; and without law and order, is to suggest the impossible. And to call a study which does this scientific, is surely a misuse of terms.
 
-There are many differences in different parts of the South, but over the whole South it is true that political, educational and economic conditions, beyond the control of the colored farmer, are the main cause of exactly the conditions which Woofter finds. He tells us "a decrease of 96,000 farms, between 1920-25, was almost entirely due to the movement of Negro farmers. Eighty-four thousand colored farmers and 12,000 white farmers were lost."
+There are many differences in different parts of the South, but over the whole South it is true that political, educational and economic conditions, beyond the control of the colored farmer, are the main cause of exactly the conditions which Woofter finds. He tells us "a decrease of 96,000 farms, between 1920--25, was almost entirely due to the movement of Negro farmers. Eighty-four thousand colored farmers and 12,000 white farmers were lost."
 
 There were 161,600 Negro owners in the Southeast in 1910, and only 145,900 in 1925, showing a "surprising proportion who are losing heart and moving to the city."
 

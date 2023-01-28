@@ -12,7 +12,7 @@ pages:   76-77
 The woman suffragists are wincing a bit under the plain speaking of  <span style="font-variant:small-caps;">The Crisis</span>. President Anna Shaw writes us:
 
 ```{margin}
-[Anna Shaw](https://en.wikipedia.org/wiki/Anna_Howard_Shaw) was president of the National Woman Suffrage Association (NWSA) from 1904-1915.
+[Anna Shaw](https://en.wikipedia.org/wiki/Anna_Howard_Shaw) was president of the National Woman Suffrage Association (NWSA) from 1904--1915.
 ![Shaw in 1916](https://tile.loc.gov/storage-services/service/pnp/npcc/20300/20398v.jpg)
 ```
 > "There is not in the National Association any discrimination against colored people. If they do not belong to us it is merely because they have not organized and have not made application for membership. Many times we have had colored women on our program and as delegates, and I, personally, would be only too glad to welcome them as long as I am president of the National Association.
