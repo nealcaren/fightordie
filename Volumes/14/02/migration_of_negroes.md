@@ -4,7 +4,7 @@ author:  Du Bois, W.E.B.
 journal: The Crisis
 year:    1917
 volume:  14
-issue:   3
+issue:   2
 pages:   63-66
 -->
 # The Migration of Negroes (1917)
@@ -87,4 +87,4 @@ How great this migration will eventually prove depends upon a number of things. 
 At any rate, we face here a social change among American Negroes of great moment, and one which needs to be watched with intelligent interest.
 
 ______________
-*Citation:* Du Bois, W.E.B. 1917. "The Migration of Negroes." *The Crisis*. 14(3):63&ndash;66.
+*Citation:* Du Bois, W.E.B. 1917. "The Migration of Negroes." *The Crisis*. 14(2):63&ndash;66.

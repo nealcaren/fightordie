@@ -4,7 +4,7 @@ author:  Du Bois, W.E.B.
 journal: The Crisis
 year:    1917
 volume:  14
-issue:   3
+issue:   2
 pages:   60-61
 -->
 
@@ -29,4 +29,4 @@ It is simply silly to talk about pressure being brought to bear on the editor of
 LATER: We have won! The camp is granted; we shall have 1,000 Negro officers in the United States Army! Write us for information. 
 
 ______________
-*Citation:* Du Bois, W.E.B. 1917. "Officers." *The Crisis*. 14(3):60&ndash;61.
+*Citation:* Du Bois, W.E.B. 1917. "Officers." *The Crisis*. 14(2):60&ndash;61.
