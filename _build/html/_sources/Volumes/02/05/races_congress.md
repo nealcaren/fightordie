@@ -36,7 +36,7 @@ What after all was the object of assembling a congress of this character? To man
 >  &nbsp;
 > Nearer and nearer we see approaching the day when the caste population of the East will assert their claim to meet on terms of equality the nations of the West, when the free institutions and the organized forces of the one hemisphere will have their counterbalance in the other, when their mental outlook and their social aims will be in principle identical; when, in short, the color prejudice will have vanished and the so-called white races and the so-called colored races shall no longer merely meet in the glowing periods of missionary exposition, but, in very fact, regard one another as in truth men and brothers.     
 >  &nbsp;
-> Are we ready for this change? Have we duly considered all that it signifies, and have we tutored our minds and shaped our policy with a view of successfully meeting the coming flood? It is in order to discuss this question of such supreme importance that the First Universal Races Congress is being held." 
+> Are we ready for this change? Have we duly considered all that it signifies, and have we tutored our minds and shaped our policy with a view of successfully meeting the coming flood? It is in order to discuss this question of such supreme importance that the First Universal Races Congress is being held.
 
 ## III.---The Program of the Congress. 
 

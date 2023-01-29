@@ -161,6 +161,7 @@
 |   1922 |       22 | 1       | [Inter-Racial Comity](https://www.dareyoufight.org/Volumes/22/01/inter-racial_comity.html)                                                |
 |   1922 |       24 | 1       | [Slavery](https://www.dareyoufight.org/Volumes/24/01/slavery.html)                                                                        |
 |   1922 |       24 | 1       | [Publicity](https://www.dareyoufight.org/Volumes/24/01/publicity.html)                                                                    |
+|   1922 |       24 | 1       | [Art for Nothing](https://www.dareyoufight.org/Volumes/24/01/art_for_nothing.html)                                                        |
 |   1922 |       24 | 2       | [White Charity](https://www.dareyoufight.org/Volumes/24/02/whitecharity.html)                                                             |
 |   1923 |       24 | 3       | [Intentions](https://www.dareyoufight.org/Volumes/24/03/intentions.html)                                                                  |
 |   1923 |       26 | 2       | [A University Course in Lynching](https://www.dareyoufight.org/Volumes/26/02/university_course_in_lynching.html)                          |

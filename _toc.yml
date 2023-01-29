@@ -260,6 +260,7 @@ chapters:
 
 - file: Sections/arts
   sections:
+  - file: Volumes/24/01/art_for_nothing.md
   - file: Volumes/32/06/criteria_of_negro_art.md
   - file: Sections/short_stories
     sections:
