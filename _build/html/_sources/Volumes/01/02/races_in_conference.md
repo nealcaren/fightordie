@@ -26,4 +26,3 @@ To such a meeting should go particularly those people to whom the physical diffe
 
 _________________
 *Citation:* Du Bois, W.E.B. 1910. "The Races in Conference." *The Crisis*. 1(2):17,20.
-

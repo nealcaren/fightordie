@@ -49,7 +49,7 @@ But all this simply touches the whole question of racial organization and initia
 
 On the other hand, the danger of easily and eagerly yielding to suggested racial segregation without reason or pressure stares us ever in the face. We segregate ourselves. We herd together. We do things such as this clipping from the Atlanta Constitution indicates:
 
-> "A lecture on the raising of Lazarus from the dead will be delivered at the city auditorium on Friday night. The Big Bethel choir will sing and the Graham Jackson band will give additional music. Space has been set aside for white people."
+> A lecture on the raising of Lazarus from the dead will be delivered at the city auditorium on Friday night. The Big Bethel choir will sing and the Graham Jackson band will give additional music. Space has been set aside for white people.
 
 The "Jim Crow" galleries of Southern moving picture houses are filled with some of the best Negro citizens. Separate schools and other institutions have been asked by Negroes in the north when the whites had made no real demand.
 

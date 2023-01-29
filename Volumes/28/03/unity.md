@@ -21,7 +21,7 @@ Under such circumstances to talk unity and agreement is nonsense. If the Nationa
 
 ```{margin}
 This call echoes William Lloyd Garrison's line from the first issue of the [Liberator](https://www.americanyawp.com/reader/religion-and-reform/william-lloyd-garrison-introduces-the-liberator-1831/):   
-> but urge me not to use moderation in a cause like the present! I am in earnest–I will not equivocate I will not excuse– I will not retreat a single inch–AND I WILL BE HEARD"
+> but urge me not to use moderation in a cause like the present! I am in earnest–I will not equivocate I will not excuse– I will not retreat a single inch–AND I WILL BE HEARD
 ```
 Come and hear the story of the development of democracy in the United States and the way in which a handful of men united in 1909, have become a mighty host in 1924 and are unswervingly determined to go forward to the great ideal of American democracy despite color, sex and race; an association which "will not equivocate, will not excuse and will be heard."
 

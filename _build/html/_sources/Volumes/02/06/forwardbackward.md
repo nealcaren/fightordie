@@ -33,4 +33,3 @@ Of all recent forward movements the Socialists have rung truest on the race ques
 
 _________________
 *Citation:* Du Bois, W.E.B. 1911. "Forward Backward." *The Crisis*. 2(6):243&ndash;244.
-

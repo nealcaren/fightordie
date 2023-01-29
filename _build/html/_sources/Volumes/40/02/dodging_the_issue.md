@@ -11,7 +11,7 @@ pages:   45-46
 
 The  only comment which the Atlanta Commission on Interracial Cooperation has on the tragedy of the share-croppers of Alabama is a quotation from a Negro newspaper against "militant resistance" :
 
-> "Interviews with representative Negro leaders here and in Alabama reveal the fact that they are in complete agreement with the views expressed. Being a minority group in numbers, resources, and power, the Negro has nothing to gain by violence, they hold, but, on the contrary, everything to lose, including his life. What is even more tragic, they point out, is the fact that violence inevitably brings suffering and peril to multitudes in no way responsible. They believe communist organizers are seeking to use the Negro merely as a fagot to light the fires of political revolution, and that Negroes should be too wise to let themselves be sacrificed."
+> Interviews with representative Negro leaders here and in Alabama reveal the fact that they are in complete agreement with the views expressed. Being a minority group in numbers, resources, and power, the Negro has nothing to gain by violence, they hold, but, on the contrary, everything to lose, including his life. What is even more tragic, they point out, is the fact that violence inevitably brings suffering and peril to multitudes in no way responsible. They believe communist organizers are seeking to use the Negro merely as a fagot to light the fires of political revolution, and that Negroes should be too wise to let themselves be sacrificed.
 
  This is a pitiful dodging of the issue. When in God's name did American Negroes need to have non-resistance preached to them?
 

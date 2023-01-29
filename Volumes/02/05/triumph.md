@@ -35,4 +35,3 @@ But let every black American gird up his loins. The great day is coming. We have
 
 _________________
 *Citation:* Du Bois, W.E.B. 1911. "Triumph." *The Crisis*. 2(5):195.
-

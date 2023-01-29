@@ -77,4 +77,3 @@ Gentle Reader, which of these three examples shall my friend of Harlem follow? W
 
 _________________
 *Citation:* Du Bois, W.E.B. 1925. "The Challenge of Detroit." *The Crisis*. 31(1):7&ndash;10.
-

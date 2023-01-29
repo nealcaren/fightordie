@@ -31,6 +31,6 @@ That the causes of lynching as well as of Negro crime lie in the terrible forcin
 
 The report bravely concludes :
 
-> "Lynching can and will be eliminated in proportion as all elements of the population are provided opportunities for development and are accorded fundamental human rights. Whether in the field of religion, education, economics, jurisprudence, or politics, anything which looks toward this end is a factor in reducing mob violence. For, fundamentally, lynching is an expression of a basic lack of respect both for human beings and for organized society."
+> Lynching can and will be eliminated in proportion as all elements of the population are provided opportunities for development and are accorded fundamental human rights. Whether in the field of religion, education, economics, jurisprudence, or politics, anything which looks toward this end is a factor in reducing mob violence. For, fundamentally, lynching is an expression of a basic lack of respect both for human beings and for organized society.
 ______________
 *Citation:* Du Bois, W.E.B. 1932. "Lynchings." *The Crisis*. 39(2):58.
