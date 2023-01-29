@@ -140,6 +140,7 @@
 |   1920 |       19 | 3       | [American Legion, Again](https://www.dareyoufight.org/Volumes/19/03/american_legion_again.html)                                           |
 |   1920 |       19 | 3       | [The Macon Telegraph](https://www.dareyoufight.org/Volumes/19/03/macon_telegraph.html)                                                    |
 |   1920 |       19 | 3       | [Race Pride](https://www.dareyoufight.org/Volumes/19/03/race_pride.html)                                                                  |
+|   1920 |       19 | 3       | [Race Pride](https://www.dareyoufight.org/Volumes/19/03/england.html)                                                                     |
 |   1920 |       19 | 3       | [Brothers, Come North](https://www.dareyoufight.org/Volumes/19/03/brothers_come_north.html)                                               |
 |   1920 |       19 | 3       | [Sex Equality](https://www.dareyoufight.org/Volumes/19/03/sex_equality.html)                                                              |
 |   1920 |       19 | 4       | [Coöperation](https://www.dareyoufight.org/Volumes/19/04/cooperation.html)                                                                |
