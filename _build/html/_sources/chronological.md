@@ -137,6 +137,8 @@
 |   1919 |       19 | 1       | [Social Equality](https://www.dareyoufight.org/Volumes/19/01/social_equality.html)                                                        |
 |   1919 |       19 | 1       | [A Statement](https://www.dareyoufight.org/Volumes/19/01/statement.html)                                                                  |
 |   1919 |       19 | 2       | [The Real Causes of Two Race Riots](https://www.dareyoufight.org/Volumes/19/02/real_causes.html)                                          |
+|   1920 |       19 | 3       | [American Legion, Again](https://www.dareyoufight.org/Volumes/19/03/american_legion_again.html)                                           |
+|   1920 |       19 | 3       | [The Macon Telegraph](https://www.dareyoufight.org/Volumes/19/03/macon_telegraph.html)                                                    |
 |   1920 |       19 | 3       | [Race Pride](https://www.dareyoufight.org/Volumes/19/03/race_pride.html)                                                                  |
 |   1920 |       19 | 3       | [Brothers, Come North](https://www.dareyoufight.org/Volumes/19/03/brothers_come_north.html)                                               |
 |   1920 |       19 | 3       | [Sex Equality](https://www.dareyoufight.org/Volumes/19/03/sex_equality.html)                                                              |
