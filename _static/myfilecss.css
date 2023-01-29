@@ -48,6 +48,10 @@
   color: #111;
 }
 
+.bd-sidebar .nav {
+  font-size: 1rem;
+}
+
 nav.bd-links {
   font-size: 1rem;
 }
