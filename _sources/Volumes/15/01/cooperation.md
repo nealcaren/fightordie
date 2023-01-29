@@ -27,7 +27,7 @@ Co-operation in economics can, perhaps, best be explained by quoting a leaflet b
 > &nbsp;    
 > Whenever the people organize as consumers, then they begin to enjoy the economic advantages of their organization; not at some remote day, but from the moment they organize; not when all are organized, but when even a few are gathered together.      
 > &nbsp;    
-> These are some of the important things which experience has revealed, and it may be assumed that they will hold as true for the future as for the past." 
+> These are some of the important things which experience has revealed, and it may be assumed that they will hold as true for the future as for the past.
 
 This is the movement which <span style="font-variant:small-caps;">The Crisis</span> wishes to bring more and more to the attention of the Negroes of the United States. It firmly believes that this is our economic way out, our industrial emancipation. 
 
