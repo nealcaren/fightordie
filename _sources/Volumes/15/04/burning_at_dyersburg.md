@@ -111,7 +111,7 @@ The Memphis, Tenn., *News-Scimitar* says:
 > &nbsp;    
 > At last the irons were hot.     
 > &nbsp;    
-> "Have you anything to say?"    
+> Have you anything to say?"    
 > &nbsp;    
 > A meek voice mumbled inaudibly. The Negro made a speech, but few caught the portent.    
 > &nbsp;    
@@ -121,7 +121,7 @@ The Memphis, Tenn., *News-Scimitar* says:
 > &nbsp;    
 > Swish. Once, twice, three times a red hot iron dug gaping places in Lation Scott's back and sides.    
 > &nbsp;    
-> "Fetch a hotter one," somebody said. The execution went on.    
+> Fetch a hotter one," somebody said. The execution went on.    
 > &nbsp;    
 > Now someone had another poker—jabbing its fiery joint into the ribs of the doomed black.     
 > &nbsp;    

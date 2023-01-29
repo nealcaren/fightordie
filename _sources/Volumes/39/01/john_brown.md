@@ -15,7 +15,7 @@ During the exercises, white speakers condemned the Haitian Revolution, lauded th
 
 The boulder is ostensibly erected to the memory of a free Negro who was killed in the fight, and the inscription says:
 
-> "This boulder is erected by the Sons of Confederate Veterans and the United Daughters of the Confederacy as a memorial to Heyward Shepherd, exemplifying the character and faithfulness of thousands of Negroes who, under many temptations throughout subsequent years of war, so conducted themselves that no stain was left upon a record which is the peculiar heritage of the American people, and an everlasting tribute to the best in both races."
+> This boulder is erected by the Sons of Confederate Veterans and the United Daughters of the Confederacy as a memorial to Heyward Shepherd, exemplifying the character and faithfulness of thousands of Negroes who, under many temptations throughout subsequent years of war, so conducted themselves that no stain was left upon a record which is the peculiar heritage of the American people, and an everlasting tribute to the best in both races.
 
 The statement that no slave helped and fought with John Brown is historically incorrect and one is glad to remember that nearly two hundred thousand Negroes yielded to the "temptation" to fight against slavery in the Civil War and that most of them were former slaves.
 

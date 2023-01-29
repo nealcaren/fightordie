@@ -11,7 +11,7 @@ pages:   298
 
 The Editor of the *Louisiana Weekly* writes:
 
->  "I shall appreciate very much a letter from you encouraging the young colored men of our city to increase their interest in politics. The older men have discouraged them and refused to act with them because of envy. A letter from you to the young men, urging them to carry on in spite of this selfish handicap, would go a long way toward kindling hope anew."
+> I shall appreciate very much a letter from you encouraging the young colored men of our city to increase their interest in politics. The older men have discouraged them and refused to act with them because of envy. A letter from you to the young men, urging them to carry on in spite of this selfish handicap, would go a long way toward kindling hope anew.
 
  The situation of an intelligent, young colored man who wants to use his right to vote effectively in the South is exceedingly difficult. He is not admitted to the Democratic Party, and can not easily take part in their white primary. This is still true despite the continued efforts of the N.A.A.C.P. to stop it, and thus to break up one party government in the South.
 

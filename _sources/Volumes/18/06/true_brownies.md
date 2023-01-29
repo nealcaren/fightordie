@@ -22,9 +22,9 @@ There seems but one alternative: We shall publish hereafter not ONE Children's N
 
 It will be called, naturally, *The Brownies' Book*, and as we have advertised, "It will be a thing of Joy and Beauty, dealing in Happiness, Laughter and Emulation, and designed especially for Kiddies from Six to Sixteen.
 
-> "It will seek to teach Universal Love and Brotherhood for all little folk—black and brown and yellow and white.   
+> It will seek to teach Universal Love and Brotherhood for all little folk—black and brown and yellow and white.   
 > &nbsp;   
-> "Of course, pictures, puzzles, stories, letters from little ones, clubs, games and oh—everything!"
+> Of course, pictures, puzzles, stories, letters from little ones, clubs, games and oh—everything!
 
 Deftly intertwined with this mission of entertainment will go the endeavor:
 <ol type="a">

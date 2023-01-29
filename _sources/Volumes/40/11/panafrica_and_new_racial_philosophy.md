@@ -32,7 +32,7 @@ It may be that in the end nothing but force will break down the injustice of the
 
 Here in the United States the net result of the National Recovery Act so far has been to raise wages for a small number of favored white workers and to decrease wages or push out of employment entirely the Negro. It is possible that this present result may in time be changed, and we note with interest what Secretary Ickes has said to the State Engineers and Public Works Administration:
 
-> "It is important to bear in mind that the Public Works Administration is for the benefit of all the people of the country. The established policy in the construction of public buildings and public works under its control is that in the employment of mechanics and labor, preference be given to local labor to the extent that it is available and competent, and that there be no discrimination exercised against any person because of color or religious affiliation."
+> It is important to bear in mind that the Public Works Administration is for the benefit of all the people of the country. The established policy in the construction of public buildings and public works under its control is that in the employment of mechanics and labor, preference be given to local labor to the extent that it is available and competent, and that there be no discrimination exercised against any person because of color or religious affiliation.
 
 Nevertheless, this we feel is going to make little difference so long as the American people believe that any white men of whatever character or education is better than any possible colored man.
 

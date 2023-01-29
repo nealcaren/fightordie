@@ -11,7 +11,7 @@ pages:   45
 
 Anent my December editorial one writes :
 
-> "A daughter, our only child in seven years of marriage was born December 9th. My wife read your editorial so many times in the last week before going to hospital that she had memorized most of it. Both of us thank you, and wish for you long years of happiness."
+> A daughter, our only child in seven years of marriage was born December 9th. My wife read your editorial so many times in the last week before going to hospital that she had memorized most of it. Both of us thank you, and wish for you long years of happiness.
 
 I am minded, therefore, to add: Do your friends all say. "Too bad it wasn't a boy?" If they do, listen and reply:
 

@@ -43,7 +43,7 @@ Carlos F. Hurd, an eye-witness, realizes this fact and speaks of it in the artic
 
 > A mob is passionate, a mob follows one man or a few men blindly; a mob sometimes takes chances. The East St. Louis affair, as I saw it, was a man hunt, conducted on a sporting basis, though with anything but  an East St. Louis the fair play which is the principle of sport. The East St. Louis men took no chances, except the chance from stray shots, which every spectator of their acts took. They went in small groups, there was little leadership, and there was a horribly cool deliberateness and a spirit of fun about it.   
 > &nbsp;  
-> "Get a n*****," was the slogan, and it was varied by the recurrent cry, "Get another!" It was like nothing so much as the holiday crowd, with thumbs turned down, in the Roman Coliseum, except that here the shouters were their own gladiators, and their own wild beasts.
+> Get a n*****," was the slogan, and it was varied by the recurrent cry, "Get another!" It was like nothing so much as the holiday crowd, with thumbs turned down, in the Roman Coliseum, except that here the shouters were their own gladiators, and their own wild beasts.
 
 ![](../../../Images/mesl_3.jpg)  
 
@@ -57,14 +57,14 @@ Carlos F. Hurd, an eye-witness, realizes this fact and speaks of it in the artic
 > &nbsp;  
 > Right here I saw the most sickening incident of the evening. To put the rope around the Negro's neck, one of the lynchers stuck his fingers inside the gaping scalp and lifted the Negro's head by it, literally bathing his hand in the man's blood.   
 > &nbsp;  
-> "Get hold, and pull for East St. Louis!" called a man with a black coat and a new straw hat, as he seized the other end of the rope. The rope was long, but not too long for the number of hands that grasped it, and this time the Negro was lifted to a height of about seven feet from the ground. The body was left hanging there.   
+> Get hold, and pull for East St. Louis!" called a man with a black coat and a new straw hat, as he seized the other end of the rope. The rope was long, but not too long for the number of hands that grasped it, and this time the Negro was lifted to a height of about seven feet from the ground. The body was left hanging there.   
 > &nbsp;  
 
 These accounts make gruesome reading, but they are all true. Hugh L. Wood paints in the *St. Louis Republic* another horrible picture. He says:
 
  > A Negro weighing 300 pounds came out of the burning line of dwellings just north and east of the Southern freight house. His hands were elevated and his yellow face was speckled with the awful fear of death.  
 > &nbsp;  
-> "Get him!" they cried. Here was a chance to see suffering, something that bullets didn't always make.  
+> Get him!" they cried. Here was a chance to see suffering, something that bullets didn't always make.  
 > &nbsp;  
 > So a man in the crowd clubbed his revolver and struck the Negro in the face with it. Another dashed an iron bolt between the Negro's eyes. Still another stood near and battered him with a rock.  
 > &nbsp;  
@@ -80,9 +80,9 @@ The St. Louis Republic has still a further touch:
 
  > A Negro lay a block east on Broadway, with his face beaten in. He was not dead. An ambulance, driven by white men, dashed up.  
 > &nbsp;  
-> "If you pick up that skunk we'll kill you, too," cried the crowd.  
+> If you pick up that skunk we'll kill you, too," cried the crowd.  
 > &nbsp;  
-> "I've got a wife and four children at home," said the white-faced ambulance man as he climbed back on the wagon.  
+> I've got a wife and four children at home," said the white-faced ambulance man as he climbed back on the wagon.  
 > &nbsp;  
 > When the fire had eaten its way that far the body was tossed into the flames. Two blocks further east lay a Negro who had been beaten until he was dying. "Let's string him up," shouted a man. _A rope was brought and the dying black in a moment was dangling from a pole. Several "good measure" shots were fired into the body and the crowd went further on.
 
@@ -95,7 +95,7 @@ The violence was confined not only to men. Women were in many cases the aggresso
  Mr. Hurd writes:
 > I saw Negro women begging for mercy and pleading that they had harmed no one set upon by white women of the baser sort who laughed and answered the coarse sallies of men as they beat the Negresses' faces and breasts with fists, stones and sticks. I saw one of these furies fling herself at a militiaman who was trying to protect a Negress, and wrestle with him for his bayonetted gun, while other women attacked the refugee.   
 > &nbsp;  
-> "Let the girls have her," was the shout as the women attacked one young Negress. The victim's cry, "Please, please, I ain't done nothing," was stopped by a blow in the mouth with a broomstick, which one of the women swung like a baseball bat. Another woman seized the Negress' hands, and the blow was repeated as she struggled helplessly. Fingernails clawed her hair and the sleeves were torn from her waist, when some of the men called, "Now let her see how fast she can run." The women did not readily leave off beating her, but they stopped short of murder, and the crying, hysterical girl ran down the street.  
+> Let the girls have her," was the shout as the women attacked one young Negress. The victim's cry, "Please, please, I ain't done nothing," was stopped by a blow in the mouth with a broomstick, which one of the women swung like a baseball bat. Another woman seized the Negress' hands, and the blow was repeated as she struggled helplessly. Fingernails clawed her hair and the sleeves were torn from her waist, when some of the men called, "Now let her see how fast she can run." The women did not readily leave off beating her, but they stopped short of murder, and the crying, hysterical girl ran down the street.  
 > &nbsp;  
 > An older Negress, a few moments later, came along with two or three militiamen, and the same women made for her. When one of the soldiers held his gun as a barrier, the woman with the broomstick seized it with both hands, and struggled to wrest it from him, while the others, striking at the Negress, in spite of the other militiamen, frightened her thoroughly and hurt her somewhat.
 
@@ -111,7 +111,7 @@ But this sort of Negro-baiting did not make a strong enough appeal to the jaded 
 
 > The first houses were fired shortly after 5 o'clock. These were back of Main street, between Broadway and Railroad avenue. Negroes were "flushed" from the burning houses, and ran for their lives, screaming and begging for mercy. A Negro crawled into a shed and fired on the white men. Guardsmen started after him, but when they saw he was armed, turned to the mob and said:  
 > &nbsp;  
-> "He's armed, boys. You can have him. A white man's life is worth the lives of a thousand Negroes."  
+> He's armed, boys. You can have him. A white man's life is worth the lives of a thousand Negroes."  
 > &nbsp;  
 > A few minutes later matches were applied to hastily gathered debris piled about the corner of one of three small houses 100 feet from the first fired. These were back of the International Harvester Company's plant. Eight Negroes fied into the last of the houses and hid in the basement. When roof and walls were about to fall in, an aged Negro woman came out. She was permitted to walk to safety. Three Negro women followed and were not fired upon. Then came four Negro men, and 100 shots were fired at them. They fell. No one ventured out to see if they were dead, as the place had come to resemble No Man's Land, with bullets flying back and forth and sparks from the fires falling everywhere.  
 > &nbsp;  
@@ -144,16 +144,16 @@ Subsequent testimony conflicted with this statement and showed that most of the 
 > &nbsp;  
 > A detachment of militia came along and made a half-hearted effort to disarm the civilians. The only persons who gave up their arms were boys. One white man walking beside me patted a large revolver in his shirt bosom. It was fully loaded. Another handed him two additional rounds of cartridges. Two guards passed.     
 > &nbsp;  
-> "You've got nothing on me," the rioter said, and showed the militiaman his revolver and shells. When the militiaman laughed, the rioter threw his disengaged arm around the guardsman's shoulder and they disappeared around the corner.   
+> You've got nothing on me," the rioter said, and showed the militiaman his revolver and shells. When the militiaman laughed, the rioter threw his disengaged arm around the guardsman's shoulder and they disappeared around the corner.   
 
 Some of the militia were active in the fray. Miss Gruening tells of the two soldiers, members of Troop L, from Olney. She passed them a few days after the riot near Cahokia Creek and entered into conversation with them. They boasted that here "seven n******" were thrown into the creek, "and every time the n****** came up people rocked them till they was all drowned." She imitated their vernacular. "And how many 'n******' did you boys actually kill?" she asked. They were modestly uncertain—they were not quite sure how many, but they had certainly shot to kill. That had been their orders.   
-> ""What!" asked Miss Gruening, "to shoot to kill 'n******'?"   
+> What!" asked Miss Gruening, "to shoot to kill 'n******'?"   
 > &nbsp;  
 > They grinned cheerfully. "Oh, no. Only to kill all we saw starting fires."   
 > &nbsp;  
-> "And did you see any starting fires?"
+> And did you see any starting fires?
 > &nbsp;  
-> "No, all we saw was n****** flying."
+> No, all we saw was n****** flying.
 
 And they were to disarm every "n*****" of any kind of weapon—guns, razors, knives. They got everything away from them.
 
@@ -173,7 +173,7 @@ Well, that was unnecessary, it was rather late now—on the third day of the inq
 
 As she was about to leave they laid on her a solemn charge.
 
-> "Young lady, as a writer, you have a heavy responsibility. If you go away and give the world the impression that the boys of the Illinois Militia or their officers failed in their duty you will be doing a serious injustice. We have gone exhaustively into the evidence. We have followed up every accusation made against Illinois guardsmen and we find not a single instance in which they misconducted themselves. On the contrary, we have found innumerable instances of the greatest heroism on the part of these young and untrained boys—instances in which Negroes were rescued from crowds of two or three hundred people. We have examined every body (Query: the burned and drowned bodies too?) and none of the wounds were made by rifles."
+> Young lady, as a writer, you have a heavy responsibility. If you go away and give the world the impression that the boys of the Illinois Militia or their officers failed in their duty you will be doing a serious injustice. We have gone exhaustively into the evidence. We have followed up every accusation made against Illinois guardsmen and we find not a single instance in which they misconducted themselves. On the contrary, we have found innumerable instances of the greatest heroism on the part of these young and untrained boys—instances in which Negroes were rescued from crowds of two or three hundred people. We have examined every body (Query: the burned and drowned bodies too?) and none of the wounds were made by rifles.
 
 Miss Gruening inquired why, in the case of so much heroism, were so many Negroes killed and only eight white men. There was no answer to that.
 
@@ -183,7 +183,7 @@ And now we come to a short list of savage deeds which most of the newspapers hav
 
 Miss Gruening writing in the *Boston Journal* says succintly:
 
- > "One girl was standing at a window of a white woman's house in which she worked. Her arm was shot away. A policeman and a soldier, she said, did the shooting. . . An old woman, frightfully burned, dying in the hospital, was asked if the mob had done it and replied: 'No, they jes' set fire to my house and I burned myself trying to get out'…  One of the St. Louis reporters said that he knew exactly how people felt who had seen atrocities abroad and were trying to 'get them across' to the rest of the world, 'although,' he added, 'not even Belgium probably has anything quite as horrible to show'… About 10 blocks of Negro homes were burned, and the mobs stood outside and shot and stoned those who tried to escape. The mob seized a colored woman's baby and threw it into the fire. The woman was then shot and thrown in."
+ > One girl was standing at a window of a white woman's house in which she worked. Her arm was shot away. A policeman and a soldier, she said, did the shooting. . . An old woman, frightfully burned, dying in the hospital, was asked if the mob had done it and replied: 'No, they jes' set fire to my house and I burned myself trying to get out'…  One of the St. Louis reporters said that he knew exactly how people felt who had seen atrocities abroad and were trying to 'get them across' to the rest of the world, 'although,' he added, 'not even Belgium probably has anything quite as horrible to show'… About 10 blocks of Negro homes were burned, and the mobs stood outside and shot and stoned those who tried to escape. The mob seized a colored woman's baby and threw it into the fire. The woman was then shot and thrown in."
 
 One dares not dwell too long on these horrors. There are the stories too related by Mrs. Luella Cox (white) of the Volunteers of America, a St. Louis organization. Mrs. Cox had gone over to East St. Louis on that memorable day on business connected with her society. She passed through scenes that she can never forget. She realized the storm that was brewing and tried to persuade some of the colored families living in what afterwards became the burned district to flee. They were afraid to venture out but remained hidden in their houses with what results one can shudderingly surmise.
 
@@ -264,7 +264,7 @@ Her sister, Hattie House, continues:
 
 > In less than twenty minutes from the time my sister left, the mob returned and began shooting and throwing bricks through the windows, while the three of us lay flat upon the floor, hoping to escape. The mob then set fire to both the front and back and when the roof began falling in we ran out through the rear door amidst the rain of bullets to the home of a Mr. Warren, white, begging him to save us. Mr. Lewis was shot just as he reached the door, and I ran into the house.   
 > &nbsp;  
-> Some women who were always at the Warren house began beating me and I was compelled to leave there. I ran through a shed and seeing a big tin box, I jumped in, pulling on the lid and succeeded in concealing myself. The mob pursued, looking in every place as they thought for me, but overlooked the box. As they stood discussing the riot, one said, "I felt sorry for that old n*****. He begged so for his life." The answer was, "Why should you feel sorry, Irene, you helped to kill him?" Some other person in the crowd then said, "He was such a hard n***** to kill, he was shot and then had to have his head smashed with an ax."
+> Some women who were always at the Warren house began beating me and I was compelled to leave there. I ran through a shed and seeing a big tin box, I jumped in, pulling on the lid and succeeded in concealing myself. The mob pursued, looking in every place as they thought for me, but overlooked the box. As they stood discussing the riot, one said, "I felt sorry for that old n*****. He begged so for his life." The answer was, "Why should you feel sorry, Irene, you helped to kill him?" Some other person in the crowd then said, "He was such a hard n***** to kill, he was shot and then had to have his head smashed with an ax.
 
 Lulu Suggs is twenty-four years old, and has lived in East St. Louis since April. She tells of seeing children thrown into the fire. She says:
 
@@ -308,7 +308,7 @@ Testimony of twenty-year-old Vassie Randall, an employee of the Electric Sack Pl
 
 The testimony of William Seawood shows the attitude of the soldiers. Seawood is thirty years old and has been a resident of East St. Louis seven years. He says:
 
-> Age, thirty years old, and have been a resident of East St. Louis seven years. I left my work at 2:30 P.M., went down Fifth Street to Walnut Avenue. I then went to a lunch stand, and as there was so much shooting I was afraid to leave. The mob came very close to the stand and I ran into an alley; there I found more of the rioters. I ran out of the alley between two buildings. I met a soldier who pointed a gun at me and told me to stop and throw up my hands. One of the men hit me on the back of my neck with his fist and another hit me across the head with a stick, and I also received a glance shot. One of the rioters also put a rope around my neck and said, "We will hang this one."
+> Age, thirty years old, and have been a resident of East St. Louis seven years. I left my work at 2:30 P.M., went down Fifth Street to Walnut Avenue. I then went to a lunch stand, and as there was so much shooting I was afraid to leave. The mob came very close to the stand and I ran into an alley; there I found more of the rioters. I ran out of the alley between two buildings. I met a soldier who pointed a gun at me and told me to stop and throw up my hands. One of the men hit me on the back of my neck with his fist and another hit me across the head with a stick, and I also received a glance shot. One of the rioters also put a rope around my neck and said, "We will hang this one.
 
 ![](../../../Images/mesl_8.jpg)  
 **At the Municipal Lodging House, St. Louis, Mo.**  
@@ -402,7 +402,7 @@ In this connection Miss Gruening supplies the statement of East St. Louis Postma
 
 And here follows a sort of composite statement of the best citizens, editors, and liberty-bond buyers of East St. Louis and its surroundings:
 
-> "Well, you see too many n****** have been coming in here. When n****** come up North they get insolent. You see they vote here and one doesn't like that. And one doesn't like their riding in the cars next to white women—and, well what are you going to do when a buck n***** pushes you off the sidewalk?"
+> Well, you see too many n****** have been coming in here. When n****** come up North they get insolent. You see they vote here and one doesn't like that. And one doesn't like their riding in the cars next to white women—and, well what are you going to do when a buck n***** pushes you off the sidewalk?
 
  This last pathetic question was put to Miss Gruening by three different editors on as many separate occasions.
 

@@ -23,7 +23,7 @@ As to the reasons of the migration, undoubtedly, the immediate cause was economi
 
 A second economic cause was the cutting off of immigration from Europe to the North and the consequently wide-spread demand for common labor. The U.S. Dpartment of Labor writes:
 
- > "A representative of this department has made an investigation in regard thereto, but a report has not been printed for general distribution. It may be stated, however, that most of the help imported from the South has been employed by railroad companies, packing houses, foundries, factories, automobile plants, in the northern States as far west as Nebraska. At the present time the U. S. Employment Service is not co-operating in the direction of Negro help to the north."
+ > A representative of this department has made an investigation in regard thereto, but a report has not been printed for general distribution. It may be stated, however, that most of the help imported from the South has been employed by railroad companies, packing houses, foundries, factories, automobile plants, in the northern States as far west as Nebraska. At the present time the U. S. Employment Service is not co-operating in the direction of Negro help to the north."
 
 The third reason has been outbreaks of mob. violence in northern and southwestern Georgia and in western South Carolina.
 
@@ -53,34 +53,34 @@ The centres of this migration have been at Jackson, Hattiesburg, and Meridian, M
 
 A widely-traveled and intelligent colored man writes:
 
- > "I recently made a trip through the South as far down as New Orleans, La., and I saw hundreds who were making their way northward. When in New Orleans, I learned that there were about 800 in the city from the inland district waiting to go, and who expected to leave during the next week. I went with a friend down where I could meet some of the leaders and talk with them. I met them, and they informed me that they were willing to go anywhere rather than continue to live like they had been. These were heading toward Chicago. I was shocked at the statement made by some of them as to how they lived on those big inland farms, and how badly they were treated by the whites. Many of these men were in overalls. I told them that they were unprepared for the climate; but they were willing to run any risk to get where they might breathe freer. Who blames them?"
+ > I recently made a trip through the South as far down as New Orleans, La., and I saw hundreds who were making their way northward. When in New Orleans, I learned that there were about 800 in the city from the inland district waiting to go, and who expected to leave during the next week. I went with a friend down where I could meet some of the leaders and talk with them. I met them, and they informed me that they were willing to go anywhere rather than continue to live like they had been. These were heading toward Chicago. I was shocked at the statement made by some of them as to how they lived on those big inland farms, and how badly they were treated by the whites. Many of these men were in overalls. I told them that they were unprepared for the climate; but they were willing to run any risk to get where they might breathe freer. Who blames them?"
 
 Many of the southern whites, through their newspapers, are confirming this general unrest. A white woman says:
 
-> "That which a regard for common justice, fair play, human rights could not accomplish, a fear for our bank account is doing, and we are asking: Why is the Negro dissatisfied? What can we do to keep him in the South? We can't afford to let him go; he means too much for us—financially. He works for little; his upkeep costs us little, for we can house him in any kind of shack, and make him pay us well for that; we do not have to be careful of his living conditions; he is good-natured, long-suffering, and if he should happen to give us trouble we can cope with that and the law will uphold us in anything we do."
+> That which a regard for common justice, fair play, human rights could not accomplish, a fear for our bank account is doing, and we are asking: Why is the Negro dissatisfied? What can we do to keep him in the South? We can't afford to let him go; he means too much for us—financially. He works for little; his upkeep costs us little, for we can house him in any kind of shack, and make him pay us well for that; we do not have to be careful of his living conditions; he is good-natured, long-suffering, and if he should happen to give us trouble we can cope with that and the law will uphold us in anything we do.
 
 The Columbia, S. C. *State* asks:
-> "If you thought you might be lynched by mistake, would you remain in South Carolina? Ask yourself that question if you dare."
+> If you thought you might be lynched by mistake, would you remain in South Carolina? Ask yourself that question if you dare.
 
 The Greenville, S. C., *Piedmont* feels that,
 
-> "The truth might as well be faced, and the truth is that the treatment of the Negro in the South must change or the South will lose the Negro."
+> The truth might as well be faced, and the truth is that the treatment of the Negro in the South must change or the South will lose the Negro.
 
 The Greenville, S. C., *News* says:
 
-> "The Abbeville outrage may yet prove more of an economic crime than an offense against the peace and dignity of the state. Where is our labor to come from if not from these people who have lived here beside us for so many generations? Immigration has been a distinct failure in the South; it is expressly declared to be against the policy of South Carolina by our laws."
+> The Abbeville outrage may yet prove more of an economic crime than an offense against the peace and dignity of the state. Where is our labor to come from if not from these people who have lived here beside us for so many generations? Immigration has been a distinct failure in the South; it is expressly declared to be against the policy of South Carolina by our laws.
 
 It is interesting to note that this migration is apparently a mass movement and not a movement of the leaders. The wave of economic distress and social unrest has pushed past the conservative advice of the Negro preacher, teacher and professional man, and the colored laborers and artisans have determined to find a way for themselves. For instance, a colored Mississippi preacher says:
 
-> "The leaders of the race are powerless to prevent his going. They had nothing to do with it, and, indeed, all of them, for obvious reasons, are opposed to the exodus. The movement started without any head from the masses, and such movements are always significant."
+> The leaders of the race are powerless to prevent his going. They had nothing to do with it, and, indeed, all of them, for obvious reasons, are opposed to the exodus. The movement started without any head from the masses, and such movements are always significant.
 
 The character of the people who are going varies, of course, but as the Birmingham, Ala., *Age-Herald* remarks:
 
-> "It is not the riff-raff of the race, the worthless Negroes, who are leaving in such large numbers. There are, to be sure, many poor Negroes among them who have little more than the clothes on their backs, but others have property and good positions which they are sacrificing in order to get away at the first opportunity.    
+> It is not the riff-raff of the race, the worthless Negroes, who are leaving in such large numbers. There are, to be sure, many poor Negroes among them who have little more than the clothes on their backs, but others have property and good positions which they are sacrificing in order to get away at the first opportunity.    
 & nbsp;
-> "Various reasons are assigned for the migration of Negroes from the South to the North. It was believed for a while that they were lured away by the glowing reports of labor agents who promised high wages, easy work, and better living conditions. But there is something more behind their going, something that lies deeper than a temporary discontent and the wish to try a new environment merely for the sake of a free trip on the railroads. ...   
+> Various reasons are assigned for the migration of Negroes from the South to the North. It was believed for a while that they were lured away by the glowing reports of labor agents who promised high wages, easy work, and better living conditions. But there is something more behind their going, something that lies deeper than a temporary discontent and the wish to try a new environment merely for the sake of a free trip on the railroads. ...   
 &nbsp;     
-> "The entire Negro population of the South seems to be deeply affected. The fact that many Negroes who went North without sufficient funds and without clothing to keep them warm have suffered severely and have died in large numbers, has not checked the tide leaving the South. It was expected that the Negroes would come back, sorry that they ever left, but comparatively few have returned. With the approach of warmer weather the number going North will increase."
+> The entire Negro population of the South seems to be deeply affected. The fact that many Negroes who went North without sufficient funds and without clothing to keep them warm have suffered severely and have died in large numbers, has not checked the tide leaving the South. It was expected that the Negroes would come back, sorry that they ever left, but comparatively few have returned. With the approach of warmer weather the number going North will increase.
 
 How great this migration will eventually prove depends upon a number of things. The entrance of the United States into the war will undoubtedly have some effect. When the war ends it is doubtful if the labor shortage in Europe will allow a very large migration to the United States for a generation or more. This will mean increased demand for colored laborers in the North. A writer in the New York *Evening Globe* predicts that 1917 will see 400,000 of the better class of Negro workers come to the North.
 
