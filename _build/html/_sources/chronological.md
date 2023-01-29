@@ -72,6 +72,7 @@
 |   1916 |       11 | 4       | [That Capital 'N'](https://www.dareyoufight.org/Volumes/11/04/that_capital_n.html)                                                        |
 |   1916 |       11 | 5       | [The Cherokee Fires: An N.A.A.C.P. Investigation](https://www.dareyoufight.org/Volumes/11/05/cherokee_fires.html)                         |
 |   1916 |       11 | 6       | [Peonage](https://www.dareyoufight.org/Volumes/11/06/peonage.html)                                                                        |
+|   1916 |       12 | 2       | [Consolation](https://www.dareyoufight.org/Volumes/12/02/consolations.html)                                                               |
 |   1916 |       12 | 3S      | [The Waco Horror](https://www.dareyoufight.org/Volumes/12/03/waco_horror.html)                                                            |
 |   1916 |       12 | 4       | [Ireland](https://www.dareyoufight.org/Volumes/12/04/ireland.html)                                                                        |
 |   1916 |       12 | 4       | [The Drama Among Black Folk](https://www.dareyoufight.org/Volumes/12/03/drama_among_black_folk.html)                                      |
@@ -84,6 +85,7 @@
 |   1916 |       12 | 6       | [Migration](https://www.dareyoufight.org/Volumes/12/06/migration.html)                                                                    |
 |   1916 |       13 | 1       | [Mr. Hughes](https://www.dareyoufight.org/Volumes/13/01/mr_hughes.html)                                                                   |
 |   1916 |       13 | 1       | [Presidential Candidates](https://www.dareyoufight.org/Volumes/13/01/presidential_candidates.html)                                        |
+|   1916 |       13 | 2       | [Muddle](https://www.dareyoufight.org/Volumes/13/02/muddle.html)                                                                          |
 |   1916 |       13 | 2       | ['Refinement and Love'](https://www.dareyoufight.org/Volumes/13/02/refinement_and_love.html)                                              |
 |   1917 |       13 | 5       | [The Attempted Lynching of Lube Martin: An N.A.A.C.P. Investigation](https://www.dareyoufight.org/Volumes/13/05/attempted_lynching.html)  |
 |   1917 |       13 | 6       | [The Perpetual Dilemma](https://www.dareyoufight.org/Volumes/13/06/perpetual_dilemma.html)                                                |

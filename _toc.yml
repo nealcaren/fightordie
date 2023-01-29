@@ -101,7 +101,7 @@ chapters:
     - file: Volumes/09/01/worldwar.md
     - file: Volumes/12/05/battle_of_eruope.md
     - file: Volumes/13/06/perpetual_dilemma.md
-    - file: Volumes/14/02/resolutions.md
+    - file: Volumes/14/02/resolutions.md  
     - file: Volumes/14/02/officers.md
     - file: Volumes/14/02/we_should_worry.md
     - file: Volumes/14/03/justice.md
@@ -169,6 +169,7 @@ chapters:
     - file: Volumes/10/01/the_republicans.md
     - file: Volumes/13/01/mr_hughes.md
     - file: Volumes/13/01/presidential_candidates.md
+    - file: Volumes/13/02/muddle.md
     - file: Volumes/15/01/oath_of_the_negro_voter.md
     - file: Volumes/21/02/unreal_campaign.md
     - file: Volumes/22/01/drive.md
@@ -326,6 +327,7 @@ chapters:
     - file: Volumes/02/02/starvation_and_prejudice.md
     - file: Volumes/07/04/work_for_black_folk.md
     - file: Volumes/11/02/booker_t_washington.md
+    - file: Volumes/12/02/consolations.md
     - file: Volumes/12/03/open_letter.md
     - file: Volumes/12/05/coloured_audience.md
     - file: Volumes/18/03/reconstruction.md
