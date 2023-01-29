@@ -48,6 +48,10 @@
   color: #111;
 }
 
+nav.bd-links {
+  font-size: 1rem;
+}
+
 .nav #site-navigation {
   font-size: 1rem;
 }
