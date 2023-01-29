@@ -48,8 +48,9 @@
   color: #111;
 }
 
-.toctree-l2, .toctree-l1 {
+.toctree-l2, .toctree-l1, .toctree-l3 {
   font-size: 1rem;
+  padding: .1rem 1.5rem;
 }
 
 
