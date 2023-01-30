@@ -27,11 +27,11 @@ We beg to remain, Sir,<br>
 &nbsp; &nbsp;&nbsp;Very respectfully yours, 
 
 <ul style="list-style: none;">
-<li> National Association for the Advancement of Colored People.
-<li> (Signed) J. E. Spingarn, Chairman of the Board of Directors.
-<li> (Signed) Oswald Garrison Villard, Treasurer
-<li> (Signed) W. E. Burghardt Du Bois, Director of Publications and Research.
-<li> (Signed) A. H. Grimké, President, District of Columbia Branch. 
+<li> <span class="small-caps">National Association for the Advancement of Colored People</span>.
+<li> (Signed) J. E. <span class="small-caps">Spingarn</span>, Chairman of the Board of Directors.
+<li> (Signed) Oswald Garrison <span class="small-caps">Villard</span>, Treasurer
+<li> (Signed) W. E. Burghardt <span class="small-caps">Du Bois</span>, Director of Publications and Research.
+<li> (Signed) A. H. <span class="small-caps">Grimké</span>, President, District of Columbia Branch. 
 </ul>
 
 ______________

@@ -122,6 +122,7 @@
 |   1919 |       17 | 3       | [Jim Crow](https://www.dareyoufight.org/Volumes/17/03/jim_crow.html)                                                                      |
 |   1919 |       17 | 4       | [Africa](https://www.dareyoufight.org/Volumes/17/04/africa.html)                                                                          |
 |   1919 |       17 | 4       | [Reconstruction and Africa](https://www.dareyoufight.org/Volumes/17/04/reconstruction_and_africa.html)                                    |
+|   1919 |       17 | 6       | [For What](https://www.dareyoufight.org/Volumes/17/06/for_what.html)                                                                      |
 |   1919 |       18 | 1       | [Returning Soldiers](https://www.dareyoufight.org/Volumes/18/01/returning_soldiers.html)                                                  |
 |   1919 |       18 | 1       | [My Mission](https://www.dareyoufight.org/Volumes/18/01/my_mission.html)                                                                  |
 |   1919 |       18 | 2       | [Egypt and India](https://www.dareyoufight.org/Volumes/18/02/egypt_and_india.html)                                                        |
