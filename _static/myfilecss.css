@@ -42,10 +42,11 @@
   color: #111;
 }
 
-aside p {
+p .sidebar {
   font-size: 1rem;
   padding: .1rem 1.5rem;
 }
+
 .form-control {
   font-family: "et-book", "Palatino", "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
   background-color: #fffff8;
