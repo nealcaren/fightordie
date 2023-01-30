@@ -42,9 +42,19 @@
   color: #111;
 }
 
-p .sidebar {
+aside  {
   font-size: 1rem;
-  padding: .1rem 1.5rem;
+  line-height: 1.1rem;
+}
+
+aside  p {
+  font-size: 1rem;
+  line-height: 1.1rem;
+}
+
+.sidebar p {
+  font-size: 1rem;
+  line-height: 1.1rem;
 }
 
 .form-control {
