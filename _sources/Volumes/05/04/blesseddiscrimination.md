@@ -10,11 +10,11 @@ pages:   184-186
 # Blessed Discrimination (1913)
 
 A good friend sends us this word:
-> As an optimist of The Crisis persuasion, I find myself more or less frequently engaged in arguments on the eternal race question. Here is an argument I am often called upon to meet: "Jim Crow" laws make us save money; discrimination makes us appreciate and patronize our own; segregation gives our business men a chance; separate schools give our girls and boys something to work for. Possibly there are many doubtful minds who would be benefited by a word from you on this subject through the columns of The Crisis.
+> As an optimist of <span style="font-variant:small-caps;">The Crisis</span> persuasion, I find myself more or less frequently engaged in arguments on the eternal race question. Here is an argument I am often called upon to meet: "Jim Crow" laws make us save money; discrimination makes us appreciate and patronize our own; segregation gives our business men a chance; separate schools give our girls and boys something to work for. Possibly there are many doubtful minds who would be benefited by a word from you on this subject through the columns of <span style="font-variant:small-caps;">The Crisis</span>.
 
 There is no doubt that colored people travel less than they otherwise would, on account of " Jim Crow" cars, and thus have this money to spend otherwise.
 
-There is no doubt that thousands of Negro business enterprises have been built up on account of discrimination against colored folks in drug stores, grocery stores, insurance societies and daily papers. In a sense The Crisis is capitalized race prejudice.
+There is no doubt that thousands of Negro business enterprises have been built up on account of discrimination against colored folks in drug stores, grocery stores, insurance societies and daily papers. In a sense <span style="font-variant:small-caps;">The Crisis</span> is capitalized race prejudice.
 
 There is not the slightest doubt but that separate school systems, by giving colored children their own teachers and a sense of racial pride, are enabled to keep more colored children in school and take them through longer courses than outworn handwork or decadent trades mixed systems. The 100,000 Negroes of Baltimore have 600 pupils in the The result is that our business men are separate high school; New York, with a larger colored population, has less than 200 in its mixed high schools.
 
