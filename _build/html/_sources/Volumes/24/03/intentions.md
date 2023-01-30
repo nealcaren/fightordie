@@ -97,7 +97,7 @@ Of all the Republican Senators only eleven deserve our support, so far as we are
 
 The fight against lynching is just begun. This is no time for a hint of discouragement or hesitation. American Negroes have had little experience in winning group fights. Usually they have lost and consequently their enemies depend on seeing them fly after the first defeat. This time, they are going to be disappointed. The time to fight is not when you are victorious but when you are repulsed. The time to gird yourself for putting down lynching is when the Dyer Bill is defeated by thugs, and not when politicians are making gay promises. This is going to be a long fight and it is going to be a costly fight, but we are going to win; and the reason that we must win is because lynching and mob violence has got to go or civilization in the United States cannot survive. As Senator New has written us:
 
- > The effort to suppress lynching will be like that to suppress slavery and to accomplish every other great result that has bee. undertaken in this country since the establishment of the Republic—a matter of long delays, repeated failures and ultimate success.
+ > The effort to suppress lynching will be like that to suppress slavery and to accomplish every other great result that has been undertaken in this country since the establishment of the Republic—a matter of long delays, repeated failures and ultimate success.
 
  And Senator Reed, of Pennsylvania, adds:
 

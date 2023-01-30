@@ -25,7 +25,7 @@ A second economic cause was the cutting off of immigration from Europe to the No
 
  > A representative of this department has made an investigation in regard thereto, but a report has not been printed for general distribution. It may be stated, however, that most of the help imported from the South has been employed by railroad companies, packing houses, foundries, factories, automobile plants, in the northern States as far west as Nebraska. At the present time the U. S. Employment Service is not co-operating in the direction of Negro help to the north."
 
-The third reason has been outbreaks of mob. violence in northern and southwestern Georgia and in western South Carolina.
+The third reason has been outbreaks of mob violence in northern and southwestern Georgia and in western South Carolina.
 
 These have been the three immediate causes, but back of them is, undoubtedly, the general dissatisfaction with the conditions in the South. Individuals have given us the following reasons for migration from certain points:
 

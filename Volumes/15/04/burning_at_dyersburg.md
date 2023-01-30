@@ -107,7 +107,7 @@ The Memphis, Tenn., *News-Scimitar* says:
 
 > Not a single cry for mercy was ever uttered by Scott. His fortitude struck even the mob workers as uncanny. No one offered a plea for the Negro after he confessed.     
 > &nbsp;    
-> Not a domino hid a face. Everyone was unmasked. Leaders were designated and assigned their parts. Long before the mob reached the city the public square was choked with humanity. All waited patiently. omen, with babies, made themselves comfortable.   
+> Not a domino hid a face. Everyone was unmasked. Leaders were designated and assigned their parts. Long before the mob reached the city the public square was choked with humanity. All waited patiently, omen, with babies, made themselves comfortable.   
 > &nbsp;    
 > At last the irons were hot.     
 > &nbsp;    

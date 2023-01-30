@@ -20,7 +20,7 @@ Five thousand Negroes fought in the Revolution; the result was the emancipation 
 
 God knows we have enough left to fight for, but any people who by loyalty and patriotism have gained what we have in four wars ought surely to have sense enough to give that same loyalty and patriotism a chance to win in the fifth.
 
-And. we are winning right now. Since this war began we have won:
+And we are winning right now. Since this war began we have won:
 
 <ul style="list-style-type:none;">
  <li>Recognition of our citizenship in the draft;

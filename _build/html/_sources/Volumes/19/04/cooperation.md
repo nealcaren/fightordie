@@ -19,7 +19,7 @@ Why, now, do beginners hesitate to make this last provision? Because having stir
 
 Hesitate, brother, hesitate, **right there**! Remember that with the present chain grocery store and trust system, your individual grocery has a small chance to succeed, because the Trust can and will undersell you.
 
-But with the true coöperative principle, your clientele is nailed down. Your shareholders are pledged by their own interests to trade with you, and to trade often and much. The more they spend the more they make. Your business is no guesswork. You know just how much to buy. If the chain store cuts prices below cost, your people will buy of you at the higher price, because they know that the low price is a temporary trick for which they themselves will eventually pay. Whatever happens, you **cannot** fail as long as your shareholders are true, and they will be true as long as. they share in the profits according to their purchases. 
+But with the true coöperative principle, your clientele is nailed down. Your shareholders are pledged by their own interests to trade with you, and to trade often and much. The more they spend the more they make. Your business is no guesswork. You know just how much to buy. If the chain store cuts prices below cost, your people will buy of you at the higher price, because they know that the low price is a temporary trick for which they themselves will eventually pay. Whatever happens, you **cannot** fail as long as your shareholders are true, and they will be true as long as they share in the profits according to their purchases. 
 
 Don't be afraid. Try the whole coöperative program. Write us.
 

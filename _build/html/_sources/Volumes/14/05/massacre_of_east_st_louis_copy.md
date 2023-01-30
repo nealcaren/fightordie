@@ -276,7 +276,7 @@ Chickens were of more value than Negro, human lives. Mabel Randall, who is twent
 
 The statement of Josephine Jones is interesting. She says:
 
-> Mrs. Jones made this statement to me, that the mob. formed both times at the City Hall, May, 1917, and July 2, 1917. She also said that Mayor Mollman stood in the alley leaning on the bannister of the Justice of Peace Building when a white man ran down the alley chasing two colored men, whom  he afterwards shot and threw into the creek. When he returned to the street, Mayor Mollman was still standing there and he said, "Fred, I shot two n******. How do you like that?" Mayor Mollman said nothing and made no protest.
+> Mrs. Jones made this statement to me, that the mob formed both times at the City Hall, May, 1917, and July 2, 1917. She also said that Mayor Mollman stood in the alley leaning on the bannister of the Justice of Peace Building when a white man ran down the alley chasing two colored men, whom  he afterwards shot and threw into the creek. When he returned to the street, Mayor Mollman was still standing there and he said, "Fred, I shot two n******. How do you like that?" Mayor Mollman said nothing and made no protest.
 
 Rena Cook returned from a day's outing  to horror and death. Her statement follows:
 
@@ -332,7 +332,7 @@ Miss Gruening told of a girl who lost her arm. Here is the girl's own account. H
 
 And here is the testimony of Narcis Gurley (see page 236), who had lived for seventy-one years to come at last to this. She says that she has lived in East St. Louis for thirty years and had earned her living by keeping roomers and as a laundress. She says:
 
-> Between five and six o'clock we noticed a house nearby burning and heard the men outside. We were afraid to come outside and remained in the house. which caught fire from the other house. When the house began falling in we ran out, terribly burned, and one white man said, "Let those old women alone." We were allowed to escape. Lost everything, clothing and household goods.
+> Between five and six o'clock we noticed a house nearby burning and heard the men outside. We were afraid to come outside and remained in the house, which caught fire from the other house. When the house began falling in we ran out, terribly burned, and one white man said, "Let those old women alone." We were allowed to escape. Lost everything, clothing and household goods.
 
 The picture shows how terribly her arms were burned.
 
@@ -354,7 +354,7 @@ Testimony of Lulu Robinson, age 33 years, has lived in East St. Louis for eight 
 
 Testimony of Frank Smith, resident of East St. Louis for about twenty-five years and employed for the last fifteen years at the Acme Cement Company:
 
-> His house was set afire by the: mob, and they waited outside to shoot him. when he should emerge from the house. He waited till the last possible moment and was frightfully burned.     
+> His house was set afire by the: mob, and they waited outside to shoot him when he should emerge from the house. He waited till the last possible moment and was frightfully burned.     
 > &nbsp;  
 > Family consists of a sister and brother who lived at 2136 Gayety, East St. Louis. Lost everything and will probably have to stay in hospital for six or seven weeks longer.
 

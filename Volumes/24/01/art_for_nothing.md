@@ -18,7 +18,7 @@ Mrs. Meta Warrick Fuller, the sculptor, recently did a beautiful piece of work f
 
 Only in the case of our musicians have we been willing to pay anything like a return for their services, and even in their case we continually complain if they do not give their services for "charity". We have a few men who are trying to entertain and instruct the public through the writing of books and papers and by carefully prepared lectures. Few buy their books---they borrow them. The men are severely criticized by many because they ask pay for lectures. 
 
-All this is wrong; it is miserably wrong; it is warning away exactly the type of men who would do more  than any others to establish the right of the black race to universal recognition. If work is honorable, then pay is honorable. and what we should be afraid of is not overpaying the artist; it is underpaying and starving and killing him. 
+All this is wrong; it is miserably wrong; it is warning away exactly the type of men who would do more  than any others to establish the right of the black race to universal recognition. If work is honorable, then pay is honorable, and what we should be afraid of is not overpaying the artist; it is underpaying and starving and killing him. 
 
 ______________
 *Citation:* Du Bois, W.E.B. 1922. "Art for Nothing." *The Crisis*. 24(1):8&ndash;9.
