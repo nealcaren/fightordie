@@ -149,6 +149,7 @@ chapters:
     sections:
     - file: Volumes/01/05/white_primary.md
     - file: Volumes/10/01/fourteenth_amendment.md
+    - file: Volumes/19/02/votes.md
     - file: Volumes/30/02/disenfranchisement.md
     - file: Volumes/35/09/possiblity_of_democracy_i.md
     - file: Volumes/36/05/negro_citizen.md
@@ -337,6 +338,7 @@ chapters:
     - file: Volumes/12/05/coloured_audience.md
     - file: Volumes/18/03/reconstruction.md
     - file: Volumes/18/06/true_brownies.md
+    - file: Volumes/19/02/real_causes.md
     - file: Volumes/28/01/lunatic_or_a_traitor.md
     - file: Volumes/38/03/woofterism.md
     - file: Volumes/29/05/radicals_and_the_negro.md
@@ -380,7 +382,7 @@ chapters:
     - file: Volumes/18/05/riots.md
     - file: Volumes/18/06/chicago_and_its_eight_reasons.md
     - file: Volumes/18/06/riot_at_longview.md
-    - file: Volumes/19/02/real_causes.md
+    - file: Volumes/19/02/radicals.md
     - file: Volumes/33/02/shambles_of_south_carolina.md
     - file: Volumes/41/05/grand_jury_adjourns.md
   - file: Volumes/31/03/sweet_trial.md
