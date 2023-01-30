@@ -21,7 +21,7 @@ At half-past three in the afternoon of the day before Thanksgiving, Judge Frank 
 
 Seldom in any court has a more impartial, learned or complete charge to a jury been heard. As was evidenced throughout the case, Judge Murphy was exerting every effort at his command to assure to the eleven defendants a completely fair trial. His charge to the jury reached its dramatic climax when in a voice filled with emotion and sincerity, he declared:
 
- > Dr. Sweet has the same right under the  law to purchase and occupy the dwelling house on Garland Avenue as any other  man. Under the law, a man's house is his castle. It is his castle, whether he is white or black, and no man has the right to assail or invade it. The Negro is now by the Constitution of the United States given full citizenship with the white man and all the rights and privileges of citizenship attend him wherever he goes."
+ > Dr. Sweet has the same right under the  law to purchase and occupy the dwelling house on Garland Avenue as any other  man. Under the law, a man's house is his castle. It is his castle, whether he is white or black, and no man has the right to assail or invade it. The Negro is now by the Constitution of the United States given full citizenship with the white man and all the rights and privileges of citizenship attend him wherever he goes.
 
 ```{margin}
 ![](../../../Images/sweet_jurors.jpeg)
