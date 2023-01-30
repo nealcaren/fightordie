@@ -40,11 +40,11 @@ The American Federation of Labor, as representing the trade unions in America, h
 
 Our task, therefore, as it seems to <span style="font-variant:small-caps;">The Crisis</span>, is clear: We have to convince the working classes of the world that black men, brown men, and yellow men are human beings and suffer the same discrimination that white workers suffer. We have in addition to this to espouse the cause of the white workers, only being careful that we do not in this way allow them to jeopardize our cause. We must, for instance, have bread. If our white fellow workers drive us out of decent jobs, we are compelled to accept indecent wages even at the price of "scabbing". It is a hard choice, but whose is the blame? Finally despite public prejudice and clamour, we should examine with open mind in literature, debate and in real life the great programs of social reform that are day by day being put forward.
 
-This was the true thought and meaning back of our May editorial. We have an immediate program for Negro emancipation laid down and thought out by the N.A.A.C.P. It is foolish for us to give up this practical program for mirage in Africa or by seeking to join a revolution which we do not at present understand. On the other hand, as Mr. McKay says, it would be just as foolish for us to sneer or even seem to sneer at the blood-entwined writhing of hundreds of millions of our whiter human brothers.
-
 ```{margin}
 The following year, McKay would [report to the Communist International](https://www.marxists.org/history/usa/groups/abb/1922/1100-mckay-writtenreport.pdf), "The petit-bourgeoisie, which whom the race is honeycombed, find expression chiefly in the 'National Association for the Advancement of Colored People,' in which a group of bourgeois gentlemen (colored and white) and gentlemen who, while lacking the bourgeois gold, carry around the bourgeois psychology, dominate a large but not compactly organized or effectively functioning body of workers and professionals."
 ```
+
+This was the true thought and meaning back of our May editorial. We have an immediate program for Negro emancipation laid down and thought out by the N.A.A.C.P. It is foolish for us to give up this practical program for mirage in Africa or by seeking to join a revolution which we do not at present understand. On the other hand, as Mr. McKay says, it would be just as foolish for us to sneer or even seem to sneer at the blood-entwined writhing of hundreds of millions of our whiter human brothers.
 
 _________________
 *Citation:* Du Bois, W.E.B. 1921. "The Negro and Radical Thought." *The Crisis*. 22(3):102&ndash;104.
