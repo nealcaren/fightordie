@@ -13,7 +13,6 @@ chapters:
 - file: Sections/segregation
   sections:
   - file: Volumes/01/01/Segregation.md
-  - file: Volumes/01/05/segregation_again.md
   - file: Volumes/03/05/homes.md
   - file: Volumes/05/04/blesseddiscrimination.md
   - file: Volumes/06/05/open_letter.md
@@ -148,6 +147,7 @@ chapters:
   sections:
   - file: Sections/disenfranchisement
     sections:
+    - file: Volumes/01/05/white_primary.md
     - file: Volumes/10/01/fourteenth_amendment.md
     - file: Volumes/30/02/disenfranchisement.md
     - file: Volumes/35/09/possiblity_of_democracy_i.md
