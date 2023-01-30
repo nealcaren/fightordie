@@ -137,7 +137,9 @@
 |   1919 |       18 | 6       | [The Riot at Longview, Texas](https://www.dareyoufight.org/Volumes/18/06/riot_at_longview.html)                                           |
 |   1919 |       19 | 1       | [Social Equality](https://www.dareyoufight.org/Volumes/19/01/social_equality.html)                                                        |
 |   1919 |       19 | 1       | [A Statement](https://www.dareyoufight.org/Volumes/19/01/statement.html)                                                                  |
+|   1919 |       19 | 2       | [Votes](https://www.dareyoufight.org/Volumes/19/02/votes.html)                                                                            |
 |   1919 |       19 | 2       | [The Real Causes of Two Race Riots](https://www.dareyoufight.org/Volumes/19/02/real_causes.html)                                          |
+|   1919 |       19 | 2       | [Radicals](https://www.dareyoufight.org/Volumes/19/02/radicals.html)                                                                      |
 |   1920 |       19 | 3       | [American Legion, Again](https://www.dareyoufight.org/Volumes/19/03/american_legion_again.html)                                           |
 |   1920 |       19 | 3       | [The Macon Telegraph](https://www.dareyoufight.org/Volumes/19/03/macon_telegraph.html)                                                    |
 |   1920 |       19 | 3       | [Race Pride](https://www.dareyoufight.org/Volumes/19/03/race_pride.html)                                                                  |
