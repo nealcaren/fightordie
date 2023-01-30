@@ -39,7 +39,7 @@ Let us compare now, the report of the Inter-racial Commission and statements fro
 <tbody>
   <tr>
     <td style="vertical-align:text-top">&emsp;Mr. and Mrs. Helton, unhurt, climbed out through the broken windshield of their car and went immediately to Miss Derricotte's car... Mr. Helton stated that he hurried someone off to call for an ambulance.</td>
-    <td style="vertical-align:text-top">&emsp;About this time a white man dressed in overalls came up and asked me what I was going to do about his car. asked what was the matter with his car. He told me it was his car we had hit. I told him I would have to wait until we had received medical attention. I did not see him any more. <span style="float:right;">&emsp;~Davis.</span></td>
+    <td style="vertical-align:text-top">&emsp;About this time a white man dressed in overalls came up and asked me what I was going to do about his car. I asked what was the matter with his car. He told me it was his car we had hit. I told him I would have to wait until we had received medical attention. I did not see him any more. <span style="float:right;">&emsp;~Davis.</span></td>
   </tr>
   <tr>
     <td style="vertical-align:text-top">&emsp;No ambulance came.</td>

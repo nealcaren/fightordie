@@ -27,7 +27,7 @@ But the money. The way the funds rained through my fingers was quite unbelievabl
 
 Then it was as it always is in things of this sort. Suddenly a great new spirit seemed born. The Thing that you have exorcized becomes a living, mighty, moving spirit. It sweeps on and you hang trembling to its skirts. Nothing can stop it. It is. It will. Wonderfully, irresistably the dream comes true. You feel no exaltation, you feel no personal merit. It is not yours. It is its own. You have simply called it, and it comes.
 
-I shall never forget that last night. Six thousand human faces looked down from the shifting blaze of lights and on the field the shimmering streams of colors came and went, silently, miraculously save for the great cloud of music. that hovered over them and enveloped them. It was no mere picture: it was reality.
+I shall never forget that last night. Six thousand human faces looked down from the shifting blaze of lights and on the field the shimmering streams of colors came and went, silently, miraculously save for the great cloud of music that hovered over them and enveloped them. It was no mere picture: it was reality.
 
 The Herald cried, "People of Washington arise, and go. The Play is done." And yet the play was not done. Some things are quite too beautiful ever to be finished. So I walked home alone and
 the joys of God.

@@ -21,11 +21,11 @@ A detailed account of the causes for which the parade was held is given as follo
 > &nbsp;  
 > We march because by the grace of God and the force of truth the dangerous, hampering walls of prejudice and inhuman injustices must fall.   
 > &nbsp;   
-> We march because we want to make impossible a repetition of Waco, Memphis. and East St. Louis by arousing the conscience of the country, and to bring the murderers of our brothers, sisters and innocent children to justice.      
+> We march because we want to make impossible a repetition of Waco, Memphis, and East St. Louis by arousing the conscience of the country, and to bring the murderers of our brothers, sisters and innocent children to justice.      
 > &nbsp;   
 > We march because we deem it a crime to be silent in the face of such barbaric acts.   
 > &nbsp;  
-> We march because we are thoroughly opposed to Jim Crow cars, etc., segregation. discrimination, disfranchisement, lynching, and the host of evils that are forced on us. It is time that the spirit of Christ should be manifested in the making and execution of laws.    
+> We march because we are thoroughly opposed to Jim Crow cars, etc., segregation, discrimination, disfranchisement, lynching, and the host of evils that are forced on us. It is time that the spirit of Christ should be manifested in the making and execution of laws.    
 > &nbsp;  
 > We march because we want our children to live in a better land and enjoy fairer conditions than have fallen to our lot.    
 > &nbsp;    
