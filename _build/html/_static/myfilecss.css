@@ -78,8 +78,10 @@ h1 {
 }
 
 
-.center {
+.title {
   text-align: center;
+  font-size: 2.5rem;
+  font-variant: small-caps;
 }
 
 
