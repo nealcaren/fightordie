@@ -67,7 +67,19 @@
 
 h1, h2, h3 {
     font-family: et-book, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
-    text-align: left;
+}
+
+h2, h3 {
+  text-align: left;
+}
+
+h1 {
+  padding-bottom: 0.5rem
+}
+
+
+h1 .title {
+  text-align: center;
 }
 
 
