@@ -27,7 +27,7 @@ The situation in the smaller towns and isolated rural communities where the Negr
 
 > We have been informed that you have been telling Negroes to register, explaining to them how to become citizens and how to assert their rights.    
 > &nbsp;    
-> If you know the history of reconstruction days following the Civil War, you know how the "scalawags" of the North and the black republicans of the South did much as you are doing to instill into the Negro the idea of social equality. You will remember that these things forced the loyal citizens of the South to form clans of determined men to maintain white supremacy and to safeguard our women and children. 
+> If you know the history of reconstruction days following the Civil War, you know how the "scalawags" of the North and the black republicans of the South did much as you are doing to instill into the Negro the idea of social equality. You will remember that these things forced the loyal citizens of the South to form clans of determined men to maintain white supremacy and to safeguard our women and children.     
 > &nbsp;    
 > And now you know that history repeats itself and that he who resorts to your kind of a game is handling edged tools. We shall always enjoy WHITE SUPREMACY in this country and he who interferes must face the consequences.    
 > &nbsp;    
@@ -60,7 +60,13 @@ Two brothers of Live Oak, Suwanee County, who also were good citizens, prosperou
 
 Nor are these isolated cases but rather are they typical of what took place in many parts of the state. The West Palm Beach *Post* of October 30 carried an article with the significant statement, "Sheriff R. C. Baker will have several deputy sheriffs at the polls to arrest black violators of the election laws as fast as they appear and ask for ballots." The inference is that only Negroes violated the election laws while it is generally known that white Democratic voters openly carried memoranda into the booths, which is directly contrary to law. Only Negro Republicans were arrested for this violation. 
 
+![](../../../Images/florida_1.jpg)    
+***The Sixth Ward polling-tent, Jacksonville, Florida, colored side. Line during entire day.***
+
 In Jacksonville, where Negroes form slightly more than half of the population of 90,000, the situation was different. In spite of parades of the Ku Klux Klan, vicious newspaper propaganda designed to intimidate Negro voters, and the announcement two days before election that 4,000 warrants had been sworn out in blank form for the arrest of Negroes, the colored vote turned out *en masse*. Most of the colored people live in the second, sixth, seventh and eighth wards. An active campaign was carried on after the passage of the suffrage amendment which resulted in the registration of more colored than white women in all four of the wards. Frantic stories threatening domination by "Negro washerwomen and cooks" failed to bring out the white women to register. To the number of women was added the large registration of men, white and colored, in the spring of 1920. Yet, in the second, seventh and eighth wards the total vote did not equal the registration of colored women alone, while in the sixth ward the total number of votes cast was only a few more than the number of women, white and colored, registered. Every possible effort was made to hamper the voting of Negroes. The polling places were arranged with four entrances---one each for white women, white men, colored women and colored men. No delay was caused to white voters. More than four thousand colored men and women, whose names, addresses. and registration certificate numbers are in the hands of responsible colored citizens of Jacksonville, stood in line from 8:00 A.M., the hour of opening, to 5:40 P.M., the hour of closing the polls, and were not allowed to vote. 
+
+![](../../../Images/florida_2.jpg)    
+***Same polling-tent, white side. 75 in line at 12:40 P.M.*** *There were 1569 colored women alone registered in this ward and yet only 2633 votes in all were reported.*
 
 Unless the problem of the ballot is solved, either through reduction of Southern representation, a force bill or by some other means, and the entire problem of race relations solved through clear thinking and just dealing, our race riots and similar disturbances are just beginning. This may sound pessimistic and as though the problem were viewed only from the standpoint of an alarmist. That is not the case. It is based upon the innermost feelings and thoughts of twelve million Americans who seek to be free. 
 
