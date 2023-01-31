@@ -1,7 +1,8 @@
 # Dare You Fight: W.E.B. Du Bois in The Crisis
 
 
-This project is an ongoing effort to make available the writings by W.E.B. Du Bois that appeared in <span style="font-variant:small-caps;">The Crisis</span>, the official journal of the NAACP. Du Bois founded the magazine in 1910 and regularly contributed editorials and articles until 1934.
+
+W.E.B. Du Bois founded <span style="font-variant:small-caps;">The Crisis</span>, the official journal of the NAACP, in 1910 and regularly contributed editorials and articles until 1934. This project is an ongoing effort to make available his writings from this period.
 
 
 ![](/Images/crisis_office.jpeg)  
