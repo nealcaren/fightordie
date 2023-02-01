@@ -100,7 +100,7 @@ The lynching images are by Waco photographer [Fred Gildersleeve](https://en.wiki
 Our investigator continues:
 > The stenographer told me that there was a pause of a full minute. He said the people crowded around him and he knew what was coming, so he slipped out of the door back of the Sheriff, with his records; and Sheriff Fleming slipped out also.   <p> Fleming claims that all he was called upon to do in the way of protecting the boy was to get him to court.   
 > &nbsp;    
-"A big fellow in the back of the court room yelled, 'Get the N****!' Barney Goldberg, one of the deputy sheriffs, told me that he did not know that Fleming had dropped orders to let them get the Negro, and pulled his revolver. Afterwards he got his friends to swear to an affidavit that he was not present. Fleming said he had sworn in fifty deputies. I asked him where they were. He asked, 'Would you want to protect the n&#11834;?' The judge made no effort to stop the mob, although he had firearms in his desk.
+"A big fellow in the back of the court room yelled, 'Get the N&#11834;!' Barney Goldberg, one of the deputy sheriffs, told me that he did not know that Fleming had dropped orders to let them get the Negro, and pulled his revolver. Afterwards he got his friends to swear to an affidavit that he was not present. Fleming said he had sworn in fifty deputies. I asked him where they were. He asked, 'Would you want to protect the n&#11834;?' The judge made no effort to stop the mob, although he had firearms in his desk.
 
 ## 4. The Burning.
 

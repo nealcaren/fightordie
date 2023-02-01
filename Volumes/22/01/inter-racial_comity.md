@@ -15,7 +15,7 @@ The Inter-racial movement sprang from the fight we have made. If it accomplishes
 
 This has been the history of all such movements in the past. If the present movement succeeds (and God grant it may) it will be because the N.A.A.C.P. neither slumbers nor sleeps but keeps to its God-appointed task of making every black slave in the United States dissatisfied with his slavery, and every white slave-driver conscious of his guilt.
 
-Meantime, may we not advise our Inter-racial friends,—do not fill your committees with "pussy footers" like Robert Moton or "white-folks' N*****" like Isaac Fisher. Get more real black men who dare to look you in the eye and speak the truth and who refuse to fawn and lie. An ounce of truth outweighs a ton of impudence. Do not seek to mislead or lull the Negro with ancient platitudes and generalities. Let your "black mam­my" sleep and show your "best friendship" by deeds and not words. Do something. Do not dodge and duck. Face the fundamental problems: the Vote, the "Jim-Crow" car, Peonage and Mob-law.
+Meantime, may we not advise our Inter-racial friends,—do not fill your committees with "pussy footers" like Robert Moton or "white-folks' N&#11834;" like Isaac Fisher. Get more real black men who dare to look you in the eye and speak the truth and who refuse to fawn and lie. An ounce of truth outweighs a ton of impudence. Do not seek to mislead or lull the Negro with ancient platitudes and generalities. Let your "black mam­my" sleep and show your "best friendship" by deeds and not words. Do something. Do not dodge and duck. Face the fundamental problems: the Vote, the "Jim-Crow" car, Peonage and Mob-law.
 
 ______________
 *Citation:* Du Bois, W.E.B. 1922. "Inter-Racial Comity." *The Crisis*. 22(1):6&ndash;7.
