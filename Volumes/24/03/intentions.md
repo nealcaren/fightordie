@@ -37,7 +37,7 @@ Never before in the history of the United States has the Negro population worked
 > &nbsp;
 > Now, I may call attention to the fact that whatever legislation or whatever else is done for the colored people of this country ought certainly to be done and done promptly, but I insist that none of it ought to be done through or by reason of the National Association for the Advancement of Colored People or any of its sympathizers.
 > &nbsp;
-> I therefore think that it should be the policy of the leaders of the party like you to absolutely ignore and give the back of your hand to such men as Nelson, James Weldon Johnson, W. E. B. DuBois, Robert L. Vann of Pittsburgh, and others of their ilk. There should be no quarters; and while treating every colored man with fairness and looking well to the interest of our group, these political bolshevists should be annihilated as the basest of ingrates.
+> I therefore think that it should be the policy of the leaders of the party like you to absolutely ignore and give the back of your hand to such men as Nelson, James Weldon Johnson, W. E. B. Du Bois, Robert L. Vann of Pittsburgh, and others of their ilk. There should be no quarters; and while treating every colored man with fairness and looking well to the interest of our group, these political bolshevists should be annihilated as the basest of ingrates.
 > &nbsp;
 >  (Signed) Perry W. Howard
 
@@ -68,7 +68,7 @@ Those Republicans who defeated the Dyer Bill, encouraged by the silence and inac
 
 It is doubtful if free government in Western European civilization has descended to such depths as it did in this filibuster of the Democratic party. They did not use argument; they simply, as one journal said, lynched the anti-lynching bill. They brought to the floor of the United States Senate exactly the same methods which the lynchers of Georgia, Louisiana and Texas used at home— brute force. And the Republican party was *particeps criminis* with them. Influential leaders among them  wanted the Democrats to filibuster; they prayed they would filibuster; they asked them to filibuster and agreed to help them. They argued:
 
-"What can the 'n******' do but vote for us. Can they vote for the Democrats after this?"
+"What can the 'n&#11834;s' do but vote for us. Can they vote for the Democrats after this?"
 
 No, we cannot.
 

@@ -37,11 +37,11 @@ One morning Mr. Dendy received a letter, anonymous and bearing at the top a crud
 
 ![](/Images/dendy.jpg)
 
-"You look good to us," it read.  "If you build a house down there this is what you get you better build your house up where the rest of the dam n*****s live. You getting too dam rich to be a n****r. That dam manish boy of yours will die soon.
+"You look good to us," it read.  "If you build a house down there this is what you get you better build your house up where the rest of the dam n&#11834;s live. You getting too dam rich to be a n&#11834;r. That dam manish boy of yours will die soon.
 
 "We are only giving you a warning."
 
-"We want to see a n****r stay in his place."
+"We want to see a n&#11834;r stay in his place."
 
 The "manish boy" was Norris. Mr. Dendy went quietly on with his building, watchfully alert. Public sentiment swayed to his side and nothing happened. Only, from that time Norris became an object of persecution. The crowd of boot-legging, petty politicians who were gradually coming to control the town were out to "get" him. The very presence of this self-reliant boy, well-dressed, educated and intelligent, was an affront to the inferior whites. Twice he was framed on a charge of receiving stolen goods. Without evidence he was convicted in the local court and acquitted on appeal. He had a good lawyer, the best, it was said, in the county. Things had come to a pretty pass when a n\*\*\*\*r could hire him a lawyer and win his case in the white man's court. "He's too smart," they grumbled. "His daddy got too much money for a n\*\*\*\*r." They arrested him on other charges and with each acquittal (he never was convicted) their rancor grew.
 

@@ -1,5 +1,5 @@
 <!--
-title:   Dr. DuBois Resigns
+title:   Dr. Du Bois Resigns
 author:  National Association for the Advancement of Colored People
 journal: The Crisis
 year:    1934
@@ -7,13 +7,13 @@ volume:  41
 issue:   8
 pages:   245-246
 -->
-# Dr. DuBois Resigns (1934)
+# Dr. Du Bois Resigns (1934)
 
  **The full text of his letter and the resolution of the N.A.A.C.P. Board accepting his resignation**
 
-The Board of Directors of the National Association for the Advancement of Colored people at the June meeting took no action upon the resignation of Dr. DuBois, tendered as of June 11, but named a committee to confer with Dr. DuBois and see if some satisfactory settlement of differences could not be arranged.
+The Board of Directors of the National Association for the Advancement of Colored people at the June meeting took no action upon the resignation of Dr. Du Bois, tendered as of June 11, but named a committee to confer with Dr. Du Bois and see if some satisfactory settlement of differences could not be arranged.
 
-Under date of June 26, however, Dr. DuBois addressed the following letter to the Board and released it to the press as of July 1, eight days before it came officially to the notice of the Board at its regular meeting July 9:
+Under date of June 26, however, Dr. Du Bois addressed the following letter to the Board and released it to the press as of July 1, eight days before it came officially to the notice of the Board at its regular meeting July 9:
 
 > In deference to your desire to postpone action on my resignation of June 11, I have allowed my nominal connection with <span style="font-variant:small-caps;">The Crisis</span> to extend to July 1, and have meantime entered into communication with the Chairman of the Board, and with your Committee on Reconciliation.  
 > &nbsp;  
@@ -42,7 +42,7 @@ Under date of June 26, however, Dr. DuBois addressed the following letter to the
 
  At its meeting July 9, the Board adopted the following resolution:
 
-RESOLVED, That it is with the deepest regret that we hereby accept the resignation of Dr. W. E. B. DuBois as editor of the Crisis, as a member of the Board of Directors, as Director of Publications and Research, as a member of the Board of the Crisis Publishing Company, and as a member of the Spingarn Medal Award Committee; and we desire at the same time to record our sense of the loss which his resignation will bring not only to the members of this Board but to every loyal member of the Association.
+RESOLVED, That it is with the deepest regret that we hereby accept the resignation of Dr. W. E. B. Du Bois as editor of the Crisis, as a member of the Board of Directors, as Director of Publications and Research, as a member of the Board of the Crisis Publishing Company, and as a member of the Spingarn Medal Award Committee; and we desire at the same time to record our sense of the loss which his resignation will bring not only to the members of this Board but to every loyal member of the Association.
 
 Dr. Du Bois joined the Association in 1910 as Director of Publications and Research. The Association was then a few months old. He was already a distinguished teacher, scholar and man of letters, Professor of Sociology in Atlanta University, and author of "Souls of Black Folk" and other works which had deeply moved the white world as well as the black. The ideas which he had propounded for a decade were the same ideas that had brought the Association into being.
 
@@ -51,4 +51,4 @@ He founded the <span style="font-variant:small-caps;">Crisis</span> without a ce
 The Board has not always seen eye to eye with him in regard to various matters, and cannot subscribe to some of his criticism of the Association and its officials. But such differences in the past have in no way interfered with his usefulness, but rather the contrary. For he had been selected because of his independence of judgment, his fearlessness in expressing his convictions, and his acute and wide-reaching intelligence. A mere yes-man could not have attracted the attention of the world, could not even have stimulated the Board itself to further study of various important problems. We shall be the poorer for his loss, in intellectual stimulus, and in searching analysis of the vital problems of the American Negro; no one in the Association can fill his place with the same intellectual grasp. We therefore offer him our sincere thanks for the services he has rendered, and we wish him all happiness in all that he may now undertake.
 
 _________________
-*Citation:* National Association for the Advancement of Colored People. 1934. "Dr. DuBois Resigns." *The Crisis*. 41(8):245&ndash;246.
+*Citation:* National Association for the Advancement of Colored People. 1934. "Dr. Du Bois Resigns." *The Crisis*. 41(8):245&ndash;246.

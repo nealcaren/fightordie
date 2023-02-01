@@ -18,7 +18,7 @@ As the next best thing, Dr. Spingarn said: "If colored men cannot be admitted to
 
 <span class="small-caps">The Crisis</span> advocated and strongly advocated this alternative. Moreover, the <span class="small-caps">Crisis</span> wonders how on earth the wild and dapper advocates of "Jim Crow" regiments can somersault into opponents of the training of Negro officers in separate camps? 
 
-Do they want "Jim Crow" regiments? No, but they want black soldiers and they accept separate regiments rather than forego military training. Do Dr. Spingarn and Dr. DuBois and thousands of level-headed colored folk want a "Jim Crow" training camp? No, but they want black officers and they advocate a separate camp rather than see Negro regiments officered solely by white men. 
+Do they want "Jim Crow" regiments? No, but they want black soldiers and they accept separate regiments rather than forego military training. Do Dr. Spingarn and Dr. Du Bois and thousands of level-headed colored folk want a "Jim Crow" training camp? No, but they want black officers and they advocate a separate camp rather than see Negro regiments officered solely by white men. 
 
 How easily some of us are beguiled. We are assured that the General Staff will not refuse Negro troops. It may not, but there is every evidence that it intended to in the plan drafted previous to the declaration of war which did not become law. We are told to "wait" for our camp until after all white officers are trained, and some colored papers actually rejoice at this, unable to grasp the clear fact that once enough whites are trained for all regiments, no Negroes need apply. 
 

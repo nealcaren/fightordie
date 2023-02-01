@@ -20,7 +20,7 @@ May we note a few evidences? Most of the circular matter sent out from the Atlan
 > &nbsp;  
 > State officials, members of the Bar Association, and other prominent people are distributing the pamphlet widely and are offering medals in each congressional district for the best essays on the subject by high school students".
 
-In Kentucky the Inter-racial movement has ceased to be simply a method of stopping agitation by encouraging "white folk's n*****" and seems to be trying really to attack certain pressing problems of race contact; North Carolina is resolutely facing the problem of Negro education and has established a class A college. Roland Hayes has been heard by mixed audiences in Richmond, Louisville and Atlanta. A colored girl elected to represent the South in a national student organization was not displaced when the fact of her race was known.
+In Kentucky the Inter-racial movement has ceased to be simply a method of stopping agitation by encouraging "white folk's n&#11834;" and seems to be trying really to attack certain pressing problems of race contact; North Carolina is resolutely facing the problem of Negro education and has established a class A college. Roland Hayes has been heard by mixed audiences in Richmond, Louisville and Atlanta. A colored girl elected to represent the South in a national student organization was not displaced when the fact of her race was known.
 
 But all those symptoms are of but passing significance except as they indicate these fundamental changes:
 

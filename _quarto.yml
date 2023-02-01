@@ -26,6 +26,7 @@ book:
 format:
   html:
     theme: cosmo
+    favicon: 
   pdf:
     documentclass: scrreport
   epub:

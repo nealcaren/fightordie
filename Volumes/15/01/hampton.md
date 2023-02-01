@@ -11,7 +11,7 @@ pages:   10-12
 
 The death of Hollis Burke Frissell, principal of Hampton Institute, brings that institution and its work prominently before the public. It is, therefore, peculiarly fitting that the following correspondence should be made public: 
 
-> Dear Dr. DuBois:     
+> Dear Dr. Du Bois:     
 > &nbsp;    
 > In preparation for the Fiftieth Anniversary of Hampton Institute, efforts are being made to collect the necessary material for the history of the school. It is a matter of history that for many years the colored people were opposed to the type of education offered them at Hampton and were consequently also opposed to the school itself. For the sake of learning the facts in regard to this matter I am writing to you and to a number of other prominent colored men to ask for statements in regard to the facts in the case.    
 > &nbsp;     

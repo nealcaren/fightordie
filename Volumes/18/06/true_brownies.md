@@ -18,7 +18,7 @@ Think of this from twelve little years! And yet, can you blame the child? To the
 
 This was inevitable in our rôle as newspaper—but what effect must it have on our children? To educate them in human hatred is more disastrous to them than to the hated; to seek to raise them in ignorance of their racial identity and peculiar situation is inadvisable—impossible.
 
-There seems but one alternative: We shall publish hereafter not ONE Children's Number a year, but TWELVE! Messrs. DuBois and Dill will issue in November, in co-operation with <span style="font-variant:small-caps;">The Crisis</span>, but as an entirely separate publication, a little magazine for children—for all children, but especially for ours, "the Children of the Sun."
+There seems but one alternative: We shall publish hereafter not ONE Children's Number a year, but TWELVE! Messrs. Du Bois and Dill will issue in November, in co-operation with <span style="font-variant:small-caps;">The Crisis</span>, but as an entirely separate publication, a little magazine for children—for all children, but especially for ours, "the Children of the Sun."
 
 It will be called, naturally, *The Brownies' Book*, and as we have advertised, "It will be a thing of Joy and Beauty, dealing in Happiness, Laughter and Emulation, and designed especially for Kiddies from Six to Sixteen.
 
