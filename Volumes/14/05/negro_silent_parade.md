@@ -35,14 +35,13 @@ A detailed account of the causes for which the parade was held is given as follo
 
 Although the paraders marched by in silence their sentiments were proclaimed by many mottoes, a complete list of which follows:
 
-> Memphis and Waco—Centers of American Culture?"   
+> Memphis and Waco—Centers of American Culture?
+&nbsp;     
+> Alabama needs 75,000 Ballots to elect 10 Congressmen. Minnesota needs 300,000. How do they do it?
+&nbsp;     
+> 350,000 voters in the South have as much political power as the 1,500,000 voters of New York State. How do they do it?
 > &nbsp;     
-> Alabama needs 75,000 Ballots to elect 10 Congressmen. Minnesota needs 300,000. How do they do it?"     
-> &nbsp;     
-> 350,000 voters in the South have as much political power as the 1,500,000 voters of New York State. How do they do it?"     
-> &nbsp;     
-> Each white man in the South by disfranchising the black working man casts from 3 to 13 times as many ballots as You."      
-> &nbsp;     
+> Each white man in the South by disfranchising the black working man casts from 3 to 13 times as many ballots as You.    
 > Georgia and New Jersey have the same vote for President. Georgia casts 80,000 votes; New Jersey casts 430,000."      
 > &nbsp;     
 > Make America safe for Democracy."      
