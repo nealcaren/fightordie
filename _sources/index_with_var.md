@@ -21,7 +21,7 @@ As *Dare You Fight* grows, it should prove to be an indispensable resource for r
 
 &nbsp;    
 
-*Image: W. E. B. Dubois and staff in the Crisis magazine office.* [Source](https://digitalcollections.nypl.org/items/8e0981a2-4aea-a10a-e040-e00a18063089)
+*[Image](https://digitalcollections.nypl.org/items/8e0981a2-4aea-a10a-e040-e00a18063089): W. E. B. Du Bois and staff in <span style="font-variant:small-caps;">The Crisis</span> magazine office.*
 
 Table of Contents
 
