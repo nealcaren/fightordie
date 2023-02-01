@@ -1,5 +1,5 @@
 <!--
-title:   The Drive
+title:   Negro Art
 author:  Du Bois, W.E.B.
 journal: The Crisis
 year:    1922
@@ -7,7 +7,7 @@ volume:  22
 issue:   2
 pages:   55-56
 -->
-# The Drive (1922)
+# Negro Art (1922)
 
 Negro art is today plowing a difficult row, chiefly because we shrink at the portrayal of 
 the truth about ourselves. We are so used to seeing the truth distorted to our despite, that whenever we are portrayed on canvas, in story or on the stage, as simply human with human frailties, we rebel. We want everything that is said about us to tell of the best and highest and noblest in us. We insist that our Art and Propaganda be one. 
@@ -29,4 +29,4 @@ No more complete misunderstanding of this play or of the aim of Art could well b
 Nonsense. We stand today secure enough in our accomplishment and self-confidence to lend the whole stern human truth about ourselves to the transforming hand and seeing eye of the Artist, white and black, and Sheldon, Torrence and O'Neill are our great benefactors---forerunners of artists who will yet arise in Ethiopia of the Outstretched Arm.
 
 ______________
-*Citation:* Du Bois, W.E.B. 1922. "The Drive." *The Crisis*. 22(2):55&ndash;56.
+*Citation:* Du Bois, W.E.B. 1922. "Negro Art." *The Crisis*. 22(2):55&ndash;56.

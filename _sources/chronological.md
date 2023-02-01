@@ -169,7 +169,7 @@
 |   1922 |       22 | 1       | [Anti-Lynching Legislation](https://www.dareyoufight.org/Volumes/22/01/anti-lynching_legislation.html)                                    |
 |   1922 |       22 | 1       | [The Drive](https://www.dareyoufight.org/Volumes/22/01/drive.html)                                                                        |
 |   1922 |       22 | 1       | [Inter-Racial Comity](https://www.dareyoufight.org/Volumes/22/01/inter-racial_comity.html)                                                |
-|   1922 |       22 | 2       | [The Drive](https://www.dareyoufight.org/Volumes/22/02/negro_art.html)                                                                    |
+|   1922 |       22 | 2       | [Negro Art](https://www.dareyoufight.org/Volumes/22/02/negro_art.html)                                                                    |
 |   1922 |       24 | 1       | [Slavery](https://www.dareyoufight.org/Volumes/24/01/slavery.html)                                                                        |
 |   1922 |       24 | 1       | [Publicity](https://www.dareyoufight.org/Volumes/24/01/publicity.html)                                                                    |
 |   1922 |       24 | 1       | [Art for Nothing](https://www.dareyoufight.org/Volumes/24/01/art_for_nothing.html)                                                        |
