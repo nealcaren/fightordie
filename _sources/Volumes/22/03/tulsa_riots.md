@@ -1,5 +1,5 @@
 <!--
-title:   The Negro and Radical Thought
+title:   Tulsa Riots
 author:  National-Association for the Advancement of Colored People
 journal: The Crisis
 year:    1921
@@ -7,7 +7,7 @@ volume:  22
 issue:   3
 pages:   115-116
 -->
-# The Negro and Radical Thought (1921)
+# Tulsa Riots (1921)
 
 Within six hours of the time, on June 1, when the New York *Evening Post* called up the National Office on the telephone to ask whether anything had been heard of race trouble in Tulsa, Okla., a representative was on the way to the battle-scarred city to investigate for the Association. Meanwhile reports continued to come in which showed that one of the most serious race riots in the country's history was in progress, lasting until June 2. The newspapers reported that practically the entire colored residence section of Tulsa was in flames, that shooting was going on and that motor cars and airplanes were being used by white people in the battle. 
 
@@ -41,4 +41,4 @@ Meanwhile telegrams had been sent to Oklahoma branches telling them that a repre
 At the time of writing, the refugees from Oklahoma are being cared for, and the Association is ready to publish the reports of its investigator as soon as they arrive.
 
 _________________
-*Citation:* National-Association for the Advancement of Colored People. 1921. "The Negro and Radical Thought." *The Crisis*. 22(3):115&ndash;116.
+*Citation:* National-Association for the Advancement of Colored People. 1921. "Tulsa Riots." *The Crisis*. 22(3):115&ndash;116.

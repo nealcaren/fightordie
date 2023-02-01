@@ -160,7 +160,7 @@
 |   1921 |       22 | 3       | [The Negro and Radical Thought](https://www.dareyoufight.org/Volumes/22/03/negro_and_radical_thought.html)                                |
 |   1921 |       22 | 3       | [Amity](https://www.dareyoufight.org/Volumes/22/03/amity.html)                                                                            |
 |   1921 |       22 | 3       | [Libelous Film](https://www.dareyoufight.org/Volumes/22/03/libelous_film.html)                                                            |
-|   1921 |       22 | 3       | [The Negro and Radical Thought](https://www.dareyoufight.org/Volumes/22/03/tulsa_riots.html)                                              |
+|   1921 |       22 | 3       | [Tulsa Riots](https://www.dareyoufight.org/Volumes/22/03/tulsa_riots.html)                                                                |
 |   1921 |       22 | 4       | [The Class Struggle](https://www.dareyoufight.org/Volumes/22/04/class_struggle.html)                                                      |
 |   1921 |       22 | 6       | [Tulsa](https://www.dareyoufight.org/Volumes/22/06/tulsa.html)                                                                            |
 |   1921 |       22 | 6       | [Socialism and the Negro](https://www.dareyoufight.org/Volumes/22/06/socialism_and_the_negro.html)                                        |
@@ -268,7 +268,7 @@
 |   1933 |       40 | 10      | [Pan-Africa and New Racial Philosophy](https://www.dareyoufight.org/Volumes/40/11/panafrica_and_new_racial_philosophy.html)               |
 |   1933 |       40 | 10      | [Youth and Age at Amenia](https://www.dareyoufight.org/Volumes/40/10/youth_and_age.html)                                                  |
 |   1933 |       40 | 10      | [The Church and Religion](https://www.dareyoufight.org/Volumes/40/10/church_and_religion.html)                                            |
-|   1933 |       40 | 12      | [Too Rich to be a N****r](https://www.dareyoufight.org/Volumes/40/12/too_rich.html)                                                       |
+|   1933 |       40 | 12      | [Too Rich to be a N&#11834;r](https://www.dareyoufight.org/Volumes/40/12/too_rich.html)                                                   |
 |   1933 |       40 | 12      | [The A.F. of L.](https://www.dareyoufight.org/Volumes/40/12/af_of_l.html)                                                                 |
 |   1933 |       40 | 12      | [A Matter of Manners](https://www.dareyoufight.org/Volumes/40/12/matter_of_manners.html)                                                  |
 |   1933 |       40 | 12      | [Peace](https://www.dareyoufight.org/Volumes/40/12/peace.html)                                                                            |

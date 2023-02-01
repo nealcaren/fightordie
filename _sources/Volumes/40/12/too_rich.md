@@ -1,5 +1,5 @@
 <!--
-title:   Too Rich to be a N****r
+title:   Too Rich to be a N&#11834;r
 author:  Du Bois, W.E.B.
 journal: The Crisis
 year:    1933
@@ -7,7 +7,7 @@ volume:  40
 issue:   12
 pages:   282-283
 -->
-# Too Rich to be a N****r (1933)
+# Too Rich to be a N&#11834;r (1933)
 
 Forty-odd years ago, when stalwart Young Dendy and slim Martha Duckett were married, their fortune consisted of youth, health and intelligence. They went to housekeeping with cheerful enthusiasm in a one-roomed cabin. Today they live in a spacious home; but the South has robbed them of their gay enthusiasm.
 
@@ -31,7 +31,7 @@ And so on. Three of the other Dendy children are now teaching in high schools. O
 
 Norris had inherited his mother's high spirits without her sagacity, his father's intelligence without his caution. Brighter than most, he could "outsmart" the white boys. Unwillingly they recognized this and their resentment grew and smoldered. Sullenly they saw him go away to school, indignant, even though many of them had left school by their own preference, or through sheer boredom. It was inappropriate that he should go to college while they stayed at home. He went first to State College in South Carolina then to Virginia Union University. Then he came home.
 
-In 1924 Mr. and Mrs, Dendy decided to build a new house, a comfortable home, large enough for the children, now grown, to return to for family reunions. They selected the location and bought a lot, not on one of the straggling, ill-kept lanes of the colored section, but in a good block on the outskirts of the town, on a well lighted street where improvements were available. There were white homes just a block away. They chose the place from no false pride or snobbishness, but from a desire for the simple comfort of sanitation. When the framework was up, showing the size of the structure, the house became the chief topic of conversation at the dinner tables of the town. Discussion went on furiously. The "best people" approved, openly expressed their approval; but from the "cracker" class came violent indignation —*jealous* indignation, because the Dendys' new house was a two-story house, as good as a white man's; better than many of theirs.
+In 1924 Mr. and Mrs, Dendy decided to build a new house, a comfortable home, large enough for the children, now grown, to return to for family reunions. They selected the location and bought a lot, not on one of the straggling, ill-kept lanes of the colored section, but in a good block on the outskirts of the town, on a well lighted street where improvements were available. There were white homes just a block away. They chose the place from no false pride or snobbishness, but from a desire for the simple comfort of sanitation. When the framework was up, showing the size of the structure, the house became the chief topic of conversation at the dinner tables of the town. Discussion went on furiously. The "best people" approved, openly expressed their approval; but from the "cracker" class came violent indignation---*jealous* indignation, because the Dendys' new house was a two-story house, as good as a white man's; better than many of theirs.
 
 One morning Mr. Dendy received a letter, anonymous and bearing at the top a crudely drawn skull and crossbones.
 
@@ -58,4 +58,4 @@ Clinton—white Clinton—has had its revenge: Mr. and Mrs. Dendy, in their spac
 "What was the use?" ponders Mrs. Dendy as she mechanically rocks the baby. Everywhere oppressed Negroes echo, "What *is* the use?"
 
 _________________
-*Citation:* Du Bois, W.E.B. 1933. "Too Rich to be a N****r." *The Crisis*. 40(12):282&ndash;283.
+*Citation:* Du Bois, W.E.B. 1933. "Too Rich to be a N&#11834;r." *The Crisis*. 40(12):282&ndash;283.
