@@ -12,15 +12,7 @@ pages:   101
 
 A convention of colored and white people took place in Washington, D.C., in May, which deserves thought. The programs carried these words: 
 
-> Half a century ago in America slavery was abolished.      
-> &nbsp;     
-> Now there has arisen need for another great effort.     
-> &nbsp;     
->Correction of the present wrong requires no army, for the field of action is the hearts of our citizens. The instrument to be used is kindness; the ammunition, understanding of all by all. The actor in this engagement for right is every inhabitant of these United States.     
-> &nbsp;     
->The great work we have to do and for which this convention is called is the establishment of amity between the white and colored people of our land.     
-> &nbsp;     
-> When we have put our own house in order, then we may be trusted to carry the message of universal peace to all mankind.
+> Half a century ago in America slavery was abolished.     <p> Now there has arisen need for another great effort.    <p>Correction of the present wrong requires no army, for the field of action is the hearts of our citizens. The instrument to be used is kindness; the ammunition, understanding of all by all. The actor in this engagement for right is every inhabitant of these United States.    <p>The great work we have to do and for which this convention is called is the establishment of amity between the white and colored people of our land.    <p> When we have put our own house in order, then we may be trusted to carry the message of universal peace to all mankind.
 
 There were white and colored people present and their speeches were not all "problem" but carried poetry and music. 
 
