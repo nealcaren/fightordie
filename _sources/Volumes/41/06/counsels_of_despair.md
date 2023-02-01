@@ -39,7 +39,7 @@ The difficulty with this program is that it is physically and psychologically im
 
 ## The Conservation of Races
 
-The Second Occasional Papers published by The American Negro Academy was "The Conservation of Races" by W. E. B. DuBois, and was published in 1897. On page 11, I read with interest this bit:
+The Second Occasional Papers published by The American Negro Academy was "The Conservation of Races" by W. E. B. Du Bois, and was published in 1897. On page 11, I read with interest this bit:
 
 > Here, then, is the dilemma, and it is a puzzling one, I admit. No Negro who has given earnest thought to the situation of his people in America has failed, at some time in life, to find himself at these cross-roads; has failed to ask himself at some time: What, after all, am I? Am I an American or am I a Negro? Can I be both? Or is it my duty to cease to be a Negro as soon as possible and be an American? If I strive as a Negro, am I not perpetuating the very cleft that threatens and separates Black and White America? Is not my only possible practical aim the subduction of all that is Negro in me to the American? Does my black blood place upon me any more obligation to assert my nationality than German, or Irish or Italian blood would?    
 > &nbsp;    

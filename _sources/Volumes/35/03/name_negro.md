@@ -17,7 +17,7 @@ pages:   96-97
 > &nbsp;    
 > The most piercing thing that hurts me in this February <span style="font-variant:small-caps;"> Crisis</span>, which forced me to write, was the notice that called the natives of Africa, "Negroes", instead of calling them "Africans", or "natives".    
 > &nbsp;    
-> The word, "Negro", or "n*****", is a white man's word to make us feel inferior. I hope to be a worker for my race, that is why I wrote this letter. I hope that by the time I become a man, that this word, "Negro", will be abolished.    
+> The word, "Negro", or "n&#11834;", is a white man's word to make us feel inferior. I hope to be a worker for my race, that is why I wrote this letter. I hope that by the time I become a man, that this word, "Negro", will be abolished.    
 > &nbsp;    
 > Roland A. Barton.
 

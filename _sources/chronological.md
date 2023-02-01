@@ -157,7 +157,7 @@
 |   1920 |       21 | 2       | [The Unreal Campaign](https://www.dareyoufight.org/Volumes/21/02/unreal_campaign.html)                                                    |
 |   1920 |       21 | 3       | [Election Day in Florida](https://www.dareyoufight.org/Volumes/21/03/election_day.html)                                                   |
 |   1921 |       22 | 3       | [The Negro and Radical Thought](https://www.dareyoufight.org/Volumes/22/03/negro_and_radical_thought.html)                                |
-|   1921 |       22 | 3       | [The Negro and Radical Thought](https://www.dareyoufight.org/Volumes/22/03/amity.html)                                                    |
+|   1921 |       22 | 3       | [Amity](https://www.dareyoufight.org/Volumes/22/03/amity.html)                                                                            |
 |   1921 |       22 | 3       | [Libelous Film](https://www.dareyoufight.org/Volumes/22/03/libelous_film.html)                                                            |
 |   1921 |       22 | 3       | [The Negro and Radical Thought](https://www.dareyoufight.org/Volumes/22/03/tulsa_riots.html)                                              |
 |   1921 |       22 | 4       | [The Class Struggle](https://www.dareyoufight.org/Volumes/22/04/class_struggle.html)                                                      |
@@ -291,4 +291,4 @@
 |   1934 |       41 | 5       | [Violence](https://www.dareyoufight.org/Volumes/41/05/violence.html)                                                                      |
 |   1934 |       41 | 5       | [Grand Jury Adjourns: Laurens County Fails to Indict Dendy Lynchers](https://www.dareyoufight.org/Volumes/41/05/grand_jury_adjourns.html) |
 |   1934 |       41 | 6       | [Counsels of Despair](https://www.dareyoufight.org/Volumes/41/06/counsels_of_despair.html)                                                |
-|   1934 |       41 | 8       | [Dr. DuBois Resigns](https://www.dareyoufight.org/Volumes/41/08/dr_dubois_resigns.html)                                                   |
+|   1934 |       41 | 8       | [Dr. Du Bois Resigns](https://www.dareyoufight.org/Volumes/41/08/dr_dubois_resigns.html)                                                  |

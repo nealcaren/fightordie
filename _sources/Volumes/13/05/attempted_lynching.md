@@ -18,7 +18,7 @@ Lube Martin was immediately arrested and assigned a white attorney, J. P. Holt. 
 
 On the morning of January 10, one thousand of the mountain whites came into Murray to see Martin condemned to death and then to lynch him. They crowded into the new $75,000 court house and heard Judge Charles H. Bush say that the trial had been postponed and that the prisoner had been taken to Hopkinsville. Immediately the mob went wild.
 
-"Give us the n***** or we'll hang the judge," they said.
+"Give us the n&#11834; or we'll hang the judge," they said.
 
 ![](../../../Images/stanley.png)
 ***Governor Stanley of Kentucky***

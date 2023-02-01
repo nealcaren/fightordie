@@ -149,7 +149,7 @@ Du Bois is in the second row, second from the right, marching next to James Weld
 > &nbsp;     
 > We have 20,000 slaughter and packing house operators."        
 > &nbsp;     
-> No land that loves to lynch 'n******' can lead the hosts of Almighty God."     
+> No land that loves to lynch 'n&#11834;s' can lead the hosts of Almighty God."     
 > &nbsp;     
 > Put the spirit of Christ in the making and execution of laws."     
 > &nbsp;     
