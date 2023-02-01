@@ -32,14 +32,10 @@ Never before in the history of the United States has the Negro population worked
 > I received your letter of Nov. 22 upon my return from the West where I have been almost the entire time since the close of the campaign.
 > &nbsp;
 "I confess to you that I have blood in my eyes for the National Association for the Advancement of Colored People and others who have used them with sinister designs to defeat some of the best friends that we have in particular and the Nation in general.
-> &nbsp;
-> The purpose of this letter is to call attention of you and other outstanding statesmen to the fact that the National Association for the Advancement of Colored People is purely a Negro Democratic organization and has always been found on the side of the Democrats in the final analysis. That organization was used by Bob Nelson and others, and you owe your defeat to no other agency. I corrected the evil in Wilmington and if I could have gone into the Dover neighborhood on the following Monday I could have saved the day, but I had an engagement to fill for Senator Frelinghuysen and you know it was impossible for me to do so.
-> &nbsp;
-> Now, I may call attention to the fact that whatever legislation or whatever else is done for the colored people of this country ought certainly to be done and done promptly, but I insist that none of it ought to be done through or by reason of the National Association for the Advancement of Colored People or any of its sympathizers.
-> &nbsp;
-> I therefore think that it should be the policy of the leaders of the party like you to absolutely ignore and give the back of your hand to such men as Nelson, James Weldon Johnson, W. E. B. Du Bois, Robert L. Vann of Pittsburgh, and others of their ilk. There should be no quarters; and while treating every colored man with fairness and looking well to the interest of our group, these political bolshevists should be annihilated as the basest of ingrates.
-> &nbsp;
->  (Signed) Perry W. Howard
+<p> The purpose of this letter is to call attention of you and other outstanding statesmen to the fact that the National Association for the Advancement of Colored People is purely a Negro Democratic organization and has always been found on the side of the Democrats in the final analysis. That organization was used by Bob Nelson and others, and you owe your defeat to no other agency. I corrected the evil in Wilmington and if I could have gone into the Dover neighborhood on the following Monday I could have saved the day, but I had an engagement to fill for Senator Frelinghuysen and you know it was impossible for me to do so.
+<p> Now, I may call attention to the fact that whatever legislation or whatever else is done for the colored people of this country ought certainly to be done and done promptly, but I insist that none of it ought to be done through or by reason of the National Association for the Advancement of Colored People or any of its sympathizers.
+<p> I therefore think that it should be the policy of the leaders of the party like you to absolutely ignore and give the back of your hand to such men as Nelson, James Weldon Johnson, W. E. B. Du Bois, Robert L. Vann of Pittsburgh, and others of their ilk. There should be no quarters; and while treating every colored man with fairness and looking well to the interest of our group, these political bolshevists should be annihilated as the basest of ingrates.
+<p>  (Signed) Perry W. Howard
 
 Mr. Howard stated that he was sending copies of this letter to Frelinghuysen, McCormick, Watson, Moses, Attorney General Daugherty and Chairman Adams. It is said that copies were also circulated among a number of other influential Republican Senators.
 

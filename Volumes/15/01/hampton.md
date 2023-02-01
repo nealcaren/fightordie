@@ -11,15 +11,7 @@ pages:   10-12
 
 The death of Hollis Burke Frissell, principal of Hampton Institute, brings that institution and its work prominently before the public. It is, therefore, peculiarly fitting that the following correspondence should be made public: 
 
-> Dear Dr. Du Bois:     
-> &nbsp;    
-> In preparation for the Fiftieth Anniversary of Hampton Institute, efforts are being made to collect the necessary material for the history of the school. It is a matter of history that for many years the colored people were opposed to the type of education offered them at Hampton and were consequently also opposed to the school itself. For the sake of learning the facts in regard to this matter I am writing to you and to a number of other prominent colored men to ask for statements in regard to the facts in the case.    
-> &nbsp;     
-> I shall be very grateful if you will send me a statement in regard to the attitude (with reasons) of the colored people who were opposed to industrial education during the early days of Hampton and who are still in some cases opposed to it.       
-> &nbsp;     
-> Will you kindly say in this connection whether you will object to the use of your name, if that is thought desirable? * * *        
-> &nbsp;     
-> (Miss) J. E. DAVIS. 
+> Dear Dr. Du Bois:    <p> In preparation for the Fiftieth Anniversary of Hampton Institute, efforts are being made to collect the necessary material for the history of the school. It is a matter of history that for many years the colored people were opposed to the type of education offered them at Hampton and were consequently also opposed to the school itself. For the sake of learning the facts in regard to this matter I am writing to you and to a number of other prominent colored men to ask for statements in regard to the facts in the case.   <p> I shall be very grateful if you will send me a statement in regard to the attitude (with reasons) of the colored people who were opposed to industrial education during the early days of Hampton and who are still in some cases opposed to it.      <p> Will you kindly say in this connection whether you will object to the use of your name, if that is thought desirable? * * *       <p> (Miss) J. E. DAVIS. 
 
 Dear Miss Davis: 
 

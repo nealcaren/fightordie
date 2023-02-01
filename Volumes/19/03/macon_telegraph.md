@@ -25,9 +25,7 @@ Boaz adds:
 > It seems likely that at a time when the European was still satisfied with rude stone tools, the African had invented or adopted the art of smelting iron.
 
 A volume in the *Home University Library* says: 
-> That Negro peoples were the beginners of civilization along the Ganges, the Euphrates, and the Nile, seems proven. Early Babylon was founded by a Negroid race.     
-> &nbsp;    
-> The Assyrians show a distinct Negroid strain, and early Egypt was predominately Negro. 
+> That Negro peoples were the beginners of civilization along the Ganges, the Euphrates, and the Nile, seems proven. Early Babylon was founded by a Negroid race.    <p> The Assyrians show a distinct Negroid strain, and early Egypt was predominately Negro. 
 
 Finally, we would welcome a monthly edited by R. R. Moton on the lines suggested by the Telegraph. But we opine that it would omit the semiannual report of lynchings, which Tuskegee sends out to the world.
 

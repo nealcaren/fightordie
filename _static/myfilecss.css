@@ -161,5 +161,18 @@ p .prev-next-title, p .prev-next-subtitle {
 
 
 .py-0 {
-  padding-left: 3em;
+  padding-left: 2em;
+}
+
+blockquote {
+  border-left: none;
+}
+
+blockquote div>p {
+  padding-right: 2em;
+  text-indent: 2rem;
+  padding-bottom: 0rem;
+  margin-bottom: 0rem;
+  font-size: 1.25rem;
+  line-height: 1.6rem;
 }

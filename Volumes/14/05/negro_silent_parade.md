@@ -11,27 +11,11 @@ pages:   241-244
 
 On the afternoon of Saturday July 28, a vast body of Negroes marched through the streets of New York in silent protest against the recent race riots and outrages. The *New York American* says:
 
-> In silent protest against the recent killing of Negroes in race riots in Waco, Memphis and East St. Louis, 15,000 Negroes marched here yesterday afternoon. The parade formed in Fifth avenue and marched from Fifty-seventh street to Madison Square.   
-> &nbsp;  
-> Placards carried by boy scouts, aged men and by women and children explained the purpose of the demonstration.
+> In silent protest against the recent killing of Negroes in race riots in Waco, Memphis and East St. Louis, 15,000 Negroes marched here yesterday afternoon. The parade formed in Fifth avenue and marched from Fifty-seventh street to Madison Square. <p> Placards carried by boy scouts, aged men and by women and children explained the purpose of the demonstration.
 
-A detailed account of the causes for which the parade was held is given as follows by the *New York Times*:     
+A detailed account of the causes for which the parade was held is given as follows by the *New York Times*:    
 
-> During the progress of the march circulars were distributed among the crowds telling of the purpose which brought the Negroes together. Under the caption, "Why Do We March?" the circular read, in part, as follows:    
-> &nbsp;  
-> We march because by the grace of God and the force of truth the dangerous, hampering walls of prejudice and inhuman injustices must fall.   
-> &nbsp;   
-> We march because we want to make impossible a repetition of Waco, Memphis, and East St. Louis by arousing the conscience of the country, and to bring the murderers of our brothers, sisters and innocent children to justice.      
-> &nbsp;   
-> We march because we deem it a crime to be silent in the face of such barbaric acts.   
-> &nbsp;  
-> We march because we are thoroughly opposed to Jim Crow cars, etc., segregation, discrimination, disfranchisement, lynching, and the host of evils that are forced on us. It is time that the spirit of Christ should be manifested in the making and execution of laws.    
-> &nbsp;  
-> We march because we want our children to live in a better land and enjoy fairer conditions than have fallen to our lot.    
-> &nbsp;    
-> We march in memory of our butchered dead, the massacre of honest toilers who were removing the reproach of laziness and thriftlessness hurled at the entire race. They died to prove our worthiness to live. We live in spite of death shadowing us and ours. We prosper in the face of the most unwarranted and illegal oppression.    
-> &nbsp;  
-> We march because the growing consciousness and solidarity of race, coupled with sorrow and discrimination, have made us one; a union that may never be dissolved in spite of shallow-brained agitators, scheming pundits and political tricksters who secure a fleeting popularity and uncertain financial support by promoting the disunion of a people who ought to consider themselves as one."   
+> During the progress of the march circulars were distributed among the crowds telling of the purpose which brought the Negroes together. Under the caption, "Why Do We March?" the circular read, in part, as follows: <p> We march because by the grace of God and the force of truth the dangerous, hampering walls of prejudice and inhuman injustices must fall.<p> We march because we want to make impossible a repetition of Waco, Memphis, and East St. Louis by arousing the conscience of the country, and to bring the murderers of our brothers, sisters and innocent children to justice. <p>  We march because we deem it a crime to be silent in the face of such barbaric acts. <p> We march because we are thoroughly opposed to Jim Crow cars, etc., segregation, discrimination, disfranchisement, lynching, and the host of evils that are forced on us. It is time that the spirit of Christ should be manifested in the making and execution of laws.<p> We march because we want our children to live in a better land and enjoy fairer conditions than have fallen to our lot. <p> We march in memory of our butchered dead, the massacre of honest toilers who were removing the reproach of laziness and thriftlessness hurled at the entire race. They died to prove our worthiness to live. We live in spite of death shadowing us and ours. We prosper in the face of the most unwarranted and illegal oppression.    <p> We march because the growing consciousness and solidarity of race, coupled with sorrow and discrimination, have made us one; a union that may never be dissolved in spite of shallow-brained agitators, scheming pundits and political tricksters who secure a fleeting popularity and uncertain financial support by promoting the disunion of a people who ought to consider themselves as one.
 
 Although the paraders marched by in silence their sentiments were proclaimed by many mottoes, a complete list of which follows:
 
@@ -115,8 +99,7 @@ Du Bois is in the second row, second from the right, marching next to James Weld
 
 The New York *World* says:
 
-> The Rev. Dr. H. C. Bishop was President of the parade. The Rev. Dr. Charles D. Martin was Secretary. The Rev. F. A. Cullen was Vice President. The first Deputy Marshal was J. Rosamond Johnson. Others were A. B. Cosey, C. H. Payne, formerly a member of Troop A, Ninth Cavalry; the Rev. E. W. Daniels, Allen Wood, James W. Johnson and John Nail. Jr.        
-<li style="text-indent: -1.5rem;">Rev. G. M. Plaskett and Dr. W. E. B. Du Bois were in the line of officers.
+> The Rev. Dr. H. C. Bishop was President of the parade. The Rev. Dr. Charles D. Martin was Secretary. The Rev. F. A. Cullen was Vice President. The first Deputy Marshal was J. Rosamond Johnson. Others were A. B. Cosey, C. H. Payne, formerly a member of Troop A, Ninth Cavalry; the Rev. E. W. Daniels, Allen Wood, James W. Johnson and John Nail. Jr. <p>Rev. G. M. Plaskett and Dr. W. E. B. Du Bois were in the line of officers.
 
 ______________
 *Citation:* National Association for the Advancement of Colored People. 1917. "The Negro Silent Parade." *The Crisis*. 14(5):241&ndash;244.

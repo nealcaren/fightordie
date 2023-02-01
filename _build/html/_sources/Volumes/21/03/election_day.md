@@ -25,15 +25,7 @@ That remark epitomizes the feeling. Phrased in better English it likewise expres
 
 The situation in the smaller towns and isolated rural communities where the Negro population is widely scattered is of a more serious nature. There the Klans can wreak their vengeance on any Negro who dares offend them by being too prosperous or being suspected of some crime, great or small, or by incurring the displeasure of any white man of the community. This vengeance extends to white men who offend some loyal member of a Klan or who dares show too great friendliness for Negroes---whether for selfish or other motives. It is not considered improper but just the contrary for a white man or boy to debauch or consort with a colored woman, but no white man can treat a Negro as an equal, As a case in point read a Klan warning sent to a prominent white lawyer of a Florida town who advised Negroes to qualify, register and vote in the recent election. It reads: 
 
-> We have been informed that you have been telling Negroes to register, explaining to them how to become citizens and how to assert their rights.    
-> &nbsp;    
-> If you know the history of reconstruction days following the Civil War, you know how the "scalawags" of the North and the black republicans of the South did much as you are doing to instill into the Negro the idea of social equality. You will remember that these things forced the loyal citizens of the South to form clans of determined men to maintain white supremacy and to safeguard our women and children.     
-> &nbsp;    
-> And now you know that history repeats itself and that he who resorts to your kind of a game is handling edged tools. We shall always enjoy WHITE SUPREMACY in this country and he who interferes must face the consequences.    
-> &nbsp;    
-> GRAND MASTER FLORIDA KU KLUCKS. 
-> &nbsp;    
-> Copy     
+> We have been informed that you have been telling Negroes to register, explaining to them how to become citizens and how to assert their rights.   <p> If you know the history of reconstruction days following the Civil War, you know how the "scalawags" of the North and the black republicans of the South did much as you are doing to instill into the Negro the idea of social equality. You will remember that these things forced the loyal citizens of the South to form clans of determined men to maintain white supremacy and to safeguard our women and children.    <p> And now you know that history repeats itself and that he who resorts to your kind of a game is handling edged tools. We shall always enjoy WHITE SUPREMACY in this country and he who interferes must face the consequences.   <p> GRAND MASTER FLORIDA KU KLUCKS.<p> Copy     
 > Local Ku Klucks     
 > Watch this man.     
 

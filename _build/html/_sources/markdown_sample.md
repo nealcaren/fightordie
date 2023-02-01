@@ -16,9 +16,7 @@ Hack to create the journal name in small caps: <span style="font-variant:small-c
 
 Here is an example of an extended quote:
 
-> Paragraph 1 with two spaces at the end    
-> &nbsp;  
-> Paragraph 2 with two spaces at the end
+> Paragraph 1 with two spaces at the end   <p> Paragraph 2 with two spaces at the end
 
 Ordered list:
 1. First item

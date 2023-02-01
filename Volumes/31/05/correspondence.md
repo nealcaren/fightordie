@@ -9,9 +9,7 @@ pages:   218
 -->
 # Correspondence (1926)
 
-> *Broken Bow, Nebraska.*  
-> &nbsp;
-> As president of a woman's club I am writing you for information in regard to your views on race assimilation, intermarriage of Negroes and whites. We have just completed a two weeks' study of your book "Souls of Black Folk" and are unable to arrive at a definite conclusion as to your attitude toward this question. I am asking you to please let me know your honest convictions along this line and greatly oblige,  
+> *Broken Bow, Nebraska.* <p> As president of a woman's club I am writing you for information in regard to your views on race assimilation, intermarriage of Negroes and whites. We have just completed a two weeks' study of your book "Souls of Black Folk" and are unable to arrive at a definite conclusion as to your attitude toward this question. I am asking you to please let me know your honest convictions along this line and greatly oblige,  
 >&nbsp;
 > Dr. Elizabeth Leonard
 

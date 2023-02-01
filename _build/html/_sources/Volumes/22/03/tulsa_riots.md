@@ -28,9 +28,7 @@ Meanwhile, the stories told by the refugees from the riot zone were sent out to 
 
 The national secretary then took further action. He sent the following telegram to President Warren G. Harding in Washington: 
 
-> The National Association for the Advancement of Colored People feels that an utterance from you at this time on the violence. and reign of terror at Tulsa, Okla., would have an inestimable effect not only upon that situation but upon the whole country.    
-> &nbsp;
-> <span class="small-caps">James Weldon Johnson</span>
+> The National Association for the Advancement of Colored People feels that an utterance from you at this time on the violence. and reign of terror at Tulsa, Okla., would have an inestimable effect not only upon that situation but upon the whole country.   <p> <span class="small-caps">James Weldon Johnson</span>
 
 President Harding replied through his secretary on June 7 as follows: 
 
@@ -38,9 +36,7 @@ Following the receipt of your telegram of June 2, the President, as you will hav
 
 Meanwhile telegrams had been sent to Oklahoma branches telling them that a representative of the National Office was on the way. The fearless temper of the men in the midst of the disturbance is well illustrated by the following telegram which the Boley, Okla., branch sent to the National Office in reply to its telegram. This telegram was received at the National Office on June 3: 
 
-> Telegram received. Representative will have all moral and financial support demanded. Oklahoma branches and friends loyal and fearless.      
-> &nbsp;
-> <span class="small-caps">C. F. Simmons</span>
+> Telegram received. Representative will have all moral and financial support demanded. Oklahoma branches and friends loyal and fearless.     <p> <span class="small-caps">C. F. Simmons</span>
 
 At the time of writing, the refugees from Oklahoma are being cared for, and the Association is ready to publish the reports of its investigator as soon as they arrive.
 

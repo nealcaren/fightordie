@@ -53,9 +53,7 @@ Since the lynchings, more than five hundred Negroes have left the immediate vici
 
 All of the facts outlined above, including the names of mob leaders and participants, were given in a memorandum presented by the investigator on July 10 to Governor Hugh M. Dorsey. Governor Dorsey received the information gladly and has promised to take action on the evidence submitted. In a message addressed to the Georgia legislature on July 3, 1918, Governor Dorsey denounced mob violence in strong terms, saying:
 
-> Mob violence should be suppressed, and by State authorities.     
-> &nbsp;    
-> If this is not done, it is very probable that Federal intervention will not be long delayed.
+> Mob violence should be suppressed, and by State authorities.    <p> If this is not done, it is very probable that Federal intervention will not be long delayed.
 
 ______________
 *Citation:* White, Walter F. 1918. "The Work of a Mob." *The Crisis*. 16(5):221&ndash;223.
