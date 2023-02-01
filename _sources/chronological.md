@@ -169,6 +169,7 @@
 |   1922 |       22 | 1       | [Anti-Lynching Legislation](https://www.dareyoufight.org/Volumes/22/01/anti-lynching_legislation.html)                                    |
 |   1922 |       22 | 1       | [The Drive](https://www.dareyoufight.org/Volumes/22/01/drive.html)                                                                        |
 |   1922 |       22 | 1       | [Inter-Racial Comity](https://www.dareyoufight.org/Volumes/22/01/inter-racial_comity.html)                                                |
+|   1922 |       22 | 2       | [The Drive](https://www.dareyoufight.org/Volumes/22/02/negro_art.html)                                                                    |
 |   1922 |       24 | 1       | [Slavery](https://www.dareyoufight.org/Volumes/24/01/slavery.html)                                                                        |
 |   1922 |       24 | 1       | [Publicity](https://www.dareyoufight.org/Volumes/24/01/publicity.html)                                                                    |
 |   1922 |       24 | 1       | [Art for Nothing](https://www.dareyoufight.org/Volumes/24/01/art_for_nothing.html)                                                        |
@@ -204,7 +205,10 @@
 |   1926 |       32 | 6       | [Criteria of Negro Art](https://www.dareyoufight.org/Volumes/32/06/criteria_of_negro_art.html)                                            |
 |   1926 |       33 | 1       | [Russia, 1926](https://www.dareyoufight.org/Volumes/33/01/russia_1926.html)                                                               |
 |   1926 |       33 | 2       | [The Shambles of South Carolina](https://www.dareyoufight.org/Volumes/33/02/shambles_of_south_carolina.html)                              |
+|   1927 |       33 | 3       | [League of Nations](https://www.dareyoufight.org/Volumes/33/03/league_of_nations.html)                                                    |
 |   1927 |       33 | 3       | [Our Methods](https://www.dareyoufight.org/Volumes/33/03/our_methods.html)                                                                |
+|   1927 |       33 | 3       | [Hayes](https://www.dareyoufight.org/Volumes/33/03/hayes.html)                                                                            |
+|   1927 |       33 | 3       | [Intermarriage](https://www.dareyoufight.org/Volumes/33/03/intermarriage.html)                                                            |
 |   1927 |       33 | 4       | [Lynching](https://www.dareyoufight.org/Volumes/33/04/lynching.html)                                                                      |
 |   1927 |       33 | 4       | [Judging Russia](https://www.dareyoufight.org/Volumes/33/04/judging_russia.html)                                                          |
 |   1927 |       34 | 1       | [Aiken](https://www.dareyoufight.org/Volumes/34/01/aiken.html)                                                                            |
