@@ -153,3 +153,8 @@ aside  p {
   font-size: 1rem;
   line-height: 1.1rem;
 }
+
+p .prev-next-title, p .prev-next-subtitle {
+  font-size: 1rem;
+  line-height: 1.1rem;
+}
