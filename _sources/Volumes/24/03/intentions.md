@@ -15,7 +15,7 @@ The Republicans did not try to pass the Dyer Bill. Local political pressure and 
 
 First of all, conceive the power of the black man in America when he learns the mere rudiments of using it.
 
-We made a great political party, with a few men who were sincerely our friends, but with a majority who were ashamed of us, who sought to ignore us or were too cowardly to defend us—we forced them up to the very threshhold of doing our will and they rescued themselves only by condoning the collapse of popular government. What a sight for Gods and men!
+We made a great political party, with a few men who were sincerely our friends, but with a majority who were ashamed of us, who sought to ignore us or were too cowardly to defend us---we forced them up to the very threshhold of doing our will and they rescued themselves only by condoning the collapse of popular government. What a sight for Gods and men!
 
 ## Loss
 
@@ -50,19 +50,19 @@ Once we hoped that an offer of our support would induce the Democratic party
 - (a) to curb the Bourbon South;
 - (b) to work for the human uplift of the black and lowly.
 
-We thought Wilson wanted to, when he wrote to the late Bishop Walters promising us "Justice and not mere grudging justice." After election he called the Bishop to him. "Er— Bishop, what is this I hear about some letter I wrote you during the campaign? I don't seem to recollect its terms."
+We thought Wilson wanted to, when he wrote to the late Bishop Walters promising us "Justice and not mere grudging justice." After election he called the Bishop to him. "Er---Bishop, what is this I hear about some letter I wrote you during the campaign? I don't seem to recollect its terms."
 
-"I have it right here—right here," answered the Bishop, proudly.
+"I have it right here---right here," answered the Bishop, proudly.
 
- "Yes—yes!" hummed the great war President as he read it and carefully tucked it away in his pocket.
+ "Yes---yes!" hummed the great war President as he read it and carefully tucked it away in his pocket.
 
 The Bishop never saw the letter again.
 
 Characteristic. In that body of death, the National Democratic party, based as it is on the murdering, lynching South, there is no shadow of hope for the voter, black or white, who seeks justice, liberty and uplift.
 
-Those Republicans who defeated the Dyer Bill, encouraged by the silence and inaction of the President, knew and counted on this. If they had made a corrupt bargain with Underwood, Harrison, Heflin and Caraway—those rotten borough rump politicians masked by the Ku Klux Klan—if they had deliberately made a bargain with them to defeat this just measure by methods of which Turkey would have been ashamed, the result would have been exactly as it has been.
+Those Republicans who defeated the Dyer Bill, encouraged by the silence and inaction of the President, knew and counted on this. If they had made a corrupt bargain with Underwood, Harrison, Heflin and Caraway---those rotten borough rump politicians masked by the Ku Klux Klan---if they had deliberately made a bargain with them to defeat this just measure by methods of which Turkey would have been ashamed, the result would have been exactly as it has been.
 
-It is doubtful if free government in Western European civilization has descended to such depths as it did in this filibuster of the Democratic party. They did not use argument; they simply, as one journal said, lynched the anti-lynching bill. They brought to the floor of the United States Senate exactly the same methods which the lynchers of Georgia, Louisiana and Texas used at home— brute force. And the Republican party was *particeps criminis* with them. Influential leaders among them  wanted the Democrats to filibuster; they prayed they would filibuster; they asked them to filibuster and agreed to help them. They argued:
+It is doubtful if free government in Western European civilization has descended to such depths as it did in this filibuster of the Democratic party. They did not use argument; they simply, as one journal said, lynched the anti-lynching bill. They brought to the floor of the United States Senate exactly the same methods which the lynchers of Georgia, Louisiana and Texas used at home---brute force. And the Republican party was *particeps criminis* with them. Influential leaders among them  wanted the Democrats to filibuster; they prayed they would filibuster; they asked them to filibuster and agreed to help them. They argued:
 
 "What can the 'n&#11834;s' do but vote for us. Can they vote for the Democrats after this?"
 
@@ -70,7 +70,7 @@ No, we cannot.
 
  ## Third Parties
 
-We are not the only group in America for which the Republican and Democratic parties spell anathema and death. The trend toward a Third Party is irresistible. It may take years but it must come; and when it comes, it means the death of the political power of the disfranchising South, for until this is accomplished, no Third Party can survive. Our duty is clear. And in order to systematize and concentrate our votes, we must, early in 1924, assemble in National Political Congress—a Congress duly representative of every locality, to decide on methods, ways and means.
+We are not the only group in America for which the Republican and Democratic parties spell anathema and death. The trend toward a Third Party is irresistible. It may take years but it must come; and when it comes, it means the death of the political power of the disfranchising South, for until this is accomplished, no Third Party can survive. Our duty is clear. And in order to systematize and concentrate our votes, we must, early in 1924, assemble in National Political Congress---a Congress duly representative of every locality, to decide on methods, ways and means.
 
 In local elections we can continue to cast our vote regardless of party labels. Vote for friends and defeat our enemies, be they Republicans, Democrats or Socialists. Let us stand by Tammany in New York and Thompson in Chicago ag long as they stand by us, and as long as snobs like James W. Wadsworth and Medill McCormick and cowards like Ernst betray us.
 
@@ -93,7 +93,7 @@ Of all the Republican Senators only eleven deserve our support, so far as we are
 
 The fight against lynching is just begun. This is no time for a hint of discouragement or hesitation. American Negroes have had little experience in winning group fights. Usually they have lost and consequently their enemies depend on seeing them fly after the first defeat. This time, they are going to be disappointed. The time to fight is not when you are victorious but when you are repulsed. The time to gird yourself for putting down lynching is when the Dyer Bill is defeated by thugs, and not when politicians are making gay promises. This is going to be a long fight and it is going to be a costly fight, but we are going to win; and the reason that we must win is because lynching and mob violence has got to go or civilization in the United States cannot survive. As Senator New has written us:
 
- > The effort to suppress lynching will be like that to suppress slavery and to accomplish every other great result that has been undertaken in this country since the establishment of the Republic—a matter of long delays, repeated failures and ultimate success.
+ > The effort to suppress lynching will be like that to suppress slavery and to accomplish every other great result that has been undertaken in this country since the establishment of the Republic---a matter of long delays, repeated failures and ultimate success.
 
  And Senator Reed, of Pennsylvania, adds:
 
@@ -121,7 +121,7 @@ On November 22nd and 23rd, the N.A.A.C.P. spent $5,136.93 for the following adve
 |  &nbsp;     |  &nbsp;     |   &nbsp;     | 1,998,883 | $6,480.93 |
 
 In this way, on one single day, they made five million intelligent Americans think about lynching. We reached the unreached: white people who knew and cared little about lynching. Was it worth it? We ought to have spent ten times that amount and we shall, if possible, spend that next year. Advertising is costly. Propaganda depends on advertising as well as other
-costly methods. What every great cause—the Red Cross, Jewish Charities, the Knights of Columbus, the Hospitals—what all white folk must do to get their cause before the public, we black folk cannot afford to neglect. All Americans do not understand about lynching. Few Americans dream of our daily life of insult, cruelty and discouragement. If we do not let them know, who will? Who will? We must advertise, we must agitate, we must, as Jehovah told Isaiah, "Cry aloud, spare not, lift up thy voice like a trumpet and show my people their transgression." There is no royal road to publicity. It costs money and much money. We need to advertise as never before in the daily press, in the weekly press, white and colored, in monthly periodicals. We need lecturers and organizers of first-class ability, paid first-class wage. Now is the time to pour money into the Anti-Lynching Campaign—now or never.
+costly methods. What every great cause---the Red Cross, Jewish Charities, the Knights of Columbus, the Hospitals---what all white folk must do to get their cause before the public, we black folk cannot afford to neglect. All Americans do not understand about lynching. Few Americans dream of our daily life of insult, cruelty and discouragement. If we do not let them know, who will? Who will? We must advertise, we must agitate, we must, as Jehovah told Isaiah, "Cry aloud, spare not, lift up thy voice like a trumpet and show my people their transgression." There is no royal road to publicity. It costs money and much money. We need to advertise as never before in the daily press, in the weekly press, white and colored, in monthly periodicals. We need lecturers and organizers of first-class ability, paid first-class wage. Now is the time to pour money into the Anti-Lynching Campaign---now or never.
 
 _________________
 *Citation:* Du Bois, W.E.B. 1923. "Intentions." *The Crisis*. 24(3):103&ndash;107.

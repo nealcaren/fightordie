@@ -46,7 +46,7 @@ During the earlier history of the colored race, there was a natural social and c
 
 In the United States, this color caste was dealt a death blow by the law that made children follow the condition of the mother, so that white fathers sold their colored children into slavery, and the mulatto ceased to be, in most cases, a free man. He inherited no property from his father and lost his right to education; although so far as he was free, he promoted schools, in centers like Washington, Charleston and New Orleans.
 
-The color caste idea persisted after Emancipation, but was gradually driven out by the new economic organization. In this new economy there arose the criminals and paupers;—the direct result of the poverty of a suddenly emancipated class who had little or no capital.
+The color caste idea persisted after Emancipation, but was gradually driven out by the new economic organization. In this new economy there arose the criminals and paupers;---the direct result of the poverty of a suddenly emancipated class who had little or no capital.
 
 ```{margin}
 The American Negro. P. 64. Academy of Political and Social Science. [Citation in original]

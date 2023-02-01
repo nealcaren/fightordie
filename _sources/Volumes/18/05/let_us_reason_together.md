@@ -21,7 +21,7 @@ But whether the line between just resistance and angry retaliation is hard or ea
 
 Honor, endless and undying Honor, to every man, black or white, who in Houston, East St. Louis, Washington and Chicago gave his life for Civilization and Order.
 
-If the United States is to be a Land of Law, we would live humbly and peaceably in it—working, singing, learning and dreaming to make it and ourselves nobler and better; if it is to be a Land of Mobs and Lynchers, we might as well die today as tomorrow.
+If the United States is to be a Land of Law, we would live humbly and peaceably in it---working, singing, learning and dreaming to make it and ourselves nobler and better; if it is to be a Land of Mobs and Lynchers, we might as well die today as tomorrow.
 
 > *"And how can man die better*  
 > *"Than facing fearful odds*  

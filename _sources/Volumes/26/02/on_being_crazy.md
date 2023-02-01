@@ -17,7 +17,7 @@ No, said I, I wish to eat.
 
 "Are you aware, Sir, that this is social equality?"
 
-Nothing of the sort, Sir, it is hunger,—and I ate.
+Nothing of the sort, Sir, it is hunger,---and I ate.
 
 The day's work done, I sought the theatre. As I sank into my seat, the lady shrank and squirmed.
 
@@ -47,7 +47,7 @@ I looked around. Such a color scheme requires a great deal of cleaning, I said, 
 
 "We object," said he.
 
-Then why—, I began, but he interrupted.
+Then why---, I began, but he interrupted.
 
 "We don't keep 'n&#11834;s'," he said, "we don't want social equality."
 
@@ -67,7 +67,7 @@ Walking, I met a wayfarer who immediately walked to the other side of the road w
 
 "'N&#11834;s' is dirty," he said.
 
-So is mud, said I. Moreover I added, I am not as dirty as you—at least, not yet.
+So is mud, said I. Moreover I added, I am not as dirty as you---at least, not yet.
 
 "But you're a 'n', ain't you?" he asked.
 
@@ -99,7 +99,7 @@ I had not seen his sister, so I merely murmured, let her say, no.
 
 "By God you shan't marry her, even if she said yes."
 
-But,—but I don't want to marry her, I answered a little perturbed at the personal turn.
+But,---but I don't want to marry her, I answered a little perturbed at the personal turn.
 
 "Why not!" he yelled, angrier than ever.
 
@@ -107,7 +107,7 @@ Because I'm already married and I rather like my wife.
 
 "Is she a 'n&#11834;'?" he asked suspiciously.
 
-Well, I said again, her grandmother —was called that.
+Well, I said again, her grandmother---was called that.
 
 "Well then!" he shouted in that oddly illogical way.
 

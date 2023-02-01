@@ -19,7 +19,7 @@ Not only this but there is in the majority of cases in the South absolutely no p
 
 What is the result? Poor and un­willing service. The best Negroes are withdrawing their sons and daughters from house service just as quickly as they can, and they deserve commendation for so doing. Even those Negroes who publicly commend house service are curiously careful to keep their children out of it. Those who cannot escape are demanding shorter hours, proper wages and better treatment. And those Southern families who can keep their black servants but three weeks would better ask advice of their neighbors who keep good and faithful black servants for ten and twenty years.
 
-Instead of responding to a legiti­mate demand for change in working conditions, the majority of South­erners take their usual refuge in whining and shrieking "Negro" problem. Every time that the white South runs head foremost into the inevitable laws of nature by trying to keep slavery, establish peonage, deny manhood rights to men and de­grade decent women—every time the
+Instead of responding to a legiti­mate demand for change in working conditions, the majority of South­erners take their usual refuge in whining and shrieking "Negro" problem. Every time that the white South runs head foremost into the inevitable laws of nature by trying to keep slavery, establish peonage, deny manhood rights to men and de­grade decent women---every time the
 South tries this there is a mawkish sentimentality throughout the North to encourage the idea that these laws are not human but peculiar or racial.
 
 If people pay their laborers low wages and cheat them out of even these, they will get cheap labor, whether that labor be black, white or blue.

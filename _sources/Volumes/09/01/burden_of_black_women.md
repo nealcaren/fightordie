@@ -64,7 +64,7 @@ This poem first appeared in a 1907 issue of *The Horizon* and was included as "T
 <p class = "poem">Down with their barter of women
 <p class = "poem">And laying and lying of creeds,
 <p class = "poem">Down with their cheating of childhood,
-<p class = "poem">And drunken orgies of war—
+<p class = "poem">And drunken orgies of war---
 <p class = "poem-big-indent">down,
 <p class = "poem-bigger-indent">down,
 <p class = "poem-biggest-indent">deep down,
@@ -76,7 +76,7 @@ This poem first appeared in a 1907 issue of *The Horizon* and was included as "T
 <p>
 <p class = "poem">Then shall the burden of manhood,
 <p class = "poem">Be it yellow or black or white,
-<p class = "poem">And Poverty, Justice and Sorrow—
+<p class = "poem">And Poverty, Justice and Sorrow---
 <p class = "poem">The Humble and Simple and Strong,
 <p class = "poem">Shall sing with the Sons of Morning
 <p class = "poem">And Daughters of Evensong:

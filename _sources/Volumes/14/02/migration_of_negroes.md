@@ -57,7 +57,7 @@ A widely-traveled and intelligent colored man writes:
 
 Many of the southern whites, through their newspapers, are confirming this general unrest. A white woman says:
 
-> That which a regard for common justice, fair play, human rights could not accomplish, a fear for our bank account is doing, and we are asking: Why is the Negro dissatisfied? What can we do to keep him in the South? We can't afford to let him go; he means too much for us—financially. He works for little; his upkeep costs us little, for we can house him in any kind of shack, and make him pay us well for that; we do not have to be careful of his living conditions; he is good-natured, long-suffering, and if he should happen to give us trouble we can cope with that and the law will uphold us in anything we do.
+> That which a regard for common justice, fair play, human rights could not accomplish, a fear for our bank account is doing, and we are asking: Why is the Negro dissatisfied? What can we do to keep him in the South? We can't afford to let him go; he means too much for us---financially. He works for little; his upkeep costs us little, for we can house him in any kind of shack, and make him pay us well for that; we do not have to be careful of his living conditions; he is good-natured, long-suffering, and if he should happen to give us trouble we can cope with that and the law will uphold us in anything we do.
 
 The Columbia, S. C. *State* asks:
 > If you thought you might be lynched by mistake, would you remain in South Carolina? Ask yourself that question if you dare.

@@ -26,7 +26,7 @@ More than that, <span style="font-variant:small-caps;">The Crisis</span> stands 
 
 Join or die!
 
-What are the weapons? Organized publicity, advertisement, public meetings, petitions, arrest, law suits, protest, investigation, research , resistance—every way in which the civilized world has fought and must fight and will fight wrong.
+What are the weapons? Organized publicity, advertisement, public meetings, petitions, arrest, law suits, protest, investigation, research , resistance---every way in which the civilized world has fought and must fight and will fight wrong.
 
 Where is the battle line?
 

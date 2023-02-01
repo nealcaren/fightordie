@@ -31,7 +31,7 @@ Then we set forth the plan to make <span style="font-variant:small-caps;">The Cr
 
 4. Art
 
-   We shall stress Beauty—all Beauty, but especially the beauty of Negro life and character; its music, its dancing, its drawing and painting and the new birth of its literature. This growth which <span style="font-variant:small-caps;">The Crisis</span> long since predicted is sprouting and coming to flower. We shall encourage it in every way—by reproduction, by publication, by personal mention— keeping the while a high standard of merit and stooping never to cheap flattery and misspent kindliness.
+   We shall stress Beauty---all Beauty, but especially the beauty of Negro life and character; its music, its dancing, its drawing and painting and the new birth of its literature. This growth which <span style="font-variant:small-caps;">The Crisis</span> long since predicted is sprouting and coming to flower. We shall encourage it in every way---by reproduction, by publication, by personal mention---keeping the while a high standard of merit and stooping never to cheap flattery and misspent kindliness.
 
 5. Peace and International Understanding
 
@@ -43,7 +43,7 @@ Then we set forth the plan to make <span style="font-variant:small-caps;">The Cr
 
 7. Self-criticism
 
-   <span style="font-variant:small-caps;">The Crisis</span> is going to be more frankly critical of the Negro group. In our fight for the sheer crumbs of decent treatment we have become habituated to regarding ourselves as always right and resenting criticism from whites and furiously opposing self-criticism from within. We are seriously crippling Negro art and literature by refusing to contemplate any but handsome heroes, unblemished heroines and flawless defenders; we insist on being always and everywhere all right and often we ruin our cause by claiming too much and admitting no fault. Here <span style="font-variant:small-caps;">The Crisis</span> has sinned with its group and it purposes hereafter to examine from time to time judicially the extraordinary number of very human faults among us—both those common to mankind and those born of our extraordinary history and experiences.
+   <span style="font-variant:small-caps;">The Crisis</span> is going to be more frankly critical of the Negro group. In our fight for the sheer crumbs of decent treatment we have become habituated to regarding ourselves as always right and resenting criticism from whites and furiously opposing self-criticism from within. We are seriously crippling Negro art and literature by refusing to contemplate any but handsome heroes, unblemished heroines and flawless defenders; we insist on being always and everywhere all right and often we ruin our cause by claiming too much and admitting no fault. Here <span style="font-variant:small-caps;">The Crisis</span> has sinned with its group and it purposes hereafter to examine from time to time judicially the extraordinary number of very human faults among us---both those common to mankind and those born of our extraordinary history and experiences.
 
 8. Criticism
 

@@ -13,6 +13,6 @@ My God! For what am I thankful this night? For nothing. For nothing but the most
 
 Fellow blacks, we must join the democracy of Europe. 
 
-—-----------  
+--------------  
 
 *Citation:* Du Bois, W.E.B. 1919. "For What." *The Crisis*. 17(6):268.

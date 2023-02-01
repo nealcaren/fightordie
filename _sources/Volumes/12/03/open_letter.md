@@ -26,7 +26,7 @@ It hopes that the aims of the colored American have become sufficiently clear to
 4. A proportional share in the benefits of all public expenditures. 
 5. Education according to ability and aptitude. 
 
-With these rights we correlate our duties as men and citizens—the abolition of poverty, the emancipation of women, the suppression of crime and the overcoming of ignorance. 
+With these rights we correlate our duties as men and citizens---the abolition of poverty, the emancipation of women, the suppression of crime and the overcoming of ignorance. 
 
 The <span style="font-variant:small-caps;">Crisis</span> assumes---indeed, it knows---that in these matters you believe substantially, as we do, and that the real differences between us, if there be such, lie in matters of present emphasis and present procedure. 
 

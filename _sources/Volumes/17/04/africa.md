@@ -22,6 +22,6 @@ This was the state of affairs when the war broke out in 1914. In Africa the only
 > *Are we not base slaves indeed,*  
 > *Slaves unworthy to be freed?"*  
 
-—-----------  
+--------------  
 
 *Citation:* Du Bois, W.E.B. 1919. "Africa." *The Crisis*. 17(4):164&ndash;165.

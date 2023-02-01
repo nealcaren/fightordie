@@ -9,7 +9,7 @@ pages:   113-114
 -->
 # Memphis or East St. Louis? (1917)
 
-We seem to hear four voices screaming above the mobs of Memphis and East St. Louis—Why will Negroes be Scabs, Why will Negroes Stay in the South, How Can We Stop Negro Migration, Where Can Negroes Be Treated Justly?
+We seem to hear four voices screaming above the mobs of Memphis and East St. Louis---Why will Negroes be Scabs, Why will Negroes Stay in the South, How Can We Stop Negro Migration, Where Can Negroes Be Treated Justly?
 
 We believe we can answer all these questions and for the first we quote a letter of Charles Augustono, a colored bricklayer of Camden, N. J.:
 
