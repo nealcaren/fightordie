@@ -39,7 +39,7 @@ A number of colored women are active members of the National Woman Suffrage Asso
 
 The suffrage map shows that six States have equal political rights for women and men, and that a much larger number have granted partial suffrage to women. In all these the colored woman is taking part, not as fully as she will when the question is less of an experiment, not as heartily as she will when her horizon broadens, but she bears her part.
 
-This much, however, is true now: the colored American believes in equal justice to all, regardless of race, color, creed or sex, and longs for the day when the United States shall indeed have a government of the people, for the people and by the people—even including the colored people. 
+This much, however, is true now: the colored American believes in equal justice to all, regardless of race, color, creed or sex, and longs for the day when the United States shall indeed have a government of the people, for the people and by the people---even including the colored people. 
 
 _________________
 *Citation:* Logan, Aella Hunt. 1912. "Colored Women as Voters." *The Crisis*. 4(5):242&ndash;243.

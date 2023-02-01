@@ -11,7 +11,7 @@ pages:   112-13
 
 We  colored folk stand at the parting of ways, and we must take counsel. The objection to segregation and "Jim-Crowism" was in other days the fact that compelling Ne­groes to associate only with Negroes meant to exclude them from contact with the best culture of the day. How could we learn manners or get knowledge if the heritage of the past was locked away from us?
 
-Gradually, however, conditions have changed. Culture is no longer the monopoly of the white nor is pov­ erty and ignorance the sole heritage of the black. Many a colored man in our day called to conference with his own and rather dreading the con­ tact with uncultivated people even though they were of his own blood has been astonished and deeply grati­fied at the kind of people he has met —at the evidence of good manners and thoughtfulness among his own.
+Gradually, however, conditions have changed. Culture is no longer the monopoly of the white nor is pov­ erty and ignorance the sole heritage of the black. Many a colored man in our day called to conference with his own and rather dreading the con­ tact with uncultivated people even though they were of his own blood has been astonished and deeply grati­fied at the kind of people he has met---at the evidence of good manners and thoughtfulness among his own.
 
 This together with the natural human love of herding like with like has in the last decade set up a tre­ mendous current within the colored race against any contact with whites that can be avoided. They have wel­comed separate racial institutions.
 

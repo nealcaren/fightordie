@@ -21,13 +21,13 @@ How is the Negro disenfranchised? The process is so complicated that few Negroes
 
 The laws are often obscurely drawn and many of them have not had full judicial determination but apparently these restrictions are distributed as follows:
 
-1890—Mississippi (1 or 8) +3.    
-1895—South Carolina 1 or 2 or 8.    
-1898—Louisiana (1+2) or 7.    
-1901—North Carolina (1+3) or 7.    
-1901—Alabama (1+4) or 2 or 5 or 6.    
-1902—Virginia (1+3 or 5) or 8 or 2.    
-1909—Georgia 1 or 2 or 5 or 6.    
+1890---Mississippi (1 or 8) +3.    
+1895---South Carolina 1 or 2 or 8.    
+1898---Louisiana (1+2) or 7.    
+1901---North Carolina (1+3) or 7.    
+1901---Alabama (1+4) or 2 or 5 or 6.    
+1902---Virginia (1+3 or 5) or 8 or 2.    
+1909---Georgia 1 or 2 or 5 or 6.    
 
 That is, in Mississippi the voter must be able to read and write or he must understand and explain a section of the Constitution read to him and, in addition to that, he must have paid his poll tax, etc.
 

@@ -11,7 +11,7 @@ pages:   171-172
 
 Several coöperative efforts are starting among colored people. Probably today, there are fifty or more local efforts. Most of them are sporadic, and will fail. Some few are the efforts of individuals who use the magic word coöperation for stores in which there is not a trace of the coöperation principle.
 
-There are a dozen or more which are largely coöperative, but not entirely—for instance, they have shares, and the number which one man may own is limited. The shareholders are obliged to buy a certain minimum amount of goods before they can share in the profits.
+There are a dozen or more which are largely coöperative, but not entirely---for instance, they have shares, and the number which one man may own is limited. The shareholders are obliged to buy a certain minimum amount of goods before they can share in the profits.
 
 This is only partially coöperative. Full coöperation requires: cheap shares, of which anyone can own any number; **but** there is no temptation to own large numbers of shares, because **profits are divided according to the amount the person buys.**
 

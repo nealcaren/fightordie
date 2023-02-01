@@ -30,7 +30,7 @@ What are they? They rise according to La Follette's Cleveland program from the e
 
 For the uplift of the world this is one of the best programs ever laid down by a political party in America. It can be carried out and still leave black folk and brown and yellow disinherited from many of its benefits. It can triumph and by its very triumph bring new tyrannies upon hated minorities. And yet despite this it will be far better than the present America.
 
-This program then is so good in fact that it is most disheartening to find Mr. LaFollette deliberately dodging two tremendous issues—the Ku Klux Klan and the Negro. This is inexcusable. These matters were forced on his attention by this Association and by others. He and his platform are silent. Wherefore we must conclude that Robert LaFollette has no opinion so far as the Secret Mob to Foster Race and Religious Hate is concerned and no convictions as to the rights of Black Folk.
+This program then is so good in fact that it is most disheartening to find Mr. LaFollette deliberately dodging two tremendous issues---the Ku Klux Klan and the Negro. This is inexcusable. These matters were forced on his attention by this Association and by others. He and his platform are silent. Wherefore we must conclude that Robert LaFollette has no opinion so far as the Secret Mob to Foster Race and Religious Hate is concerned and no convictions as to the rights of Black Folk.
 
 _________________
 *Citation:* Du Bois, W.E.B. 1924. "La Follette." *The Crisis*. 28(4):154.

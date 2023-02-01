@@ -20,7 +20,7 @@ A detailed account of the causes for which the parade was held is given as follo
 Although the paraders marched by in silence their sentiments were proclaimed by many mottoes, a complete list of which follows:
 
 <ul style="list-style: none; padding-left: 3rem;">
- <li style="text-indent: -1.5rem;">Memphis and Waco—Centers of American Culture?
+ <li style="text-indent: -1.5rem;">Memphis and Waco---Centers of American Culture?
 <li style="text-indent: -1.5rem;">Alabama needs 75,000 Ballots to elect 10 Congressmen. Minnesota needs 300,000. How do they do it?
 <li style="text-indent: -1.5rem;">350,000 voters in the South have as much political power as the 1,500,000 voters of New York State. How do they do it?
 <li style="text-indent: -1.5rem;">Each white man in the South by disfranchising the black working man casts from 3 to 13 times as many ballots as You.
@@ -33,7 +33,7 @@ Although the paraders marched by in silence their sentiments were proclaimed by 
 <li style="text-indent: -1.5rem;"><li style="text-indent: -1.5rem;">If you are of African descent tear off this corner.   
 <li style="text-indent: -1.5rem;">America has lynched without trial 2,867 Negroes in 31 years and not a single murderer has suffered.     
 <li style="text-indent: -1.5rem;">200,000 black men fought for your liberty in the Civil War.
-<li style="text-indent: -1.5rem;">The first blood for American Independence was shed by a Negro—Crispus Attucks.  
+<li style="text-indent: -1.5rem;">The first blood for American Independence was shed by a Negro---Crispus Attucks.  
 <li style="text-indent: -1.5rem;">We have fought for the liberty of white Americans in 6 wars; our reward is East St. Louis  
 <li style="text-indent: -1.5rem;">12,000 of us fought with Jackson at New Orleans.
 </ul>
@@ -83,7 +83,7 @@ Du Bois is in the second row, second from the right, marching next to James Weld
 <li style="text-indent: -1.5rem;">We have 3,000 physicians.        
 <li style="text-indent: -1.5rem;">We own 250,000 farms with 20,000,000 acres of land worth $500,000,000.        
 <li style="text-indent: -1.5rem;">We have church property worth $76,000,000.  
-<li style="text-indent: -1.5rem;"> A square deal for every man.—T. R.        
+<li style="text-indent: -1.5rem;"> A square deal for every man.---T. R.        
 <li style="text-indent: -1.5rem;">The Negro has never betrayed the flag, attempted to assassinate the President or any official of this government.        
 <li style="text-indent: -1.5rem;">We have 60,000 iron and steel workers.    
 <li style="text-indent: -1.5rem;">We have 20,000 slaughter and packing house operators.        
@@ -92,7 +92,7 @@ Du Bois is in the second row, second from the right, marching next to James Weld
 <li style="text-indent: -1.5rem;">Your hands are full of blood.  
 <li style="text-indent: -1.5rem;">Mother, do lynchers go to heaven?       
 <li style="text-indent: -1.5rem;">Cain, where is Abel, thy brother?      
-<li style="text-indent: -1.5rem;">The great contradiction—love of God and hatred of man.
+<li style="text-indent: -1.5rem;">The great contradiction---love of God and hatred of man.
 <li style="text-indent: -1.5rem;">Color, blood and suffering have made us one.     
 <li style="text-indent: -1.5rem;">Pray for the Lady MacBeths of East St. Louis.
 </ul>

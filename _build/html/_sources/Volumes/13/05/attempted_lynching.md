@@ -29,7 +29,7 @@ One of them yelled, "Say, Gov., you've got the guts; I'm fer yer."
 
 Finally, it was agreed that the trial should be postponed until February 19.
 
-Thus Lube Martin has been saved from the mob—at least temporarily. As to justice for a man who killed his assailant in self-defense, that, even in Kentucky, is quite another story.
+Thus Lube Martin has been saved from the mob---at least temporarily. As to justice for a man who killed his assailant in self-defense, that, even in Kentucky, is quite another story.
 
 ______________
 *Citation:* National Association for the Advancement of Colored People. 1917. "The Attempted Lynching of Lube Martin: An N.A.A.C.P. Investigation." *The Crisis*. 13(5):226&ndash;227.

@@ -41,7 +41,7 @@ I started out to raise three thousand dollars. By contributing five hundred myse
 
 But with all this it was financially a partial failure and I found myself at the end with my capital reduced one-half. Yet I looked upon it simply as a certain, mild Valley of Humiliation repeating to myself the words of the Herald at the beginning of the fourth scene:
 
-> Hear ye, hear ye! All ye that come to see the light and listen to the tale of the Bravest and Truest of the Races of Men whose faces be Black! Hear ye, hear ye! And learn how men of Negro blood did suffer the Pains of Death and the Humiliation of Hell, yet did not die. Listen, Mothers of Men and Daughters of Almighty God beneath whose hearts these dark and beautiful children lie and have lain buried— listen and hear this awful thing.
+> Hear ye, hear ye! All ye that come to see the light and listen to the tale of the Bravest and Truest of the Races of Men whose faces be Black! Hear ye, hear ye! And learn how men of Negro blood did suffer the Pains of Death and the Humiliation of Hell, yet did not die. Listen, Mothers of Men and Daughters of Almighty God beneath whose hearts these dark and beautiful children lie and have lain buried---listen and hear this awful thing.
 
 I determined to make one more effort at Philadelphia. Here in celebration of the One Hundredth General Conference of the African M. E. Church the pageant was given the third and perhaps the last time with one thousand and seventy-eight colored actors. It was to all who saw it a Vision Everlasting like to the Herald's cry before the impressive scene:
 
@@ -55,7 +55,7 @@ And so it ended beautifully and full of satisfaction, due in greatest measure to
 
  The great fact has been demonstrated that pageantry among colored people is not only possible, but in many ways of unsurpassed beauty and can be made a means of uplift and education and the beginning of a folk drama. On the other hand, the white public has shown little or no interest in the movement. The American Pageant Association has been silent, if not actually contemptuous, and there have been within my own race the usual petty but hurting insinuations of personal greed and selfishness as the real incentives behind my efforts. Unless, therefore, from unforeseen and at present unknown sources I receive help and encouragement I shall lay this effort down and bequeath to new hands crying with the last cry of my Herald:
 
-> Hear ye, hear ye! All them that sing before the Lord and forget not the Vision of the Eldest and Strongest of the Races of Men whose faces be Black. Hear ye, hear ye! And remember forever and one day the Star of Ethiopia, All-Mother of Men, who gave the world the Iron Gift and Gift of Faith, the Pain of Humility «nd Sorrow Song of Pain, and Freedom, Eternal Freedom, underneath the Star. Arise and go, Children of Philadelphia—the Play is done.
+> Hear ye, hear ye! All them that sing before the Lord and forget not the Vision of the Eldest and Strongest of the Races of Men whose faces be Black. Hear ye, hear ye! And remember forever and one day the Star of Ethiopia, All-Mother of Men, who gave the world the Iron Gift and Gift of Faith, the Pain of Humility «nd Sorrow Song of Pain, and Freedom, Eternal Freedom, underneath the Star. Arise and go, Children of Philadelphia---the Play is done.
 
 ______________
 *Citation:* Du Bois, W.E.B. 1916. "The Drama Among Black Folk." *The Crisis*. 12(4):169&ndash;173.

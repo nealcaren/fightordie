@@ -25,7 +25,7 @@ In none of these cases, therefore, is the invitation satisfactory. Nevertheless,
 2. For a party which has failed and promised.
 3. For a party which merely promises.
 
-We sympathize with those faithful old black voters who will always vote the Republican ticket. We respect their fidelity but not their brains. We can understand those who, despite the unspeakable Roosevelt, accept his platform which is broad on all subjects except the greatest—human rights. This we can understand, but we cannot follow.
+We sympathize with those faithful old black voters who will always vote the Republican ticket. We respect their fidelity but not their brains. We can understand those who, despite the unspeakable Roosevelt, accept his platform which is broad on all subjects except the greatest---human rights. This we can understand, but we cannot follow.
 
 We sincerely believe that even in the face of promises disconcertingly vague, and in the face of the solid caste-ridden South, it is better to elect Woodrow Wilson President of the United States and prove once for all if the Democratic party dares to be Democratic when it comes to black men. It has proven that it can be in many Northern States and cities. Can it be in the nation? We hope so and we are willing to risk a trial.
 

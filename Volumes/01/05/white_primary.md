@@ -16,7 +16,7 @@ The prospect for this outcome is not reassuring, because few people realize that
 
 It is this fact, which has been seldom discussed, that explains many contradictions. Senator Percy, of Mississippi, says, for instance, "There is no such thing as Negro suffrage in Mississippi and never will be as long as the white men of the State stand together." The Atlanta *Constitution* said repeatedly in the first Hoke Smith campaign: 
 
-Negroes are already disfranchised in Georgia—why pass a constitutional amendment?" A judge on the bench of another State said in a decision: 
+Negroes are already disfranchised in Georgia---why pass a constitutional amendment?" A judge on the bench of another State said in a decision: 
 
 "Negroes do not vote in this State and ought not to, but they ought to get justice." At the same time white Southerners declare that in every Southern State the Negro who complies with the law can vote. 
 

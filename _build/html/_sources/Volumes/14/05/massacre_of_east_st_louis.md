@@ -25,11 +25,11 @@ East St. Louis is a great industrial center, possessing huge packing and manufac
 
  ![](../../../Images/mesl_2.jpg)
 
-One point in particular is emphasized, that of color: "The Southern Negro," writes Mr. Mason, "has come into our community. No less than ten thousand of undesirable Negroes," he continues, "have poured in and are being used to the detriment of our white citizens." There is the appeal direct to prejudice. It is not that foreigners—Czechs, Slovaks, Lithuanians— or whatever ethnic division is least indigenous to East St. Louis—it is not that they are ousting Americans of any color or hue, but the "Southern Negro," the most American product there is, is being used "to the detriment of our white citizens."
+One point in particular is emphasized, that of color: "The Southern Negro," writes Mr. Mason, "has come into our community. No less than ten thousand of undesirable Negroes," he continues, "have poured in and are being used to the detriment of our white citizens." There is the appeal direct to prejudice. It is not that foreigners---Czechs, Slovaks, Lithuanians---or whatever ethnic division is least indigenous to East St. Louis---it is not that they are ousting Americans of any color or hue, but the "Southern Negro," the most American product there is, is being used "to the detriment of our white citizens."
 
 Mr. Mason has no hesitancy in suggesting "that some action should be taken to retard this growing menace" and "to get rid of a certain portion of those who are already here." Was not Mr. Gompers' excuse in Carnegie Hall a faint echo of all this?
 
-Mr. Mason wants to be fair. "This is not a protest against the Negro who has been a long resident"—so runs his superb English—"of East St. Louis, and is a law-abiding citizen of the state." In East St. Louis labor leaders are the arbiters of legal conduct and therefore 10,000 Negroes become undesirable citizens because they are strike-breakers and black.
+Mr. Mason wants to be fair. "This is not a protest against the Negro who has been a long resident"---so runs his superb English---"of East St. Louis, and is a law-abiding citizen of the state." In East St. Louis labor leaders are the arbiters of legal conduct and therefore 10,000 Negroes become undesirable citizens because they are strike-breakers and black.
 
 That the July riot grew out of the meeting called by Mr. Mason (see facsimile), we are not prepared to say; but that it grew out of this attitude is only too apparent. By all accounts of eye-witnesses, both white and black, the East St. Louis outrage was deliberately planned and executed.
 
@@ -54,7 +54,7 @@ Carlos F. Hurd, an eye-witness, realizes this fact and speaks of it in the artic
 
 These accounts make gruesome reading, but they are all true. Hugh L. Wood paints in the *St. Louis Republic* another horrible picture. He says:
 
- > A Negro weighing 300 pounds came out of the burning line of dwellings just north and east of the Southern freight house. His hands were elevated and his yellow face was speckled with the awful fear of death. <p> Get him!" they cried. Here was a chance to see suffering, something that bullets didn't always make. <p> So a man in the crowd clubbed his revolver and struck the Negro in the face with it. Another dashed an iron bolt between the Negro's eyes. Still another stood near and battered him with a rock. <p> Then the giant Negro toppled to the ground. "This is the way," cried one. He ran back a few paces, then ran at the pros— black at full speed and made a flying leap. <p> His heels struck right in the middle of the battered face. A girl stepped up and struck the bleeding man with her foot. The blood spurted onto her stockings and men laughed and grunted.
+ > A Negro weighing 300 pounds came out of the burning line of dwellings just north and east of the Southern freight house. His hands were elevated and his yellow face was speckled with the awful fear of death. <p> Get him!" they cried. Here was a chance to see suffering, something that bullets didn't always make. <p> So a man in the crowd clubbed his revolver and struck the Negro in the face with it. Another dashed an iron bolt between the Negro's eyes. Still another stood near and battered him with a rock. <p> Then the giant Negro toppled to the ground. "This is the way," cried one. He ran back a few paces, then ran at the pros---black at full speed and made a flying leap. <p> His heels struck right in the middle of the battered face. A girl stepped up and struck the bleeding man with her foot. The blood spurted onto her stockings and men laughed and grunted.
 
 No amount of suffering awakened pity in the hearts of the rioters. Mr. Wood tells us that:
 
@@ -75,7 +75,7 @@ The violence was confined not only to men. Women were in many cases the aggresso
 
 To this the St. Louis Republic adds:
 
-> Seized with the mob spirit, two young white girls climbed or a car at Broadway and Main Street at about 4 p. m. and dragged a Negress from her seat. As they dragged the struggling Negress through the door to the street there was a great cheer from men on the sidewalk.  <p> As the Negress attempted to break away from her assailants one of the girls—for they were only about 17 years old—pulled off her shoe and started to beat the victim over the head. The victim flinched under the blows of the girl and was bleeding when she was rescued by militiamen. <p> The girls were not arrested and started to walk away from the scene. There were bloodstains on their clothes and as they passed their friends they told about the part they had played in the riot.
+> Seized with the mob spirit, two young white girls climbed or a car at Broadway and Main Street at about 4 p. m. and dragged a Negress from her seat. As they dragged the struggling Negress through the door to the street there was a great cheer from men on the sidewalk.  <p> As the Negress attempted to break away from her assailants one of the girls---for they were only about 17 years old---pulled off her shoe and started to beat the victim over the head. The victim flinched under the blows of the girl and was bleeding when she was rescued by militiamen. <p> The girls were not arrested and started to walk away from the scene. There were bloodstains on their clothes and as they passed their friends they told about the part they had played in the riot.
 
 But this sort of Negro-baiting did not make a strong enough appeal to the jaded senses of the mob. Surely there must be some other means of adding to such pleasurable excitement. Somebody suggested fire. The idea was immediately accepted. Says John T. Stewart:
 
@@ -98,7 +98,7 @@ Subsequent testimony conflicted with this statement and showed that most of the 
 
 > The major riot ensued at 4:30, with not a Negro in sight. A crowd of fifty young men and boys dribbling aimlessly south on Collinsville came to a pawn shop. At once there were shouts of "get his guns," and the whites crowded through the shop doors and looted the shop of every weapon and all its ammunition. A boy not over fourteen years old emerged with a rifle and several rounds of cartridges. Another boy dragged a shotgun too big for him to carry.   <p> A detachment of militia came along and made a half-hearted effort to disarm the civilians. The only persons who gave up their arms were boys. One white man walking beside me patted a large revolver in his shirt bosom. It was fully loaded. Another handed him two additional rounds of cartridges. Two guards passed.    <p> You've got nothing on me," the rioter said, and showed the militiaman his revolver and shells. When the militiaman laughed, the rioter threw his disengaged arm around the guardsman's shoulder and they disappeared around the corner.   
 
-Some of the militia were active in the fray. Miss Gruening tells of the two soldiers, members of Troop L, from Olney. She passed them a few days after the riot near Cahokia Creek and entered into conversation with them. They boasted that here "seven n&#11834;s" were thrown into the creek, "and every time the n&#11834;s came up people rocked them till they was all drowned." She imitated their vernacular. "And how many 'n&#11834;s' did you boys actually kill?" she asked. They were modestly uncertain—they were not quite sure how many, but they had certainly shot to kill. That had been their orders.   
+Some of the militia were active in the fray. Miss Gruening tells of the two soldiers, members of Troop L, from Olney. She passed them a few days after the riot near Cahokia Creek and entered into conversation with them. They boasted that here "seven n&#11834;s" were thrown into the creek, "and every time the n&#11834;s came up people rocked them till they was all drowned." She imitated their vernacular. "And how many 'n&#11834;s' did you boys actually kill?" she asked. They were modestly uncertain---they were not quite sure how many, but they had certainly shot to kill. That had been their orders.   
 > What!" asked Miss Gruening, "to shoot to kill 'n&#11834;s'?"  <p> They grinned cheerfully. "Oh, no. Only to kill all we saw starting fires."  <p> And did you see any starting fires?
 > &nbsp;  
 > No, all we saw was n&#11834;s flying.
@@ -115,13 +115,13 @@ The Board was unenthusiastic and a trifle skeptical. Didn't Miss Gruening really
 
 Miss Gruening offered to go to Olney, to go anywhere to identify the two guardsmen.
 
-Well, that was unnecessary, it was rather late now—on the third day of the inquiry —to institute such a complaint. Why hadn't the lady gone immediately to the commandant, who was present, and made her charge.
+Well, that was unnecessary, it was rather late now---on the third day of the inquiry---to institute such a complaint. Why hadn't the lady gone immediately to the commandant, who was present, and made her charge.
 
  Miss Gruening had already been to the commandant on another matter and had been rebuffed.
 
 As she was about to leave they laid on her a solemn charge.
 
-> Young lady, as a writer, you have a heavy responsibility. If you go away and give the world the impression that the boys of the Illinois Militia or their officers failed in their duty you will be doing a serious injustice. We have gone exhaustively into the evidence. We have followed up every accusation made against Illinois guardsmen and we find not a single instance in which they misconducted themselves. On the contrary, we have found innumerable instances of the greatest heroism on the part of these young and untrained boys—instances in which Negroes were rescued from crowds of two or three hundred people. We have examined every body (Query: the burned and drowned bodies too?) and none of the wounds were made by rifles.
+> Young lady, as a writer, you have a heavy responsibility. If you go away and give the world the impression that the boys of the Illinois Militia or their officers failed in their duty you will be doing a serious injustice. We have gone exhaustively into the evidence. We have followed up every accusation made against Illinois guardsmen and we find not a single instance in which they misconducted themselves. On the contrary, we have found innumerable instances of the greatest heroism on the part of these young and untrained boys---instances in which Negroes were rescued from crowds of two or three hundred people. We have examined every body (Query: the burned and drowned bodies too?) and none of the wounds were made by rifles.
 
 Miss Gruening inquired why, in the case of so much heroism, were so many Negroes killed and only eight white men. There was no answer to that.
 
@@ -137,7 +137,7 @@ One dares not dwell too long on these horrors. There are the stories too related
 
 Mrs. Cox saw a Negro beheaded with a butcher's knife by someone in a crowd standing near the Free Bridge. The crowd had to have its jest. So its members laughingly threw the head over one side of the bridge and the body over the other.
 
-A trolley-car came along. The crowd forced its inmates to put their hands out the window. Colored people thus recognized were hauled out of the car to be beaten, trampled on, shot. A little twelve-year-old colored girl fainted—her mother knelt beside her. The crowd surged in on her. When its ranks opened up again Mrs. Cox saw the mother prostrate with a hole as large as one's fist in her head.
+A trolley-car came along. The crowd forced its inmates to put their hands out the window. Colored people thus recognized were hauled out of the car to be beaten, trampled on, shot. A little twelve-year-old colored girl fainted---her mother knelt beside her. The crowd surged in on her. When its ranks opened up again Mrs. Cox saw the mother prostrate with a hole as large as one's fist in her head.
 
 Around a corner came a group of miners, fresh from work, their pick-axes over their shoulders. They plunged joyously into the arena. Presently Mrs. Cox caught sight of them again resting from their labors, their pick-axes slung once more over their shoulders, and on their backs dripped blood.
 
@@ -226,7 +226,7 @@ Rena Cook returned from a day's outing  to horror and death. Her statement follo
 
 Here is a brief but comprehensive tale of treachery as told by Edward Spence:
 
-> Born in Lafayette, Alabama—came to East St. Louis five years ago. Worked in a Rolling Mill, Madison, Ill., but lived in East St. Louis. Wages $3.25 a day. He had taken his family, seven children and a wife to friends out from East St. Louis for safety. He returned to East St. Louis and walked down the street with a white man, whom he thought to be a friend. When he passed this man's gate he was shot by this same man in both arms and back. He ran one and one-half blocks and was picked up and carried to the hospital by three colored men. His address is 1208 Colas Ave., East St. Louis.
+> Born in Lafayette, Alabama---came to East St. Louis five years ago. Worked in a Rolling Mill, Madison, Ill., but lived in East St. Louis. Wages $3.25 a day. He had taken his family, seven children and a wife to friends out from East St. Louis for safety. He returned to East St. Louis and walked down the street with a white man, whom he thought to be a friend. When he passed this man's gate he was shot by this same man in both arms and back. He ran one and one-half blocks and was picked up and carried to the hospital by three colored men. His address is 1208 Colas Ave., East St. Louis.
 
 Comments are needless. Here is the testimony of Elsie L. Lothridge, twenty years old, and a resident of East St. Louis for five months. She says:
 
@@ -314,9 +314,9 @@ Testimony of Jerry Mayhorn:
 
 The damning statements go on and on. Among the Negroes one finds a note sometimes of blank stark despair. John T. Stewart in the *St. Louis Star* draws a pathetic picture:
 
-> One aged Negro woman passed the police station carrying in her arms all that mob spirit and fire had left of her belongings. They consisted of a worn pair of shoes—she was barefooted—an extra calico dress, an old shawl and two puppies. Tears were streaming down her face and she saw neither soldiers nor her enemies as she passed beneath the lights of the City Hall, going she knew not where.
+> One aged Negro woman passed the police station carrying in her arms all that mob spirit and fire had left of her belongings. They consisted of a worn pair of shoes---she was barefooted---an extra calico dress, an old shawl and two puppies. Tears were streaming down her face and she saw neither soldiers nor her enemies as she passed beneath the lights of the City Hall, going she knew not where.
 
-Saddest of all is Miss Gruening's account  of the old woman whom she saw poking about in the desolate ruins of what had once been her home. Her family had escaped to St. Louis, but not a fraction of their possessions remained intact. The woman was old —sixty-five—not an easy age at which to begin life anew.
+Saddest of all is Miss Gruening's account  of the old woman whom she saw poking about in the desolate ruins of what had once been her home. Her family had escaped to St. Louis, but not a fraction of their possessions remained intact. The woman was old---sixty-five---not an easy age at which to begin life anew.
 
 "What are we to do?" she asked Miss Gruening. "We can't live South and they don't want us North. Where are we to go?"
 
@@ -328,7 +328,7 @@ In this connection Miss Gruening supplies the statement of East St. Louis Postma
 
 And here follows a sort of composite statement of the best citizens, editors, and liberty-bond buyers of East St. Louis and its surroundings:
 
-> Well, you see too many n&#11834;s have been coming in here. When n&#11834;s come up North they get insolent. You see they vote here and one doesn't like that. And one doesn't like their riding in the cars next to white women—and, well what are you going to do when a buck n&#11834; pushes you off the sidewalk?
+> Well, you see too many n&#11834;s have been coming in here. When n&#11834;s come up North they get insolent. You see they vote here and one doesn't like that. And one doesn't like their riding in the cars next to white women---and, well what are you going to do when a buck n&#11834; pushes you off the sidewalk?
 
  This last pathetic question was put to Miss Gruening by three different editors on as many separate occasions.
 

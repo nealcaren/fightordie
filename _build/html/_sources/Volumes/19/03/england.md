@@ -24,7 +24,7 @@ I have always looked on England as the best administrator of colored peoples and
 
 Finally, there comes to me from English sources this terrible tale of theft, murder, and outrage done by Englishmen to Negroes, unrebuked by English government and unprotested for a generation. 
 
-English missionaries long ago entered the land of the Matabele and Mashona peoples, in the Zambese basin. An English company in 1889 was allowed to enter, on the express condition that it regard native law and land rights. Yet today 800,000 Negroes of this country, now called Rhodesia, have absolutely no title to 90 million acres of their own land! As Englishmen themselves write: "The land rights of the natives have been appropriated simply: by fraud and theft—that is the beginning and end of the whole sordid story." 
+English missionaries long ago entered the land of the Matabele and Mashona peoples, in the Zambese basin. An English company in 1889 was allowed to enter, on the express condition that it regard native law and land rights. Yet today 800,000 Negroes of this country, now called Rhodesia, have absolutely no title to 90 million acres of their own land! As Englishmen themselves write: "The land rights of the natives have been appropriated simply: by fraud and theft---that is the beginning and end of the whole sordid story." 
 
 If we turn from Africa to Asia, what do we see? The World Tomorrow tells us: 
 

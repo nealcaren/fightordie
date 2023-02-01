@@ -15,7 +15,7 @@ This editorial, calling for African Americans to focus on defeating Germany on t
 
 This is the crisis of the world.
 
-For all the long years to come men will point to the at year 1918 as the great Day of Decision, the day when the world decided whether it would submit to military despotism and an endless armed peace—if peace it could be called—or whether they would put down the menace of German militarism and inaugurate the United States of the World.
+For all the long years to come men will point to the at year 1918 as the great Day of Decision, the day when the world decided whether it would submit to military despotism and an endless armed peace---if peace it could be called---or whether they would put down the menace of German militarism and inaugurate the United States of the World.
 
 ```{margin}
 The following year, Du Bois would [write](http://www.dareyoufight.org/Volumes/18/01/returning_soldiers.html), "we are cowards and jackasses if now that that war is over, we do not marshal every ounce of our brain and brawn to fight a sterner, longer, more unbending battle against the forces of hell in our own land."

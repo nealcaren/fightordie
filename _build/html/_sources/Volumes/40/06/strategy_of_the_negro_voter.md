@@ -21,7 +21,7 @@ A generation ago, we assumed that democratic methods of social reform in the Uni
 
 If this conviction is true, and it is shared by so large a proportion of the best and keenest thought of the world, that it can hardly today be questioned, then the problem of the Negro voter becomes dynamic rather than static, and relative rather than absolute; that is, he has to ask himself: What am I going to do with my vote and my work and my other activities, so that I may not simply escape racial and class discrimination, but may also help the world in its progress toward human emancipation ?
 
-Manifestly, this is no easy task, particularly in a country like the United States, where the Negro forms a decided minority, and is discriminated against in almost every particular, by all  the elements of the population,—the artist and the religious worker; especially by the employer and organizer of industry; and last but not least by the whole of the white laboring class.
+Manifestly, this is no easy task, particularly in a country like the United States, where the Negro forms a decided minority, and is discriminated against in almost every particular, by all  the elements of the population,---the artist and the religious worker; especially by the employer and organizer of industry; and last but not least by the whole of the white laboring class.
 
 ## 2,000,000 Votes
 
