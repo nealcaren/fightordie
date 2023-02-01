@@ -176,3 +176,8 @@ blockquote div>p {
   font-size: 1.25rem;
   line-height: 1.6rem;
 }
+
+
+blockquote div>p:first-of-type {
+  text-indent: 0;
+}
