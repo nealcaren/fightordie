@@ -181,3 +181,7 @@ blockquote div>p {
 blockquote div>p:first-of-type {
   text-indent: 0;
 }
+
+span.keeptogether {
+  white-space: nowrap ;
+}
