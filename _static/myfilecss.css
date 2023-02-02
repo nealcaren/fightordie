@@ -89,9 +89,6 @@ p {
   text-align: left;
   font-size: 1.25rem;
   line-height: 1.875rem;
-  -webkit-hyphens: auto;
-  -ms-hyphens: auto;
-  hyphens: auto;
 }
 
 ul, ol {
@@ -225,5 +222,11 @@ h2.center {
     margin-bottom: 0rem;
     font-size: 1.25rem;
     line-height: 1.6rem;
+  }
+
+  p {
+    -webkit-hyphens: auto;
+    -ms-hyphens: auto;
+    hyphens: auto;
   }
 }
