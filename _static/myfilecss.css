@@ -89,6 +89,9 @@ p {
   text-align: left;
   font-size: 1.25rem;
   line-height: 1.875rem;
+  -webkit-hyphens: auto;
+  -ms-hyphens: auto;
+  hyphens: auto;
 }
 
 ul, ol {
@@ -211,4 +214,16 @@ h2.center {
   margin-bottom: 1rem;
   margin-top: 3rem;
 
+}
+
+
+@media only screen and (max-device-width: 576px) {
+  blockquote div>p {
+    padding-right: 1em;
+    text-indent: 1rem;
+    padding-bottom: 0rem;
+    margin-bottom: 0rem;
+    font-size: 1.25rem;
+    line-height: 1.6rem;
+  }
 }
