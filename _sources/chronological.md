@@ -166,6 +166,7 @@
 |   1921 |       22 | 6       | [Socialism and the Negro](https://www.dareyoufight.org/Volumes/22/06/socialism_and_the_negro.html)                                        |
 |   1921 |       22 | 6       | [The Single Tax](https://www.dareyoufight.org/Volumes/22/06/single_tax.html)                                                              |
 |   1921 |       23 | 1       | [To The World](https://www.dareyoufight.org/Volumes/23/01/to_the_world.html)                                                              |
+|   1921 |       23 | 4       | [Africa for the Africans](https://www.dareyoufight.org/Volumes/23/04/africa_for_the_africans.html)                                        |
 |   1922 |       22 | 1       | [Anti-Lynching Legislation](https://www.dareyoufight.org/Volumes/22/01/anti-lynching_legislation.html)                                    |
 |   1922 |       22 | 1       | [The Drive](https://www.dareyoufight.org/Volumes/22/01/drive.html)                                                                        |
 |   1922 |       22 | 1       | [Inter-Racial Comity](https://www.dareyoufight.org/Volumes/22/01/inter-racial_comity.html)                                                |
