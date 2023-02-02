@@ -214,7 +214,7 @@ h2.center {
 }
 
 
-@media only screen and (max-device-width: 576px) {
+@media screen and (max-device-width: 480px) {
   blockquote div>p {
     padding-right: 1em;
     text-indent: 1rem;
