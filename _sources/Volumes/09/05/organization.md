@@ -15,7 +15,7 @@ The organization of the 3,000,000 Jews in America is little less than marvelous.
 
 The Jewish Publication Society sends out the American Jewish Year Book annually and a number of other carefully selected publications. It is supported by 12,000 members and has total assets of over $100,000. There have been 26 Jews in Congress and there are five in the present Congress.
 
-This is the great net work of organization which makes the Jewish people the tremendous force for good and for uplift which they are in this country. Let black men look at them with admiration and emulate them. Only in our secret orders can we approach them from afar, while in voluntary organizations and philanthropic activity we can see from the record of these 3,000,000 what our 10.000,000 have to learn.
+This is the great net work of organization which makes the Jewish people the tremendous force for good and for uplift which they are in this country. Let black men look at them with admiration and emulate them. Only in our secret orders can we approach them from afar, while in voluntary organizations and philanthropic activity we can see from the record of these 3,000,000 what our 10,000,000 have to learn.
 
 ______________
 *Citation:* Du Bois, W.E.B. 1915. "Organization." *The Crisis*. 9(5):235.
