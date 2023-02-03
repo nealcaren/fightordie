@@ -17,7 +17,7 @@ Nothing illustrates this *descensus Averno* better than woman suffrage. The Wash
 
 "This", said Mr. Flood today, "would enable all the white women in the state to be registered and would practically exclude all the Negro women, throwing the same safeguards round the electorate with regard to females as in 1902 and 1903 we threw round it with regard to males."
 
-Not satisfied with this amazing confession, the *Virginian Pilot* replies editorially (the italics are ours) :
+Not satisfied with this amazing confession, the *Virginian Pilot* replies editorially (the italics are ours):
 
 > To invoke Article 19 anew and apply it to a State-wide registration of women when suffrage becomes a *fait accompli*, would be to bring to the fore again public distempers that have long lain dormant. It would be far less easy in the present state of belligerent race consciousness to apply this article in such a manner as to obtain the desired end today, than it was 29 years ago. … It is not the superior intelligence of colored women over colored men that threatens white supremacy. *They cannot become a disturbing political factor until their intelligence as a class is superior to that of white women.* If an inexplicable reversion of all recorded history should put such an eventuality within the range of probability it will not occur overnight. *There will be ample warning and it will be time enough then to resort to a drastic redressing of the voting lists.*
 
