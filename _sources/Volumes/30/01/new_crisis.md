@@ -19,7 +19,7 @@ Then we set forth the plan to make <span style="font-variant:small-caps;">The Cr
 
 1. Economic Development
 
-    At Philadelphia, the N.A.A.C.P. made a suggestion of alliance among the laboring people of the United States across the color line. The American Federation of Labor has as yet made no active response to our overtures. Meantime, however, we are not waiting and we -propose to make a crusade in <span style="font-variant:small-caps;">The Crisis</span> covering the next three years and taking up in succession the history and significance of the Labor Movement in the modern world, the present actual relation of Negroes to labor unions and a practical plan of future cooperation.
+    At Philadelphia, the N.A.A.C.P. made a suggestion of alliance among the laboring people of the United States across the color line. The American Federation of Labor has as yet made no active response to our overtures. Meantime, however, we are not waiting and we propose to make a crusade in <span style="font-variant:small-caps;">The Crisis</span> covering the next three years and taking up in succession the history and significance of the Labor Movement in the modern world, the present actual relation of Negroes to labor unions and a practical plan of future cooperation.
 
 2. Political Independence
 

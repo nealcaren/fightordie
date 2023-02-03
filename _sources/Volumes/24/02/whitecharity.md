@@ -15,7 +15,7 @@ The motives for this withdrawal of help are various: many charitable folk have b
 
 These last two classes are ill-advised. The Negro is still a poor, a very poor group and cannot support the social reform, and eleemosynary work which he needs for social uplift. Moreover his great bond to the rich and powerful has been their charity---if they break this bond they break the last tie that holds him in leash. This may be best in time, but for them is it wise now? Is it wise for white folk to forget that no amount of alms­ giving on their part will half repay the 300 years of unpaid toil and the fifty years of serfdom by which the black man has piled up wealth and comfort for white America?
 
-It would be a wiser and more far- sighted attitude today for white America to insist on paying back this debt which they owe to black America as a privilege---as a great peace-offering for wrong---rather than petulantly to vent their spleen on the sick, the degraded and the young for the growing self-assertion of the well, the risen and the old.
+It would be a wiser and more far-sighted attitude today for white America to insist on paying back this debt which they owe to black America as a privilege---as a great peace-offering for wrong---rather than petulantly to vent their spleen on the sick, the degraded and the young for the growing self-assertion of the well, the risen and the old.
 
 On our part the way is clear: the sooner we rise above charity, the sooner we shall be free.
 

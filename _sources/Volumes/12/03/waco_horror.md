@@ -115,7 +115,7 @@ Another account, in the Waco *Times Herald*, Monday night, says:
 
 The photographer knew where the lynching was to take place, and had his cameral paraphernalia in the City Hall. He was called by telephone at the proper moment. He writes us:
 
-> We have quit selling the mob photos, this step was taken because our 'City dads' objected on the grounds of 'bad publicity,' as we wanted to be boosters and not knockers, we agreed to stop all sale. - F.A. Gildersleeve.
+> We have quit selling the mob photos, this step was taken because our 'City dads' objected on the grounds of 'bad publicity,' as we wanted to be boosters and not knockers, we agreed to stop all sale. ---F.A. Gildersleeve.
 
 Our agent continues:
 > While the torso of the boy was being dragged through the streets behind the horse, the limbs dropped off and the head was put on the stoop of a disreputable woman in the reservation district. Some little boys pulled out the teeth and sold them to some men for five dollars apiece. The chain was sold for twenty-five cents a link.   <p> From the pictures, the boy was apparently a wonderfully built boy. The torso was taken to Robinson, hung to a tree, and shown off for a while, then they took it down again and dragged it back to town and put it on the fire again at five o'clock.

@@ -47,7 +47,7 @@ On the afternoon of October 7th, a motion was made to Judge Lanhan, presiding, f
 
 All arrangements had been made to remove the prisoners hastily if they were convicted. The murder charge against one dismissed and the other two certain to be freed if there was the slightest atom of decency and fair play in the minds of the twelve jurors, the plans were abandoned for some unexplained reason. They were taken back to jail and one man left there to guard them.
 
-Out of the courtroom streamed the crowd. Here and there men detached themselves from the clusters of talkers and went to the office of a lawyer who a month before had been elected -to the South Carolina State Legislature. And every man who met in that office was a member of the Ku Klux Klan! In this office, plans were hastily made. Telephone calls went out to Columbia, to Warrenville, to Graniteville, to Bath and other towns all over the State.
+Out of the courtroom streamed the crowd. Here and there men detached themselves from the clusters of talkers and went to the office of a lawyer who a month before had been elected to the South Carolina State Legislature. And every man who met in that office was a member of the Ku Klux Klan! In this office, plans were hastily made. Telephone calls went out to Columbia, to Warrenville, to Graniteville, to Bath and other towns all over the State.
 
 An hour after Judge Lanham delivered his decision, a white man in Columbia was talking to his lawyer, also white.
 
