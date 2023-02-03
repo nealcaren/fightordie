@@ -16,7 +16,7 @@ I was reared in an atmosphere of admiration---almost of veneration---for England
 
 Since those days I have visited England four times and met and known many Englishmen. With all the world, I have admired the Englishman of birth and breeding and felt the strange might and attraction of Empire on which the sun never sets. 
 
-But---and that "but" did not come from the coldness of the English manner, for I had been prepared for that by our own New England unemotional standards---but I remember once in Glasgow, seeing a young, beautiful woman lying in the gutter and a policeman kicking her. For a moment, I felt like murder. She was just a drunken prostitute, but--- 
+But---and that "but" did not come from the coldness of the English manner, for I had been prepared for that by our own New England unemotional standards---but I remember once in Glasgow, seeing a young, beautiful woman lying in the gutter and a policeman kicking her. For a moment, I felt like murder. She was just a drunken prostitute, but------ 
 
 Of course, Glasgow is not England and the East End is not London; but from that day a certain doubt of England found a place in my consciousness. Then I was in Paris at the time of the Peace Conference. There was no doubt but what England was getting more out of the Peace than anyone else and the reason was clear: She had better trained statesmen and they knew what they wanted and got it. But there was in their methods a sort of calm, grim power that I feared. 
 

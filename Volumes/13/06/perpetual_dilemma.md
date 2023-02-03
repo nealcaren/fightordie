@@ -62,7 +62,7 @@ A word to those who object:
 
 1. The army does not wish this camp. It wishes the project to fail. General Wood refuses to name date or place until 200 apply. The reason is obvious. Up to March 8, sixty-nine men have applied.
 2. The camp is a temporary measure lasting four weeks and designed to FIGHT not encourage discrimina­tion in the army. The New York Negro regiment could not find enough qualified Negroes for its commissions. W e want trained colored officers. This camp will help furnish them.
-3. The South does not want the Negro to receive military training of any sort. For that reason the general staff reduced its estimate from 900,- 000 to 500,000 soldiers---they expect to EXCLUDE Negroes!
+3. The South does not want the Negro to receive military training of any sort. For that reason the general staff reduced its estimate from 900,000 to 500,000 soldiers---they expect to EXCLUDE Negroes!
 4. If war comes, conscription will follow. All pretty talk about not vol­unteering will become entirely aca­demic. This is the mistake made by the Baltimore AFRO-AMERICAN, the Chicago DEFENDER, the New York NEWS, and the Cleveland GAZETTE. They assume a choice between volunteering and not volunteer­ing. The choice will be between con­scription and rebellion.
 
 Can the reader conceive of the pos­sibility of choice? The leaders of the colored race who advise them to add treason and rebellion to the other grounds on which the South urges discrimination against them would hardly be doing a service to those whom they profess to love. No, there is only one thing to do now, and that is to organize the colored people for leadership and service, if war should come. A thousand commissioned officers of colored blood is something to work for.
