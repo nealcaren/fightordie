@@ -26,7 +26,7 @@ Of Negroes, 10 years of age and over in gainful occupations, there are:
 | Civil Service | 15,763 |
 | Total | 5,503,535 |
 
-Of the farmers, 181,016 were owners. The others were tenants. We may, therefore, say that the capitalistic class among Negroes would be among the following :
+Of the farmers, 181,016 were owners. The others were tenants. We may, therefore, say that the capitalistic class among Negroes would be among the following:
 
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|

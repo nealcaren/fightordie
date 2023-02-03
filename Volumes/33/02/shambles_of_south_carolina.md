@@ -59,7 +59,7 @@ An hour after Judge Lanham delivered his decision, a white man in Columbia was t
 
 "What's going to happen there and why are you in such a hurry?"
 
-"They are going to lynch three n&#11834;s over there tonight. Don't you want to come along?" . . .
+"They are going to lynch three n&#11834;s over there tonight. Don't you want to come along?" ...
 
 It was a few days later that I reached South Carolina. In some of the towns where I went tracing information, gathering clues, they said to me, "Don't go to Aiken! If you do go, I wouldn't insure your life for a nickel."
 

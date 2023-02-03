@@ -47,7 +47,7 @@ We talked from Friday to Monday, interspersed with swimming and glorious food. O
 
 As a matter of fact most of the discussion confined itself to the economic conditions and the influence of education and politics on these conditions, There was little time left for the matter of racial organization, while the interracial aspects of the problem received practically no attention.
 
-The discussion was interesting. There was not a single speech made; that is, there was no attempt at rounded periods and eloquence by persons who had nothing in particular to say. No one even attempted it. When anyone got the floor, they really took hold of the thought and did something with it. And in the end, the general consensus of agreement was rather startling. Far greater than most of us had thought. These were the resolutions :
+The discussion was interesting. There was not a single speech made; that is, there was no attempt at rounded periods and eloquence by persons who had nothing in particular to say. No one even attempted it. When anyone got the floor, they really took hold of the thought and did something with it. And in the end, the general consensus of agreement was rather startling. Far greater than most of us had thought. These were the resolutions:
 
 *This conference* was called to make a critical appraisal of the Negro's existing situation in American Society and to consider underlying principles for future action. Such criticism at this stage does not involve the offering of concrete program for any organization for administrative guidance.
 

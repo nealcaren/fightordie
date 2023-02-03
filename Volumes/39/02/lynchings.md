@@ -29,7 +29,7 @@ That women and children were often in the mobs.
 
 That the causes of lynching as well as of Negro crime lie in the terrible forcing of ignorance on the colored people of the South and in caste restrictions.  
 
-The report bravely concludes :
+The report bravely concludes:
 
 > Lynching can and will be eliminated in proportion as all elements of the population are provided opportunities for development and are accorded fundamental human rights. Whether in the field of religion, education, economics, jurisprudence, or politics, anything which looks toward this end is a factor in reducing mob violence. For, fundamentally, lynching is an expression of a basic lack of respect both for human beings and for organized society.
 ______________
