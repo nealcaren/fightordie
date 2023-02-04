@@ -1,0 +1,22 @@
+<!--
+title:   An Amazing Island
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1915
+volume:  10
+issue:   2
+pages:   80-81
+-->
+# An Amazing Island (1915)
+
+AN AMAZING ISLAND
+
+Jamaica is a most amazing island. I have seen something of the earth, more especially Europe and America which leave, to be sure, much of the lands that I have unseen; but looked upon hitherto Jamaica is the most startling. The ride from Spanishtown to the northwestern sea is one of the great rides of the world to be likened to the Horse Shoe Bend or St. Gotthard. The Wag Water is a beautiful stream and Montego Bay is the bay of Naples. The whole island is a mass of gray, green mountains thrown on the face of the sea with gash and shadow and veil. The rain of Jamaica is the maddest, wildest and wettest of rains and the sunshine is God's. There in Jamaica the world is met. Africa and Asia and Europe all meet which may mean little and yet may be the most fateful meeting the world ever saw. In Jamaica for the first time in my life I lived beyond the color line---not on one side of it but beyond its end. There in strange places I could sense its curious paths stopping and wavering and fading into uncertain threads. Of course, I was ever looking for it. That is my inborn nature. I saw that the moving picture films, for instance, were "approved" by "His Worship, the Mayor," and when I sat beside His Worship, the Mayor at dinner, behold, His Worship was colored. I almost hesitated at the barber shops but the barbers did not hesitate. It was a strange sort of luxury to ride on railways where engineers, firemen, conductor and brakemen were black. The smart, dark Constables in their gleaming 
+white hats and coats gave me a double sense of security. In the stores there was usually a curl or a tint in the clerk that proclaimed the most ancient of blood and it was the same in the post office, the telephone exchange and the government buildings. In fact, though somewhat of an expert in knowing mine own, I confess that in Jamaica it was quite impossible for me to pick out the alleged 15,000 white people out of the 900,000 of population. 
+
+The peasants---a great mass of hard working black laborers---were to me perhaps more alluring. I can see now those black, straight and strong and full-bosomed forms, supple of hip and thigh and lithe of limb, sinewy yet fine and calm, treading their silent miles like fate. Soft of word and slow but sweet of smile and uncomplaining, of the blood and tears of such as these was built Jamaica. Threaded through all this curious beauty, with palm and mahogany, the scent of orange blossoms and the gleam of bananas, threaded through all this is the tragedy of a poverty almost incomprehensible. Think of a woman carrying sand all day, twelve endless hours in a Jamaica sun, for eighteen cents! Think of able-bodied men working for twenty-five cents and less a day. Think of walking fifty miles and carrying a hundred pound burden for forty cents. Think of raising and selling oranges at two cents a hundred! 
+
+Here is an island rich beyond dream; out of it for three centuries and more the white world has reaped its millions. Yet today the island lies poverty-stricken but facing the world proudly with one great gift, the gift of racial peace, the utter overturning of the barbaric war of color, with a chance for men to lift themselves regardless of the complexion of their grandfathers. It is the most marvelous paradox of this paradoxical western world. 
+
+______
+*Citation:* Du Bois, W.E.B. 1915. "An Amazing Island." *The Crisis*. 10(2):80&ndash;81.

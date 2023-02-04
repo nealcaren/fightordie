@@ -1,0 +1,5 @@
+# Labor
+
+
+```{tableofcontents}
+```

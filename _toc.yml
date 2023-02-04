@@ -68,6 +68,7 @@ chapters:
 
 
 - file: Sections/racialviolence.md
+  sections:
   - file: Sections/lynching.md
     sections:
     - file: Volumes/02/04/lynching.md

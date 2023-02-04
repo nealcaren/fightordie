@@ -1,0 +1,24 @@
+<!--
+title:   Separation and Self-Respect
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1934
+volume:  41
+issue:   3
+pages:   85
+-->
+# Separation and Self-Respect (1934)
+
+That we continually face in this problem of race segregation in the United States is a paradox like this:
+
+1. Compulsory separation of human beings by essentially artificial criteria, such as birth, nationality, language, color and race, is the cause of human hate, jealousy and war, and the destruction of talent and art.    
+2. Where separation of mankind into races, groups and classes is compulsory, either by law or custom, and whether that compulsion be temporary or permanent, the only effective defense that the segregated and despised group has against complete spiritual and physical disaster, is internal self-organization for self-respect and self-defense.
+
+The dilemma is complete and there is no escape. The black man born in South Carolina has a right and a duty to complain that any public school system separated by artificial race and class lines is needlessly expensive, socially dangerous, and spiritually degrading. And yet that black man will send his child to a Negro school, and he will see to it, if he is really a man, that this Negro school is the best possible school; that it is decently housed and effectively taught by well-trained teachers. He will demand a voice in its control, finances and curriculum, and any action of his that asks for less than this will mark him as an idiot or a coward.
+
+A black man born in Boston has a right to oppose any separation of schools by color, race or class. He has a duty to insist that the public school attended by all kinds and conditions of people, is the best and only door to true democracy and human understanding. But this black man in Boston has no right, after he has made this academic pronouncement to send his own helpless immature child into school where white children kick, cuff or abuse him, or where teachers openly and persistently neglect or hurt or dwarf its soul. If he does, he must not be surprised if the boy lands in the gutter or penitentiary. Moreover, our Boston brother has no right to sneer at the "Jim-Crow" schools of South Carolina, or at the brave teachers who guide them at starvation wage; nor can he conscientiously advise the South Carolinian to move to Boston and join the bread lines.
+
+Let the N.A.A.C.P. and every upstanding Negro pound at the closed gates of opportunity and denounce caste and segregation; but let us not punish our own children under the curious impression that we are punishing our white oppressors. Let us not affront our own self-respect by accepting a proffered equality which is not equality, or submitting to discrimination simply because it does not involve actual and open segregation; and above all, let us not sit down and do nothing for self-defense and self-organization just because we are too stupid or too distrustful of ourselves to take vigorous and decisive action.
+
+_________________
+*Citation:* Du Bois, W.E.B. 1934. "Separation and Self-Respect." *The Crisis*. 41(3):85.

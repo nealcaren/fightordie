@@ -1,0 +1,23 @@
+<!--
+title:   The Clansman
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1913
+volume:  10
+issue:   1
+pages:   33
+-->
+# The Clansman (1913)
+
+```{margin}
+The film, based on [Thomas Dixon Jr.'s](https://en.wikipedia.org/wiki/Thomas_Dixon_Jr) novel [The Clansman: A Historical Romance of the Ku Klux Klan](https://en.wikipedia.org/wiki/The_Clansman:_A_Historical_Romance_of_the_Ku_Klux_Klan) was renamed [The Birth of a Nation](https://en.wikipedia.org/wiki/The_Birth_of_a_Nation) in March, 1915.
+```
+
+Several years ago a "professional southerner" named Dixon wrote a sensational and melodramatic novel which has been widely read. Eight years ago Dixon brought out his novel as a sordid and lurid melodrama. In several cities the performance of this play was prohibited because of its indecency or incitement to riot. Recently this vicious play has been put into moving pictures. With great adroitness the real play is preceded by a number of marvelously good war pictures; then in the second part comes the real "Clansman" with the Negro represented either as an ignorant fool, a vicious rapist, a venal and unscrupulous politician or a faithful but doddering idiot. By curious procedure this film received the preliminary approval of the National Board of Censors. It was put on in Los Angeles and immediately the fine organization of the N.A.A.C.P. was manifest. The facts were telegraphed to us from our Los Angeles Branch. We started at the Board of Censors. The proprietors of the film fought madly but the Censors met, viewed the film and immediately withdrew their sanction. Many of them were astonished that any committee of their board had ever passed it. The owners of the film promised to modify it but the modifications were unimportant. Yet this remarkable Board of Censors met a third time and passed the film over the protests of a minority of nine persons. Among these nine, however, was the chairman and founder of the board, Frederick C. Howe, Commissioner of Immigration at the Port of New York and several others equally influential. In other words, the board of censorship is now practically split in two. The Association was not discouraged but immediately took steps on the one hand to bring the matter into court and on the other hand to interview the mayor. 'The interview with the mayor was after some difficulty arranged. The delegation of five hundred of the most prominent white and colored people in the city filled the Council Chamber at City Hall and for an hour in terse, tense speeches urged the mayor to act. The mayor promised to have the two rape scenes cut out immediately and to go further than this if the play still seemed objectionable from the point of view of public peace and decency.
+
+This action while commendable is not sufficient. The whole second half of the play ought to be suppressed and the Association will continue to work to this end. It is gratifying to know that in this work we have the cordial co-operation of all elements of colored people. The New York *Age* and the <span style="font-variant:small-caps;">Crisis</span> worked hand in hand with Harlem, Brooklyn and Jersey City. We know no factions in the righting of this great wrong.
+
+ It is sufficient to add that the main incident in the "Clansman" turns on a thinly veiled charge that Thaddeus Stephens, the great abolition statesman, was induced to give the Negroes the right to vote and secretly rejoice in Lincoln's assassination because of his infatuation for a mulatto mistress. Small wonder that a man who can thus brutally falsify history has never been able to do a single piece of literary work that has brought the slightest attention, except when he seeks to capitalize burning race antagonisms.
+
+ ______________
+*Citation:* Du Bois, W.E.B. 1913. "The Clansman." *The Crisis*. 10(1):33.
