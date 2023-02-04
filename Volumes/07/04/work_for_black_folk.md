@@ -9,7 +9,7 @@ pages:   186-187
 -->
 # Work for Black Folk in 1914 (1914)
 
-Merican citizens of Negro descent and their friends have much to do in 1914, if they are to stem the rising tide of racial proscription.
+American citizens of Negro descent and their friends have much to do in 1914, if they are to stem the rising tide of racial proscription.
 
 First---They must meet the new attack on property rights of colored people which, under the name of "segregation" and under the excuse of such equitable adjustment of social relations as to avoid "friction," is really a widespread attempt to prevent colored people from making good investments or living in decent homes. Its latest appearance is directed toward preventing Negroes from buying agricultural land, and against this last and most dangerous propaganda what honest American can withhold his influence and help?
 

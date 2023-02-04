@@ -15,8 +15,8 @@
 |   1911 |        1 | 5       | [Politeness](https://www.dareyoufight.org/Volumes/01/05/politeness.html)                                                                  |
 |   1911 |        1 | 5       | [The White Primary](https://www.dareyoufight.org/Volumes/01/05/white_primary.html)                                                        |
 |   1911 |        2 | 2       | [Starvation and Prejudice](https://www.dareyoufight.org/Volumes/02/02/starvation_and_prejudice.html)                                      |
-|   1911 |        2 | 4       | [Lynching](https://www.dareyoufight.org/Volumes/02/04/lynching.html)                                                                      |
 |   1911 |        2 | 4       | [Races](https://www.dareyoufight.org/Volumes/02/04/races.html)                                                                            |
+|   1911 |        2 | 4       | [Lynching](https://www.dareyoufight.org/Volumes/02/04/lynching.html)                                                                      |
 |   1911 |        2 | 5       | [Triumph](https://www.dareyoufight.org/Volumes/02/05/triumph.html)                                                                        |
 |   1911 |        2 | 5       | [The Races in Congress](https://www.dareyoufight.org/Volumes/02/05/races_congress.html)                                                   |
 |   1911 |        2 | 6       | [Forward Backward](https://www.dareyoufight.org/Volumes/02/06/forwardbackward.html)                                                       |
@@ -121,8 +121,8 @@
 |   1919 |       15 | 3       | [Thirteen](https://www.dareyoufight.org/Volumes/15/03/thirteen.html)                                                                      |
 |   1919 |       15 | 4       | [The Burning at Dyersburg: An N.A.A.C.P. Investigation](https://www.dareyoufight.org/Volumes/15/04/burning_at_dyersburg.html)             |
 |   1919 |       17 | 3       | [Jim Crow](https://www.dareyoufight.org/Volumes/17/03/jim_crow.html)                                                                      |
-|   1919 |       17 | 4       | [Africa](https://www.dareyoufight.org/Volumes/17/04/africa.html)                                                                          |
 |   1919 |       17 | 4       | [Reconstruction and Africa](https://www.dareyoufight.org/Volumes/17/04/reconstruction_and_africa.html)                                    |
+|   1919 |       17 | 4       | [Africa](https://www.dareyoufight.org/Volumes/17/04/africa.html)                                                                          |
 |   1919 |       17 | 6       | [For What](https://www.dareyoufight.org/Volumes/17/06/for_what.html)                                                                      |
 |   1919 |       18 | 1       | [Returning Soldiers](https://www.dareyoufight.org/Volumes/18/01/returning_soldiers.html)                                                  |
 |   1919 |       18 | 1       | [Robert R. Moton](https://www.dareyoufight.org/Volumes/18/01/robert_moton.html)                                                           |
@@ -139,15 +139,15 @@
 |   1919 |       18 | 6       | [The Riot at Longview, Texas](https://www.dareyoufight.org/Volumes/18/06/riot_at_longview.html)                                           |
 |   1919 |       19 | 1       | [Social Equality](https://www.dareyoufight.org/Volumes/19/01/social_equality.html)                                                        |
 |   1919 |       19 | 1       | [A Statement](https://www.dareyoufight.org/Volumes/19/01/statement.html)                                                                  |
-|   1919 |       19 | 2       | [Votes](https://www.dareyoufight.org/Volumes/19/02/votes.html)                                                                            |
 |   1919 |       19 | 2       | [The Real Causes of Two Race Riots](https://www.dareyoufight.org/Volumes/19/02/real_causes.html)                                          |
+|   1919 |       19 | 2       | [Votes](https://www.dareyoufight.org/Volumes/19/02/votes.html)                                                                            |
 |   1919 |       19 | 2       | [Radicals](https://www.dareyoufight.org/Volumes/19/02/radicals.html)                                                                      |
 |   1920 |       19 | 3       | [American Legion, Again](https://www.dareyoufight.org/Volumes/19/03/american_legion_again.html)                                           |
-|   1920 |       19 | 3       | [The Macon Telegraph](https://www.dareyoufight.org/Volumes/19/03/macon_telegraph.html)                                                    |
-|   1920 |       19 | 3       | [Race Pride](https://www.dareyoufight.org/Volumes/19/03/race_pride.html)                                                                  |
-|   1920 |       19 | 3       | [Race Pride](https://www.dareyoufight.org/Volumes/19/03/england.html)                                                                     |
-|   1920 |       19 | 3       | [Brothers, Come North](https://www.dareyoufight.org/Volumes/19/03/brothers_come_north.html)                                               |
 |   1920 |       19 | 3       | [Sex Equality](https://www.dareyoufight.org/Volumes/19/03/sex_equality.html)                                                              |
+|   1920 |       19 | 3       | [The Macon Telegraph](https://www.dareyoufight.org/Volumes/19/03/macon_telegraph.html)                                                    |
+|   1920 |       19 | 3       | [Race Pride](https://www.dareyoufight.org/Volumes/19/03/england.html)                                                                     |
+|   1920 |       19 | 3       | [Race Pride](https://www.dareyoufight.org/Volumes/19/03/race_pride.html)                                                                  |
+|   1920 |       19 | 3       | [Brothers, Come North](https://www.dareyoufight.org/Volumes/19/03/brothers_come_north.html)                                               |
 |   1920 |       19 | 4       | [Coöperation](https://www.dareyoufight.org/Volumes/19/04/cooperation.html)                                                                |
 |   1920 |       19 | 4       | [Crime](https://www.dareyoufight.org/Volumes/19/04/crime.html)                                                                            |
 |   1920 |       20 | 1       | [Get Ready](https://www.dareyoufight.org/Volumes/20/01/get_ready.html)                                                                    |
@@ -209,10 +209,10 @@
 |   1926 |       32 | 6       | [Criteria of Negro Art](https://www.dareyoufight.org/Volumes/32/06/criteria_of_negro_art.html)                                            |
 |   1926 |       33 | 1       | [Russia, 1926](https://www.dareyoufight.org/Volumes/33/01/russia_1926.html)                                                               |
 |   1926 |       33 | 2       | [The Shambles of South Carolina](https://www.dareyoufight.org/Volumes/33/02/shambles_of_south_carolina.html)                              |
+|   1927 |       33 | 3       | [Intermarriage](https://www.dareyoufight.org/Volumes/33/03/intermarriage.html)                                                            |
 |   1927 |       33 | 3       | [League of Nations](https://www.dareyoufight.org/Volumes/33/03/league_of_nations.html)                                                    |
 |   1927 |       33 | 3       | [Our Methods](https://www.dareyoufight.org/Volumes/33/03/our_methods.html)                                                                |
 |   1927 |       33 | 3       | [Hayes](https://www.dareyoufight.org/Volumes/33/03/hayes.html)                                                                            |
-|   1927 |       33 | 3       | [Intermarriage](https://www.dareyoufight.org/Volumes/33/03/intermarriage.html)                                                            |
 |   1927 |       33 | 4       | [Lynching](https://www.dareyoufight.org/Volumes/33/04/lynching.html)                                                                      |
 |   1927 |       33 | 4       | [Judging Russia](https://www.dareyoufight.org/Volumes/33/04/judging_russia.html)                                                          |
 |   1927 |       34 | 1       | [Aiken](https://www.dareyoufight.org/Volumes/34/01/aiken.html)                                                                            |
@@ -237,12 +237,12 @@
 |   1929 |       36 | 5       | [Herbert Hoover and the South](https://www.dareyoufight.org/Volumes/36/05/hoover_and_the_south.html)                                      |
 |   1929 |       36 | 5       | [Optimism](https://www.dareyoufight.org/Volumes/36/05/optimism.html)                                                                      |
 |   1929 |       36 | 5       | [Missionaries](https://www.dareyoufight.org/Volumes/36/05/missionaries.html)                                                              |
+|   1930 |       37 | 1       | [About Marrying](https://www.dareyoufight.org/Volumes/37/01/about_marrying.html)                                                          |
 |   1930 |       37 | 1       | [Football](https://www.dareyoufight.org/Volumes/37/01/football.html)                                                                      |
 |   1930 |       37 | 1       | [About Wailing](https://www.dareyoufight.org/Volumes/37/02/about_wailing.html)                                                            |
 |   1930 |       37 | 1       | [Gambling](https://www.dareyoufight.org/Volumes/37/01/gambling.html)                                                                      |
-|   1930 |       37 | 1       | [About Marrying](https://www.dareyoufight.org/Volumes/37/01/about_marrying.html)                                                          |
-|   1930 |       37 | 2       | [Smuts](https://www.dareyoufight.org/Volumes/37/02/smuts.html)                                                                            |
 |   1930 |       37 | 2       | [Interracial Love in Texas](https://www.dareyoufight.org/Volumes/37/02/interracial_love_in_texas.html)                                    |
+|   1930 |       37 | 2       | [Smuts](https://www.dareyoufight.org/Volumes/37/02/smuts.html)                                                                            |
 |   1930 |       37 | 2       | [That Capital 'N'](https://www.dareyoufight.org/Volumes/37/02/that_capital_n.html)                                                        |
 |   1930 |       37 | 2       | [Education](https://www.dareyoufight.org/Volumes/37/02/education.html)                                                                    |
 |   1930 |       37 | 3       | [Patient Asses](https://www.dareyoufight.org/Volumes/37/03/patient_asses.html)                                                            |
@@ -261,9 +261,9 @@
 |   1932 |       39 | 3       | [Dalton, GA](https://www.dareyoufight.org/Volumes/39/03/dalton_ga.html)                                                                   |
 |   1932 |       39 | 3       | [Hawaii](https://www.dareyoufight.org/Volumes/39/03/hawaii.html)                                                                          |
 |   1932 |       39 | 3       | [To Your Tents, Oh Israel!](https://www.dareyoufight.org/Volumes/39/03/to_your_tents.html)                                                |
+|   1932 |       39 | 4       | [A Platform for Radicals](https://www.dareyoufight.org/Volumes/39/04/platform_for_radicals.html)                                          |
 |   1932 |       39 | 4       | [Courts and Jails](https://www.dareyoufight.org/Volumes/39/04/courts_and_jails.html)                                                      |
 |   1932 |       39 | 4       | [Again Howard](https://www.dareyoufight.org/Volumes/39/04/again_howard.html)                                                              |
-|   1932 |       39 | 4       | [A Platform for Radicals](https://www.dareyoufight.org/Volumes/39/04/platform_for_radicals.html)                                          |
 |   1932 |       39 | 8       | [Blaine of Maine](https://www.dareyoufight.org/Volumes/39/08/blaine_of_maine.html)                                                        |
 |   1932 |       39 | 9       | [Young Voters](https://www.dareyoufight.org/Volumes/39/09/young_voters.html)                                                              |
 |   1932 |       39 | 9       | [Employment](https://www.dareyoufight.org/Volumes/39/09/employment.html)                                                                  |
@@ -273,17 +273,17 @@
 |   1933 |       40 | 10      | [Youth and Age at Amenia](https://www.dareyoufight.org/Volumes/40/10/youth_and_age.html)                                                  |
 |   1933 |       40 | 10      | [The Church and Religion](https://www.dareyoufight.org/Volumes/40/10/church_and_religion.html)                                            |
 |   1933 |       40 | 12      | [Too Rich to be a N&#11834;](https://www.dareyoufight.org/Volumes/40/12/too_rich.html)                                                    |
+|   1933 |       40 | 12      | [Peace](https://www.dareyoufight.org/Volumes/40/12/peace.html)                                                                            |
 |   1933 |       40 | 12      | [The A.F. of L.](https://www.dareyoufight.org/Volumes/40/12/af_of_l.html)                                                                 |
 |   1933 |       40 | 12      | [A Matter of Manners](https://www.dareyoufight.org/Volumes/40/12/matter_of_manners.html)                                                  |
-|   1933 |       40 | 12      | [Peace](https://www.dareyoufight.org/Volumes/40/12/peace.html)                                                                            |
+|   1933 |       40 | 2       | [Dodging the Issue](https://www.dareyoufight.org/Volumes/40/02/dodging_the_issue.html)                                                    |
 |   1933 |       40 | 2       | [Our Rate of Increase](https://www.dareyoufight.org/Volumes/40/02/our_rate_of_increase.html)                                              |
 |   1933 |       40 | 2       | [Our Health](https://www.dareyoufight.org/Volumes/40/02/our_health.html)                                                                  |
 |   1933 |       40 | 2       | [It is a Girl](https://www.dareyoufight.org/Volumes/40/02/its_a_girl.html)                                                                |
-|   1933 |       40 | 2       | [Dodging the Issue](https://www.dareyoufight.org/Volumes/40/02/dodging_the_issue.html)                                                    |
 |   1933 |       40 | 3       | [Color Caste in the United States](https://www.dareyoufight.org/Volumes/40/03/color_caste_in_the_united_states.html)                      |
 |   1933 |       40 | 4       | [The Right to Work](https://www.dareyoufight.org/Volumes/40/04/right_to_work.html)                                                        |
-|   1933 |       40 | 5       | [Marxism and The Negro Problem](https://www.dareyoufight.org/Volumes/40/05/marxism_and_the_negro_problem.html)                            |
 |   1933 |       40 | 5       | [Scottsboro](https://www.dareyoufight.org/Volumes/40/05/scottsboro.html)                                                                  |
+|   1933 |       40 | 5       | [Marxism and The Negro Problem](https://www.dareyoufight.org/Volumes/40/05/marxism_and_the_negro_problem.html)                            |
 |   1933 |       40 | 6       | [The Strategy of the Negro Voter](https://www.dareyoufight.org/Volumes/40/06/strategy_of_the_negro_voter.html)                            |
 |   1933 |       40 | 7       | [A Protest](https://www.dareyoufight.org/Volumes/40/07/protest.html)                                                                      |
 |   1933 |       40 | 7       | [Our Class Struggle](https://www.dareyoufight.org/Volumes/40/07/our_class_struggle.html)                                                  |

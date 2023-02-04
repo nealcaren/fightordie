@@ -1,5 +1,0 @@
-# Great Migration
-
-
-```{tableofcontents}
-```
