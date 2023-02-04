@@ -107,6 +107,131 @@ chapters:
   - file: Volumes/40/05/scottsboro.md
   - file: Volumes/41/01/scottsboro.md
 
+
+- file: Sections/electoral
+  title: Disenfranchisement and Voting
+  sections:
+  - file: Sections/disenfranchisement
+    sections:
+    - file: Volumes/01/05/white_primary.md
+    - file: Volumes/10/01/fourteenth_amendment.md
+    - file: Volumes/19/02/votes.md
+    - file: Volumes/30/02/disenfranchisement.md
+    - file: Volumes/35/09/possiblity_of_democracy_i.md
+    - file: Volumes/36/05/negro_citizen.md
+    - file: Volumes/36/11/negro_in_politics.md
+    - file: Volumes/39/09/young_voters.md
+    - file: Volumes/40/06/strategy_of_the_negro_voter.md
+  - file: Sections/womansuffrage
+    sections:
+    - file: Volumes/02/06/forwardbackward.md
+    - file: Volumes/04/02/suffering_suffragettes.md
+    - file: Volumes/04/04/ohio.md
+    - file: Volumes/04/05/votes_for_women.md
+    - file: Volumes/09/06/womansuffrage.md
+    - file: Volumes/09/03/agility.md
+    - file: Volumes/15/01/votes_for_women.md
+    - file: Volumes/20/01/get_ready.md
+    - file: Volumes/21/01/suffrage.md
+  - file: Sections/voting
+    sections:
+    - file: Volumes/04/04/politics.md
+    - file: Volumes/08/05/last_word_in_politics.md
+    - file: Volumes/10/01/the_republicans.md
+    - file: Volumes/13/01/mr_hughes.md
+    - file: Volumes/13/01/presidential_candidates.md
+    - file: Volumes/13/02/muddle.md
+    - file: Volumes/15/01/oath_of_the_negro_voter.md
+    - file: Volumes/21/02/unreal_campaign.md
+    - file: Volumes/22/01/drive.md
+    - file: Volumes/28/03/vote.md
+    - file: Volumes/28/04/la_follette.md
+    - file: Volumes/28/05/naacp_and_parties.md
+    - file: Volumes/29/01/how_shall_we_vote.md
+    - file: Volumes/34/04/chicago.md
+    - file: Volumes/35/11/on_the_fence.md
+    - file: Volumes/35/11/third_party.md
+    - file: Volumes/36/02/depriest.md
+    - file: Volumes/36/05/hoover_and_the_south.md
+    - file: Volumes/39/11/herbert_hoover.md
+
+
+- file: Sections/strategy
+  sections:
+  - file: Volumes/01/01/Agitation.md
+  - file: Volumes/05/05/proper_way.md
+  - file: Volumes/09/05/organization.md
+  - file: Volumes/09/06/immediate_program.md
+  - file: Volumes/13/02/refinement_and_love.md
+  - file: Volumes/19/01/statement.md
+  - file: Volumes/12/06/negro_party.md
+  - file: Volumes/22/01/inter-racial_comity.md
+  - file: Volumes/22/03/amity.md
+  - file: Volumes/22/03/libelous_film.md
+  - file: Volumes/24/01/publicity.md
+  - file: Volumes/29/05/radicals_and_the_negro.md
+  - file: Volumes/37/03/boycott.md
+  - file: Volumes/40/10/youth_and_age.md
+  - file: Volumes/40/02/dodging_the_issue.md
+  - file: Volumes/41/05/violence.md
+  - file: Volumes/41/06/counsels_of_despair.md
+  - file: Sections/NAACP
+    sections:
+    - file: Volumes/01/02/NAACP.md
+    - file: Volumes/01/01/TheCrisis.md
+    - file: Volumes/03/04/gail_of_bitterness.md
+    - file: Volumes/06/01/vigilance_committee.md
+    - file: Volumes/07/03/fightordie.md
+    - file: Volumes/07/04/work_for_black_folk.md
+    - file: Volumes/11/01/we_come_of_age.md
+    - file: Volumes/10/01/credit.md
+    - file: Volumes/20/01/white_coworkers.md
+    - file: Volumes/28/03/unity.md
+    - file: Volumes/30/01/new_crisis.md
+    - file: Volumes/37/05/our_program.md
+    - file: Volumes/33/03/our_methods.md
+    - file: Volumes/40/01/toward_a_new_racial_philosophy.md
+    
+- file: Sections/economics
+  sections:
+  - file: Sections/labor
+    sections:
+    - file: Volumes/03/06/servant_in_the_south.md
+    - file: Volumes/04/03/organized_labor.md
+    - file: Volumes/15/05/the_black_man_and_the_unions.md
+    - file: Volumes/18/05/labor_omnia_vincit.md
+    - file: Volumes/28/04/american_federation_of_labor.md
+    - file: Volumes/31/02/black_man_and_labor.md
+    - file: Volumes/31/03/pullman_porters.md
+    - file: Volumes/31/06/again_pullman_porters.md
+    - file: Volumes/35/03/black_and_white_workers.md
+    - file: Volumes/39/09/employment.md
+    - file: Volumes/40/12/af_of_l.md
+  - file: Sections/socialism
+    sections: 
+    - file: Volumes/15/01/cooperation.md
+    - file: Volumes/18/05/forward.md
+    - file: Volumes/19/04/cooperation.md
+    - file: Volumes/22/03/negro_and_radical_thought.md
+    - file: Volumes/22/04/class_struggle.md
+    - file: Volumes/22/06/socialism_and_the_negro.md
+    - file: Volumes/22/06/single_tax.md
+    - file: Volumes/27/03/black_man_and_the_wounded_world.md
+      title: The Black Man and the Wounded World (1923)
+    - file: Volumes/33/01/russia_1926.md
+    - file: Volumes/33/04/judging_russia.md
+    - file: Volumes/35/11/dunbar_national_bank.md
+    - file: Volumes/37/01/gambling.md
+    - file: Volumes/38/09/negro_and_communism.md
+    - file: Volumes/40/04/right_to_work.md
+    - file: Volumes/40/05/marxism_and_the_negro_problem.md
+    - file: Volumes/40/07/our_class_struggle.md
+    - file: Volumes/41/03/Subsistence_homestead_colonies.md
+  - file: Volumes/34/02/farmers.md
+  - file: Volumes/37/03/our_economic_peril.md
+  - file: Volumes/39/03/to_your_tents.md
+  - file: Volumes/39/04/platform_for_radicals.md
+
 - file: Sections/global
   sections:
   - file: Volumes/01/02/races_in_conference.md
@@ -161,129 +286,6 @@ chapters:
     - file: Volumes/40/01/listen_japan_and_china.md
   - file: Volumes/39/12/from_a_traveler.md
   - file: Volumes/40/12/peace.md
-
-- file: Sections/electoral
-  title: Disenfranchisement and Voting
-  sections:
-  - file: Sections/disenfranchisement
-    sections:
-    - file: Volumes/01/05/white_primary.md
-    - file: Volumes/10/01/fourteenth_amendment.md
-    - file: Volumes/19/02/votes.md
-    - file: Volumes/30/02/disenfranchisement.md
-    - file: Volumes/35/09/possiblity_of_democracy_i.md
-    - file: Volumes/36/05/negro_citizen.md
-    - file: Volumes/36/11/negro_in_politics.md
-    - file: Volumes/39/09/young_voters.md
-    - file: Volumes/40/06/strategy_of_the_negro_voter.md
-  - file: Sections/womansuffrage
-    sections:
-    - file: Volumes/02/06/forwardbackward.md
-    - file: Volumes/04/02/suffering_suffragettes.md
-    - file: Volumes/04/04/ohio.md
-    - file: Volumes/04/05/votes_for_women.md
-    - file: Volumes/09/06/womansuffrage.md
-    - file: Volumes/09/03/agility.md
-    - file: Volumes/15/01/votes_for_women.md
-    - file: Volumes/20/01/get_ready.md
-    - file: Volumes/21/01/suffrage.md
-  - file: Sections/voting
-    sections:
-    - file: Volumes/04/04/politics.md
-    - file: Volumes/08/05/last_word_in_politics.md
-    - file: Volumes/10/01/the_republicans.md
-    - file: Volumes/13/01/mr_hughes.md
-    - file: Volumes/13/01/presidential_candidates.md
-    - file: Volumes/13/02/muddle.md
-    - file: Volumes/15/01/oath_of_the_negro_voter.md
-    - file: Volumes/21/02/unreal_campaign.md
-    - file: Volumes/22/01/drive.md
-    - file: Volumes/28/03/vote.md
-    - file: Volumes/28/04/la_follette.md
-    - file: Volumes/28/05/naacp_and_parties.md
-    - file: Volumes/29/01/how_shall_we_vote.md
-    - file: Volumes/34/04/chicago.md
-    - file: Volumes/35/11/on_the_fence.md
-    - file: Volumes/35/11/third_party.md
-    - file: Volumes/36/02/depriest.md
-    - file: Volumes/36/05/hoover_and_the_south.md
-    - file: Volumes/39/11/herbert_hoover.md
-
-- file: Sections/economics
-  sections:
-  - file: Sections/labor
-    sections:
-    - file: Volumes/03/06/servant_in_the_south.md
-    - file: Volumes/04/03/organized_labor.md
-    - file: Volumes/15/05/the_black_man_and_the_unions.md
-    - file: Volumes/18/05/labor_omnia_vincit.md
-    - file: Volumes/28/04/american_federation_of_labor.md
-    - file: Volumes/31/02/black_man_and_labor.md
-    - file: Volumes/31/03/pullman_porters.md
-    - file: Volumes/31/06/again_pullman_porters.md
-    - file: Volumes/35/03/black_and_white_workers.md
-    - file: Volumes/39/09/employment.md
-    - file: Volumes/40/12/af_of_l.md
-  - file: Sections/socialism
-    sections: 
-    - file: Volumes/15/01/cooperation.md
-    - file: Volumes/18/05/forward.md
-    - file: Volumes/19/04/cooperation.md
-    - file: Volumes/22/03/negro_and_radical_thought.md
-    - file: Volumes/22/04/class_struggle.md
-    - file: Volumes/22/06/socialism_and_the_negro.md
-    - file: Volumes/22/06/single_tax.md
-    - file: Volumes/27/03/black_man_and_the_wounded_world.md
-      title: The Black Man and the Wounded World (1923)
-    - file: Volumes/33/01/russia_1926.md
-    - file: Volumes/33/04/judging_russia.md
-    - file: Volumes/35/11/dunbar_national_bank.md
-    - file: Volumes/37/01/gambling.md
-    - file: Volumes/38/09/negro_and_communism.md
-    - file: Volumes/40/04/right_to_work.md
-    - file: Volumes/40/05/marxism_and_the_negro_problem.md
-    - file: Volumes/40/07/our_class_struggle.md
-    - file: Volumes/41/03/Subsistence_homestead_colonies.md
-  - file: Volumes/34/02/farmers.md
-  - file: Volumes/37/03/our_economic_peril.md
-  - file: Volumes/39/03/to_your_tents.md
-  - file: Volumes/39/04/platform_for_radicals.md
-
-- file: Sections/strategy
-  sections:
-  - file: Volumes/01/01/Agitation.md
-  - file: Volumes/05/05/proper_way.md
-  - file: Volumes/09/05/organization.md
-  - file: Volumes/09/06/immediate_program.md
-  - file: Volumes/13/02/refinement_and_love.md
-  - file: Volumes/19/01/statement.md
-  - file: Volumes/12/06/negro_party.md
-  - file: Volumes/22/01/inter-racial_comity.md
-  - file: Volumes/22/03/amity.md
-  - file: Volumes/22/03/libelous_film.md
-  - file: Volumes/24/01/publicity.md
-  - file: Volumes/29/05/radicals_and_the_negro.md
-  - file: Volumes/37/03/boycott.md
-  - file: Volumes/40/10/youth_and_age.md
-  - file: Volumes/40/02/dodging_the_issue.md
-  - file: Volumes/41/05/violence.md
-  - file: Volumes/41/06/counsels_of_despair.md
-  - file: Sections/NAACP
-    sections:
-    - file: Volumes/01/02/NAACP.md
-    - file: Volumes/01/01/TheCrisis.md
-    - file: Volumes/03/04/gail_of_bitterness.md
-    - file: Volumes/06/01/vigilance_committee.md
-    - file: Volumes/07/03/fightordie.md
-    - file: Volumes/07/04/work_for_black_folk.md
-    - file: Volumes/11/01/we_come_of_age.md
-    - file: Volumes/10/01/credit.md
-    - file: Volumes/20/01/white_coworkers.md
-    - file: Volumes/28/03/unity.md
-    - file: Volumes/30/01/new_crisis.md
-    - file: Volumes/37/05/our_program.md
-    - file: Volumes/33/03/our_methods.md
-    - file: Volumes/40/01/toward_a_new_racial_philosophy.md
 
 - file: Sections/arts
   sections:

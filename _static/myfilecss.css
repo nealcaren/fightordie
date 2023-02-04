@@ -50,7 +50,7 @@
 }
 
 .toctree-l2, .toctree-l1, .toctree-l3 {
-  font-size: 1rem;
+  font-size: 1.1rem;
 }
 
 
@@ -155,13 +155,11 @@ aside  p {
 }
 
 p .prev-next-title {
-  font-size: 1rem;
-  line-height: 1.1rem;
+  font-size: 1.1rem;
 }
 
 p .prev-next-subtitle {
-  font-size: 1rem;
-  line-height: 1.1rem;
+  font-size: 1.1rem;
 }
 
 

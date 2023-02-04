@@ -5,8 +5,8 @@
 |   1910 |        1 | 1       | [Segregation](https://www.dareyoufight.org/Volumes/01/01/Segregation.html)                                                                |
 |   1910 |        1 | 1       | [Agitation](https://www.dareyoufight.org/Volumes/01/01/Agitation.html)                                                                    |
 |   1910 |        1 | 1       | [The Crisis](https://www.dareyoufight.org/Volumes/01/01/TheCrisis.html)                                                                   |
-|   1910 |        1 | 2       | [The Races in Conference](https://www.dareyoufight.org/Volumes/01/02/races_in_conference.html)                                            |
 |   1910 |        1 | 2       | [N.A.A.C.P.](https://www.dareyoufight.org/Volumes/01/02/NAACP.html)                                                                       |
+|   1910 |        1 | 2       | [The Races in Conference](https://www.dareyoufight.org/Volumes/01/02/races_in_conference.html)                                            |
 |   1910 |        1 | 2       | [Precept and Practice](https://www.dareyoufight.org/Volumes/01/02/precept_and_practice.html)                                              |
 |   1911 |        1 | 3       | ['Social Equality'](https://www.dareyoufight.org/Volumes/01/03/social_equality.html)                                                      |
 |   1911 |        1 | 3       | [A Winter Pilgrimage](https://www.dareyoufight.org/Volumes/01/03/winter_pilmigrage.html)                                                  |
@@ -54,10 +54,10 @@
 |   1914 |        9 | 1       | [The Burden of Black Women](https://www.dareyoufight.org/Volumes/09/01/burden_of_black_women.html)                                        |
 |   1914 |        9 | 2       | [William Monroe Trotter](https://www.dareyoufight.org/Volumes/09/02/trotter.html)                                                         |
 |   1914 |        9 | 2       | [Negro](https://www.dareyoufight.org/Volumes/09/02/negro.html)                                                                            |
-|   1915 |       10 | 1       | [Peace](https://www.dareyoufight.org/Volumes/10/01/peace.html)                                                                            |
 |   1915 |       10 | 1       | [The Fourteenth Amendment](https://www.dareyoufight.org/Volumes/10/01/fourteenth_amendment.html)                                          |
 |   1915 |       10 | 1       | [The Republicans](https://www.dareyoufight.org/Volumes/10/01/the_republicans.html)                                                        |
 |   1915 |       10 | 1       | [Credit](https://www.dareyoufight.org/Volumes/10/01/credit.html)                                                                          |
+|   1915 |       10 | 1       | [Peace](https://www.dareyoufight.org/Volumes/10/01/peace.html)                                                                            |
 |   1915 |       10 | 2       | [An Amazing Island](https://www.dareyoufight.org/Volumes/10/02/amazing_island.html)                                                       |
 |   1915 |       10 | 2       | [An Open Letter](https://www.dareyoufight.org/Volumes/10/03/an_open_letter.html)                                                          |
 |   1915 |       10 | 3       | [Education](https://www.dareyoufight.org/Volumes/10/03/education.html)                                                                    |
@@ -157,9 +157,9 @@
 |   1920 |       21 | 1       | [Suffrage](https://www.dareyoufight.org/Volumes/21/01/suffrage.html)                                                                      |
 |   1920 |       21 | 2       | [The Unreal Campaign](https://www.dareyoufight.org/Volumes/21/02/unreal_campaign.html)                                                    |
 |   1920 |       21 | 3       | [Election Day in Florida](https://www.dareyoufight.org/Volumes/21/03/election_day.html)                                                   |
-|   1921 |       22 | 3       | [The Negro and Radical Thought](https://www.dareyoufight.org/Volumes/22/03/negro_and_radical_thought.html)                                |
 |   1921 |       22 | 3       | [Amity](https://www.dareyoufight.org/Volumes/22/03/amity.html)                                                                            |
 |   1921 |       22 | 3       | [Libelous Film](https://www.dareyoufight.org/Volumes/22/03/libelous_film.html)                                                            |
+|   1921 |       22 | 3       | [The Negro and Radical Thought](https://www.dareyoufight.org/Volumes/22/03/negro_and_radical_thought.html)                                |
 |   1921 |       22 | 3       | [Tulsa Riots](https://www.dareyoufight.org/Volumes/22/03/tulsa_riots.html)                                                                |
 |   1921 |       22 | 4       | [The Class Struggle](https://www.dareyoufight.org/Volumes/22/04/class_struggle.html)                                                      |
 |   1921 |       22 | 6       | [Tulsa](https://www.dareyoufight.org/Volumes/22/06/tulsa.html)                                                                            |
@@ -182,9 +182,9 @@
 |   1924 |       27 | 3       | [The Black Man and the Wounded World](https://www.dareyoufight.org/Volumes/27/03/black_man_and_the_wounded_world.html)                    |
 |   1924 |       27 | 4       | [Kenya](https://www.dareyoufight.org/Volumes/27/04/kenya.html)                                                                            |
 |   1924 |       28 | 1       | [A Lunatic or a Traitor](https://www.dareyoufight.org/Volumes/28/01/lunatic_or_a_traitor.html)                                            |
-|   1924 |       28 | 3       | [Helping Africa](https://www.dareyoufight.org/Volumes/28/03/helping_africa.html)                                                          |
 |   1924 |       28 | 3       | [Vote](https://www.dareyoufight.org/Volumes/28/03/vote.html)                                                                              |
 |   1924 |       28 | 3       | [Unity](https://www.dareyoufight.org/Volumes/28/03/unity.html)                                                                            |
+|   1924 |       28 | 3       | [Helping Africa](https://www.dareyoufight.org/Volumes/28/03/helping_africa.html)                                                          |
 |   1924 |       28 | 4       | [La Follette](https://www.dareyoufight.org/Volumes/28/04/la_follette.html)                                                                |
 |   1924 |       28 | 4       | [To the American Federation of Labor](https://www.dareyoufight.org/Volumes/28/04/american_federation_of_labor.html)                       |
 |   1924 |       28 | 5       | [The N.A.A.C.P. and Parties](https://www.dareyoufight.org/Volumes/28/05/naacp_and_parties.html)                                           |
@@ -193,8 +193,8 @@
 |   1925 |       30 | 1       | [The New Crisis](https://www.dareyoufight.org/Volumes/30/01/new_crisis.html)                                                              |
 |   1925 |       30 | 2       | [Disenfranchisement](https://www.dareyoufight.org/Volumes/30/02/disenfranchisement.html)                                                  |
 |   1925 |       31 | 1       | [The Challenge of Detroit](https://www.dareyoufight.org/Volumes/31/01/challenge_of_detroit.html)                                          |
-|   1925 |       31 | 2       | [The Firing Line](https://www.dareyoufight.org/Volumes/31/02/firing_line.html)                                                            |
 |   1925 |       31 | 2       | [The Black Man and Labor](https://www.dareyoufight.org/Volumes/31/02/black_man_and_labor.html)                                            |
+|   1925 |       31 | 2       | [The Firing Line](https://www.dareyoufight.org/Volumes/31/02/firing_line.html)                                                            |
 |   1926 |       31 | 3       | [The First Battle of Detroit](https://www.dareyoufight.org/Volumes/31/03/first_battle_of_detroit.html)                                    |
 |   1926 |       31 | 3       | [Pullman Porters](https://www.dareyoufight.org/Volumes/31/03/pullman_porters.html)                                                        |
 |   1926 |       31 | 3       | [The Sweet Trial](https://www.dareyoufight.org/Volumes/31/03/book_shelf.html)                                                             |
@@ -210,8 +210,8 @@
 |   1926 |       33 | 1       | [Russia, 1926](https://www.dareyoufight.org/Volumes/33/01/russia_1926.html)                                                               |
 |   1926 |       33 | 2       | [The Shambles of South Carolina](https://www.dareyoufight.org/Volumes/33/02/shambles_of_south_carolina.html)                              |
 |   1927 |       33 | 3       | [Intermarriage](https://www.dareyoufight.org/Volumes/33/03/intermarriage.html)                                                            |
-|   1927 |       33 | 3       | [League of Nations](https://www.dareyoufight.org/Volumes/33/03/league_of_nations.html)                                                    |
 |   1927 |       33 | 3       | [Our Methods](https://www.dareyoufight.org/Volumes/33/03/our_methods.html)                                                                |
+|   1927 |       33 | 3       | [League of Nations](https://www.dareyoufight.org/Volumes/33/03/league_of_nations.html)                                                    |
 |   1927 |       33 | 3       | [Hayes](https://www.dareyoufight.org/Volumes/33/03/hayes.html)                                                                            |
 |   1927 |       33 | 4       | [Lynching](https://www.dareyoufight.org/Volumes/33/04/lynching.html)                                                                      |
 |   1927 |       33 | 4       | [Judging Russia](https://www.dareyoufight.org/Volumes/33/04/judging_russia.html)                                                          |
@@ -245,9 +245,9 @@
 |   1930 |       37 | 2       | [Smuts](https://www.dareyoufight.org/Volumes/37/02/smuts.html)                                                                            |
 |   1930 |       37 | 2       | [That Capital 'N'](https://www.dareyoufight.org/Volumes/37/02/that_capital_n.html)                                                        |
 |   1930 |       37 | 2       | [Education](https://www.dareyoufight.org/Volumes/37/02/education.html)                                                                    |
-|   1930 |       37 | 3       | [Patient Asses](https://www.dareyoufight.org/Volumes/37/03/patient_asses.html)                                                            |
-|   1930 |       37 | 3       | [Our Economic Peril](https://www.dareyoufight.org/Volumes/37/03/our_economic_peril.html)                                                  |
 |   1930 |       37 | 3       | [The Boycott](https://www.dareyoufight.org/Volumes/37/03/boycott.html)                                                                    |
+|   1930 |       37 | 3       | [Our Economic Peril](https://www.dareyoufight.org/Volumes/37/03/our_economic_peril.html)                                                  |
+|   1930 |       37 | 3       | [Patient Asses](https://www.dareyoufight.org/Volumes/37/03/patient_asses.html)                                                            |
 |   1930 |       37 | 5       | [Our Program](https://www.dareyoufight.org/Volumes/37/05/our_program.html)                                                                |
 |   1930 |       37 | 5       | [The Capital N](https://www.dareyoufight.org/Volumes/37/05/capital_n.html)                                                                |
 |   1931 |       38 | 4       | [Causes of Lynching](https://www.dareyoufight.org/Volumes/38/04/causes_of_lynching.html)                                                  |
@@ -259,22 +259,22 @@
 |   1932 |       39 | 2       | [Lynchings](https://www.dareyoufight.org/Volumes/39/02/lynchings.html)                                                                    |
 |   1932 |       39 | 2       | [The Non-Partisan Conference](https://www.dareyoufight.org/Volumes/39/02/nonpartisan_conference.html)                                     |
 |   1932 |       39 | 3       | [Dalton, GA](https://www.dareyoufight.org/Volumes/39/03/dalton_ga.html)                                                                   |
-|   1932 |       39 | 3       | [Hawaii](https://www.dareyoufight.org/Volumes/39/03/hawaii.html)                                                                          |
 |   1932 |       39 | 3       | [To Your Tents, Oh Israel!](https://www.dareyoufight.org/Volumes/39/03/to_your_tents.html)                                                |
+|   1932 |       39 | 3       | [Hawaii](https://www.dareyoufight.org/Volumes/39/03/hawaii.html)                                                                          |
 |   1932 |       39 | 4       | [A Platform for Radicals](https://www.dareyoufight.org/Volumes/39/04/platform_for_radicals.html)                                          |
 |   1932 |       39 | 4       | [Courts and Jails](https://www.dareyoufight.org/Volumes/39/04/courts_and_jails.html)                                                      |
 |   1932 |       39 | 4       | [Again Howard](https://www.dareyoufight.org/Volumes/39/04/again_howard.html)                                                              |
 |   1932 |       39 | 8       | [Blaine of Maine](https://www.dareyoufight.org/Volumes/39/08/blaine_of_maine.html)                                                        |
 |   1932 |       39 | 9       | [Young Voters](https://www.dareyoufight.org/Volumes/39/09/young_voters.html)                                                              |
 |   1932 |       39 | 9       | [Employment](https://www.dareyoufight.org/Volumes/39/09/employment.html)                                                                  |
-|   1933 |       40 | 1       | [Listen, Japan and China](https://www.dareyoufight.org/Volumes/40/01/listen_japan_and_china.html)                                         |
 |   1933 |       40 | 1       | [Toward a New Racial Philosophy](https://www.dareyoufight.org/Volumes/40/01/toward_a_new_racial_philosophy.html)                          |
-|   1933 |       40 | 10      | [Pan-Africa and New Racial Philosophy](https://www.dareyoufight.org/Volumes/40/11/panafrica_and_new_racial_philosophy.html)               |
+|   1933 |       40 | 1       | [Listen, Japan and China](https://www.dareyoufight.org/Volumes/40/01/listen_japan_and_china.html)                                         |
 |   1933 |       40 | 10      | [Youth and Age at Amenia](https://www.dareyoufight.org/Volumes/40/10/youth_and_age.html)                                                  |
+|   1933 |       40 | 10      | [Pan-Africa and New Racial Philosophy](https://www.dareyoufight.org/Volumes/40/11/panafrica_and_new_racial_philosophy.html)               |
 |   1933 |       40 | 10      | [The Church and Religion](https://www.dareyoufight.org/Volumes/40/10/church_and_religion.html)                                            |
 |   1933 |       40 | 12      | [Too Rich to be a N&#11834;](https://www.dareyoufight.org/Volumes/40/12/too_rich.html)                                                    |
-|   1933 |       40 | 12      | [Peace](https://www.dareyoufight.org/Volumes/40/12/peace.html)                                                                            |
 |   1933 |       40 | 12      | [The A.F. of L.](https://www.dareyoufight.org/Volumes/40/12/af_of_l.html)                                                                 |
+|   1933 |       40 | 12      | [Peace](https://www.dareyoufight.org/Volumes/40/12/peace.html)                                                                            |
 |   1933 |       40 | 12      | [A Matter of Manners](https://www.dareyoufight.org/Volumes/40/12/matter_of_manners.html)                                                  |
 |   1933 |       40 | 2       | [Dodging the Issue](https://www.dareyoufight.org/Volumes/40/02/dodging_the_issue.html)                                                    |
 |   1933 |       40 | 2       | [Our Rate of Increase](https://www.dareyoufight.org/Volumes/40/02/our_rate_of_increase.html)                                              |
