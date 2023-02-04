@@ -195,6 +195,9 @@
 |   1925 |       31 | 1       | [The Challenge of Detroit](https://www.dareyoufight.org/Volumes/31/01/challenge_of_detroit.html)                                          |
 |   1925 |       31 | 2       | [The Firing Line](https://www.dareyoufight.org/Volumes/31/02/firing_line.html)                                                            |
 |   1925 |       31 | 2       | [The Black Man and Labor](https://www.dareyoufight.org/Volumes/31/02/black_man_and_labor.html)                                            |
+|   1926 |       31 | 3       | [The First Battle of Detroit](https://www.dareyoufight.org/Volumes/31/03/first_battle_of_detroit.html)                                    |
+|   1926 |       31 | 3       | [Pullman Porters](https://www.dareyoufight.org/Volumes/31/03/pullman_porters.html)                                                        |
+|   1926 |       31 | 3       | [The Sweet Trial](https://www.dareyoufight.org/Volumes/31/03/book_shelf.html)                                                             |
 |   1926 |       31 | 3       | [The Sweet Trial](https://www.dareyoufight.org/Volumes/31/03/sweet_trial.html)                                                            |
 |   1926 |       31 | 4       | [The Newer South](https://www.dareyoufight.org/Volumes/31/04/newer_south.html)                                                            |
 |   1926 |       31 | 5       | [Correspondence](https://www.dareyoufight.org/Volumes/31/05/correspondence.html)                                                          |
