@@ -46,6 +46,7 @@ chapters:
   - file: Volumes/19/01/social_equality.md
   - file: Volumes/21/01/social_equality_of_blacks_and_whites.md
   - file: Volumes/24/01/slavery.md
+  - file: Volumes/31/03/first_battle_of_detroit.md
   - file: Volumes/31/04/newer_south.md
   - file: Volumes/34/02/higher_friction.md
   - file: Volumes/34/09/prejudice.md
@@ -91,6 +92,7 @@ chapters:
     - file: Volumes/19/03/macon_telegraph.md
     - file: Volumes/34/06/mob_tactics.md
   - file: Volumes/22/06/tulsa.md
+
 
 - file: Sections/global
   sections:
@@ -205,6 +207,7 @@ chapters:
     - file: Volumes/18/05/labor_omnia_vincit.md
     - file: Volumes/28/04/american_federation_of_labor.md
     - file: Volumes/31/02/black_man_and_labor.md
+    - file: Volumes/31/03/pullman_porters.md
     - file: Volumes/31/06/again_pullman_porters.md
     - file: Volumes/35/03/black_and_white_workers.md
     - file: Volumes/39/09/employment.md
@@ -271,6 +274,7 @@ chapters:
   sections:
   - file: Volumes/22/02/negro_art.md
   - file: Volumes/24/01/art_for_nothing.md
+  - file: Volumes/31/03/book_shelf.md
   - file: Volumes/32/06/criteria_of_negro_art.md
   - file: Volumes/33/03/hayes.md
   - file: Sections/short_stories
