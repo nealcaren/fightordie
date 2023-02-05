@@ -235,6 +235,7 @@
 |   1928 |       35 | 11      | [The Dunbar National Bank](https://www.dareyoufight.org/Volumes/35/11/dunbar_national_bank.html)                                          |
 |   1928 |       35 | 3       | [Black and White Workers](https://www.dareyoufight.org/Volumes/35/03/black_and_white_workers.html)                                        |
 |   1928 |       35 | 3       | [The Name Negro](https://www.dareyoufight.org/Volumes/35/03/name_negro.html)                                                              |
+|   1928 |       35 | 5       | [Our Economic Future](https://www.dareyoufight.org/Volumes/35/05/our_economic_future.html)                                                |
 |   1928 |       35 | 9       | [The Possibility of Democracy](https://www.dareyoufight.org/Volumes/35/09/possiblity_of_democracy_i.html)                                 |
 |   1929 |       36 | 11      | [The Negro in Politics](https://www.dareyoufight.org/Volumes/36/11/negro_in_politics.html)                                                |
 |   1929 |       36 | 2       | [DePriest](https://www.dareyoufight.org/Volumes/36/02/depriest.html)                                                                      |
