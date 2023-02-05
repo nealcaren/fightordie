@@ -1,5 +1,5 @@
 <!--
-title:   Eugene Debs
+title:   Travel
 author:  Du Bois, W.E.B.
 journal: The Crisis
 year:    1926
@@ -8,7 +8,7 @@ issue:   2
 pages:   63-65
 -->
 
-# Eugene Debs (1926)
+# Travel (1926)
 
 It was a brilliant idea when the Walker Manufacturing Company conceived the free trip around the world method of advertising. They have sent now for the third year groups of from four to six popular persons traveling over Europe and Asia and in so doing they have impressed upon certain of our leading citizens the fact that problems of race and color are problems of the world and not simply of the United States.
 
@@ -21,7 +21,7 @@ My recent trip I had planned for revisiting Germany and I had hoped to pay for i
 My friend accepted these conditions and I went to Russia. 
 
 ![](../../../Images/russia_travel.jpg)
-***THE JOURNEY OF DR. DU BOIS TO RUSSIA<br>2. Franfort-on-Main, 3. Berlin, 4. Leningrad, 5. Moscow, 6. Nijni Novgorad, 7. Kiev, 8. Odessa, 9. Constantinople, 10. Skutari, 11. Athens, 12. Naples, 13. Gibraltar.***
+**THE JOURNEY OF DR. DU BOIS TO RUSSIA**<br>*2. Franfort-on-Main, 3. Berlin, 4. Leningrad, 5. Moscow, 6. Nijni Novgorad, 7. Kiev, 8. Odessa, 9. Constantinople, 10. Skutari, 11. Athens, 12. Naples, 13. Gibraltar.*
 
  <h2>My Recent Journey</h2> 
 
@@ -33,4 +33,4 @@ But always the center of all this was Russia, and of Russia I have much to tell 
 
 ________________
 
-*Citation:* Du Bois, W.E.B. 1926. "Eugene Debs." *The Crisis*. 33(2):63&ndash;65.
+*Citation:* Du Bois, W.E.B. 1926. "Travel." *The Crisis*. 33(2):63&ndash;65.
