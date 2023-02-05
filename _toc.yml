@@ -170,6 +170,7 @@ chapters:
   - file: Volumes/22/03/libelous_film.md
   - file: Volumes/24/01/publicity.md
   - file: Volumes/29/05/radicals_and_the_negro.md
+  - file: Volumes/34/10/durham_conference.md
   - file: Volumes/37/03/boycott.md
   - file: Volumes/40/10/youth_and_age.md
   - file: Volumes/40/02/dodging_the_issue.md
@@ -191,7 +192,7 @@ chapters:
     - file: Volumes/37/05/our_program.md
     - file: Volumes/33/03/our_methods.md
     - file: Volumes/40/01/toward_a_new_racial_philosophy.md
-    
+
 - file: Sections/economics
   sections:
   - file: Sections/labor
@@ -203,7 +204,8 @@ chapters:
     - file: Volumes/28/04/american_federation_of_labor.md
     - file: Volumes/31/02/black_man_and_labor.md
     - file: Volumes/31/03/pullman_porters.md
-    - file: Volumes/31/06/again_pullman_porters.md
+    - file: Volumes/31/06/again_pullman_porters.md 
+    - file: Volumes/34/10/pullman_porters.md
     - file: Volumes/35/03/black_and_white_workers.md
     - file: Volumes/39/09/employment.md
     - file: Volumes/40/12/af_of_l.md
@@ -218,8 +220,10 @@ chapters:
     - file: Volumes/22/06/single_tax.md
     - file: Volumes/27/03/black_man_and_the_wounded_world.md
       title: The Black Man and the Wounded World (1923)
-    - file: Volumes/33/01/russia_1926.md
+    - file: Volumes/33/01/russia_1926.md 
+    - file: Volumes/33/02/debs.md
     - file: Volumes/33/04/judging_russia.md
+    - file: Volumes/34/10/ten_years.md
     - file: Volumes/35/11/dunbar_national_bank.md
     - file: Volumes/37/01/gambling.md
     - file: Volumes/38/09/negro_and_communism.md
@@ -338,6 +342,7 @@ chapters:
     sections:
     - file: Volumes/10/03/education.md
     - file: Volumes/15/01/hampton.md
+    - file: Volumes/34/10/hampton_strike.md
     - file: Volumes/36/05/optimism.md
     - file: Volumes/37/02/education.md
     - file: Volumes/39/04/again_howard.md
