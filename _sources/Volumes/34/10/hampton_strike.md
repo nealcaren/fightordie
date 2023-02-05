@@ -1,0 +1,21 @@
+<!--
+title:   The Hampton Strike
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1927
+volume:  34
+issue:   10
+pages:   347-348
+-->
+# The Hampton Strike (1927)
+
+The most sinister thing about the Hampton strike, is not the attitude of the authorities of Hampton. It has long been known, and the knowledge discounted among American Negroes, that Hampton trustees and teachers did not all have feelings, opinions or ideals toward American Negroes, which were acceptable to self-respecting black men. There has always been at Hampton a degree of race discrimination and of repression that has been hateful and exasperating. It has long been endured, just as beggars often endure the insult of impudent almsgiving. The time for an end to that endurance is surely at hand, unless we Negroes are willing to bring up our children in the same attitude of subserviency and uncomplaining submission to caste which our fathers inherited from slavery. The Hampton attitude must be distinctly and firmly repudiated. 
+
+But the most disconcerting thing in the Hampton strike is the way in which graduates and parents repudiated their own children. The best of schools is imperfect. The worse is intolerable. The students present upon the grounds are in the long run the best and only judges of the efficiency of the education offered. They are far better judges than parents or alumni. If mature college students believe that a school is going wrong, what are they going to do but openly protest? In any white northern college that protest would immediately be heeded, even if accompanied by violence, and there would not be any silly insistance upon dumb, unthinking obedience. Students are not sent to school to learn to obey. They are sent there to learn to do, to think, to execute, to be men and women. Self-reliance, self-expression, honesty and decision are to be learned in school if anywhere. We complain bitterly of the lack of these qualities in our young people, but do we encourage their development? At Fisk and at Hampton there were parents and alumni who turned upon their own children like wild beasts, ready to beat them into submission; insisting that even if the school authorities were wrong, it was the business of black boys and girls to submit. At Hampton, the Alumni actually published to the world a statement; declaring, first, that they gave complete approval and consent to what the Hampton authorities had done, including the wholesale suspensions, and then, finally, promising that they would investigate. 
+
+Negro colleges with few exceptions are standing together to punish and penalize for life and exclude from all chances of education the brave, orderly and clear-headed young men and women who led the Hampton strike, just because Hampton tells them to. 
+
+At this rate, what will the next generation be? What kind of crawling cowards are we seeking to spawn? It is possible, indeed, it is probable, that striking students at Hampton, Fisk, Shaw, Howard and elsewhere, have made their mistakes, but there is absolutely no question or shadow of doubt but that when 400 students, well-trained, orderly, with excellent records, are willing to take their future in their hands and jeopardize their whole lives in an appeal to the world for justice, that something must be absolutely and radically wrong, and the business of parents and Alumni is to investigate before they condemn, to encourage and uphold their protesting children, instead of cowing and disgracing them. It is the Principal and Faculty of Hampton that are really at the bar of Justice and not the students who refused to sing for the entertainment of a white Englishman. 
+
+_________________
+*Citation:* Du Bois, W.E.B. 1927. "The Hampton Strike." *The Crisis*. 34(10):347&ndash;348.
