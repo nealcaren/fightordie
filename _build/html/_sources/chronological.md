@@ -203,6 +203,7 @@
 |   1926 |       31 | 5       | [Correspondence](https://www.dareyoufight.org/Volumes/31/05/correspondence.html)                                                          |
 |   1926 |       31 | 6       | [Again, Pullman Porters](https://www.dareyoufight.org/Volumes/31/06/again_pullman_porters.html)                                           |
 |   1926 |       32 | 1       | [Lynching](https://www.dareyoufight.org/Volumes/32/01/lynching.html)                                                                      |
+|   1926 |       32 | 1       | [Disenfranchisement](https://www.dareyoufight.org/Volumes/32/01/disenfranchisement.html)                                                  |
 |   1926 |       32 | 1       | [Crime](https://www.dareyoufight.org/Volumes/32/01/crime.html)                                                                            |
 |   1926 |       32 | 2       | [Italy and Abyssinia](https://www.dareyoufight.org/Volumes/32/02/italy_and_abyssinia.html)                                                |
 |   1926 |       32 | 3       | ['Krigwa Players Little Negro Theatre'](https://www.dareyoufight.org/Volumes/32/03/kgriwa.html)                                           |
