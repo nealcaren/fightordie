@@ -201,6 +201,7 @@
 |   1926 |       31 | 3       | [The Sweet Trial](https://www.dareyoufight.org/Volumes/31/03/sweet_trial.html)                                                            |
 |   1926 |       31 | 4       | [The Newer South](https://www.dareyoufight.org/Volumes/31/04/newer_south.html)                                                            |
 |   1926 |       31 | 5       | [Correspondence](https://www.dareyoufight.org/Volumes/31/05/correspondence.html)                                                          |
+|   1926 |       31 | 5       | [Our Book Shelf](https://www.dareyoufight.org/Volumes/31/05/book_shelf.html)                                                              |
 |   1926 |       31 | 6       | [Again, Pullman Porters](https://www.dareyoufight.org/Volumes/31/06/again_pullman_porters.html)                                           |
 |   1926 |       32 | 1       | [Lynching](https://www.dareyoufight.org/Volumes/32/01/lynching.html)                                                                      |
 |   1926 |       32 | 1       | [Disenfranchisement](https://www.dareyoufight.org/Volumes/32/01/disenfranchisement.html)                                                  |
@@ -238,6 +239,7 @@
 |   1928 |       35 | 3       | [The Name Negro](https://www.dareyoufight.org/Volumes/35/03/name_negro.html)                                                              |
 |   1928 |       35 | 5       | [Our Economic Future](https://www.dareyoufight.org/Volumes/35/05/our_economic_future.html)                                                |
 |   1928 |       35 | 6       | [Two Novels](https://www.dareyoufight.org/Volumes/35/06/two_novels.html)                                                                  |
+|   1928 |       35 | 6       | [So the Girl Marries](https://www.dareyoufight.org/Volumes/35/06/so_the_girl_marries.html)                                                |
 |   1928 |       35 | 9       | [The Possibility of Democracy](https://www.dareyoufight.org/Volumes/35/09/possiblity_of_democracy_i.html)                                 |
 |   1929 |       36 | 11      | [The Negro in Politics](https://www.dareyoufight.org/Volumes/36/11/negro_in_politics.html)                                                |
 |   1929 |       36 | 2       | [DePriest](https://www.dareyoufight.org/Volumes/36/02/depriest.html)                                                                      |

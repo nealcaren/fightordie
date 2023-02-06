@@ -299,6 +299,7 @@ chapters:
   - file: Volumes/22/02/negro_art.md
   - file: Volumes/24/01/art_for_nothing.md
   - file: Volumes/31/03/book_shelf.md
+  - file: Volumes/31/05/book_shelf.md
   - file: Volumes/32/06/criteria_of_negro_art.md
   - file: Volumes/33/03/hayes.md
   - file: Volumes/35/06/two_novels.md
@@ -355,7 +356,7 @@ chapters:
     sections:
     - file: Volumes/36/05/missionaries.md
   - file: Sections/misc
-    sections:
+    sections: 
     - file: Volumes/02/02/starvation_and_prejudice.md
     - file: Volumes/11/02/booker_t_washington.md
     - file: Volumes/12/03/open_letter.md
@@ -365,6 +366,7 @@ chapters:
     - file: Volumes/28/01/lunatic_or_a_traitor.md
     - file: Volumes/38/03/woofterism.md
     - file: Volumes/34/08/death_rates.md
+    - file: Volumes/35/06/so_the_girl_marries.md
     - file: Volumes/39/02/nonpartisan_conference.md
     - file: Volumes/39/08/blaine_of_maine.md
     - file: Volumes/40/02/our_rate_of_increase.md
