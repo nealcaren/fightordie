@@ -230,6 +230,7 @@
 |   1927 |       34 | 2       | [The Higher Friction](https://www.dareyoufight.org/Volumes/34/02/higher_friction.html)                                                    |
 |   1927 |       34 | 2       | [Farmers](https://www.dareyoufight.org/Volumes/34/02/farmers.html)                                                                        |
 |   1927 |       34 | 4       | [Chicago](https://www.dareyoufight.org/Volumes/34/04/chicago.html)                                                                        |
+|   1927 |       34 | 5       | [Flood](https://www.dareyoufight.org/Volumes/34/05/flood.html)                                                                            |
 |   1927 |       34 | 5       | [Coffeeville, Kanasas](https://www.dareyoufight.org/Volumes/34/05/coffeville_kansas.html)                                                 |
 |   1927 |       34 | 6       | [Mob Tactics](https://www.dareyoufight.org/Volumes/34/06/mob_tactics.html)                                                                |
 |   1927 |       34 | 8       | [Death Rates](https://www.dareyoufight.org/Volumes/34/08/death_rates.html)                                                                |
