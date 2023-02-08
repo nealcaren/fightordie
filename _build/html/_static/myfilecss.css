@@ -129,9 +129,9 @@ th, td {
 }
 
 .dot-table td {
-  max-width:200px;
-  overflow:hidden;
-  white-space:nowrap;
+  max-width:  300px;
+  overflow: hidden;
+  white-space:  nowrap;
 }
 
 .dot-table caption {
@@ -141,9 +141,7 @@ th, td {
   color: #111;
 }
 
-hr .docutils {
-  border-top: 0px;
-}
+
 
 .dot-table td:first-child:after {
   content:" . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . "
@@ -243,6 +241,10 @@ h2.center {
   margin-bottom: 1rem;
   margin-top: 3rem;
 
+}
+
+hr .docutils {
+  border-top: 0px;
 }
 
 
