@@ -21,8 +21,8 @@ hell. There is no hope for the black
 man there today. Relief funds are
 being used to pamper white folk
 and in some cases are actually being
-sold to black folk as the basis of con-
-tracts for their compulsory services in
+sold to black folk as the basis of contracts 
+for their compulsory services in
 the future. Fully 75 per cent of the
 refugees have been Negroes and we
 doubt if they have received 25 per cent
