@@ -16,9 +16,9 @@ May we note a few evidences? Most of the circular matter sent out from the Atlan
 > &nbsp;  
 > An important section of the pamphlet is given to suggestions for the prevention of lynching, Sheriffs are urged to announce in advance that they expect to do their duty in every case, even at the risk of their own lives; to employ as deputies only those persons who agree to go to the same length in upholding the law; to ascertain the names of men who are opposed to mob violence and to swear these in as special deputies at the first sign of trouble; to remove to the jails of other counties prisoners threatened with mob violence; and to call upon the Governor to order out the National Guard if needed;
 > &nbsp;  
-> The popular fallacy regarding the 'usual cause' of lynchings is also mercilessly exposed. Photographs of a recent lynching are shown and 'respectfully referred to the next Grand Jury".
+> The popular fallacy regarding the 'usual cause' of lynchings is also mercilessly exposed. Photographs of a recent lynching are shown and 'respectfully referred to the next Grand Jury'.
 > &nbsp;  
-> State officials, members of the Bar Association, and other prominent people are distributing the pamphlet widely and are offering medals in each congressional district for the best essays on the subject by high school students".
+> State officials, members of the Bar Association, and other prominent people are distributing the pamphlet widely and are offering medals in each congressional district for the best essays on the subject by high school students.
 
 In Kentucky the Inter-racial movement has ceased to be simply a method of stopping agitation by encouraging "white folk's n&#11834;" and seems to be trying really to attack certain pressing problems of race contact; North Carolina is resolutely facing the problem of Negro education and has established a class A college. Roland Hayes has been heard by mixed audiences in Richmond, Louisville and Atlanta. A colored girl elected to represent the South in a national student organization was not displaced when the fact of her race was known.
 
