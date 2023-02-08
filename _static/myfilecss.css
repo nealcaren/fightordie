@@ -138,6 +138,9 @@ th, td {
   content:" . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . "
 }
 
+.dot-table td:nth-child(2):before {
+  content:" . . . . .  . . . . . . . . . . . . . . . . . . . . . . . . . "
+}
 
 .dot-table td:nth-child(2) {
   text-align: right;
