@@ -137,8 +137,13 @@ th, td {
 .dot-table caption {
   text-align: center;
   font-weight: bold;
+  caption-side: top;
+  color: #111;
 }
 
+hr .docutils {
+  border-top: 0px;
+}
 
 .dot-table td:first-child:after {
   content:" . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . "
