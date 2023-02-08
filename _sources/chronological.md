@@ -238,6 +238,7 @@
 |   1928 |       35 | 11      | [On the Fence](https://www.dareyoufight.org/Volumes/35/11/on_the_fence.html)                                                              |
 |   1928 |       35 | 11      | [A Third Party](https://www.dareyoufight.org/Volumes/35/11/third_party.html)                                                              |
 |   1928 |       35 | 11      | [The Dunbar National Bank](https://www.dareyoufight.org/Volumes/35/11/dunbar_national_bank.html)                                          |
+|   1928 |       35 | 12      | [Segregation](https://www.dareyoufight.org/Volumes/35/12/segregation.html)                                                                |
 |   1928 |       35 | 12      | [The Campaign of 1928](https://www.dareyoufight.org/Volumes/35/12/campaign_of_1928.html)                                                  |
 |   1928 |       35 | 12      | [The Election](https://www.dareyoufight.org/Volumes/35/12/election.html)                                                                  |
 |   1928 |       35 | 3       | [Black and White Workers](https://www.dareyoufight.org/Volumes/35/03/black_and_white_workers.html)                                        |
