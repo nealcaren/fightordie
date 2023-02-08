@@ -9,7 +9,7 @@ pages:   76-77
 -->
 # Suffering Suffragettes (1912)
 
-The woman suffragists are wincing a bit under the plain speaking of  <span style="font-variant:small-caps;">The Crisis</span>. President Anna Shaw writes us:
+The woman suffragists are wincing a bit under the plain speaking of  <span class = "small-caps">The Crisis</span>. President Anna Shaw writes us:
 
 ```{margin}
 [Anna Shaw](https://en.wikipedia.org/wiki/Anna_Howard_Shaw) was president of the National Woman Suffrage Association (NWSA) from 1904--1915.
@@ -24,7 +24,7 @@ The corresponding secretary has heard vague rumors in Ohio and says:
 <p> The ballotless women, I can assure you, who attended that convention are working for, and urging with all their ability, strength and talents, the guarantee of civil and political rights for all citizens of the United States entitled to them.
 
 ```{margin}
-[Martha Gruening](https://en.wikipedia.org/wiki/Martha_Gruening) published "[Two Suffrage Movements](http://womenshistory.info/two-suffrage-movements-martha-gruening/)" several months later in the <span style="font-variant:small-caps;">The Crisis</span> where she argued, "Here are not two distinct issues at stake, but merely the vital principle of democracy... all the disfranchised of the earth have a common cause."
+[Martha Gruening](https://en.wikipedia.org/wiki/Martha_Gruening) published "[Two Suffrage Movements](http://womenshistory.info/two-suffrage-movements-martha-gruening/)" several months later in the <span class = "small-caps">The Crisis</span> where she argued, "Here are not two distinct issues at stake, but merely the vital principle of democracy... all the disfranchised of the earth have a common cause."
 ```
 All this is pleasant and encouraging, but does it present the facts in the case exactly? Early in August Miss Martha Gruening sought a chance to have a colored delegate introduce the following resolution at the Louisville convention and speak on the floor:
 

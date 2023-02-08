@@ -10,15 +10,15 @@ pages:   285-286
 
 # The True Brownies (1919)
 
-The Children's <span style="font-variant:small-caps;"> Crisis</span> has been published annually for nine years and is easily the most popular number of the year---that is, it makes the widest appeal to our readers. This is as it should be. Of course, we are and must be interested in our children above all else, if we love our race and humanity.
+The Children's <span class = "small-caps"> Crisis</span> has been published annually for nine years and is easily the most popular number of the year---that is, it makes the widest appeal to our readers. This is as it should be. Of course, we are and must be interested in our children above all else, if we love our race and humanity.
 
 But in the problem of our children we black folk are sorely puzzled. For example, a little girl writes us---we remember her as red-bronze and black-curled, with dancing eyes---"I want to learn more about my race, so I want to begin early. … *I hate the white man just as much as he hates me and probably more!*"
 
-Think of this from twelve little years! And yet, can you blame the child? To the consternation of the Editors of <span style="font-variant:small-caps;">The Crisis</span> we have had to record some horror in nearly every Children's Number---in 1915, it was Leo Frank; in 1916, the lynching at Gainesville, Fla.; in 1917 and 1918, the riot and court martial at Houston, Tex., etc.
+Think of this from twelve little years! And yet, can you blame the child? To the consternation of the Editors of <span class = "small-caps">The Crisis</span> we have had to record some horror in nearly every Children's Number---in 1915, it was Leo Frank; in 1916, the lynching at Gainesville, Fla.; in 1917 and 1918, the riot and court martial at Houston, Tex., etc.
 
 This was inevitable in our rôle as newspaper---but what effect must it have on our children? To educate them in human hatred is more disastrous to them than to the hated; to seek to raise them in ignorance of their racial identity and peculiar situation is inadvisable---impossible.
 
-There seems but one alternative: We shall publish hereafter not ONE Children's Number a year, but TWELVE! Messrs. Du Bois and Dill will issue in November, in co-operation with <span style="font-variant:small-caps;">The Crisis</span>, but as an entirely separate publication, a little magazine for children---for all children, but especially for ours, "the Children of the Sun."
+There seems but one alternative: We shall publish hereafter not ONE Children's Number a year, but TWELVE! Messrs. Du Bois and Dill will issue in November, in co-operation with <span class = "small-caps">The Crisis</span>, but as an entirely separate publication, a little magazine for children---for all children, but especially for ours, "the Children of the Sun."
 
 It will be called, naturally, *The Brownies' Book*, and as we have advertised, "It will be a thing of Joy and Beauty, dealing in Happiness, Laughter and Emulation, and designed especially for Kiddies from Six to Sixteen.
 

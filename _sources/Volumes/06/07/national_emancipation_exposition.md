@@ -9,7 +9,7 @@ pages:   339-341
 -->
 # The People of Peoples and Their Gifts to Men (1913)
 ```{margin}
-<span style="font-variant:small-caps;">The Crisis</span> version went under the headline "National Emancipation Exposition."
+<span class = "small-caps">The Crisis</span> version went under the headline "National Emancipation Exposition."
 ```
 
 **In New York City, October 22-31, 1913**

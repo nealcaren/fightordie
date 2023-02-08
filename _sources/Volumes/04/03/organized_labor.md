@@ -9,7 +9,7 @@ pages:   131
 -->
 # Organized Labor (1912)
 
-<span style="font-variant:small-caps;">The Crisis</span> believes in organized labor. It realizes that the standard of living among' workers has been raised in the last half century through the efforts and sacrifice of laborers banded together in unions, and that all American labor to-day, white, black and yellow, benefits from this great movement. 
+<span class = "small-caps">The Crisis</span> believes in organized labor. It realizes that the standard of living among' workers has been raised in the last half century through the efforts and sacrifice of laborers banded together in unions, and that all American labor to-day, white, black and yellow, benefits from this great movement. 
 
 For such reasons we carry on our front cover the printer's union label to signify that the printing and binding of this magazine is done under conditions and with wages satisfactory to the printers' union. 
 

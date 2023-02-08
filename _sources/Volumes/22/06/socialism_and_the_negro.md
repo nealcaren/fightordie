@@ -9,7 +9,7 @@ pages:   245-247
 -->
 # Socialism and the Negro (1921)
 
-We have an interesting letter from John H. Owens of Washington, which we would like to publish in full but can only note certain extracts. Mr. Owens says, in answer to the editorial in the July <span style="font-variant:small-caps;">Crisis</span> on "[The Negro and Radical Thought](../03/negro_and_radical_thought.md)":
+We have an interesting letter from John H. Owens of Washington, which we would like to publish in full but can only note certain extracts. Mr. Owens says, in answer to the editorial in the July <span class = "small-caps">Crisis</span> on "[The Negro and Radical Thought](../03/negro_and_radical_thought.md)":
 
 > Is there not just the bare possibility that some of the issues which you consider subordinate to your central idea (of the emancipation of the Negro) might possess the neucleus of a tangible and definite solution?
 

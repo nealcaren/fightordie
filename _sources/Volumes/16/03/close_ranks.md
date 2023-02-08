@@ -10,7 +10,7 @@ pages:   111
 # Close Ranks (1918)
 
 ```{margin}
-This editorial, calling for African Americans to focus on defeating Germany on the European battlefield ahead of civil rights at home, is one the most controversial and well-known editorials produced by Du Bois during his time at <span style="font-variant:small-caps;">The Crisis</span>. For example, the *Richmond Planet* ran a response headlined, "DuBois, One-Time Radical Leader, Deserts and Betrays Cause of His Race."
+This editorial, calling for African Americans to focus on defeating Germany on the European battlefield ahead of civil rights at home, is one the most controversial and well-known editorials produced by Du Bois during his time at <span class = "small-caps">The Crisis</span>. For example, the *Richmond Planet* ran a response headlined, "DuBois, One-Time Radical Leader, Deserts and Betrays Cause of His Race."
 ```
 
 This is the crisis of the world.

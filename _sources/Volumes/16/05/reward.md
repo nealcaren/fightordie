@@ -11,7 +11,7 @@ pages:   216-217
 
 ```{margin}
 The [previous editorial](our_special_greivances.md)  ended:
-> <span style="font-variant:small-caps;">Crisis</span> says, *first* your Country, *then* your Rights!
+> <span class = "small-caps">Crisis</span> says, *first* your Country, *then* your Rights!
 ```
 
 Certain honest thinkers among us hesitate at that last sentence. They say it is all well to be idealistic, but is it not true that while we have fought our country's battles for one hundred fifty years, we have *not* gained our rights? There is just enough fact in this half truth to make it a whole and a very mischievous lie. No, we have not gained all our rights, but we have gained rights and gained them rapidly and effectively by our loyalty in time of trial.
