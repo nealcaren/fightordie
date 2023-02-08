@@ -15,7 +15,7 @@ To-day, however, of the 15,000,000 or more votes which will actually be cast for
 
 What shall we do with these 500,000 ballots?
 
-First of all we must teach ourselves to regard them seriously. The Negro-American is not disfranchised; on the contrary, he is a half million votes this side of disfranchisement and that is a long, long way. There have been 'but two or three presidential elections since the war which have not been settled by a margin of less than a half million votes, and in every single election since the proslavery compromise of 1850 such a number of votes distributed at strategic points would easily have decided the presidency.
+First of all we must teach ourselves to regard them seriously. The Negro-American is not disfranchised; on the contrary, he is a half million votes this side of disfranchisement and that is a long, long way. There have been but two or three presidential elections since the war which have not been settled by a margin of less than a half million votes, and in every single election since the proslavery compromise of 1850 such a number of votes distributed at strategic points would easily have decided the presidency.
 
 The votes of black Americans are today at strategic points. We may, of course, leave the South out of account: on account of illegal enactments and brazen fraud, democratic government exists in the South only in inchoate and incomplete form. The presidential election is probably going to be decided by the Middle West and the States of New York and New Jersey. New York and
 

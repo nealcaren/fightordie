@@ -18,7 +18,7 @@ Yet in a very real sense Africa is a prime cause of this terrible overturning of
 
 Always Africa is giving us something new or some metempsychosis of a world-old thing. On its black bosom arose one of the earliest, if not the earliest, of self-protecting civilizations, and grew so mightily that it still furnishes superlatives to thinking and speaking men. Out of its darker and more remote forest fastnesses, came, if we may credit many recent scientists, the first welding of iron, and we know that agriculture and trade flourished there when Europe was a wilderness.
 
-Nearly every human empire that has arisen in the world, material and spiritual, has found some of its greatest crises on this continent of Africa, from Greece to Great Britain. As Mommsen says, 'It was through Africa that Christianity became the religion of the world.' In Africa the last flood of Germanic invasions spent itself within hearing of the last gasp of Byzantium, and it was again through Africa that Islam came to play its great rôle of conqueror and civilizer.
+Nearly every human empire that has arisen in the world, material and spiritual, has found some of its greatest crises on this continent of Africa, from Greece to Great Britain. As Mommsen says, "It was through Africa that Christianity became the religion of the world." In Africa the last flood of Germanic invasions spent itself within hearing of the last gasp of Byzantium, and it was again through Africa that Islam came to play its great rôle of conqueror and civilizer.
 
 With the Renaissance and the widened world of modern thought, Africa came no less suddenly with her new old gift. Shakespeare’s Ancient Pistol cries,---
 

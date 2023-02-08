@@ -13,7 +13,7 @@ The political theory of the Third Party in a Republican form of Government is th
 
 Many Americans place their hopes of political reform in the United States on the rise of a Third Party which will register the fact that the present Republican and Democratic parties no longer differ in any essential respect. That both represent the rule of organized wealth, and neither of them has been willing to take radical ground with regard to the tariff, the farmer, labor, or the Negro.
 
-The efforts, however, to organize a Third Party movement have not been successful. 'The Populists failed. The Socialists failed. The Progressives failed. The Farmer-Labor movement Many reasons have been advanced for these failures, but by common consent the real effective reason has seldom been discussed and that reason is in the Solid South: the fact is that no party in American politics can disappear if it is sure of 136 electoral votes.
+The efforts, however, to organize a Third Party movement have not been successful. The Populists failed. The Socialists failed. The Progressives failed. The Farmer-Labor movement Many reasons have been advanced for these failures, but by common consent the real effective reason has seldom been discussed and that reason is in the Solid South: the fact is that no party in American politics can disappear if it is sure of 136 electoral votes.
 
 This number of votes the Democratic Party is practically sure of in the Solid South: Virginia, 12; North Carolina, 12; Tennessee, 12; South Carolina, 9; Georgia, 14; Florida, 6; Alabama, 12; Mississippi, 10; Arkansas, 9; Louisiana, 10; Oklahoma, 10; Texas, 20.
 

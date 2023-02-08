@@ -11,7 +11,7 @@ pages:   172-173
 
 We are not for a moment denying the existence of a criminal class among Negroes, who are guilty of deeds of violence. Every race in the world has such groups. No human efforts have yet been able wholly to rid society of crime. But if of all groups, the American Negro is to be singled out and punished **as a group** for the detestable deeds of its criminals, then this country is staging a race war of the bitterest kind, when the wronged and the innocent fight in desperate defense against the mob and murderer.
 
-There is a curious assumption in some quarters that intelligent and law-abiding Negroes like, encourage, and sympathize with Negro crime and defend Negro criminals. They do not. They suffer more from the crime of their fellows than white 'folk suffer, not only vicariously, but directly; the black criminal knows that he can prey on his own people with the least danger of punishment, because they control no police or courts.
+There is a curious assumption in some quarters that intelligent and law-abiding Negroes like, encourage, and sympathize with Negro crime and defend Negro criminals. They do not. They suffer more from the crime of their fellows than white folk suffer, not only vicariously, but directly; the black criminal knows that he can prey on his own people with the least danger of punishment, because they control no police or courts.
 
 But what can Negroes do to decrease crime? Some white Southerners have but one suggestion, which is that when a Negro is accused of crime, other Negroes turn to run him down and hand him over to the authorities.
 
