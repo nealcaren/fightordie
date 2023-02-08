@@ -27,8 +27,8 @@
 |   1912 |        3 | 5       | [Lee](https://www.dareyoufight.org/Volumes/03/05/lee.html)                                                                                |
 |   1912 |        4 | 2       | [Suffering Suffragettes](https://www.dareyoufight.org/Volumes/04/02/suffering_suffragettes.html)                                          |
 |   1912 |        4 | 3       | [Organized Labor](https://www.dareyoufight.org/Volumes/04/03/organized_labor.html)                                                        |
-|   1912 |        4 | 4       | [Ohio](https://www.dareyoufight.org/Volumes/04/04/ohio.html)                                                                              |
 |   1912 |        4 | 4       | [Politics](https://www.dareyoufight.org/Volumes/04/04/politics.html)                                                                      |
+|   1912 |        4 | 4       | [Ohio](https://www.dareyoufight.org/Volumes/04/04/ohio.html)                                                                              |
 |   1912 |        4 | 5       | [Votes for Women](https://www.dareyoufight.org/Volumes/04/05/votes_for_women.html)                                                        |
 |   1912 |        4 | 5       | [Garrison and Woman's Suffrage](https://www.dareyoufight.org/Volumes/04/05/garrison_and_womans_suffrage.html)                             |
 |   1912 |        4 | 5       | [Colored Women as Voters](https://www.dareyoufight.org/Volumes/04/05/colored_women_as_voters.html)                                        |
@@ -104,8 +104,8 @@
 |   1917 |       14 | 5       | [The Negro Silent Parade](https://www.dareyoufight.org/Volumes/14/05/negro_silent_parade.html)                                            |
 |   1917 |       14 | 5       | [The Massacre in East St. Louis](https://www.dareyoufight.org/Volumes/14/05/massacre_of_east_st_louis_copy.html)                          |
 |   1917 |       14 | 6       | [Houston](https://www.dareyoufight.org/Volumes/14/06/houston.html)                                                                        |
-|   1917 |       15 | 1       | [Votes for Women](https://www.dareyoufight.org/Volumes/15/01/votes_for_women.html)                                                        |
 |   1917 |       15 | 1       | [The Oath of the Negro Voter](https://www.dareyoufight.org/Volumes/15/01/oath_of_the_negro_voter.html)                                    |
+|   1917 |       15 | 1       | [Votes for Women](https://www.dareyoufight.org/Volumes/15/01/votes_for_women.html)                                                        |
 |   1917 |       15 | 1       | [Co-Operation](https://www.dareyoufight.org/Volumes/15/01/cooperation.html)                                                               |
 |   1917 |       15 | 1       | [Hampton](https://www.dareyoufight.org/Volumes/15/01/hampton.html)                                                                        |
 |   1917 |       15 | 1       | [Houston: An N.A.A.C.P. Investigation](https://www.dareyoufight.org/Volumes/15/01/houston.html)                                           |
@@ -243,7 +243,7 @@
 |   1928 |       35 | 5       | [Our Economic Future](https://www.dareyoufight.org/Volumes/35/05/our_economic_future.html)                                                |
 |   1928 |       35 | 6       | [Two Novels](https://www.dareyoufight.org/Volumes/35/06/two_novels.html)                                                                  |
 |   1928 |       35 | 6       | [So the Girl Marries](https://www.dareyoufight.org/Volumes/35/06/so_the_girl_marries.html)                                                |
-|   1928 |       35 | 8       | [The Negro Voter](https://www.dareyoufight.org/Volumes/35/08/our_economic_future.html)                                                    |
+|   1928 |       35 | 8       | [The Negro Voter](https://www.dareyoufight.org/Volumes/35/08/negro_voter.html)                                                            |
 |   1928 |       35 | 9       | [The Possibility of Democracy](https://www.dareyoufight.org/Volumes/35/09/possiblity_of_democracy_i.html)                                 |
 |   1929 |       36 | 11      | [The Negro in Politics](https://www.dareyoufight.org/Volumes/36/11/negro_in_politics.html)                                                |
 |   1929 |       36 | 2       | [DePriest](https://www.dareyoufight.org/Volumes/36/02/depriest.html)                                                                      |

@@ -22,9 +22,10 @@ To this must be added two considerations: first of all, all persons, twenty-one 
 
 We may assume that in 1928, the total vote cast in the following states and the Negro vote will be something as follows: 
 
-**Possible Votes, 1928**
+****
 
 <table class="dot-table">
+<caption>Possible Votes, 1928</caption>
 <thead>
   <tr>
     <th></th>

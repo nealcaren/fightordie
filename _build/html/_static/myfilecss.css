@@ -134,12 +134,23 @@ th, td {
   white-space:nowrap;
 }
 
+.dot-table caption {
+  text-align: center;
+  font-weight: bold;
+}
+
+
 .dot-table td:first-child:after {
   content:" . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . "
 }
 
-.dot-table td:nth-child(2):before {
-  content:" . . . . .  . . . . . . . . . . . . . . . . . . . . . . . . . "
+
+.dot-table th:nth-child(2) {
+  text-align: right;
+}
+
+.dot-table th:last-child {
+  text-align: right;
 }
 
 .dot-table td:nth-child(2) {

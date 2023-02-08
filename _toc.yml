@@ -124,17 +124,6 @@ chapters:
     - file: Volumes/36/11/negro_in_politics.md
     - file: Volumes/39/09/young_voters.md
     - file: Volumes/40/06/strategy_of_the_negro_voter.md
-  - file: Sections/womansuffrage
-    sections:
-    - file: Volumes/02/06/forwardbackward.md
-    - file: Volumes/04/02/suffering_suffragettes.md
-    - file: Volumes/04/04/ohio.md
-    - file: Volumes/04/05/votes_for_women.md
-    - file: Volumes/09/06/womansuffrage.md
-    - file: Volumes/09/03/agility.md
-    - file: Volumes/15/01/votes_for_women.md
-    - file: Volumes/20/01/get_ready.md
-    - file: Volumes/21/01/suffrage.md
   - file: Sections/voting
     sections:
     - file: Volumes/04/04/politics.md
@@ -151,12 +140,23 @@ chapters:
     - file: Volumes/28/05/naacp_and_parties.md
     - file: Volumes/29/01/how_shall_we_vote.md
     - file: Volumes/34/04/chicago.md
-    - file: Volumes/35/08/our_economic_future.md
+    - file: Volumes/35/08/negro_voter.md
     - file: Volumes/35/11/on_the_fence.md
     - file: Volumes/35/11/third_party.md
     - file: Volumes/36/02/depriest.md
     - file: Volumes/36/05/hoover_and_the_south.md
     - file: Volumes/39/11/herbert_hoover.md
+  - file: Sections/womansuffrage
+    sections:
+    - file: Volumes/02/06/forwardbackward.md
+    - file: Volumes/04/02/suffering_suffragettes.md
+    - file: Volumes/04/04/ohio.md
+    - file: Volumes/04/05/votes_for_women.md
+    - file: Volumes/09/06/womansuffrage.md
+    - file: Volumes/09/03/agility.md
+    - file: Volumes/15/01/votes_for_women.md
+    - file: Volumes/20/01/get_ready.md
+    - file: Volumes/21/01/suffrage.md
 
 
 - file: Sections/strategy
