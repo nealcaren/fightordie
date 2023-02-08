@@ -11,7 +11,7 @@ pages:   10
 
 The object of this publication is to set forth those facts and arguments which show the danger of race prejudice, particularly as manifested to-day toward colored people. It takes its name from the fact that the editors believe that this is a critical time in the history of the advancement of men. Catholicity and tolerance, reason and forbearance can to-day make the world-old dream of human brotherhood approach realization; while bigotry and prejudice, emphasized race consciousness and force can repeat the awful his tory of the contact of nations and groups in the past. We strive for this higher and broader vision of Peace and Good Will.     
 
-The policy of <span style="font-variant:small-caps;">The Crisis</span> will be simple and well defined:       
+The policy of <span class = "small-caps">The Crisis</span> will be simple and well defined:       
 
 It will first and foremost be a newspaper: it will record important happenings and movements in the world which bear on the great problem of inter-racial relations, and especially those which affect the Negro-American.     
 

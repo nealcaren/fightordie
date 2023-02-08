@@ -9,7 +9,7 @@ pages:   8-9
 -->
 # A Lunatic or a Traitor (1924)
 
-In its endeavor to avoid any injustice toward Marcus Garvey and his followers, <span style="font-variant:small-caps;">The Crisis</span>  has almost leaned backward. Notwithstanding his wanton squandering of hundreds of thousands of dollars we have refused to assume that he was a common thief. In spite of his monumental and persistent lying we have discussed only the larger and truer aspects of his propaganda. We have refrained from all comment on his trial and conviction for fraud. We have done this too in spite of his personal vituperation of the editor of <span style="font-variant:small-caps;">The Crisis</span>  and persistent and unremitting repetition of falsehood after falsehood as to the editor's beliefs and acts and as to the program of the N.A.A.C.P.
+In its endeavor to avoid any injustice toward Marcus Garvey and his followers, <span class = "small-caps">The Crisis</span>  has almost leaned backward. Notwithstanding his wanton squandering of hundreds of thousands of dollars we have refused to assume that he was a common thief. In spite of his monumental and persistent lying we have discussed only the larger and truer aspects of his propaganda. We have refrained from all comment on his trial and conviction for fraud. We have done this too in spite of his personal vituperation of the editor of <span class = "small-caps">The Crisis</span>  and persistent and unremitting repetition of falsehood after falsehood as to the editor's beliefs and acts and as to the program of the N.A.A.C.P.
 
 In the face, however, of the unbelievable depths of debasement and humiliation to which this demagog has descended in order to keep himself out of jail, it is our duty to say openly and clearly:
 

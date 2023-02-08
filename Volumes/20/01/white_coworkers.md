@@ -24,7 +24,7 @@ That all our officers and members are working wholeheartedly to this end is prov
 7. Preventing extradition where lynching was possible
 8. Pan-African Congress
 9. Spingarn Medal
-10. <span style="font-variant:small-caps;">The Crisis</span> magazine
+10. <span class = "small-caps">The Crisis</span> magazine
 11. Over a million pieces of literature, millions of letters, thousands of meetings, appeals, protests, etc.
 
 We have not worked alone; what we have done has been in coöperate with numerous agencies and individuals outside our membership; but ours has been the impulse and initiative and most of the work.

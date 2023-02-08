@@ -27,7 +27,7 @@ I will have firm faith in Democracy, despite its mistakes and inefficiency, know
 
 In order to accomplish the above ends I hereby entrust the National Association for the Advancement of Colored People and its local branches with the investigation and co-operation necessary to the listing of suitable candidates for my franchise at each election.
 
-Persons minded to sign the above oath will send their names to the Editor of <span style="font-variant:small-caps;">The Crisis</span>.
+Persons minded to sign the above oath will send their names to the Editor of <span class = "small-caps">The Crisis</span>.
 
 __________
 *Citation:* Du Bois, W.E.B. 1917. "The Oath of the Negro Voter." *The Crisis*. 15(1):7.

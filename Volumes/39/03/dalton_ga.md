@@ -11,7 +11,7 @@ pages:   85-87
 # Dalton, GA (1932)
 
 ```{margin}
-[Juliette Derriocotte](https://en.wikipedia.org/wiki/Juliette_Derricotte) and Du Bois had corresponded over the prior decade and she had written several times for the <span style="font-variant:small-caps;">The Crisis</span>. At the time of her death at the age of 34, Derriocotte was Dean of Women at Fisk University.
+[Juliette Derriocotte](https://en.wikipedia.org/wiki/Juliette_Derricotte) and Du Bois had corresponded over the prior decade and she had written several times for the <span class = "small-caps">The Crisis</span>. At the time of her death at the age of 34, Derriocotte was Dean of Women at Fisk University.
 ![](/Images/Juliette-Derricotte.jpg)
 ```
 

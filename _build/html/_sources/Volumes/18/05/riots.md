@@ -41,7 +41,7 @@ I returned disquieted, but not depressed over the Washington riot; it might have
 
 The Negros saved themselves and saved Washington by their determination not to run, but to fight---fight in defense of their lives and their homes. If the white mob had gone on unchecked---and it was only the determined effort of black men that checked it---Washington would have been another and worse East St. Louis.
 
-As regrettable as are the Washington and the Chicago riots, I feel that they mark the turning point in the psychology of the whole nation regarding the Negro problem. <span style="font-variant:small-caps;">James Weldon Johnson</span>.
+As regrettable as are the Washington and the Chicago riots, I feel that they mark the turning point in the psychology of the whole nation regarding the Negro problem. <span class = "small-caps">James Weldon Johnson</span>.
 
 Major J. E. SPINGARN reached Chicago, on his way to the West, July 30 and for twenty-four hours did active work for the Association. At his suggestion a committee called on Governor Lowden, on July 30, and among other matters discussed the appointment of a commission of five or eight to study race troubles and to formulate a definite program on race relations for the state,
 

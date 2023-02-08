@@ -11,7 +11,7 @@ pages:   9-10
 
 We learned during the Great War what Publicity could do. We saw its good effects in bringing the truth before the people; we saw its bad effects in making millions believe lies. We are thinking of these bad effects so persistently since the war that Propaganda is in bad odor. But let us remember that in pitiless Publicity we have perhaps the greatest militant organ of social reform at our hands.
 
-In our own problem, the N.A.A.C.P. at the very beginning looked upon <span style="font-variant:small-caps;">The Crisis</span> as a first and absolutely necessary step. Until the best black and white people realized the facts concerning the Negro problem, there was no use discussing remedies. It is as true today as it was then.
+In our own problem, the N.A.A.C.P. at the very beginning looked upon <span class = "small-caps">The Crisis</span> as a first and absolutely necessary step. Until the best black and white people realized the facts concerning the Negro problem, there was no use discussing remedies. It is as true today as it was then.
 
 But further than that, if we want the economic conditions upon which modern life is based to be changed and changed for the better, we need first of all Publicity. The mass of men do not know the facts and there is not today any adequate effort to make all these facts known to the public. Not only that, but law and custom conspire to conceal the truth.
 

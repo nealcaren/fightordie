@@ -9,20 +9,20 @@ pages:   133-134
 -->
 # Join or Die (1914)
 
-<span style="font-variant:small-caps;">The Crisis</span> exists for one great purpose.
+<span class = "small-caps">The Crisis</span> exists for one great purpose.
 
-<span style="font-variant:small-caps;">The Crisis</span> seeks to entertain its readers, and entertainment is a legitimate object for a popular magazine. Our pictures, our stories and our ornamentation are for entertainment. But the object of <span style="font-variant:small-caps;">The Crisis</span> is not simply to entertain.
+<span class = "small-caps">The Crisis</span> seeks to entertain its readers, and entertainment is a legitimate object for a popular magazine. Our pictures, our stories and our ornamentation are for entertainment. But the object of <span class = "small-caps">The Crisis</span> is not simply to entertain.
 
-<span style="font-variant:small-caps;">The Crisis</span> seeks to inform. It is in the large sense a newspaper. It deals not so much with immediate news as with forgotten, neglected and concealed news. This is its great and notable
-function, and gives <span style="font-variant:small-caps;">The Crisis</span> a peculiar place among American periodicals.
+<span class = "small-caps">The Crisis</span> seeks to inform. It is in the large sense a newspaper. It deals not so much with immediate news as with forgotten, neglected and concealed news. This is its great and notable
+function, and gives <span class = "small-caps">The Crisis</span> a peculiar place among American periodicals.
 
-But <span style="font-variant:small-caps;">The Crisis</span> is not merely an entertaining newspaper.
+But <span class = "small-caps">The Crisis</span> is not merely an entertaining newspaper.
 
-<span style="font-variant:small-caps;">The Crisis</span> entertains and informs its readers for the one object and the sole object of arousing their fighting blood. <span style="font-variant:small-caps;">The Crisis</span> means fight and fight for Right.
+<span class = "small-caps">The Crisis</span> entertains and informs its readers for the one object and the sole object of arousing their fighting blood. <span class = "small-caps">The Crisis</span> means fight and fight for Right.
 
-More than that, <span style="font-variant:small-caps;">The Crisis</span> stands for a definite method of fighting. <span style="font-variant:small-caps;">The Crisis</span> does not simply protest or simply tell the unpalatable truth or simply cry fight wildly and crazily.
+More than that, <span class = "small-caps">The Crisis</span> stands for a definite method of fighting. <span class = "small-caps">The Crisis</span> does not simply protest or simply tell the unpalatable truth or simply cry fight wildly and crazily.
 
-<span style="font-variant:small-caps;">The Crisis</span> cries fight and adds: Here are weapons, and here is the battle line:
+<span class = "small-caps">The Crisis</span> cries fight and adds: Here are weapons, and here is the battle line:
 
 Join or die!
 
@@ -30,7 +30,7 @@ What are the weapons? Organized publicity, advertisement, public meetings, petit
 
 Where is the battle line?
 
-The battle line is the <span style="font-variant:small-caps;">National Association for the Advancement of Colored People</span>.
+The battle line is the <span class = "small-caps">National Association for the Advancement of Colored People</span>.
 
 There are individual sharpshooters fighting their own effective guerrilla warfare. We greet them and give them all credit.
 
@@ -48,7 +48,7 @@ What are you doing?
 
 Join or die!
 
-Join the <span style="font-variant:small-caps;">National Association for the Advancement of Colored People</span> or be strangled to a slow and awful death by growing prejudice.
+Join the <span class = "small-caps">National Association for the Advancement of Colored People</span> or be strangled to a slow and awful death by growing prejudice.
 
 There is no excuse.
 

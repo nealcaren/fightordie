@@ -9,7 +9,7 @@ pages:   140-142
 -->
 # The Strategy of the Negro Voter (1933)
 
-Usually, <span style="font-variant:small-caps;">The Crisis</span> has discussed voting among Negroes during elections and sought to give specific advice concerning the action of black voters.
+Usually, <span class = "small-caps">The Crisis</span> has discussed voting among Negroes during elections and sought to give specific advice concerning the action of black voters.
 
 In the discussion today, however, it is perhaps better that in the calm that succeeds a presidential election, we should more carefully ask ourselves, what the object of our voting is, and by what methods and strategy we are going to be able to accomplish it?
 
@@ -33,7 +33,7 @@ Third parties of various kinds bid for the Negro vote; reform movements, Populis
 
 ## White Labor
 
-But as <span style="font-variant:small-caps;">The Crisis</span> has continually pointed out, the white laboring class and the middle class of clerks and merchants and engineers are the bitterest and most implacable enemies of Negroes. It is to no purpose that thoughtful observers remind Negroes that the Negro prejudice of laborers and clerks is the result of ignorance and often of the machination of the employing and investing classes. That fact, of which the Negro is perfectly aware, can have no essential effect upon his actions, because in the present organization or industry he must get his living mainly as  a concession from the employer and the capitalist and this will remain true in his case so long as his fellow white laborer will not permit him to enter industry on equal terms, or consent to fight with him for higher wages and more decent conditions of work. Thus the Negro worker has absolutely no choice but to accept what the employers offer, or starve. There are today among Negroes:
+But as <span class = "small-caps">The Crisis</span> has continually pointed out, the white laboring class and the middle class of clerks and merchants and engineers are the bitterest and most implacable enemies of Negroes. It is to no purpose that thoughtful observers remind Negroes that the Negro prejudice of laborers and clerks is the result of ignorance and often of the machination of the employing and investing classes. That fact, of which the Negro is perfectly aware, can have no essential effect upon his actions, because in the present organization or industry he must get his living mainly as  a concession from the employer and the capitalist and this will remain true in his case so long as his fellow white laborer will not permit him to enter industry on equal terms, or consent to fight with him for higher wages and more decent conditions of work. Thus the Negro worker has absolutely no choice but to accept what the employers offer, or starve. There are today among Negroes:
 
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|

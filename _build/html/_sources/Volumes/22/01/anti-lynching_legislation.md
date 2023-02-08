@@ -16,7 +16,7 @@ Our accomplishment from all our effort may thus be summarized:
 1. Investigated more than a score of lynchings and race riots
 2. Kept an accurate record of lynchings
 3. Published the only statistical study of lynchings ever compiled
-4. Sent 4,462,899 copies of the <span style="font-variant:small-caps;">Crisis</span> to every state in the Union and to every country on the globe
+4. Sent 4,462,899 copies of the <span class = "small-caps">Crisis</span> to every state in the Union and to every country on the globe
 5. Sent out hundreds of news releases. During the year of 1920 alone 131 press stories were sent out from the National Office
 6. Held more than 2,000 public meetings, attended by more than 3,000,000 people, at which speak­ ers acquainted the audiences with the facts about lynchings
 7. Sent literature on lynching, with actual photographs of lynchings and burnings at the stake, all over the civilized world
