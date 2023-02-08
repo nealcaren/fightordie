@@ -139,12 +139,14 @@ th, td {
 }
 
 
-.dot-table td:first-child {
+.dot-table td:nth-child(2) {
   text-align: right;
+  padding-left: .5rem;
 }
 
 .dot-table td:last-child {
   text-align: right;
+  padding-left: .5rem;
 }
 
 aside  {
