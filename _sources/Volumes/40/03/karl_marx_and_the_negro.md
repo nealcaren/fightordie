@@ -106,14 +106,11 @@ pen that wrote the address to Abraham
 Lincoln in November, 1864.
 
 > To Abraham Lincoln, President of the
-United States of America.
-<p>
-Sir:---We congratulate the American peoople upon your re-election by a large majority.
+United States of America.<p>Sir: ---We congratulate the American peoople upon your re-election by a large majority.
 If resistance to the Slave Power was the
 watchword of your first election, the triumphal
 war-cry of your re-election is Death to
-Slavery.
-<p>
+Slavery.<p>
 From the commencement of the titanic
 American strife the workingmen of Europe
 felt distinctively that the Star Spangled 
@@ -122,8 +119,7 @@ contest for the territories which opened the *dire epopée*,
 was it not to decide whether the
 virgin soil of immense tracts should be wedded
 to the labor of the immigrant or be prostituted
-by the tramp of the slave-driver?
-<p>
+by the tramp of the slave-driver?<p>
 When an oligarchy of 300,000 slaveholders
 dared to inscribe for the first time
 in the annals of the world 'Slavery' on the
@@ -157,8 +153,7 @@ hardships imposed upon them by the cotton
 crisis, opposed enthusiastically the pro-slavery
 intervention-importunities of their
 betters---and from most parts of Europe contributed
-their quota of blood to the good of the cause.
-<p>
+their quota of blood to the good of the cause.<p>
 While the workingmen, the true political
 power of the North, allowed slavery to defile
 their own republic, while before the Negro,
@@ -170,8 +165,7 @@ attain the true freedom of labor, or to sup-
 port their European brethren in their struggle
 for emancipation; but this barrier to
 progress has been swept off by the red sen
-of civil war.
-<p>
+of civil war.<p>
 The workingmen of Europe felt sure that,
 as the American War of Independence
 initiated a new era of ascendency for the
@@ -232,27 +226,23 @@ forever wiped out. Never again shall the hammer
 of the auctioneer announce in your
 market-places sales of human flesh and blood
 and make mankind shudder at the cruel
-barbarism.
-<p>
+barbarism.<p>
 Your noblest blood was shed in washing
 away these stains, and desolation has spread
 its black shroud over your country in penance
-for the past.
-<p>
+for the past.<p>
 Today you are free, purified through your
 sufferings. A brighter future is dawning
 upon your republic, proclaiming to the old
 world that a government of the people and
 by the people is a government for the people
-and not for a privileged minority.
-<p>
+and not for a privileged minority.<p>
 We had the honor to express to you our
 sympathy in your affliction, to send you a
 word of encouragement in your struggles,
 and to congratulate you upon your success.
 Permit us to add a word of counsel for the
-future.
-<p>
+future.<p>
 Injustice against a fraction of your people
 having been followed by such dire consequences,
 put an end to it. Declare your
@@ -261,14 +251,13 @@ equal, without any reserve. If you refuse
 them citizens' rights while you exact from
 them citizens' duties, you will sooner or later
 face a new struggle which will once more
-drench your country in blood.
-<p>
+drench your country in blood.<p>
 The eyes of Europe and of the whole
 world are on your attempts at reconstruction,
 and foes are ever ready to sound the death-knell
 of republican institutions as soon as they
-see their opportunity.
-<p>We therefore admonish you, as brothers
+see their opportunity.<p>
+We therefore admonish you, as brothers
 in a common cause, to sunder all the chains
 of freedom, and your own victory will be
 complete.
