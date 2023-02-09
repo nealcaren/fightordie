@@ -268,6 +268,8 @@
 |   1930 |       37 | 3       | [Patient Asses](https://www.dareyoufight.org/Volumes/37/03/patient_asses.html)                                                            |
 |   1930 |       37 | 5       | [Our Program](https://www.dareyoufight.org/Volumes/37/05/our_program.html)                                                                |
 |   1930 |       37 | 5       | [The Capital N](https://www.dareyoufight.org/Volumes/37/05/capital_n.html)                                                                |
+|   1930 |       37 | 8       | [A New Party](https://www.dareyoufight.org/Volumes/37/08/new_party.html)                                                                  |
+|   1930 |       37 | 8       | [Economic Disenfranchisement](https://www.dareyoufight.org/Volumes/37/08/economic_disenfranchisement.html)                                |
 |   1931 |       38 | 4       | [Causes of Lynching](https://www.dareyoufight.org/Volumes/38/04/causes_of_lynching.html)                                                  |
 |   1931 |       38 | 4       | [Woofterism](https://www.dareyoufight.org/Volumes/38/03/woofterism.html)                                                                  |
 |   1931 |       38 | 9       | [The Negro and Communism](https://www.dareyoufight.org/Volumes/38/09/negro_and_communism.html)                                            |

@@ -135,7 +135,7 @@ chapters:
     - file: Volumes/13/02/muddle.md
     - file: Volumes/15/01/oath_of_the_negro_voter.md
     - file: Volumes/21/02/unreal_campaign.md
-    - file: Volumes/22/01/drive.md
+    - file: Volumes/22/01/drive.md 
     - file: Volumes/28/03/vote.md
     - file: Volumes/28/04/la_follette.md
     - file: Volumes/28/05/naacp_and_parties.md
@@ -148,6 +148,7 @@ chapters:
     - file: Volumes/35/12/election.md
     - file: Volumes/36/02/depriest.md
     - file: Volumes/36/05/hoover_and_the_south.md
+    - file: Volumes/37/08/new_party.md
     - file: Volumes/39/11/herbert_hoover.md
   - file: Sections/womansuffrage
     sections:
@@ -216,7 +217,7 @@ chapters:
     - file: Volumes/39/09/employment.md
     - file: Volumes/40/12/af_of_l.md
   - file: Sections/socialism
-    sections: 
+    sections:  
     - file: Volumes/15/01/cooperation.md
     - file: Volumes/18/05/forward.md
     - file: Volumes/19/04/cooperation.md
@@ -233,6 +234,7 @@ chapters:
     - file: Volumes/35/05/our_economic_future.md
     - file: Volumes/35/11/dunbar_national_bank.md
     - file: Volumes/37/01/gambling.md
+    - file: Volumes/37/08/economic_disenfranchisement.md
     - file: Volumes/38/09/negro_and_communism.md
     - file: Volumes/40/04/right_to_work.md
     - file: Volumes/40/05/marxism_and_the_negro_problem.md
