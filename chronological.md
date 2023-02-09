@@ -303,6 +303,7 @@
 |   1933 |       40 | 2       | [Our Health](https://www.dareyoufight.org/Volumes/40/02/our_health.html)                                                                  |
 |   1933 |       40 | 2       | [It is a Girl](https://www.dareyoufight.org/Volumes/40/02/its_a_girl.html)                                                                |
 |   1933 |       40 | 3       | [Color Caste in the United States](https://www.dareyoufight.org/Volumes/40/03/color_caste_in_the_united_states.html)                      |
+|   1933 |       40 | 3       | [Karl Marx and the Negro](https://www.dareyoufight.org/Volumes/40/03/karl_marx_and_the_negro.html)                                        |
 |   1933 |       40 | 4       | [The Right to Work](https://www.dareyoufight.org/Volumes/40/04/right_to_work.html)                                                        |
 |   1933 |       40 | 5       | [Scottsboro](https://www.dareyoufight.org/Volumes/40/05/scottsboro.html)                                                                  |
 |   1933 |       40 | 5       | [Marxism and The Negro Problem](https://www.dareyoufight.org/Volumes/40/05/marxism_and_the_negro_problem.html)                            |
