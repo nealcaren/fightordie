@@ -127,52 +127,44 @@ figures and diagrams.
 
 In the matter of crime, sociology has done some of its best work;
 let us notice only one --- the connection of crime and age. In Germany
-for instance it has been found that 15# of all persons between 21 and
-40 have b^en convicted for crime, 9# of those between 40 and 60, and
-7# of those between 12 and 18 years of age. Further analyzing these
+for instance it has been found that 15% of all persons between 21 and
+40 have been convicted for crime, 9% of those between 40 and 60, and
+7% of those between 12 and 18 years of age. Further analyzing these
 figures it is found that the most criminal age is between 20 and 30,
 and among young unmarried men. Taking for instance the Negro criminal
 in the Eastern section of Pennsylvania; we find the remarkable fact
-that 67# of them were under 30 years of age and 11# uande 20.
+that 67% of them were under 30 years of age and 11% under 20.
 
 Using such minute and detailed statistics sociology has built up
-
 the theory of the social group. The country village is a social group.
-
-^3-/- ^
-
-7
-
-It8 population distributed in a certain normal order as to age and sex
-and conjugal condition, Its birth and death regulating the increase of
+Its population distributed in a certain normal order as to age and sex
+and conjugal condition. Its birth and death regulating the increase of
 population. There is some crime, a school, a church, a village store.
-
 The population is divided among different occupations, social classes
-make a faint appearance and there is a general public opinion which re-
-presents of synthesis of like ideas. Such a group may grow to a city or
+make a faint appearance and there is a general public opinion which
+represents of synthesis of like ideas. Such a group may grow to a city or
 to a nation, but as it grows we note certain peculiarities:	it forms
-
-within its«lf oth--»r smaller groups for special purposes - clubs for
+within itself other smaller groups for special purposes --- clubs for
 amusement or reading, church societies, associations of capital and
 labor called shops or companies or factories and etc. These sub-groups
 we might call organs for carrying out the special work of society, just
-as thp tissues of th® body form here a heart and hjre an eye to s^rve
-th« whole organism of the body. This we ref r to when we speak of so-
-ciety being organized - of course this is but an analogy for the orga-
-nization of society is far from complete and individual free will must
+as the tissues of the body form here a heart and here an eye to serve
+the whole organism of the body. This we refer to when we speak of society
+being organized --- of course this is but an analogy for the organization
+of society is far from complete and individual free will must
 ever hinder that consummation in this world. Nevertheless advance in
 civilization is to a certain extent advance in the perfecting of the
 organization of society.
 
-•^uch is the work that Sociology has accomplished. It is to be sure
+Such is the work that Sociology has accomplished. It is to be sure
 only a beginning: our statistics are woefully imperfect. Our methods of
 observation are crude and the material at hand is largely an unclassified
-mass of facts, the value of which is various and uncertain. Neverthe-
-less gigantic strides have been taken in the last 10 years, something has
+mass of facts, the value of which is various and uncertain.
+Nevertheless gigantic strides have been taken in the last 10 years, something has
 been done, and the outlook for the future is bright. This brings me to
 the fourth point I wish to discuss.
 
-4th. The Use of Soclological Material
+<h2>4th. The Use of Sociological Material</h2>
 
 The interest in social reform and general betterment which animates
 
