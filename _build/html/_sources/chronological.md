@@ -270,6 +270,7 @@
 |   1930 |       37 | 5       | [The Capital N](https://www.dareyoufight.org/Volumes/37/05/capital_n.html)                                                                |
 |   1930 |       37 | 8       | [A New Party](https://www.dareyoufight.org/Volumes/37/08/new_party.html)                                                                  |
 |   1930 |       37 | 8       | [Economic Disenfranchisement](https://www.dareyoufight.org/Volumes/37/08/economic_disenfranchisement.html)                                |
+|   1930 |       37 | 8       | [India](https://www.dareyoufight.org/Volumes/37/08/india.html)                                                                            |
 |   1930 |       37 | 8       | [Freedom of Speech](https://www.dareyoufight.org/Volumes/37/08/freedom.html)                                                              |
 |   1931 |       38 | 4       | [Causes of Lynching](https://www.dareyoufight.org/Volumes/38/04/causes_of_lynching.html)                                                  |
 |   1931 |       38 | 4       | [Woofterism](https://www.dareyoufight.org/Volumes/38/03/woofterism.html)                                                                  |
