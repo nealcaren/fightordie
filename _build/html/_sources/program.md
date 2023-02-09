@@ -46,337 +46,660 @@ I come therefore to the second point in my talk.
 
 ## 2nd. What has Sociology done?
 
-Sociology has studied the proportionate nwnber of the two sexes in the diffPrP,nt countr.ies, the numo"'r of people of different ages, the number of births each year in diff0rent localiti?.s, the number of deaths from various dis as s, the size of families, the av0rage nwnb r of rooms in dwellings,
-the extent of illit.,.racy, the n'umber of communicants in the diff9rent church0s the occupations which men pursue, the income from their work, the way that income is expended; the number of thd blind, deaf, dwnb, and insane, the extent and dPgree of poverty, the prevalence of suicide, the extent and
-kinds of crime, the characteristics of criminals, the distribution and migration of population, the distribution of property, etc. Moreover it has sought to gen ralize much of this mass of facts and show how all these actions and phenomenas tend to a c rtain rhythm and regularity which we call the social group. In the social group the distribution of the sex and age of the individuals remain continually 1:1.bout the samP. despite birth and dP.ath, and th r te of births and deaths varies so little that it can be predict"Jd within limits.	The incom'?, ocqupation, expenditure, and crime tP.nds in the same way und'!r forms of law. This so-called Social Law seems partly voluntary, partly involuntary, but in all cases its reg­
-ularity is much grater than thP cdsual read r dreams. These social groups in turn combine to form that higher gen ralization which we call Society.
-Society is simply a general name for the regularities of human action - for the general fact that when 50, 100, Or 1,000,000 live together they do not all act irresponsibly or at random but according to well-known
- 
+Sociology has studied the proportionate number of the two sexes in the
+different countries, the number of people of different ages, the number of
+births each year in different localities, the number of deaths from various
+diseases, the size of families, the average number of rooms in dwellings,
+the extent of illiteracy, the number of communicants in the different churches
+the occupations which men pursue, the income from their work, the way that
+income is expended; the number of the blind, deaf, dumb, and insane, the
+extent and degree of poverty, the prevalence of suicide, the extent and
+kinds of crime, the characteristics of criminals, the distribution and
+migration of population, the distribution of property, etc. Moreover it
+has sought to generalize much of this mass of facts and show how all these
+actions and phenomenas tend to a certain rhythm and regularity which we
+call the social group. In the social group the distribution of the sex
+and age of the individuals remain continually about the same despite birth
+and death, and the rate of births and deaths varies so little that it can
+be predicted within limits. The income, occupation, expenditure, and
+crime tends in the same way under forms of law. This so-called Social
+Law seems partly voluntary, partly involuntary, but in all cases its
+regularity is much greater than the casual reader dreams. These social groups
+in turn combine to form that higher generalization which we call Society.
+Society is simply a general name for the regularities of human action --- for 
+the general fact that when 50, 100, Oor 1,000,000 live together they
+do not all act irresponsibly or at random but according to well-known
+maxims, social forces and laws.
 
-maxima, social forc a and laws.
-All this that I have said can b at b, illuatratPd by a few actual examplP.s. In Europe, for inatancP., rep"l.i:ted inv••atigation has proven that for 0v0ry 1,000 males th- re are about 1,024 females. Thia is
-00	CharactP.ristic of old countries. In the United StatAs, on the other
-fl--.
-, hand there are only 952 females for every 1,000 males. In the older,
-,  I"
-fV)	eastern states, however, we should expect to find conditions approaching
-those in Europe - and sure enough there are 1,005 females to every 1,000 males. To show the significence of such facts let us go a step farther: We find in the city of Baltimore 1,310 Negro women to every 1,000 men.
-We can immediately say this is surely an abnorman situation and must have something to do with the large number of illegitimate births in that city
-Statistics of age show that in normal countries about one third of the population is under 15 years of age, yet the nations vary consider­ ably: for instance take children under 10 y ara of age; in England they form 24% of the population, in France only 18%, among the Negroes of the land 28%. Turning now to the old pP.ople 60 and over and we find that they form 7% of the 9opulation of England; 13% of that of France; and 2% among our race. Such differences simply mean oor family life among our prople.
-The statistics of births and deaths are always of great interest and con Pquently lia•le to misuse. We may have two especially marked types: a population with a low birth -rate and low death-rate like France or a population with a high birth r te and high death rate like American Negro. The latter is  a sign of a low standard of culture - early marriage, illegitimacy and nP.glect of the laws of health; the the formP.r is	usually a dign of high civilization - postponement of
-marriag until the B'1ppor·::of a family is  assured, and life according
-\ -
-to thn laws of h,>-gi:me. Son in th same country the character of a
-community may easily bP. approxim tely fiXPd by m asuring the number
- 
-of p ople in evP.ry thousand that die annually. A death rate above 26 is high, while one above 30 points to srave ddngers. The rate ay be as low as 18 as in Norway. The average dea;th rate of Neeroes in cities is	34.
-Where sooilolgical inquiry reveals gr t differences in the con­
-ditions of diff rent groups of people this is usually evidence of some
-i unseen cause which makes the variation. For instance, we can represent
-I
-the occupations of the people of Philadelphia by th following set of door stP.ps:
---t' ;.t.. - -	Agriculture
--	?rofessions
----------Domestic & Personal service
-------Trade and Transportation
-·-='------Mfg.  & MachiM Industry
-If however we represent th occupations of the Negroes of the city, we find the steps hard for climbing.
-A-
-B-,i:...		_,...,._
-C-l-...	'
-D-	'
-E- ,-  •
-,-.;:,--..-
-What is the meaning of this striking differgnce? It is explained fully by ona comprehensive word SLATIRY. Thus history writes itself in figures and diaaTama.
-In the mattPr of crime,sociology has done some of its best work; let us notice only one - the connection of orlme and age. In Germany for instance it has been found that 15% of all 9 rsons bet een 21 and 40 have b0en convictF.1d for crime, 9% of those batween 40 and 60, and 7% of those between 12 nnd 18 years of age. Further analyzing these figures it is found that the most criminal age is between 20 and ZO, and among young unmarried men. Taking for instance the Negro criminal in the EastP.rn section of Pennsylvania; we find the remarkable fact that 67% of them were under 30 y ars of age and 11% uand 20.
-Using such minute and detailed statistics sociology has built up the theory of the social group. The country village is a social group.
- 
-Its population distri.but d in a 1J'!rta.in normal order as to ag and sex and conjugal condition, Ite birth a.nd deatll regulating the increase of population. There is some crime, a school, a church, a village store, The population is iv1ded among different occupations, social classes make a faint appearance and there is a general public opinion which re­ presents of synthesis of lik id'!as.	Such a group may grow to a city or
-to a nation, but as it grows we note certain peculiarities: it forms
-'I		wi tr,in its0lf oth"r smaller groups for special urposes - clubs for amusement or r ading, church soci ties, associations of capital and
-labor call0d shops or compani s or factories and etc. These sub-groups
+All this that I have said can best be illustrated by a few actual
+examples. In Europe, for instance, repeated investigation has proven
+that for every 1,000 males there are about 1,024 females. This is
+Characteristic of old countries. In the United States, on the other
+hand there are only 952 females for every 1,000 males. In the older,
+eastern states, however, we should expect to find conditions approaching
+those in Europe --- and sure enough there are 1,005 females to every 1,000
+males. To show the significence of such facts let us go a step farther:
+We find in the city of Baltimore 1,310 Negro women to every 1,000 men.
+We can immediately say this is surely an abnorman situation and must have
+something to do with the large number of illegitimate births in that city.
+
+Statistics of age show that in normal countries about one third of
+the population is under 15 years of age, yet the nations vary considerably: 
+for instance take children under 10 years of age; in England they
+form 24% of the population, in France only 18%, among the Negroes of
+the land 28%. Turning now to the old people 60 and over and we find
+that they form 7% of the population of England; 13% of that of France;
+and 2% among our race. Such differences simply mean poor family life
+among our people.
+
+The statistics of births and deaths are always of great interest
+and consequently liable to misuse. We may have two especially marked
+types: a population with a low birth-rate and low death-rate like
+France or a population with a high birth rate and high death rate like
+American Negro. The latter is a sign of a low standard of culture ---
+early marriage, illegitimacy and neglect of the laws of health; the
+the former is usually a sign of high civilization --- postponement of
+marriage until the support of a family is assured, and life according
+to the laws of hygiene. Son in the same country the character of a
+community may easily be approximately fixed by measuring the number
+of people in every thousand that die annually. A death rate above 26
+is high, while one above 30 points to grave dangers. The rate may be
+as low as 18 as in Norway. The average death rate of Negroes in cities
+is 34.
+
+Where socilolgical inquiry reveals great differences in the conditions 
+of different groups of people this is usually evidence of some
+unseen cause which makes the variation. For instance, we can represent
+the occupations of the people of Philadelphia by the following set of
+door steps:
+
+FIGURE 1
+
+If however we represent the occupations of the Negroes of the city,
+we find the steps hard for climbing.
+
+
+FIGURE 2
+
+What is the meaning of this striking difference? It is explained
+fully by one comprehensive word SLAVERY. Thus history writes itself in
+figures and diagrams.
+
+In the matter of crime, sociology has done some of its best work;
+let us notice only one --- the connection of crime and age. In Germany
+for instance it has been found that 15# of all persons between 21 and
+40 have b^en convicted for crime, 9# of those between 40 and 60, and
+7# of those between 12 and 18 years of age. Further analyzing these
+figures it is found that the most criminal age is between 20 and 30,
+and among young unmarried men. Taking for instance the Negro criminal
+in the Eastern section of Pennsylvania; we find the remarkable fact
+that 67# of them were under 30 years of age and 11# uande 20.
+
+Using such minute and detailed statistics sociology has built up
+
+the theory of the social group. The country village is a social group.
+
+^3-/- ^
+
+7
+
+It8 population distributed in a certain normal order as to age and sex
+and conjugal condition, Its birth and death regulating the increase of
+population. There is some crime, a school, a church, a village store.
+
+The population is divided among different occupations, social classes
+make a faint appearance and there is a general public opinion which re-
+presents of synthesis of like ideas. Such a group may grow to a city or
+to a nation, but as it grows we note certain peculiarities:	it forms
+
+within its«lf oth--»r smaller groups for special purposes - clubs for
+amusement or reading, church societies, associations of capital and
+labor called shops or companies or factories and etc. These sub-groups
 we might call organs for carrying out the special work of society, just
+as thp tissues of th® body form here a heart and hjre an eye to s^rve
+th« whole organism of the body. This we ref r to when we speak of so-
+ciety being organized - of course this is but an analogy for the orga-
+nization of society is far from complete and individual free will must
+ever hinder that consummation in this world. Nevertheless advance in
+civilization is to a certain extent advance in the perfecting of the
+organization of society.
 
-th0 wholP organism of the body. T:1is we r-"f r to when we speak of so­ ciPty being organized - of course this is but an analogy for the orga­ nization of sbcfoty is far from complete and individual free will must ever hind'!r that conswnmation in this world. Neverthel'!ss advance in civilization is to a c rtain extent advance in the p rfeoting of the organization of soci ty.
-0uch is the work that Sociology has accomplished. It .is to be sure only a b"'ginning: our statistics are woefully imperfect. Our methods of obePrvation are crude and th material at hand ie largely an unclassified mass of facts, the value of which is various and uncertain. Neverthe­ less gigantic strides hav been taken in th last 10 years, something has been done, and the outlook for th future is bright. Thie brings me to the fourth point I wish to discuss.
-4th.	Use of Sociological Material
-The interest in so•cial r<>form and general betterment which animates so many excellent people today must not be mistaken for the science of
+•^uch is the work that Sociology has accomplished. It is to be sure
+only a beginning: our statistics are woefully imperfect. Our methods of
+observation are crude and the material at hand is largely an unclassified
+mass of facts, the value of which is various and uncertain. Neverthe-
+less gigantic strides have been taken in the last 10 years, something has
+been done, and the outlook for the future is bright. This brings me to
+the fourth point I wish to discuss.
+
+4th. The Use of Soclological Material
+
+The interest in social reform and general betterment which animates
+
+so many excellent people today must not be mistaken for the science of
+
 u
-Sociology. There are many people who have a val1t, disire to right wrongs,
+
+Sociology. There are many people who have a va^jfe desire to right wrongs,
+
 help the needy, and reform the vicious. Unfortunately these people in
- 
-very many instanses arP.ignorant of the r0aults of scientific r s arch in thP.se lines - thny do not know the value and meaninr of statistics and they often waste money and energy, or do absolute harm, either by anti-
-" quated or discredited methods. If anyone should inform an ordinary
--!., oiti7,en that ch mists had discoverad a new element, Argon - he would say very well or bravol and be don, - he would not attempt to <liscuss the matt.r or draw conclusions - he ia no ch9mist and does not attempt to be. If he wish"s to use th results of ch--mi.cal research he seeks the advice of a chP.mist. In the realm of sociology, however, the casP.is very different: tell a man that the de th rate of the Negroes is 36, and irranPdiatP.ly he is ready to discuss the matt r, write articl s, form clubs, and sp,,nd mon..,y althoueh h,3 knows th:1t he is not an P.XpP.rt in statistics or a studPnt of sociology. What ought to happen in this'case is clear:
-the man ou ht to s y candidly th t he knows nothing about death rates -
-is 36 high or low or m->dium? What has o"'en the history of the variation	..
-of d0ath rat s? How do th• ct, th rat s of diff rent peoples compare with th s? A sensible man ought to ask: What does a death rate of 36 ;
-what in the light of the exp.rt $tatis'ical nowledge and the careful sociological resnarch of the last quart r century, is the proper inter­ prP.tation of this figure 36, which otherwise is to me a Sphinx and an enigma.
-The civilized and thinking p rt of th modern world is gradually and surely coming to this position. The first thing people ask of social reformars now in not how arnest are you or how great is the need of re­ form but rath.,r what do you know a.bout the ·1ctual situation and how does th best of -xp rt opinion interyret these facts. Ken recognize the fact that such PXpert opinion may err but th y are coming to see that the occasional error of m n who give th,ir life to knowing is  not as dangerous as th" p rp-tual rror of m,n who gu es or dogmatize. The facts and the meaning of th facts are then the first steps in modern social r form.
- 
 
- 
+8
 
+very many instanses arp ignorant of the results of scientific research in
+these lines - th^y do not know the value and meaning of statistics and
+they often waste money and energy, or do absolute harm, either by anti-
+\ quated or discredited methods. If anyone should inform an ordinary
+^ citizen that chemists had discovered a new element, Argon - he would say
+very well or bravo I and be done - he would not attempt to discuss the
+matter or draw conclusions - he is no chemist and does not attempt to be.
+If he wishes to use the results of chemical research he seeks the advice
+of a chemist. In the realm of sociology, however, the case is very
+different: tell a man that the death rate of the Negroes is 36, and
+immediately he is ready to discuss the matter, write articles, form clubs,
+and sp^nd mon^y although he knows that he is not an expert in statistics
+or a student of sociology. What ought to happen in this case is clear:
+the man ought to say candidly that he knows nothing about death rates -
+is 36 high or low or medium? What has been the history of the variation
+of d^ath rates? How do the daath rates of different peoples compare with
+this*?1 A sensible man ought to ask: What does a death rate of 36 mean:
+what in the light of the expert statistical knowledge and the careful
+sociological research of the last quarter century, is the proper inter-
+pretation of this figure 36, which otherwise is to me a Sphinx and an
+enigma.
 
+The civilized and thinking part of the modern world is gradually and
+surely coming to this position. The first thing people ask of social
+reformers now in not how earnest are you or how great is the need of re-
+form but rather what do you know about the actual situation and how does
+the best of -xp->rt opinion interpret these facts. Men recognize the fact
+that such expert opinion may err but they are coming to see that the
+occasional error of men who give th^ir life to knowing is not as dangerous
+as th° p rp~tual -rror of mm who guess or dogmatize. The facts and the
+meaning of th* facts are then the first steps in modern social reform.
 
+9
 
+How now 3hall the mass of intelligent people who have not time to
+be experts put themselves in position to use the material collected by
+sociologists in the practical work of reform? We can best answer inis
+by seeing the work done in reform during this century.
 
+One of the first movements was the English Abolition of the slave-
 
+»
 
+'J* trade:	for this the House of Commons collected a mass of statistics -
 
-rJ
-l'l
-I
-' I
- 
-g
+fV)
 
-How now·shall the mass of int<?lligsnt people who have not time to be experts put themselves in position to use the material collected by sociologists in the .ractic-!ill work of reform? Ye can best answer t.nis by seeing th,, work done in reform during this century.
-One of the first movements w s the English Abolition of the slave­ trade: for this the Rouse of Gammons collected a mass of statistics - the numb r of ships engaged, the -9.lllOUnt of capital invested, the methods employed to capture slaves, the routPs or sailing, the number traneport­ Pd, the d.ath rate among slaves and sailors, and etc. They eoughtthe history of the subject, the general conditions, the opinions of experts statisticians and when they began to legislate on the subject they knew what th'!y WPre doing and no nation had done eo much to stop lfegro slav­ ery as these same Englishmen w o stu ied the mattPr so horoughly.
-Again take the matter or prison reform.	hen the question as first agitated there wasn't a crank in ngland or America that hadn't an opin­
-ion and a panacP.a - It was do this, do that, make their punishment as eeYere as that of galley slaves; tr at thAm as un•fortunate victims of
-society; make their work hard, let tl:lem lie idle; hang them, give them tracts to read, and etc. Society has outgrown this: gradually here and there we havl'! coll cted facts - not how someone thinks a plan might work but how tbP plan actually did work when it was tried; e have studied criminals instead of taking it for granted that we now them, we have watch,.,d crime instead of thAorizing a.bout it and tl:11m with the material WP have tried careful experiments - expprirn nts in housing prisoners, exp0rim.,nts ii"runishrr:ent, experiments in work und diet; until today no int,,lligont man thirks of aiml0saly gtving advice AS to crim. - he knows that this is a aubj ct for exp rte - a subject still dark, with much to b" lParn,,d, but still a realm wh,,.r.,t,r day of gu,'sswork is past. In the matt r of charity, p,:,rha::,o th,.e.re--it<>st advance has been madA. The classic examples of this is the history of the nelish oo law. At first England frowned fiercely,on bP.ggery and poverty and whipped and
- 
+the numb-r of ships engaged, the amount of capital invested, the methods
+employed to capture slaves, the routes of sailing, the number transport-
+ed, the death rate among slaves and sailors, and etc. They soughtthe
+history of the subject, the general conditions, the opinions of exports
+statisticians and when they began to legislate on the subject they knew
+what they were doing and no nation had done so much to stop Negro slav-
+ery as these same Englishmen who studied the matter so thoroughly.
 
-brandf'd and hanfF>d the .,.oor d'?vils. 'l'h n ehe m lted into E<>r.tim..,nt und coddlPd and stuffpd h0r paupP.rs until it s emetl as trough all ngland would £10 to begging. Finally ti-:. state b thought 1tself t0 aakwho are the paup re, what m kes pauperism, how can we decrease it and help people to hP.lp themEelvP.s?	or thts rP.ason it now uses the statistics,
-studies social conditions, organiz s charitable societies, avoids dupli-
-1'	cations of work, dP.t cts·irnport rs a.nd seeks in ev.iry Wd,Y to know the
-..g2_. causes of pov"rty and apply intelligirnt and scientific r"?n:edies. The world is still far from solving th problem but we are much nearer than men wer in thP. 17th and 18th centuries,
-Thus sociological material is today us d by all kinds of 2ocial re- forms: th organizers of childrens soci ties,	and of schools; those
-who s0  d to h lp the d af and the bling, those who want to get work for thP idl0; saving banks and building assoc tions arP P.stablished on carefully asc rtained princi l1a, model homes built for tenants - indeed this is the ago wh0n lasting and P.ffective reform has become systematic
-and sci0ntifio and has replacF?d sentiment a.nd theory.
-The que tion now comes:
-5th. What fu!! the !!.!:.tl Sooiologica ooiety ?
-I want to be erfectly frank in this•ma.tter and to say plainly that in my opinion this society has done nothing. I know we have organized - we have held meatings. We have had p1'rn.ea.nt social gatheriri s and we have talk"!d. But of actual work d.cc,,m_plished either in th'l line of know­ ing just what th r is to be done, and just haw we are to do it, and what
-thP,re is to be learned as to method from the eocioloeical work of the day, and above all of actual accomplished work, it seems to mo pPrfectly fair to say th t this soct0ty has done little more than nothing. Indeed I
-have s<>vPral times snriously a.ek d myself whether I was justified in attenning those m,;, t ngs and wh?.th?.r tha.re was a reasonable proap'!ct of an end of aimlPss talking and a b.,ginning of de:f'init?.doing, We seem to me in thP. first place to ha.VP. no clear id a of what the society is for;
- 
-we seem again to have a. 1,endency to fritter a.way precious time on trifles, we seen to forgF>t whnn we a.re diecuaeing,,aJs andm•rnne that all this is not mara theory but that dmfinite infoTI1ation of the axpPrience of others in the work and of the  general state of eoientific knowladge on most of
-these points is naeily obtainable.	,'ind fina l;:; W" >J" m in the laying out of our dr>fini te practical wo.rk for cor-l"li tt•.,"!S to have not the faint0st
-:;,..... shad<>of  nn id0a ::,f  th,. @norrn<Jus difficulti<>s and infinite complications
-of som0  of  th-> subj cts W"' und.,rta.ke>.	'l'o  _partlcularies,  a.t the last
-"'1
-meeting tile subjPct  for  discussion was the influPnce of	tenement  life on
-small child!'en - a subject of th	d ep.,st importance a!:d of wide influence Ther<; is a p rf'!ct m.:Ja of .r.:at. rial on the s·1bjP.ct - studiPs, maps and plans, vital statistics, s•atii:,tics of dw0llinga and occup...ttons, mea­ surements of childran'a bodi"!s, expP,rimente ae to mental a titude, in­ quiries into homf) life - ind,1ed I could without tiiffi.culty gath r right
-here in Atlanta a hundred volwn<:ls of material on the point to  be  dis­ cussed.	If a sociological society ha.d been eo ing	to	discuss that subject what would on	rriasonably expP.ct th"! trend of the discuss·on to be?
-They would "X "'ct first that the g,m1ral conditions of slums would be wxplain d: Bootha maps of London	ulri b	exhibited and otudies sho,m of th" pl:ysical Pnvi rionments; th"! Hull Rouse maps and pap"!rs would hav"' b"'rm taken next; aom1"'thing w-::,uld hav" b,"'en said of th"! slums of New York and
-what physical s1..:.rrc.indings are nec osd.ry nd th l:,.ck of th1s8 wo ,,_d bfl illustrat"!d by th	d0a.th rate of childr n in slums; the moral demands of
-child lif	w,,uld be	touch d upon a.nd criminal st tistic s producfld to show how youthful criminals ar!'J bred ln the slum,a; finally we would hav'! the evil  social eff'1cts - 13-wd talk, illagima+,e childr':!n, prostitution, per­ sonal unclea.n ss, the spre.:i.d of disease and the like.	'rhosq are sor-e
-very elemPntary mattPrs connected with th	life of childrP.n in	slums which any	consideration of the subject must take up. "ut beside this the cen­ tral part  of the discussion ought to have been the  alur:is of  Atlanta: we
- 
-ought to hav"' h d the ma) of sever l tJ::,ica.l alleys showing the eize and relation of th"'housP,e, the numb r of rooms., the number dwelling there• and the numb,,r and ai·7-'? of	childr n; the  gen'!ral chara.cteristics of th famili,,.s, th" abilitf of thP. childr n in school or at	work, the nur.iber of. deaths in the alley in a ar, Lb  kinda of diseases, und a general his­ tory cf thP a.11,..y.	Frorrone to fivr,euoh studitrn might ha.VP been made.
-ouch is what we m1g t rt>aeonably i->Xp ct tin •the discueeior.of this eubj,ct b:, a club wl.ich calla ite lf 12ociological. And yet I doubt if any mPmbt>r of 'bia society w nt from that discussion with a einrle n""w fact or id0a.	nobody ha.d etudiPd th"'subj,,,,ct, nobody knew anything about the matter, noonP. had any information to impart. About t\.o c!aye before tt:e meeting in thP midst of a bucy week's work I v;-as informed that I vae ex­ pected to discuss a subject which exp rts have been studying 10 to 20 years. And whPn out of ohePr res2ect for th intelligPnce of th se memb"rs I mildly protpa•ed th&.t two days was not encuch t.ime for such a subj ct - th"'eociety blandly v aved its hand, and said ''why you had daye".
-I rPmP.mb?r laEt year at the Altanta Conference, the president of this society gave MJ outline cf tnis organi,:ation and a list of its committe s. I must conf<>ee it ma.do a opli<::ndid showing: but there wae one fact that the prPsidPnt omitted to mention and that was that very few of t ose com ittee• had done any work worth mentioning, Nor was this the fault of the presi­ dent: he nad urgPd th.,s.ociety a.gain and a.rain to do act1,e,.l work and the sociPty did att pt to h lp tha Atlanta Confarance, but of all the bad re­ ports that ca!r0  intc th..t confPrP.nce that of this clubs ,•as the v,orst. If it hurl not b"flln for the v"ri:;or.a.l work of Dr. Butler and Jfr, Uatth0ws the Atlanta Conf0rence would have had to omit Atlanta from the cities invest­ ieatP.d. I s&id to mys lf, howev r, this society is youn£ yet - r.ext f ll the wot'k will b..gin. And lo! at the first meeting I attended the club
-was adopting a new constitution. l must say I was somewhati13£Usted -
+Again take the matter of prison reform. When the question was first
+agitated there wasn’t a crank in England or America that hadn’t an opin-
+ion and a panacea - It was do this, do that, make their punishment as
+severe as that of galley slaves; treat them as unfortunate victims of
+society; make their work hard, let them lie idle; hang them, give them
+tracts to read, and etc. Society has outgrown this: gradually here and
+there we have collected facts - not how someone thinks a plan might work
+but how the plan actually did work when it was tried; we have studied
+criminals instead of taking it for granted that we know them, we have
+watched crime instead of theorizing about it and then with the material
+we have tried careful experiments - experiments in housing prisoners,
+experiments in punishment, experiments in work and diet; until today no
+intelligent man thinks of aimlessly giving advice as to crime - he knows
+that this is a subject for experts - a subject still dark, with much to
+be learned, but still a realm wh^re the day of guesswork is past. In the
+matter of charity, perhaps the greatest advance has been made. The
+classic examples of this is the history of the English poor law. At
+first England frowned fiercely.on beggery and poverty and whipped and
+
+y3-/-«
+
+10
+
+branded and hanged the poor devils. Then she melted into sentiment and
+coddled and stuffed her paupers until it seemed ae though all JSngland
+would go to bagging. Finally the state bethought itself to askwho are
+the pauper8, what makes pauperism, how can we decrease it and help
+people to help themselves? For this reason it now uses the statistics,
+studies social conditions, organizes charitable societies, avoids dupli-
+cations of work, detects importers and seeks in every way to know the
+causes of poverty and apply intelligent and scientific remedies. The
+world is 81i11 far from solving the problem but we are much nearer than
+men were in the 17th and 18th centuries.
+
+Thus sociological material is today used by all kinds of .social re-
+forms: the organizers of childrens societies, , and of schools; those
+who s®ed to help the deaf and the bling, those who want to get work
+for the idl®; saving banks and building associations are established on
+carefully ascertained principles, model homes built for tenants - indeed
+this is the age wh°n lasting and effective reform has become systematic
+and scientific and has replaced sentiment and theory.
+
+The question now comes:
+
+5th. What Has the First Sociological Society done?
+
+I want to be perfectly frank in this matter and to say plainly that
+in my opinion this society has done nothing. I know we have organized -
+we have held meetings. We have had pleasant social gatherings and we
+have talked. But of actual work accomplished either in the line of know-
+ing just what th°re is to be done, and just how we are to do it, and what
+there is to be learned as to method from the sociological work of the day,
+and above all of actual accomplished work, it seems to me perfectly fair
+to say that this society has done little more than nothing. Indeed I
+have several times seriously asked myself whether I was justified in
+attending those meetings and whether there was a reasonable prospect of
+an end of aimless talking and a beginning of definite doing. We seem to
+me in the first place to have no clear id^a of what the society is for;
+
+/-*7
+
+11
+
+we seem again to have a tendency to fritter away precious time on trifles,
+we seen to forget when we are discussing ways and means that all this is
+not m«r*» theory but that definite information of the experience of others
+in the work and of the general state of scientific knowledge on most of
+these points is "asily obtainable. And finally w*»	in	the laying out
+
+of our definite practical work for committee to have not the faintest
+shade of an id*a of the enormous difficulties and infinite complications
+of scm'’ of tha subjects w° undertake. To particularies, at the last
+'S- meeting the subject for discussion was the influence of tenement life on
+small children - a subject of the deepest importance and of wide influence
+There is a perfect mass of material on the subject - studies, maps and
+plans, vital statistics, satieties of dwellings and occupations, mea-
+surements of children’s bodies, experiments as to mental aptitude, in-
+quiries into home life - indeed I could without difficulty gather right
+here in Atlanta a hundred volumes of material on the point to be dis-
+cussed. If a sociological society had been going to discuss that subject
+what would one reasonably expect the trend of the discussion to be?
+
+They would expect first that the general conditions of slums would be
+wxiJlain^d: Bootha maps of London would be exhibited and studies shown of
+the physical environments; the Hull House maps and papers would have been
+taken n°xt; something would hav^ been said of the slums of flew York and
+Philadelphia. Then the general question of children would be approach^d-
+what physical surroundings are necessary and the lack of these would be
+illustrated by th* death rate of children in slums; the moral demands of
+child life would be touched upon and criminal statistics produced to show
+how youthful criminals are bred in the slums; finally we would have the
+evil social effects - lewd talk, illegimate children, prostitution, per-
+sonal uncleaness, the spread of disease and the like. Those are some
+very elementary matters connected with the life of children in slums which
+any consideration of the subject must take up. But beside this the cen-
+tral part of the discussion ought to have been the slums of Atlanta: we
+
+Sfi-/-*£
+
+12
+
+ought to have had the map cf several typical alleys showing the size and
+relation of the houses, the number of rooms, the number dwelling there,
+and the number and size of children; the general characteristics of the
+families, the ability of the children in school or at work, the number of.
+deaths in the alley in a year, the kinds of diseases, and a general his-
+tory cf the all^y. From one to five such studies might have been made.
+
+Such i8 what we might reasonably expect tin the discussion of this
+subject by a club which calls itself sociological. And yet I doubt if any
+member of this society w^nt from that discussion with a single new fact
+or id^a. Nobody had studied the subject, nobody knew anything about the
+matter, noone had any information to impart. About two days before the
+meeting in the midst of a busy week*s v;ork I was informed that I was ex-
+pected to discuss a subject which exp-rts have been studying 10 to 20
+years. And wh^n out of sheer respect for the intelligence of these
+members I mildly protested that two days was not enough time for suoh a
+subject - the society blandly waved its hand, and said ’’why you had three
+days''.
+
+I remember last year at the Altanta Conference, the president of this
+society gave an outline cf this organization and a list of its committees.
+
+I must confess it made a splendid showing: but there was one fact that the
+president omitted to mention and that was that very few of those committees
+had done any work worth mentioning. Nor was this the fault of the presi-
+dent: he had urg^d th* society again and again to do actual work and the
+society did attempt to help the Atlanta Conference, but of all the bad re-
+ports that carc° into that conference that of this clubs rae the worst. If
+it had not b^en for the personal work of Dr. Butler and Mr. Matthews the
+Atlanta Conference would have had to omit Atlanta from the cities invest-
+igated. I said to myself, however, this society is young yet - next fall
+the work will begin. And lo! at the first meeting I attended the club
+was adopting a new constitution. I must say I was somewhat disgusted -
 what do we want I thought of a New Constitution when we have done nothing
- 
-under the old one. A constitution is not worth the paper it is written on unless it is backed by deeds and give the deeds and I care not whether we have a constitution or not, One of the objects of the new constitution was said to b the facilitating of the organizing of other sociological clubs in othe:tc"ities. I would as soon think of my baby advertising to teach persons to walk - why he can't walk himself,
-After the new constitution was adopted the same difficulties appear- ''	ed as last year in the apportioning of work to committees. One afternoon
-last year we casually d scuesed the matter of crime. In a moment the dis­ cussion sped - we swept through the calendar of crimes in 15 minutes and attacked the subject of criminals; pausing there a moment we sailed raily to the mattPr of punishment, then to slwns and education, then to the con­ duct of courts, then to color discrimination, then to the situation of-the south and to thP. Negro probl.,.rns. A library of 10,000 volumes would not haVP cov red th"' ma\ters we lightly discussed in that afternoon and then as I was opening my eyes in wonder, we suddenly appointed a committee and chareerl. it	with th"'whole matter, iJoP.s anyone wonder that we haven• heard from that comm.ittP.P,sine	It is my candld opinion that if we had appointPd a committ0P, of 100 pP,rsons and given several thousand dollars
-to expP,nd thP.y could not possioly have accom9lished the work we gave them in less tnan 300 years.
-The trouble is we despise the day of little things - we neglect little movements, small efforts, tentative exp riments, and throw ourselves
+
+13
+
+under the old one. A constitution is not worth the paper it is written on
+unless it is backed by deeds and give the deeds and I care not whether we
+have a constitution or not. One of the objects of the new constitution
+was said to be the facilitating of the organizing of other sociological
+clubs in other cities. I would as soon think of my baby advertising to
+
+•	-	r? .
+
+teach persons to walk - why he can’t walk himse)f.
+
+After the new constitution was adopted the same difficulties appear-
+
+i
+
+7 ed as last year in the apportioning of work to committees. One afternoon
+last year we casually discussed the matter of crime. In a moment the dis-
+cussion sped - we swept through the calendar of crimes in 15 minutes and
+attacked the subject of criminals; pausing there a moment we sailed rally
+to the matter of punishment, then to slums and education, then to the con-
+duct of courts, then to color discrimination, then to the situation of the
+south and to the Uegro problems. A library of 10,000 volumes would not
+have covered the matters we lightly discussed in that afternoon and then
+as I was opening my eyes in wonder, we suddenly appointed a committee and
+charged it with th« whole matter. Does anyone wonder that we haven’t
+heard from that committee since? It is my candid opinion that if we had
+appointed a committee of 100 persons and given several thousand dollars
+to expend they could not possibly have accomplished the work we gave them
+
+A
+
+in less than 300 years.
+
+The trouble is we despise the day of little things - we neglect little
+movements, small efforts, tentative experiments, and throw ourselves
+
 blindly against adamantive walls which have withstood the assaults of phil-
-anthropists for centuries. we had a simple prograI\-I,o-If work laid bef~ore us; it wae sugg,·st.,d that we roakP.a car,.,ful map of the Negro slums of Atlanta
-and see how thy w re situated with rpgard to the various agencies for ggod. rnis was not theory or exp rim nt - it was simply analogous to a great work now being done in .N"!w York City. Yet this society virtually spoiled the plan by appointing an aimless committee to give pastors of var-
- 
-ious church"!s advice as to thP.ir misslon·fields in the city. The chair­ man of the col'lllilittee protested at the time that this method of attacking the matter would not do - but no? we must have the committee. And of oours tne committP.e n"!ver reported for it hcl.d nothing to report. l::ieVP.ral times other promising definite proposals for small oeginnings have been made
-but no soonqr were they launched then someone proposed something else,.a­
-nother pointed out tbat this method would not r form everybody and made th sunshine 24 hours in th day and the whole plan became amended and
-S" t blocked and diPd a p,.acefuly d"!ath in co1mnitteea.
-·.ro sum up th•m: we as a society arA not sure wlla.t we ought to do; and we have m3de clumsyand ineffectual attemJts to do a mass of thin s without a knowledge of the facts or of the well-grounded theory of the subject. We add to our membership in a haphazard way, forcing people to join who simply come to visit; we a92cint committees and distribute work in a way ..qually accidental and thrJ·,lghtlP.ss and above all WP yield to the temptation to talk and discuss when e have nothing to say•
-.i::lut 0nough of critic i em. I b1ow it is much easier to find fault then to avoid fault - to 9ick flaws in work done than to do work. And yet candid criticism has its pl ce - it lies at the root of all refonn and aftPr all in this devious world perhaps the wondPr is that w stray so little rath r than that we err ao much.
-Let me therPfor, turn to the last point I wish to consider.
-6th.	!,lliociety might  nd ought !Q_ !!!?_.
-'.rne aim of a society of this kind ought to be to furnish accurate information to such agenoi,.s as are engdg d in th work of social rPform, to endPavor to incr aae th<>cooper tion oetween those ag0ncies, and to seek to establish new agencies for reform in n gl<¼cted and unknown fields of effort. Let me tak" up thee"'2 things in order:
-First, I say, this sooi"ty should aim to g ther facts and information for its own and others use. 1 WdS once pursuing an elaborate piece of investigation in regard to the egroes of a certain city, when 1 came across
- 
-a woman whc could if she would give ID9 muoh valuabl matter. he looked at me auspiciously and said,"Wha.t's thP.obj ct of this investigc1.tion?" " imply to get at thP. truth", I aqswered. no you propose to do anything after you get thP.facts", said shF!, 11We aimply collect the facts", I returned, "0th':' ere may use them as they willw fhen you are trying only to get faute an1
- 
-Oo n6t to better things'; shP. said, "Yes". I a.gain answered.
-il<i
- 
-"Hum ih", she re-	"
- 
---I..
-I
-l'<J
- 
-plied and I'm still WGiting for that 1nformation.
- 
-ow this illustrates
- 
-well the attitude of many minds tow rd careful and systematic collection of minute facts. • n are so filled with ideas of reform that they haven't time to study the aousP.s which thi,y seek to abolish and oaldly assume that
-thP.y know all about them. One of th'" most baffling things aoout the egro problPm today ie,the fact that somany _people in this country are abso­ lutely convincP.d that they thoroughly und rstand it. specially is every
-.N°gro sup:os d to oe !!.2.!.!'.!, with a thorough und.,raLanding of this intricatP. problP.m in all its bearings. And yet a mom nt's thought will coDvlnce
-us all of our ignorance. How many of us hear really know very much of the history and 1)rP.s'"nt conditon of the igh.t millions of our rd.Ce in tnis land'? we call the 11.NP.[ro problP.m'· certain bits of pP.rson,.1 PXperience. joined to some rP.ady and gP.nP.ral information and to a good deal of gossip. '!'here is not 011.e of us that doP.s not nf!ed to study tl1ououghly and 1 inute­ ly any part of this subject which we propose to work upon. '1•hie society should be a centPr for gathP.ri11g such infol'tnation in .8tlanta. we ought
-to begin to study thoroughly,comprehensively,and minutely the situation of the .Ne roes of this city - we ought to become a bureau of accurate in­ formation for all facts connected with th0 ep,ro - w alth and poverty, business and laoor• crime and paup.,riam, oi1ar1 ty and refo.rm, hcmeb and streeta, migration, wages, occu_p.::i.tions, marriag and divorce, illegitimacy, education, church organizations. other organizations - vary gen ral fact which b•ar5 upon the condition of th N•gro in tnia city, pa5t and present ought to bQ car0fully coll0oted and recorded, and now and then published.
- 
-We should follow th.. history of alley&, comJile a careful list of the wor­ thy, study minut ly th<> abod0  and history of th cr ninals, keqp an eye
-upon orphans and homAless waifs - in fact, no fact or condition should escape th ey and pen of a sociBty whos,=, chi,f d sir it is to know the social
-.For this work w• should havA committB B, and ev"rY member of th0  or-
--\ ganization b<>a m<>mbel' of some committ,-,e. i;ach committP.e sh0uld work under a chairman 1;1nd the chairman could if hi, saw fit appoint sub-committees. J\t
-every me<>ting it should be the work of ach committee to rPport some care­ fully I sc0rtained facts to this committ':le and to report in writing not oral­ ly. '!'he facts may be small or unim_iortant, they inay be s study of :i whole district, th.,y may be historic data, illustr1:1.tive incidents, but always accu­ rate, a.1,.aye r,=,lianle and always desiBned to t -''lch us morf.! of the actual situation of thA !POpl and guidP our f -at in matt rs of rPform.
-Th0s<>committ0 s ah0uld be standing committe a and no oth r coI!IT'littee
-ought to b a_upoint0d durinp thr> Y"'ar, save in V·HY exce.,Jtional cases. The committ"'"S sh uld b<> appointed on such subjects as .rovPrty, _;rine, health, Homes, Ghurcll s, k:ducation, Occupations, -tl1a d fective classes, w-,alth, Reading, and etc. - That is• simple comprehensive fields wher much may be
+anthropists for centuries, we had a simple program of work laid before us;
 
-SPcond, we should endeavor to inc:r ase cooperation among the various agencies for social b.,tt.,rment among the :;. egroes of J\tl nta: these at1encies are the churches, the schools, th s cred ·nd insurance societies, and the benevolent effo ts of various kinds. Our object here should be not to meddle, not to int rf re in the work of oth rs, but by spreading informat­ ion and pointing out fields of actioll WFJ shoud seek to reduca the dupli­ cation of benevolent work to a minimum and get the widest good fellowship and cooperation possible. .llother' s rn•Mtl-1g, lecturf.!e, circulating librar­
-ies, savings associations and gen ral reform work could in this way be spread
-by she0r contagion through the various church cons-ti tui>nciee and communities. This society should stand r,=rndy to se,. to v ry singlP.church in Atlanta
- 
+vr*	y*
+
+it was sugg st^d that we make a careful map of the .Negro slums of Atlanta
+and see how th<=»y ware situated with regard to the various agencies for
+ggod. This was not theory or experiment - it was simply analogous to a
+great work now being done in flew York City. Yet this society virtually
+spoiled the plan by appointing an aimless committee to give pastors of var-
 
 
 
+14
 
+iou8 churches advice as to their mission fields in the city. The chair-
+man of the committee protested at the time that this method of attacking
+the matter would not do - hut not we must have the committee. And of cours
+the committee never reported for it had nothing to report, several times
+other promising definite proposals for small beginnings have been made
+but no sooner were they launched then someone proposed something else, a-
+nother pointed out that this method would not reform everybody and made
+the sunshine 24 hours in the day and the whole plan became amended and
+* blocked and di°d a peacefuly death in committees.
 
+To sum up then: we as a society are not sure what we ought to do;
+and we have made clumsyand ineffectual attempts to do a mass of things
+without a knowledge of the facts or of the well-grounded theory of the
+subject. We add to our memoership in a haphazard way, forcing people to
+join who simply come to visit; we appoint committees and distribute v/ork
+in a way equally accidental and thoughtless and above all we yield to the
+temptation to talk and discuss when we have nothing to say.
 
+but “nough of criticism. I know it is much easier to find fault
+then to avoid fault - to pick flaws in work done than to do work. And
+yet candid criticism has its place - it lies at the root of all reform
+and after all in this devious world perhaps the wonder is that we stray
+so little rather than that we err so much.
 
-Q 0-- '
- 
-two, thr e ti.m.,s a ye.r comJetent. 9 rsone to eJcplain to ti1 m mb<>rs uome ele­ mF-ntary matt"!r of reform - ventilatio,, the use of water, sewing schools, b.y­ gieoic co,king, r ding, saving, and etc• .1.n this way effort could be stimu- l.:1.ted in xisting .:1.genci,"!s toward b>tt·rm nt of _,resent conditions.
-ior this purJose ther should be an executivP. committee unaer the chair-
- 
-j) ma."'lshi:pof th"! p1·esident which should arrange meetings and conferences,&nd tell us what oth r movements are doing and seek to build graduallJ a central board ,7hich would f"!derate all	the	i:lenevolent efforts of the ci t.y amcng
-.Negrol's and coop..rat.. with similc:.r,fforts arnong whites,
-Xhirdly th.. eociety should "!nd a.or to find out and explore fi lds of re reformatory effort n°gl ct d by oth•r ..e-'ncies, or forgott»n or unrnn"lll'Il, And should c;P.ek r,"r" to inaugurat<inP.w rnov<?m nts for b tterm1mt. In this work hoW"!V"'r treat c .r0 l!lUat bP P.Xerciaed. ur committe"'a stand for ed.rs open to all sounds from "'V  ryp,lvi·re and  l tting no whisp.,r »scape. m.1t our "lfforts at actual r<tform must not b"!thus Jio1Firaeci.	we cannot reform the hole world at one . l'le must conc•>ntrc1.te our· efforts: one thing at a time and that a small thing; car ful tentative effort, feeling our way slowly, makiJno failures and takin no backward s•e Je nd .oov'!1:1,ll reNPl!l:J"!rinL th,..t ;,Jerma­ nent !'<>form is slow Vlork and that 10 y1i.rs in such work is a mer"l bat;atelle. one th1nr at a time then and let th t one thing take our thole strenfth. we mingt for instance do this: each of ua here might contribut to the committee onSchools a book suittJ.ble for childr"!n to r'!ad. We each might get. a few friends to pive similar books. Then this modest little library of say 25
-or 30 vo1um,e propPrly labelled and cased might be place in o e of the pub­ lic schools to circulat"! fr a month. 'l'h"'!n in anoth r school for a month, thPn in anoth r. Next ynar we might coll ct anot r small litrary - in 10 years W" might thus plac in •"V0ry school hou " in the city a circul-iting library and begin to s nd som to th country schools - simple work, nothing gr at, no wholesale manufacture of saints, nothing to wave our hands about or yell, but V:ork,  Heform and Advance such aa in the past has built nations and
- 
+Let me therefore turn to the last point I wish to consider.
 
+6th. What this Society might and ought to do.
 
-18
-and empires. •h n this Pnterpriee was w?.11 start, d and in char e of the prop• er committeP - or possibly given ov r to som pecial organization, we could bPgin anothr-r and larg"r effort - b11t alo·11ly, carf!fully. we could sturt
-a movP.mP.nt toward a penny savings b nk. Hot a money making institution, but a bPnevol nt PntPrprisP.to encourage thrift run on business principles. We
-1 could aelP.ct in the city three or four llegroes whose reputation for honesty
-NJ
-nd	profity was unquestioned. If ..,iosalble v:e would ask thrPe or :four in-
-terested whitP. men to act with them nd form the directory board of a egro Penny avings bank.	aoh church could be induced to hol meetings and hear
-talks on thrift and ll. ttle things. '.:he various schools - bpelman, ..tlanta
-s
-»aptiat, vlark, aorris Brown and others could preach a crusade of¥aving at chapel exercises. At several of the larg r colored stores, a small stand, a tin box, and a padlock could be plac"'!d and a member of the committee on saving could bP plac?.d there from 8 to 10 ?.A. on wedneeday and aturday night.	ankbooke with stamped rpc ipts could be given out. ihe enterprise would flourish for a whil0 then it would die down, but we would not die down - mor0 l ctur s, morP talks, tracts, and posters, a notice in the Constitution and habits of saving would b gln to g ow and we would gradu­ ally know wh r0  to place our branches - how to encoura1e people. In five yAare we might have 1200 or f300 in deposits; in 10 y ars 12-3000. In
-15 years we might hire modest quarters, use our money for a building association or surrender the whol work to a special society. othing great in such a movem1mt - nothing to take ones ·oreath away - 1t has been done a hundred times in other cities among other people and in a few cas·,s among hegroes - but this true rising - which does not necessarily call fer a con­ stitution on paper but it calls for a certain mental and moral constitution in us which is too often lacking.
-I might P.asily go on naming a hundr?.d different methods of work dis­ tributy tracts, off<>ring prizF!s in th schools and ohurcl1ee, a comprehen­ sive systAm of n°ighborhood visiting, careful organized and pera:stently
- 
-,._1
-19
-and	fir side schools, tem?ora11 cate of waifs  and found.lings,  shelt0rs  fo!' fri.,mdless  gir.ls,  a social  sett_lP.mP.nt house in th"' slums, - all these and many more - not all	at once, not all
-in a y  r, but slowly, gradually, doeg dly - such work lies before.
-iinally as to ·our ml'!P.tings we must stop throwing away  time in endless,
- 
-'":If
-, I.,• BP.na0li>se and  aiml-se talk.	W,,eare 'h1>.re for	busln"lse.	.l!'irst  we wrint  inform­
-1 a-&ion on loci;.l co d.itions from th• chatrm"li of c01 mittees and chairmen have- ing, nothing to re:::iort .ougr,t to b"!. m.ad-" to f el		tho:cougltl	ashamed -for thP.ir nAglPct and car<>l0ssnpse.	fhe reports shoul	be brief, d•finit	andcontain
-actual  data.	we do not want 'Se.aye on what ought to be don° but  wrat y ur
-commi.tt"'e &.ctuelly hc-►8 done and whim it	di'		it	and how it	did	it	and wh<,\.t thP. r.0sult was.	We do not	want vagu'!' g1rn,;ral statement but defihi e, brief, concise r cords of date, place .-..nd dP.eds.			After th:ese- repo-rts c1.nd a short d.iecussior '>:I; thP. aning nf °'thP.S"' f,j.ct.		trien we should turn to the ?Tork
-of th	ml'!,,,ting: some hod. who has	stud i_, d sc:.rr:f'-thing and knows ab ut it snd has his knowl'!dgP- in fi shape to imp1ut clae.rly and some1vhat	mor-e brief).y than I run dcing,  should,-th,.n  ta.ke tr.e floor and tP.a.ch us  something, ei..th r in sociological th,.,or-;r, ..or in  effortE of ,,ther lands or- .cities, or in local cond:L,tions.	V!	do not  want ff nera.l '!asays, or- schooLboy papers - but fuct& and information and car,..fully weigh,,,d o':!.inion.	Then we, can _go ;knovdng more than ,,,h,m v<> C!Ul;" and b»tt r, pr"'par ,"i f,-;r ork.		If noone has such a paper
+'L'ne aim of a society of this kind ought to be to furnish accurate
 
- 
-q1,1e8t1ons i1,nd r0ading H, J,aesing it  from h,;i.nd to	h4nd and  discussing  it.
- 
+information to such agencies as are engaged in th* work of social reform,
 
-'...
-
-
-,.,
- 
-
- 
-If	in ,/ half-c,ntury we thus incrP.a.ae our knowl· dgP- of socitll conch tions and	tJtart af[':!w movPmei•ts to bette t," 1bue"S then this club will dn.::; .rvP. vrnll
-:,
- 
-
-
-I,,.
- 
-
- 	 
-.l!' llow-work  rs,	th<! l:!Rero .:.,;robli;m
-!:l-S to wn
- 
-~	.•
-
-' ...
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-s
-•	I•
-
-...	.-·
 .
 
-·,
+to endeavor to increase the cooperation between those agencies, and to seek
+to establish new agencies for reform in neglected and unknown fields of
+effort. Let me take up these 2 things in order:
+
+First, I say, this society should aim to gather facts and information
+for its own and others use. 1 was once pursuing an elaborate piece of
+investigation in regard to the negroes of a certain city, when 1 came across
+
+7
+
+15
+
+a woman whc could if she would give me much valuable matter, she looked at
+me suspiciously and said,"What*s the object of this investigation?" "aimply
+to get at the truth", I answered. "Do you propose to do anything after you
+get the facts", said she. "We simply collect the facts", I returned, "Uth-
+ers may use them as they will" Then you are trying only to get facts and
+60 ribt to better things',’ she said. "Yes", I again answered. "Hura^h", she re-
+■n plied and I’m still waiting for that information, flow this illustrates
+well the attitude of many minds toward careful and systematic collection
+of minute facts. *en are so filled with ideas of reform that they haven’t
+time to study the abuses which they seek to abolish and baldly assume that
+they know all about them. One of the most baffling things aoout the negro
+problem today is^the fact that somany people in this country are abso-
+lutely convinced that they thoroughly understand it. Especially is every
+negro Bupoos-d to oe born with a thorough understanding of this intricate
+problem in all its bearings. And yet a moment’s thought will convince
+us all of our ignorance. How many of us hear really know very much of the
+history and present conditon of the eight millions of our race in tnis
+land? we call the "negro problem’ certain bits of personal experience,
+joined to some ready and general information and to a good deal of gossip.
+There is not one of us that does not need to study thououghly and minute-
+ly any part of this subject which we propose to work upon. This society
+should be a center for gathering such information in Atlanta, we ought
+to begin to study thoroughly.comprehensively,and minutely the situation
+of the Wegroes of this city - we ought to become a bureau of accurate in-
+formation for all facts connected with th^ Hegro - wealth and poverty,
+business and labor, crime and pauperism, charity and reform, hemes and
+streets, migration, wages, occupations, marriage and divorce, illegitimacy,
+education, church organizations, other organizations - ev°ry general fact
+which b^ars upon the condition of the fl^gro in this city, past and present
+ought to b^ carefully collected and recorded, and now and then published.
+
+y3-/-8f
+
+16
+
+We should follow th« history of alleys, compile a careful list of the wor-
+thy, study minutely the abode and history of the criminals, keep an eye
+upon orphans and homeless waifs - in fact, no fact or condition should escape
+the eye and pen of a society whose chief desire it is to know the social
+problems they s^k to solve.
+
+J?or this work w should have committees, and ev^ry member of th« or-
+ganization be a member of some committee. JSach committee should work under
+a chairman and the chairman could if he saw fit appoint sub-committees. At
+every meeting it should be the work of -*ach committee to report some care-
+fully ascertained facts to this committee and to report in writing not oral-
+ly. The facts may be small or unimportant, they may be a study of a whole
+district, th*»y may be historic data, illustrative incidents, but always accu-
+rate, always reliable and always designed to teach us more of the actual
+situation of the people and guide our feet in matters of reform.
+
+Th°se committee* should be standing committees and no other committee
+ought to b^ appointed during the year, save in very exceptional cases. The
+committees should be appointed on such subjects as roverty. Crime, Health,
+Homes, Churches, Kducation, Occupations, the defective classes, wealth,
+Reading, and etc. - That is, simple comprehensive fields where much may be
+learned.
+
+Second, we should endeavor to increase cooperation among the various
+agencies for social betterment among the Negroes of Atlanta:	these	agencies
+
+are the churches, the schools, the secred and insurance societies, and the
+benevolent efforts of various kinds. Our object here should be not to
+meddle, not to interfere in the work of others, but by spreading informat-
+ion and pointing out fields of action we shoud seek to reduce the dupli-
+cation of benevolent work to a minimum and get the widest good fellowship
+and cooperation possible. Mother’s meeting, lectures, circulating librar-
+ies, savings associations and general reform work could in this way be spread
+by sheer contagion through the various church constituencies and communities.
+
+This society should stand ready
+
+church in Atlanta
+
+'-70
 
 
 
- 
+17
 
+two, thr^e times a ye.^r competent persons to explain to the members some ele-
+mentary matter of reform - ventilation, the use of water, sewing schools, hy-
+gienic cooking, reading, saving, and etc. in this way effort could be stimu-
+lated in existing agencies toward b^ttorment of present conditions.
 
+ior this purpose there should be an executive committee under the chair-
 
+^ manship of the president which should arrange meetings and conferences, and
 
+sK
 
+tell us what other movements are doing and seek to build gradually a central
+board which would federate all the benevolent efforts of the city among
+negroes and cooperate with similar efforts among whites.
 
+Thirdly the society should endeavor to find out and explore fields of re
 
+reformatory effort neglected by oth^r agencies, or forgotten or unknown. And
 
+should seek h®rrt to inaugurate new movements for betterment. in this work
 
+however gr®at car® must be exercised. Our committees stand for ears open to
 
+all sounds from ev rywhere and letting no whisper escape, nut our efforts
 
+at actual reform must not be thus dispersed. we cannot reform the whole
 
+world at one*, we must concentrate our efforts; one thing at a time and that
 
-l
-I :
- 
+g
 
+a small thing; careful tentative effort, feeling our way slowly, makirTno
+failures and takin no backward steps and above all remembering that perma-
+nent reform is slow work and that 10 years in such work is a mere bagatelle,
+one thing at a time then and let that one thing take our whole strength, we
+mingt for instance do this: each of us hare might contribut to the committee
+onSchools a book suitable for children to read, we each might get a few
+friends to give similar books. Then this modest little library of say 25
+or 30 volumes properly labelled and cased might be place in one of the pub-
+lic schools to circulate fr a month. Then in another school for a month,
+then in another, next y-^ar we might collect another small library - in 10
+years might thus place in =>v®ry school house in the city a circulating
+library and begin to send some to the country schools - simple work, nothing
+gr^at, no wholesale manufacture of saints, nothing to wave our hands about or
+yell, but Work. Keform and Advance such as in the past has built nations and
 
-..,...
- 
-,,
+/w
 
+18
 
-.'	 ·· "!
- 
-.'.
- 
+and empires. Wh^n this enterprise was well started and in charge of the prop-
+er committee - or possibly given over to some special organization, we could
+b°gin another and larger effort - but slowly, carefully, we could start
+a movement toward a penny savings bank. Hot a money making institution, but
+a benevolent enterprise to encourage thrift run on business principles. We
 
+i could select in the city three or four Negroes whose reputation for honesty
 
+on
 
+'^'-and profity was unquestioned. If possible we would ask three or four in-
+terested white men to act with them and form the directory board of a Wegro
+Penny savings bank. Kach church could be induced to hold meetings and hear
 
-··•.
- 
-.. -.
+talks on thrift and little things. The various schools - boelman, Atlanta
 
-. .
-;f
- 
-.,.,
+8
+
+■oaptist, olark, *orris Brown and others could preach a crusade ofvaving at
+chapel exercises. At several of the larger colored stores, a small s^and,
+a tin box, and a padlock could be placed and a member of the committee on
+saving could be placed there from 8 to 10 P.tt. on Wednesday and Saturday
+night. .Bankbooks with stamped receipts could be given out. Ihe enterprise
+would flourish for a while then it would die down, but we would not die
+down - more lectures, more talks, tracts, and posters, a notice in the
+Constitution and habits of saving would begin to grow and we would gradu-
+ally know whera to place our branches - how to encourage people. In five
+years we might have $200 or $300 in deposits; in 10 years $2-3000. In
+15 years we might hire modest quarters, use our money for a building
+association or surrender the whole work to a special society, nothing great
+in such a movement - nothing to take ones breath away - it has been done a
+hundred times in other cities among other people and in a few cas^s among
+negroes - but this true rising - which does not necessarily call for a con-
+stitution on paper but it calls for a certain mental and moral constitution
+in us which is too often lacking.
+
+I might easily go on naming a hundred different methods of work dis-
+tributy tracts, offering prizes in the schools and churches, a comprehen-
+sive system of neighborhood visiting, careful organized and persistently
+
+19
+
+conducted serine of mothers meetings and fireside schools, temporary care of
+waifs and foundlings, shelters for friendless girls, a social settlement
+house in the slums, - all these and many more - not all at once, not all
+in a year, hut slowly, gradually, doggedly - such work lies before.
+
+finally as to our meetings we must stop throwing away time in endless,
+
+Si
+
+V senseless and aimless talk. Weare here for business, juirst we want inform-
+
+Ration on local conditions from th» chairman of coirmittees and chairmen have-
+ing nothing to report ought to be mad^ to f*el thoroughly ashamed for their
+neglect and carelessness, the reports should oe bri^f, definite, and contain
+actual dsta. we do not want ssays on what ought to be dona but what y ur
+committee actually has done and when it did it and how it did it and what
+the result was. We do not want vague general statement but definite, brief,
+concise records of date, place and deeds. After these reports and a short
+discussion of the meaning of these facts trier, we should turn to the work
+of the meeting: somebody who has studied something and knows about it and
+has his knowledge in a shape to impart clearly and somewhat more briefly
+than I am doing, should then take the floor and teach us something, either
+in sociological theory, or in efforts of other lands or cities, or in local
+conditions, we do not want general essays, or schoolboy papers - but facts
+and information and carefully weighed opinion. Then we can go knowing more
+than wh^n w» cam'-' and b^tt^r prepared for work. If noone has such a paper
+prepared, then l^t us take one of th* dozens of excellent works on social
+questions and reading it, passing it from hand to hand and discussing it.
+ur let us adopt a textbook and study tha subject we profess to know some-
+
+If in a half-century we thus increase our knowledge of social conditions
+and otart a few movements to better abuses then this club will deserve well
+of the nation.
+
+jellow-workrs, the Uegro problem is in this room - between these four
+
+thing of
+
+walls and it is the question
+
+tf.5-'-94
+
+20
+
+Negroes can so coop rate in unselfish effort as to better in some degree
+the condition of the aegroe masses. Among the masses haVft problen8 but
+
+not n>£ro problems - there are problems of crime, of poverty, of sexual
+lewdness, of ill-health, of heredity. The Negro problem is the question
+whether those who have raised themselves above this dead level of degrad-
+ation can do as othar nations have done - cooperate, investigate, sacrifice,
+and lift as they climb.
+
+______________
+*Citation:* Du Bois, W.E.B. ca. 1897. "A program for a sociological society." *Special Collections and University Archives, University of Massachusetts Amherst Libraries*. [mums312-b196-i035](http://credo.library.umass.edu/view/full/mums312-b196-i035)
+
