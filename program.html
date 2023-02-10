@@ -1,2552 +1,652 @@
-
 <!DOCTYPE html>
-
-<html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
-
-    <title>A Program for a Sociological Society </title>
-    
-  <!-- Loaded before other Sphinx assets -->
-  <link href="_static/styles/theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
-<link href="_static/styles/pydata-sphinx-theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
-
-    
-  <link rel="stylesheet"
-    href="_static/vendor/fontawesome/5.13.0/css/all.min.css">
-  <link rel="preload" as="font" type="font/woff2" crossorigin
-    href="_static/vendor/fontawesome/5.13.0/webfonts/fa-solid-900.woff2">
-  <link rel="preload" as="font" type="font/woff2" crossorigin
-    href="_static/vendor/fontawesome/5.13.0/webfonts/fa-brands-400.woff2">
-
-    <link rel="stylesheet" type="text/css" href="_static/pygments.css" />
-    <link rel="stylesheet" href="_static/styles/sphinx-book-theme.css?digest=5115cc725059bd94278eecd172e13a965bf8f5a9" type="text/css" />
-    <link rel="stylesheet" type="text/css" href="_static/togglebutton.css" />
-    <link rel="stylesheet" type="text/css" href="_static/copybutton.css" />
-    <link rel="stylesheet" type="text/css" href="_static/mystnb.css" />
-    <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css" />
-    <link rel="stylesheet" type="text/css" href="_static/myfilecss.css" />
-    <link rel="stylesheet" type="text/css" href="_static/design-style.b7bb847fb20b106c3d81b95245e65545.min.css" />
-    
-  <!-- Pre-loaded scripts that we'll load fully later -->
-  <link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=1999514e3f237ded88cf">
-
-    <script data-url_root="./" id="documentation_options" src="_static/documentation_options.js"></script>
-    <script src="_static/jquery.js"></script>
-    <script src="_static/underscore.js"></script>
-    <script src="_static/doctools.js"></script>
-    <script src="_static/clipboard.min.js"></script>
-    <script src="_static/copybutton.js"></script>
-    <script src="_static/scripts/sphinx-book-theme.js?digest=9c920249402e914e316237a7dbc6769907cce411"></script>
-    <script>let toggleHintShow = 'Click to show';</script>
-    <script>let toggleHintHide = 'Click to hide';</script>
-    <script>let toggleOpenOnPrint = 'true';</script>
-    <script src="_static/togglebutton.js"></script>
-    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown, .tag_hide_input div.cell_input, .tag_hide-input div.cell_input, .tag_hide_output div.cell_output, .tag_hide-output div.cell_output, .tag_hide_cell.cell, .tag_hide-cell.cell';</script>
-    <script src="_static/design-tabs.js"></script>
-    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"
-const thebe_selector = ".thebe,.cell"
-const thebe_selector_input = "pre"
-const thebe_selector_output = ".output, .cell_output"
-</script>
-    <script async="async" src="_static/sphinx-thebe.js"></script>
-    <link rel="shortcut icon" href="_static/favicon.ico"/>
-    <link rel="index" title="Index" href="genindex.html" />
-    <link rel="search" title="Search" href="search.html" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="docsearch:language" content="en">
-    
-
-    <!-- Google Analytics -->
-    
-  </head>
-  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="60">
-<!-- Checkboxes to toggle the left sidebar -->
-<input type="checkbox" class="sidebar-toggle" name="__navigation" id="__navigation" aria-label="Toggle navigation sidebar">
-<label class="overlay overlay-navbar" for="__navigation">
-    <div class="visually-hidden">Toggle navigation sidebar</div>
-</label>
-<!-- Checkboxes to toggle the in-page toc -->
-<input type="checkbox" class="sidebar-toggle" name="__page-toc" id="__page-toc" aria-label="Toggle in-page Table of Contents">
-<label class="overlay overlay-pagetoc" for="__page-toc">
-    <div class="visually-hidden">Toggle in-page Table of Contents</div>
-</label>
-<!-- Headers at the top -->
-<div class="announcement header-item noprint"></div>
-<div class="header header-item noprint"></div>
-
-    
-    <div class="container-fluid" id="banner"></div>
-
-    
-
-    <div class="container-xl">
-      <div class="row">
-          
-<!-- Sidebar -->
-<div class="bd-sidebar noprint" id="site-navigation">
-    <div class="bd-sidebar__content">
-        <div class="bd-sidebar__top"><div class="navbar-brand-box">
-    <a class="navbar-brand text-wrap" href="index.html">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>Sociological Society</title>
+  <style>
+    html {
+      line-height: 1.5;
+      font-family: Georgia, serif;
+      font-size: 20px;
+      color: #1a1a1a;
+      background-color: #fdfdfd;
+    }
+    body {
+      margin: 0 auto;
+      max-width: 36em;
+      padding-left: 50px;
+      padding-right: 50px;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      hyphens: auto;
+      overflow-wrap: break-word;
+      text-rendering: optimizeLegibility;
+      font-kerning: normal;
+    }
+    @media (max-width: 600px) {
+      body {
+        font-size: 0.9em;
+        padding: 1em;
+      }
+      h1 {
+        font-size: 1.8em;
+      }
+    }
+    @media print {
+      body {
+        background-color: transparent;
+        color: black;
+        font-size: 12pt;
+      }
+      p, h2, h3 {
+        orphans: 3;
+        widows: 3;
+      }
+      h2, h3, h4 {
+        page-break-after: avoid;
+      }
+    }
+    p {
+      margin: 1em 0;
+    }
+    a {
+      color: #1a1a1a;
+    }
+    a:visited {
+      color: #1a1a1a;
+    }
+    img {
+      max-width: 100%;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      margin-top: 1.4em;
+    }
+    h5, h6 {
+      font-size: 1em;
+      font-style: italic;
+    }
+    h6 {
+      font-weight: normal;
+    }
+    ol, ul {
+      padding-left: 1.7em;
+      margin-top: 1em;
+    }
+    li > ol, li > ul {
+      margin-top: 0;
+    }
+    blockquote {
+      margin: 1em 0 1em 1.7em;
+      padding-left: 1em;
+      border-left: 2px solid #e6e6e6;
+      color: #606060;
+    }
+    code {
+      font-family: Menlo, Monaco, 'Lucida Console', Consolas, monospace;
+      font-size: 85%;
+      margin: 0;
+    }
+    pre {
+      margin: 1em 0;
+      overflow: auto;
+    }
+    pre code {
+      padding: 0;
+      overflow: visible;
+      overflow-wrap: normal;
+    }
+    .sourceCode {
+     background-color: transparent;
+     overflow: visible;
+    }
+    hr {
+      background-color: #1a1a1a;
+      border: none;
+      height: 1px;
+      margin: 1em 0;
+    }
+    table {
+      margin: 1em 0;
+      border-collapse: collapse;
+      width: 100%;
+      overflow-x: auto;
+      display: block;
+      font-variant-numeric: lining-nums tabular-nums;
+    }
+    table caption {
+      margin-bottom: 0.75em;
+    }
+    tbody {
+      margin-top: 0.5em;
+      border-top: 1px solid #1a1a1a;
+      border-bottom: 1px solid #1a1a1a;
+    }
+    th {
+      border-top: 1px solid #1a1a1a;
+      padding: 0.25em 0.5em 0.25em 0.5em;
+    }
+    td {
+      padding: 0.125em 0.5em 0.25em 0.5em;
+    }
+    header {
+      margin-bottom: 4em;
+      text-align: center;
+    }
+    #TOC li {
+      list-style: none;
+    }
+    #TOC ul {
+      padding-left: 1.3em;
+    }
+    #TOC > ul {
+      padding-left: 0;
+    }
+    #TOC a:not(:hover) {
+      text-decoration: none;
+    }
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+  <link rel="icon" href="images/fitf_crop.jpg" type="image/x-cover">
       
-        <!-- `logo` is deprecated in Sphinx 4.0, so remove this when we stop supporting 3 -->
-        
-      
-      
-      <img src="_static/logo.png" class="logo" alt="logo">
-      
-      
-      <h1 class="site-logo" id="site-title">Dare You Fight&#63;<br/>W.E.B. Du Bois<br/>in The Crisis</h1>
-      
-    </a>
-</div><form class="bd-search d-flex align-items-center" action="search.html" method="get">
-  <i class="icon fas fa-search"></i>
-  <input type="search" class="form-control" name="q" id="search-input" placeholder="Search this book..." aria-label="Search this book..." autocomplete="off" >
-</form><nav class="bd-links" id="bd-docs-nav" aria-label="Main">
-    <div class="bd-toc-item active">
-        
-        <ul class="nav bd-sidenav bd-sidenav__home-link">
-            <li class="toctree-l1">
-                <a class="reference internal" href="index.html">
-                    Dare You Fight?
-                </a>
-            </li>
-        </ul>
-        <ul class="nav bd-sidenav">
- <li class="toctree-l1">
-  <a class="reference internal" href="toc.html">
-   Table of Contents
-  </a>
- </li>
- <li class="toctree-l1">
-  <a class="reference internal" href="introduction.html">
-   Introduction
-  </a>
- </li>
- <li class="toctree-l1 has-children">
-  <a class="reference internal" href="Sections/segregation.html">
-   Segregation
-  </a>
-  <input class="toctree-checkbox" id="toctree-checkbox-1" name="toctree-checkbox-1" type="checkbox"/>
-  <label for="toctree-checkbox-1">
-   <i class="fas fa-chevron-down">
-   </i>
-  </label>
-  <ul>
-   <li class="toctree-l2">
-    <a class="reference internal" href="Volumes/01/01/Segregation.html">
-     Segregation (1910)
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="Volumes/03/05/homes.html">
-     Homes (1912)
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="Volumes/05/04/blesseddiscrimination.html">
-     Blessed Discrimination (1913)
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="Volumes/06/05/open_letter.html">
-     Another Open Letter to Woodrow Wilson (1913)
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="Volumes/09/02/trotter.html">
-     William Monroe Trotter (1914)
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="Volumes/17/03/jim_crow.html">
-     Jim Crow (1919)
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="Volumes/19/03/american_legion_again.html">
-     American Legion, Again (1920)
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="Volumes/26/04/tradgedy_of_jim_crow.html">
-     The Tragedy of ‘Jim Crow’ (1923)
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="Volumes/31/01/challenge_of_detroit.html">
-     The Challenge of Detroit (1925)
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="Volumes/34/05/flood.html">
-     Flood (1927)
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="Volumes/35/12/segregation.html">
-     Segregation (1928)
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="Volumes/39/03/dalton_ga.html">
-     Dalton, GA (1932)
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="Volumes/40/03/color_caste_in_the_united_states.html">
-     Color Caste in the United States (1933)
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="Volumes/40/09/on_being_ashamed.html">
-     On Being Ashamed of Oneself (1933)
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="Volumes/41/01/segregation.html">
-     Segregation (1934)
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="Volumes/41/02/naacp_and_race_segregation.html">
-     The N.A.A.C.P. and Race Segregation (1934)
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="Volumes/41/03/history_of_segregation_philosophy.html">
-     History of Segregation Philosophy (1934)
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="Volumes/41/03/separation_and_selfrespect.html">
-     Separation and Self-Respect (1934)
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="Volumes/41/04/segregation_in_the_north.html">
-     Segregation in the North (1934)
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="Volumes/41/05/segregation.html">
-     Segregation (1934)
-    </a>
-   </li>
-   <li class="toctree-l2 has-children">
-    <a class="reference internal" href="Sections/intermarriage.html">
-     Intermarriage
-    </a>
-    <input class="toctree-checkbox" id="toctree-checkbox-2" name="toctree-checkbox-2" type="checkbox"/>
-    <label for="toctree-checkbox-2">
-     <i class="fas fa-chevron-down">
-     </i>
-    </label>
-    <ul>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/05/04/intermarriage.html">
-       Intermarriage (1913)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/19/03/sex_equality.html">
-       Sex Equality (1920)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/31/05/correspondence.html">
-       Correspondence (1926)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/33/03/intermarriage.html">
-       Intermarriage (1927)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/37/01/about_marrying.html">
-       About Marrying (1930)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/37/02/interracial_love_in_texas.html">
-       Interracial Love in Texas (1930)
-      </a>
-     </li>
-    </ul>
-   </li>
-  </ul>
- </li>
- <li class="toctree-l1 has-children">
-  <a class="reference internal" href="Sections/racism.html">
-   Racism and Discrimination
-  </a>
-  <input class="toctree-checkbox" id="toctree-checkbox-3" name="toctree-checkbox-3" type="checkbox"/>
-  <label for="toctree-checkbox-3">
-   <i class="fas fa-chevron-down">
-   </i>
-  </label>
-  <ul>
-   <li class="toctree-l2">
-    <a class="reference internal" href="Volumes/01/03/social_equality.html">
-     ‘Social Equality’ (1911)
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="Volumes/01/03/winter_pilmigrage.html">
-     A Winter Pilgrimage (1911)
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="Volumes/01/05/politeness.html">
-     Politeness (1911)
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="Volumes/01/03/ashamed.html">
-     ‘Ashamed’ (1911)
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="Volumes/02/04/races.html">
-     Races (1911)
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="Volumes/03/04/light.html">
-     Light (1912)
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="Volumes/06/02/logic.html">
-     Logic (1913)
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="Volumes/08/05/does_race_antagonism.html">
-     Does Race Antagonism Serve Any Good Purpose (1914)
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="Volumes/10/01/clansman.html">
-     The Clansman (1913)
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="Volumes/12/02/consolations.html">
-     Consolation (1916)
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="Volumes/12/05/conduct_not_color.html">
-     Conduct, Not Color (1916)
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="Volumes/17/06/for_what.html">
-     For What (1919)
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="Volumes/19/01/social_equality.html">
-     Social Equality (1919)
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="Volumes/21/01/social_equality_of_blacks_and_whites.html">
-     The Social Equality of Whites and Blacks (1920)
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="Volumes/24/01/slavery.html">
-     Slavery (1922)
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="Volumes/24/02/whitecharity.html">
-     White Charity (1922)
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="Volumes/31/03/first_battle_of_detroit.html">
-     The First Battle of Detroit (1926)
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="Volumes/31/04/newer_south.html">
-     The Newer South (1926)
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="Volumes/34/02/higher_friction.html">
-     The Higher Friction (1927)
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="Volumes/34/09/prejudice.html">
-     Prejudice (1927)
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="Volumes/36/05/chicago_debate.html">
-     The Chicago Debate (1929)
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="Volumes/37/01/football.html">
-     Football (1930)
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="Volumes/37/02/about_wailing.html">
-     About Wailing (1930)
-    </a>
-   </li>
-  </ul>
- </li>
- <li class="toctree-l1 has-children">
-  <a class="reference internal" href="Sections/racialviolence.html">
-   Racial Violence
-  </a>
-  <input class="toctree-checkbox" id="toctree-checkbox-4" name="toctree-checkbox-4" type="checkbox"/>
-  <label for="toctree-checkbox-4">
-   <i class="fas fa-chevron-down">
-   </i>
-  </label>
-  <ul>
-   <li class="toctree-l2 has-children">
-    <a class="reference internal" href="Sections/lynching.html">
-     Lynching
-    </a>
-    <input class="toctree-checkbox" id="toctree-checkbox-5" name="toctree-checkbox-5" type="checkbox"/>
-    <label for="toctree-checkbox-5">
-     <i class="fas fa-chevron-down">
-     </i>
-    </label>
-    <ul>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/02/04/lynching.html">
-       Lynching (1911)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/02/05/triumph.html">
-       Triumph (1911)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/07/05/lynching.html">
-       Lynching (1914)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/08/03/cause_of_lynching.html">
-       The Cause of Lynching (1914)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/11/06/peonage.html">
-       Peonage (1916)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/12/06/cowardice.html">
-       Cowardice (1916)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/22/01/anti-lynching_legislation.html">
-       Anti-Lynching Legislation (1922)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/24/03/intentions.html">
-       Intentions (1923)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/26/02/university_course_in_lynching.html">
-       A University Course in Lynching (1923)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/32/01/lynching.html">
-       Lynching (1926)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/34/01/aiken.html">
-       Aiken (1927)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/33/04/lynching.html">
-       Lynching (1927)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/34/05/coffeville_kansas.html">
-       Coffeeville, Kanasas (1927)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/38/04/causes_of_lynching.html">
-       Causes of Lynching (1931)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/39/02/lynchings.html">
-       Lynchings (1932)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/40/12/too_rich.html">
-       Too Rich to be a N⸺ (1933)
-      </a>
-     </li>
-    </ul>
-   </li>
-   <li class="toctree-l2 has-children">
-    <a class="reference internal" href="Sections/race_riots.html">
-     Race Riots
-    </a>
-    <input class="toctree-checkbox" id="toctree-checkbox-6" name="toctree-checkbox-6" type="checkbox"/>
-    <label for="toctree-checkbox-6">
-     <i class="fas fa-chevron-down">
-     </i>
-    </label>
-    <ul>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/14/03/memphis_or_east_st_louis.html">
-       Memphis or East St. Louis? (1917)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/14/04/roosevelt.html">
-       Roosevelt (1917)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/14/05/massacre_of_east_st_louis.html">
-       The Massacre in East St. Louis (1917)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/14/05/east_st_louis.html">
-       East St. Louis (1917)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/14/06/houston.html">
-       Houston (1917)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/15/03/thirteen.html">
-       Thirteen (1919)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/15/06/houston_and_east_st_louis.html">
-       Houston and East St. Louis (1918)
-      </a>
-     </li>
-    </ul>
-   </li>
-   <li class="toctree-l2 has-children">
-    <a class="reference internal" href="Sections/red_summer.html">
-     Red Summer
-    </a>
-    <input class="toctree-checkbox" id="toctree-checkbox-7" name="toctree-checkbox-7" type="checkbox"/>
-    <label for="toctree-checkbox-7">
-     <i class="fas fa-chevron-down">
-     </i>
-    </label>
-    <ul>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/18/05/let_us_reason_together.html">
-       Let us Reason Together (1919)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/18/06/shillady_and_texas.html">
-       Shillady and Texas (1919)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/19/02/real_causes.html">
-       The Real Causes of Two Race Riots (1919)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/19/03/macon_telegraph.html">
-       The Macon Telegraph (1920)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/34/06/mob_tactics.html">
-       Mob Tactics (1927)
-      </a>
-     </li>
-    </ul>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="Volumes/22/06/tulsa.html">
-     Tulsa (1921)
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="Volumes/40/05/scottsboro.html">
-     Scottsboro (1933)
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="Volumes/41/01/scottsboro.html">
-     Scottsboro (1934)
-    </a>
-   </li>
-  </ul>
- </li>
- <li class="toctree-l1 has-children">
-  <a class="reference internal" href="Sections/electoral.html">
-   Disenfranchisement and Voting
-  </a>
-  <input class="toctree-checkbox" id="toctree-checkbox-8" name="toctree-checkbox-8" type="checkbox"/>
-  <label for="toctree-checkbox-8">
-   <i class="fas fa-chevron-down">
-   </i>
-  </label>
-  <ul>
-   <li class="toctree-l2 has-children">
-    <a class="reference internal" href="Sections/disenfranchisement.html">
-     Disenfranchisement
-    </a>
-    <input class="toctree-checkbox" id="toctree-checkbox-9" name="toctree-checkbox-9" type="checkbox"/>
-    <label for="toctree-checkbox-9">
-     <i class="fas fa-chevron-down">
-     </i>
-    </label>
-    <ul>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/01/05/white_primary.html">
-       The White Primary (1911)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/10/01/fourteenth_amendment.html">
-       The Fourteenth Amendment (1915)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/19/02/votes.html">
-       Votes (1919)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/32/01/disenfranchisement.html">
-       Disenfranchisement (1926)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/30/02/disenfranchisement.html">
-       Disenfranchisement (1925)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/35/09/possiblity_of_democracy_i.html">
-       The Possibility of Democracy (1928)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/36/05/negro_citizen.html">
-       The Negro Citizen (1929)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/36/11/negro_in_politics.html">
-       The Negro in Politics (1929)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/39/09/young_voters.html">
-       Young Voters (1932)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/40/06/strategy_of_the_negro_voter.html">
-       The Strategy of the Negro Voter (1933)
-      </a>
-     </li>
-    </ul>
-   </li>
-   <li class="toctree-l2 has-children">
-    <a class="reference internal" href="Sections/voting.html">
-     Voting
-    </a>
-    <input class="toctree-checkbox" id="toctree-checkbox-10" name="toctree-checkbox-10" type="checkbox"/>
-    <label for="toctree-checkbox-10">
-     <i class="fas fa-chevron-down">
-     </i>
-    </label>
-    <ul>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/04/04/politics.html">
-       Politics (1912)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/08/05/last_word_in_politics.html">
-       The Last Word in Politics (1912)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/10/01/the_republicans.html">
-       The Republicans (1915)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/13/01/mr_hughes.html">
-       Mr. Hughes (1916)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/13/01/presidential_candidates.html">
-       Presidential Candidates (1916)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/13/02/muddle.html">
-       Muddle (1916)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/15/01/oath_of_the_negro_voter.html">
-       The Oath of the Negro Voter (1917)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/21/02/unreal_campaign.html">
-       The Unreal Campaign (1920)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/22/01/drive.html">
-       The Drive (1922)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/28/03/vote.html">
-       Vote (1924)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/28/04/la_follette.html">
-       La Follette (1924)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/28/05/naacp_and_parties.html">
-       The N.A.A.C.P. and Parties (1924)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/29/01/how_shall_we_vote.html">
-       How Shall We Vote (1924)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/34/04/chicago.html">
-       Chicago (1927)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/35/08/negro_voter.html">
-       The Negro Voter (1928)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/35/11/on_the_fence.html">
-       On the Fence (1928)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/35/11/third_party.html">
-       A Third Party (1928)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/35/12/campaign_of_1928.html">
-       The Campaign of 1928 (1928)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/35/12/election.html">
-       The Election (1928)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/36/02/depriest.html">
-       DePriest (1929)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/36/05/hoover_and_the_south.html">
-       Herbert Hoover and the South (1929)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/37/08/new_party.html">
-       A New Party (1930)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/39/11/herbert_hoover.html">
-       Herbert Hoover (1932)
-      </a>
-     </li>
-    </ul>
-   </li>
-   <li class="toctree-l2 has-children">
-    <a class="reference internal" href="Sections/womansuffrage.html">
-     Woman Suffrage
-    </a>
-    <input class="toctree-checkbox" id="toctree-checkbox-11" name="toctree-checkbox-11" type="checkbox"/>
-    <label for="toctree-checkbox-11">
-     <i class="fas fa-chevron-down">
-     </i>
-    </label>
-    <ul>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/02/06/forwardbackward.html">
-       Forward Backward (1911)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/04/02/suffering_suffragettes.html">
-       Suffering Suffragettes (1912)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/04/04/ohio.html">
-       Ohio (1912)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/04/05/votes_for_women.html">
-       Votes for Women (1912)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/09/06/womansuffrage.html">
-       Woman Suffrage (1915)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/09/03/agility.html">
-       Agility (1915)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/15/01/votes_for_women.html">
-       Votes for Women (1917)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/20/01/get_ready.html">
-       Get Ready (1920)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/21/01/suffrage.html">
-       Suffrage (1920)
-      </a>
-     </li>
-    </ul>
-   </li>
-  </ul>
- </li>
- <li class="toctree-l1 has-children">
-  <a class="reference internal" href="Sections/strategy.html">
-   Strategy
-  </a>
-  <input class="toctree-checkbox" id="toctree-checkbox-12" name="toctree-checkbox-12" type="checkbox"/>
-  <label for="toctree-checkbox-12">
-   <i class="fas fa-chevron-down">
-   </i>
-  </label>
-  <ul>
-   <li class="toctree-l2">
-    <a class="reference internal" href="Volumes/01/01/Agitation.html">
-     Agitation (1910)
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="Volumes/05/05/proper_way.html">
-     The Proper Way (1913)
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="Volumes/09/05/organization.html">
-     Organization (1915)
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="Volumes/09/06/immediate_program.html">
-     The Immediate Program of the  American Negro (1915)
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="Volumes/13/02/refinement_and_love.html">
-     ‘Refinement and Love’ (1916)
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="Volumes/19/01/statement.html">
-     A Statement (1919)
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="Volumes/12/06/negro_party.html">
-     The Negro Party (1916)
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="Volumes/22/01/inter-racial_comity.html">
-     Inter-Racial Comity (1922)
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="Volumes/22/03/amity.html">
-     Amity (1921)
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="Volumes/22/03/libelous_film.html">
-     Libelous Film (1921)
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="Volumes/24/01/publicity.html">
-     Publicity (1922)
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="Volumes/29/05/radicals_and_the_negro.html">
-     Radicals and the Negro (1925)
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="Volumes/34/10/durham_conference.html">
-     The Durham Conference (1927)
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="Volumes/37/03/boycott.html">
-     The Boycott (1930)
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="Volumes/40/10/youth_and_age.html">
-     Youth and Age at Amenia (1933)
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="Volumes/40/02/dodging_the_issue.html">
-     Dodging the Issue (1933)
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="Volumes/41/05/violence.html">
-     Violence (1934)
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="Volumes/41/06/counsels_of_despair.html">
-     Counsels of Despair (1934)
-    </a>
-   </li>
-   <li class="toctree-l2 has-children">
-    <a class="reference internal" href="Sections/NAACP.html">
-     N.A.A.C.P.
-    </a>
-    <input class="toctree-checkbox" id="toctree-checkbox-13" name="toctree-checkbox-13" type="checkbox"/>
-    <label for="toctree-checkbox-13">
-     <i class="fas fa-chevron-down">
-     </i>
-    </label>
-    <ul>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/01/02/NAACP.html">
-       N.A.A.C.P. (1910)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/01/01/TheCrisis.html">
-       The Crisis (1910)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/03/04/gail_of_bitterness.html">
-       The Gall of Bitterness (1912)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/06/01/vigilance_committee.html">
-       The Vigilance Committee: A Call To Arms (1913)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/07/03/fightordie.html">
-       Join or Die (1914)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/07/04/work_for_black_folk.html">
-       Work for Black Folk in 1914 (1914)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/11/01/we_come_of_age.html">
-       We Come of Age (1915)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/10/01/credit.html">
-       Credit (1915)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/20/01/white_coworkers.html">
-       White Co-Workers (1920)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/28/03/unity.html">
-       Unity (1924)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/30/01/new_crisis.html">
-       The New Crisis (1925)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/37/05/our_program.html">
-       Our Program (1930)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/33/03/our_methods.html">
-       Our Methods (1927)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/40/01/toward_a_new_racial_philosophy.html">
-       Toward a New Racial Philosophy (1933)
-      </a>
-     </li>
-    </ul>
-   </li>
-  </ul>
- </li>
- <li class="toctree-l1 has-children">
-  <a class="reference internal" href="Sections/economics.html">
-   Economics
-  </a>
-  <input class="toctree-checkbox" id="toctree-checkbox-14" name="toctree-checkbox-14" type="checkbox"/>
-  <label for="toctree-checkbox-14">
-   <i class="fas fa-chevron-down">
-   </i>
-  </label>
-  <ul>
-   <li class="toctree-l2 has-children">
-    <a class="reference internal" href="Sections/labor.html">
-     Labor
-    </a>
-    <input class="toctree-checkbox" id="toctree-checkbox-15" name="toctree-checkbox-15" type="checkbox"/>
-    <label for="toctree-checkbox-15">
-     <i class="fas fa-chevron-down">
-     </i>
-    </label>
-    <ul>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/03/06/servant_in_the_south.html">
-       The Servant in the South (1912)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/04/03/organized_labor.html">
-       Organized Labor (1912)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/15/05/the_black_man_and_the_unions.html">
-       The Black Man and the Unions (1918)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/18/05/labor_omnia_vincit.html">
-       Labor Omnia Vincit (1919)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/28/04/american_federation_of_labor.html">
-       To the American Federation of Labor (1924)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/31/02/black_man_and_labor.html">
-       The Black Man and Labor (1925)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/31/03/pullman_porters.html">
-       Pullman Porters (1926)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/31/06/again_pullman_porters.html">
-       Again, Pullman Porters (1926)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/34/10/pullman_porters.html">
-       Pullman Porters (1927)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/35/03/black_and_white_workers.html">
-       Black and White Workers (1928)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/39/09/employment.html">
-       Employment (1932)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/40/12/af_of_l.html">
-       The A.F. of L. (1933)
-      </a>
-     </li>
-    </ul>
-   </li>
-   <li class="toctree-l2 has-children">
-    <a class="reference internal" href="Sections/socialism.html">
-     Socialism and Communism
-    </a>
-    <input class="toctree-checkbox" id="toctree-checkbox-16" name="toctree-checkbox-16" type="checkbox"/>
-    <label for="toctree-checkbox-16">
-     <i class="fas fa-chevron-down">
-     </i>
-    </label>
-    <ul>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/15/01/cooperation.html">
-       Co-Operation (1917)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/18/05/forward.html">
-       Forward (1919)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/19/04/cooperation.html">
-       Coöperation (1920)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/22/03/negro_and_radical_thought.html">
-       The Negro and Radical Thought (1921)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/22/04/class_struggle.html">
-       The Class Struggle (1921)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/22/06/socialism_and_the_negro.html">
-       Socialism and the Negro (1921)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/22/06/single_tax.html">
-       The Single Tax (1921)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/27/03/black_man_and_the_wounded_world.html">
-       The Black Man and the Wounded World (1923)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/33/01/russia_1926.html">
-       Russia, 1926 (1926)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/33/02/debs.html">
-       Eugene Debs (1926)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/33/04/judging_russia.html">
-       Judging Russia (1927)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/34/10/ten_years.html">
-       Ten Years (1927)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/35/05/our_economic_future.html">
-       Our Economic Future (1928)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/35/11/dunbar_national_bank.html">
-       The Dunbar National Bank (1928)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/37/01/gambling.html">
-       Gambling (1930)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/37/08/economic_disenfranchisement.html">
-       Economic Disenfranchisement (1930)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/38/09/negro_and_communism.html">
-       The Negro and Communism (1931)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/40/03/karl_marx_and_the_negro.html">
-       Karl Marx and the Negro (1933)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/40/04/right_to_work.html">
-       The Right to Work (1933)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/40/05/marxism_and_the_negro_problem.html">
-       Marxism and The Negro Problem (1933)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/40/07/our_class_struggle.html">
-       Our Class Struggle (1933)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/41/03/Subsistence_homestead_colonies.html">
-       Subsistence Homestead Colonies (1934)
-      </a>
-     </li>
-    </ul>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="Volumes/34/02/farmers.html">
-     Farmers (1927)
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="Volumes/37/03/our_economic_peril.html">
-     Our Economic Peril (1930)
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="Volumes/39/03/to_your_tents.html">
-     To Your Tents, Oh Israel! (1932)
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="Volumes/39/04/platform_for_radicals.html">
-     A Platform for Radicals (1932)
-    </a>
-   </li>
-  </ul>
- </li>
- <li class="toctree-l1 has-children">
-  <a class="reference internal" href="Sections/global.html">
-   Global Affairs
-  </a>
-  <input class="toctree-checkbox" id="toctree-checkbox-17" name="toctree-checkbox-17" type="checkbox"/>
-  <label for="toctree-checkbox-17">
-   <i class="fas fa-chevron-down">
-   </i>
-  </label>
-  <ul>
-   <li class="toctree-l2">
-    <a class="reference internal" href="Volumes/01/02/races_in_conference.html">
-     The Races in Conference (1910)
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="Volumes/02/05/races_congress.html">
-     The Races in Congress (1911)
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="Volumes/07/06/brazil.html">
-     Brazil (1914)
-    </a>
-   </li>
-   <li class="toctree-l2 has-children">
-    <a class="reference internal" href="Sections/wwi.html">
-     World War
-    </a>
-    <input class="toctree-checkbox" id="toctree-checkbox-18" name="toctree-checkbox-18" type="checkbox"/>
-    <label for="toctree-checkbox-18">
-     <i class="fas fa-chevron-down">
-     </i>
-    </label>
-    <ul>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/09/01/worldwar.html">
-       World War and the Color Line (1914)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/12/05/battle_of_eruope.html">
-       ‘The Battle of Europe’ (1916)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/13/06/perpetual_dilemma.html">
-       The Perpetual Dilemma (1917)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/14/02/resolutions.html">
-       Resolutions of the Washington Conference (1917)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/14/02/officers.html">
-       Officers (1917)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/14/02/we_should_worry.html">
-       ‘We Should Worry’ (1917)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/14/03/justice.html">
-       Justice (1917)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/14/05/awake_america.html">
-       Awake America (1917)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/16/03/close_ranks.html">
-       Close Ranks (1918)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/16/04/philosophy_in_time_of_war.html">
-       A Philosophy in Time of War (1918)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/16/05/momentous_proposal.html">
-       A Momentous Proposal (1918)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/16/05/our_special_greivances.html">
-       Our Special Grievances (1918)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/16/05/reward.html">
-       The Reward (1918)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/18/01/returning_soldiers.html">
-       Returning Soldiers (1919)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/18/01/robert_moton.html">
-       Robert R. Moton (1919)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/33/03/league_of_nations.html">
-       League of Nations (1927)
-      </a>
-     </li>
-    </ul>
-   </li>
-   <li class="toctree-l2 has-children">
-    <a class="reference internal" href="Sections/colonialization.html">
-     Colonialization
-    </a>
-    <input class="toctree-checkbox" id="toctree-checkbox-19" name="toctree-checkbox-19" type="checkbox"/>
-    <label for="toctree-checkbox-19">
-     <i class="fas fa-chevron-down">
-     </i>
-    </label>
-    <ul>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/10/01/peace.html">
-       Peace (1915)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/10/06/hayti.html">
-       Hayti (1915)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/10/02/amazing_island.html">
-       An Amazing Island (1915)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/12/04/ireland.html">
-       Ireland (1916)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/17/04/reconstruction_and_africa.html">
-       Reconstruction and Africa (1919)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/18/02/egypt_and_india.html">
-       Egypt and India (1919)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/19/03/england.html">
-       Race Pride (1920)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/27/04/kenya.html">
-       Kenya (1924)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/28/03/helping_africa.html">
-       Helping Africa (1924)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/31/02/firing_line.html">
-       The Firing Line (1925)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/32/02/italy_and_abyssinia.html">
-       Italy and Abyssinia (1926)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/34/01/liberia.html">
-       Liberia (1927)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/37/08/india.html">
-       India (1930)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/39/03/hawaii.html">
-       Hawaii (1932)
-      </a>
-     </li>
-    </ul>
-   </li>
-   <li class="toctree-l2 has-children">
-    <a class="reference internal" href="Sections/pan-africanism.html">
-     Pan-Africanism
-    </a>
-    <input class="toctree-checkbox" id="toctree-checkbox-20" name="toctree-checkbox-20" type="checkbox"/>
-    <label for="toctree-checkbox-20">
-     <i class="fas fa-chevron-down">
-     </i>
-    </label>
-    <ul>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/17/04/africa.html">
-       Africa (1919)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/18/01/my_mission.html">
-       My Mission (1919)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/19/03/race_pride.html">
-       Race Pride (1920)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/20/05/rise_of_the_west_indian.html">
-       The Rise of the West Indian (1920)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/23/01/to_the_world.html">
-       To The World (1921)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/23/04/africa_for_the_africans.html">
-       Africa for the Africans (1921)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/37/03/patient_asses.html">
-       Patient Asses (1930)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/37/02/smuts.html">
-       Smuts (1930)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/40/11/panafrica_and_new_racial_philosophy.html">
-       Pan-Africa and New Racial Philosophy (1933)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/40/01/listen_japan_and_china.html">
-       Listen, Japan and China (1933)
-      </a>
-     </li>
-    </ul>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="Volumes/33/02/travel.html">
-     Travel (1926)
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="Volumes/39/12/from_a_traveler.html">
-     From a Traveller (1932)
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="Volumes/40/12/peace.html">
-     Peace (1933)
-    </a>
-   </li>
-  </ul>
- </li>
- <li class="toctree-l1 has-children">
-  <a class="reference internal" href="Sections/arts.html">
-   The Arts
-  </a>
-  <input class="toctree-checkbox" id="toctree-checkbox-21" name="toctree-checkbox-21" type="checkbox"/>
-  <label for="toctree-checkbox-21">
-   <i class="fas fa-chevron-down">
-   </i>
-  </label>
-  <ul>
-   <li class="toctree-l2">
-    <a class="reference internal" href="Volumes/22/02/negro_art.html">
-     Negro Art (1922)
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="Volumes/24/01/art_for_nothing.html">
-     Art for Nothing (1922)
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="Volumes/31/03/book_shelf.html">
-     The Sweet Trial (1926)
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="Volumes/31/05/book_shelf.html">
-     Our Book Shelf (1926)
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="Volumes/32/06/criteria_of_negro_art.html">
-     Criteria of Negro Art (1926)
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="Volumes/33/03/hayes.html">
-     Hayes (1927)
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="Volumes/35/06/two_novels.html">
-     Two Novels (1928)
-    </a>
-   </li>
-   <li class="toctree-l2 has-children">
-    <a class="reference internal" href="Sections/short_stories.html">
-     Short Stories
-    </a>
-    <input class="toctree-checkbox" id="toctree-checkbox-22" name="toctree-checkbox-22" type="checkbox"/>
-    <label for="toctree-checkbox-22">
-     <i class="fas fa-chevron-down">
-     </i>
-    </label>
-    <ul>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/01/02/precept_and_practice.html">
-       Precept and Practice (1910)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/26/02/on_being_crazy.html">
-       On Being Crazy (1923)
-      </a>
-     </li>
-    </ul>
-   </li>
-   <li class="toctree-l2 has-children">
-    <a class="reference internal" href="Sections/poetry.html">
-     Poetry
-    </a>
-    <input class="toctree-checkbox" id="toctree-checkbox-23" name="toctree-checkbox-23" type="checkbox"/>
-    <label for="toctree-checkbox-23">
-     <i class="fas fa-chevron-down">
-     </i>
-    </label>
-    <ul>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/09/01/burden_of_black_women.html">
-       The Burden of Black Women (1914)
-      </a>
-     </li>
-    </ul>
-   </li>
-   <li class="toctree-l2 has-children">
-    <a class="reference internal" href="Sections/theater.html">
-     Theater
-    </a>
-    <input class="toctree-checkbox" id="toctree-checkbox-24" name="toctree-checkbox-24" type="checkbox"/>
-    <label for="toctree-checkbox-24">
-     <i class="fas fa-chevron-down">
-     </i>
-    </label>
-    <ul>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/06/07/national_emancipation_exposition.html">
-       The People of Peoples and Their Gifts to Men (1913)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/11/02/star_of_ethiopia.html">
-       The Star of Ethiopia (1915)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/12/03/drama_among_black_folk.html">
-       The Drama Among Black Folk (1916)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/32/03/kgriwa.html">
-       ‘Krigwa Players Little Negro Theatre’ (1926)
-      </a>
-     </li>
-    </ul>
-   </li>
-  </ul>
- </li>
- <li class="toctree-l1 has-children">
-  <a class="reference internal" href="Sections/other.html">
-   Other Topics
-  </a>
-  <input class="toctree-checkbox" id="toctree-checkbox-25" name="toctree-checkbox-25" type="checkbox"/>
-  <label for="toctree-checkbox-25">
-   <i class="fas fa-chevron-down">
-   </i>
-  </label>
-  <ul>
-   <li class="toctree-l2 has-children">
-    <a class="reference internal" href="Sections/great_migration.html">
-     Great Migration
-    </a>
-    <input class="toctree-checkbox" id="toctree-checkbox-26" name="toctree-checkbox-26" type="checkbox"/>
-    <label for="toctree-checkbox-26">
-     <i class="fas fa-chevron-down">
-     </i>
-    </label>
-    <ul>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/12/06/migration.html">
-       Migration (1916)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/14/01/migration.html">
-       The Migration (1917)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/14/02/migration_of_negroes.html">
-       The Migration of Negroes (1917)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/19/03/brothers_come_north.html">
-       Brothers, Come North (1920)
-      </a>
-     </li>
-    </ul>
-   </li>
-   <li class="toctree-l2 has-children">
-    <a class="reference internal" href="Sections/criminal_justice.html">
-     Criminal Justice
-    </a>
-    <input class="toctree-checkbox" id="toctree-checkbox-27" name="toctree-checkbox-27" type="checkbox"/>
-    <label for="toctree-checkbox-27">
-     <i class="fas fa-chevron-down">
-     </i>
-    </label>
-    <ul>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/01/03/old_story.html">
-       The Old Story (1911)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/19/04/crime.html">
-       Crime (1920)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/23/05/boddy.html">
-       Boddy (1921)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/23/05/homicides.html">
-       Homicides (1921)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/32/01/crime.html">
-       Crime (1926)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/39/04/courts_and_jails.html">
-       Courts and Jails (1932)
-      </a>
-     </li>
-    </ul>
-   </li>
-   <li class="toctree-l2 has-children">
-    <a class="reference internal" href="Sections/history.html">
-     History
-    </a>
-    <input class="toctree-checkbox" id="toctree-checkbox-28" name="toctree-checkbox-28" type="checkbox"/>
-    <label for="toctree-checkbox-28">
-     <i class="fas fa-chevron-down">
-     </i>
-    </label>
-    <ul>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/03/05/lee.html">
-       Lee (1912)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/39/01/john_brown.html">
-       John Brown (1932)
-      </a>
-     </li>
-    </ul>
-   </li>
-   <li class="toctree-l2 has-children">
-    <a class="reference internal" href="Sections/capital_n.html">
-     Capitalizing Negro
-    </a>
-    <input class="toctree-checkbox" id="toctree-checkbox-29" name="toctree-checkbox-29" type="checkbox"/>
-    <label for="toctree-checkbox-29">
-     <i class="fas fa-chevron-down">
-     </i>
-    </label>
-    <ul>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/09/02/negro.html">
-       Negro (1914)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/11/04/that_capital_n.html">
-       That Capital ‘N’ (1916)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/35/03/name_negro.html">
-       The Name Negro (1928)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/37/02/that_capital_n.html">
-       That Capital ‘N’ (1930)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/37/05/capital_n.html">
-       The Capital N (1930)
-      </a>
-     </li>
-    </ul>
-   </li>
-   <li class="toctree-l2 has-children">
-    <a class="reference internal" href="Sections/education.html">
-     Education
-    </a>
-    <input class="toctree-checkbox" id="toctree-checkbox-30" name="toctree-checkbox-30" type="checkbox"/>
-    <label for="toctree-checkbox-30">
-     <i class="fas fa-chevron-down">
-     </i>
-    </label>
-    <ul>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/10/03/education.html">
-       Education (1915)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/15/01/hampton.html">
-       Hampton (1917)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/34/10/hampton_strike.html">
-       The Hampton Strike (1927)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/36/05/optimism.html">
-       Optimism (1929)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/37/02/education.html">
-       Education (1930)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/39/04/again_howard.html">
-       Again Howard (1932)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/40/08/negro_college.html">
-       The Negro College (1933)
-      </a>
-     </li>
-    </ul>
-   </li>
-   <li class="toctree-l2 has-children">
-    <a class="reference internal" href="Sections/religion.html">
-     Religion
-    </a>
-    <input class="toctree-checkbox" id="toctree-checkbox-31" name="toctree-checkbox-31" type="checkbox"/>
-    <label for="toctree-checkbox-31">
-     <i class="fas fa-chevron-down">
-     </i>
-    </label>
-    <ul>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/36/05/missionaries.html">
-       Missionaries (1929)
-      </a>
-     </li>
-    </ul>
-   </li>
-   <li class="toctree-l2 has-children">
-    <a class="reference internal" href="Sections/misc.html">
-     Uncategorized
-    </a>
-    <input class="toctree-checkbox" id="toctree-checkbox-32" name="toctree-checkbox-32" type="checkbox"/>
-    <label for="toctree-checkbox-32">
-     <i class="fas fa-chevron-down">
-     </i>
-    </label>
-    <ul>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/02/02/starvation_and_prejudice.html">
-       Starvation and Prejudice (1911)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/11/02/booker_t_washington.html">
-       Booker T. Washington (1915)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/12/03/open_letter.html">
-       An Open Letter to Robert Russa Moton (1916)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/12/05/coloured_audience.html">
-       The Colored Audience (1916)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/18/03/reconstruction.html">
-       Reconstruction (1919)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/18/06/true_brownies.html">
-       The True Brownies (1919)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/28/01/lunatic_or_a_traitor.html">
-       A Lunatic or a Traitor (1924)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/38/03/woofterism.html">
-       Woofterism (1931)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/34/08/death_rates.html">
-       Death Rates (1927)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/35/06/so_the_girl_marries.html">
-       So the Girl Marries (1928)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/37/08/freedom.html">
-       Freedom of Speech (1930)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/39/02/nonpartisan_conference.html">
-       The Non-Partisan Conference (1932)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/39/08/blaine_of_maine.html">
-       Blaine of Maine (1932)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/40/02/our_rate_of_increase.html">
-       Our Rate of Increase (1933)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/40/02/our_health.html">
-       Our Health (1933)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/40/02/its_a_girl.html">
-       It is a Girl (1933)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/40/10/church_and_religion.html">
-       The Church and Religion (1933)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/40/12/matter_of_manners.html">
-       A Matter of Manners (1933)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Other_Pubs/african_roots_of_war.html">
-       The African Roots of War (1915)
-      </a>
-     </li>
-    </ul>
-   </li>
-  </ul>
- </li>
- <li class="toctree-l1 has-children">
-  <a class="reference internal" href="Sections/nondubois.html">
-   Other Authors in The Crisis
-  </a>
-  <input class="toctree-checkbox" id="toctree-checkbox-33" name="toctree-checkbox-33" type="checkbox"/>
-  <label for="toctree-checkbox-33">
-   <i class="fas fa-chevron-down">
-   </i>
-  </label>
-  <ul>
-   <li class="toctree-l2 has-children">
-    <a class="reference internal" href="Sections/suffrage_symposium.html">
-     Suffrage Symposium (1912)
-    </a>
-    <input class="toctree-checkbox" id="toctree-checkbox-34" name="toctree-checkbox-34" type="checkbox"/>
-    <label for="toctree-checkbox-34">
-     <i class="fas fa-chevron-down">
-     </i>
-    </label>
-    <ul>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/04/05/garrison_and_womans_suffrage.html">
-       Garrison and Woman’s Suffrage (1912)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/04/05/colored_women_as_voters.html">
-       Colored Women as Voters (1912)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/04/05/justice_of_woman_suffrage.html">
-       The Justice of Woman Suffrage (1912)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/04/05/two_suffrage_movements.html">
-       Two Suffrage Movements (1912)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/04/05/brother_batis.html">
-       Brother Baptis’ on Woman Suffrage (1912)
-      </a>
-     </li>
-    </ul>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="Volumes/11/01/risk_of_woman_suffrage.html">
-     The Risk of Woman Suffrage (1915)
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="Volumes/10/03/an_open_letter.html">
-     An Open Letter (1915)
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="Volumes/14/05/negro_silent_parade.html">
-     The Negro Silent Parade (1917)
-    </a>
-   </li>
-   <li class="toctree-l2 has-children">
-    <a class="reference internal" href="Sections/investigations.html">
-     N.A.A.C.P. Investigations
-    </a>
-    <input class="toctree-checkbox" id="toctree-checkbox-35" name="toctree-checkbox-35" type="checkbox"/>
-    <label for="toctree-checkbox-35">
-     <i class="fas fa-chevron-down">
-     </i>
-    </label>
-    <ul>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/11/05/cherokee_fires.html">
-       The Cherokee Fires: An N.A.A.C.P. Investigation (1916)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/12/03/waco_horror.html">
-       The Waco Horror (1916)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/13/05/attempted_lynching.html">
-       The Attempted Lynching of Lube Martin: An N.A.A.C.P. Investigation (1917)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/14/05/massacre_of_east_st_louis_copy.html">
-       The Massacre in East St. Louis (1917)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/15/01/houston.html">
-       Houston: An N.A.A.C.P. Investigation (1917)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/15/04/burning_at_dyersburg.html">
-       The Burning at Dyersburg: An N.A.A.C.P. Investigation (1919)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/16/01/burning_of_jim_mcilherron.html">
-       The Burning of Jim Mc Ilherron: An N.A.A.C.P. Investigation (1918)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/16/05/work_of_a_mob.html">
-       The Work of a Mob (1918)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/18/05/riots.html">
-       The Riots: An N.A.A.C.P. Investigation (1919)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/18/06/chicago_and_its_eight_reasons.html">
-       Chicago and Its Eight Reasons (1919)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/18/06/riot_at_longview.html">
-       The Riot at Longview, Texas (1919)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/19/02/radicals.html">
-       Radicals (1919)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/21/03/election_day.html">
-       Election Day in Florida (1920)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/22/03/tulsa_riots.html">
-       Tulsa Riots (1921)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/33/02/shambles_of_south_carolina.html">
-       The Shambles of South Carolina (1926)
-      </a>
-     </li>
-     <li class="toctree-l3">
-      <a class="reference internal" href="Volumes/41/05/grand_jury_adjourns.html">
-       Grand Jury Adjourns: Laurens County Fails to Indict Dendy Lynchers (1934)
-      </a>
-     </li>
-    </ul>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="Volumes/31/03/sweet_trial.html">
-     The Sweet Trial (1926)
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="Volumes/41/08/dr_dubois_resigns.html">
-     Dr. Du Bois Resigns (1934)
-    </a>
-   </li>
-  </ul>
- </li>
- <li class="toctree-l1">
-  <a class="reference internal" href="additional_resources.html">
-   Additional resources
-  </a>
- </li>
- <li class="toctree-l1">
-  <a class="reference internal" href="chronological.html">
-   Chronological Listing
-  </a>
- </li>
- <li class="toctree-l1">
-  <a class="reference internal" href="covers.html">
-   Covers
-  </a>
- </li>
- <li class="toctree-l1">
-  <a class="reference internal" href="credits.html">
-   Credits
-  </a>
- </li>
-</ul>
+  <style> 
 
-    </div>
-</nav></div>
-        <div class="bd-sidebar__bottom">
-             <!-- To handle the deprecated key -->
-            
-        </div>
-    </div>
-    <div id="rtd-footer-container"></div>
-</div>
+  html * {
+    font-family:Garamond, Georgia, serif;
+  }
+
+  p {
+    line-height: 1.5em;
+    font-size: 1.1em;
+  }
+
+  h2 {
+    font-size: 1.3em;
+  }
+
+  .article {
+    margin-right: 5%;
+    margin-left: 5%;
+  }
+
+  .article p {
+    font-size: 90%;
+    text-align: justify;
+    line-height: 130%;
+  }
+
+  .article .headline {
+    text-align: center;
+    font-weight: bold;
+  }
+
+  body {
+    max-width: 600px;
+  }
+
+  .smallcaps {
+      font-variant: small-caps;
+    }
+
+    .sign {
+      text-align: center;
+      font-variant: small-caps;
+      }
 
 
-          
+    .pagenum {
+      position: absolute;
+      right: 15%;
+      font-size: smaller;
+      text-align: right;
+      font-style: normal
+      }
+
+    @media only screen and (max-width: 600px) {
+        .pagenum {
+          display: none;
+        }
+      }
 
 
-          
-<!-- A tiny helper pixel to detect if we've scrolled -->
-<div class="sbt-scroll-pixel-helper"></div>
-<!-- Main content -->
-<div class="col py-0 content-container">
-    
-    <div class="header-article row sticky-top noprint">
-        
+  .center {
+    text-align: center;
+  }
+
+  .author {
+    font-size: 1.8em;
+    text-align: center;
+  }
+
+  .crude {
+    margin-right: 10%;
+    margin-left: 10%;
+    font-size: 110%;
+  }
+
+  .copyright {
+    margin-top: 3em;
+    margin-right: 5%;
+    margin-left: 5%;
+    text-align: justify;
+    -webkit-hyphens: auto;
+    -ms-hyphens: auto;
+    hyphens: auto;
+  }
+
+  .chapter {
+    margin-top: 4em;
+    }
+
+  .title {
+    font-size: 1.5em;
+    text-align: center;
+    line-height: 1.1;
+    font-weight: normal;
+  }
 
 
+  h1 {
+    text-align: center;
+  }
 
-<div class="col py-1 d-flex header-article-main">
-    <div class="header-article__left">
-        
-        <label for="__navigation"
-  class="headerbtn"
-  data-toggle="tooltip"
-data-placement="right"
-title="Toggle navigation"
->
-  
+  .titleagain {
+    margin-top: 3em;
+    page-break-after: always;
+  }
 
-<span class="headerbtn__icon-container">
-  <i class="fas fa-bars"></i>
-  </span>
+  .titleagain p {
+    font-size: 1.75em;
+    text-align: center;
+    line-height: 1.25;
+    /* font-weight: bold; */
+  }
 
-</label>
+  .manufacturer, .dedication, .publisher  {
+    margin-top: 3em;
+    text-align: center;
+    }
+
+    .manufacturer p, .dedication p, .publisher p, .copyright p {
+      line-height: 1.3em;
+    }
+
+
+  .break {
+    margin-top: 3em;
+  }
+
+  .copyright, .dedication, .epigraph {
+    page-break-before: always;
+  }
+    .dedication {
+      text-align: center;
+    }
+
+  .epigraph {
+    page-break-before: always;
+    margin-top: 3em;
+    text-align: left;
+    margin-right: 10%;
+    margin-left: 10%;
+    margin-bottom: 0em;
+
+  }
+
+  .epigraph p {
+    margin-bottom: 0em;
+    margin-top: 0em;
+  }
+
+  .publisher p {
+    margin: 0em 0;
+  }
+
+  .alignright {
+    text-align: right;
+    }
+
+  h2 {
+          text-align: center;
+          font-weight: normal;
+        }
+
+  .firstcharacter {
+          float: left;
+          padding-top: 7px;
+          font-size: 320%;
+          line-height: .9;
+          margin-right: 5px;
+          margin-top: -0.1em;
+        }
+
+    .x-ebookmaker  .firstcharacter
+        {
+          float: none; 
+          margin: 0;
+          font-size: 100%;
+          padding-top: 0px;
+          margin-right: 0px;
+          margin-top: 0em;
+        }
+
+        .correction {
+          text-decoration: none; /* replace default underline, if present ... */
+          border-bottom: thin dotted gray; /* ... with delicate gray line */
+        }
 
         
-    </div>
-    <div class="header-article__right">
-<button onclick="toggleFullScreen()"
-  class="headerbtn"
-  data-toggle="tooltip"
-data-placement="bottom"
-title="Fullscreen mode"
->
-  
+  </style>
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<!--
+<span class="correction" title="Transcriber's Note: &quot;ocurred&quot; in original.">
 
-<span class="headerbtn__icon-container">
-  <i class="fas fa-expand"></i>
-  </span>
-
-</button>
-
-<div class="menu-dropdown menu-dropdown-download-buttons">
-  <button class="headerbtn menu-dropdown__trigger"
-      aria-label="Download this page">
-      <i class="fas fa-download"></i>
-  </button>
-  <div class="menu-dropdown__content">
-    <ul>
-      <li>
-        <a href="_sources/program.md"
-   class="headerbtn"
-   data-toggle="tooltip"
-data-placement="left"
-title="Download source file"
->
-  
-
-<span class="headerbtn__icon-container">
-  <i class="fas fa-file"></i>
-  </span>
-<span class="headerbtn__text-container">.md</span>
-</a>
-
-      </li>
-      
-      <li>
-        
-<button onclick="printPdf(this)"
-  class="headerbtn"
-  data-toggle="tooltip"
-data-placement="left"
-title="Print to PDF"
->
-  
-
-<span class="headerbtn__icon-container">
-  <i class="fas fa-file-pdf"></i>
-  </span>
-<span class="headerbtn__text-container">.pdf</span>
-</button>
-
-      </li>
-      
-    </ul>
-  </div>
-</div>
-<label for="__page-toc"
-  class="headerbtn headerbtn-page-toc"
-  
->
-  
-
-<span class="headerbtn__icon-container">
-  <i class="fas fa-list"></i>
-  </span>
-
-</label>
-
-    </div>
-</div>
-
-<!-- Table of contents -->
-<div class="col-md-3 bd-toc show noprint">
-    <div class="tocsection onthispage pt-5 pb-3">
-        <i class="fas fa-list"></i> Contents
-    </div>
-    <nav id="bd-toc-nav" aria-label="Page">
-        <ul class="visible nav section-nav flex-column">
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#st-what-is-sociology">
-   1st. What is Sociology
-  </a>
- </li>
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#nd-what-has-sociology-done">
-   2nd. What has Sociology done?
-  </a>
- </li>
-</ul>
-
-    </nav>
-</div>
-    </div>
-    <div class="article row">
-        <div class="col pl-md-3 pl-lg-5 content-container">
-            <!-- Table of contents that is only displayed when printing the page -->
-            <div id="jb-print-docs-body" class="onlyprint">
-                <h1>A Program for a Sociological Society</h1>
-                <!-- Table of contents -->
-                <div id="print-main-content">
-                    <div id="jb-print-toc">
-                        
-                        <div>
-                            <h2> Contents </h2>
-                        </div>
-                        <nav aria-label="Page">
-                            <ul class="visible nav section-nav flex-column">
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#st-what-is-sociology">
-   1st. What is Sociology
-  </a>
- </li>
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#nd-what-has-sociology-done">
-   2nd. What has Sociology done?
-  </a>
- </li>
-</ul>
-
-                        </nav>
-                    </div>
-                </div>
-            </div>
-            <main id="main-content" role="main">
-                
-              <div>
-                
-  <!--
-title:   A Program for a Sociological Society
-author:  Du Bois, W.E.B.
-journal: W. E. B. Du Bois Papers (MS 312). Special Collections and University Archives, University of Massachusetts Amherst Libraries
-year:    1897
-volume:  1
-issue:   1
-pages:   1-20
 -->
-<section class="tex2jax_ignore mathjax_ignore" id="a-program-for-a-sociological-society">
-<h1>A Program for a Sociological Society<a class="headerlink" href="#a-program-for-a-sociological-society" title="Permalink to this headline"></a></h1>
-<h2>Atlanta University<br>1897</h2>
+<span id="Page_1" class="pagenum">[1]</span>
+<h1>
+A Program<br>for a<br>Sociological Society
+</h1>
+<h2>
+W.E.B. Du Bois<br>Atlanta University<br>1897
+</h2>
 <p>I desire this afternoon to read to the First Sociological Club a
 candid criticism of its’ work and a suggestion for its’ future activity.
-I do this the more boldly because I am a member of the organization and as such must bear my part of the responsibility for its’ short­ comings; and at the same time, I speak as an outsider, for in the year that I have had my name on the rolls I have had no opportunity to share in the work of the club. I always hear with a certain foreboding shiver of the formation of a club for any kind of sociological work, for my experience has taught me that the percentage of absolute failure among
-such clubs is very large. The trouble is apt to be that the persons forming clubs for social reform have very vague ideas of what the science of sociology really is, and what is the real aim and object of their striving. Consequently it can easily happen that they drift aimlessly on until the members begin to wonder whether it is worthwhile to waste so much time doing nothing. I fancy I have seen in this club something of the same tendency, and it seems to me that the great need of this organization is a clearer conception of its’ aims and more practical
-and persistent work to accomplish these objects.</p>
-<p>I have therefore chosen for my subject <em>A Program for a Sociological Society</em>, and I want to divide what I have to say in six parts. First I want to show what Sociology is. Second— What the science has accomplished. Third— By what methods its work has been done. Fourth— How the material and knowledge thus collected can best be utilized. Fifth— What the society has already accomplished and why, And finally what this society might and ought to do.</p>
-<section id="st-what-is-sociology">
-<h2>1st. What is Sociology<a class="headerlink" href="#st-what-is-sociology" title="Permalink to this headline"></a></h2>
-<p>There was a vast revolution which took place in the early part of
-this century that is too often forgotten by educated people. It came after that terrible upheaval of human institutions which we call the French Revolution, after the orgies of Robespierre, Danton, and Marat, and became finally the great instrument that freed Europe from the grasp of the arch-tyrant Napoleon. This revolution was the industrial revolution of the 19th century. It began in the 18th century, when the science of chemistry was first well established, when geology gained a sure foundation when Brinley showed the world how to dig canals uphill, when iron began to be smelted by coal instead of charcoal, and above all when James Watt turned a tea-kettle into a steam engine. Such epoch-making inventions changed the civilization of the world and with the dawn of the 19th century came an industrial revolution — factories started up, towns grew, commerce expanded, capital increased, the world market widened. If we regard this industrial movement more carefully we shall see that of all departments of human industry the manufacture of cotton made the most gigantic strides in this epoch. The ancient world dressed in wool, the middle age in wood and linen, the modern world dressed largely in cotton. The series of inventions that made cotton manufacture possible are a curious example of coincidence. Between the years 1775 and 1825, Arkwright Hargreaves, Cartwright, and Eli Whitney had changed the spinning wheel into the factory and made the southern United States the cotton field of the world.</p>
-<p>This industrial revolution had serious consequences: first it fastened American Slavery in this country and made emancipation more difficult, and the Negro problem more baffling; More that that in all lands it gave rise to and intensified those intricate questions of life and death and civilization which we call social problems: human being were, by the new concentration of industrys, crowded into centers of population and the difficulties, deseases, and maladjustments of human life became intensified and more patent to the eye. Crime, poverty, desease, prostitution,
-ignorance, and death began to assume threatening proportions. Men came to be attracted to these sinister phenomena and to ask what they real­ly meant, how far they were remediable, and how far inevitable.</p>
-<p>There was then but one science which undertook the study of the phenomena of human action and th twas the science of political economy. But this science was limited in scope: it began in the 17th nd 18th century when the phenomena of money and international trade first assumed importance and confined itself simply to a study of wealth: it asked how goods were produced, how they were distributed among the producers, and
-how their owners exchanged them for other goods. It thus took into account only a feW human activities under stable conditions of society. The industrial revolution, however, had greatly changed conditions, and brought
-a distinct demand for wider inquiry into the causes and scope of human action —  deeper search for the reasons of present conditions and the intelligent application  of such knowledge to methods of social regenerat­ion. This was the beginning of th modern science of Sociology.</p>
-<p>Sociology is therefore the name given to that vaat field of inquiry into human action aa manifested in modern organized life. It cannot study all human action under all circumstances, but thay human action
-which by its regularity gives evidence of the presence of laws.
-What these laws are we hardly know, and yet we do know that
-there are in life cur­ious and noticeable coincidences — rythm in life and death, a working out of cause and effect, evidenes of force action and reaction, which cannot be ignored or neglected. Many eminent men still insist that this mass of partially digested facts cannot be called a science — and indeed if you mean by science, a body knowledge with definitely stated laws, and carefully systematized facts, then Sociology is not yet a science and may never become one. But if you mean by Sociology a vast and fruitful field of inquiry into the mysterious phenomena of human action, which
-has yielded evidence of the working of scientific laws to some extent, and
-promises much for the future — if such a work deserves, as many
-think, the name of science, then Sociology is one of the greatest of sciences.</p>
-<p>But it is impossible to tell what a science is merely by defining it — the definition is the last thing a science discovers — indeed it	can truth­fully be said that no science can be fully defined until it is perfect, until its work is done. The best explanation of a science then is a deecription of the sort of work it is doing and what it has already accomplished.
-I come therefore to the second point in my talk.</p>
-</section>
-<section id="nd-what-has-sociology-done">
-<h2>2nd. What has Sociology done?<a class="headerlink" href="#nd-what-has-sociology-done" title="Permalink to this headline"></a></h2>
-<p>Sociology has studied the proportionate number of the two sexes in the
-different countries, the number of people of different ages, the number of
-births each year in different localities, the number of deaths from various
-diseases, the size of families, the average number of rooms in dwellings,
-the extent of illiteracy, the number of communicants in the different churches
-the occupations which men pursue, the income from their work, the way that
-income is expended; the number of the blind, deaf, dumb, and insane, the
-extent and degree of poverty, the prevalence of suicide, the extent and
-kinds of crime, the characteristics of criminals, the distribution and
-migration of population, the distribution of property, etc. Moreover it
-has sought to generalize much of this mass of facts and show how all these
-actions and phenomenas tend to a certain rhythm and regularity which we
-call the social group. In the social group the distribution of the sex
-and age of the individuals remain continually about the same despite birth
-and death, and the rate of births and deaths varies so little that it can
-be predicted within limits. The income, occupation, expenditure, and
-crime tends in the same way under forms of law. This so-called Social
-Law seems partly voluntary, partly involuntary, but in all cases its
-regularity is much greater than the casual reader dreams. These social groups
-in turn combine to form that higher generalization which we call Society.
-Society is simply a general name for the regularities of human action — for
-the general fact that when 50, 100, Oor 1,000,000 live together they
-do not all act irresponsibly or at random but according to well-known
+I do this the more boldly because I am a member of the organization and
+as such must bear my part of the responsibility for its’ short­ comings;
+and at the same time, I speak as an outsider, for in the year that I
+have had my name on the rolls I have had no opportunity to share in the
+work of the club. I always hear with a certain foreboding shiver of the
+formation of a club for any kind of sociological work, for my experience
+has taught me that the percentage of absolute failure among such clubs
+is very large. The trouble is apt to be that the persons forming clubs
+for social reform have very vague ideas of what the science of sociology
+really is, and what is the real aim and object of their striving.
+Consequently it can easily happen that they drift aimlessly on until the
+members begin to wonder whether it is worthwhile to waste so much time
+doing nothing. I fancy I have seen in this club something of the same
+tendency, and it seems to me that the great need of this organization is
+a clearer conception of its’ aims and more practical and persistent work
+to accomplish these objects.</p>
+<p>I have therefore chosen for my subject <em>A Program for a
+Sociological Society</em>, and I want to divide what I have to say in
+six parts. First I want to show what Sociology is. Second— What the
+science has accomplished. Third— By what methods its work has been done.
+Fourth— How the material and knowledge thus collected can best be
+utilized. Fifth— What the society has already accomplished and why, And
+finally what this society might and ought to do.</p>
+<h2 id="st.-what-is-sociology">1st. What is Sociology</h2>
+<p>There was a vast revolution which took place in the early part
+of<span id="Page_2" class="pagenum">[2]</span> this century that is too
+often forgotten by educated people. It came after that terrible upheaval
+of human institutions which we call the French Revolution, after the
+orgies of Robespierre, Danton, and Marat, and became finally the great
+instrument that freed Europe from the grasp of the arch-tyrant Napoleon.
+This revolution was the industrial revolution of the 19th century. It
+began in the 18th century, when the science of chemistry was first well
+established, when geology gained a sure foundation when Brinley showed
+the world how to dig canals uphill, when iron began to be smelted by
+coal instead of charcoal, and above all when James Watt turned a
+tea-kettle into a steam engine. Such epoch-making inventions changed the
+civilization of the world and with the dawn of the 19th century came an
+industrial revolution — factories started up, towns grew, commerce
+expanded, capital increased, the world market widened. If we regard this
+industrial movement more carefully we shall see that of all departments
+of human industry the manufacture of cotton made the most gigantic
+strides in this epoch. The ancient world dressed in wool, the middle age
+in wood and linen, the modern world dressed largely in cotton. The
+series of inventions that made cotton manufacture possible are a curious
+example of coincidence. Between the years 1775 and 1825, Arkwright
+Hargreaves, Cartwright, and Eli Whitney had changed the spinning wheel
+into the factory and made the southern United States the cotton field of
+the world.</p>
+<p>This industrial revolution had serious consequences: first it
+fastened American Slavery in this country and made emancipation more
+difficult, and the Negro problem more baffling; More that that in all
+lands it gave rise to and intensified those intricate questions of life
+and death and civilization which we call social problems: human being
+were, by the new concentration of industrys, crowded into centers of
+population and the difficulties, <span class="correction"
+title="Transcriber&#39;s Note: &quot;deseases&quot; in original.">diseases</span>,
+and maladjustments of human life became intensified and more patent to
+the eye. Crime, poverty, <span class="correction"
+title="Transcriber&#39;s Note: &quot;desease&quot; in original.">disease</span>,
+pros<span id="Page_3" class="pagenum">[3]</span>titution, ignorance, and
+death began to assume threatening proportions. Men came to be attracted
+to these sinister phenomena and to ask what they real­ly meant, how far
+they were remediable, and how far inevitable.</p>
+<p>There was then but one science which undertook the study of the
+phenomena of human action and th twas the science of political economy.
+But this science was limited in scope: it began in the 17th nd 18th
+century when the phenomena of money and international trade first
+assumed importance and confined itself simply to a study of wealth: it
+asked how goods were produced, how they were distributed among the
+producers, and how their owners exchanged them for other goods. It thus
+took into account only a feW human activities under stable conditions of
+society. The industrial revolution, however, had greatly changed
+conditions, and brought a distinct demand for wider inquiry into the
+causes and scope of human action — deeper search for the reasons of
+present conditions and the intelligent application of such knowledge to
+methods of social regeneration. This was the beginning of th modern
+science of Sociology.</p>
+<p>Sociology is therefore the name given to that vast field of inquiry
+into human action aa manifested in modern organized life. It cannot
+study all human action under all circumstances, but <span
+class="correction"
+title="Transcriber&#39;s Note: &quot;thay&quot; in original.">that</span>
+human action which by its regularity gives evidence of the presence of
+laws. What these laws are we hardly know, and yet we do know that there
+are in life curious and noticeable coincidences — <span
+class="correction"
+title="Transcriber&#39;s Note: &quot;rythm&quot; in original.">rhythm</span>
+in life and death, a working out of cause and effect, <span
+class="correction"
+title="Transcriber&#39;s Note: &quot;evidenes&quot; in original.">evidences</span>
+of force action and reaction, which cannot be ignored or neglected. Many
+eminent men still insist that this mass of partially digested facts
+cannot be called a science — and indeed if you mean by science, a body
+knowledge with definitely stated laws, and carefully systematized facts,
+then Sociology is not yet a science and may never become one. But if you
+mean by Sociology a vast and fruitful field of inquiry into the
+mysterious phenomena of human action, which has yielded evidence of the
+working of scientific laws to some extent, and promises much for the
+future — if such a work deserves, as many<span id="Page_4"
+class="pagenum">[4]</span> think, the name of science, then Sociology is
+one of the greatest of sciences.</p>
+<p>But it is impossible to tell what a <span class="correction"
+title="Transcriber&#39;s Note: &quot;sciene&quot; in original.">science</span>
+is merely by defining it — the definition is the last thing a science
+discovers — indeed it can truth­fully be said that no science can be
+fully defined until it is perfect, until its work is done. The best
+explanation of a science then is a description of the sort of work it is
+doing and what it has already accomplished. I come therefore to the
+second point in my talk.</p>
+<h2 id="nd.-what-has-sociology-done">2nd. What has Sociology done?</h2>
+<p>Sociology has studied the proportionate number of the two sexes in
+the different countries, the number of people of different ages, the
+number of births each year in different localities, the number of deaths
+from various diseases, the size of families, the average number of rooms
+in dwellings, the extent of illiteracy, the number of communicants in
+the different churches the occupations which men pursue, the income from
+their work, the way that income is expended; the number of the blind,
+deaf, dumb, and insane, the extent and degree of poverty, the prevalence
+of suicide, the extent and kinds of crime, the characteristics of
+criminals, the distribution and migration of population, the
+distribution of property, etc. Moreover it has sought to generalize much
+of this mass of facts and show how all these actions and phenomenas tend
+to a certain rhythm and regularity which we call the social group. In
+the social group the distribution of the sex and age of the individuals
+remain continually about the same despite birth and death, and the rate
+of births and deaths varies so little that it can be predicted within
+limits. The income, occupation, expenditure, and crime tends in the same
+way under forms of law. This so-called Social Law seems partly
+voluntary, partly involuntary, but in all cases its regularity is much
+greater than the casual reader dreams. These social groups in turn
+combine to form that higher generalization which we call Society.
+Society is simply a general name for the regularities of human action —
+for the general fact that when 50, 100, <span class="correction"
+title="Transcriber&#39;s Note: &quot;Or&quot; in original.">or</span>
+1,000,000 live together they do not all act irresponsibly or at random
+but according to well-known<span id="Page_5" class="pagenum">[5]</span>
 maxims, social forces and laws.</p>
 <p>All this that I have said can best be illustrated by a few actual
 examples. In Europe, for instance, repeated investigation has proven
 that for every 1,000 males there are about 1,024 females. This is
-Characteristic of old countries. In the United States, on the other
-hand there are only 952 females for every 1,000 males. In the older,
-eastern states, however, we should expect to find conditions approaching
-those in Europe — and sure enough there are 1,005 females to every 1,000
+Characteristic of old countries. In the United States, on the other hand
+there are only 952 females for every 1,000 males. In the older, eastern
+states, however, we should expect to find conditions approaching those
+in Europe — and sure enough there are 1,005 females to every 1,000
 males. To show the significence of such facts let us go a step farther:
 We find in the city of Baltimore 1,310 Negro women to every 1,000 men.
-We can immediately say this is surely an abnorman situation and must have
-something to do with the large number of illegitimate births in that city.</p>
+We can immediately say this is surely an abnorman situation and must
+have something to do with the large number of illegitimate births in
+that city.</p>
 <p>Statistics of age show that in normal countries about one third of
-the population is under 15 years of age, yet the nations vary considerably:
-for instance take children under 10 years of age; in England they
-form 24% of the population, in France only 18%, among the Negroes of
-the land 28%. Turning now to the old people 60 and over and we find
-that they form 7% of the population of England; 13% of that of France;
-and 2% among our race. Such differences simply mean poor family life
-among our people.</p>
-<p>The statistics of births and deaths are always of great interest
-and consequently liable to misuse. We may have two especially marked
-types: a population with a low birth-rate and low death-rate like
-France or a population with a high birth rate and high death rate like
-American Negro. The latter is a sign of a low standard of culture —
-early marriage, illegitimacy and neglect of the laws of health; the
-the former is usually a sign of high civilization — postponement of
-marriage until the support of a family is assured, and life according
-to the laws of hygiene. Son in the same country the character of a
-community may easily be approximately fixed by measuring the number
-of people in every thousand that die annually. A death rate above 26
-is high, while one above 30 points to grave dangers. The rate may be
-as low as 18 as in Norway. The average death rate of Negroes in cities
-is 34.</p>
-<p>Where sociological inquiry reveals great differences in the conditions
-of different groups of people this is usually evidence of some
-unseen cause which makes the variation. For instance, we can represent
-the occupations of the people of Philadelphia by the following set of
-door steps:</p>
-<p>FIGURE 1</p>
+the population is under 15 years of age, yet the nations vary
+considerably: for instance take children under 10 years of age; in
+England they form 24% of the population, in France only 18%, among the
+Negroes of the land 28%. Turning now to the old people 60 and over and
+we find that they form 7% of the population of England; 13% of that of
+France; and 2% among our race. Such differences simply mean poor family
+life among our people.</p>
+<p>The statistics of births and deaths are always of great interest and
+consequently liable to misuse. We may have two especially marked types:
+a population with a low birth-rate and low death-rate like France or a
+population with a high birth rate and high death rate like American
+Negro. The latter is a sign of a low standard of culture — early
+marriage, illegitimacy and neglect of the laws of health; the the former
+is usually a sign of high civilization — postponement of marriage until
+the support of a family is assured, and life according to the laws of
+hygiene. Son in the same country the character of a community may easily
+be approximately fixed by measuring the number <span
+class="pagenum">[6]</span> of people in every thousand that die
+annually. A death rate above 26 is high, while one above 30 points to
+grave dangers. The rate may be as low as 18 as in Norway. The average
+death rate of Negroes in cities is 34.</p>
+<p>Where sociological inquiry reveals great differences in the
+conditions of different groups of people this is usually evidence of
+some unseen cause which makes the variation. For instance, we can
+represent the occupations of the people of Philadelphia by the following
+set of door steps:</p>
+<p><img src="Images/program_figure1.png" /></p>
 <p>If however we represent the occupations of the Negroes of the city,
 we find the steps hard for climbing.</p>
-<p>FIGURE 2</p>
+<p><img src="Images/program_figure2.png" /></p>
 <p>What is the meaning of this striking difference? It is explained
 fully by one comprehensive word SLAVERY. Thus history writes itself in
 figures and diagrams.</p>
-<p>In the matter of crime, sociology has done some of its best work;
-let us notice only one — the connection of crime and age. In Germany
-for instance it has been found that 15% of all persons between 21 and
-40 have been convicted for crime, 9% of those between 40 and 60, and
-7% of those between 12 and 18 years of age. Further analyzing these
-figures it is found that the most criminal age is between 20 and 30,
-and among young unmarried men. Taking for instance the Negro criminal
-in the Eastern section of Pennsylvania; we find the remarkable fact
-that 67% of them were under 30 years of age and 11% under 20.</p>
-<p>Using such minute and detailed statistics sociology has built up
-the theory of the social group. The country village is a social group.
-Its population distributed in a certain normal order as to age and sex
-and conjugal condition. Its birth and death regulating the increase of
-population. There is some crime, a school, a church, a village store.
-The population is divided among different occupations, social classes
-make a faint appearance and there is a general public opinion which
-represents of synthesis of like ideas. Such a group may grow to a city or
-to a nation, but as it grows we note certain peculiarities:	it forms
-within itself other smaller groups for special purposes — clubs for
-amusement or reading, church societies, associations of capital and
-labor called shops or companies or factories and etc. These sub-groups
-we might call organs for carrying out the special work of society, just
-as the tissues of the body form here a heart and here an eye to serve
-the whole organism of the body. This we refer to when we speak of society
-being organized — of course this is but an analogy for the organization
-of society is far from complete and individual free will must
-ever hinder that consummation in this world. Nevertheless advance in
-civilization is to a certain extent advance in the perfecting of the
-organization of society.</p>
+<p>In the matter of crime, sociology has done some of its best work; let
+us notice only one — the connection of crime and age. In Germany for
+instance it has been found that 15% of all persons between 21 and 40
+have been convicted for crime, 9% of those between 40 and 60, and 7% of
+those between 12 and 18 years of age. Further analyzing these figures it
+is found that the most criminal age is between 20 and 30, and among
+young unmarried men. Taking for instance the Negro criminal in the
+Eastern section of Pennsylvania; we find the remarkable fact that 67% of
+them were under 30 years of age and 11% under 20.</p>
+<p>Using such minute and detailed statistics sociology has built up the
+theory of the social group. The country village is a social group. <span
+class="pagenum">[7]</span> Its population distributed in a certain
+normal order as to age and sex and conjugal condition. Its birth and
+death regulating the increase of population. There is some crime, a
+school, a church, a village store. The population is divided among
+different occupations, social classes make a faint appearance and there
+is a general public opinion which represents of synthesis of like ideas.
+Such a group may grow to a city or to a nation, but as it grows we note
+certain peculiarities: it forms within itself other smaller groups for
+special purposes — clubs for amusement or reading, church societies,
+associations of capital and labor called shops or companies or factories
+and etc. These sub-groups we might call organs for carrying out the
+special work of society, just as the tissues of the body form here a
+heart and here an eye to serve the whole organism of the body. This we
+refer to when we speak of society being <strong>organized</strong> — of
+course this is but an analogy for the organization of society is far
+from complete and individual free will must ever hinder that
+consummation in this world. Nevertheless advance in civilization is to a
+certain extent advance in the perfecting of the organization of
+society.</p>
 <p>Such is the work that Sociology has accomplished. It is to be sure
 only a beginning: our statistics are woefully imperfect. Our methods of
-observation are crude and the material at hand is largely an unclassified
-mass of facts, the value of which is various and uncertain.
-Nevertheless gigantic strides have been taken in the last 10 years, something has
-been done, and the outlook for the future is bright. This brings me to
-the fourth point I wish to discuss.</p>
-<h2>4th. The Use of Sociological Material</h2>
+observation are crude and the material at hand is largely an
+unclassified mass of facts, the value of which is various and uncertain.
+Nevertheless gigantic strides have been taken in the last 10 years,
+something has been done, and the outlook for the future is bright. This
+brings me to the fourth point I wish to discuss.</p>
+<h2>
+4th. The Use of Sociological Material
+</h2>
 <p>The interest in social reform and general betterment which animates
 so many excellent people today must not be mistaken for the science of
-Sociology. There are many people who have a vague desire to right wrongs,
-help the needy, and reform the vicious. Unfortunately these people in
-very many instanses are ignorant of the results of scientific research in
-these lines — they do not know the value and meaning of statistics and
-they often waste money and energy, or do absolute harm, either by antiquated
-or discredited methods. If anyone should inform an ordinary
-citizen that chemists had discovered a new element, Argon — he would say
-very well or bravo I and be done — he would not attempt to discuss the
-matter or draw conclusions — he is no chemist and does not attempt to be.
-If he wishes to use the results of chemical research he seeks the advice
-of a chemist. In the realm of sociology, however, the case is very
-different: tell a man that the death rate of the Negroes is 36, and
-immediately he is ready to discuss the matter, write articles, form clubs,
-and spend money although he knows that he is not an expert in statistics
-or a student of sociology. What ought to happen in this case is clear:
-the man ought to say candidly that he knows nothing about death rates —
-is 36 high or low or medium? What has been the history of the variation
-of death rates? How do the death rates of different peoples compare with
-this? A sensible man ought to ask: What does a death rate of 36 <em>mean</em>:
-what in the light of the expert statistical knowledge and the careful
-sociological research of the last quarter century, is the proper interpretation
-of this figure 36, which otherwise is to me a Sphinx and an
-enigma.</p>
+Sociology. There are many people who have a vague desire to right
+wrongs, help the needy, and reform the vicious. Unfortunately these
+people in <span class="pagenum">[8]</span> very many <span
+class="correction"
+title="Transcriber&#39;s Note: &quot;instanses&quot; in original.">instances</span>
+are ignorant of the results of scientific research in these lines — they
+do not know the value and meaning of statistics and they often waste
+money and energy, or do absolute harm, either by antiquated or
+discredited methods. If anyone should inform an ordinary citizen that
+chemists had discovered a new element, Argon — he would say very well or
+bravo I and be done — he would not attempt to discuss the matter or draw
+conclusions — he is no chemist and does not attempt to be. If he wishes
+to use the results of chemical research he seeks the advice of a
+chemist. In the realm of sociology, however, the case is very different:
+tell a man that the death rate of the Negroes is 36, and immediately he
+is ready to discuss the matter, write articles, form clubs, and spend
+money although he knows that he is not an expert in statistics or a
+student of sociology. What ought to happen in this case is clear: the
+man ought to say candidly that he knows nothing about death rates — is
+36 high or low or medium? What has been the history of the variation of
+death rates? How do the death rates of different peoples compare with
+this? A sensible man ought to ask: What does a death rate of 36
+<strong>mean</strong>: what in the light of the expert statistical
+knowledge and the careful sociological research of the last quarter
+century, is the proper interpretation of this figure 36, which otherwise
+is to me a Sphinx and an enigma.</p>
 <p>The civilized and thinking part of the modern world is gradually and
 surely coming to this position. The first thing people ask of social
-reformers now in not how earnest are you or how great is the need of reform
-but rather what do you know about the actual situation and how does
-the best of expert opinion interpret these facts. Men recognize the fact
-that such expert opinion may err but they are coming to see that the
-occasional error of men who give their life to knowing is not as dangerous
-as the perpetual error of men who guess or dogmatize. The facts and the
-meaning of the facts are then the first steps in modern social reform.</p>
-<p>How now shall the mass of intelligent people who have not time to
-be experts put themselves in position to use the material collected by
-sociologists in the practical work of reform? We can best answer this
-by seeing the work done in reform during this century.</p>
-<p>One of the first movements was the English Abolition of the slave-trade:
-for this the House of Commons collected a mass of statistics —
-the number of ships engaged, the amount of capital invested, the methods
-employed to capture slaves, the routes of sailing, the number
-transported, the death rate among slaves and sailors, and etc. They sought the
-history of the subject, the general conditions, the opinions of exports
-statisticians and when they began to legislate on the subject they knew
-what they were doing and no nation had done so much to stop Negro slavery
-as these same Englishmen who studied the matter so thoroughly.</p>
+reformers now in not how earnest are you or how great is the need of
+reform but rather what do you know about the actual situation and how
+does the best of expert opinion interpret these facts. Men recognize the
+fact that such expert opinion may err but they are coming to see that
+the occasional error of men who give their life to knowing is not as
+dangerous as the perpetual error of men who guess or dogmatize. The
+facts and the meaning of the facts are then the first steps in modern
+social reform.</p>
+<p><span class="pagenum">[9]</span> How now shall the mass of
+intelligent people who have not time to be experts put themselves in
+position to use the material collected by sociologists in the practical
+work of reform? We can best answer this by seeing the work done in
+reform during this century.</p>
+<p>One of the first movements was the English Abolition of the
+slave-trade: for this the House of Commons collected a mass of
+statistics — the number of ships engaged, the amount of capital
+invested, the methods employed to capture slaves, the routes of sailing,
+the number transported, the death rate among slaves and sailors, and
+etc. They sought the history of the subject, the general conditions, the
+opinions of exports statisticians and when they began to legislate on
+the subject they knew what they were doing and no nation had done so
+much to stop Negro slavery as these same Englishmen who studied the
+matter so thoroughly.</p>
 <p>Again take the matter of prison reform. When the question was first
-agitated there wasn’t a crank in England or America that hadn’t an opinion
-and a panacea — It was do this, do that, make their punishment as
-severe as that of galley slaves; treat them as unfortunate victims of
+agitated there wasn’t a crank in England or America that hadn’t an
+opinion and a panacea — It was do this, do that, make their punishment
+as severe as that of galley slaves; treat them as unfortunate victims of
 society; make their work hard, let them lie idle; hang them, give them
 tracts to read, and etc. Society has outgrown this: gradually here and
 there we have collected facts — not how someone thinks a plan might work
@@ -2561,401 +661,388 @@ be learned, but still a realm where the day of guesswork is past. In the
 matter of charity, perhaps the greatest advance has been made. The
 classic examples of this is the history of the English poor law. At
 first England frowned fiercely on beggery and poverty and whipped and
-branded and hanged the poor devils. Then she melted into sentiment and
-coddled and stuffed her paupers until it seemed ae though all England
-would go to begging. Finally the state bethought itself to ask who are
-the paupers, what makes pauperism, how can we decrease it and help
-people to help themselves? For this reason it now uses the statistics,
-studies social conditions, organizes charitable societies, avoids duplications
-of work, detects importers and seeks in every way to know the
-causes of poverty and apply intelligent and scientific remedies. The
-world is still far from solving the problem but we are much nearer than
-men were in the 17th and 18th centuries.</p>
-<p>Thus sociological material is today used by all kinds of social reforms:
-the organizers of childrens societies, , and of schools; those
-who seed to help the deaf and the bling, those who want to get work
-for the idle; saving banks and building associations are established on
-carefully ascertained principles, model homes built for tenants — indeed
-this is the age when lasting and effective reform has become systematic
-and scientific and has replaced sentiment and theory.</p>
+<span class="pagenum">[10]</span> branded and hanged the poor devils.
+Then she melted into sentiment and coddled and stuffed her paupers until
+it seemed ae though all England would go to begging. Finally the state
+bethought itself to ask who are the paupers, what makes pauperism, how
+can we decrease it and help people to help themselves? For this reason
+it now uses the statistics, studies social conditions, organizes
+charitable societies, avoids duplications of work, detects importers and
+seeks in every way to know the causes of poverty and apply intelligent
+and scientific remedies. The world is still far from solving the problem
+but we are much nearer than men were in the 17th and 18th centuries.</p>
+<p>Thus sociological material is today used by all kinds of social
+reforms: the organizers of childrens societies,and of schools; those who
+seed to help the deaf and the <span class="correction"
+title="Transcriber&#39;s Note: &quot;bling&quot; in original.">blind</span>,
+those who want to get work for the idle; saving banks and building
+associations are established on carefully ascertained principles, model
+homes built for tenants — indeed this is the age when lasting and
+effective reform has become systematic and scientific and has replaced
+sentiment and theory.</p>
 <p>The question now comes:</p>
-<h2>5th. What Has the First Sociological Society done?</h2>
+<h2>
+5th. What Has the First Sociological Society done?
+</h2>
 <p>I want to be perfectly frank in this matter and to say plainly that
 in my opinion this society has done nothing. I know we have organized —
 we have held meetings. We have had pleasant social gatherings and we
-have talked. But of actual work accomplished either in the line of knowing
-just what there is to be done, and just how we are to do it, and what
-there is to be learned as to method from the sociological work of the day,
-and above all of actual accomplished work, it seems to me perfectly fair
-to say that this society has done little more than nothing. Indeed I
-have several times seriously asked myself whether I was justified in
-attending those meetings and whether there was a reasonable prospect of
-an end of aimless talking and a beginning of definite doing. We seem to
-me in the first place to have no clear idea of what the society is for;
-we seem again to have a tendency to fritter away precious time on trifles,
-we seen to forget when we are discussing ways and means that all this is
-not mere theory but that definite information of the experience of others
-in the work and of the general state of scientific knowledge on most of
-these points is easily obtainable. And finally we seem	in	the laying out
-of our definite practical work for committee to have not the faintest
-shade of an idea of the enormous difficulties and infinite complications
-of some of the subject we undertake. To particularies, at the last
-meeting the subject for discussion was the influence of tenement life on
-small children — a subject of the deepest importance and of wide influence
-There is a perfect mass of material on the subject — studies, maps and
-plans, vital statistics, satieties of dwellings and occupations, measurements
-of children’s bodies, experiments as to mental aptitude, inquiries
-into home life — indeed I could without difficulty gather right
-here in Atlanta a hundred volumes of material on the point to be discussed.
-If a sociological society had been going to discuss that subject
-what would one reasonably expect the trend of the discussion to be?</p>
+have talked. But of actual work accomplished either in the line of
+knowing just what there is to be done, and just how we are to do it, and
+what there is to be learned as to method from the sociological work of
+the day, and above all of actual accomplished work, it seems to me
+perfectly fair to say that this society has done little more than
+nothing. Indeed I have several times seriously asked myself whether I
+was justified in attending those meetings and whether there was a
+reasonable prospect of an end of aimless talking and a beginning of
+definite doing. We seem to me in the first place to have no clear idea
+of what the society is for; <span class="pagenum">[11]</span> we seem
+again to have a tendency to fritter away precious time on trifles, we
+seen to forget when we are discussing ways and means that all this is
+not mere theory but that definite information of the experience of
+others in the work and of the general state of scientific knowledge on
+most of these points is easily obtainable. And finally we seem in the
+laying out of our definite practical work for committee to have not the
+faintest shade of an idea of the enormous difficulties and infinite
+complications of some of the subject we undertake. To <span
+class="correction"
+title="Transcriber&#39;s Note: &quot;particularies&quot; in original.">particularities</span>,
+at the last meeting the subject for discussion was the influence of
+tenement life on small children — a subject of the deepest importance
+and of wide influence There is a perfect mass of material on the subject
+— studies, maps and plans, vital statistics, satieties of dwellings and
+occupations, measurements of children’s bodies, experiments as to mental
+aptitude, inquiries into home life — indeed I could without difficulty
+gather right here in Atlanta a hundred volumes of material on the point
+to be discussed. If a sociological society had been going to discuss
+that subject what would one reasonably expect the trend of the
+discussion to be?</p>
 <p>They would expect first that the general conditions of slums would be
-wxplained: Bootha maps of London would be exhibited and studies shown of
-the physical environments; the Hull House maps and papers would have been
+<span class="correction"
+title="Transcriber&#39;s Note: &quot;wxplained: Bootha&quot; in original.">explained:
+Both</span> maps of London would be exhibited and studies shown of the
+physical environments; the Hull House maps and papers would have been
 taken next; something would have been said of the slums of New York and
-Philadelphia. Then the general question of children would be approached —
-what physical surroundings are necessary and the lack of these would be
-illustrated by th* death rate of children in slums; the moral demands of
-child life would be touched upon and criminal statistics produced to show
-how youthful criminals are bred in the slums; finally we would have the
-evil social effects — lewd talk, illegimate children, prostitution, personal
-uncleaness, the spread of disease and the like. Those are some
-very elementary matters connected with the life of children in slums which
-any consideration of the subject must take up. But beside this the central
-part of the discussion ought to have been the slums of Atlanta: we
-ought to have had the map cf several typical alleys showing the size and
-relation of the houses, the number of rooms, the number dwelling there,
-and the number and size of children; the general characteristics of the
-families, the ability of the children in school or at work, the number of
-deaths in the alley in a year, the kinds of diseases, and a general history
-of the alley. From one to five such studies might have been made.</p>
-<p>Such is what we might reasonably expect tin the discussion of this
-subject by a club which calls itself sociological. And yet I doubt if any
-member of this society went from that discussion with a single new fact
-or idea. Nobody had studied the subject, nobody knew anything about the
-matter, noone had any information to impart. About two days before the
-meeting in the midst of a busy week’s work I was informed that I was expected
-to discuss a subject which experts have been studying 10 to 20
+Philadelphia. Then the general question of children would be approached
+— what physical surroundings are necessary and the lack of these would
+be illustrated by the death rate of children in slums; the moral demands
+of child life would be touched upon and criminal statistics produced to
+show how youthful criminals are bred in the slums; finally we would have
+the evil social effects — lewd talk, <span class="correction"
+title="Transcriber&#39;s Note: &quot;illegimate&quot; in original.">illegitimate</span>
+children, prostitution, personal uncleaness, the spread of disease and
+the like. Those are some very elementary matters connected with the life
+of children in slums which any consideration of the subject must take
+up. But beside this the central part of the discussion ought to have
+been the slums of Atlanta: we <span class="pagenum">[12]</span> ought to
+have had the map of several typical alleys showing the size and relation
+of the houses, the number of rooms, the number dwelling there, and the
+number and size of children; the general characteristics of the
+families, the ability of the children in school or at work, the number
+of deaths in the alley in a year, the kinds of diseases, and a general
+history of the alley. From one to five such studies might have been
+made.</p>
+<p>Such is what we might reasonably expect <span class="correction"
+title="Transcriber&#39;s Note: &quot;tin&quot; in original.">in</span>
+the discussion of this subject by a club which calls itself
+sociological. And yet I doubt if any member of this society went from
+that discussion with a single new fact or idea. Nobody had studied the
+subject, nobody knew anything about the matter, <span class="correction"
+title="Transcriber&#39;s Note: &quot;noone&quot; in original.">no
+one</span> had any information to impart. About two days before the
+meeting in the midst of a busy week’s work I was informed that I was
+expected to discuss a subject which experts have been studying 10 to 20
 years. And when out of sheer respect for the intelligence of these
 members I mildly protested that two days was not enough time for such a
-subject — the society blandly waved its hand, and said “why you had <em>three</em>
-days”.</p>
+subject — the society blandly waved its hand, and said “why you had
+<strong>three</strong> days”.</p>
 <p>I remember last year at the Altanta Conference, the president of this
-society gave an outline cf this organization and a list of its committees.
-I must confess it made a splendid showing: but there was one fact that the
-president omitted to mention and that was that very few of those committees
-had done any work worth mentioning. Nor was this the fault of the presi-
-dent: he had urg^d th* society again and again to do actual work and the
-society did attempt to help the Atlanta Conference, but of all the bad re-
-ports that carc° into that conference that of this clubs rae the worst. If
-it had not b^en for the personal work of Dr. Butler and Mr. Matthews the
-Atlanta Conference would have had to omit Atlanta from the cities invest-
-igated. I said to myself, however, this society is young yet - next fall
-the work will begin. And lo! at the first meeting I attended the club
-was adopting a new constitution. I must say I was somewhat disgusted -
-what do we want I thought of a New Constitution when we have done nothing</p>
-<p>13</p>
-<p>under the old one. A constitution is not worth the paper it is written on
-unless it is backed by deeds and give the deeds and I care not whether we
-have a constitution or not. One of the objects of the new constitution
-was said to be the facilitating of the organizing of other sociological
-clubs in other cities. I would as soon think of my baby advertising to</p>
-<p>•	-	r? .</p>
-<p>teach persons to walk - why he can’t walk himse)f.</p>
-<p>After the new constitution was adopted the same difficulties appear-</p>
-<p>i</p>
-<p>7 ed as last year in the apportioning of work to committees. One afternoon
-last year we casually discussed the matter of crime. In a moment the dis-
-cussion sped - we swept through the calendar of crimes in 15 minutes and
-attacked the subject of criminals; pausing there a moment we sailed rally
-to the matter of punishment, then to slums and education, then to the con-
-duct of courts, then to color discrimination, then to the situation of the
-south and to the Uegro problems. A library of 10,000 volumes would not
-have covered the matters we lightly discussed in that afternoon and then
-as I was opening my eyes in wonder, we suddenly appointed a committee and
-charged it with th« whole matter. Does anyone wonder that we haven’t
-heard from that committee since? It is my candid opinion that if we had
-appointed a committee of 100 persons and given several thousand dollars
-to expend they could not possibly have accomplished the work we gave them</p>
-<p>A</p>
-<p>in less than 300 years.</p>
-<p>The trouble is we despise the day of little things - we neglect little
-movements, small efforts, tentative experiments, and throw ourselves</p>
-<p>blindly against adamantive walls which have withstood the assaults of phil-
-anthropists for centuries, we had a simple program of work laid before us;</p>
-<p>vr*	y*</p>
-<p>it was sugg st^d that we make a careful map of the .Negro slums of Atlanta
-and see how th&lt;=»y ware situated with regard to the various agencies for
-ggod. This was not theory or experiment - it was simply analogous to a
-great work now being done in flew York City. Yet this society virtually
-spoiled the plan by appointing an aimless committee to give pastors of var-</p>
-<p>14</p>
-<p>iou8 churches advice as to their mission fields in the city. The chair-
-man of the committee protested at the time that this method of attacking
-the matter would not do - hut not we must have the committee. And of cours
-the committee never reported for it had nothing to report, several times
-other promising definite proposals for small beginnings have been made
-but no sooner were they launched then someone proposed something else, a-
-nother pointed out that this method would not reform everybody and made
-the sunshine 24 hours in the day and the whole plan became amended and</p>
-<ul class="simple">
-<li><p>blocked and di°d a peacefuly death in committees.</p></li>
-</ul>
-<p>To sum up then: we as a society are not sure what we ought to do;
-and we have made clumsyand ineffectual attempts to do a mass of things
+society gave an outline of this organization and a list of its
+committees. I must confess it made a splendid showing: but there was one
+fact that the president omitted to mention and that was that very few of
+those committees had done any work worth mentioning. Nor was this the
+fault of the president: he had urged the society again and again to do
+actual work and the society did attempt to help the Atlanta Conference,
+but of all the bad reports that came into that conference that of this
+clubs was the worst. If it had not been for the personal work of
+Dr. Butler and Mr. Matthews the Atlanta Conference would have had to
+omit Atlanta from the cities investigated. I said to myself, however,
+this society is young yet — next fall the work will begin. And lo! at
+the first meeting I attended the club was adopting a new constitution. I
+must say I was somewhat disgusted — what do we want I thought of a New
+Constitution when we have done nothing <span class="pagenum">[13]</span>
+under the old one. A constitution is not worth the paper it is written
+on unless it is backed by deeds and give the deeds and I care not
+whether we have a constitution or not. One of the objects of the new
+constitution was said to be the facilitating of the organizing of other
+sociological clubs in other cities. I would as soon think of my baby
+advertising to teach persons to walk - why he can’t walk himself.</p>
+<p>After the new constitution was adopted the same difficulties appeared
+as last year in the apportioning of work to committees. One afternoon
+last year we casually discussed the matter of crime. In a moment the
+discussion sped - we swept through the calendar of crimes in 15 minutes
+and attacked the subject of criminals; pausing there a moment we sailed
+rally to the matter of punishment, then to slums and education, then to
+the conduct of courts, then to color discrimination, then to the
+situation of the south and to the Negro problems. A library of 10,000
+volumes would not have covered the matters we lightly discussed in that
+afternoon and then as I was opening my eyes in wonder, we suddenly
+appointed a committee and charged it with the whole matter. Does anyone
+wonder that we haven’t heard from that committee since? It is my candid
+opinion that if we had appointed a committee of 100 persons and given
+several thousand dollars to expend they could not possibly have
+accomplished the work we gave them in less than 300 years.</p>
+<p>The trouble is we despise the day of little things — we neglect
+little movements, small efforts, tentative experiments, and throw
+ourselves blindly against adamantive walls which have withstood the
+assaults of philanthropists for centuries, we had a simple program of
+work laid before us; it was suggested that we make a careful map of the
+Negro slums of Atlanta and see how they were situated with regard to the
+various agencies for <span class="correction"
+title="Transcriber&#39;s Note: &quot;ggod&quot; in original.">good</span>.
+This was not theory or experiment — it was simply analogous to a great
+work now being done in New York City. Yet this society virtually spoiled
+the plan by appointing an aimless committee to give pastors of var<span
+class="pagenum">[14]</span>ious churches advice as to their mission
+fields in the city. The chairman of the committee protested at the time
+that this method of attacking the matter would not do — but not we must
+have the committee. And of course the committee never reported for it
+had nothing to report, several times other promising definite proposals
+for small beginnings have been made but no sooner were they launched
+then someone proposed something else, another pointed out that this
+method would not reform everybody and made the sunshine 24 hours in the
+day and the whole plan became amended and blocked and died a <span
+class="correction"
+title="Transcriber&#39;s Note: &quot;conpeacefulyditon&quot; in original.">peaceful</span>
+death in committees.</p>
+<p>To sum up then: we as a society are not sure what we ought to do; and
+we have made clumsy and ineffectual attempts to do a mass of things
 without a knowledge of the facts or of the well-grounded theory of the
-subject. We add to our memoership in a haphazard way, forcing people to
-join who simply come to visit; we appoint committees and distribute v/ork
-in a way equally accidental and thoughtless and above all we yield to the
-temptation to talk and discuss when we have nothing to say.</p>
-<p>but “nough of criticism. I know it is much easier to find fault
-then to avoid fault - to pick flaws in work done than to do work. And
-yet candid criticism has its place - it lies at the root of all reform
-and after all in this devious world perhaps the wonder is that we stray
-so little rather than that we err so much.</p>
+subject. We add to our membership in a haphazard way, forcing people to
+join who simply come to visit; we appoint committees and distribute work
+in a way equally accidental and thoughtless and above all we yield to
+the temptation to talk and discuss when we have nothing to say.</p>
+<p>But enough of criticism. I know it is much easier to find fault then
+to avoid fault — to pick flaws in work done than to do work. And yet
+candid criticism has its place — it lies at the root of all reform and
+after all in this devious world perhaps the wonder is that we stray so
+little rather than that we err so much.</p>
 <p>Let me therefore turn to the last point I wish to consider.</p>
-<p>6th. What this Society might and ought to do.</p>
-<p>‘L’ne aim of a society of this kind ought to be to furnish accurate</p>
-<p>information to such agencies as are engaged in th* work of social reform,</p>
-<p>.</p>
-<p>to endeavor to increase the cooperation between those agencies, and to seek
-to establish new agencies for reform in neglected and unknown fields of
-effort. Let me take up these 2 things in order:</p>
+<h2>
+6th. What this Society might and ought to do.
+</h2>
+<p>The aim of a society of this kind ought to be to furnish accurate
+information to such agencies as are engaged in th* work of social
+reform, to endeavor to increase the cooperation between those agencies,
+and to seek to establish new agencies for reform in neglected and
+unknown fields of effort. Let me take up these 2 things in order:</p>
 <p>First, I say, this society should aim to gather facts and information
-for its own and others use. 1 was once pursuing an elaborate piece of
-investigation in regard to the negroes of a certain city, when 1 came across</p>
-<p>7</p>
-<p>15</p>
-<p>a woman whc could if she would give me much valuable matter, she looked at
-me suspiciously and said,“What*s the object of this investigation?” “aimply
-to get at the truth”, I answered. “Do you propose to do anything after you
-get the facts”, said she. “We simply collect the facts”, I returned, “Uth-
-ers may use them as they will” Then you are trying only to get facts and
-60 ribt to better things’,’ she said. “Yes”, I again answered. “Hura^h”, she re-
-■n plied and I’m still waiting for that information, flow this illustrates
-well the attitude of many minds toward careful and systematic collection
-of minute facts. *en are so filled with ideas of reform that they haven’t
-time to study the abuses which they seek to abolish and baldly assume that
-they know all about them. One of the most baffling things aoout the negro
-problem today is^the fact that somany people in this country are abso-
-lutely convinced that they thoroughly understand it. Especially is every
-negro Bupoos-d to oe born with a thorough understanding of this intricate
-problem in all its bearings. And yet a moment’s thought will convince
-us all of our ignorance. How many of us hear really know very much of the
-history and present conditon of the eight millions of our race in tnis
-land? we call the “negro problem’ certain bits of personal experience,
-joined to some ready and general information and to a good deal of gossip.
-There is not one of us that does not need to study thououghly and minute-
-ly any part of this subject which we propose to work upon. This society
-should be a center for gathering such information in Atlanta, we ought
-to begin to study thoroughly.comprehensively,and minutely the situation
-of the Wegroes of this city - we ought to become a bureau of accurate in-
-formation for all facts connected with th^ Hegro - wealth and poverty,
-business and labor, crime and pauperism, charity and reform, hemes and
-streets, migration, wages, occupations, marriage and divorce, illegitimacy,
-education, church organizations, other organizations - ev°ry general fact
-which b^ars upon the condition of the fl^gro in this city, past and present
-ought to b^ carefully collected and recorded, and now and then published.</p>
-<p>y3-/-8f</p>
-<p>16</p>
-<p>We should follow th« history of alleys, compile a careful list of the wor-
-thy, study minutely the abode and history of the criminals, keep an eye
-upon orphans and homeless waifs - in fact, no fact or condition should escape
-the eye and pen of a society whose chief desire it is to know the social
-problems they s^k to solve.</p>
-<p>J?or this work w should have committees, and ev^ry member of th« or-
-ganization be a member of some committee. JSach committee should work under
-a chairman and the chairman could if he saw fit appoint sub-committees. At
-every meeting it should be the work of -<em>ach committee to report some care-
-fully ascertained facts to this committee and to report in writing not oral-
-ly. The facts may be small or unimportant, they may be a study of a whole
-district, th</em>»y may be historic data, illustrative incidents, but always accu-
-rate, always reliable and always designed to teach us more of the actual
-situation of the people and guide our feet in matters of reform.</p>
-<p>Th°se committee* should be standing committees and no other committee
-ought to b^ appointed during the year, save in very exceptional cases. The
-committees should be appointed on such subjects as roverty. Crime, Health,
-Homes, Churches, Kducation, Occupations, the defective classes, wealth,
-Reading, and etc. - That is, simple comprehensive fields where much may be
-learned.</p>
+for its own and others use. I was once pursuing an elaborate piece of
+investigation in regard to the negroes of a certain city, when I came
+across <span class="pagenum">[15]</span> a woman who could if she would
+give me much valuable matter, she looked at me suspiciously and said,
+“What’s the object of this investigation?” “simply to get at the truth”,
+I answered. “Do you propose to do anything after you get the facts”,
+said she. “We simply collect the facts”, I returned, “Others may use
+them as they will” Then you are trying only to get facts and not to
+better things”, she said. “Yes”, I again answered. “Humph, she replied
+and I’m still waiting for that information. Now this illustrates well
+the attitude of many minds toward careful and systematic collection of
+minute facts. Men are so filled with ideas of reform that they haven’t
+time to study the abuses which they seek to abolish and baldly assume
+that they know all about them. One of the most baffling things about the
+Negro problem today is the fact that so many people in this country are
+absolutely convinced that they thoroughly understand it. Especially is
+every Negro supposed to be <strong>born</strong> with a thorough
+understanding of this intricate problem in all its bearings. And yet a
+moment’s thought will convince us all of our ignorance. How many of us
+hear really know very much of the history and present <span
+class="correction"
+title="Transcriber&#39;s Note: &quot;conditon&quot; in original.">condition</span>
+of the eight millions of our race in this land? <span class="correction"
+title="Transcriber&#39;s Note: &quot;we&quot; in original.">We</span>
+call the”negro problem” certain bits of personal experience, joined to
+some ready and general information and to a good deal of gossip. There
+is not one of us that does not need to study</p>
+<p><span class="correction"
+title="Transcriber&#39;s Note: &quot;thououghly&quot; in original.">thoroughly</span>
+and minutely any part of this subject which we propose to work upon.
+This society should be a center for gathering such information in
+Atlanta, we ought to begin to study thoroughly, comprehensively, and
+minutely the situation of the Negroes of this city — we ought to become
+a bureau of accurate information for all facts connected with the Negro
+— wealth and poverty, business and labor, crime and pauperism, charity
+and reform, homes and streets, migration, wages, occupations, marriage
+and divorce, illegitimacy, education, church organizations, other
+organizations - every general fact which bears upon the condition of the
+Negro in this city, past and present ought to be carefully collected and
+recorded, and now and then published. <span class="pagenum">[16]</span>
+We should follow th« history of alleys, compile a careful list of the
+worthy, study minutely the abode and history of the criminals, keep an
+eye upon orphans and homeless waifs — in fact, no fact or condition
+should escape the eye and pen of a society whose chief desire it is to
+know the social problems they seek to solve.</p>
+<p>For this work we should have committees, and every member of the
+organization be a member of some committee. Each committee should work
+under a chairman and the chairman could if he saw fit appoint
+sub-committees. At every meeting it should be the work of each committee
+to report some carefully ascertained facts to this committee and to
+report in writing not orally. The facts may be small or unimportant,
+they may be a study of a whole district, they may be historic data,
+illustrative incidents, but always accurate, always reliable and always
+designed to teach us more of the actual situation of the people and
+guide our feet in matters of reform.</p>
+<p>These committee should be standing committees and no other committee
+ought to be appointed during the year, save in very exceptional cases.
+The committees should be appointed on such subjects as Poverty. Crime,
+Health, Homes, Churches, Education, Occupations, the defective classes,
+Wealth, Reading, and etc. — That is, simple comprehensive fields where
+much may be learned.</p>
 <p>Second, we should endeavor to increase cooperation among the various
-agencies for social betterment among the Negroes of Atlanta:	these	agencies</p>
-<p>are the churches, the schools, the secred and insurance societies, and the
-benevolent efforts of various kinds. Our object here should be not to
-meddle, not to interfere in the work of others, but by spreading informat-
-ion and pointing out fields of action we shoud seek to reduce the dupli-
-cation of benevolent work to a minimum and get the widest good fellowship
-and cooperation possible. Mother’s meeting, lectures, circulating librar-
-ies, savings associations and general reform work could in this way be spread
-by sheer contagion through the various church constituencies and communities.</p>
-<p>This society should stand ready</p>
-<p>church in Atlanta</p>
-<p>‘-70</p>
-<p>17</p>
-<p>two, thr^e times a ye.^r competent persons to explain to the members some ele-
-mentary matter of reform - ventilation, the use of water, sewing schools, hy-
-gienic cooking, reading, saving, and etc. in this way effort could be stimu-
-lated in existing agencies toward b^ttorment of present conditions.</p>
-<p>ior this purpose there should be an executive committee under the chair-</p>
-<p>^ manship of the president which should arrange meetings and conferences, and</p>
-<p>sK</p>
-<p>tell us what other movements are doing and seek to build gradually a central
-board which would federate all the benevolent efforts of the city among
-negroes and cooperate with similar efforts among whites.</p>
-<p>Thirdly the society should endeavor to find out and explore fields of re</p>
-<p>reformatory effort neglected by oth^r agencies, or forgotten or unknown. And</p>
-<p>should seek h®rrt to inaugurate new movements for betterment. in this work</p>
-<p>however gr®at car® must be exercised. Our committees stand for ears open to</p>
-<p>all sounds from ev rywhere and letting no whisper escape, nut our efforts</p>
-<p>at actual reform must not be thus dispersed. we cannot reform the whole</p>
-<p>world at one*, we must concentrate our efforts; one thing at a time and that</p>
-<p>g</p>
-<p>a small thing; careful tentative effort, feeling our way slowly, makirTno
-failures and takin no backward steps and above all remembering that perma-
-nent reform is slow work and that 10 years in such work is a mere bagatelle,
-one thing at a time then and let that one thing take our whole strength, we
-mingt for instance do this: each of us hare might contribut to the committee
-onSchools a book suitable for children to read, we each might get a few
-friends to give similar books. Then this modest little library of say 25
-or 30 volumes properly labelled and cased might be place in one of the pub-
-lic schools to circulate fr a month. Then in another school for a month,
-then in another, next y-^ar we might collect another small library - in 10
-years might thus place in =&gt;v®ry school house in the city a circulating
-library and begin to send some to the country schools - simple work, nothing
-gr^at, no wholesale manufacture of saints, nothing to wave our hands about or
-yell, but Work. Keform and Advance such as in the past has built nations and</p>
-<p>/w</p>
-<p>18</p>
-<p>and empires. Wh^n this enterprise was well started and in charge of the prop-
-er committee - or possibly given over to some special organization, we could
-b°gin another and larger effort - but slowly, carefully, we could start
-a movement toward a penny savings bank. Hot a money making institution, but
-a benevolent enterprise to encourage thrift run on business principles. We</p>
-<p>i could select in the city three or four Negroes whose reputation for honesty</p>
-<p>on</p>
-<p>‘^’-and profity was unquestioned. If possible we would ask three or four in-
-terested white men to act with them and form the directory board of a Wegro
-Penny savings bank. Kach church could be induced to hold meetings and hear</p>
-<p>talks on thrift and little things. The various schools - boelman, Atlanta</p>
-<p>8</p>
-<p>■oaptist, olark, *orris Brown and others could preach a crusade ofvaving at
-chapel exercises. At several of the larger colored stores, a small s^and,
-a tin box, and a padlock could be placed and a member of the committee on
-saving could be placed there from 8 to 10 P.tt. on Wednesday and Saturday
-night. .Bankbooks with stamped receipts could be given out. Ihe enterprise
-would flourish for a while then it would die down, but we would not die
-down - more lectures, more talks, tracts, and posters, a notice in the
-Constitution and habits of saving would begin to grow and we would gradu-
-ally know whera to place our branches - how to encourage people. In five
-years we might have $200 or $300 in deposits; in 10 years $2-3000. In
-15 years we might hire modest quarters, use our money for a building
-association or surrender the whole work to a special society, nothing great
-in such a movement - nothing to take ones breath away - it has been done a
-hundred times in other cities among other people and in a few cas^s among
-negroes - but this true rising - which does not necessarily call for a con-
-stitution on paper but it calls for a certain mental and moral constitution
-in us which is too often lacking.</p>
-<p>I might easily go on naming a hundred different methods of work dis-
-tributy tracts, offering prizes in the schools and churches, a comprehen-
-sive system of neighborhood visiting, careful organized and persistently</p>
-<p>19</p>
-<p>conducted serine of mothers meetings and fireside schools, temporary care of
-waifs and foundlings, shelters for friendless girls, a social settlement
-house in the slums, - all these and many more - not all at once, not all
-in a year, hut slowly, gradually, doggedly - such work lies before.</p>
-<p>finally as to our meetings we must stop throwing away time in endless,</p>
-<p>Si</p>
-<p>V senseless and aimless talk. Weare here for business, juirst we want inform-</p>
-<p>Ration on local conditions from th» chairman of coirmittees and chairmen have-
-ing nothing to report ought to be mad^ to f<em>el thoroughly ashamed for their
-neglect and carelessness, the reports should oe bri^f, definite, and contain
-actual dsta. we do not want ssays on what ought to be dona but what y ur
-committee actually has done and when it did it and how it did it and what
-the result was. We do not want vague general statement but definite, brief,
-concise records of date, place and deeds. After these reports and a short
-discussion of the meaning of these facts trier, we should turn to the work
-of the meeting: somebody who has studied something and knows about it and
-has his knowledge in a shape to impart clearly and somewhat more briefly
-than I am doing, should then take the floor and teach us something, either
-in sociological theory, or in efforts of other lands or cities, or in local
-conditions, we do not want general essays, or schoolboy papers - but facts
-and information and carefully weighed opinion. Then we can go knowing more
-than wh^n w» cam’-’ and b^tt^r prepared for work. If noone has such a paper
-prepared, then l^t us take one of th</em> dozens of excellent works on social
-questions and reading it, passing it from hand to hand and discussing it.
-ur let us adopt a textbook and study tha subject we profess to know some-</p>
-<p>If in a half-century we thus increase our knowledge of social conditions
-and otart a few movements to better abuses then this club will deserve well
-of the nation.</p>
-<p>jellow-workrs, the Uegro problem is in this room - between these four</p>
-<p>thing of</p>
-<p>walls and it is the question</p>
-<p>tf.5-‘-94</p>
-<p>20</p>
-<p>Negroes can so coop rate in unselfish effort as to better in some degree
-the condition of the aegroe masses. Among the masses haVft problen8 but</p>
-<p>not n&gt;£ro problems - there are problems of crime, of poverty, of sexual
-lewdness, of ill-health, of heredity. The Negro problem is the question
-whether those who have raised themselves above this dead level of degrad-
-ation can do as othar nations have done - cooperate, investigate, sacrifice,
+agencies for social betterment among the Negroes of Atlanta: these
+agencies are the churches, the schools, the <span class="correction"
+title="Transcriber&#39;s Note: &quot;secred&quot; in original.">secret</span>
+and insurance societies, and the benevolent efforts of various kinds.
+Our object here should be not to meddle, not to interfere in the work of
+others, but by spreading information and pointing out fields of action
+we <span class="correction"
+title="Transcriber&#39;s Note: &quot;shoud&quot; in original.">should</span>
+seek to reduce the duplication of benevolent work to a minimum and get
+the widest good fellowship and cooperation possible. Mother’s meeting,
+lectures, circulating libraries, savings associations and general reform
+work could in this way be spread by sheer contagion through the various
+church constituencies and communities.</p>
+<p>This society should stand ready to send to ever single church in
+Atlanta <span class="pagenum">[17]</span> two, three times a year
+competent persons to explain to the members some elementary matter of
+reform — ventilation, the use of water, sewing schools, hygienic
+cooking, reading, saving, and etc. in this way effort could be
+stimulated in existing agencies toward betterment of present
+conditions.</p>
+<p>For this purpose there should be an executive committee under the
+chairmanship of the president which should arrange meetings and
+conferences, and tell us what other movements are doing and seek to
+build gradually a central board which would federate all the benevolent
+efforts of the city among Negroes and cooperate with similar efforts
+among whites.</p>
+<p>Thirdly the society should endeavor to find out and explore fields of
+<span class="correction"
+title="Transcriber&#39;s Note: &quot;re reformatory&quot; in original.">reformatory</span>
+effort neglected by other agencies, or forgotten or unknown. And should
+seek here to inaugurate new movements for betterment. In this work
+however great care must be exercised. Our committees stand for ears open
+to all sounds from everywhere and letting no whisper escape. But our
+efforts at actual reform must not be thus dispersed. We cannot reform
+the whole world at one, we must concentrate our efforts; one thing at a
+time and that a small thing; careful tentative effort, feeling our way
+slowly, making no failures and takin no backward steps and above all
+remembering that permanent reform is slow work and that 10 years in such
+work is a mere bagatelle. <span class="correction"
+title="Transcriber&#39;s Note: &quot;one&quot; in original.">One</span>
+thing at a time then and let that one thing take our whole strength.
+<span class="correction"
+title="Transcriber&#39;s Note: &quot;we mingt&quot; in original.">We
+might</span> for instance do this: each of us here might <span
+class="correction"
+title="Transcriber&#39;s Note: &quot;contribut&quot; in original.">contribute</span>
+to the committee <span class="correction"
+title="Transcriber&#39;s Note: &quot;onSchools&quot; in original.">on
+schools</span> a book suitable for children to read. We each might get a
+few friends to give similar books. Then this modest little library of
+say 25 or 30 volumes properly labelled and cased might be place in one
+of the public schools to circulate <span class="correction"
+title="Transcriber&#39;s Note: &quot;fr&quot; in original.">for</span> a
+month. Then in another school for a month, then in another, next year we
+might collect another small library — in 10 years we might thus place in
+every school house in the city a circulating library and begin to send
+some to the country schools — simple work, nothing great, no wholesale
+manufacture of saints, nothing to wave our hands about or yell, but
+<strong>Work</strong>, <strong>Reform</strong> and
+<strong>Advance</strong> such as in the past has built nations and <span
+class="pagenum">[18]</span> and empires. When this enterprise was well
+started and in charge of the proper committee — or possibly given over
+to some special organization, we could begin another and larger effort —
+but slowly, carefully. <span class="correction"
+title="Transcriber&#39;s Note: &quot;we&quot; in original.">We</span>
+could start a movement toward a penny savings bank. Not a money making
+institution, but a benevolent enterprise to encourage thrift run on
+business principles. We could select in the city three or four Negroes
+whose reputation for honesty and profity was unquestioned. If possible
+we would ask three or four interested white men to act with them and
+form the directory board of a Negro Penny Savings bank. Each church
+could be induced to hold meetings and hear talks on thrift and little
+things. The various schools — Spelman, Atlanta Baptist, Clark, Morris
+Brown and others could preach a crusade of saving at chapel exercises.
+At several of the larger colored stores, a small stand, a tin box, and a
+padlock could be placed and a member of the committee on saving could be
+placed there from 8 to 10 P.M. on Wednesday and Saturday night.
+Bankbooks with stamped receipts could be given out. Ihe enterprise would
+flourish for a while then it would die down, but we would not die down —
+more lectures, more talks, tracts, and posters, a notice in the
+Constitution and habits of saving would begin to grow and we would
+gradually know where to place our branches — how to encourage people. In
+five years we might have $200 or $300 in deposits; in 10 years $2–3000.
+In 15 years we might hire modest quarters, use our money for a building
+association or surrender the whole work to a special society, nothing
+great in such a movement — nothing to take ones breath away — it has
+been done a hundred times in other cities among other people and in a
+few cases among Negroes — but this true rising — which does not
+necessarily call for a constitution on paper but it calls for a certain
+mental and moral constitution in us which is too often lacking.</p>
+<p>I might easily go on naming a hundred different methods of work <span
+class="correction"
+title="Transcriber&#39;s Note: &quot;distributy&quot; in original.">distributing</span>
+tracts, offering prizes in the schools and churches, a comprehensive
+system of neighborhood visiting, careful organized and persistently
+<span class="pagenum">[19]</span> conducted serine of mothers meetings
+and fireside schools, temporary care of waifs and foundlings, shelters
+for friendless girls, a social settlement house in the slums, — all
+these and many more — not all at once, not all in a year, hut slowly,
+gradually, doggedly — such work lies before.</p>
+<p>Finally as to our meetings we must stop throwing away time in
+endless, senseless and aimless talk. We are here for business, First we
+want information on local conditions from the chairman of committees and
+chairmen <span class="correction"
+title="Transcriber&#39;s Note: &quot;haveing&quot; in original.">having</span>
+nothing to report ought to be made to feel thoroughly ashamed for their
+neglect and carelessness. The reports should oe brief, definite, and
+contain actual data. We do not want essays on what ought to be dona but
+what your committee actually has done and when it did it and how it did
+it and what the result was. We do not want vague general statement but
+definite, brief, concise records of date, place and deeds. After these
+reports and a short discussion of the meaning of these facts then we
+should turn to the work of the meeting: somebody who has studied
+something and knows about it and has his knowledge in a shape to impart
+clearly and somewhat more briefly than I am doing, should then take the
+floor and teach us something, either in sociological theory, or in
+efforts of other lands or cities, or in local conditions, we do not want
+general essays, or schoolboy papers — but facts and information and
+carefully weighed opinion. Then we can go knowing more than when we came
+and better prepared for work. If <span class="correction"
+title="Transcriber&#39;s Note: &quot;noone&quot; in original.">no
+one</span> has such a paper prepared, then let us take one of the dozens
+of excellent works on social questions and reading it, passing it from
+hand to hand and discussing it. Our let us adopt a textbook and study
+the subject we profess to know something of.</p>
+<p>If in a half-century we thus increase our knowledge of social
+conditions and start a few movements to better abuses then this club
+will deserve well of the nation.</p>
+<p>Fellow-workers, the Negro problem is in this room — between these
+four walls and it is the question as to whether the best class of
+intelligent <span id="Page_1" class="pagenum">[20]</span> Negroes can so
+cooperate in unselfish effort as to better in some degree the condition
+of the <span class="correction"
+title="Transcriber&#39;s Note: &quot;Negroe&quot; in original.">Negro</span>
+masses. Among the masses we have problems but not Negro problems — there
+are problems of crime, of poverty, of sexual lewdness, of ill-health, of
+heredity. The <strong>Negro</strong> problem is the question whether
+those who have raised themselves above this dead level of degradation
+can do as other nations have done — cooperate, investigate, sacrifice,
 and lift as they climb.</p>
-<hr class="docutils" />
-<p><em>Citation:</em> Du Bois, W.E.B. ca. 1897. “A program for a sociological society.” <em>Special Collections and University Archives, University of Massachusetts Amherst Libraries</em>. <a class="reference external" href="http://credo.library.umass.edu/view/full/mums312-b196-i035">mums312-b196-i035</a></p>
-</section>
-</section>
-
-    <script type="text/x-thebe-config">
-    {
-        requestKernel: true,
-        binderOptions: {
-            repo: "binder-examples/jupyter-stacks-datascience",
-            ref: "master",
-        },
-        codeMirrorConfig: {
-            theme: "abcdef",
-            mode: "python"
-        },
-        kernelOptions: {
-            kernelName: "python3",
-            path: "./."
-        },
-        predefinedOutput: true
-    }
-    </script>
-    <script>kernelName = 'python3'</script>
-
-              </div>
-              
-            </main>
-            <footer class="footer-article noprint">
-                
-    <!-- Previous / next buttons -->
-<div class='prev-next-area'>
-</div>
-            </footer>
-        </div>
-    </div>
-    <div class="footer-content row">
-        <footer class="col footer"><p>
-  
-    By William E. Burghardt Du Bois<br/>
-  
-    <div class="extra_footer">
-      Edited by Neal Caren
-    </div>
-</p>
-        </footer>
-    </div>
-    
-</div>
-
-
-      </div>
-    </div>
-  
-  <!-- Scripts loaded after <body> so the DOM is not blocked -->
-  <script src="_static/scripts/pydata-sphinx-theme.js?digest=1999514e3f237ded88cf"></script>
-
-
-  </body>
+<hr />
+<p><em>Citation:</em> Du Bois, W.E.B. ca. 1897. “A program for a
+sociological society.” <em>Special Collections and University Archives,
+University of Massachusetts Amherst Libraries</em>. <a
+href="http://credo.library.umass.edu/view/full/mums312-b196-i035">mums312-b196-i035</a></p>
+</body>
 </html>
