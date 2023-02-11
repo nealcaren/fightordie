@@ -142,9 +142,9 @@
 |   1919 |       19 | 2       | [The Real Causes of Two Race Riots](https://www.dareyoufight.org/Volumes/19/02/real_causes.html)                                          |
 |   1919 |       19 | 2       | [Votes](https://www.dareyoufight.org/Volumes/19/02/votes.html)                                                                            |
 |   1919 |       19 | 2       | [Radicals](https://www.dareyoufight.org/Volumes/19/02/radicals.html)                                                                      |
+|   1920 |       19 | 3       | [The Macon Telegraph](https://www.dareyoufight.org/Volumes/19/03/macon_telegraph.html)                                                    |
 |   1920 |       19 | 3       | [American Legion, Again](https://www.dareyoufight.org/Volumes/19/03/american_legion_again.html)                                           |
 |   1920 |       19 | 3       | [Sex Equality](https://www.dareyoufight.org/Volumes/19/03/sex_equality.html)                                                              |
-|   1920 |       19 | 3       | [The Macon Telegraph](https://www.dareyoufight.org/Volumes/19/03/macon_telegraph.html)                                                    |
 |   1920 |       19 | 3       | [Race Pride](https://www.dareyoufight.org/Volumes/19/03/england.html)                                                                     |
 |   1920 |       19 | 3       | [Race Pride](https://www.dareyoufight.org/Volumes/19/03/race_pride.html)                                                                  |
 |   1920 |       19 | 3       | [Brothers, Come North](https://www.dareyoufight.org/Volumes/19/03/brothers_come_north.html)                                               |
@@ -230,8 +230,8 @@
 |   1927 |       34 | 2       | [The Higher Friction](https://www.dareyoufight.org/Volumes/34/02/higher_friction.html)                                                    |
 |   1927 |       34 | 2       | [Farmers](https://www.dareyoufight.org/Volumes/34/02/farmers.html)                                                                        |
 |   1927 |       34 | 4       | [Chicago](https://www.dareyoufight.org/Volumes/34/04/chicago.html)                                                                        |
-|   1927 |       34 | 5       | [Flood](https://www.dareyoufight.org/Volumes/34/05/flood.html)                                                                            |
 |   1927 |       34 | 5       | [Coffeeville, Kanasas](https://www.dareyoufight.org/Volumes/34/05/coffeville_kansas.html)                                                 |
+|   1927 |       34 | 5       | [Flood](https://www.dareyoufight.org/Volumes/34/05/flood.html)                                                                            |
 |   1927 |       34 | 6       | [Mob Tactics](https://www.dareyoufight.org/Volumes/34/06/mob_tactics.html)                                                                |
 |   1927 |       34 | 8       | [Death Rates](https://www.dareyoufight.org/Volumes/34/08/death_rates.html)                                                                |
 |   1927 |       34 | 9       | [Prejudice](https://www.dareyoufight.org/Volumes/34/09/prejudice.html)                                                                    |
@@ -255,9 +255,9 @@
 |   1929 |       36 | 5       | [Herbert Hoover and the South](https://www.dareyoufight.org/Volumes/36/05/hoover_and_the_south.html)                                      |
 |   1929 |       36 | 5       | [Optimism](https://www.dareyoufight.org/Volumes/36/05/optimism.html)                                                                      |
 |   1929 |       36 | 5       | [Missionaries](https://www.dareyoufight.org/Volumes/36/05/missionaries.html)                                                              |
-|   1930 |       37 | 1       | [About Marrying](https://www.dareyoufight.org/Volumes/37/01/about_marrying.html)                                                          |
 |   1930 |       37 | 1       | [Football](https://www.dareyoufight.org/Volumes/37/01/football.html)                                                                      |
 |   1930 |       37 | 1       | [About Wailing](https://www.dareyoufight.org/Volumes/37/02/about_wailing.html)                                                            |
+|   1930 |       37 | 1       | [About Marrying](https://www.dareyoufight.org/Volumes/37/01/about_marrying.html)                                                          |
 |   1930 |       37 | 1       | [Gambling](https://www.dareyoufight.org/Volumes/37/01/gambling.html)                                                                      |
 |   1930 |       37 | 2       | [Interracial Love in Texas](https://www.dareyoufight.org/Volumes/37/02/interracial_love_in_texas.html)                                    |
 |   1930 |       37 | 2       | [Smuts](https://www.dareyoufight.org/Volumes/37/02/smuts.html)                                                                            |
@@ -312,14 +312,15 @@
 |   1933 |       40 | 7       | [Our Class Struggle](https://www.dareyoufight.org/Volumes/40/07/our_class_struggle.html)                                                  |
 |   1933 |       40 | 8       | [The Negro College](https://www.dareyoufight.org/Volumes/40/08/negro_college.html)                                                        |
 |   1933 |       40 | 9       | [On Being Ashamed of Oneself](https://www.dareyoufight.org/Volumes/40/09/on_being_ashamed.html)                                           |
-|   1934 |       41 | 1       | [Segregation](https://www.dareyoufight.org/Volumes/41/01/segregation.html)                                                                |
 |   1934 |       41 | 1       | [Scottsboro](https://www.dareyoufight.org/Volumes/41/01/scottsboro.html)                                                                  |
+|   1934 |       41 | 1       | [Segregation](https://www.dareyoufight.org/Volumes/41/01/segregation.html)                                                                |
 |   1934 |       41 | 2       | [The N.A.A.C.P. and Race Segregation](https://www.dareyoufight.org/Volumes/41/02/naacp_and_race_segregation.html)                         |
 |   1934 |       41 | 3       | [History of Segregation Philosophy](https://www.dareyoufight.org/Volumes/41/03/history_of_segregation_philosophy.html)                    |
 |   1934 |       41 | 3       | [Separation and Self-Respect](https://www.dareyoufight.org/Volumes/41/03/separation_and_selfrespect.html)                                 |
 |   1934 |       41 | 3       | [Subsistence Homestead Colonies](https://www.dareyoufight.org/Volumes/41/03/Subsistence_homestead_colonies.html)                          |
 |   1934 |       41 | 4       | [Segregation in the North](https://www.dareyoufight.org/Volumes/41/04/segregation_in_the_north.html)                                      |
 |   1934 |       41 | 5       | [Segregation](https://www.dareyoufight.org/Volumes/41/05/segregation.html)                                                                |
+|   1934 |       41 | 5       | [William Monroe Trotter](https://www.dareyoufight.org/Volumes/41/05/trotter.html)                                                         |
 |   1934 |       41 | 5       | [Violence](https://www.dareyoufight.org/Volumes/41/05/violence.html)                                                                      |
 |   1934 |       41 | 5       | [Grand Jury Adjourns: Laurens County Fails to Indict Dendy Lynchers](https://www.dareyoufight.org/Volumes/41/05/grand_jury_adjourns.html) |
 |   1934 |       41 | 6       | [Counsels of Despair](https://www.dareyoufight.org/Volumes/41/06/counsels_of_despair.html)                                                |

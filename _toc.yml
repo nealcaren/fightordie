@@ -10,37 +10,6 @@ chapters:
 - file: toc
 - file: introduction.md
 
-- file: Sections/segregation
-  sections:
-  - file: Volumes/01/01/Segregation.md
-  - file: Volumes/03/05/homes.md
-  - file: Volumes/05/04/blesseddiscrimination.md
-  - file: Volumes/06/05/open_letter.md
-  - file: Volumes/09/02/trotter.md
-  - file: Volumes/17/03/jim_crow.md
-  - file: Volumes/19/03/american_legion_again.md
-  - file: Volumes/26/04/tradgedy_of_jim_crow.md
-  - file: Volumes/31/01/challenge_of_detroit.md
-  - file: Volumes/34/05/flood.md
-  - file: Volumes/35/12/segregation.md
-  - file: Volumes/39/03/dalton_ga.md
-  - file: Volumes/40/03/color_caste_in_the_united_states.md
-  - file: Volumes/40/09/on_being_ashamed.md
-  - file: Volumes/41/01/segregation.md
-  - file: Volumes/41/02/naacp_and_race_segregation.md
-  - file: Volumes/41/03/history_of_segregation_philosophy.md
-  - file: Volumes/41/03/separation_and_selfrespect.md
-  - file: Volumes/41/04/segregation_in_the_north.md
-  - file: Volumes/41/05/segregation.md
-  - file: Sections/intermarriage
-    sections:
-    - file: Volumes/05/04/intermarriage.md
-    - file: Volumes/19/03/sex_equality.md
-    - file: Volumes/31/05/correspondence.md
-    - file: Volumes/33/03/intermarriage.md
-    - file: Volumes/37/01/about_marrying.md
-    - file: Volumes/37/02/interracial_love_in_texas.md
-
 - file: Sections/racism
   sections:
   - file: Volumes/01/03/social_equality.md
@@ -109,6 +78,37 @@ chapters:
   - file: Volumes/40/05/scottsboro.md
   - file: Volumes/41/01/scottsboro.md
 
+
+- file: Sections/segregation
+  sections:
+  - file: Volumes/01/01/Segregation.md
+  - file: Volumes/03/05/homes.md
+  - file: Volumes/05/04/blesseddiscrimination.md
+  - file: Volumes/06/05/open_letter.md
+  - file: Volumes/09/02/trotter.md
+  - file: Volumes/17/03/jim_crow.md
+  - file: Volumes/19/03/american_legion_again.md
+  - file: Volumes/26/04/tradgedy_of_jim_crow.md
+  - file: Volumes/31/01/challenge_of_detroit.md
+  - file: Volumes/34/05/flood.md
+  - file: Volumes/35/12/segregation.md
+  - file: Volumes/39/03/dalton_ga.md
+  - file: Volumes/40/03/color_caste_in_the_united_states.md
+  - file: Volumes/40/09/on_being_ashamed.md
+  - file: Volumes/41/01/segregation.md
+  - file: Volumes/41/02/naacp_and_race_segregation.md
+  - file: Volumes/41/03/history_of_segregation_philosophy.md
+  - file: Volumes/41/03/separation_and_selfrespect.md
+  - file: Volumes/41/04/segregation_in_the_north.md
+  - file: Volumes/41/05/segregation.md
+  - file: Sections/intermarriage
+    sections:
+    - file: Volumes/05/04/intermarriage.md
+    - file: Volumes/19/03/sex_equality.md
+    - file: Volumes/31/05/correspondence.md
+    - file: Volumes/33/03/intermarriage.md
+    - file: Volumes/37/01/about_marrying.md
+    - file: Volumes/37/02/interracial_love_in_texas.md
 
 - file: Sections/electoral
   title: Disenfranchisement and Voting
@@ -181,6 +181,7 @@ chapters:
   - file: Volumes/37/03/boycott.md
   - file: Volumes/40/10/youth_and_age.md
   - file: Volumes/40/02/dodging_the_issue.md
+  - file: Volumes/41/05/trotter.md
   - file: Volumes/41/05/violence.md
   - file: Volumes/41/06/counsels_of_despair.md
   - file: Sections/NAACP
