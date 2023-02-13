@@ -1,4 +1,4 @@
-
+<!--  fffff8-->
 @font-face {
   font-family: "et-book";
   src: url("_static/et-book/et-book-roman-line-figures/et-book-roman-line-figures.eot");
@@ -38,14 +38,14 @@
 
 * {
   font-family: "et-book", "Palatino", "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
-  background-color: #fffff8;
+  background-color: #FEFBEB;
   color: #111;
 }
 
 
 .form-control {
   font-family: "et-book", "Palatino", "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
-  background-color: #fffff8;
+  background-color: #FEFBEB;
   color: #111;
 }
 
@@ -106,8 +106,8 @@ aside.sidebar {
 }
 
 table, th, td, tr {
-  border: 0em #fffff8;
-  border-bottom: 0em #fffff8;
+  border: 0em #FEFBEB;
+  border-bottom: 0em #FEFBEB;
   border-style : hidden!important;
 }
 
