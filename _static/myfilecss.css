@@ -1,5 +1,3 @@
-<!--FEFBEB  fffff8-->
-
 
 @font-face {
   font-family: "et-book";
@@ -38,35 +36,27 @@
   font-display: swap;
 }
 
+
+
+#search-input {
+  font-family: "et-book", "Palatino", "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+  background-color: #fffff8;
+}
+
 * {
-  font-family:  "Palatino", "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+  font-family: "et-book", "Palatino", "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
   background-color: #fffff8;
   color: #111;
 }
-
-
-.form-control {
-  font-family:  "Palatino", "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
-  background-color: #fffff8;
-  color: #111;
-}
-
-
-
 
 .footnote-reference brackets {
-  font-family:  "Palatino", "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+  font-family: "et-book", "Palatino", "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
   font-size: 0.75em;
 }
 
 .brackets {
-  font-family:  "Palatino", "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+  font-family: "et-book", "Palatino", "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
   font-size: 0.75em;
-}
-
-
-h1, h2, h3 {
-    font-family:  "Palatino", "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
 }
 
 .toctree-l2, .toctree-l1, .toctree-l3 {
