@@ -5,7 +5,7 @@ journal: The Crisis
 year:    1921
 volume:  23
 issue:   5
-pages:   1999
+pages:   199
 -->
 # Boddy (1921)
 
@@ -30,4 +30,4 @@ His mother said, "They taught him to shoot in the army." They did. Millions of b
 And finally, when this boy is dead, remember that the same forces which made him what he was are alive and powerful and working to make others like him. 
 
 _________________
-*Citation:* Du Bois, W.E.B. 1921. "Boddy." *The Crisis*. 23(5):1999.
+*Citation:* Du Bois, W.E.B. 1921. "Boddy." *The Crisis*. 23(5):199.
