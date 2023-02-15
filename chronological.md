@@ -167,6 +167,7 @@
 |   1921 |       22 | 6       | [The Single Tax](https://www.dareyoufight.org/Volumes/22/06/single_tax.html)                                                              |
 |   1921 |       23 | 1       | [To The World](https://www.dareyoufight.org/Volumes/23/01/to_the_world.html)                                                              |
 |   1921 |       23 | 4       | [Africa for the Africans](https://www.dareyoufight.org/Volumes/23/04/africa_for_the_africans.html)                                        |
+|   1921 |       23 | 5       | [Gandhi and India](https://www.dareyoufight.org/Volumes/23/05/india_and_gandhi.html)                                                      |
 |   1921 |       23 | 5       | [Boddy](https://www.dareyoufight.org/Volumes/23/05/boddy.html)                                                                            |
 |   1921 |       23 | 5       | [Homicides](https://www.dareyoufight.org/Volumes/23/05/homicides.html)                                                                    |
 |   1922 |       22 | 1       | [Anti-Lynching Legislation](https://www.dareyoufight.org/Volumes/22/01/anti-lynching_legislation.html)                                    |
