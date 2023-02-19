@@ -218,6 +218,7 @@
 |   1926 |       33 | 1       | [Russia, 1926](https://www.dareyoufight.org/Volumes/33/01/russia_1926.html)                                                               |
 |   1926 |       33 | 2       | [Eugene Debs](https://www.dareyoufight.org/Volumes/33/02/debs.html)                                                                       |
 |   1926 |       33 | 2       | [Travel](https://www.dareyoufight.org/Volumes/33/02/travel.html)                                                                          |
+|   1926 |       33 | 2       | [Books](https://www.dareyoufight.org/Volumes/33/02/books.html)                                                                            |
 |   1926 |       33 | 2       | [The Shambles of South Carolina](https://www.dareyoufight.org/Volumes/33/02/shambles_of_south_carolina.html)                              |
 |   1927 |       33 | 3       | [Intermarriage](https://www.dareyoufight.org/Volumes/33/03/intermarriage.html)                                                            |
 |   1927 |       33 | 3       | [Our Methods](https://www.dareyoufight.org/Volumes/33/03/our_methods.html)                                                                |
