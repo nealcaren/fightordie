@@ -1,5 +1,5 @@
 <!--
-title:   The Sweet Trial
+title:   Our Book Shelf
 author:  Du Bois, W.E.B.
 journal: The Crisis
 year:    1926
@@ -8,7 +8,7 @@ issue:   3
 pages:   140-141
 -->
 
-# The Sweet Trial (1926)
+# Our Book Shelf (1926)
 
 <h2><em>The New Negro</em>, edited by Alain Locke. Albert and Charles Boni, New York, 1925. 446 pages.</h2>
 
@@ -27,4 +27,4 @@ With one point alone do I differ with the Editor. Mr. Locke has newly been seize
 Of course this involves a controversy as old as the world and much too transcendental for practical purposes, and yet, if Mr. Locke's thesis is insisted on too much it is going to turn the Negro renaissance into decadence. It is the fight for Life and Liberty that is giving birth to Negro literature and art today and when, turning from this fight or ignoring it, the young Negro tries to do pretty things or things that catch the passing fancy of the really unimportant critics and publishers about him, he will find that he has killed the soul of Beauty in his Art. 
 
 ________________
-*Citation:* Du Bois, W.E.B. 1926. "The Sweet Trial." *The Crisis*. 31(3):140&ndash;141.
+*Citation:* Du Bois, W.E.B. 1926. "Our Book Shelf." *The Crisis*. 31(3):140&ndash;141.
