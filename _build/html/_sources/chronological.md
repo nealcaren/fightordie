@@ -184,6 +184,7 @@
 |   1923 |       26 | 4       | [The Tragedy of 'Jim Crow'](https://www.dareyoufight.org/Volumes/26/04/tradgedy_of_jim_crow.html)                                         |
 |   1924 |       27 | 3       | [The Black Man and the Wounded World](https://www.dareyoufight.org/Volumes/27/03/black_man_and_the_wounded_world.html)                    |
 |   1924 |       27 | 4       | [Kenya](https://www.dareyoufight.org/Volumes/27/04/kenya.html)                                                                            |
+|   1924 |       27 | 4       | [The Younger Literary Movement](https://www.dareyoufight.org/Volumes/27/04/younger_movement.html)                                         |
 |   1924 |       28 | 1       | [A Lunatic or a Traitor](https://www.dareyoufight.org/Volumes/28/01/lunatic_or_a_traitor.html)                                            |
 |   1924 |       28 | 3       | [Vote](https://www.dareyoufight.org/Volumes/28/03/vote.html)                                                                              |
 |   1924 |       28 | 3       | [Unity](https://www.dareyoufight.org/Volumes/28/03/unity.html)                                                                            |
