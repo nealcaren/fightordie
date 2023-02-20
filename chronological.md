@@ -178,6 +178,8 @@
 |   1922 |       24 | 1       | [Publicity](https://www.dareyoufight.org/Volumes/24/01/publicity.html)                                                                    |
 |   1922 |       24 | 1       | [Art for Nothing](https://www.dareyoufight.org/Volumes/24/01/art_for_nothing.html)                                                        |
 |   1922 |       24 | 2       | [White Charity](https://www.dareyoufight.org/Volumes/24/02/whitecharity.html)                                                             |
+|   1922 |       25 | 1       | [K.K.K.](https://www.dareyoufight.org/Volumes/25/01/kkk.html)                                                                             |
+|   1922 |       25 | 1       | [Truth and Beauty](https://www.dareyoufight.org/Volumes/25/01/truth_and_beauty.html)                                                      |
 |   1923 |       24 | 3       | [Intentions](https://www.dareyoufight.org/Volumes/24/03/intentions.html)                                                                  |
 |   1923 |       26 | 2       | [A University Course in Lynching](https://www.dareyoufight.org/Volumes/26/02/university_course_in_lynching.html)                          |
 |   1923 |       26 | 2       | [On Being Crazy](https://www.dareyoufight.org/Volumes/26/02/on_being_crazy.html)                                                          |
