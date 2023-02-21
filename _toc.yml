@@ -163,7 +163,6 @@ chapters:
     - file: Volumes/20/01/get_ready.md
     - file: Volumes/21/01/suffrage.md
 
-
 - file: Sections/strategy
   sections:
   - file: Volumes/01/01/Agitation.md
@@ -177,6 +176,7 @@ chapters:
   - file: Volumes/22/03/amity.md
   - file: Volumes/22/03/libelous_film.md
   - file: Volumes/24/01/publicity.md
+  - file: Volumes/25/04/advertising.md
   - file: Volumes/29/05/radicals_and_the_negro.md
   - file: Volumes/34/10/durham_conference.md
   - file: Volumes/37/03/boycott.md
@@ -210,13 +210,14 @@ chapters:
     - file: Volumes/04/03/organized_labor.md
     - file: Volumes/15/05/the_black_man_and_the_unions.md
     - file: Volumes/18/05/labor_omnia_vincit.md
+    - file: Volumes/25/06/negro_and_labor.md
     - file: Volumes/28/04/american_federation_of_labor.md
     - file: Volumes/31/02/black_man_and_labor.md
     - file: Volumes/31/03/pullman_porters.md
     - file: Volumes/31/06/again_pullman_porters.md 
     - file: Volumes/34/10/pullman_porters.md
     - file: Volumes/35/03/black_and_white_workers.md
-    - file: Volumes/39/09/employment.md
+    - file: Volumes/39/09/employment.md 
     - file: Volumes/40/12/af_of_l.md
   - file: Sections/socialism
     sections:  
@@ -253,7 +254,6 @@ chapters:
   - file: Volumes/01/02/races_in_conference.md
   - file: Volumes/02/05/races_congress.md
   - file: Volumes/07/06/brazil.md
-
   - file: Sections/wwi
     sections:
     - file: Volumes/09/01/worldwar.md
