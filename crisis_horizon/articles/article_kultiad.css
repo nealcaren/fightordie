@@ -26,6 +26,11 @@ nav .title {
     float: right;
 }
 
+.correction {
+	text-decoration: none; /* replace default underline, if present ... */
+	border-bottom: thin dotted gray; /* ... with delicate gray line */
+}
+
 html {
     font-size: 100%;
 }
@@ -75,7 +80,7 @@ body {
 
 
 h1, h2, h3, dt {
-    color: #423F37;
+    color: 423F37#;
     font-weight: 500;
 }
 
@@ -118,17 +123,18 @@ h6 {
 
 
 a {
-    color: #8DB359;
+    color: #000000;
     cursor: pointer;
     outline: 0 none;
-    text-decoration: underline;
+    text-decoration: none;
+
 }
 
 a:hover {
     outline: 0 none;
-    color: #739544;
+    color: #423F37;
+    text-decoration: underline;
 }
-
 
 p, pre {
     margin: 1em 0;
@@ -163,7 +169,7 @@ code, kbd, pre, samp {
 }
 
 code {
-    color: #423F37;
+    color: 423F37#;
 }
 
 
@@ -176,12 +182,12 @@ aside {
 
 b, strong {
     font-weight: bold;
-    color: #423F37;
+    color: 423F37#;
     font-weight: 700;
 }
 
 blockquote {
-    color: #423F37;
+    color: 423F37#;
     margin: 1em 40px;
 }
 
@@ -219,7 +225,7 @@ img {
 
 
 ol > li:before {
-    color: #423F37;
+    color: 423F37#;
     content: counter(ol, decimal) ".";
     counter-increment: ol;
     font-weight: 700;
@@ -229,7 +235,7 @@ ol > li:before {
 }
 
 ul > li:before {
-    background-color: #423F37;
+    background-color: 423F37#;
     border-radius: 14px 14px 14px 14px;
     content: "";
     height: 6px;

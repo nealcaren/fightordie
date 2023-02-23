@@ -66,10 +66,13 @@ h1, h2, h3, dt {
 h1 {
     font-size: 2.5em;
     margin: 0.67em 0;
+    text-align: center;
+    font-variant: small-caps;
 }
 
 h1, .title {
     margin-bottom: 1em;
+    text-align: center
 }
 
 h2, .article-list .article-title {
@@ -102,15 +105,17 @@ h6 {
 
 
 a {
-    color: #8DB359;
+    color: #000000;
     cursor: pointer;
     outline: 0 none;
-    text-decoration: underline;
+    text-decoration: none;
+
 }
 
 a:hover {
     outline: 0 none;
-    color: #739544;
+    color: #423F37;
+    text-decoration: underline;
 }
 
 
@@ -327,3 +332,23 @@ caption{display:table-caption;font-weight:300;font-size:1.3em;text-transform:upp
    font-size: 0.8rem;
    font-style: italic;
 }
+
+
+img.logol {
+    width: 36px;
+    float:left;
+    padding-right: 10px;
+    margin: 0.3em 0;
+    vertical-align: middle;
+  }
+
+.center {
+    text-align: center;
+}
+  img.logor {
+    width: 36px;
+    float:right;
+    padding-right: 10px;
+    margin: 0.3em 0;
+    vertical-align: middle;
+  }
