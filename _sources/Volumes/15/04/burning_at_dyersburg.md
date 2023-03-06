@@ -2,12 +2,12 @@
 title:   The Burning at Dyersburg: An N.A.A.C.P. Investigation
 author:  Du Bois, W.E.B.
 journal: The Crisis
-year:    1919
+year:    1918
 volume:  15
 issue:   4
 pages:   178-183
 -->
-# The Burning at Dyersburg: An N.A.A.C.P. Investigation (1919)
+# The Burning at Dyersburg: An N.A.A.C.P. Investigation (1918)
 
 Sunday, December 2, 1917, immediately after the adjournment of church services, a human being was tortured and burned at the stake in the heart of the town of Dyersburg, Tenn. The victim was a Negro man, thirty years old, who was accused of criminal assault on a white woman of the county.
 
@@ -127,4 +127,4 @@ A few people---mostly women---said: "It was terrible."
 Many citizens seem to have the psychology of having performed an unpleasant duty. One citizen said: "People here can do a thing like that, and then forget all about it."
 
 ______________
-*Citation:* Du Bois, W.E.B. 1919. "The Burning at Dyersburg: An N.A.A.C.P. Investigation." *The Crisis*. 15(4):178&ndash;183.
+*Citation:* Du Bois, W.E.B. 1918. "The Burning at Dyersburg: An N.A.A.C.P. Investigation." *The Crisis*. 15(4):178&ndash;183.

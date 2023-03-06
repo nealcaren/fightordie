@@ -95,7 +95,7 @@ Today, however, all is settled. "A workably accurate scientific classification o
 
 Illiterates were asked, for example, to complete pictures where the net was missing in a tennis court or a ball in a bowling alley! 
 
-For these tests were chosen 4730 Negroes from Louisiana and Mississippi and 28,052 white recruits from Illinois. The result? Do you need to ask? M. R. Trabue, Director, Bureau of Educational Service, Columbia University, assures us that the intelligence of the average southern Negro is equal to that of a 9-year-old white boy and that we should arrange our educational program to make "waiters, porters, scavengers and the like" of most Negroes! 
+For these tests were chosen 4730 Negroes from *Louisiana* and *Mississippi* and 28,052 white recruits from *Illinois*. The result? Do you need to ask? M. R. Trabue, Director, Bureau of Educational Service, Columbia University, assures us that the intelligence of the average southern Negro is equal to that of a 9-year-old white boy and that we should arrange our educational program to make "waiters, porters, scavengers and the like" of most Negroes! 
 
 Is it conceivable that a great university should employ a man whose "science" consists of such utter rot? 
 

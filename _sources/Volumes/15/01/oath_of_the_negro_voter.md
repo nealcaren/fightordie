@@ -2,12 +2,12 @@
 title:   The Oath of the Negro Voter
 author:  Du Bois, W.E.B.
 journal: The Crisis
-year:    1917
+year:    1918
 volume:  15
 issue:   1
 pages:   7
 -->
-# The Oath of the Negro Voter (1917)
+# The Oath of the Negro Voter (1918)
 
 As one of the Earth's Disowned I swear to hold my Ballot as the sacred pawn of Liberty for all mankind and for my prisoned race.
 
@@ -30,4 +30,4 @@ In order to accomplish the above ends I hereby entrust the National Association 
 Persons minded to sign the above oath will send their names to the Editor of <span class = "small-caps">The Crisis</span>.
 
 __________
-*Citation:* Du Bois, W.E.B. 1917. "The Oath of the Negro Voter." *The Crisis*. 15(1):7.
+*Citation:* Du Bois, W.E.B. 1918. "The Oath of the Negro Voter." *The Crisis*. 15(1):7.

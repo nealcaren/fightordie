@@ -2,12 +2,12 @@
 title:   Co-Operation
 author:  Du Bois, W.E.B.
 journal: The Crisis
-year:    1917
+year:    1918
 volume:  15
 issue:   1
 pages:   9-10
 -->
-# Co-Operation (1917)
+# Co-Operation (1918)
 
 <span class = "small-caps">The Crisis</span> has now for several months been developing a program looking toward an economic forward movement among the Negroes of the United States. The matter has been developed slowly in order to have as large a number of people as possible understand just what it is that <span class = "small-caps">The Crisis</span> has in mind. 
 
@@ -22,4 +22,4 @@ Co-operation in economics can, perhaps, best be explained by quoting a leaflet b
 This is the movement which <span class = "small-caps">The Crisis</span> wishes to bring more and more to the attention of the Negroes of the United States. It firmly believes that this is our economic way out, our industrial emancipation. 
 
 __________
-*Citation:* Du Bois, W.E.B. 1917. "Co-Operation." *The Crisis*. 15(1):9&ndash;10.
+*Citation:* Du Bois, W.E.B. 1918. "Co-Operation." *The Crisis*. 15(1):9&ndash;10.
