@@ -1,5 +1,6 @@
 https://www.dareyoufight.org/index.html
 https://www.dareyoufight.org/toc.html
+https://www.dareyoufight.org/quotable.html
 https://www.dareyoufight.org/code_of_conduct.html
 https://www.dareyoufight.org/contributing.html
 https://www.dareyoufight.org/search.html
