@@ -92,7 +92,7 @@
 |   1917 |       13 | 6       | [The Perpetual Dilemma](https://www.dareyoufight.org/Volumes/13/06/perpetual_dilemma.html)                                                |
 |   1917 |       14 | 1       | [Register and Vote](https://www.dareyoufight.org/Volumes/14/01/register_and_vote.html)                                                    |
 |   1917 |       14 | 1       | [The Migration](https://www.dareyoufight.org/Volumes/14/01/migration.html)                                                                |
-|   1917 |       14 | 1       | [A Moral Void](https://www.dareyoufight.org/Volumes/14/01/white_church.html)                                                              |
+|   1917 |       14 | 1       | [The White Church](https://www.dareyoufight.org/Volumes/14/01/white_church.html)                                                          |
 |   1917 |       14 | 1       | [A Moral Void](https://www.dareyoufight.org/Volumes/14/01/moral_void.html)                                                                |
 |   1917 |       14 | 2       | [Resolutions of the Washington Conference](https://www.dareyoufight.org/Volumes/14/02/resolutions.html)                                   |
 |   1917 |       14 | 2       | [Officers](https://www.dareyoufight.org/Volumes/14/02/officers.html)                                                                      |
@@ -155,6 +155,7 @@
 |   1920 |       19 | 4       | [Crime](https://www.dareyoufight.org/Volumes/19/04/crime.html)                                                                            |
 |   1920 |       20 | 1       | [Get Ready](https://www.dareyoufight.org/Volumes/20/01/get_ready.html)                                                                    |
 |   1920 |       20 | 1       | [White Co-Workers](https://www.dareyoufight.org/Volumes/20/01/white_coworkers.html)                                                       |
+|   1920 |       20 | 3       | [Race Intelligence](https://www.dareyoufight.org/Volumes/20/03/race_intelligence.html)                                                    |
 |   1920 |       20 | 5       | [The Rise of the West Indian](https://www.dareyoufight.org/Volumes/20/05/rise_of_the_west_indian.html)                                    |
 |   1920 |       21 | 1       | [The Social Equality of Whites and Blacks](https://www.dareyoufight.org/Volumes/21/01/social_equality_of_blacks_and_whites.html)          |
 |   1920 |       21 | 1       | [Suffrage](https://www.dareyoufight.org/Volumes/21/01/suffrage.html)                                                                      |
