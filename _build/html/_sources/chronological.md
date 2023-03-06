@@ -107,11 +107,14 @@
 |   1917 |       14 | 5       | [The Negro Silent Parade](https://www.dareyoufight.org/Volumes/14/05/negro_silent_parade.html)                                            |
 |   1917 |       14 | 5       | [The Massacre in East St. Louis](https://www.dareyoufight.org/Volumes/14/05/massacre_of_east_st_louis_copy.html)                          |
 |   1917 |       14 | 6       | [Houston](https://www.dareyoufight.org/Volumes/14/06/houston.html)                                                                        |
-|   1917 |       15 | 1       | [The Oath of the Negro Voter](https://www.dareyoufight.org/Volumes/15/01/oath_of_the_negro_voter.html)                                    |
-|   1917 |       15 | 1       | [Votes for Women](https://www.dareyoufight.org/Volumes/15/01/votes_for_women.html)                                                        |
-|   1917 |       15 | 1       | [Co-Operation](https://www.dareyoufight.org/Volumes/15/01/cooperation.html)                                                               |
-|   1917 |       15 | 1       | [Hampton](https://www.dareyoufight.org/Volumes/15/01/hampton.html)                                                                        |
-|   1917 |       15 | 1       | [Houston: An N.A.A.C.P. Investigation](https://www.dareyoufight.org/Volumes/15/01/houston.html)                                           |
+|   1918 |       15 | 1       | [The Oath of the Negro Voter](https://www.dareyoufight.org/Volumes/15/01/oath_of_the_negro_voter.html)                                    |
+|   1918 |       15 | 1       | [Votes for Women](https://www.dareyoufight.org/Volumes/15/01/votes_for_women.html)                                                        |
+|   1918 |       15 | 1       | [Co-Operation](https://www.dareyoufight.org/Volumes/15/01/cooperation.html)                                                               |
+|   1918 |       15 | 1       | [Hampton](https://www.dareyoufight.org/Volumes/15/01/hampton.html)                                                                        |
+|   1918 |       15 | 1       | [Houston: An N.A.A.C.P. Investigation](https://www.dareyoufight.org/Volumes/15/01/houston.html)                                           |
+|   1918 |       15 | 3       | [Thirteen](https://www.dareyoufight.org/Volumes/15/03/thirteen.html)                                                                      |
+|   1918 |       15 | 4       | [The Shadow of Years](https://www.dareyoufight.org/Volumes/15/04/shadow_of_years.html)                                                    |
+|   1918 |       15 | 4       | [The Burning at Dyersburg: An N.A.A.C.P. Investigation](https://www.dareyoufight.org/Volumes/15/04/burning_at_dyersburg.html)             |
 |   1918 |       15 | 5       | [The Black Man and the Unions](https://www.dareyoufight.org/Volumes/15/05/the_black_man_and_the_unions.html)                              |
 |   1918 |       15 | 6       | [Houston and East St. Louis](https://www.dareyoufight.org/Volumes/15/06/houston_and_east_st_louis.html)                                   |
 |   1918 |       16 | 1       | [The Burning of Jim Mc Ilherron: An N.A.A.C.P. Investigation](https://www.dareyoufight.org/Volumes/16/01/burning_of_jim_mcilherron.html)  |
@@ -121,8 +124,6 @@
 |   1918 |       16 | 5       | [Our Special Grievances](https://www.dareyoufight.org/Volumes/16/05/our_special_greivances.html)                                          |
 |   1918 |       16 | 5       | [The Reward](https://www.dareyoufight.org/Volumes/16/05/reward.html)                                                                      |
 |   1918 |       16 | 5       | [The Work of a Mob](https://www.dareyoufight.org/Volumes/16/05/work_of_a_mob.html)                                                        |
-|   1919 |       15 | 3       | [Thirteen](https://www.dareyoufight.org/Volumes/15/03/thirteen.html)                                                                      |
-|   1919 |       15 | 4       | [The Burning at Dyersburg: An N.A.A.C.P. Investigation](https://www.dareyoufight.org/Volumes/15/04/burning_at_dyersburg.html)             |
 |   1919 |       17 | 3       | [Jim Crow](https://www.dareyoufight.org/Volumes/17/03/jim_crow.html)                                                                      |
 |   1919 |       17 | 4       | [Reconstruction and Africa](https://www.dareyoufight.org/Volumes/17/04/reconstruction_and_africa.html)                                    |
 |   1919 |       17 | 4       | [Africa](https://www.dareyoufight.org/Volumes/17/04/africa.html)                                                                          |

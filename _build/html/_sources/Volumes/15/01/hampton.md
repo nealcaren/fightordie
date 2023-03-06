@@ -2,12 +2,12 @@
 title:   Hampton
 author:  Du Bois, W.E.B.
 journal: The Crisis
-year:    1917
+year:    1918
 volume:  15
 issue:   1
 pages:   10-12
 -->
-# Hampton (1917)
+# Hampton (1918)
 
 The death of Hollis Burke Frissell, principal of Hampton Institute, brings that institution and its work prominently before the public. It is, therefore, peculiarly fitting that the following correspondence should be made public: 
 
@@ -33,4 +33,4 @@ I reiterate my respect for the Institution and my firm belief that it has done g
 W. E. B. <span class = "small-caps">DU BOIS<.span>.
 
 __________
-*Citation:* Du Bois, W.E.B. 1917. "Hampton." *The Crisis*. 15(1):10&ndash;12.
+*Citation:* Du Bois, W.E.B. 1918. "Hampton." *The Crisis*. 15(1):10&ndash;12.
