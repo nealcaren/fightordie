@@ -128,7 +128,7 @@ chapters:
     - file: Volumes/39/09/young_voters.md
     - file: Volumes/40/06/strategy_of_the_negro_voter.md
   - file: Sections/voting
-    sections:
+    sections: 
     - file: Volumes/04/04/politics.md
     - file: Volumes/08/05/last_word_in_politics.md
     - file: Volumes/10/01/the_republicans.md
@@ -137,6 +137,7 @@ chapters:
     - file: Volumes/13/02/muddle.md
     - file: Volumes/14/01/register_and_vote.md
     - file: Volumes/15/01/oath_of_the_negro_voter.md
+    - file: Volumes/20/05/how_shall_we_vote.md
     - file: Volumes/21/02/unreal_campaign.md
     - file: Volumes/22/01/drive.md 
     - file: Volumes/28/03/vote.md
@@ -300,6 +301,7 @@ chapters:
     - file: Volumes/20/05/rise_of_the_west_indian.md
     - file: Volumes/23/01/to_the_world.md
     - file: Volumes/23/04/africa_for_the_africans.md
+    - file: Volumes/27/06/little_portraits.md
     - file: Volumes/37/03/patient_asses.md
     - file: Volumes/37/02/smuts.md
     - file: Volumes/40/11/panafrica_and_new_racial_philosophy.md
