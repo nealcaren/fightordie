@@ -10,7 +10,7 @@ pages:   173-178
 
 # Negro Education (1918)
 
-The casual reader has greeted this study[^ *Negro Education, a Study of the Private and Higher Schools for Colored People in the United States*; prepared in co-operation with the Phelps-Stokes Fund, under the direction of Thomas Jesse Jones, specialist in education of racial groups. Two volumes, 8 vo., 424, 724 pages. Washington 1917.]
+The casual reader has greeted this study[^1] 
 of Negro education with pleasure. It is the first attempt to cover the field of secondary and higher education among colored Americans with anything like completeness. It is published with the sanction and prestige of the United States government and has many excellent points as, for instance, full statistics on such matters as.the public expenditure for Negro school systems, the amount of philanthropy given private schools, Negro property, etc.; there is excellent and continued insistence upon the poor support which the colored public schools are receiving today. The need of continued philanthropic aid to private schools is emphasized and there are several good maps. Despite, then, some evidently careless proofreading (pages 59, 129, 157), the ordinary reader unacquainted with the tremendous ramifications of the Negro problem will hail this report with unstinted praise. 
 
 Thinking Negroes, however, and other persons who know the problem of educating the American Negro will regard the Jones' report, despite its many praiseworthy features, as a dangerous and in many respects unfortunate publication. 
@@ -86,6 +86,8 @@ If philanthropic agencies could unite for certain obvious great movements how sp
 ## Summary 
 
 Here, then, is the weakness and sinister danger of Mr. Jones' report. It calls for a union of philanthropic effort with no attempt to make sure of the proper and just lines along which this united effort should work. It calls for cooperation with the white South without insisting on the Negro being represented by voice and vote in such "cooperation," and it calls for a recasting of the educational program for Negroes without insisting on leaving the door of opportunity open for the development of a thoroughly trained class of leaders at the bottom, in the very beginnings of education, as well as at the top. 
+
+[^1] *Negro Education, a Study of the Private and Higher Schools for Colored People in the United States*; prepared in co-operation with the Phelps-Stokes Fund, under the direction of Thomas Jesse Jones, specialist in education of racial groups. Two volumes, 8 vo., 424, 724 pages. Washington 1917.
 
 ______________
 *Citation:* Du Bois, W.E.B. 1918. "Negro Education." *The Crisis*. 15(4):173&ndash;178.
