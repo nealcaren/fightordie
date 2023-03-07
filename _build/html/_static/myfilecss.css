@@ -54,6 +54,7 @@ h1, h2, h3, h4 {
   background-color: #fffff8;
   color: #111;
 }
+
 .footnote-reference brackets {
   font-family: "et-book", "Palatino", "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
   font-size: 0.75em;
@@ -263,6 +264,12 @@ hr .docutils {
 .right {
   float: right;
 }
+
+.footnote-reference  {
+  font-size: 0.75em;
+}
+
+
 
 @media screen and (max-device-width: 480px) {
   blockquote div>p {
