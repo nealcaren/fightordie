@@ -25,6 +25,7 @@ chapters:
   - file: Volumes/12/05/conduct_not_color.md
   - file: Volumes/17/06/for_what.md
   - file: Volumes/19/01/social_equality.md
+  - file: Volumes/19/05/again_social_equality.md
   - file: Volumes/20/03/race_intelligence.md
   - file: Volumes/21/01/social_equality_of_blacks_and_whites.md
   - file: Volumes/24/01/slavery.md
@@ -213,6 +214,7 @@ chapters:
     - file: Volumes/04/03/organized_labor.md
     - file: Volumes/15/05/the_black_man_and_the_unions.md
     - file: Volumes/18/05/labor_omnia_vincit.md
+    - file: Volumes/19/05/dives.md
     - file: Volumes/25/06/negro_and_labor.md
     - file: Volumes/28/04/american_federation_of_labor.md
     - file: Volumes/31/02/black_man_and_labor.md
@@ -370,6 +372,7 @@ chapters:
     sections:
     - file: Volumes/10/03/education.md
     - file: Volumes/15/01/hampton.md
+    - file: Volumes/15/04/negro_education.md
     - file: Volumes/34/10/hampton_strike.md
     - file: Volumes/36/05/optimism.md
     - file: Volumes/37/02/education.md
