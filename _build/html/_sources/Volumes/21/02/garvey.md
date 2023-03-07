@@ -36,7 +36,7 @@ Of Garvey's curious credulity and suspicions one example will suffice: In March,
 
 *To be concluded in January.*
 
-[^fn1] Of the 15 names of his fellow officers in 1914 not a single one appears in 1918; of the 18 names of officers published in 1918 only 6 survive in 1919; among the small list of principal officers published in 1920 I do not find a single name mentioned in 1919. 
+[^fn1]: Of the 15 names of his fellow officers in 1914 not a single one appears in 1918; of the 18 names of officers published in 1918 only 6 survive in 1919; among the small list of principal officers published in 1920 I do not find a single name mentioned in 1919. 
 
 ______________
 
