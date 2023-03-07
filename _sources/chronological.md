@@ -113,6 +113,7 @@
 |   1918 |       15 | 1       | [Hampton](https://www.dareyoufight.org/Volumes/15/01/hampton.html)                                                                        |
 |   1918 |       15 | 1       | [Houston: An N.A.A.C.P. Investigation](https://www.dareyoufight.org/Volumes/15/01/houston.html)                                           |
 |   1918 |       15 | 3       | [Thirteen](https://www.dareyoufight.org/Volumes/15/03/thirteen.html)                                                                      |
+|   1918 |       15 | 4       | [Negro Education](https://www.dareyoufight.org/Volumes/15/04/negro_education.html)                                                        |
 |   1918 |       15 | 4       | [The Shadow of Years](https://www.dareyoufight.org/Volumes/15/04/shadow_of_years.html)                                                    |
 |   1918 |       15 | 4       | [The Burning at Dyersburg: An N.A.A.C.P. Investigation](https://www.dareyoufight.org/Volumes/15/04/burning_at_dyersburg.html)             |
 |   1918 |       15 | 5       | [The Black Man and the Unions](https://www.dareyoufight.org/Volumes/15/05/the_black_man_and_the_unions.html)                              |
@@ -154,6 +155,8 @@
 |   1920 |       19 | 3       | [Brothers, Come North](https://www.dareyoufight.org/Volumes/19/03/brothers_come_north.html)                                               |
 |   1920 |       19 | 4       | [Coöperation](https://www.dareyoufight.org/Volumes/19/04/cooperation.html)                                                                |
 |   1920 |       19 | 4       | [Crime](https://www.dareyoufight.org/Volumes/19/04/crime.html)                                                                            |
+|   1920 |       19 | 5       | [Again, Social Equality](https://www.dareyoufight.org/Volumes/19/05/again_social_equality.html)                                           |
+|   1920 |       19 | 5       | [Dives, Mob, and Scab](https://www.dareyoufight.org/Volumes/19/05/dives.html)                                                             |
 |   1920 |       20 | 1       | [Get Ready](https://www.dareyoufight.org/Volumes/20/01/get_ready.html)                                                                    |
 |   1920 |       20 | 1       | [White Co-Workers](https://www.dareyoufight.org/Volumes/20/01/white_coworkers.html)                                                       |
 |   1920 |       20 | 3       | [Race Intelligence](https://www.dareyoufight.org/Volumes/20/03/race_intelligence.html)                                                    |
