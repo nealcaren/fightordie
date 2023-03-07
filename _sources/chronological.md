@@ -165,6 +165,7 @@
 |   1920 |       21 | 1       | [The Social Equality of Whites and Blacks](https://www.dareyoufight.org/Volumes/21/01/social_equality_of_blacks_and_whites.html)          |
 |   1920 |       21 | 1       | [Suffrage](https://www.dareyoufight.org/Volumes/21/01/suffrage.html)                                                                      |
 |   1920 |       21 | 2       | [The Unreal Campaign](https://www.dareyoufight.org/Volumes/21/02/unreal_campaign.html)                                                    |
+|   1920 |       21 | 2       | [Marcus Garvey](https://www.dareyoufight.org/Volumes/21/02/garvey.html)                                                                   |
 |   1920 |       21 | 3       | [Election Day in Florida](https://www.dareyoufight.org/Volumes/21/03/election_day.html)                                                   |
 |   1921 |       22 | 3       | [Amity](https://www.dareyoufight.org/Volumes/22/03/amity.html)                                                                            |
 |   1921 |       22 | 3       | [Libelous Film](https://www.dareyoufight.org/Volumes/22/03/libelous_film.html)                                                            |
