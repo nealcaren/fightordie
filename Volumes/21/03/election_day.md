@@ -2,12 +2,12 @@
 title:   Election Day in Florida
 author:  White, Walter F.
 journal: The Crisis
-year:    1920
+year:    1921
 volume:  21
 issue:   3
 pages:   106-109
 -->
-# Election Day in Florida (1920)
+# Election Day in Florida (1921)
 
 An unknown number of dead, men of property and standing forced to leave their homes and families under threat of death, thousands of qualified voters debarred from casting their ballots---these constitute a portion of the results of the elections of 1920 in the state of Florida. To that list might well be added an increased bitterness on the part of both white and colored people towards each other and another black mark entered in the books of colored people against the whites for what the former had to suffer. 
 
@@ -64,4 +64,4 @@ Unless the problem of the ballot is solved, either through reduction of Southern
 
 ______________
 
-*Citation:* White, Walter F. 1920. "Election Day in Florida." *The Crisis*. 21(3):106&ndash;109.
+*Citation:* White, Walter F. 1921. "Election Day in Florida." *The Crisis*. 21(3):106&ndash;109.
