@@ -68,9 +68,6 @@ To sum up: Garvey is a sincere, hard-working idealist; he is also a stubborn, do
 
 Let the followers of Mr. Garvey insist that he get down to bed-rock business and make income and expense balance; let them gag Garvey's wilder words, and still preserve his wide power and influence. American Negro leaders are not jealous of Garvey---they are not envious of his success; they are simply afraid of his failure, for his failure would be theirs. He can have all the power and money that he can efficiently and honestly use, and if in addition he wants to prance down Broadway in a green shirt, let him---but do not let him foolishly overwhelm with bankruptcy and disaster one of the most interesting spiritual movements of the modern Negro world. 
 
---------------
-*Citation:* Du Bois, W.E.B. 1921. "Marcus Garvey" *The Crisis*. 27(6): 273-274.
-
 ______________
 
 *Citation:* Du Bois, W.E.B. 1921. "Marcus Garvey." *The Crisis*. 21(3):112&ndash;115.
