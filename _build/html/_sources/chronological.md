@@ -199,6 +199,7 @@
 |   1923 |       26 | 3       | [The Tuskegee Hospital](https://www.dareyoufight.org/Volumes/26/03/tuskegee_hospital.html)                                                |
 |   1923 |       26 | 3       | [Political Straws](https://www.dareyoufight.org/Volumes/26/03/political_straws.html)                                                      |
 |   1923 |       26 | 4       | [The Tragedy of 'Jim Crow'](https://www.dareyoufight.org/Volumes/26/04/tradgedy_of_jim_crow.html)                                         |
+|   1923 |       26 | 5       | [Florida](https://www.dareyoufight.org/Volumes/26/05/florida.html)                                                                        |
 |   1924 |       27 | 3       | [The Black Man and the Wounded World](https://www.dareyoufight.org/Volumes/27/03/black_man_and_the_wounded_world.html)                    |
 |   1924 |       27 | 4       | [Kenya](https://www.dareyoufight.org/Volumes/27/04/kenya.html)                                                                            |
 |   1924 |       27 | 4       | [The Younger Literary Movement](https://www.dareyoufight.org/Volumes/27/06/little_portraits.html)                                         |
