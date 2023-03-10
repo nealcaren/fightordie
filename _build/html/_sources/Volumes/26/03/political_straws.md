@@ -1,119 +1,51 @@
 <!--
-title:   On Being Crazy
+title:   Political Straws
 author:  Du Bois, W.E.B.
 journal: The Crisis
 year:    1923
 volume:  26
-issue:   2
-pages:   56-57
+issue:   3
+pages:   124-126
 -->
-# On Being Crazy (1923)
 
-I was one o'clock and I was hungry. I walked into a restaurant, seated myself and reached for the bill-of-fare. My table companion rose.
+# Political Straws (1923)
 
-"Sir," said he, "do you wish to force your company on those who do not want you?"
+(*From information furnished by Morris Lewis of Chicago and R. McCants Andrews of Durham, N.C.*) 
 
-No, said I, I wish to eat.
+Next year a new President of the 
+United States, new members of the House of Representatives and one-third of the Senators are to be elected. The attitude of Negro voters is important; more Negroes will vote next year than ever before in the history of the United States. The increased migration to the North, the naturalization of foreigners and the small but steady increase by birth will probably add one quarter of a million voters to the rolls, making a total Negro vote in Northern and border states of between three-fourths and one million voters. 
 
-"Are you aware, Sir, that this is social equality?"
+These voters are incensed against both the Republican and Democratic parties. They remember Democrats because of the treatment of black men during the War, the 
+segregation in government departments and the continued mob violence, disfranchisement and "Jim Crow" legislation in the "rotten borough" districts of the South. They remember the absolute failure of the Republicans to redeem or seriously try to redeem their campaign pledge to pass federal legislation against lynching, or to recognize in any way the just demands of the Negro constituency. 
 
-Nothing of the sort, Sir, it is hunger,---and I ate.
+Under these circumstances what will the Negro voter do? Is he intelligent enough to guide his political boat in such rough waters? There have been two chances to judge: one in a city election in Baltimore and the other in a city election in Chicago. 
 
-The day's work done, I sought the theatre. As I sank into my seat, the lady shrank and squirmed.
+In Chicago, the black man has been counted as the secure appendage of the Republicans: In the second and third wards of Chicago, the large colored vote is registered. 
+On the West Side, North Side, in Englewood, Woodlawn, the Hyde Park and old 380th Ward districts, there are also varied numbers of such voters from a few hundred to twenty thousand and more. 
 
-I beg pardon, I said.
+The principal candidates for Mayor in the recent election were Postmaster Arthur Lueder, Republican, and William E. Dever, Judge of the Superior Court, Democrat. Judge Dever was the only candidate of his party in the democratic primaries. Mr. Lueder was one of three candidates of his party in the Republican primaries. He was the choice of the *Chicago Tribune*, of Senator Medill McCormick and of Attorney General Brundage, an agency and individuals bearing the reputation of being lukewarm or unfriendly to the interests of the colored people. It might also be said that in the Republican primaries the colored districts supported the candidacy of Judge Barasa, who had been eminently fair in hearings before him in connection with the race riots of 1919, again demonstrating that the colored voter was doing some thinking. Aside from the election of a Mayor, a City Clerk and City Treasurer were to be elected. 
 
-"Do you enjoy being where you are not wanted?" she asked coldly.
+The election returns show just how discerning was the vote of the second and third wards where so many colored people live. The second ward gave Dever, Democrat, 8,269; Lueder, Republican, 7,119. These two wards contributed over 17,487 of the 108,000 plurality for Dever. And in these two wards the Republican candidates for City Clerk and City Treasurer got more votes than the Democratic candidates for the respective offices, thus showing that the colored voter did not vote a "straight" democratic ticket. 
 
-Oh no, I said.
+Aside from reasons already assigned, and of more importance, was the thought on the part of black voters that the Republican party leaders should be taught a lesson before the 1924 elections; also, there was the attitude of resentment on the part of colored voters because Mayor William Hale Thompson was coerced into withdrawing from the mayoralty race; Negroes generally were not unmindful of the fair treatment accorded them by Mayor Thompson. 
 
-"Well you are not wanted here."
+As a practical result of the election in Chicago, Major A. E. Patterson and Earl B. Dickerson, both colored lawyers, have been appointed on the staff of Assistant Corporation Counsels of the City of Chicago by the new Democratic Mayor, Hon. William E. 
+Dever. Major Patterson says: "If Judge Dever and his political associates give the Negro a square deal, and it is generally believed that they will, there will be little reason to believe the Democratic party will not receive a fair proportion of the Negro votes in future campaigns." 
 
-I was surprised. I fear you are mistaken, I said. I certainly want the music and I like to think the music wants me to listen to it.
+In Baltimore, the situation was more complicated: the Republican candidate, Broening, then Mayor, was opposed by a former Mayor Preston running as an Independent Democrat and the regular democratic nominee, Jackson. The registered Negro vote in Baltimore is over 30,000, concentrated largely in nine wards. The colored people were against Mayor Broening and issued the following card to show their reasons: 
 
-"Usher," said the lady, "this is social equality."
+> *Why we are against Mayor Broening*<p>Because---Mr. Broening permitted the Ku Klux Klan to parade the city when a Democratic Governor refused them the use of the state armories. <p> Because---Mr. Broening takes the credit for opening one new school (colored) which was started by a democratic councilman. 
+<p> Because---Mr. Broening is endeavoring to put the proposed new Colored High School in politics; but the securing of this was the result of long years of protracted effort and the loyal support of our group to all school loans. 
+<p> Because---Mr. Broening and his party leaders double-crossed the Colored Councilmen and their constituency in the famous constable fight; this, we will never forget nor forgive. 
+<p> Because---Mr. Broening and his School Board have refused to equalize the Colored Teachers' salaries for equal service. 
+<p>Vote for Mr. Howard W. Jackson, for Mayor.
 
-No, madame, said the usher, it is the second movement of Beethoven's
+On the other hand, Preston took a stand diametrically opposed to the new colored high school on which ground was recently broken and the contract let although the building has not actually been begun. Jews and Catholics turned against Broening on account of the Ku Klux Klan incident. The dilemma before the colored voters was a difficult one. Many of them refused to vote for a Democrat under any circumstances and kept away from the Polls; those who did vote, voted very largely for Jackson. But there again the Maryland ballot is a very complicated affair, and any attempt to vote a "split" ticket usually results in the ballot being thrown out. Those Negroes, therefore, who voted for Jackson did not dare to attempt to "split" their ticket and vote also for their own two colored members of the Council. The result was, that both Broening and the two colored members were defeated and Jackson triumphed over the demagogue Preston. 
 
-After the theatre, I sought the hotel where I had sent my baggage. The clerk scowled.
+When we add these two incidents to the fact that in New York last year Mayor Hylan swept Negro Harlem, we have a pretty clear idea of the strategy of the Negro voter: He is going, *first*, to defeat his 
+known enemies, even if that involves voting for a friendly Democrat; he is going, *secondly*, to vote for his friends, whether Democrats or Republicans; *thirdly*, he is going to refuse, unless compelled, to vote the straight ticket of any party. 
 
-"What do you want?" he asked.
-
-Rest, I said.
-
-"This is a white hotel," he said.
-
-I looked around. Such a color scheme requires a great deal of cleaning, I said, but I don't know that I object.
-
-"We object," said he.
-
-Then why---, I began, but he interrupted.
-
-"We don't keep 'n&#11834;s'," he said, "we don't want social equality."
-
-Neither do I. I replied gently, I want a bed.
-
-I walked thoughtfully to the train. I'll take a sleeper through Texas. I'm a bit dissatisfied with this town.
-
-"Can't sell you one."
-
-I only want to hire it, said I, for a couple of nights.
-
-"Can't sell you a sleeper in Texas," he maintained. "They consider that social equality."
-
-I consider it barbarism, I said, and I think I'll walk.
-
-Walking, I met a wayfarer who immediately walked to the other side of the road where it was muddy. I asked his reasons.
-
-"'N&#11834;s' is dirty," he said.
-
-So is mud, said I. Moreover I added, I am not as dirty as you---at least, not yet.
-
-"But you're a 'n', ain't you?" he asked.
-
-My grandfather was so-called.
-
-"Well then!" he answered triumphantly.
-
-Do you live in the South? I persisted, pleasantly.
-
-"Sure," he growled, "and starve there."
-
-I should think you and the Negroes might get together and vote out starvation.
-
-"We don't let them vote."
-
-We? Why not? I said in surprise.
-
-"'N&#11834;s' is too ignorant to vote."
-
-But, I said, I am not so ignorant as you.
-
-"But you're a 'n&#11834;'."
-
-Yes, I'm certainly what you mean by that.
-
-"Well then!" he returned, with that curiously inconsequential note of triumph. "Moreover," he said, "I don't want my sister to marry a n&#11834;."
-
-I had not seen his sister, so I merely murmured, let her say, no.
-
-"By God you shan't marry her, even if she said yes."
-
-But,---but I don't want to marry her, I answered a little perturbed at the personal turn.
-
-"Why not!" he yelled, angrier than ever.
-
-Because I'm already married and I rather like my wife.
-
-"Is she a 'n&#11834;'?" he asked suspiciously.
-
-Well, I said again, her grandmother---was called that.
-
-"Well then!" he shouted in that oddly illogical way.
-
-I gave up. Go on, I said, either you are crazy or I am.
-
-"We both are," he said as he trotted along in the mud.
+Is it not unfortunate that at this critical period in the history of the Negro voter, the Farmer-Labor party is "ducking" all the issues in which black men are primarily interested; and the Socialists are openly refusing to "fraternize" with Negroes? 
 
 ______________
-*Citation:* Du Bois, W.E.B. 1923. "On Being Crazy." *The Crisis*. 26(2):56&ndash;57.
+*Citation:* Du Bois, W.E.B. 1923. "Political Straws." *The Crisis*. 26(3):124&ndash;126.
