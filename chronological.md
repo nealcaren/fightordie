@@ -195,6 +195,7 @@
 |   1922 |       25 | 6       | [The Negro and Labor](https://www.dareyoufight.org/Volumes/25/06/negro_and_labor.html)                                                    |
 |   1923 |       24 | 3       | [Intentions](https://www.dareyoufight.org/Volumes/24/03/intentions.html)                                                                  |
 |   1923 |       26 | 2       | [A University Course in Lynching](https://www.dareyoufight.org/Volumes/26/02/university_course_in_lynching.html)                          |
+|   1923 |       26 | 2       | [On Being Crazy](https://www.dareyoufight.org/Volumes/26/03/political_straws.html)                                                        |
 |   1923 |       26 | 2       | [On Being Crazy](https://www.dareyoufight.org/Volumes/26/02/on_being_crazy.html)                                                          |
 |   1923 |       26 | 4       | [The Tragedy of 'Jim Crow'](https://www.dareyoufight.org/Volumes/26/04/tradgedy_of_jim_crow.html)                                         |
 |   1924 |       27 | 3       | [The Black Man and the Wounded World](https://www.dareyoufight.org/Volumes/27/03/black_man_and_the_wounded_world.html)                    |
