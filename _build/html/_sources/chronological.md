@@ -268,6 +268,7 @@
 |   1928 |       35 | 3       | [Black and White Workers](https://www.dareyoufight.org/Volumes/35/03/black_and_white_workers.html)                                        |
 |   1928 |       35 | 3       | [The Name Negro](https://www.dareyoufight.org/Volumes/35/03/name_negro.html)                                                              |
 |   1928 |       35 | 5       | [Our Economic Future](https://www.dareyoufight.org/Volumes/35/05/our_economic_future.html)                                                |
+|   1928 |       35 | 5       | [The Browsing Reader](https://www.dareyoufight.org/Volumes/35/05/browsing_reader.html)                                                    |
 |   1928 |       35 | 6       | [Two Novels](https://www.dareyoufight.org/Volumes/35/06/two_novels.html)                                                                  |
 |   1928 |       35 | 6       | [So the Girl Marries](https://www.dareyoufight.org/Volumes/35/06/so_the_girl_marries.html)                                                |
 |   1928 |       35 | 8       | [The Negro Voter](https://www.dareyoufight.org/Volumes/35/08/negro_voter.html)                                                            |
