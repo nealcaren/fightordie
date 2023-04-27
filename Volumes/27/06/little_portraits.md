@@ -1,66 +1,42 @@
 <!--
-title:   The Younger Literary Movement
-author:  Du Bois, W.E.B. and Alan Locke
+title:   Little Portraits of Africa
+author:  Du Bois, W.E.B.
 journal: The Crisis
 year:    1924
 volume:  27
-issue:   4
-pages:   161-163
+issue:   6
+pages:   272-274
 -->
 
-# The Younger Literary Movement (1924)
+# Little Portraits of Africa (1924)
 
-<h2>I</h2>
+## The Place, The People
 
-There have been times when we writers of the older set have been afraid that the procession of those who seek to express the life of the American Negro was thinning and that none were coming forward to fill the footsteps of the fathers. Dunbar is dead; Chesnutt is silent; and Kelly Miller is mooning after false gods while Brawley and Woodson are writing history rather than literature. But even as we ask "Where are the young Negro artists to mold and weld this mighty material about us?"---even as we ask, they come. 
+Africa is vegetation. It is the riotous, unbridled bursting life of leaf and limb. It is sunshine---pitiless shine of blue rising from morning mists and sinking to hot night shadows. And then the stars--- very near are the stars to Africa, near and bright and curiously arrayed. The tree is Africa. The strong, blinding strength of it---the wide deep shade, the burly lavish height of it. Animal life is there wild and abundant---perhaps in the inner jungle I should note it more but here the herb is triumphant, savagely sure---such beautiful shrubbery, such splendor of leaf and gorgeousness of flower I have never seen.
 
-There are two books before me, which, if I mistake not, will mark an epoch: a novel by Jessie Fauset and a book of stories and poems by Jean Toomer. There are besides these, five poets writing: Langston Hughes, Countée Cullen, Georgia Johnson, Gwendolyn Bennett and Claude McKay. Finally, Negro men are appearing as essayists and reviewers, like Walter White and Eric Walrond. (And even as I write comes the news that a novel by Mr. White has just found a publisher.) Here then is promise sufficient to attract us. 
+And the people! Last night I went to Kru-town and saw a Christmas masque. There were young women and men of the color of warm ripe horse chestnuts, clothed in white robes and turbaned. They played the Christ story with sincerity, naiveté and verve. Conceive "Silent Night" sung in Kru by this dark white procession with flaming candles; the little black mother of Christ crossing with her baby, in figured blue, with Joseph in Mandingan fez and multi-colored cloak and beside them on her worshipping knees the white wreathed figure of a solemn dark angel. The shepherds watched their flocks by night, the angels sang; and Simeon, raising the baby high in his black arms, sang with my heart in English Kru-wise, *"Lord now lettest thou thy servant depart in peace for mine eyes have seen thy salvation!"* 
 
- We recognize the exquisite abandon of a new day in Langston Hughes' "Song For a Banjo". He sings: 
+Liberia is gay in costume---the thrifty Krus who burst into color of a holiday; the proud Veys always well-gowned; the Liberian himself often in white. The children sometimes in their own beautiful skins. 
 
-<div class="poem">
-<p class="verse">Shake your brown feet, Liza, 
-<p class="verse">Shake 'em Liza, chile, 
-<p class="verse">Shake your brown feet, Liza,
-<p class="verse indent"> (The music's soft and wile). 
-<p class="verse">Shake your brown feet, Liza,
-<p class="verse indent">(The Banjo's sobbin' low), 
-<p class="verse">The sun's goin' down this very night&mdash;
-<p class="verse">Might never rise no mo'. 
-</div>
+## Sunday, January 13, 1924 
 
-Countée Cullen in his "Ballad of the Brown Girl" achieves eight lyric lines that are as true as life itself. There is in Claude McKay's "If We Must Die" a strain martial and mutinous. There are other echoes---two from dead poets Jamison and Cotter who achieved in their young years long life if not immortality. But this essay is of two books. 
+I have walked three hours in the African bush. In the high bush mighty trees arose draped, with here and there the flash of flower and call of bird. The monkey sentinel cried and his fellows dashed down the great tree avenues. The way was marked---yonder the leopard that called last night under the moon, a bush cow's hoof; a dainty tread of antelope. We leaped the trail of driver ants and poked at the great houses of the white ants. The path rose and wound and fell now soft in green glow, now golden, now shimmery through the water as we balanced on a bare log. There was whine of monkey, scramble of timid unseen life, glide of dark snake. Then came the native farms---coffee, cocoa, plantain, cassava. Nothing is more beautiful than an African village---its harmonious colorings---its cleanliness, its dainty houses with the kitchen palaver place of entertainment, its careful delicate decorations and then the people. I believe that the African form in color and curve is the beautifulest thing on earth; the face is not so lovely---though often comely with perfect teeth and shining eyes,---but the form of the slim limbs, the muscled torso, the deep full breasts! 
 
-The world of black folk will some day arise and point to Jean Toomer as a writer who first dared to emancipate the colored world from the conventions of sex. It is quite impossible for most Americans to realize how straight-laced and conventional thought is within the Negro World, despite the very unconventional acts of the group. Yet this contradiction is true. And Jean Toomer is the first of our writers to hurl his pen across the very face of our sex conventionality. In "Cane" (Boni & Liveright, New York), one has only to take his women characters seriatim to realize this: Here is Karintha, an innocent prostitute; Becky, a fallen white woman; Carma, a tender Amazon of unbridled desire; Fern, an unconscious wanton; Esther, a woman who looks age and bastardy in the face and flees in despair; Louise, with a white and a black lover; Avey, unfeeling and unmoral; and Doris, the cheap chorus girl. These are his women, painted with a frankness that is going to make his black readers shrink and criticize; and yet they are done with a certain splendid, careless truth. 
+The bush is silence. Silence of things to be, silence vocal with infinite minor music and flutter and tremble---but silence, deep silence of the great void of Africa. 
 
-Toomer does not impress me as one who knows his Georgia but he does know human beings; and, from the background which he has seen slightly and heard of all his life through the lips of others, he paints things that are true, not with Dutch exactness, but rather with an impressionist's sweep of color. He is an artist with words but a conscious artist who offends often by his apparently undue striving for effect. On the other hand his powerful book is filled with felicitous phrases---Karintha, "carrying beauty perfect as the dusk when the sun goes down"',--- 
+And the palms; some rose and flared like green fine work; some flared before they rose; some soared and drooped; some were stars and some were sentinels; then came the ferns---the feathery delicate things of grottos and haunts with us, leapt and sang in the sun---they thrust their virgin tracery up and out and almost to trees. Bizarre shapes of grass and shrub and leaf greeted us as though some artist all Divine was playing and laughing and trying every trick of his bewitched pencil above the mighty buildings of the ants. 
 
-<div class="poem">
-<p class="verse"> Hair—
-<p class="verse">Silver-grey 
-<p class="verse">Like streams of stars
-</div>
+I am riding on the singing heads of black boys swinging in a hammock. The smooth black bodies swing and sing, the neck set square, the hips sway. O lovely voices and sweet young souls of Africa! 
 
-Or again, "face flowed into her eyes---flowed in soft creamy foam and plaintive ripples". His emotion is for the most part entirely objective. One does not feel that he feels much and yet the fervor of his descriptions shows that he has felt or knows what feeling is. His art carries much that is difficult or even impossible to understand. The artist, of course, has a right deliberately to make his art a puzzle to the interpreter (the whole world is a puzzle) but on the other hand I am myself unduly irritated by this sort of thing. I cannot, for the life of me, for instance see why Toomer could not have made the tragedy of Carma something that I could understand instead of vaguely guess at; "Box Seat" muddles me to the last degree and I am not sure that I know what "Kabnis" is about. All of these essays and stories, even when I do not understand them, have their strange flashes of power, their numerous messages and numberless reasons for being. But still for me they are partially spoiled. 
+## Monrovia
 
-Toomer strikes me as a man who has written a powerful book but who is still watching for the fullness of his strength and for that calm certainty of his art which will undoubtedly come with years. 
+Monrovia is a city set upon a hill. With coy African modesty her face is half turned from the bold and boisterous ocean and her wide black eyes gaze dreamfully up the Stockton and St. Paul. Her color is white and green and her head of homes rises slowly and widely in spacious shading verandah toward the great headland of Mesurado where the lighthouse screams to wandering ships. Her hair is plaited decently on mighty palm leaves and mangoes; her bare feet, stained with travel, torn with ancient cicatriced wounds drabble in the harbor waters down on Water Street and shun the mud town Plymouth Rock which is Providence Island. Her feet are ugly and old, but oh her hands, her smooth and black and flying hands are beautiful and they linger on roof and porch, in wide-throated grassy street and always they pat and smooth her hair, the green and sluggish palms of her heavy beautiful hair. And there is gold in her hair. 
 
-It had been my intention when I began this essay to discuss also Miss Fauset's novel. But Mr. Locke has sent us such an admirable and discriminating disquisition on this book that I gladly yield to him. 
-<span class="right">--W. E. B. D.</span>
+## Africa
 
-<h2>II</h2> 
+The spell of Africa is upon me. The ancient witchery of her medicine is burning my drowsy, dreamy blood. This is not a country, it is a world---a universe of itself and for itself, a thing Different, Immense, Menacing, Alluring. It is a great black bosom where the Spirit longs to die. It is life so burning, so fire encircled that one bursts with terrible soul inflaming life. One longs to leap against the sun and then calls, like some great hand of fate, the slow, silent crushing power of almighty sleep---of Silence, of immovable Power beyond, within, around. Then comes the calm. The dreamless beat of midday stillness at dusk, at dawn, at noon, always. Things move---black shiny bodies, perfect bodies, bodies of sleek unearthly poise and beauty. Eyes languish, black eyes---slow eyes, lovely and tender eyes in great dark formless faces. Life is slow here. Impetuous Americans quiver in impetuous graves. I saw where the ocean roars to the soul of Henry Highland Garnet. Life slows down and as it slows it deepens; it rises and descends to immense and secret places. Unknown evil appears and unknown good. Africa is the Spiritual Frontier of human kind---oh the wild and beautiful adventures of its taming! But oh! the cost thereof---the endless, endless cost! Then will come a day---an old and ever, ever young day when there will spring in Africa a civilization without coal, without noise, where machinery will sing and never rush and roar, and where men will sleep and think and dance and lie prone before the rising sons, and women will be happy. 
 
-The novel that the Negro intelligentzia have been clamoring for has arrived with Jessie Fauset's first novel, "There is Confusion" (Boni & Liveright, New York). What they have been wanting, if I interpret rightly, is not merely a race story told from the inside, but a cross section of the race life higher up the social pyramid and further from the base-line of the peasant and the soil than is usually taken. We scarcely realize how by reaction to social prejudice we have closed our better circles physically and psychologically: it is not always the fault of the novelist that he can depict only the peasant type and his urban analogue, the Negro of the slums. But here in refreshing contrast with the bulk of fiction about the Negro, we have a novel of the educated and aspiring classes. Miss Fauset has, however, not made the error of growing rootless flowers or exploring detached levels. Indeed she has sketched a Negro group against a wide social background of four generations---almost as much perspective as can be gotten on any social group in America, and moreover has not glossed over the slave régime, its ugly facts and its uglier consequences, though she has treated it incidentally as part of the genealogy and heredity of her characters. It is essentially a novel of blood and ancestry such as might be expected to come from the Philadelphia tradition which the author shares, and the Philadelphia scene which is part of her story. Yet it is too contemporary, not merely in incident, but in the phase of the race problem which it reflects, to be a period novel, a resurrection of the past. On the contrary it throbs with some of the latest reactions of the race situation in this country upon the psychology and relations of colored and white Americans of the more intelligent classes. It is this delineation of the problem as seen from the heights of respectability and from at least a plateau of culture that sharply differentiates Miss Fauset's novel from others. 
-
-Joanna Marshall---more a heroine than most heroines, since she actually focusses and dominates in turn the life of her family, the estrangements and marriages of her brother and of her lover---is a strange character at war against herself. One part stoic, one part artistic, one part human with an emotional intensity and sincerity that is not Caucasian, she achieves success in her art at the very instant of her greatest disillusionment; but not before she has played unconscious havoc with several lives by her ambition and unswerving devotion to the ideals of success. 
-
-Complicated as these lives are at almost every turn by the peculiar handicaps and confusions of color, it is well for the artistry and the worth of the book that the *primary confusions are those more universal ones of human nature and its type-psychologies*. The atmosphere of the book is that of Quaker faith and sober optimism, and its constructive suggestion is that of an eventual mutual understanding and coöperation through the discipline of experience. It is as though two antithetic sides of life, male and female, white and black, had each to work out its own chastening and enlargement through sorrow and disillusionment to find itself, late but not always too tragically late, able to rise from the level of confusion to the level of coöperation and understanding: 
-
-The book has what I maintain is the prime essential for novels with such subject matter---social perspective, social sanity. A problem novel without this is either a raw and brutal cross-sectioning or medicated and unpalatable propaganda. From these two evils, the book happily and skillfully escapes. Of the style, one may say, that it fits the subject---and in this day of the confusion and compounding of styles, what can be better said? Certainly it sustains with interest a story that is more heavily ballasted with truth than two or three of the usual run of social novels that sail on a breezy style to the heavens of "six best sellers". So that it can be confidently commended to that increasing band who, thank God, want truth with their fiction, and who will welcome especially upon the race question and its reactions on the best types and classes of colored folk, a social document of sterling and intimate character. <span class="right">--A. L.</span>
-
-<h2>III</h2>
-
-These, then, are the two books of the younger Negro Movement; read them and enjoy them as I have done and spread the glad tidings. <span class="right">--W. E. B. D.</span>
+The objects of life will be revolutionized. Our duty will not consist in getting up at seven, working furiously for six, ten and twelve hours, eating in sullen ravenousness or extraordinary repletion. No---We shall dream the day away and in cool dawns, in little swift hours, do all our work.
 
 _____
-*Citation:* Du Bois, W.E.B. and Alan Locke. 1924. "The Younger Literary Movement." *The Crisis*. 27(4):161&ndash;163.
+*Citation:* Du Bois, W.E.B. 1924. "Little Portraits of Africa." *The Crisis*. 27(6):272&ndash;274.
