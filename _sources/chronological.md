@@ -150,7 +150,7 @@
 |   1920 |       19 | 3       | [The Macon Telegraph](https://www.dareyoufight.org/Volumes/19/03/macon_telegraph.html)                                                    |
 |   1920 |       19 | 3       | [American Legion, Again](https://www.dareyoufight.org/Volumes/19/03/american_legion_again.html)                                           |
 |   1920 |       19 | 3       | [Sex Equality](https://www.dareyoufight.org/Volumes/19/03/sex_equality.html)                                                              |
-|   1920 |       19 | 3       | [Race Pride](https://www.dareyoufight.org/Volumes/19/03/england.html)                                                                     |
+|   1920 |       19 | 3       | [England](https://www.dareyoufight.org/Volumes/19/03/england.html)                                                                        |
 |   1920 |       19 | 3       | [Race Pride](https://www.dareyoufight.org/Volumes/19/03/race_pride.html)                                                                  |
 |   1920 |       19 | 3       | [Brothers, Come North](https://www.dareyoufight.org/Volumes/19/03/brothers_come_north.html)                                               |
 |   1920 |       19 | 4       | [Coöperation](https://www.dareyoufight.org/Volumes/19/04/cooperation.html)                                                                |
@@ -160,7 +160,7 @@
 |   1920 |       20 | 1       | [Get Ready](https://www.dareyoufight.org/Volumes/20/01/get_ready.html)                                                                    |
 |   1920 |       20 | 1       | [White Co-Workers](https://www.dareyoufight.org/Volumes/20/01/white_coworkers.html)                                                       |
 |   1920 |       20 | 3       | [Race Intelligence](https://www.dareyoufight.org/Volumes/20/03/race_intelligence.html)                                                    |
-|   1920 |       20 | 5       | [The Rise of the West Indian](https://www.dareyoufight.org/Volumes/20/05/how_shall_we_vote.html)                                          |
+|   1920 |       20 | 5       | [How Shall We Vote](https://www.dareyoufight.org/Volumes/20/05/how_shall_we_vote.html)                                                    |
 |   1920 |       20 | 5       | [The Rise of the West Indian](https://www.dareyoufight.org/Volumes/20/05/rise_of_the_west_indian.html)                                    |
 |   1920 |       21 | 1       | [The Social Equality of Whites and Blacks](https://www.dareyoufight.org/Volumes/21/01/social_equality_of_blacks_and_whites.html)          |
 |   1920 |       21 | 1       | [Suffrage](https://www.dareyoufight.org/Volumes/21/01/suffrage.html)                                                                      |
@@ -202,8 +202,8 @@
 |   1923 |       26 | 5       | [Florida](https://www.dareyoufight.org/Volumes/26/05/florida.html)                                                                        |
 |   1924 |       27 | 3       | [The Black Man and the Wounded World](https://www.dareyoufight.org/Volumes/27/03/black_man_and_the_wounded_world.html)                    |
 |   1924 |       27 | 4       | [Kenya](https://www.dareyoufight.org/Volumes/27/04/kenya.html)                                                                            |
-|   1924 |       27 | 4       | [The Younger Literary Movement](https://www.dareyoufight.org/Volumes/27/06/little_portraits.html)                                         |
 |   1924 |       27 | 4       | [The Younger Literary Movement](https://www.dareyoufight.org/Volumes/27/04/younger_movement.html)                                         |
+|   1924 |       27 | 6       | [Little Portraits of Africa](https://www.dareyoufight.org/Volumes/27/06/little_portraits.html)                                            |
 |   1924 |       28 | 1       | [A Lunatic or a Traitor](https://www.dareyoufight.org/Volumes/28/01/lunatic_or_a_traitor.html)                                            |
 |   1924 |       28 | 3       | [Vote](https://www.dareyoufight.org/Volumes/28/03/vote.html)                                                                              |
 |   1924 |       28 | 3       | [Unity](https://www.dareyoufight.org/Volumes/28/03/unity.html)                                                                            |

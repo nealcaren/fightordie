@@ -1,6 +1,6 @@
 <!--
 title:   The Waco Horror
-author:  Du Bois, W.E.B.
+author:  Freeman, Elisabeth
 journal: The Crisis
 year:    1916
 volume:  12
@@ -159,4 +159,4 @@ Interested persons may write to Roy Nash, secretary, 70 Fifth Avenue, New York C
 ***Finis***
 
 ______________
-*Citation:* Du Bois, W.E.B. 1916. "The Waco Horror." *The Crisis*. 12(3-Supplement):1&ndash;8.
+*Citation:* Freeman, Elisabeth. 1916. "The Waco Horror." *The Crisis*. 12(3-Supplement):1&ndash;8.

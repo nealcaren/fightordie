@@ -1,6 +1,6 @@
 <!--
 title:   The Burning at Dyersburg: An N.A.A.C.P. Investigation
-author:  Du Bois, W.E.B.
+author:  N.A.A.C.P.
 journal: The Crisis
 year:    1918
 volume:  15
@@ -127,4 +127,4 @@ A few people---mostly women---said: "It was terrible."
 Many citizens seem to have the psychology of having performed an unpleasant duty. One citizen said: "People here can do a thing like that, and then forget all about it."
 
 ______________
-*Citation:* Du Bois, W.E.B. 1918. "The Burning at Dyersburg: An N.A.A.C.P. Investigation." *The Crisis*. 15(4):178&ndash;183.
+*Citation:* N.A.A.C.P. 1918. "The Burning at Dyersburg: An N.A.A.C.P. Investigation." *The Crisis*. 15(4):178&ndash;183.

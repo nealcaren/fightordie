@@ -1,5 +1,5 @@
 <!--
-title:   Race Pride
+title:   England
 author:  Du Bois, W.E.B.
 journal: The Crisis
 year:    1920
@@ -8,9 +8,7 @@ issue:   3
 pages:   107-108
 -->
 
-# Race Pride (1920)
-
-# Race Pride (1920)
+# England (1920)
 
 I was reared in an atmosphere of admiration---almost of veneration---for England. The New England of my birth and day was English in its soul: its speech was more English than American; its history was an extension of English history; its law was English tradition; its town government was of English ancestry. Our reverence for England was increased rather than diminished by distance and lack of actual contact and also, I regret to remember, by the then current dislike of the Irish. 
 
@@ -37,4 +35,4 @@ England has sinned against dependent and backward people to an unbelievable exte
 There are but two paths out: Ireland, India, and Egypt must become independent, self-governing states. Home rule must be granted to the West Indians and civilized West Africa. The natives of South Africa must be delivered from the Union of South Africa. Either this, or the world must gird itself anew to meet a tyranny which looms as portentous as the God-defying dreams of Germany and which portends even greater bitterness, because it involves the up-striving and embittered darker races of the whole earth. 
 
 ______________
-*Citation:* Du Bois, W.E.B. 1920. "Race Pride." *The Crisis*. 19(3):107&ndash;108.
+*Citation:* Du Bois, W.E.B. 1920. "England." *The Crisis*. 19(3):107&ndash;108.
