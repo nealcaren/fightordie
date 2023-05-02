@@ -9,8 +9,6 @@ pages:   106-107
 -->
 # The Tuskegee Hospital (1923)
 
- # The Tuskegee Hospital
-
 We have strong reasons for 
 believing that the following 
 are the actual facts concerning the Tuskegee Hospital:
