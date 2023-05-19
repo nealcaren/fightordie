@@ -23,7 +23,7 @@ Meantime, neither the Trade Unionists nor the Philanthropists are making any rea
 
 On the other hand, the students' cooperative store at Bluefield has been extraordinarily successful, not simply as a store, but as a school of business training. In New York City, there has been widespread buying of multiple homes on a co-operative basis. Some have failed; some have had fair success; a few have been very successful. There is no reason why with thought and study a large measure of success can not be obtained.
 
-Meantime, educated Negroes should listen carefully to the words of two men: Benjamin Stolberg, a white man, has recently emphasized the fact that the Negro problem is essential and primarily a labor problem and the next steps must be in the direction of labor organization. Abram Harris, a colored professor of Howard University, emphasizes in this number of <span class = "small-caps">The Crisis</span>the attitude of trade unions and the clear path which Negro labor must follow.
+Meantime, educated Negroes should listen carefully to the words of two men: Benjamin Stolberg, a white man, has recently emphasized the fact that the Negro problem is essential and primarily a labor problem and the next steps must be in the direction of labor organization. Abram Harris, a colored professor of Howard University, emphasizes in this number of <span class = "small-caps">The Crisis</span> the attitude of trade unions and the clear path which Negro labor must follow.
 
 _________________
 *Citation:* Du Bois, W.E.B. 1930. "Our Economic Peril." *The Crisis*. 37(3):101.
