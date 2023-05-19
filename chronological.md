@@ -7,14 +7,22 @@
 |   1910 |        1 | 1       | [Voting](https://www.dareyoufight.org/Volumes/01/01/Voting.html)                                                                          |
 |   1910 |        1 | 1       | [Agitation](https://www.dareyoufight.org/Volumes/01/01/Agitation.html)                                                                    |
 |   1910 |        1 | 1       | [The Crisis](https://www.dareyoufight.org/Volumes/01/01/TheCrisis.html)                                                                   |
-|   1910 |        1 | 2       | [Precept and Practice](https://www.dareyoufight.org/Volumes/01/02/election.html)                                                          |
+|   1910 |        1 | 2       | [Advice](https://www.dareyoufight.org/Volumes/01/02/advice.html)                                                                          |
+|   1910 |        1 | 2       | [The Ghetto](https://www.dareyoufight.org/Volumes/01/02/ghetto.html)                                                                      |
+|   1910 |        1 | 2       | [The Inevitable](https://www.dareyoufight.org/Volumes/01/02/inevitable.html)                                                              |
+|   1910 |        1 | 2       | [The Election](https://www.dareyoufight.org/Volumes/01/02/election.html)                                                                  |
 |   1910 |        1 | 2       | [N.A.A.C.P.](https://www.dareyoufight.org/Volumes/01/02/NAACP.html)                                                                       |
 |   1910 |        1 | 2       | [The Races in Conference](https://www.dareyoufight.org/Volumes/01/02/races_in_conference.html)                                            |
 |   1910 |        1 | 2       | [Precept and Practice](https://www.dareyoufight.org/Volumes/01/02/precept_and_practice.html)                                              |
 |   1911 |        1 | 3       | ['Social Equality'](https://www.dareyoufight.org/Volumes/01/03/social_equality.html)                                                      |
 |   1911 |        1 | 3       | [A Winter Pilgrimage](https://www.dareyoufight.org/Volumes/01/03/winter_pilmigrage.html)                                                  |
 |   1911 |        1 | 3       | ['Ashamed'](https://www.dareyoufight.org/Volumes/01/03/ashamed.html)                                                                      |
+|   1911 |        1 | 3       | [Except Servants](https://www.dareyoufight.org/Volumes/01/03/servants.html)                                                               |
+|   1911 |        1 | 3       | [The Truth](https://www.dareyoufight.org/Volumes/01/03/truth.html)                                                                        |
 |   1911 |        1 | 3       | [The Old Story](https://www.dareyoufight.org/Volumes/01/03/old_story.html)                                                                |
+|   1911 |        1 | 3       | [Jesus Christ in Baltimore](https://www.dareyoufight.org/Volumes/01/03/baltimore.html)                                                    |
+|   1911 |        1 | 3       | [Envy](https://www.dareyoufight.org/Volumes/01/03/envy.html)                                                                              |
+|   1911 |        1 | 4       | [Education](https://www.dareyoufight.org/Volumes/01/04/education.html)                                                                    |
 |   1911 |        1 | 5       | [Politeness](https://www.dareyoufight.org/Volumes/01/05/politeness.html)                                                                  |
 |   1911 |        1 | 5       | [The White Primary](https://www.dareyoufight.org/Volumes/01/05/white_primary.html)                                                        |
 |   1911 |        2 | 2       | [Starvation and Prejudice](https://www.dareyoufight.org/Volumes/02/02/starvation_and_prejudice.html)                                      |

@@ -1,5 +1,5 @@
 <!--
-title:   Precept and Practice
+title:   The Election
 author:  Du Bois, W.E.B.
 journal: The Crisis
 year:    1910
@@ -8,7 +8,7 @@ issue:   2
 pages:   20
 -->
 
-# Precept and Practice (1910)
+# The Election (1910)
 
 For colored men the Congressional election of 1910 marked an event. Never before since Emancipation have so many colored voters cast the Democratic ticket.
 
@@ -27,4 +27,4 @@ Was it wise for colored men to vote the Democratic ticket? It is always wise for
 > &nbsp; We do not expect or ask for special legislation, but we do ask that your party stand up for progressive measures and refuse to be made responsible for any effort to degrade American citizens.
 
 _________________
-*Citation:* Du Bois, W.E.B. 1910. "Precept and Practice." *The Crisis*. 1(2):20.
+*Citation:* Du Bois, W.E.B. 1910. "The Election." *The Crisis*. 1(2):20.
