@@ -18,7 +18,7 @@ The [Lily-white Movement](https://en.wikipedia.org/wiki/Lily-white_movement) sou
 
 Mr. Hoover did not hesitate in 1928 to use the old methods of manipulating Southern delegates in order to secure his nomination. Notwithstanding this, when he was elected to the presidency, he adopted into the program of the "Lily-Whites," and sought to disfranchise Negroes in the councils of the Republican Party. At the same time, he kept in his councils white Southern Republicans like Creager and Slemp. In other words, Mr. Hoover tried to get rid of Negroes and not dishonesty in Southern politics. And the basic cause of dishonesty, illegal disfranchisement, he never mentioned.
 
- ## Race-Hatred
+## Race-Hatred
 
 During the campaign of 1928, when Mr. Hoover was seeking Southern votes it was necessary for the leaders of the Negro race, including nine officials of national Negro organizations, three bishops of Negro churches, four public officials, four college presidents, and two leading editors, to protest bitterly against the methods of Hoover's Southern friends. Never since Emancipation and the bargain of 1876, was a more dangerous attack made on the right of Negroes to vote. The protest said:
 
@@ -40,7 +40,7 @@ Mr. Hoover nominated as Justice of the United States Supreme Court John J. Parke
 
 In the same way, in Liberia, he is refusing his assent to the excellent plan of reform drawn up by the League of Nations and assented to by Liberia and he is demanding a dictator who will destroy the independence of Liberia. The United States refuses to be represented at Geneva but the Firestone Rubber Company has headquarters there in the same hotel with Mr. Hoover's unofficial adviser; it dictates Mr. Hoover's policy; it demands the right to name the proposed dictator, and refuses to recognize a Negro government which has lived more than a century.
 
- ## The Color Bar
+## The Color Bar
 
 Mr. Hoover has permitted and ordered outrageous discrimination based on color. He sent colored Gold Star mothers on separate ships with inferior accommodations to visit their son's graves; in officers' training camps, he refused nearly all Negro applicants. He was begged to stop open discrimination against Negroes in Red Cross relief, following the Mississippi flood in 1927; he first denied the facts, and when they were confirmed by his own committee, he suppressed their report, and never applied adequate remedies.
 

@@ -271,9 +271,12 @@ https://www.dareyoufight.org/Volumes/01/05/white_primary.html
 https://www.dareyoufight.org/Volumes/01/02/precept_and_practice.html
 https://www.dareyoufight.org/Volumes/01/02/NAACP.html
 https://www.dareyoufight.org/Volumes/01/02/races_in_conference.html
+https://www.dareyoufight.org/Volumes/01/02/election.html
+https://www.dareyoufight.org/Volumes/01/01/Baltimore.html
 https://www.dareyoufight.org/Volumes/01/01/TheCrisis.html
 https://www.dareyoufight.org/Volumes/01/01/Segregation.html
 https://www.dareyoufight.org/Volumes/01/01/Agitation.html
+https://www.dareyoufight.org/Volumes/01/01/Voting.html
 https://www.dareyoufight.org/Volumes/06/05/open_letter.html
 https://www.dareyoufight.org/Volumes/06/02/logic.html
 https://www.dareyoufight.org/Volumes/06/07/national_emancipation_exposition.html

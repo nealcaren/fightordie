@@ -17,5 +17,6 @@ Here is a platform which does not involve murder or revolution, but which we rec
 4. No tax-exempt property of any sort, no matter who owns it, and publicity of all taxes paid.
 
 Will this bring us the millennium? Oh no! But it will give us a basis of fact upon which we may argue, and that is exactly what we lack today.
+
 ______________
 *Citation:* Du Bois, W.E.B. 1932. "A Platform for Radicals." *The Crisis*. 39(4):131.

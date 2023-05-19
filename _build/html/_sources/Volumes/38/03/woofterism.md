@@ -11,15 +11,15 @@ pages:   81-83
 
 The Baltimore *Afro-American* coined the term "Woofterism." It calls for definition and extension. Recently, the United States government has sent out a release based on a study by Dr. Woofter on "The Economic Status of the Negro." This survey was made under a grant from the Julius Rosenwald Fund of Chicago. The complete report in manuscript has been sent me by the Fund. It consists of a volume of studies with appendix, made in June, 1930, and a summary and recommendations by Dr. Woofter and a committee which acted with him.
 
- ## The Report
+## The Report
 
  In my opinion, this report is neither candid, scientific nor conclusive. In fact, I regard it as a distinctly dangerous symptom. Large sums of money have recently been given to Southern white students to make studies of the American Negro. The original idea, started by the Phelps-Stokes Fund, was not so much the scientific accuracy of the results, as the effort to make young white Southerners seriously study the race problem at first-hand, according to modern methods. This idea had some justification; but since then, the majority of the recent studies of the American Negro have been made by Southern white students and are supposed to be carefully compiled scientific work. This also would have much to recommend it if the studies were indeed candid, thorough, and scientific. But when a Southern white man comes to the study of the race problem apparently with the idea of leaving out all "controversial" matter, and nevertheless calls the results scientific, then something is being done that is not only wrong but vicious.
 
- ## T. J. Woofter
+## T. J. Woofter
 
  T. J. Woofter's earliest work, published in 1925, was a sort of pragmatic philosophy of the race problem by a young Southern white man, continuing the work so well begun by the late Edgar Gardner Murphy. I read the book and commended it. But with his more recent studies, I have more and more disagreed. His facts are usually true but he does not give all the facts, while his conclusions are grossly inadequate and incomplete. I think, for instance, that the study of St. Helena Island is unscientific and misleading. And this study of "The Economic Status of the Negro" is even worse than that.
 
- ## Agriculture
+## Agriculture
 
 For instance, this report treats first of the Negro in agriculture. Now everybody knows, who knows anything about the South, of the main facts concerning the black peasant and farmer. It is not a question of praise or blame for the situation, or as to what we can do now to remedy it. But the facts are clear: in the country districts of the South the Negro farmer has no voice in his own government; he is taxed without representation; he has the poorest schools of any group in the United States; he is subject often to terrorism, mob violence and lynching; and over large districts he is in actual peonage. There can be no question about these conditions. The testimony is too universal. Or, if there is any doubt, the matter cannot be settled by ignoring the testimony, and the Rosenwald Fund should make a careful investigation into the facts.
 
@@ -60,7 +60,7 @@ The recommendations of this Report for the Negro in industry are not much more s
 
 They secured a foothold in a number of important industries: the automobile industry, in the stockyards, in steel manufacture, in the making of clothing, in the mining industry, etc. They had a hard fight. They were in the situation of ignorant immigrants; they had to live in the worst and most unsanitary dwellings; they often met mob violence and discrimination and they were excluded not only from the unions which dominated the better paid trades, but also they met very often an attitude on the part of employers who would not hire colored labor under any circumstances and of workers who would not work with Negroes or would not endure them in anything but the lowest jobs.
 
- ## The Negro in the North
+## The Negro in the North
 
 Despite all this, the Negroes have won a foothold which they are maintaining. With their new and increased political power, they have not only secured new jobs but have protected themselves against race prejudice in the jobs which they have. They have bought an enormous amount of property and under great difficulties they are entering the business world in a small way and beginning to give employment to their own people.
 
@@ -99,7 +99,7 @@ To return to one point: Mr. Woofter, like any number of his ilk, stresses domest
 
 It may be said that colored people themselves ought to do this, but this requires experience and capital and influence, which few colored persons have had a chance to get. But in such a development of a new and self-respecting industry, Mr. Woofter is not interested. He is interested in the old "darkey" servant, paid low wages, working under conditions of personal subjection, which the working people of the world and of all colors are trying to repudiate. House service in the past, and particularly in the South, has been an open door to prostitution, concubinage and peonage. Every effort to make it appear attractive has failed and ought to fail. Southern people get poor Negro servants because only those who can do nothing else go into this work. What good servants need is not simply "domestic training"; they need a new economic status.
 
- ## Woofter's Remedies
+## Woofter's Remedies
 
 Mr. Woofter's remedies in this and his analysis of the situation of the Negro worker, North and South, are strikingly inadequate. The real problem is not simply that of protecting Negroes from Mexican competition; it is not a vocational guidance which assumes that Negroes do not want to work and tries to force them into the lowest work with least wages and least protection; it is not simply industrial training as ordinarily understood, and it is not simply public employment bureaus.
 
