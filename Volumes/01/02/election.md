@@ -1,5 +1,5 @@
 <!--
-title:   Precept and Practice
+title:   The Election
 author:  Du Bois, W.E.B.
 journal: The Crisis
 year:    1910

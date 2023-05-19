@@ -86,6 +86,10 @@ chapters:
   sections:
   - file: Volumes/01/01/Segregation.md
   - file: Volumes/01/01/Baltimore.md
+  - file: Volumes/01/02/advice.md
+  - file: Volumes/01/02/ghetto.md
+  - file: Volumes/01/02/inevitable.md
+  - file: Volumes/01/03/servants.md
   - file: Volumes/03/05/homes.md
   - file: Volumes/05/04/blesseddiscrimination.md
   - file: Volumes/06/05/open_letter.md
@@ -120,6 +124,7 @@ chapters:
   sections:
   - file: Sections/disenfranchisement
     sections:
+    - file: Volumes/01/03/truth.md
     - file: Volumes/01/05/white_primary.md
     - file: Volumes/10/01/fourteenth_amendment.md
     - file: Volumes/19/02/votes.md
@@ -379,6 +384,7 @@ chapters:
     - file: Volumes/37/05/capital_n.md
   - file: Sections/education.md
     sections:
+    - file: Volumes/01/04/education.md
     - file: Volumes/10/03/education.md
     - file: Volumes/15/01/hampton.md
     - file: Volumes/15/04/negro_education.md
@@ -389,10 +395,12 @@ chapters:
     - file: Volumes/40/08/negro_college.md
   - file: Sections/religion.md
     sections:
+    - file: Volumes/01/03/baltimore.md
     - file: Volumes/14/01/white_church.md
     - file: Volumes/36/05/missionaries.md
   - file: Sections/misc
     sections: 
+    - file: Volumes/01/03/envy.md
     - file: Volumes/02/02/starvation_and_prejudice.md
     - file: Volumes/11/02/booker_t_washington.md
     - file: Volumes/12/03/open_letter.md
