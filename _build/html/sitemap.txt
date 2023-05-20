@@ -270,7 +270,13 @@ https://www.dareyoufight.org/Volumes/01/03/truth.html
 https://www.dareyoufight.org/Volumes/01/03/old_story.html
 https://www.dareyoufight.org/Volumes/01/03/servants.html
 https://www.dareyoufight.org/Volumes/01/03/envy.html
+https://www.dareyoufight.org/Volumes/01/04/pink.html
+https://www.dareyoufight.org/Volumes/01/04/rampant_democracy.html
 https://www.dareyoufight.org/Volumes/01/04/education.html
+https://www.dareyoufight.org/Volumes/01/04/southern_papers.html
+https://www.dareyoufight.org/Volumes/01/04/separation.html
+https://www.dareyoufight.org/Volumes/01/05/blair_bill.html
+https://www.dareyoufight.org/Volumes/01/05/methodist_church_north.html
 https://www.dareyoufight.org/Volumes/01/05/politeness.html
 https://www.dareyoufight.org/Volumes/01/05/white_primary.html
 https://www.dareyoufight.org/Volumes/01/02/advice.html
@@ -285,6 +291,9 @@ https://www.dareyoufight.org/Volumes/01/01/TheCrisis.html
 https://www.dareyoufight.org/Volumes/01/01/Segregation.html
 https://www.dareyoufight.org/Volumes/01/01/Agitation.html
 https://www.dareyoufight.org/Volumes/01/01/Voting.html
+https://www.dareyoufight.org/Volumes/01/06/truth.html
+https://www.dareyoufight.org/Volumes/01/06/writer.html
+https://www.dareyoufight.org/Volumes/01/06/smith_jones.html
 https://www.dareyoufight.org/Volumes/06/05/open_letter.html
 https://www.dareyoufight.org/Volumes/06/02/logic.html
 https://www.dareyoufight.org/Volumes/06/07/national_emancipation_exposition.html
@@ -316,7 +325,6 @@ https://www.dareyoufight.org/Volumes/41/08/dr_dubois_resigns.html
 https://www.dareyoufight.org/Volumes/41/01/scottsboro.html
 https://www.dareyoufight.org/Volumes/41/01/segregation.html
 https://www.dareyoufight.org/Volumes/41/06/counsels_of_despair.html
-https://www.dareyoufight.org/Volumes/24/03/intentions.html
 https://www.dareyoufight.org/Volumes/24/02/whitecharity.html
 https://www.dareyoufight.org/Volumes/24/01/publicity.html
 https://www.dareyoufight.org/Volumes/24/01/slavery.html
@@ -406,6 +414,7 @@ https://www.dareyoufight.org/Volumes/22/01/anti-lynching_legislation.html
 https://www.dareyoufight.org/Volumes/22/06/single_tax.html
 https://www.dareyoufight.org/Volumes/22/06/socialism_and_the_negro.html
 https://www.dareyoufight.org/Volumes/22/06/tulsa.html
+https://www.dareyoufight.org/Volumes/25/03/intentions.html
 https://www.dareyoufight.org/Volumes/25/04/advertising.html
 https://www.dareyoufight.org/Volumes/25/01/kkk.html
 https://www.dareyoufight.org/Volumes/25/01/truth_and_beauty.html
