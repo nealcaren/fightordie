@@ -22,9 +22,18 @@
 |   1911 |        1 | 3       | [The Old Story](https://www.dareyoufight.org/Volumes/01/03/old_story.html)                                                                |
 |   1911 |        1 | 3       | [Jesus Christ in Baltimore](https://www.dareyoufight.org/Volumes/01/03/baltimore.html)                                                    |
 |   1911 |        1 | 3       | [Envy](https://www.dareyoufight.org/Volumes/01/03/envy.html)                                                                              |
+|   1911 |        1 | 4       | [Southern Papers](https://www.dareyoufight.org/Volumes/01/04/southern_papers.html)                                                        |
+|   1911 |        1 | 4       | [Separation](https://www.dareyoufight.org/Volumes/01/04/separation.html)                                                                  |
+|   1911 |        1 | 4       | [Rampant Democracy](https://www.dareyoufight.org/Volumes/01/04/rampant_democracy.html)                                                    |
+|   1911 |        1 | 4       | [Pink Franklin](https://www.dareyoufight.org/Volumes/01/04/pink.html)                                                                     |
 |   1911 |        1 | 4       | [Education](https://www.dareyoufight.org/Volumes/01/04/education.html)                                                                    |
 |   1911 |        1 | 5       | [Politeness](https://www.dareyoufight.org/Volumes/01/05/politeness.html)                                                                  |
 |   1911 |        1 | 5       | [The White Primary](https://www.dareyoufight.org/Volumes/01/05/white_primary.html)                                                        |
+|   1911 |        1 | 5       | [The Blair Bill](https://www.dareyoufight.org/Volumes/01/05/blair_bill.html)                                                              |
+|   1911 |        1 | 5       | [The Methodist Church, North](https://www.dareyoufight.org/Volumes/01/05/methodist_church_north.html)                                     |
+|   1911 |        1 | 6       | [The Truth](https://www.dareyoufight.org/Volumes/01/06/truth.html)                                                                        |
+|   1911 |        1 | 6       | [The Writer](https://www.dareyoufight.org/Volumes/01/06/writer.html)                                                                      |
+|   1911 |        1 | 6       | [Smith Jones](https://www.dareyoufight.org/Volumes/01/06/smith_jones.html)                                                                |
 |   1911 |        2 | 2       | [Starvation and Prejudice](https://www.dareyoufight.org/Volumes/02/02/starvation_and_prejudice.html)                                      |
 |   1911 |        2 | 4       | [Races](https://www.dareyoufight.org/Volumes/02/04/races.html)                                                                            |
 |   1911 |        2 | 4       | [Lynching](https://www.dareyoufight.org/Volumes/02/04/lynching.html)                                                                      |
@@ -204,7 +213,7 @@
 |   1922 |       25 | 1       | [Truth and Beauty](https://www.dareyoufight.org/Volumes/25/01/truth_and_beauty.html)                                                      |
 |   1922 |       25 | 4       | [Advertising](https://www.dareyoufight.org/Volumes/25/04/advertising.html)                                                                |
 |   1922 |       25 | 6       | [The Negro and Labor](https://www.dareyoufight.org/Volumes/25/06/negro_and_labor.html)                                                    |
-|   1923 |       24 | 3       | [Intentions](https://www.dareyoufight.org/Volumes/24/03/intentions.html)                                                                  |
+|   1923 |       25 | 3       | [Intentions](https://www.dareyoufight.org/Volumes/25/03/intentions.html)                                                                  |
 |   1923 |       26 | 2       | [A University Course in Lynching](https://www.dareyoufight.org/Volumes/26/02/university_course_in_lynching.html)                          |
 |   1923 |       26 | 2       | [On Being Crazy](https://www.dareyoufight.org/Volumes/26/02/on_being_crazy.html)                                                          |
 |   1923 |       26 | 3       | [The Tuskegee Hospital](https://www.dareyoufight.org/Volumes/26/03/tuskegee_hospital.html)                                                |
