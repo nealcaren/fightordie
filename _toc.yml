@@ -183,6 +183,7 @@ chapters:
 - file: Sections/strategy
   sections:
   - file: Volumes/01/01/Agitation.md
+  - file: Volumes/01/06/truth.md
   - file: Volumes/05/05/proper_way.md
   - file: Volumes/09/05/organization.md
   - file: Volumes/09/06/immediate_program.md
@@ -330,6 +331,8 @@ chapters:
 
 - file: Sections/arts
   sections:
+  - file: Volumes/01/06/writer.md
+  - file: Volumes/01/06/smith_jones.md
   - file: Volumes/22/02/negro_art.md
   - file: Volumes/24/01/art_for_nothing.md
   - file: Volumes/25/01/truth_and_beauty.md
