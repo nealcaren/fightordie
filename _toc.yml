@@ -350,6 +350,7 @@ chapters:
   - file: Sections/short_stories
     sections:
     - file: Volumes/01/02/precept_and_practice.md
+    - file: Volumes/03/02/jesus_christ.md
     - file: Volumes/26/02/on_being_crazy.md
   - file: Sections/poetry
     sections:
