@@ -41,6 +41,7 @@
 |   1911 |        2 | 5       | [Triumph](https://www.dareyoufight.org/Volumes/02/05/triumph.html)                                                                        |
 |   1911 |        2 | 5       | [The Races in Congress](https://www.dareyoufight.org/Volumes/02/05/races_congress.html)                                                   |
 |   1911 |        2 | 6       | [Forward Backward](https://www.dareyoufight.org/Volumes/02/06/forwardbackward.html)                                                       |
+|   1911 |        3 | 2       | [Jesus Christ in Georgia](https://www.dareyoufight.org/Volumes/03/02/jesus_christ.html)                                                   |
 |   1912 |        3 | 4       | [Light](https://www.dareyoufight.org/Volumes/03/04/light.html)                                                                            |
 |   1912 |        3 | 4       | [The Gall of Bitterness](https://www.dareyoufight.org/Volumes/03/04/gail_of_bitterness.html)                                              |
 |   1912 |        3 | 5       | [Homes](https://www.dareyoufight.org/Volumes/03/05/homes.html)                                                                            |
