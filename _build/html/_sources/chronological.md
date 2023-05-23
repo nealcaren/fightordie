@@ -34,6 +34,7 @@
 |   1911 |        1 | 6       | [The Truth](https://www.dareyoufight.org/Volumes/01/06/truth.html)                                                                        |
 |   1911 |        1 | 6       | [The Writer](https://www.dareyoufight.org/Volumes/01/06/writer.html)                                                                      |
 |   1911 |        1 | 6       | [Smith Jones](https://www.dareyoufight.org/Volumes/01/06/smith_jones.html)                                                                |
+|   1911 |        2 | 1       | [Violations of Property Rights](https://www.dareyoufight.org/Volumes/02/01/violations.html)                                               |
 |   1911 |        2 | 2       | [Starvation and Prejudice](https://www.dareyoufight.org/Volumes/02/02/starvation_and_prejudice.html)                                      |
 |   1911 |        2 | 4       | [Races](https://www.dareyoufight.org/Volumes/02/04/races.html)                                                                            |
 |   1911 |        2 | 4       | [Lynching](https://www.dareyoufight.org/Volumes/02/04/lynching.html)                                                                      |
