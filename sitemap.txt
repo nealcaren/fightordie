@@ -56,6 +56,7 @@ https://www.dareyoufight.org/Volumes/03/04/light.html
 https://www.dareyoufight.org/Volumes/03/05/homes.html
 https://www.dareyoufight.org/Volumes/03/05/lee.html
 https://www.dareyoufight.org/Volumes/03/02/jesus_christ.html
+https://www.dareyoufight.org/Volumes/03/01/quadroon.html
 https://www.dareyoufight.org/Volumes/03/06/servant_in_the_south.html
 https://www.dareyoufight.org/Volumes/04/03/organized_labor.html
 https://www.dareyoufight.org/Volumes/04/04/ohio.html
@@ -119,7 +120,10 @@ https://www.dareyoufight.org/Volumes/02/04/lynching.html
 https://www.dareyoufight.org/Volumes/02/04/races.html
 https://www.dareyoufight.org/Volumes/02/05/triumph.html
 https://www.dareyoufight.org/Volumes/02/05/races_congress.html
+https://www.dareyoufight.org/Volumes/02/02/education.html
 https://www.dareyoufight.org/Volumes/02/02/starvation_and_prejudice.html
+https://www.dareyoufight.org/Volumes/02/02/business.html
+https://www.dareyoufight.org/Volumes/02/01/prejudice.html
 https://www.dareyoufight.org/Volumes/02/01/violations.html
 https://www.dareyoufight.org/Volumes/02/06/forwardbackward.html
 https://www.dareyoufight.org/Volumes/20/03/race_intelligence.html

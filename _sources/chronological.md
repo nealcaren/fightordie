@@ -35,12 +35,16 @@
 |   1911 |        1 | 6       | [The Writer](https://www.dareyoufight.org/Volumes/01/06/writer.html)                                                                      |
 |   1911 |        1 | 6       | [Smith Jones](https://www.dareyoufight.org/Volumes/01/06/smith_jones.html)                                                                |
 |   1911 |        2 | 1       | [Violations of Property Rights](https://www.dareyoufight.org/Volumes/02/01/violations.html)                                               |
+|   1911 |        2 | 1       | [Prejudice](https://www.dareyoufight.org/Volumes/02/01/prejudice.html)                                                                    |
+|   1911 |        2 | 2       | [Education](https://www.dareyoufight.org/Volumes/02/02/business.html)                                                                     |
+|   1911 |        2 | 2       | [Education](https://www.dareyoufight.org/Volumes/02/02/education.html)                                                                    |
 |   1911 |        2 | 2       | [Starvation and Prejudice](https://www.dareyoufight.org/Volumes/02/02/starvation_and_prejudice.html)                                      |
 |   1911 |        2 | 4       | [Races](https://www.dareyoufight.org/Volumes/02/04/races.html)                                                                            |
 |   1911 |        2 | 4       | [Lynching](https://www.dareyoufight.org/Volumes/02/04/lynching.html)                                                                      |
 |   1911 |        2 | 5       | [Triumph](https://www.dareyoufight.org/Volumes/02/05/triumph.html)                                                                        |
 |   1911 |        2 | 5       | [The Races in Congress](https://www.dareyoufight.org/Volumes/02/05/races_congress.html)                                                   |
 |   1911 |        2 | 6       | [Forward Backward](https://www.dareyoufight.org/Volumes/02/06/forwardbackward.html)                                                       |
+|   1911 |        3 | 1       | [The Quadroon](https://www.dareyoufight.org/Volumes/03/01/quadroon.html)                                                                  |
 |   1911 |        3 | 2       | [Jesus Christ in Georgia](https://www.dareyoufight.org/Volumes/03/02/jesus_christ.html)                                                   |
 |   1912 |        3 | 4       | [Light](https://www.dareyoufight.org/Volumes/03/04/light.html)                                                                            |
 |   1912 |        3 | 4       | [The Gall of Bitterness](https://www.dareyoufight.org/Volumes/03/04/gail_of_bitterness.html)                                              |
