@@ -10,13 +10,13 @@ pages:   20-21
 
 # The Writer (1911)
 
-In the argument of the prejudiced there is a certain usual ending: "But this is inevitable." For instance, a crime is committed by you. I am lynched. "It is inevitable," cries the bystander, "they were both Negroes." A brown man is admitted to a theatre, misbehaves and is ejected.
+The death of Frances Watkins Harper calls our attention to the literature of American Negroes. Mrs. Harper was born in Baltimore in 1825. Her active life, beginning with her first published book of poems, covered over sixty years of stirring history, from the Compromise of 1850 down to Mr. Taft's inaugural address. She was associated with all the great leaders of the abolition cause and has lectured to hundreds of audiences throughout the land.
 
-I apply for a ticket and am refused. "It is inevitable," sighs the manager, "you are brown." A yellow man is a fool; therefore, Smith, who is also yellow, is treated like an idiot. "I am sorry," remarks the policeman, "but they are both yellow."
+It is, however, for her attempts to forward literature among colored people that Frances Harper deserves most to be remembered. She was not a great singer, but she had some sense of song; she was not a great writer, but she wrote much worth reading. She was above all, sincere. She took
+her writing soberly and earnestly; she gave her life to it, and it gave her fair support. She was a worthy member of that dynasty, beginning with dark Phyllis in 1773 and coming on down past David Walker, Wells Brown, Nell, Whitman and Williams, down to Dunbar, Chesnuit and Braithwaite of our day.
 
-What is the real argument in these cases? It is this: "People who resemble each other in one important respect ought to resemble each other in all important respects and therefore be treated alike. If by any chance they do not so resemble each other, this is unfortunate, for the same treatment must be meted out. This is inevitable."
+To the young colored American Frances Harper leaves a lesson. Here is a nation whose soul is still dumb, yet big with feeling, song and story. What are we doing to develop writers to express this wealth of emotion fitly? Very little. We have among ten millions to-day one poet, one novelist and two or three recognized writers of articles and essays. That is all.
 
-Is it? It is not inevitable. It is criminal injustice. It is inhuman treatment and it is socially dangerous. It is based on the unscientific assumption that human beings who resemble each other in one important particular, like color of skin, resemble each other in all particulars. This is patently false. Moreover, the social condemnation of an undesirable act or character loses all force or reason when it is directed against one who has not committed the act or has not the condemned character. To allow the mistreatment of such an innocent man---to condone it or defend it, is not inevitable; it is a crime.
-
+Here is a tremendous field for improvement, and if in the next six months <span style="font-variant:small-caps;">The Crisis</span> receives the same remarkable encouragement as in the past we hope to have ready for the beginning of our second year's work a matured plan for encouraging young writers to follow the hallowed footsteps of Frances Watkins Harper.
 ______________
 *Citation:* Du Bois, W.E.B. 1911. "The Writer." *The Crisis*. 1(6):20&ndash;21.

@@ -18,6 +18,7 @@ chapters:
   - file: Volumes/01/03/ashamed.md
   - file: Volumes/01/04/southern_papers.md
   - file: Volumes/02/01/violations.md
+  - file: Volumes/02/01/prejudice.md
   - file: Volumes/02/04/races.md
   - file: Volumes/03/04/light.md
   - file: Volumes/06/02/logic.md
@@ -241,6 +242,7 @@ chapters:
     - file: Volumes/40/12/af_of_l.md
   - file: Sections/socialism
     sections:  
+    - file: Volumes/02/02/business.md
     - file: Volumes/15/01/cooperation.md
     - file: Volumes/18/05/forward.md
     - file: Volumes/19/04/cooperation.md
@@ -354,6 +356,7 @@ chapters:
     - file: Volumes/26/02/on_being_crazy.md
   - file: Sections/poetry
     sections:
+    - file: Volumes/03/01/quadroon.md
     - file: Volumes/09/01/burden_of_black_women.md
   - file: Sections/theater
     sections:
@@ -395,6 +398,7 @@ chapters:
     sections:
     - file: Volumes/01/04/education.md
     - file: Volumes/01/05/blair_bill.md
+    - file: Volumes/02/02/education.md
     - file: Volumes/10/03/education.md
     - file: Volumes/15/01/hampton.md
     - file: Volumes/15/04/negro_education.md
