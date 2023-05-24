@@ -48,6 +48,7 @@ chapters:
   sections:
   - file: Sections/lynching.md
     sections:
+    - file: Volumes/02/03/flag.md
     - file: Volumes/02/04/lynching.md
     - file: Volumes/02/05/triumph.md
     - file: Volumes/07/05/lynching.md

@@ -39,6 +39,7 @@
 |   1911 |        2 | 2       | [Education](https://www.dareyoufight.org/Volumes/02/02/business.html)                                                                     |
 |   1911 |        2 | 2       | [Education](https://www.dareyoufight.org/Volumes/02/02/education.html)                                                                    |
 |   1911 |        2 | 2       | [Starvation and Prejudice](https://www.dareyoufight.org/Volumes/02/02/starvation_and_prejudice.html)                                      |
+|   1911 |        2 | 3       | [The Flag](https://www.dareyoufight.org/Volumes/02/03/flag.html)                                                                          |
 |   1911 |        2 | 4       | [Races](https://www.dareyoufight.org/Volumes/02/04/races.html)                                                                            |
 |   1911 |        2 | 4       | [Lynching](https://www.dareyoufight.org/Volumes/02/04/lynching.html)                                                                      |
 |   1911 |        2 | 5       | [Triumph](https://www.dareyoufight.org/Volumes/02/05/triumph.html)                                                                        |
