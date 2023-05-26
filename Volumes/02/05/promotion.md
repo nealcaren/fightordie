@@ -20,8 +20,8 @@ We select this week a single instance of this: There is in Massachusetts a sleep
 
 (*Tennessean-American*. July 28, 1911.)
 
-> **THE NEGRO VOTE AN ANNOYING FACTOR**
-
+> **THE NEGRO VOTE AN ANNOYING FACTOR**   
+> &nbsp;
 > It is a significant fact that 85 per cent, of the Negroes in the Texas election on the prohibition
 amendment to the constitution voted against the proposition, and, when it is considered that the amendment was defeated by only about 5,000 votes out of a total number cast exceeding 450,000 it will be keenly appreciated how annoying it is for such a factor to hold the balance of power in deciding such a grave question.   
 > &nbsp;
@@ -31,8 +31,8 @@ amendment to the constitution voted against the proposition, and, when it is con
 
 (*Newbury Port Herald,* August 7, 1911.)
 
-**THE ANNOYING NEGRO VOTE.**
-
+**THE ANNOYING NEGRO VOTE.**   
+> &nbsp;
 > It is a significant fact that 85 per cent, of the Negrons in the Texas election on the prohibition amendment to the constitution voted against the proposition, and when it is considered that the amendment was defeated by only about 5,000 votes out of a total number cast exceeding 450,000, it will be keenly appreciated how annoying it is for such a factor to hold the balance of power of deciding such a grave question.    
 > &nbsp;
 > Equally as large a per cent, of the Negroes in Tennessee are opposed to the laws regulating and restricting the sale of liquors. It has been the boast that 85 per cent, of them oppose prohibition.   
