@@ -55,6 +55,7 @@ chapters:
     - file: Volumes/02/03/flag.md
     - file: Volumes/02/04/lynching.md
     - file: Volumes/02/05/triumph.md
+    - file: Volumes/02/06/hail_columbia.md
     - file: Volumes/07/05/lynching.md
     - file: Volumes/08/03/cause_of_lynching.md
     - file: Volumes/11/06/peonage.md
@@ -426,6 +427,7 @@ chapters:
     sections: 
     - file: Volumes/01/03/envy.md
     - file: Volumes/02/02/starvation_and_prejudice.md
+    - file: Volumes/02/06/knowledge.md
     - file: Volumes/11/02/booker_t_washington.md
     - file: Volumes/12/03/open_letter.md
     - file: Volumes/12/05/coloured_audience.md
