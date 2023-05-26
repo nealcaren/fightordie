@@ -23,18 +23,20 @@ We select this week a single instance of this: There is in Massachusetts a sleep
 > **THE NEGRO VOTE AN ANNOYING FACTOR**
 
 > It is a significant fact that 85 per cent, of the Negroes in the Texas election on the prohibition
-amendment to the constitution voted against the proposition, and, when it is considered that the amendment was defeated by only about 5,000 votes out of a total number cast exceeding 450,000 it will be keenly appreciated how annoying it is for such a factor to hold the balance of power in deciding such a grave question.
-> Equally as large a per cent, of the Negroes in Tennessee are opposed to the laws regulating and restricting the sale of liquors. It has been the boast that 85 per cent, of them oppose prohibition.
+amendment to the constitution voted against the proposition, and, when it is considered that the amendment was defeated by only about 5,000 votes out of a total number cast exceeding 450,000 it will be keenly appreciated how annoying it is for such a factor to hold the balance of power in deciding such a grave question.   
+> &nbsp;
+> Equally as large a per cent, of the Negroes in Tennessee are opposed to the laws regulating and restricting the sale of liquors. It has been the boast that 85 per cent, of them oppose prohibition.   
+> &nbsp;
 > Under normal conditions the Negroes are Republican, but when it comes to political contests which imperil or threaten the liquor traffic the Negroes, like the liquor people, become non-partisan, and vote with the party or faction advocating the traffic. A large majority of them favor the open saloon. They like whisky, and they want it sold where they may purchase it without the least restraint.
 
 (*Newbury Port Herald,* August 7, 1911.)
 
 **THE ANNOYING NEGRO VOTE.**
 
-> It is a significant fact that 85 per cent, of the Negrons in the Texas election on the prohibition amendment to the constitution voted against the proposition, and when it is considered that the amendment was defeated by only about 5,000 votes out of a total number cast exceeding 450,000, it will be keenly appreciated how annoying it is for such a factor to hold the balance of power of deciding such a grave question.
-
-> Equally as large a per cent, of the Negroes in Tennessee are opposed to the laws regulating and restricting the sale of liquors. It has been the boast that 85 per cent, of them oppose prohibition.
-
+> It is a significant fact that 85 per cent, of the Negrons in the Texas election on the prohibition amendment to the constitution voted against the proposition, and when it is considered that the amendment was defeated by only about 5,000 votes out of a total number cast exceeding 450,000, it will be keenly appreciated how annoying it is for such a factor to hold the balance of power of deciding such a grave question.    
+> &nbsp;
+> Equally as large a per cent, of the Negroes in Tennessee are opposed to the laws regulating and restricting the sale of liquors. It has been the boast that 85 per cent, of them oppose prohibition.   
+> &nbsp;
 > Under normal conditions the Negroes are Republican, but when it comes to political contests which imperil or threaten the liquor traffic the Negroes, like the liquor people, become non-partisan. and vote with the party or faction advocating the traffic. A large majority of them favor the open saloon. They like whisky, and they want it sold where they may purchase it without the least restraint.
 
 Two things must be noted about this remarkable coincidence in the working of the minds of a country editor in Massachusetts and a city editor in Tennessee:
