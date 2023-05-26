@@ -39,9 +39,14 @@
 |   1911 |        2 | 2       | [Education](https://www.dareyoufight.org/Volumes/02/02/business.html)                                                                     |
 |   1911 |        2 | 2       | [Education](https://www.dareyoufight.org/Volumes/02/02/education.html)                                                                    |
 |   1911 |        2 | 2       | [Starvation and Prejudice](https://www.dareyoufight.org/Volumes/02/02/starvation_and_prejudice.html)                                      |
+|   1911 |        2 | 3       | [Allies](https://www.dareyoufight.org/Volumes/02/03/allies.html)                                                                          |
+|   1911 |        2 | 3       | [Discrimination](https://www.dareyoufight.org/Volumes/02/03/discrimination.html)                                                          |
 |   1911 |        2 | 3       | [The Flag](https://www.dareyoufight.org/Volumes/02/03/flag.html)                                                                          |
+|   1911 |        2 | 3       | [The High School](https://www.dareyoufight.org/Volumes/02/03/high_school.html)                                                            |
 |   1911 |        2 | 4       | [Races](https://www.dareyoufight.org/Volumes/02/04/races.html)                                                                            |
 |   1911 |        2 | 4       | [Lynching](https://www.dareyoufight.org/Volumes/02/04/lynching.html)                                                                      |
+|   1911 |        2 | 4       | [London](https://www.dareyoufight.org/Volumes/02/04/london.html)                                                                          |
+|   1911 |        2 | 5       | [Social Equality](https://www.dareyoufight.org/Volumes/02/05/social_equality.html)                                                        |
 |   1911 |        2 | 5       | [Triumph](https://www.dareyoufight.org/Volumes/02/05/triumph.html)                                                                        |
 |   1911 |        2 | 5       | [The Races in Congress](https://www.dareyoufight.org/Volumes/02/05/races_congress.html)                                                   |
 |   1911 |        2 | 6       | [Forward Backward](https://www.dareyoufight.org/Volumes/02/06/forwardbackward.html)                                                       |
