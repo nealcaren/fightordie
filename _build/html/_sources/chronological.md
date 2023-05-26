@@ -47,7 +47,9 @@
 |   1911 |        2 | 4       | [Lynching](https://www.dareyoufight.org/Volumes/02/04/lynching.html)                                                                      |
 |   1911 |        2 | 4       | [London](https://www.dareyoufight.org/Volumes/02/04/london.html)                                                                          |
 |   1911 |        2 | 5       | [Social Equality](https://www.dareyoufight.org/Volumes/02/05/social_equality.html)                                                        |
+|   1911 |        2 | 5       | [Promotion of Prejudice](https://www.dareyoufight.org/Volumes/02/05/promotion.html)                                                       |
 |   1911 |        2 | 5       | [Triumph](https://www.dareyoufight.org/Volumes/02/05/triumph.html)                                                                        |
+|   1911 |        2 | 5       | [The World in Council](https://www.dareyoufight.org/Volumes/02/05/world.html)                                                             |
 |   1911 |        2 | 5       | [The Races in Congress](https://www.dareyoufight.org/Volumes/02/05/races_congress.html)                                                   |
 |   1911 |        2 | 6       | [Forward Backward](https://www.dareyoufight.org/Volumes/02/06/forwardbackward.html)                                                       |
 |   1911 |        3 | 1       | [The Quadroon](https://www.dareyoufight.org/Volumes/03/01/quadroon.html)                                                                  |

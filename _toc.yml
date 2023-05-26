@@ -23,6 +23,7 @@ chapters:
   - file: Volumes/02/03/discrimination.md
   - file: Volumes/02/04/races.md
   - file: Volumes/02/05/social_equality.md
+  - file: Volumes/02/05/promotion.md
   - file: Volumes/03/04/light.md
   - file: Volumes/06/02/logic.md
   - file: Volumes/08/05/does_race_antagonism.md
@@ -277,8 +278,6 @@ chapters:
 
 - file: Sections/global
   sections:
-  - file: Volumes/01/02/races_in_conference.md
-  - file: Volumes/02/05/races_congress.md
   - file: Volumes/07/06/brazil.md
   - file: Sections/wwi
     sections:
@@ -318,6 +317,9 @@ chapters:
     - file: Volumes/39/03/hawaii.md
   - file: Sections/pan-africanism
     sections:
+    - file: Volumes/01/02/races_in_conference.md
+    - file: Volumes/02/05/world.md
+    - file: Volumes/02/05/races_congress.md
     - file: Volumes/17/04/africa.md
     - file: Volumes/18/01/my_mission.md
     - file: Volumes/19/03/race_pride.md
