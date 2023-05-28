@@ -421,12 +421,15 @@ chapters:
     sections:
     - file: Volumes/01/03/baltimore.md
     - file: Volumes/01/05/methodist_church_north.md
+    - file: Volumes/03/01/social_equality.md
     - file: Volumes/14/01/white_church.md
     - file: Volumes/36/05/missionaries.md
+    - file: Volumes/40/10/church_and_religion.md
   - file: Sections/misc
     sections: 
     - file: Volumes/01/03/envy.md
     - file: Volumes/02/02/starvation_and_prejudice.md
+    - file: Volumes/03/01/census.md
     - file: Volumes/02/06/knowledge.md
     - file: Volumes/11/02/booker_t_washington.md
     - file: Volumes/12/03/open_letter.md
@@ -444,7 +447,6 @@ chapters:
     - file: Volumes/40/02/our_rate_of_increase.md
     - file: Volumes/40/02/our_health.md
     - file: Volumes/40/02/its_a_girl.md
-    - file: Volumes/40/10/church_and_religion.md
     - file: Volumes/40/12/matter_of_manners.md
     - file: Other_Pubs/african_roots_of_war.md
 
