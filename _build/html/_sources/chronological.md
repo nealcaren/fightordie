@@ -64,6 +64,8 @@
 |   1911 |        3 | 2       | [Christmas Gift](https://www.dareyoufight.org/Volumes/03/02/christmas_gift.html)                                                          |
 |   1911 |        3 | 2       | [Jesus Christ in Georgia](https://www.dareyoufight.org/Volumes/03/02/jesus_christ.html)                                                   |
 |   1911 |        3 | 2       | [The Cost of Education](https://www.dareyoufight.org/Volumes/03/02/cost_of_education.html)                                                |
+|   1912 |        3 | 3       | [Crime and Lynching](https://www.dareyoufight.org/Volumes/03/03/crime_and_lynching.html)                                                  |
+|   1912 |        3 | 3       | [A Mild Suggestion](https://www.dareyoufight.org/Volumes/03/03/mild_suggestion.html)                                                      |
 |   1912 |        3 | 4       | [Light](https://www.dareyoufight.org/Volumes/03/04/light.html)                                                                            |
 |   1912 |        3 | 4       | [The Gall of Bitterness](https://www.dareyoufight.org/Volumes/03/04/gail_of_bitterness.html)                                              |
 |   1912 |        3 | 5       | [Homes](https://www.dareyoufight.org/Volumes/03/05/homes.html)                                                                            |

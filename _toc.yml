@@ -58,6 +58,7 @@ chapters:
     - file: Volumes/02/04/lynching.md
     - file: Volumes/02/05/triumph.md
     - file: Volumes/02/06/hail_columbia.md
+    - file: Volumes/03/03/crime_and_lynching.md
     - file: Volumes/07/05/lynching.md
     - file: Volumes/08/03/cause_of_lynching.md
     - file: Volumes/11/06/peonage.md
@@ -365,6 +366,7 @@ chapters:
     sections:
     - file: Volumes/01/02/precept_and_practice.md
     - file: Volumes/03/02/jesus_christ.md
+    - file: Volumes/03/03/mild_suggestion.md
     - file: Volumes/26/02/on_being_crazy.md
   - file: Sections/poetry
     sections:

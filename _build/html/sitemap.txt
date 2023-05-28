@@ -51,6 +51,8 @@ https://www.dareyoufight.org/Sections/criminal_justice.html
 https://www.dareyoufight.org/Sections/short_stories.html
 https://www.dareyoufight.org/_static/webpack-macros.html
 https://www.dareyoufight.org/_static/sbt-webpack-macros.html
+https://www.dareyoufight.org/Volumes/03/03/mild_suggestion.html
+https://www.dareyoufight.org/Volumes/03/03/crime_and_lynching.html
 https://www.dareyoufight.org/Volumes/03/04/gail_of_bitterness.html
 https://www.dareyoufight.org/Volumes/03/04/light.html
 https://www.dareyoufight.org/Volumes/03/05/homes.html
