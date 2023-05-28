@@ -24,6 +24,8 @@ chapters:
   - file: Volumes/02/04/races.md
   - file: Volumes/02/05/social_equality.md
   - file: Volumes/02/05/promotion.md
+  - file: Volumes/03/01/ezekielism.md
+  - file: Volumes/03/02/sin.md
   - file: Volumes/03/04/light.md
   - file: Volumes/06/02/logic.md
   - file: Volumes/08/05/does_race_antagonism.md
@@ -151,6 +153,7 @@ chapters:
     - file: Volumes/01/01/Voting.md
     - file: Volumes/01/02/election.md
     - file: Volumes/02/06/taft.md
+    - file: Volumes/03/02/christmas_gift.md
     - file: Volumes/04/04/politics.md
     - file: Volumes/08/05/last_word_in_politics.md
     - file: Volumes/10/01/the_republicans.md
@@ -409,6 +412,7 @@ chapters:
     - file: Volumes/01/05/blair_bill.md
     - file: Volumes/02/02/education.md
     - file: Volumes/02/03/high_school.md
+    - file: Volumes/03/02/cost_of_education.md
     - file: Volumes/10/03/education.md
     - file: Volumes/15/01/hampton.md
     - file: Volumes/15/04/negro_education.md
@@ -422,6 +426,7 @@ chapters:
     - file: Volumes/01/03/baltimore.md
     - file: Volumes/01/05/methodist_church_north.md
     - file: Volumes/03/01/social_equality.md
+    - file: Volumes/03/01/christianity_rampant.md
     - file: Volumes/14/01/white_church.md
     - file: Volumes/36/05/missionaries.md
     - file: Volumes/40/10/church_and_religion.md

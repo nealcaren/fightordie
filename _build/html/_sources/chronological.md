@@ -55,10 +55,15 @@
 |   1911 |        2 | 6       | [Mr. Taft](https://www.dareyoufight.org/Volumes/02/06/taft.html)                                                                          |
 |   1911 |        2 | 6       | [Forward Backward](https://www.dareyoufight.org/Volumes/02/06/forwardbackward.html)                                                       |
 |   1911 |        2 | 6       | [Knowledge](https://www.dareyoufight.org/Volumes/02/06/knowledge.html)                                                                    |
+|   1911 |        3 | 1       | ["'Ezekielism'"](https://www.dareyoufight.org/Volumes/03/01/ezekielism.html)                                                              |
 |   1911 |        3 | 1       | [The Quadroon](https://www.dareyoufight.org/Volumes/03/01/quadroon.html)                                                                  |
 |   1911 |        3 | 1       | ["'Social Equality'"](https://www.dareyoufight.org/Volumes/03/01/social_equality.html)                                                    |
+|   1911 |        3 | 1       | [Christianity Rampant](https://www.dareyoufight.org/Volumes/03/01/christianity_rampant.html)                                              |
 |   1911 |        3 | 1       | [The Census](https://www.dareyoufight.org/Volumes/03/01/census.html)                                                                      |
+|   1911 |        3 | 2       | [The Sin Against the Holy Ghost](https://www.dareyoufight.org/Volumes/03/02/sin.html)                                                     |
+|   1911 |        3 | 2       | [Christmas Gift](https://www.dareyoufight.org/Volumes/03/02/christmas_gift.html)                                                          |
 |   1911 |        3 | 2       | [Jesus Christ in Georgia](https://www.dareyoufight.org/Volumes/03/02/jesus_christ.html)                                                   |
+|   1911 |        3 | 2       | [The Cost of Education](https://www.dareyoufight.org/Volumes/03/02/cost_of_education.html)                                                |
 |   1912 |        3 | 4       | [Light](https://www.dareyoufight.org/Volumes/03/04/light.html)                                                                            |
 |   1912 |        3 | 4       | [The Gall of Bitterness](https://www.dareyoufight.org/Volumes/03/04/gail_of_bitterness.html)                                              |
 |   1912 |        3 | 5       | [Homes](https://www.dareyoufight.org/Volumes/03/05/homes.html)                                                                            |
