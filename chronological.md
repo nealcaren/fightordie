@@ -68,6 +68,8 @@
 |   1912 |        3 | 3       | [A Mild Suggestion](https://www.dareyoufight.org/Volumes/03/03/mild_suggestion.html)                                                      |
 |   1912 |        3 | 4       | [Light](https://www.dareyoufight.org/Volumes/03/04/light.html)                                                                            |
 |   1912 |        3 | 4       | [The Gall of Bitterness](https://www.dareyoufight.org/Volumes/03/04/gail_of_bitterness.html)                                              |
+|   1912 |        3 | 4       | [China](https://www.dareyoufight.org/Volumes/03/04/china.html)                                                                            |
+|   1912 |        3 | 4       | [The Durbar](https://www.dareyoufight.org/Volumes/03/04/durbar.html)                                                                      |
 |   1912 |        3 | 5       | [Divine Right](https://www.dareyoufight.org/Volumes/03/05/divine_right.html)                                                              |
 |   1912 |        3 | 5       | [Homes](https://www.dareyoufight.org/Volumes/03/05/homes.html)                                                                            |
 |   1912 |        3 | 5       | [The Servant in the South](https://www.dareyoufight.org/Volumes/03/06/servant_in_the_south.html)                                          |

@@ -19,7 +19,7 @@ As *Dare You Fight* grows, it should prove to be an indispensable resource for r
 -->
 &nbsp;    
 
-**Work in progress.** This site currently includes 395 articles, but hundreds more are in <span style="font-variant:small-caps;">The Crisis</span> archives. If you want to help make more articles available, look at our [Contribution Guide](https://github.com/nealcaren/fightordie/blob/main/contributing.md), or email [me](mailto:nealcaren@unc.edu).
+**Work in progress.** This site currently includes 397 articles, but hundreds more are in <span style="font-variant:small-caps;">The Crisis</span> archives. If you want to help make more articles available, look at our [Contribution Guide](https://github.com/nealcaren/fightordie/blob/main/contributing.md), or email [me](mailto:nealcaren@unc.edu).
 
 &nbsp;    
 

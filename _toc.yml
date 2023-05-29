@@ -307,6 +307,8 @@ chapters:
 
   - file: Sections/colonialization
     sections:
+    - file: Volumes/03/04/china.md
+    - file: Volumes/03/04/durbar.md
     - file: Volumes/10/01/peace.md
     - file: Volumes/10/06/hayti.md 
     - file: Volumes/10/02/amazing_island.md
