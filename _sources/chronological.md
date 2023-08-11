@@ -350,6 +350,7 @@
 |   1931 |       38 | 4       | [Woofterism](https://www.dareyoufight.org/Volumes/38/03/woofterism.html)                                                                  |
 |   1931 |       38 | 9       | [The Negro and Communism](https://www.dareyoufight.org/Volumes/38/09/negro_and_communism.html)                                            |
 |   1932 |       39 | 1       | [John Brown](https://www.dareyoufight.org/Volumes/39/01/john_brown.html)                                                                  |
+|   1932 |       39 | 11      | [If I Had a Million Dollars: A Review of the Phelps Stokes Fund](https://www.dareyoufight.org/Volumes/39/11/million_dollars.html)         |
 |   1932 |       39 | 11      | [Herbert Hoover](https://www.dareyoufight.org/Volumes/39/11/herbert_hoover.html)                                                          |
 |   1932 |       39 | 12      | [From a Traveller](https://www.dareyoufight.org/Volumes/39/12/from_a_traveler.html)                                                       |
 |   1932 |       39 | 2       | [Lynchings](https://www.dareyoufight.org/Volumes/39/02/lynchings.html)                                                                    |
