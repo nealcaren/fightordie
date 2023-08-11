@@ -34,6 +34,15 @@
   font-display: swap;
 }
 
+:root {
+  --pst-color-primary: black;
+}
+
+
+html[data-theme=dark],html[data-theme=light] {
+  --pst-color-primary: #616161
+}
+
 body {
   font-family: "et-book", "Palatino", "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
   background-color: white;
