@@ -1,0 +1,29 @@
+<!--
+title:   The Class Struggle
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1921
+volume:  22
+issue:   4
+pages:   151-152
+-->
+# The Class Struggle (1921)
+
+The N.A.A.C.P. hag been accused of not being a "revolutionary" body. This is quite true. We do not believe in revolution. We expect revolutionary changes in many parts of this life and this world, but we expect these changes to come mainly through reason, human sympathy and the education of children, and not by murder. We know that there have been times when organized murder seemed the only way out of wrong, but we believe those times have been very few, the cost of the remedy excessive, the results as terrible as beneficent, and we gravely doubt if in the future there will be any real recurrent necessity for such upheaval.
+
+Whether this is true or not, the N.A.A.C.P. is organized to agitate, to investigate, to expose, to defend, to reason, to appeal. This is our program and this is the whole of our program. What human reform demands today is light, more light; clear thought, accurate knowledge, careful distinctions.
+
+How far, for instance, does the dogma of the "class struggle" apply to black folk in the United States today? Theoretically we are a part of the world proletariat in the sense that we are mainly an exploited class of cheap laborers; but practically we are not a part of the white proletariat and are not recognized by that proletariat to any great extent. We are the victims of their physical oppression, social ostracism, economic exclusion and personal hatred; and when in self defense we seek sheer subsistence we are howled down as "scabs".
+
+Then consider another thing: the colored group is not yet divided into capitalists and laborers. There are only the beginnings of such a division. In one hundred years if we develop along conventional lines we would have such fully separated classes, but today to a very large extent our laborers are our capitalists and our capitalists are our laborers. Our small class of well-to-do men have come to affluence largely through manual toil and have never been physically or mentally separated from the toilers. Our professional classes are sons and daughters of porters, washerwomen and laborers.
+
+Under these circumstances how silly it would be for us to try to apply the doctrine of the class struggle without modification or thought. Let us take a particular instance. Ten years ago the Negroes of New York City lived in hired tenement houses in Harlem, having gotten possession of them by paying higher rents than If they had tried to white tenants. If they had tried to escape these high rents and move into quarters where white laborers lived, the white laborers would have mobbed and murdered them. On the other hand, the white capitalists raised heaven and earth either to drive them out of Harlem or keep their rents high. Now between this devil and deep sea, what ought the Negro socialist or the Negro radical or, for that matter, the Negro conservative do?
+
+Manifestly there was only one thing for him to do, and that was to buy Harlem; but the buying of real estate calls for capital and credit, and the institutions that deal in capital and credit are capitalistic institutions. If now, the Negro had begun to fight capital in Harlem, what capital was he fighting? If he fought capital as represented by white big real estate interests, he was wise; but he was also just as wise when he fought labor which insisted on segregating him in work and in residence.
+
+If, on the other hand, he fought the accumulating capital in his own group, which was destined in the years 1915 to 1920 to pay down $5,000,000 for real estate in Harlem, then he was slapping himself in his own face. Because either he must furnish capital for the buying of his own home, or rest naked in the slums and swamps. It is for this reason that there is today a strong movement in Harlem for a Negro bank, and a movement which is going soon to be successful. This Negro bank eventually is going to bring into cooperation and concentration the resources of fifty or sixty other Negro banks in the United States, and this aggregation of capital is going to be used to break the power of white capital in enslaving and exploiting the darker world.
+
+Whether this is a program of socialism or capitalism does not concern us. It is the only program that means salvation to the Negro race. The main danger and the central question of the capitalistic development through which the Negro American group is forced to go is the question of the ultimate control of the capital which they must raise and use. If this capital is going to be controlled by a few men for their own benefit, then we are destined to suffer from our own capitalists exactly what we are suffering from white capitalists today. And while this is not a pleasant prospect, it is certainly no worse than the present actuality. If, on the other hand, because of our more democratic organization and our widespread inter-class sympathy we can introduce a more democratic control, taking advantage of what the white world is itself doing to introduce industrial democracy, then we may not only escape our present economic slavery but even guide and lead a distrait economic world.
+
+______________
+*Citation:* Du Bois, W.E.B. 1921. "The Class Struggle." *The Crisis*. 22(4):151&ndash;152.
