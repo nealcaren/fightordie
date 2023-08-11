@@ -1,5 +1,0 @@
-# Segregation
-
-
-```{tableofcontents}
-```

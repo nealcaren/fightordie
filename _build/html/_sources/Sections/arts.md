@@ -1,5 +1,0 @@
-# The Arts
-
-
-```{tableofcontents}
-```

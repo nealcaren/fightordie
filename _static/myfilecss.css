@@ -40,6 +40,9 @@ body {
   color: #111; 
 }
 
+a {
+  color: black;
+}
 #search-input {
   font-family: "et-book", "Palatino", "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
   background-color: white;
