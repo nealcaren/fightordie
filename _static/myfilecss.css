@@ -40,6 +40,7 @@ body {
   color: #111; 
 }
 
+
 #search-input {
   font-family: "et-book", "Palatino", "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
   background-color: white;
@@ -266,6 +267,12 @@ hr .docutils {
   font-size: 0.75em;
 }
 
+a {
+  color: #111;
+}
+
+
+
 @media screen and (max-device-width: 480px) {
   blockquote div > p {
     padding-right: 1em;
@@ -280,5 +287,8 @@ hr .docutils {
     -webkit-hyphens: auto;
     -ms-hyphens: auto;
     hyphens: auto;
+  }
+  a {
+    color: #111;
   }
 }
