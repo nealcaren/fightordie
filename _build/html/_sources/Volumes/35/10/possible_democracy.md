@@ -29,6 +29,7 @@ One of the most interesting statements on clique government in the South comes f
 Let us see how far we can illustrate this state of affairs by figures: we will take eleven Southern states - Virginia, North Carolina, South Carolina, Georgia, Florida, Alabama, Mississippi, Arkansas, Louisiana, Oklahoma and Texas. We have the following facts as to the increase of population and of voting population in the presidential elections.
 
 <p style="text-align:center">POPULATION</p>
+
 |&nbsp;|&nbsp;|&nbsp;|&nbsp;|
 |------|-------------|------|-------------|
 | 1870 | 8,228,826   | 1900 | 17,745,821  |
@@ -36,6 +37,7 @@ Let us see how far we can illustrate this state of affairs by figures: we will t
 | 1890 | 14,197,747  | 1920 | 24,797,353  |
 
 The presidential vote during this time has been as follows:
+
 |&nbsp;|&nbsp;|&nbsp;|&nbsp;|
 |------|-------------|------|-------------|
 | 1872 | 1,238,141   | 1900 | 1,572,414   |
@@ -51,6 +53,7 @@ The population in these states increased over 200 per cent since 1870, but the v
 Moreover, the increase of voting from 1904 to 1924 is mainly in North Carolina, Oklahoma and Texas. If we take the five states of Alabama, Georgia, Louisiana, Mississippi and South Carolina, we have this result:
 
 <p style="text-align:center">POPULATION</p>
+
 |&nbsp;|&nbsp;|&nbsp;|&nbsp;|
 |------|-------------|------|-------------|
 | 1870 | 4,441,544   | 1900 | 8,318,238   |
@@ -59,6 +62,7 @@ Moreover, the increase of voting from 1904 to 1924 is mainly in North Carolina, 
 </center>
 
 <p style="text-align:center">PRESIDENTIAL VOTE</p>
+
 |&nbsp;|&nbsp;|&nbsp;|&nbsp;|
 |------|-------------|------|-------------|
 | 1872 | 661,770     | 1900 | 449,141     |
