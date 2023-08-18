@@ -29,15 +29,14 @@ One of the most interesting statements on clique government in the South comes f
 Let us see how far we can illustrate this state of affairs by figures: we will take eleven Southern states - Virginia, North Carolina, South Carolina, Georgia, Florida, Alabama, Mississippi, Arkansas, Louisiana, Oklahoma and Texas. We have the following facts as to the increase of population and of voting population in the presidential elections.
 
 <p style="text-align:center">POPULATION</p>
-<center>
+
 |------|-------------|------|-------------|
 | 1870 | 8,228,826   | 1900 | 17,745,821  |
 | 1880 | 11,457,878  | 1910 | 21,884,778  |
 | 1890 | 14,197,747  | 1920 | 24,797,353  |
-</center>
 
 The presidential vote during this time has been as follows:
-<center>
+
 |------|-------------|------|-------------|
 | 1872 | 1,238,141   | 1900 | 1,572,414   |
 | 1876 | 1,606,230   | 1904 | 1,091,679   |
@@ -46,14 +45,13 @@ The presidential vote during this time has been as follows:
 | 1889 | 1,808,964   | 1916 | 1,857,240   |
 | 1892 | 1,870,948   | 1920 | 2,662,588   |
 | 1896 | 1,945,463   | 1924 | 2,865,747   |
-</center>
 
 The population in these states increased over 200 per cent since 1870, but the voting population has increased only 131% over 1872, despite woman suffrage. If we compare the population 1890-1920 and the voters 1892-1920, we find the population has increased 75% and the voters 42% despite the doubling of the electorate by woman suffrage. In other words, we have in the South today not only a nullification of the 15th but also of the 19th Amendment.
 
 Moreover, the increase of voting from 1904 to 1924 is mainly in North Carolina, Oklahoma and Texas. If we take the five states of Alabama, Georgia, Louisiana, Mississippi and South Carolina, we have this result:
 
 <p style="text-align:center">POPULATION</p>
-<center>
+
 |------|-------------|------|-------------|
 | 1870 | 4,441,544   | 1900 | 8,318,238   |
 | 1880 | 5,871,805   | 1910 | 9,716,116   |
@@ -61,7 +59,7 @@ Moreover, the increase of voting from 1904 to 1924 is mainly in North Carolina, 
 </center>
 
 <p style="text-align:center">PRESIDENTIAL VOTE</p>
-<center>
+
 |------|-------------|------|-------------|
 | 1872 | 661,770     | 1900 | 449,141     |
 | 1876 | 844,001     | 1904 | 377,151     |
@@ -70,7 +68,6 @@ Moreover, the increase of voting from 1904 to 1924 is mainly in North Carolina, 
 | 1888 | 629,675     | 1916 | 499,434     |
 | 1892 | 693,127     | 1920 | 667,406     |
 | 1896 | 598,092     | 1924 | 617,327     |
-</center>
 
 We can see here the enfranchisement of the Negro (1872-76). His disfranchisement first by intimidation (1880-84) and then by law (1892-1904); then a slow increase of the white vote, accelerated by the 19th Amendment in 1920 but checked in 1924.
 
@@ -79,7 +76,7 @@ The effect of the 19th Amendment is interesting: not only Negroes but white men 
 In other words, in these five states, out of a total of 5,145,282 persons 21 years of age and over, there were 635,512 votes cast in 1920. There were in this election, therefore, disfranchised voluntarily or involuntarily, 4,489,770 persons. Subtracting 19,000 Negroes as actually voting from the total number of Negroes 21 years of age and over, we have 2,215,991 Negroes disfranchised. But we also have 2,297,799 whites disfranchised, which is a fair indication of the cost of Negro disfranchisement in these five states.
 
 <p style="text-align:center">VOTERS - SOUTH - 1920</p>
-<center>
+
 |                   | White     | Negro     | Total     | Votes      | Disfranchised |
 |-------------------|-----------|-----------|-----------|------------|---------------|
 | South Carolina    | 403,061   | 376,930   | 779,991   | 66,150     | 713,841       |
@@ -101,8 +98,6 @@ In other words, in these five states, out of a total of 5,145,282 persons 21 yea
 | Louisiana        | 1,000            | 358,251               | 449,849              |
 |                  |------------------|-----------------------|----------------------|
 |                  | 19,000           | 2,215,771             | 2,297,799            |
-
-</center>
 
 There is one consideration which, in the opinion of some, modifies these figures. In each one of these states there is practically but one party and a "white primary". Ostensibly to make the exclusion of the Negro voter doubly sure a system came into vogue by which only white voters are admitted to the dominant party primary and the condition of admittance was a promise to abide by the decision of the primary. 
 
