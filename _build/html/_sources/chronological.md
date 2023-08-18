@@ -308,6 +308,7 @@
 |   1927 |       34 | 6       | [Mob Tactics](https://www.dareyoufight.org/Volumes/34/06/mob_tactics.html)                                                                |
 |   1927 |       34 | 8       | [Death Rates](https://www.dareyoufight.org/Volumes/34/08/death_rates.html)                                                                |
 |   1927 |       34 | 9       | [Prejudice](https://www.dareyoufight.org/Volumes/34/09/prejudice.html)                                                                    |
+|   1928 |       35 | 10      | [The Possibility of Democracy in America](https://www.dareyoufight.org/Volumes/35/10/possible_democracy.html)                             |
 |   1928 |       35 | 11      | [On the Fence](https://www.dareyoufight.org/Volumes/35/11/on_the_fence.html)                                                              |
 |   1928 |       35 | 11      | [A Third Party](https://www.dareyoufight.org/Volumes/35/11/third_party.html)                                                              |
 |   1928 |       35 | 11      | [The Dunbar National Bank](https://www.dareyoufight.org/Volumes/35/11/dunbar_national_bank.html)                                          |
