@@ -20,8 +20,8 @@ But, reader, do you mean business? Do you realize what 10,000,000 united people 
 
 Or are you drifting, with so many white Americans, under the excuse that "Nothing can be done." "It's no use." "Let prejudice alone." Nonsense! Weak and slow though our cause still may be, yet remember: 
 
-> Not to the swift nor to the strong
-> The battles of the right belong, 
+> Not to the swift nor to the strong    
+> The battles of the right belong,     
 > For he who strikes for freedom wears 
 > The armor of the captive's prayers. 
 > And Nature proffers to his cause 
