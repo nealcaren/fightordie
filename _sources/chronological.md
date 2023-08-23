@@ -96,6 +96,7 @@
 |   1914 |        7 | 3       | [Join or Die](https://www.dareyoufight.org/Volumes/07/03/fightordie.html)                                                                 |
 |   1914 |        7 | 4       | [Work for Black Folk in 1914](https://www.dareyoufight.org/Volumes/07/04/work_for_black_folk.html)                                        |
 |   1914 |        7 | 5       | [Lynching](https://www.dareyoufight.org/Volumes/07/05/lynching.html)                                                                      |
+|   1914 |        7 | 6       | [Does Organization Pay?](https://www.dareyoufight.org/Volumes/07/06/does_organization_pay.html)                                           |
 |   1914 |        7 | 6       | [Brazil](https://www.dareyoufight.org/Volumes/07/06/brazil.html)                                                                          |
 |   1914 |        8 | 3       | [The Cause of Lynching](https://www.dareyoufight.org/Volumes/08/03/cause_of_lynching.html)                                                |
 |   1914 |        8 | 5       | [Does Race Antagonism Serve Any Good Purpose](https://www.dareyoufight.org/Volumes/08/05/does_race_antagonism.html)                       |
