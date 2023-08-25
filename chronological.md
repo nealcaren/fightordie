@@ -86,6 +86,10 @@
 |   1912 |        4 | 5       | [Brother Baptis' on Woman Suffrage](https://www.dareyoufight.org/Volumes/04/05/brother_batis.html)                                        |
 |   1912 |        5 | 1       | [The Last Word in Politics](https://www.dareyoufight.org/Volumes/05/01/last_word_in_politics.html)                                        |
 |   1912 |        5 | 1       | [The Second Birthday](https://www.dareyoufight.org/Volumes/05/01/second_birthday.html)                                                    |
+|   1912 |        5 | 2       | [The Black Mother](https://www.dareyoufight.org/Volumes/05/02/black_mother.html)                                                          |
+|   1912 |        5 | 2       | [The Election](https://www.dareyoufight.org/Volumes/05/02/the_election.html)                                                              |
+|   1912 |        5 | 2       | [The Odd Fellows](https://www.dareyoufight.org/Volumes/05/02/odd_fellows.html)                                                            |
+|   1912 |        5 | 2       | [The Truth](https://www.dareyoufight.org/Volumes/05/02/truth.html)                                                                        |
 |   1913 |       10 | 1       | [The Clansman](https://www.dareyoufight.org/Volumes/10/01/clansman.html)                                                                  |
 |   1913 |        5 | 4       | [Blessed Discrimination](https://www.dareyoufight.org/Volumes/05/04/blesseddiscrimination.html)                                           |
 |   1913 |        5 | 4       | [Intermarriage](https://www.dareyoufight.org/Volumes/05/04/intermarriage.html)                                                            |
