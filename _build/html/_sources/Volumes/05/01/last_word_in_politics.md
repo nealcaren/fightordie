@@ -2,23 +2,23 @@
 title:   The Last Word in Politics
 author:  Du Bois, W.E.B.
 journal: The Crisis
-year:    1913
+year:    1912
 volume:  5
 issue:   1
 pages:   184-186
 -->
 
-# The Last Word in Politics (1913)
+# The Last Word in Politics (1912)
 
 ```{margin}
-Advertisement placed by the National Colored Democratic League in the October 1912 [Crisis] {.smallcaps}
+Advertisement placed by the National Colored Democratic League in the October 1912 <span style="font-variant:small-caps;">Crisis</span>
 ![](/Images/ad2.jpg)
 
 ![](/Images/ad2.jpg)
 
 ```
 
-Before another number of [The Crisis] (.smallcaps} appears the next President of the United States will have been elected. We have, therefore, but this last word to colored voters and their friends. 
+Before another number of <span style="font-variant:small-caps;">The Crisis</span> appears the next President of the United States will have been elected. We have, therefore, but this last word to colored voters and their friends. 
 
 Those who have scanned our advertising pages this month and last have noted an unusual phenomenon: the three great political parties have in this way been appealing to the colored vote for support. They have done this out of no love to this magazine, but because they needed the publicity which this magazine alone could give and because they knew that our news columns and editorial pages were not for sale. We commend these advertisements to our readers' notice. They are the last word of political appeal and they are undoubtedly sincere. 
 
@@ -39,4 +39,4 @@ We sympathize with those faithful old black voters who will always vote the Repu
 We sincerely believe that even in the face of promises disconcertingly vague, and in the face of the solid caste-ridden South, it is better to elect Woodrow Wilson President of the United States and prove once for all if the Democratic party dares to be Democratic when it comes to black men. It has proven that it can be in many Northern States and cities. Can it be in the nation? We hope so and we are willing to risk a trial. 
 
 ______________
-*Citation:* Du Bois, W.E.B. 1913. "The Last Word in Politics." *The Crisis*. 5(1):184&ndash;186.
+*Citation:* Du Bois, W.E.B. 1912. "The Last Word in Politics." *The Crisis*. 5(1):184&ndash;186.
