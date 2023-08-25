@@ -85,6 +85,7 @@
 |   1912 |        4 | 5       | [Two Suffrage Movements](https://www.dareyoufight.org/Volumes/04/05/two_suffrage_movements.html)                                          |
 |   1912 |        4 | 5       | [Brother Baptis' on Woman Suffrage](https://www.dareyoufight.org/Volumes/04/05/brother_batis.html)                                        |
 |   1912 |        5 | 1       | [The Last Word in Politics](https://www.dareyoufight.org/Volumes/05/01/last_word_in_politics.html)                                        |
+|   1912 |        5 | 1       | [The Second Birthday](https://www.dareyoufight.org/Volumes/05/01/second_birthday.html)                                                    |
 |   1913 |       10 | 1       | [The Clansman](https://www.dareyoufight.org/Volumes/10/01/clansman.html)                                                                  |
 |   1913 |        5 | 4       | [Blessed Discrimination](https://www.dareyoufight.org/Volumes/05/04/blesseddiscrimination.html)                                           |
 |   1913 |        5 | 4       | [Intermarriage](https://www.dareyoufight.org/Volumes/05/04/intermarriage.html)                                                            |
