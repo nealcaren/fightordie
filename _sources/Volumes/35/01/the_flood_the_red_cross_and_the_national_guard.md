@@ -47,7 +47,6 @@ One of the hardest tasks of the Guard was that of getting out the labor detail n
 > To: Captain F. L. Wright, 106th Eng., Camp Fort Hill.    
 > &nbsp;
 > 1. Report reaching these Headquarters by Attorney Ewing (col.) and Dr. Penson (col.), as follows: L. R. Ruben, Camp Fort Hill, whipped last week; Sheffield Collins, reported whipped on the 19th of May; 25 men whipped on May 20th. Witnesses, Wess Edwards, Mary Cortney, Gertis Simpson, Yerger Cortney, James Loston. <br/> Another report, one woman whipped last week, taken to hospital, required seven stitches in her head.    
-> &nbsp; 
 > 2. You will make an immediate investigation of the above cases and report in writing to this office the results of your investigation.    
 > &nbsp; 
 > For the Commanding General:     
@@ -60,33 +59,21 @@ In compliance with this order Captain Wright "investigated" the matter. His repo
 > &nbsp; 
 Office of the Commanding General, Vicksburg, Miss.     
 > &nbsp; 
-May 30, 1927.
+May 30, 1927.    
 > &nbsp; 
 > Subject: Reported Whipping of Refugees in Camp Fort Hill.    
 > &nbsp; 
 > To : The Commanding General, Vicksburg, Miss.    
 > 1. I have investigated the above matter and find that on Friday morning, May 21st, 1927, it having been previously reported that refugees were leaving camp early in the morning in order to avoid being called on the different details necessary about the camp, the enlisted men in charge of details on this morning sent some men out beyond the guard posts for the purpose of catching any refugees leaving without authority, or a pass. On this particular morning they caught in the neighborhood of 25 negro men slipping out of camp; some of the negroes say that they counted 21 in the bunch. I have interviewed some of these negroes and attach hereto their statements, taken on last Monday. Some of the others I have talked to but at the time they were just leaving on the truck with a detail of laborers and I could not reduce their statements to writing and have them sign them. Each of the negroes, however, made practically the same statement.
 > 2. It would appear from what the negroes say about the matter, that they were slipping out of camp; some admit for the purpose of avoiding the labor details and the work to be done about the camp, and some offering excuses as to why they were leaving through the bushes at 4:30 A. M. It is my opinion, from what the negroes say, that they were caught slipping out of camp, and were taken under the hill and whipped, the men using a strap taken off of one of the rifles.
+> 3. It must be admitted, of course, that such measures should not be used by the soldiers, and it is my opinion that no such thing will ever occur again, and that had the men taken the time to consider, it would not have happened on this occasion, but if one is familiar with conditions, and considers for a moment what an undertaking it is for thirty odd soldiers to handle some five thousand people, then the enormity of the crime must be diminished, for under all conditions some means of discipline must be provided. No guns were drawn or held on the negroes, and no force was used to intimidate them, or force them to submit to the whipping. It was administered simply as a means of breaking up the practice of leaving camp without passes, and without any criminal intent.
+> 4. None of the negroes reported the matter, and each of them state that they desire to prefer no charges, but desire that the matter be dropped.
 
-3. It must be admitted, of course, that such measures should not be used by the soldiers, and it is my opinion that no such thing will ever occur again, and that had the men taken the time to consider, it would not have happened on this occasion, but if one is familiar with conditions, and considers for a moment what an undertaking it is for thirty odd soldiers to handle some five thousand people, then the enormity of the crime must be diminished, for under all conditions some means of discipline must be provided. No guns were drawn or held on the negroes, and no force was used to intimidate them, or force them to submit to the whipping. It was administered simply as a means of breaking up the practice of leaving camp without passes, and without any criminal intent.
-
-4. None of the negroes reported the matter, and each of them state that they desire to prefer no charges, but desire that the matter be dropped.
-
-<span style="font-variant:small-caps;">Statement of John Butler.</span>
-
-Greenville, Miss.
-
-On last Friday morning about 8 o'clock I was going down the Hill to Quarter Boat to get some clothes. I met some soldiers and they caught us and carried us up there and whipped us with a gun strap. I had been on night duty and was relieved when caught. 
-
-I have not complained to any person about the affair. I did not have a pass to go out of camp and I was not going by the regular road. 
-
-The morning after this affair another negro was severely beaten. The refugee was from another camp and protested against being sent to work by officers not in charge of his own camp. The matter being reported an investigation was ordered, which resulted in these statements made by the Captain, the Sergeant who administered the beating and the Negro girl who witnessed the alteration: 
-
-Investigation reveals that around 5:22 A. M., May 22, 1927, that the men getting out the morning labor detail found the said negro at a refugee negro girl's tent in area I. The negro was apparently a Ft. Hill refugee attempting to keep from going out to work. He said to Sergeant Hamlin and to negro girl that he wasn't going out to work, that he didn't have to work. He was told to get on the truck. He finally gave so much sass and bray talk before the other laborers that he was taken over in the ravine and given a lashing.
-
-This information was obtained from the negro girl and from Sergeant Hamlin.
-
-<span style="font-variant:small-caps;">W. K. McWilliams,</span> Capt., 106th Engrs.
+> <span style="font-variant:small-caps;">Statement of John Butler.</span>    
+> &nbsp;
+> Greenville, Miss.    
+> &nbsp;
+> On last Friday morning about 8 o'clock I was going down the Hill to Quarter Boat to get some clothes. I met some soldiers and they caught us and carried us up there and whipped us with a gun strap. I had been on night duty and was relieved when caught. <br/> I have not complained to any person about the affair. I did not have a pass to go out of camp and I was not going by the regular road. <br/> The morning after this affair another negro was severely beaten. The refugee was from another camp and protested against being sent to work by officers not in charge of his own camp. The matter being reported an investigation was ordered, which resulted in these statements made by the Captain, the Sergeant who administered the beating and the Negro girl who witnessed the alteration: <br/> Investigation reveals that around 5:22 A. M., May 22, 1927, that the men getting out the morning labor detail found the said negro at a refugee negro girl's tent in area I. The negro was apparently a Ft. Hill refugee attempting to keep from going out to work. He said to Sergeant Hamlin and to negro girl that he wasn't going out to work, that he didn't have to work. He was told to get on the truck. He finally gave so much sass and bray talk before the other laborers that he was taken over in the ravine and given a lashing.<br/>  This information was obtained from the negro girl and from Sergeant Hamlin.<br.><span style="font-variant:small-caps;">W. K. McWilliams,</span> Capt., 106th Engrs.
 
 <p style="text-align:center"> ~~~~~~~~~~~~~~~ </p>
 
@@ -94,7 +81,7 @@ The use of violence on the part of guardsmen toward Negro refugees was thoroughl
 
 A cafeteria was maintained for the purpose of feeding the Negro labor brought from camp. Other refugees were not to be allowed to enter. In practice the soldier in charge allowed the town refugees to enter and be fed, then, as they were about to leave, they were seized and forced to join the labor detail. In at least one instance this practice led to shooting the refugee who objected to being coerced. The official report of this shooting is as follows: 
 
-<span style="font-variant:small-caps;">Headquarters, Relief Expedition, Mississippi National Guard.</span>
+> <span style="font-variant:small-caps;">Headquarters, Relief Expedition, Mississippi National Guard.</span>    
 
 Vicksburg, Miss. 
 
