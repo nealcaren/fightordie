@@ -36,25 +36,23 @@ Cooperating with the Red Cross were many agencies, the important one in the camp
  
 One of the hardest tasks of the Guard was that of getting out the labor detail night and morning. In spite of the fact that those who remained in camp were put at work there, cleaning up, putting up or taking down tents, filling in trenches, etc., and that they were paid for outside work, it was increasingly difficult to get the required number. Force had to be resorted to. As the guardsmen were of course armed with guns and pistols which they showed entire willingness to use it should have been comparatively simple, but on numerous occasions Negroes were taken down the hill and beaten into submission before they could be loaded on the truck and sent to their day's labor. Reports of these beatings were made to General Green by colored citizens in Vicksburg, resulting in the following order to the Captain in charge at Camp Fort Hill:
 
-<span style="font-variant:small-caps;">Headquarters, Relief Expedition, Mississippi National Guard. </span>
+> <span style="font-variant:small-caps;">Headquarters, Relief Expedition, Mississippi National Guard. </span>
 
-Office of the Commanding General, Vicksburg, Miss.
-
-May 23rd, 1927.
-
-Subject: Whipping of Refugees.
-
-To : Captain F. L. Wright, 106th Eng., Camp Fort Hill.
-
-1. Report reaching these Headquarters by Attorney Ewing (col.) and Dr. Penson (col.), as follows: L. R. Ruben, Camp Fort Hill, whipped last week; Sheffield Collins, reported whipped on the 19th of May; 25 men whipped on May 20th. Witnesses, Wess Edwards, Mary Cortney, Gertis Simpson, Yerger Cortney, James Loston. 
-
-Another report, one woman whipped last week, taken to hospital, required seven stitches in her head.
-
-2. You will make an immediate investigation of the above cases and report in writing to this office the results of your investigation.
-
-For the Commanding General: 
-
-<span style="font-variant:small-caps;">G.B. Egger, </span> Lieut. Col., 155th Inf., Chief of Staff.
+> Office of the Commanding General, Vicksburg, Miss.
+> &nbsp;
+> May 23rd, 1927.
+> &nbsp;
+> Subject: Whipping of Refugees.
+> &nbsp;
+> To: Captain F. L. Wright, 106th Eng., Camp Fort Hill.
+> &nbsp;
+> 1. Report reaching these Headquarters by Attorney Ewing (col.) and Dr. Penson (col.), as follows: L. R. Ruben, Camp Fort Hill, whipped last week; Sheffield Collins, reported whipped on the 19th of May; 25 men whipped on May 20th. Witnesses, Wess Edwards, Mary Cortney, Gertis Simpson, Yerger Cortney, James Loston. <br/> Another report, one woman whipped last week, taken to hospital, required seven stitches in her head.
+> &nbsp; 
+> 2. You will make an immediate investigation of the above cases and report in writing to this office the results of your investigation.
+> &nbsp; 
+> For the Commanding General: 
+> > &nbsp; 
+> <span style="font-variant:small-caps;">G.B. Egger, </span> Lieut. Col., 155th Inf., Chief of Staff.
 
 In compliance with this order Captain Wright "investigated" the matter. His report to the General is as follows:
 
