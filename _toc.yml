@@ -445,6 +445,12 @@ chapters:
     - file: Volumes/40/10/church_and_religion.md
   - file: Sections/misc
     sections:
+    - file: Volumes/06/04/civil_rights.md
+    - file: Volumes/06/04/slavery.md
+    - file: Volumes/06/04/orphans.md
+    - file: Volumes/06/04/burleson.md
+    - file: Volumes/06/03/i_go_a_talking.md
+    - file: Volumes/06/03/newest_south.md
     - file: Volumes/34/08/panafrican_congresses.md
     - file: Volumes/34/08/wallace_battle_the_episcopal_church_and_mississippi.md
     - file: Volumes/35/01/the_flood_the_red_cross_and_the_national_guard.md
