@@ -73,7 +73,7 @@ May 30, 1927.
 > &nbsp;
 > Greenville, Miss.    
 > &nbsp;
-> On last Friday morning about 8 o'clock I was going down the Hill to Quarter Boat to get some clothes. I met some soldiers and they caught us and carried us up there and whipped us with a gun strap. I had been on night duty and was relieved when caught. <br/> I have not complained to any person about the affair. I did not have a pass to go out of camp and I was not going by the regular road. <br/> The morning after this affair another negro was severely beaten. The refugee was from another camp and protested against being sent to work by officers not in charge of his own camp. The matter being reported an investigation was ordered, which resulted in these statements made by the Captain, the Sergeant who administered the beating and the Negro girl who witnessed the alteration: <br/> Investigation reveals that around 5:22 A. M., May 22, 1927, that the men getting out the morning labor detail found the said negro at a refugee negro girl's tent in area I. The negro was apparently a Ft. Hill refugee attempting to keep from going out to work. He said to Sergeant Hamlin and to negro girl that he wasn't going out to work, that he didn't have to work. He was told to get on the truck. He finally gave so much sass and bray talk before the other laborers that he was taken over in the ravine and given a lashing.<br/>  This information was obtained from the negro girl and from Sergeant Hamlin.<br.><span style="font-variant:small-caps;">W. K. McWilliams,</span> Capt., 106th Engrs.
+> On last Friday morning about 8 o'clock I was going down the Hill to Quarter Boat to get some clothes. I met some soldiers and they caught us and carried us up there and whipped us with a gun strap. I had been on night duty and was relieved when caught. <br/> I have not complained to any person about the affair. I did not have a pass to go out of camp and I was not going by the regular road. <br/> The morning after this affair another negro was severely beaten. The refugee was from another camp and protested against being sent to work by officers not in charge of his own camp. The matter being reported an investigation was ordered, which resulted in these statements made by the Captain, the Sergeant who administered the beating and the Negro girl who witnessed the alteration: <br/> Investigation reveals that around 5:22 A. M., May 22, 1927, that the men getting out the morning labor detail found the said negro at a refugee negro girl's tent in area I. The negro was apparently a Ft. Hill refugee attempting to keep from going out to work. He said to Sergeant Hamlin and to negro girl that he wasn't going out to work, that he didn't have to work. He was told to get on the truck. He finally gave so much sass and bray talk before the other laborers that he was taken over in the ravine and given a lashing.<br/>  This information was obtained from the negro girl and from Sergeant Hamlin.<br/><span style="font-variant:small-caps;">W. K. McWilliams,</span> Capt., 106th Engrs.
 
 <p style="text-align:center"> ~~~~~~~~~~~~~~~ </p>
 
@@ -82,8 +82,8 @@ The use of violence on the part of guardsmen toward Negro refugees was thoroughl
 A cafeteria was maintained for the purpose of feeding the Negro labor brought from camp. Other refugees were not to be allowed to enter. In practice the soldier in charge allowed the town refugees to enter and be fed, then, as they were about to leave, they were seized and forced to join the labor detail. In at least one instance this practice led to shooting the refugee who objected to being coerced. The official report of this shooting is as follows: 
 
 > <span style="font-variant:small-caps;">Headquarters, Relief Expedition, Mississippi National Guard.</span>    
-
-Vicksburg, Miss. 
+> &nbsp;    
+> Vicksburg, Miss. 
 
 May 3, 1927. 
 
