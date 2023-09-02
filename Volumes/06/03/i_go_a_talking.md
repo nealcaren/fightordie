@@ -77,7 +77,7 @@ At Dallas was one of the strongest, truest religious leaders I have met. At Aust
 
 Atlanta is another story; so here let me end and, in ending, let me thank those who welcomed me, who paid my fees willingly and promptly, who were eager to listen to the message which I brought, not because it was wholly to their liking, but because it was sincere.
 
-All this by way of preface. In later numbers of <span style="font-variant:small-caps;">The Crisis</ span >I shall take up these groups and cities in greater detail and tell of their meaning and promise.
+All this by way of preface. In later numbers of <span style="font-variant:small-caps;">The Crisis</span> I shall take up these groups and cities in greater detail and tell of their meaning and promise.
 
 ______________
 *Citation:* Du Bois, W.E.B. 1913. "I Go A-Talking." *The Crisis*. 6(3):130&ndash;132.

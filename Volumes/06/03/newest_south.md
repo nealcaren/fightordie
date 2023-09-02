@@ -13,7 +13,7 @@ For the first time in history, Southern white men and Southern black men have me
 
 It was a splendid occasion. It was epoch making, and men like Dillard, Hunley, Branson Morse, Hammond and Scroggs are the real leaders of the newest South.
 
-But the old South is not dead. The *Atlanta Constitution* refused to report the congress. Hoke Smith's *Journal* refused to report the congress and Hearst's *Georgian*, under the disreputable John Temple Graves, did its best to foment lynching a black man since proven innocent, filling its columns with venom and lies and printing scarcely a word concerning the congress. The Bourbon South dies hard, but its doom is written in the stars.
+But the old South is not dead. The Atlanta *Constitution* refused to report the congress. Hoke Smith's *Journal* refused to report the congress and Hearst's *Georgian*, under the disreputable John Temple Graves, did its best to foment lynching a black man since proven innocent, filling its columns with venom and lies and printing scarcely a word concerning the congress. The Bourbon South dies hard, but its doom is written in the stars.
 
 ______________
 *Citation:* Du Bois, W.E.B. 1913. "The Newest South." *The Crisis*. 6(3):130.
