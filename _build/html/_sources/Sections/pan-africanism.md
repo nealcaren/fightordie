@@ -1,4 +1,0 @@
-# Pan-Africanism
-
-```{tableofcontents}
-```

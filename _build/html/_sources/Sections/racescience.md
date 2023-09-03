@@ -1,5 +1,0 @@
-# Science of race
-
-
-```{tableofcontents}
-```

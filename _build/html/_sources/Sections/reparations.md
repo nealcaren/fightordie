@@ -1,5 +1,0 @@
-# Reparations
-
-
-```{tableofcontents}
-```

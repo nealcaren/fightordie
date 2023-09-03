@@ -1,5 +1,0 @@
-# Race Riots
-
-
-```{tableofcontents}
-```
