@@ -103,7 +103,8 @@
 |   1913 |        6 | 4       | [Orphans](https://www.dareyoufight.org/Volumes/06/04/orphans.html)                                                                                                                       |
 |   1913 |        6 | 4       | [Burleson](https://www.dareyoufight.org/Volumes/06/04/burleson.html)                                                                                                                     |
 |   1913 |        6 | 7       | [Another Open Letter to Woodrow Wilson](https://www.dareyoufight.org/Volumes/06/05/open_letter.html)                                                                                     |
-|   1913 |        6 | 7       | [The People of Peoples and Their Gifts to Men](https://www.dareyoufight.org/Volumes/06/07/national_emancipation_exposition.html)                                                         |
+|   1913 |        6 | 7       | [The People of Peoples and Their Gifts to Men](https://www.dareyoufight.org/Volumes/07/01/national_emancipation_exposition.html)                                                         |
+|   1913 |        7 | 1       | [The Simple Way](https://www.dareyoufight.org/Volumes/07/01/simple_way.html)                                                                                                             |
 |   1914 |        7 | 3       | [Join or Die](https://www.dareyoufight.org/Volumes/07/03/fightordie.html)                                                                                                                |
 |   1914 |        7 | 4       | [Work for Black Folk in 1914](https://www.dareyoufight.org/Volumes/07/04/work_for_black_folk.html)                                                                                       |
 |   1914 |        7 | 5       | [Lynching](https://www.dareyoufight.org/Volumes/07/05/lynching.html)                                                                                                                     |

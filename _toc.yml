@@ -385,7 +385,7 @@ chapters:
     - file: Volumes/09/01/burden_of_black_women.md
   - file: Sections/theater
     sections:
-    - file: Volumes/06/07/national_emancipation_exposition.md
+    - file: Volumes/07/01/national_emancipation_exposition.md
     - file: Volumes/11/02/star_of_ethiopia.md
     - file: Volumes/12/03/drama_among_black_folk.md
     - file: Volumes/32/03/kgriwa.md
@@ -445,6 +445,7 @@ chapters:
     - file: Volumes/40/10/church_and_religion.md
   - file: Sections/misc
     sections:
+    - file: Volumes/07/01/simple_way.md
     - file: Volumes/06/04/civil_rights.md
     - file: Volumes/06/04/slavery.md
     - file: Volumes/06/04/orphans.md
