@@ -248,6 +248,8 @@ https://www.dareyoufight.org/Volumes/21/01/suffrage.html
 https://www.dareyoufight.org/Volumes/07/03/fightordie.html
 https://www.dareyoufight.org/Volumes/07/04/work_for_black_folk.html
 https://www.dareyoufight.org/Volumes/07/05/lynching.html
+https://www.dareyoufight.org/Volumes/07/01/simple_way.html
+https://www.dareyoufight.org/Volumes/07/01/national_emancipation_exposition.html
 https://www.dareyoufight.org/Volumes/07/06/does_organization_pay.html
 https://www.dareyoufight.org/Volumes/07/06/brazil.html
 https://www.dareyoufight.org/Volumes/38/03/woofterism.html
@@ -342,7 +344,6 @@ https://www.dareyoufight.org/Volumes/06/04/civil_rights.html
 https://www.dareyoufight.org/Volumes/06/04/burleson.html
 https://www.dareyoufight.org/Volumes/06/05/open_letter.html
 https://www.dareyoufight.org/Volumes/06/02/logic.html
-https://www.dareyoufight.org/Volumes/06/07/national_emancipation_exposition.html
 https://www.dareyoufight.org/Volumes/06/01/vigilance_committee.html
 https://www.dareyoufight.org/Volumes/39/03/dalton_ga.html
 https://www.dareyoufight.org/Volumes/39/03/to_your_tents.html
