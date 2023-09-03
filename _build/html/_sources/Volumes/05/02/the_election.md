@@ -1,0 +1,32 @@
+<!--
+title:   The Election
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1912
+volume:  5
+issue:   2
+pages:   75--76
+-->
+
+# The Election (1912)
+
+It is a source of deep gratification to <span style="font-variant:small-caps;">The Crisis</span>that William H. Taft and Theodore Roosevelt have been defeated in their candidacy for the presidency of this nation. Mr. Taft, refusing to follow the footsteps of the brave Abolitionist, his father, allowed the enemies of the Negro race in the South practically to dictate his policy toward black men. Theodore Roosevelt not only made and gloried in the wretched judicial lynching at Brownsville, but gave Negro disfranchisement its greatest encouragement by disfranchising 1,000,000 colored voters in the councils of his new party of social progress.
+
+We are gratified in New York State at the victory of Sulzer over Straus; the former has been a consistent sympathizer with black folk, and the latter, on at least two critical occasions, has failed them.
+
+We are gratified that at least 100,000 black votes went to swell the 6,000,000 that called Woodrow Wilson to the presidency. We do not as Negroes conceal or attempt to conceal the risk involved in this action. We have helped call to power not simply a scholar and a gentleman, but with him and in his closest counsels all the Negro-hating, disfranchising and lynching South. With Woodrow Wilson there triumphs, too. Hoke Smith, Cole Blease, Jim Vardanian and Jeff Davis, and other enemies of democracy and decency. We know that such men, being considered in this land the "social equals"of gentlemen and ladies, can come into close and continual contact with the new President, while colored men will meet him with the utmost difficulty.
+
+Why then did we vote for Mr. Wilson? Because, first, we faced desperate alternatives, and because, secondly, Mr. Wilson's personality gives us hope that reactionary Southern sentiment will not control him. How long shall a man submit to insult and injury from alleged friends without protest, even if the protest involves the encouragement of erstwhile enemies? Moreover, can Mr. Wilson be fairly considered an enemy? Deliberately, and over his own signature, he has expressed:
+
+1. His "earnest wash to see justice done them [the colored people] in every matter; and not mere grudging justice, but justice executed with liberality and cordial good feeling."
+2. Their right "to be encouraged in every possible and proper way."
+3. "I want to assure them that should I become President of the United States they may count upon me for absolute fair dealing, for everything by which I could assist in advancing the interests of their race in the United States."
+
+In such a statement from an honorable and sincere man there remains but one source of apprehension: How far are the colored people going to be allowed a chance to convince Mr. Wilson of injustice; how far may they indicate lines of encouragement, and how far will they be permitted to judge and speak as to their own interests?
+
+In other words, it is quite possible that Mr. Wilson, surrounded by counselors who hate us, may never realize what we suffer, how we are discouraged, and the hindrances to our advance. It will take, on Mr. Wilson's part, more than good will---it will demand active determination to know and receive the truth, to get at the sources of Negro public opinion and sympathize with wrongs that only Negroes know, if he fulfils his own promises and the hopes of millions of men.
+
+As to whether, beyond Mr. Wilson's personal efforts, the Democratic party is prepared to become a real party of the people, and advance toward those great ideals of social democracy which every true patriot desires, is a question. Certainly its first step will be to discard the Southern oligarchy and combine the liberal and progressive policies of North and South, white and black.
+
+______________
+*Citation:* Du Bois, W.E.B. 1912. "The Election." *The Crisis*. 5(2):75&ndash;76.

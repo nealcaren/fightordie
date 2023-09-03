@@ -1,0 +1,25 @@
+<!--
+title:   The Rise of the West Indian
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1920
+volume:  20
+issue:   5
+pages:   214--215
+-->
+# The Rise of the West Indian (1920)
+
+In 1880 there were 14,017 foreign born Negroes in the United States. This number increased slowly to 19,979 in 1890 and 20,336 in 1900. Then sudvdenly it doubled in a single decade to 40,339 in 1910 and in the last decade they have been arriving at the rate of over 5,000 a year. At present there are probably more than 100,000 foreign born Negroes in the United States, two-thirds of whom are from the West Indies and adjacent parts of South America.
+
+These facts make it increasingly necessary for us to understand this
+new ally in the fight for black democracy. We are naturally provincial in North America and we easily forget that our 12 million Negroes are but one-half the Negro population of the New World. To our own numbers we must add 6,000,000 in the West Indies, and 9,OOO,OOO in Central and South America.
+
+Moreover the Negro problem as seen by Negroes in the Islands and the other Americas differs from our problem and differs in such ways as to make misunderstanding very easy. In most of South America the solution of the race problem is found in amalgamation with the whites and where that is going on there is little migration to America. However, in centers like Jamaica, Haiti and Guiana, where there are comparatively few whites, a racial consciousness has been developed which not only does not find amalgamation but does not desire it. In Haiti this feeling made a nation. In Jamaica, Guiana and elsewhere it is today asserting itself in a great surge of activity. Migration to other islands and to North America has been large and the war has fostered widespread discontent.
+
+Especially have the islands become disgusted with their old leadership. These leaders were largely mulattoes and it was British policy to induce them by carefully distributed honors and preferment to identify their interests completely with the whites. The visitor to Jamaica sees no color line jn politics or society but he easily fails to note that the great mass of Negro peasantry has no real economic leadership or sympathy but is left to toil at a wretched wage and under disgraceful conditions.
+
+It is this mass of peasants, uplifted by war and migration, that is today beginning to assert itself at home and abroad, and their new cry of "Africa for the Africans" strikes
+with a startling surprise upon America's darker millions. The movement is as yet inchoate and indefinite, but it is tremendously human, piteously sincere and built in the souls of a hardworking, thrifty, independent people, who while long deprived of higher training have nevertheless very few illiterates or criminals. It is not beyond possibilities that this new Ethiopia of the Isles may yet stretch out hands of helpfulness to the 12 million black men of America.
+
+______________
+*Citation:* Du Bois, W.E.B. 1920. "The Rise of the West Indian." *The Crisis*. 20(5):214&ndash;215.
