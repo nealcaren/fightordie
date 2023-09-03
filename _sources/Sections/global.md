@@ -1,5 +1,0 @@
-# Global Affairs
-
-
-```{tableofcontents}
-```

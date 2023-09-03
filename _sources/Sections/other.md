@@ -1,5 +1,0 @@
-# Other Topics
-
-
-```{tableofcontents}
-```
