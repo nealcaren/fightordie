@@ -1,0 +1,19 @@
+<!--
+title:   Education
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1930
+volume:  37
+issue:   2
+pages:   65
+-->
+# Education (1930)
+
+Suppose that a Congressman is interested in the American Negro, realizing that the oppression of any group of twelve million people in America is dangerous to the whole country. Suppose he wants to do something to help the Negroes? What would be the most obvious thing that he could do?
+
+He might think of *disfranchisement* in the South; he might think of *lynching*, but he certainly would have to think of *education*. In education, the American Negro has suffered the most vital and damaging and inexcusable discrimination. He was forced by law to be illiterate until Emancipation; and since then the public schools of the South have proceeded to distribute public taxation so that, for instance, in Georgia, where the Negroes form 43 per cent of the population, they get but 9 per cent of the school funds; while $36.29 is expended for each white child a year, only $4.59 is expended for each colored child. In Mississippi, in many counties where the Negro forms three-fourths of the population, less than a $1.00 a year per child is spent on Negro education. In Tunica County, white children receive $63 a year for education and Negroes $4.40. In South Carolina, where a majority of the inhabitants are Negroes, the state spent, 1925--26, $14,673,719, for white schools, and $1,655,652 for Negro schools.
+
+This indicates a discrimination so fundamental and so calculated to perpetuate ignorance, crime, prejudice, poverty and disease, that any member of Congress who wishes to save his country might well begin by advocating the appropriation of United States funds to the various states on the basis of illiteracy *with the proviso* that there should be in its expenditure absolutely no discrimination between the races. If any member of Congress asks for the votes of American Negroes, they should ask him what his record has been on *national aid to education without discrimination as to race.* If he replies by saying that he supported the appropriations of Land Grant Funds, or the Smith-Hughes or the Smith-Lever Bills, ask him if in these appropriations of public funds for agricultural and technical education, he saw to it that no discrimination between races was to be allowed. As a matter of fact, the discrimination in the administration of these public funds against Negroes is open and notorious.
+
+_________________
+*Citation:* Du Bois, W.E.B. 1930. "Education." *The Crisis*. 37(2):65.

@@ -1,0 +1,5 @@
+# Politics
+
+
+```{tableofcontents}
+```
