@@ -102,6 +102,7 @@
 |   1913 |        6 | 4       | [Slavery](https://www.dareyoufight.org/Volumes/06/04/slavery.html)                                                                                                                       |
 |   1913 |        6 | 4       | [Orphans](https://www.dareyoufight.org/Volumes/06/04/orphans.html)                                                                                                                       |
 |   1913 |        6 | 4       | [Burleson](https://www.dareyoufight.org/Volumes/06/04/burleson.html)                                                                                                                     |
+|   1913 |        6 | 5       | [The Fruit of the Tree](https://www.dareyoufight.org/Volumes/06/05/fruit_of_tree.html)                                                                                                   |
 |   1913 |        6 | 7       | [Another Open Letter to Woodrow Wilson](https://www.dareyoufight.org/Volumes/06/05/open_letter.html)                                                                                     |
 |   1913 |        6 | 7       | [The People of Peoples and Their Gifts to Men](https://www.dareyoufight.org/Volumes/07/01/national_emancipation_exposition.html)                                                         |
 |   1913 |        7 | 1       | [The Simple Way](https://www.dareyoufight.org/Volumes/07/01/simple_way.html)                                                                                                             |

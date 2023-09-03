@@ -10,25 +10,19 @@ pages:   337-338
 
 # The Simple Way (1913)
 
-Some  ways of life are so simple. There was, fpr instance, a few years
+Some  ways of life are so simple. There was, for instance, a few years
 ago, a solution of the Negro problem so ridiculously simple that those
 who did not receive it as gospel were hooted if not stoned. The gist
 was this:
 
-The Negro must work out his own salvation.
-
-The Negro must make himself useful to his neighbors.
-
-The Negro must not complain.
-
-Duties must be taught Negroes --- never mind their rights.
-
-Negroes must let politics alone.
-
-Money talks---let the Negro get a \$5,000 brick house and his individual
+- The Negro must work out his own salvation.
+- The Negro must make himself useful to his neighbors.
+- The Negro must not complain.
+- Duties must be taught Negroes --- never mind their rights.
+- Negroes must let politics alone.
+- Money talks --- let the Negro get a \$5,000 brick house and his individual
 problem is solved.
-
-Etc., etc.
+- Etc., etc.
 
 All this the Negro has done. He has striven to solve his problems
 unaided. He is so useful to his neighbors that the problem of to-morrow
