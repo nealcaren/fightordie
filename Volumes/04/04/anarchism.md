@@ -20,12 +20,10 @@ Federal grand jury of Jefferson County says that justices and constables
 are deliberately enriching themselves by a system of extortion and
 intimidation:
 
-
 > For victims, whether male or female, it singles out, in every
 instance, those too poor or ignorant, too humble or frightened to
 protect themselves. *A very large majority are Negroes.* Were they not
 Negroes, but *members of a more resentful race, anarchism would be prevalent.*
-
 
 *WERE THEY NOT NEGROES!*
 

@@ -78,6 +78,7 @@
 |   1912 |        4 | 3       | [Organized Labor](https://www.dareyoufight.org/Volumes/04/03/organized_labor.html)                                                                                                       |
 |   1912 |        4 | 4       | [Politics](https://www.dareyoufight.org/Volumes/04/04/politics.html)                                                                                                                     |
 |   1912 |        4 | 4       | [Ohio](https://www.dareyoufight.org/Volumes/04/04/ohio.html)                                                                                                                             |
+|   1912 |        4 | 4       | [Anarchism](https://www.dareyoufight.org/Volumes/04/04/anarchism.html)                                                                                                                   |
 |   1912 |        4 | 5       | [Votes for Women](https://www.dareyoufight.org/Volumes/04/05/votes_for_women.html)                                                                                                       |
 |   1912 |        4 | 5       | [Garrison and Woman's Suffrage](https://www.dareyoufight.org/Volumes/04/05/garrison_and_womans_suffrage.html)                                                                            |
 |   1912 |        4 | 5       | [Colored Women as Voters](https://www.dareyoufight.org/Volumes/04/05/colored_women_as_voters.html)                                                                                       |
@@ -322,6 +323,7 @@
 |   1927 |       34 | 5       | [Coffeeville, Kanasas](https://www.dareyoufight.org/Volumes/34/05/coffeville_kansas.html)                                                                                                |
 |   1927 |       34 | 5       | [Flood](https://www.dareyoufight.org/Volumes/34/05/flood.html)                                                                                                                           |
 |   1927 |       34 | 6       | [Mob Tactics](https://www.dareyoufight.org/Volumes/34/06/mob_tactics.html)                                                                                                               |
+|   1927 |       34 | 8       | [Mencken](https://www.dareyoufight.org/Volumes/34/08/mencken.html)                                                                                                                       |
 |   1927 |       34 | 8       | [The Pan-African Congresses: The Story of a Growing Movement](https://www.dareyoufight.org/Volumes/34/08/panafrican_congresses.html)                                                     |
 |   1927 |       34 | 8       | [Wallace Battle, the Episcopal Church and Mississippi: A Story of Suppressed Truth](https://www.dareyoufight.org/Volumes/34/08/wallace_battle_the_episcopal_church_and_mississippi.html) |
 |   1927 |       34 | 8       | [Death Rates](https://www.dareyoufight.org/Volumes/34/08/death_rates.html)                                                                                                               |
