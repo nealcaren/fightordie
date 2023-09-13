@@ -73,6 +73,7 @@ https://www.dareyoufight.org/Volumes/03/06/servant_in_the_south.html
 https://www.dareyoufight.org/Volumes/04/03/organized_labor.html
 https://www.dareyoufight.org/Volumes/04/04/ohio.html
 https://www.dareyoufight.org/Volumes/04/04/politics.html
+https://www.dareyoufight.org/Volumes/04/04/anarchism.html
 https://www.dareyoufight.org/Volumes/04/05/two_suffrage_movements.html
 https://www.dareyoufight.org/Volumes/04/05/justice_of_woman_suffrage.html
 https://www.dareyoufight.org/Volumes/04/05/brother_batis.html
@@ -114,6 +115,7 @@ https://www.dareyoufight.org/Volumes/34/10/pullman_porters.html
 https://www.dareyoufight.org/Volumes/34/09/prejudice.html
 https://www.dareyoufight.org/Volumes/34/08/panafrican_congresses.html
 https://www.dareyoufight.org/Volumes/34/08/death_rates.html
+https://www.dareyoufight.org/Volumes/34/08/mencken.html
 https://www.dareyoufight.org/Volumes/34/08/wallace_battle_the_episcopal_church_and_mississippi.html
 https://www.dareyoufight.org/Volumes/34/01/aiken.html
 https://www.dareyoufight.org/Volumes/34/01/liberia.html
@@ -302,7 +304,6 @@ https://www.dareyoufight.org/Volumes/37/01/football.html
 https://www.dareyoufight.org/Volumes/37/01/about_marrying.html
 https://www.dareyoufight.org/Volumes/37/01/gambling.html
 https://www.dareyoufight.org/Volumes/08/03/cause_of_lynching.html
-https://www.dareyoufight.org/Volumes/08/05/last_word_in_politics.html
 https://www.dareyoufight.org/Volumes/08/05/does_race_antagonism.html
 https://www.dareyoufight.org/Volumes/01/03/winter_pilmigrage.html
 https://www.dareyoufight.org/Volumes/01/03/ashamed.html
