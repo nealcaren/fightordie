@@ -38,14 +38,13 @@ One of the hardest tasks of the Guard was that of getting out the labor detail n
 
 > <span style="font-variant:small-caps;">Headquarters, Relief Expedition, Mississippi National Guard. </span>    
 > &nbsp;
-> Office of the Commanding General, Vicksburg, Miss.    
+Office of the Commanding General, Vicksburg, Miss.    
 > &nbsp;
-> May 23rd, 1927.    
+May 23rd, 1927.    
 > &nbsp;
-> Subject: Whipping of Refugees.    
+Subject: Whipping of Refugees.    
 > &nbsp;
-> To: Captain F. L. Wright, 106th Eng., Camp Fort Hill.    
-> &nbsp;
+To: Captain F. L. Wright, 106th Eng., Camp Fort Hill.    
 > 1. Report reaching these Headquarters by Attorney Ewing (col.) and Dr. Penson (col.), as follows: L. R. Ruben, Camp Fort Hill, whipped last week; Sheffield Collins, reported whipped on the 19th of May; 25 men whipped on May 20th. Witnesses, Wess Edwards, Mary Cortney, Gertis Simpson, Yerger Cortney, James Loston. <br/> Another report, one woman whipped last week, taken to hospital, required seven stitches in her head.    
 > 2. You will make an immediate investigation of the above cases and report in writing to this office the results of your investigation.    
 > &nbsp; 
@@ -61,19 +60,27 @@ Office of the Commanding General, Vicksburg, Miss.
 > &nbsp; 
 May 30, 1927.    
 > &nbsp; 
-> Subject: Reported Whipping of Refugees in Camp Fort Hill.    
+Subject: Reported Whipping of Refugees in Camp Fort Hill.    
 > &nbsp; 
 > To : The Commanding General, Vicksburg, Miss.    
 > 1. I have investigated the above matter and find that on Friday morning, May 21st, 1927, it having been previously reported that refugees were leaving camp early in the morning in order to avoid being called on the different details necessary about the camp, the enlisted men in charge of details on this morning sent some men out beyond the guard posts for the purpose of catching any refugees leaving without authority, or a pass. On this particular morning they caught in the neighborhood of 25 negro men slipping out of camp; some of the negroes say that they counted 21 in the bunch. I have interviewed some of these negroes and attach hereto their statements, taken on last Monday. Some of the others I have talked to but at the time they were just leaving on the truck with a detail of laborers and I could not reduce their statements to writing and have them sign them. Each of the negroes, however, made practically the same statement.
 > 2. It would appear from what the negroes say about the matter, that they were slipping out of camp; some admit for the purpose of avoiding the labor details and the work to be done about the camp, and some offering excuses as to why they were leaving through the bushes at 4:30 A. M. It is my opinion, from what the negroes say, that they were caught slipping out of camp, and were taken under the hill and whipped, the men using a strap taken off of one of the rifles.
 > 3. It must be admitted, of course, that such measures should not be used by the soldiers, and it is my opinion that no such thing will ever occur again, and that had the men taken the time to consider, it would not have happened on this occasion, but if one is familiar with conditions, and considers for a moment what an undertaking it is for thirty odd soldiers to handle some five thousand people, then the enormity of the crime must be diminished, for under all conditions some means of discipline must be provided. No guns were drawn or held on the negroes, and no force was used to intimidate them, or force them to submit to the whipping. It was administered simply as a means of breaking up the practice of leaving camp without passes, and without any criminal intent.
 > 4. None of the negroes reported the matter, and each of them state that they desire to prefer no charges, but desire that the matter be dropped.
-
-> <span style="font-variant:small-caps;">Statement of John Butler.</span>    
+>
+> <span style="font-variant:small-caps;">Statement of John Butler,</span>      
+Greenville, Miss.      
+> On last Friday morning about 8 o'clock I was going down the Hill to Quarter Boat to get some clothes. I met some soldiers and they caught us and carried us up there and whipped us with a gun strap. I had been on night duty and was relieved when caught.     
+> I have not complained to any person about the affair. I did not have a pass to go out of camp and I was not going by the regular road. 
+> &nbsp;      
 > &nbsp;
-> Greenville, Miss.    
-> &nbsp;
-> On last Friday morning about 8 o'clock I was going down the Hill to Quarter Boat to get some clothes. I met some soldiers and they caught us and carried us up there and whipped us with a gun strap. I had been on night duty and was relieved when caught. <br/> I have not complained to any person about the affair. I did not have a pass to go out of camp and I was not going by the regular road. <br/> The morning after this affair another negro was severely beaten. The refugee was from another camp and protested against being sent to work by officers not in charge of his own camp. The matter being reported an investigation was ordered, which resulted in these statements made by the Captain, the Sergeant who administered the beating and the Negro girl who witnessed the alteration: <br/> Investigation reveals that around 5:22 A. M., May 22, 1927, that the men getting out the morning labor detail found the said negro at a refugee negro girl's tent in area I. The negro was apparently a Ft. Hill refugee attempting to keep from going out to work. He said to Sergeant Hamlin and to negro girl that he wasn't going out to work, that he didn't have to work. He was told to get on the truck. He finally gave so much sass and bray talk before the other laborers that he was taken over in the ravine and given a lashing.<br/>  This information was obtained from the negro girl and from Sergeant Hamlin.<br/><span style="font-variant:small-caps;">W. K. McWilliams,</span> Capt., 106th Engrs.
+> The morning after this affair another negro was severely beaten. The refugee was from another camp and protested against being sent to work by officers not in charge of his own camp. The matter being reported an investigation was ordered, which resulted in these statements made by the Captain, the Sergeant who administered the beating and the Negro girl who witnessed the alteration: 
+>
+> Investigation reveals that around 5:22 A. M., May 22, 1927, that the men getting out the morning labor detail found the said negro at a refugee negro girl's tent in area I. The negro was apparently a Ft. Hill refugee attempting to keep from going out to work. He said to Sergeant Hamlin and to negro girl that he wasn't going out to work, that he didn't have to work. He was told to get on the truck. He finally gave so much sass and bray talk before the other laborers that he was taken over in the ravine and given a lashing.
+>
+> This information was obtained from the negro girl and from Sergeant Hamlin.
+>
+><span style="font-variant:small-caps;">W. K. McWilliams,</span> Capt., 106th Engrs.
 
 <p style="text-align:center"> ~~~~~~~~~~~~~~~ </p>
 
@@ -81,29 +88,26 @@ The use of violence on the part of guardsmen toward Negro refugees was thoroughl
 
 A cafeteria was maintained for the purpose of feeding the Negro labor brought from camp. Other refugees were not to be allowed to enter. In practice the soldier in charge allowed the town refugees to enter and be fed, then, as they were about to leave, they were seized and forced to join the labor detail. In at least one instance this practice led to shooting the refugee who objected to being coerced. The official report of this shooting is as follows: 
 
-> <span style="font-variant:small-caps;">Headquarters, Relief Expedition, Mississippi National Guard.</span>    
-> &nbsp;    
-> Vicksburg, Miss. 
-
-May 3, 1927. 
-
-Mayor W. J. Hosley, 
-
-Vicksburg, Miss. 
-
-Dear Sir:  In re:  Shooting of Dunbar, a negro flood refugee. 
-
-This shooting occurred on May 1st, 1927, near A. & V. freight office. Dunbar was shot in the stomach and arm but has good chances for recovery. He was shot by Private Herbert K. Moore, 122nd Motor Transport Corps. Private Moore reported to Police Headquarters and was released on bond. Dunbar was sent to a hospital immediately after being shot. 
-
-Private Moore was forced to shoot Dunbar to save his own life. Dunbar attacked him with a tent pin, struck him a severe blow across the face and attempted to take his pistol, threatening to take Private Moore's life all the time. Private Moore took only such action as was necessary to protect his own life. 
-
-The facts of this affair have been given to Judge W. W. Ramsey, Police Justice, in detail. As soon as it is determined whether Dunbar will recover private Moore will be arraigned before Judge Ramsey on a proper charge so that there may be a judicial determination of his guilt or innocence. Of course, this can not be done until it is certain that Dunbar will recover or until he dies. 
-
-Judge Ramsey agrees that Private Moore should be allowed to continue at large under bond already given until time for his trial. 
-
-Very respectfully yours, 
-
-Captain, J. A. G. 
+> <span style="font-variant:small-caps;">Headquarters, Relief Expedition, Mississippi National Guard.</span>     
+> &nbsp;
+Vicksburg, Miss.     
+> &nbsp;
+> May 3, 1927.      
+> &nbsp;     
+> Mayor W. J. Hosley, Vicksburg, Miss.     
+> &nbsp;
+> Dear Sir:  In re:  Shooting of Dunbar, a negro flood refugee.     
+>
+> This shooting occurred on May 1st, 1927, near A. & V. freight office. Dunbar was shot in the stomach and arm but has good chances for recovery. He was shot by Private Herbert K. Moore, 122nd Motor Transport Corps. Private Moore reported to Police Headquarters and was released on bond. Dunbar was sent to a hospital immediately after being shot. 
+>
+> Private Moore was forced to shoot Dunbar to save his own life. Dunbar attacked him with a tent pin, struck him a severe blow across the face and attempted to take his pistol, threatening to take Private Moore's life all the time. Private Moore took only such action as was necessary to protect his own life. 
+>
+> The facts of this affair have been given to Judge W. W. Ramsey, Police Justice, in detail. As soon as it is determined whether Dunbar will recover private Moore will be arraigned before Judge Ramsey on a proper charge so that there may be a judicial determination of his guilt or innocence. Of course, this can not be done until it is certain that Dunbar will recover or until he dies. 
+>
+> Judge Ramsey agrees that Private Moore should be allowed to continue at large under bond already given until time for his trial. 
+>
+> Very respectfully yours, <br/>
+> Captain, J. A. G. 
 
 It will be noticed that the only man interviewed in this "investigation" was Private Moore. At the time this report was made, although the Captain does not state this, it was uncertain that Dunbar would recover. In case he did not this left nothing to contradict the self-defense story; while if he did recover no serious charge would be brought.
 
@@ -117,25 +121,21 @@ Witnesses: Sgt. McIntyre, Sgt. White, Pvt. Waxon.
 
 Impudence is a sin which cannot be forgiven in a Negro. Sheffield Collins, a young colored boy, was so impudent as to refuse to box to amuse the soldiers. He was also accused of stealing the oranges which were sent for free distribution among the refugees. The soldiers, by the way, helped themselves liberally to the oranges which were donated to the refugees, so that if anyone could be said to "steal" it was surely they rather than the refugee. Here is the statement Sheffield Collins is reported to have made: 
 
-<span style="font-variant:small-caps;">Statement of Sheffield Collins,</span>
+> <span style="font-variant:small-caps;">Statement of Sheffield Collins,</span>     
+104 Lake Street, Greenville, Miss.     
+>     
+> I, the undersigned, a refugee from Greenville, Miss., on last Friday morning was told to box another Negro boy by one of the soldiers on duty at Fort Hill. I replied that I did not want to box because my Mother had told me not to. This soldier told me that he was going to make me box because I had stolen some oranges. I had two oranges in my pocket that I had gotten out of the basket where they had been thrown away. One of the soldiers then said, "Go and get a case of oranges and make him eat them all", but Col. Tom Shaw pulled the gloves off of me and carried me down the hill, took my belt off and whipped me with it.     
+> I have had the above statement read to me and it is true and correct. 
+>
+> <span style="font-variant:small-caps;">Sheffield Collins.</span>
 
-104 Lake Street, Greenville, Miss. 
-
-I, the undersigned, a refugee from Greenville, Miss., on last Friday morning was told to box another Negro boy by one of the soldiers on duty at Fort Hill. I replied that I did not want to box because my Mother had told me not to. This soldier told me that he was going to make me box because I had stolen some oranges. I had two oranges in my pocket that I had gotten out of the basket where they had been thrown away. One of the soldiers then said, "Go and get a case of oranges and make him eat them all", but Col. Tom Shaw pulled the gloves off of me and carried me down the hill, took my belt off and whipped me with it. 
-
-I have had the above statement read to me and it is true and correct. 
-
-<span style="font-variant:small-caps;">Sheffield Collins.</span>
-
-<span style="font-variant:small-caps;">Statement of Tom Shaw,</span> *Guardsman,*
-
-Camp Fort Hill,
-
+> <span style="font-variant:small-caps;">Statement of Tom Shaw,</span> *Guardsman,*     
+Camp Fort Hill,     
 May 14, 1927.
-
-I put the gloves on him and asked him if he was going to box and he told me "Hell, no", and he was not going to box anybody. For two or three days he had been refusing to do anything I asked him to do. He was also very impudent about it, so I took him down under the hill and gave him a whipping, not because he would not box but because he was so impudent and had been so for several days. And also because he had been stealing oranges and I took oranges out of his pockets several times. On this occasion he had two in his pocket, and oranges had already been issued to him before this time. His quota for the day was one orange, and he had eaten it. The two he had then was stolen. I hit him about five licks with his belt and he was not in any way injured. It is necessary to use some such means of punishment in order to keep order and discipline in the camp. 
-
-<span style="font-variant:small-caps;">Tom Shaw.</span>
+>
+> I put the gloves on him and asked him if he was going to box and he told me "Hell, no", and he was not going to box anybody. For two or three days he had been refusing to do anything I asked him to do. He was also very impudent about it, so I took him down under the hill and gave him a whipping, not because he would not box but because he was so impudent and had been so for several days. And also because he had been stealing oranges and I took oranges out of his pockets several times. On this occasion he had two in his pocket, and oranges had already been issued to him before this time. His quota for the day was one orange, and he had eaten it. The two he had then was stolen. I hit him about five licks with his belt and he was not in any way injured. It is necessary to use some such means of punishment in order to keep order and discipline in the camp.
+>
+> <span style="font-variant:small-caps;">Tom Shaw.</span>
 
 In connection with the oranges contributed for the disaster sufferers is an interesting incident. Captain Moser, then the commanding officer at Camp Louisiana, ordered a truckload of these oranges (which were being distributed free) to be dumped into a ravine and buried. Capt. Moser said they were unfit for consumption. This was denied at the time by a number of enlisted men. Capt. Moser was at the time running the canteen at Camp Louisiana, in the success of which he had a personal interest. He sold oranges in this canteen and the enlisted men gossipped about this coincidence.
 
