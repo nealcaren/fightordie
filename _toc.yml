@@ -447,6 +447,7 @@ chapters:
     - file: Volumes/40/10/church_and_religion.md
   - file: Sections/misc
     sections:
+    - file: Volumes/04/06/vital_statistics.md
     - file: Volumes/34/08/mencken.md
     - file: Volumes/04/04/anarchism.md
     - file: Volumes/06/06/church_negro.md

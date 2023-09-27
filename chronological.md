@@ -86,6 +86,7 @@
 |   1912 |        4 | 5       | [The Justice of Woman Suffrage](https://www.dareyoufight.org/Volumes/04/05/justice_of_woman_suffrage.html)                                                                               |
 |   1912 |        4 | 5       | [Two Suffrage Movements](https://www.dareyoufight.org/Volumes/04/05/two_suffrage_movements.html)                                                                                         |
 |   1912 |        4 | 5       | [Brother Baptis' on Woman Suffrage](https://www.dareyoufight.org/Volumes/04/05/brother_batis.html)                                                                                       |
+|   1912 |        4 | 6       | [Vital Statistics](https://www.dareyoufight.org/Volumes/04/06/vital_statistics.html)                                                                                                     |
 |   1912 |        5 | 1       | [The Last Word in Politics](https://www.dareyoufight.org/Volumes/05/01/last_word_in_politics.html)                                                                                       |
 |   1912 |        5 | 1       | [The Second Birthday](https://www.dareyoufight.org/Volumes/05/01/second_birthday.html)                                                                                                   |
 |   1912 |        5 | 2       | [The Black Mother](https://www.dareyoufight.org/Volumes/05/02/black_mother.html)                                                                                                         |
