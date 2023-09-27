@@ -22,11 +22,11 @@ It is a reprimand from the Commander-in-Chief of the army, the President himself
 > &nbsp;
 > Col. Garrard has been admonished to avoid a repetition of the action taken in this case.
 
-And read this argument against disfranchisement. Does it not deal clearly and comprehensively with the matter? It is the *Saturday* *Evening Post* of Philadelphia which speaks:
+And read this argument against disfranchisement. Does it not deal clearly and comprehensively with the matter? It is the *Saturday Evening Post* of Philadelphia which speaks:
 
 > For a hundred years they have been demonstrating that they know how to fight; and the last century of history shows that ability to fight, without some political ability, does a people little good. After each victory they remain, as before, subject to whatever mere luck may bring them of good or bad in a ruler. Excluding a people from politics ... because they are politically inexperienced, is of a piece with keeping a child out of the water because he doesn't know how to swim.
 
-How, then, has our cause gained two great allies? Is the fold larger by two wandering sheep? Not so, reader. Be not too lifted up. President Taft was dealing with the case of a Jewish soldier and the *Saturday Evening Post *was speaking of Mexico.
+How, then, has our cause gained two great allies? Is the fold larger by two wandering sheep? Not so, reader. Be not too lifted up. President Taft was dealing with the case of a Jewish soldier and the *Saturday Evening Post* was speaking of Mexico.
 
 You see, our Jewish citizens have votes, and as to Mexico, does not charity begin abroad? Good luck to the Jews---they are our best friends, and we rejoice to see them getting out of the Ghetto the Negro is just getting into. Good luck to our Indian brother in Mexico---may he find friends on every side. But it does seem odd that the rules of justice and logic should never apply in the case of the colored man right here in the United States.
 
