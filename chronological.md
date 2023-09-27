@@ -347,6 +347,7 @@
 |   1928 |       35 | 9       | [The Possibility of Democracy](https://www.dareyoufight.org/Volumes/35/09/possiblity_of_democracy_i.html)                                                                                |
 |   1929 |       36 | 11      | [The Negro in Politics](https://www.dareyoufight.org/Volumes/36/11/negro_in_politics.html)                                                                                               |
 |   1929 |       36 | 2       | [DePriest](https://www.dareyoufight.org/Volumes/36/02/depriest.html)                                                                                                                     |
+|   1929 |       36 | 2       | [A Pilgrimage To The Negro Schools](https://www.dareyoufight.org/Volumes/36/02/a_pilgrimage_to_negro_schools.html)                                                                       |
 |   1929 |       36 | 5       | [The Chicago Debate](https://www.dareyoufight.org/Volumes/36/05/chicago_debate.html)                                                                                                     |
 |   1929 |       36 | 5       | [The Negro Citizen](https://www.dareyoufight.org/Volumes/36/05/negro_citizen.html)                                                                                                       |
 |   1929 |       36 | 5       | [Herbert Hoover and the South](https://www.dareyoufight.org/Volumes/36/05/hoover_and_the_south.html)                                                                                     |
