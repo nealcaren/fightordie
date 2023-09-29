@@ -194,6 +194,7 @@ chapters:
     - file: Volumes/04/02/suffering_suffragettes.md
     - file: Volumes/04/04/ohio.md
     - file: Volumes/04/05/votes_for_women.md
+    - file: Volumes/08/04/votes_for_women.md
     - file: Volumes/09/06/womansuffrage.md
     - file: Volumes/09/03/agility.md
     - file: Volumes/15/01/votes_for_women.md
@@ -404,6 +405,7 @@ chapters:
     sections:
      - file: Volumes/01/03/old_story.md
      - file: Volumes/01/04/pink.md
+     - file: Volumes/04/05/virginia_christian.md
      - file: Volumes/19/04/crime.md
      - file: Volumes/23/05/boddy.md
      - file: Volumes/23/05/homicides.md
@@ -447,6 +449,8 @@ chapters:
     - file: Volumes/40/10/church_and_religion.md
   - file: Sections/misc
     sections:
+    - file: Volumes/09/05/the_white_christ.md
+    - file: Volumes/07/03/free_white_twenty_one.md
     - file: Volumes/04/06/vital_statistics.md
     - file: Volumes/34/08/mencken.md
     - file: Volumes/04/04/anarchism.md
@@ -463,6 +467,7 @@ chapters:
     - file: Volumes/34/08/panafrican_congresses.md
     - file: Volumes/34/08/wallace_battle_the_episcopal_church_and_mississippi.md
     - file: Volumes/35/01/the_flood_the_red_cross_and_the_national_guard.md
+    - file: Volumes/35/02/the_flood_the_red_cross_and_the_national_guard.md
     - file: Volumes/01/03/envy.md
     - file: Volumes/02/02/starvation_and_prejudice.md
     - file: Volumes/03/01/census.md
