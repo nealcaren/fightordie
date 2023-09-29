@@ -81,6 +81,7 @@
 |   1912 |        4 | 4       | [Ohio](https://www.dareyoufight.org/Volumes/04/04/ohio.html)                                                                                                                             |
 |   1912 |        4 | 4       | [Anarchism](https://www.dareyoufight.org/Volumes/04/04/anarchism.html)                                                                                                                   |
 |   1912 |        4 | 5       | [Votes for Women](https://www.dareyoufight.org/Volumes/04/05/votes_for_women.html)                                                                                                       |
+|   1912 |        4 | 5       | [Virginia Christian](https://www.dareyoufight.org/Volumes/04/05/virginia_christian.html)                                                                                                 |
 |   1912 |        4 | 5       | [Garrison and Woman's Suffrage](https://www.dareyoufight.org/Volumes/04/05/garrison_and_womans_suffrage.html)                                                                            |
 |   1912 |        4 | 5       | [Colored Women as Voters](https://www.dareyoufight.org/Volumes/04/05/colored_women_as_voters.html)                                                                                       |
 |   1912 |        4 | 5       | [The Justice of Woman Suffrage](https://www.dareyoufight.org/Volumes/04/05/justice_of_woman_suffrage.html)                                                                               |
@@ -112,11 +113,13 @@
 |   1913 |        6 | 7       | [The People of Peoples and Their Gifts to Men](https://www.dareyoufight.org/Volumes/07/01/national_emancipation_exposition.html)                                                         |
 |   1913 |        7 | 1       | [The Simple Way](https://www.dareyoufight.org/Volumes/07/01/simple_way.html)                                                                                                             |
 |   1914 |        7 | 3       | [Join or Die](https://www.dareyoufight.org/Volumes/07/03/fightordie.html)                                                                                                                |
+|   1914 |        7 | 3       | [Free, White and Twenty One](https://www.dareyoufight.org/Volumes/07/03/free_white_twenty_one.html)                                                                                      |
 |   1914 |        7 | 4       | [Work for Black Folk in 1914](https://www.dareyoufight.org/Volumes/07/04/work_for_black_folk.html)                                                                                       |
 |   1914 |        7 | 5       | [Lynching](https://www.dareyoufight.org/Volumes/07/05/lynching.html)                                                                                                                     |
 |   1914 |        7 | 6       | [Does Organization Pay?](https://www.dareyoufight.org/Volumes/07/06/does_organization_pay.html)                                                                                          |
 |   1914 |        7 | 6       | [Brazil](https://www.dareyoufight.org/Volumes/07/06/brazil.html)                                                                                                                         |
 |   1914 |        8 | 3       | [The Cause of Lynching](https://www.dareyoufight.org/Volumes/08/03/cause_of_lynching.html)                                                                                               |
+|   1914 |        8 | 4       | [Votes for Women](https://www.dareyoufight.org/Volumes/08/04/votes_for_women.html)                                                                                                       |
 |   1914 |        8 | 5       | [Does Race Antagonism Serve Any Good Purpose](https://www.dareyoufight.org/Volumes/08/05/does_race_antagonism.html)                                                                      |
 |   1914 |        9 | 1       | [World War and the Color Line](https://www.dareyoufight.org/Volumes/09/01/worldwar.html)                                                                                                 |
 |   1914 |        9 | 1       | [The Burden of Black Women](https://www.dareyoufight.org/Volumes/09/01/burden_of_black_women.html)                                                                                       |
@@ -136,6 +139,7 @@
 |   1915 |       11 | 2       | [Booker T. Washington](https://www.dareyoufight.org/Volumes/11/02/booker_t_washington.html)                                                                                              |
 |   1915 |        9 | 3       | [Agility](https://www.dareyoufight.org/Volumes/09/03/agility.html)                                                                                                                       |
 |   1915 |        9 | 5       | [Organization](https://www.dareyoufight.org/Volumes/09/05/organization.html)                                                                                                             |
+|   1915 |        9 | 5       | [The White Christ](https://www.dareyoufight.org/Volumes/09/05/the_white_christ.html)                                                                                                     |
 |   1915 |        9 | 6       | [Woman Suffrage](https://www.dareyoufight.org/Volumes/09/06/womansuffrage.html)                                                                                                          |
 |   1915 |        9 | 6       | [The Immediate Program of the  American Negro](https://www.dareyoufight.org/Volumes/09/06/immediate_program.html)                                                                        |
 |   1916 |       11 | 4       | [That Capital 'N'](https://www.dareyoufight.org/Volumes/11/04/that_capital_n.html)                                                                                                       |
@@ -338,6 +342,7 @@
 |   1928 |       35 | 12      | [Segregation](https://www.dareyoufight.org/Volumes/35/12/segregation.html)                                                                                                               |
 |   1928 |       35 | 12      | [The Campaign of 1928](https://www.dareyoufight.org/Volumes/35/12/campaign_of_1928.html)                                                                                                 |
 |   1928 |       35 | 12      | [The Election](https://www.dareyoufight.org/Volumes/35/12/election.html)                                                                                                                 |
+|   1928 |       35 | 2       | [The Flood, the Red Cross and the National Guard](https://www.dareyoufight.org/Volumes/35/02/the_flood_the_red_cross_and_the_national_guard.html)                                        |
 |   1928 |       35 | 3       | [Black and White Workers](https://www.dareyoufight.org/Volumes/35/03/black_and_white_workers.html)                                                                                       |
 |   1928 |       35 | 3       | [The Name Negro](https://www.dareyoufight.org/Volumes/35/03/name_negro.html)                                                                                                             |
 |   1928 |       35 | 5       | [Our Economic Future](https://www.dareyoufight.org/Volumes/35/05/our_economic_future.html)                                                                                               |

@@ -74,6 +74,7 @@ https://www.dareyoufight.org/Volumes/04/03/organized_labor.html
 https://www.dareyoufight.org/Volumes/04/04/ohio.html
 https://www.dareyoufight.org/Volumes/04/04/politics.html
 https://www.dareyoufight.org/Volumes/04/04/anarchism.html
+https://www.dareyoufight.org/Volumes/04/05/virginia_christian.html
 https://www.dareyoufight.org/Volumes/04/05/two_suffrage_movements.html
 https://www.dareyoufight.org/Volumes/04/05/justice_of_woman_suffrage.html
 https://www.dareyoufight.org/Volumes/04/05/brother_batis.html
@@ -93,6 +94,7 @@ https://www.dareyoufight.org/Volumes/35/03/name_negro.html
 https://www.dareyoufight.org/Volumes/35/03/black_and_white_workers.html
 https://www.dareyoufight.org/Volumes/35/05/browsing_reader.html
 https://www.dareyoufight.org/Volumes/35/05/our_economic_future.html
+https://www.dareyoufight.org/Volumes/35/02/the_flood_the_red_cross_and_the_national_guard.html
 https://www.dareyoufight.org/Volumes/35/11/on_the_fence.html
 https://www.dareyoufight.org/Volumes/35/11/dunbar_national_bank.html
 https://www.dareyoufight.org/Volumes/35/11/third_party.html
@@ -250,6 +252,7 @@ https://www.dareyoufight.org/Volumes/21/02/unreal_campaign.html
 https://www.dareyoufight.org/Volumes/21/01/social_equality_of_blacks_and_whites.html
 https://www.dareyoufight.org/Volumes/21/01/suffrage.html
 https://www.dareyoufight.org/Volumes/07/03/fightordie.html
+https://www.dareyoufight.org/Volumes/07/03/free_white_twenty_one.html
 https://www.dareyoufight.org/Volumes/07/04/work_for_black_folk.html
 https://www.dareyoufight.org/Volumes/07/05/lynching.html
 https://www.dareyoufight.org/Volumes/07/01/simple_way.html
@@ -269,6 +272,7 @@ https://www.dareyoufight.org/Volumes/36/02/a_pilgrimage_to_negro_schools.html
 https://www.dareyoufight.org/Volumes/36/11/negro_in_politics.html
 https://www.dareyoufight.org/Volumes/09/03/agility.html
 https://www.dareyoufight.org/Volumes/09/05/organization.html
+https://www.dareyoufight.org/Volumes/09/05/the_white_christ.html
 https://www.dareyoufight.org/Volumes/09/02/negro.html
 https://www.dareyoufight.org/Volumes/09/02/trotter.html
 https://www.dareyoufight.org/Volumes/09/01/worldwar.html
@@ -307,6 +311,7 @@ https://www.dareyoufight.org/Volumes/37/01/football.html
 https://www.dareyoufight.org/Volumes/37/01/about_marrying.html
 https://www.dareyoufight.org/Volumes/37/01/gambling.html
 https://www.dareyoufight.org/Volumes/08/03/cause_of_lynching.html
+https://www.dareyoufight.org/Volumes/08/04/votes_for_women.html
 https://www.dareyoufight.org/Volumes/08/05/does_race_antagonism.html
 https://www.dareyoufight.org/Volumes/01/03/winter_pilmigrage.html
 https://www.dareyoufight.org/Volumes/01/03/ashamed.html
@@ -349,6 +354,7 @@ https://www.dareyoufight.org/Volumes/06/04/burleson.html
 https://www.dareyoufight.org/Volumes/06/05/open_letter.html
 https://www.dareyoufight.org/Volumes/06/05/fruit_of_tree.html
 https://www.dareyoufight.org/Volumes/06/02/logic.html
+https://www.dareyoufight.org/Volumes/06/01/womans_suffrage.html
 https://www.dareyoufight.org/Volumes/06/01/vigilance_committee.html
 https://www.dareyoufight.org/Volumes/06/06/church_negro.html
 https://www.dareyoufight.org/Volumes/06/06/princess_of_hither_isles.html
