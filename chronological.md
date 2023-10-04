@@ -99,6 +99,7 @@
 |   1913 |        5 | 4       | [Blessed Discrimination](https://www.dareyoufight.org/Volumes/05/04/blesseddiscrimination.html)                                                                                          |
 |   1913 |        5 | 4       | [Intermarriage](https://www.dareyoufight.org/Volumes/05/04/intermarriage.html)                                                                                                           |
 |   1913 |        5 | 5       | [The Proper Way](https://www.dareyoufight.org/Volumes/05/05/proper_way.html)                                                                                                             |
+|   1913 |        6 | 1       | [Woman's Suffrage](https://www.dareyoufight.org/Volumes/06/01/womans_suffrage.html)                                                                                                      |
 |   1913 |        6 | 1       | [The Vigilance Committee: A Call To Arms](https://www.dareyoufight.org/Volumes/06/01/vigilance_committee.html)                                                                           |
 |   1913 |        6 | 2       | [Logic](https://www.dareyoufight.org/Volumes/06/02/logic.html)                                                                                                                           |
 |   1913 |        6 | 3       | [I Go A-Talking](https://www.dareyoufight.org/Volumes/06/03/i_go_a_talking.html)                                                                                                         |
