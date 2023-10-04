@@ -76,6 +76,7 @@
 |   1912 |        3 | 5       | [Lee](https://www.dareyoufight.org/Volumes/03/05/lee.html)                                                                                                                               |
 |   1912 |        4 | 2       | [Decency](https://www.dareyoufight.org/Volumes/04/02/decency.html)                                                                                                                       |
 |   1912 |        4 | 2       | [Suffering Suffragettes](https://www.dareyoufight.org/Volumes/04/02/suffering_suffragettes.html)                                                                                         |
+|   1912 |        4 | 2       | [Education](https://www.dareyoufight.org/Volumes/04/02/education.html)                                                                                                                   |
 |   1912 |        4 | 3       | [Organized Labor](https://www.dareyoufight.org/Volumes/04/03/organized_labor.html)                                                                                                       |
 |   1912 |        4 | 4       | [Politics](https://www.dareyoufight.org/Volumes/04/04/politics.html)                                                                                                                     |
 |   1912 |        4 | 4       | [Ohio](https://www.dareyoufight.org/Volumes/04/04/ohio.html)                                                                                                                             |
