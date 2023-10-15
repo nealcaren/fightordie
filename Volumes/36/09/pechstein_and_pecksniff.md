@@ -1,0 +1,59 @@
+<!--
+title:   Pechstein and Pecksniff
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1929
+volume:  36
+issue:   9
+pages:   313-314
+-->
+
+# Pechstein and Pecksniff (1929)
+
+Dr. R.L.A. Pechstein of the University of Cincinnati last February made a Report at the National Society of College Teachers meeting in Cleveland. His thesis was that the "Segregation of Negro and white children in separate schools accomplished far more for the black race than can be gained in mixed classes." 
+
+He stated that among Negroes there were two opinions: That the Radicals ask for mixed schools, and the Conservatives want separate schools. His basis of fact was that Negro high schools had more Negro graduates than mixed high schools; that a study of 100 Negroes of eminence showed that 83 per cent attended separate elementary schools, and that about half attended mixed colleges; a study of 3,000 Negro pupils showed much mental deficiency and retardation, calling for special classes. 
+
+It is reported that he relied for his facts on the thesis of a colored school principal, Dr. Jennie Porter. 
+
+Propaganda further advocating this proposal has followed Pechstein's paper. It is time that the matter be fairly faced and threshed out. 
+
+## School Democracy
+
+In the first place, it goes without saying that Pechstein ignores the background of his facts. He says nothing of the long battle for educational democracy which Negroes conservative and radical have fought in Boston, New York, Philadelphia and _ elsewhere. He knows perfectly well as an educator that the public school is not the best possible instrument for every single child. Very bright children, very dull children, timid children and over-grown, the children of the rich and cultured people, Catholic children, Jewish children,—can all make great and undoubted advance in certain lines if educated by themselves and segregated from the rest of the community. 
+
+Yet, the United States, Germany, France, and most civilized countries have urged the public school and democracy in education for all. And they have done this because of the fact that whatever may be lost in this group education, the human contact which comes through democratic education of all the youth of a great country, infinitely over balances it. They realize that if peace, good-will and industrial democracy are going to triumph in the world, they can only triumph by increase in the intelligence of individuals and the increase of direct knowledge and sympathetic human relationship among men. Any step backward from this: any building up of artificial barriers, Or over-emphasizing of natural barriers, is a blow in the face of civilization and human advance. 
+
+In the United States, we rightly fear the growth of a separate Catholic school system; we are apprehensive at the increased tendency of the rich and cultured to take their children out of the public schools and to make certain colleges segregated institutions for these children. We dislike the exclusive fraternities in colleges, and we ban them almost entirely in high schools. 
+
+Our feeling in all this matter is that the forces of disruption, of hatred, of enmity and of misunderstanding between groups and individuals are so tremendous today and have been so fatal in the past that there is almost no sacrifice that we ought not to be willing to make in order to put down increased separation among men and in order to multiply understanding, sympathy and human acquaintanceship. 
+
+This is the great foundation for the public school. 
+
+This program involves many difficulties. When the poor Irish came to Massachusetts in the middle of the 19th Century, there was bitter opposition to their presence in the public schools. They were ignorant, dirty, ragged and retarded. Italians and people from the Balkans of Southeast Europe later brought the same problems. Naturally, the Negroes, both in the past and present, have been a severe problem for the mixed public schools. By slavery, caste, law and custom, they have been ignorant and poverty-stricken and have lagged behind the average school age. 
+
+## The Negro in School
+
+And what of it? In a thousand different communities Negro pupils have proven their ability to profit by the public schools; they have made high records and graduated with honor. Their poverty is part of a universal problem; their retardation is due to wretched Southern school systems; their dullness comes from poor food and poor homes and there is absolutely no scientific proof that it is Negroid. Every one of these problems has a well known and adequately tested solution.
+
+The recent migration of Negroes to the North has naturally intensified and re-opened these problems but it would be a despicable yielding to reaction and cowardice to give up democracy in the public schools because of the very disadvantages which lack of democracy and opportunity have fastened upon the Negro population of the South. 
+
+In the face of these problems many like Pechstein, narrow in reasoning and ignorant of all the facts are always rushing to find the easiest way out of the difficulty. With them work the Pecksniffs—the hypocrites who use any excuse to degrade and beat back the Negro. It is peculiarly Pecksniffian to raise the fact that most prominent Negroes have been educated in separate schools, as an argument for separate schools. Most Negroes had to be educated in separate schools or not be educated at all since for a hundred years more than 9/10 of them were offered "Jim-crow"' schools or nothing. It is obvious that the well-known and magnificent Negro high schools of Baltimore and Washington send out a much larger proportion of well-trained Negro graduates than the Negro-baiting mixed high schools of a hundred different Northern cities. But Merciful God! is this an argument for segregation, or against discrimination, cruelty, cheating and hate on the part of white pupils, teachers and officials? If the success of the Dunbar High School is to be built on the lawless snobbery of Gary, what is American democracy headed for? The success of some separate Negro schools is a crushing indictment of hatred and prejudice and not a demand for further segregation. 
+
+If Negroes have done well in certain separate Negro schools, two speculations arise: how much more might Negroes have done if all their separate schools had been adequately equipped and taught; and further what might not the Negro pupil have done if without hurt or hindrance the whole educational opportunity of America had been open to him, without discrimination. 
+
+## The "Jim-Crow" School
+
+The well-equipped "Jim Crow" school is a rare exception. For the most part, such schools have been run on wretchedly inadequate resources; taught by ignorant teachers; housed in huts and dumps; and given just as little attention and supervision as the authorities dared give them. The discrimination against the separate Negro public schools in the United States is one of the most despicable and disgusting of the discriminations against this enslaved race and if Pechstein does not know this he is far more ignorant than we suspect. 
+
+If he does know it and still advocates separate schools, he may believe that funds can be had to make Negro schools decent and that segregation really settles the problem of Negro pupils. But how can a man of even elementary mentality argue this? Segregation if logical would double the cost of schools in the South and it distinctly increases it in Cincinnati. *Any proposal for separate Negro schools is in effect a demand for schools less well housed, less well supported, less well-equipped and less wellsupervised than the average public school.* How can segregation by color settle the problem of the retardation of stupid pupils? Not even the wildest Nordic claims that all Negroes are morons. If South Carolina spends $1.00 a year to educate.a colored child, when that child appears in the Cincinnati schools, he is bound to be backward. Mr. Pechstein proposes properly to give such children the special training which they need; but he does not stop here. He also proposes that into this special school shall go all colored children whether they are stupid or not! Now what is there that a purely Negro school can give backward Negro children which any school for the retarded cannot give them? And what can normal Negro children get in a Negro school that they cannot get in a mixed school? Everybody knows: everybody knows that a Catholic school differs from other schools by teaching catholicism in addition to the school curriculum; that a Young Ladies Finishing School teaches _refined snobbery and that a Negro school teaches race solidarity and race pride and (whether consciously or unconsciously) distrust of all white folks. Cf course the Negro school and the Catholic school and the schools for the rich will have teachers more sympathetic to their propaganda but this is the damnation of democracy and the shame of the teaching profession and not the goal and ideal of the public schools. Have we come to the day when only cripples can teach cripples and when the only hope of the Chinese is to protect them from white teachers? 
+
+## Hypocrisy
+
+Naturally little or nothing of this is in the Pechstein mind. Here, deliberately or gropingly, this mind goes Pecksnifian: Negroes can be best kept from too great and fast advance by segregating them into cheaper facilities and opportunities. They can be induced thus to commit hari-kari by subtle appeals to pride and poverty. After all black folk are no less stupid and avaricious than whites. Give them one extra fine public school such as the people of Cincinnati gave them, and the majority of Negroes will jump to receive it. It gives them their one opportunity to teach at home at good salaries; it gives them some chance to direct their own children's education. The children themselves discover a school that welcomes and encourages them instead of sneering at them and kicking them out. But is this all? O, no! The Negro who comes through the Negro college and studies Negro history under black professors; the child who comes through the Negro school with Negro teachers, is going to grow up as a Negro and not as an American. He is going to hate and despise the civilization that enslaved him, and now insults him. He is going to believe that the world of white folk is armed against the world of black folk, and that one of these days they are going to fight it out to the bitter end. He is going to demand more and more the power to equip himself for this fight. Segregation breeds segregation. If Negroes must have separate schools, they should have separate school officials, a separate school budget, and a separate system of text books. They should push on to more separation and more self-government in every line of life. They will more and more resent the intervention of white folk in their life and suspect their every motive. 
+
+## The logical end of racial segregation is Caste, Hate and War.
+
+Twelve million Americans, separate self-contained, increasingly powerful, increasingly race patriotic and suspicious will grow and expand in this land. And this is the thing that the University of Cincinnati, in the person of one of its scientific leaders, sets before the world of 1929, as the solution of the problem of the American citizens of Negro descent! 
+
+*Citation:* Du Bois, W.E.B. 1929. "Pechstein and Pecksniff." *The Crisis*. 36(9):313&ndash;314.

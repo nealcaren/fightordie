@@ -29,7 +29,11 @@ chapters:
   - file: Volumes/03/04/light.md
   - file: Volumes/05/02/black_mother.md
   - file: Volumes/06/02/logic.md
+  - file: Volumes/06/02/democrats.md
+  - file: Volumes/07/04/negro_land.md
+  - file: Volumes/07/05/taxation_without_representation.md
   - file: Volumes/08/05/does_race_antagonism.md
+  - file: Volumes/09/02/supreme_court.md
   - file: Volumes/10/01/clansman.md
   - file: Volumes/12/02/consolations.md
   - file: Volumes/12/05/conduct_not_color.md
@@ -97,7 +101,7 @@ chapters:
   - file: Volumes/41/01/scottsboro.md
 
 
-- file: Sections/segregation
+- file: Sections/segregation 
   sections:
   - file: Volumes/01/01/Segregation.md
   - file: Volumes/01/01/Baltimore.md
@@ -110,7 +114,9 @@ chapters:
   - file: Volumes/03/05/homes.md
   - file: Volumes/05/04/blesseddiscrimination.md
   - file: Volumes/06/05/open_letter.md
+  - file: Volumes/08/03/real_estate_in_new_york.md
   - file: Volumes/09/02/trotter.md
+  - file: Volumes/09/02/ymca.md
   - file: Volumes/17/03/jim_crow.md
   - file: Volumes/19/03/american_legion_again.md
   - file: Volumes/26/03/tuskegee_hospital.md
@@ -144,8 +150,10 @@ chapters:
     sections:
     - file: Volumes/01/03/truth.md
     - file: Volumes/01/05/white_primary.md
+    - file: Volumes/07/04/south_in_saddle.md
+    - file: Volumes/08/02/senators_records.md
     - file: Volumes/10/01/fourteenth_amendment.md
-    - file: Volumes/19/02/votes.md
+    - file: Volumes/19/02/votes.md 
     - file: Volumes/32/01/disenfranchisement.md
     - file: Volumes/30/02/disenfranchisement.md
     - file: Volumes/35/09/possiblity_of_democracy_i.md
@@ -184,6 +192,7 @@ chapters:
     - file: Volumes/35/11/third_party.md
     - file: Volumes/35/12/campaign_of_1928.md
     - file: Volumes/35/12/election.md
+    - file: Volumes/36/02/third_party.md
     - file: Volumes/36/02/depriest.md
     - file: Volumes/36/05/hoover_and_the_south.md
     - file: Volumes/37/08/new_party.md
@@ -205,9 +214,11 @@ chapters:
 - file: Sections/strategy
   sections:
   - file: Volumes/01/01/Agitation.md
-  - file: Volumes/01/06/truth.md
+  - file: Volumes/01/06/truth.md 
   - file: Volumes/05/02/truth.md
   - file: Volumes/05/05/proper_way.md
+  - file: Volumes/06/02/ostrich.md
+  - file: Volumes/07/03/strength_of_segregation.md
   - file: Volumes/09/05/organization.md
   - file: Volumes/09/06/immediate_program.md
   - file: Volumes/13/02/refinement_and_love.md
@@ -220,6 +231,7 @@ chapters:
   - file: Volumes/25/04/advertising.md
   - file: Volumes/29/05/radicals_and_the_negro.md
   - file: Volumes/34/10/durham_conference.md
+  - file: Volumes/36/02/national_interracial_conference.md
   - file: Volumes/37/03/boycott.md
   - file: Volumes/40/10/youth_and_age.md
   - file: Volumes/40/02/dodging_the_issue.md
@@ -234,6 +246,7 @@ chapters:
     - file: Volumes/05/01/second_birthday.md
     - file: Volumes/06/01/vigilance_committee.md
     - file: Volumes/07/03/fightordie.md
+    - file: Volumes/07/05/booming_crisis.md
     - file: Volumes/07/04/work_for_black_folk.md
     - file: Volumes/07/06/does_organization_pay.md
     - file: Volumes/11/01/we_come_of_age.md
@@ -320,6 +333,8 @@ chapters:
     sections:
     - file: Volumes/03/04/china.md
     - file: Volumes/03/04/durbar.md
+    - file: Volumes/07/04/resistance.md
+    - file: Volumes/08/02/mexico.md
     - file: Volumes/10/01/peace.md
     - file: Volumes/10/06/hayti.md 
     - file: Volumes/10/02/amazing_island.md
@@ -378,9 +393,11 @@ chapters:
   - file: Volumes/35/06/two_novels.md
   - file: Sections/short_stories
     sections:
-    - file: Volumes/01/02/precept_and_practice.md
+    - file: Volumes/01/02/precept_and_practice.md 
     - file: Volumes/03/02/jesus_christ.md
     - file: Volumes/03/03/mild_suggestion.md
+    - file: Volumes/07/02/three_wise_men.md
+    - file: Volumes/08/05/story_of_africa.md
     - file: Volumes/26/02/on_being_crazy.md
   - file: Sections/poetry
     sections:
@@ -418,6 +435,7 @@ chapters:
     - file: Volumes/39/01/john_brown.md
   - file: Sections/capital_n
     sections:
+    - file: Volumes/07/06/veiled_insults.md
     - file: Volumes/09/02/negro.md
     - file: Volumes/11/04/that_capital_n.md
     - file: Volumes/35/03/name_negro.md
@@ -437,6 +455,7 @@ chapters:
     - file: Volumes/34/10/hampton_strike.md
     - file: Volumes/36/05/optimism.md
     - file: Volumes/36/02/a_pilgrimage_to_negro_schools.md
+    - file: Volumes/36/09/pechstein_and_pecksniff.md
     - file: Volumes/37/02/education.md
     - file: Volumes/39/04/again_howard.md
     - file: Volumes/40/08/negro_college.md
@@ -446,15 +465,17 @@ chapters:
     - file: Volumes/01/05/methodist_church_north.md
     - file: Volumes/03/01/social_equality.md
     - file: Volumes/03/01/christianity_rampant.md
+    - file: Volumes/04/01/negro_church.md
     - file: Volumes/14/01/white_church.md
     - file: Volumes/36/05/missionaries.md
     - file: Volumes/40/10/church_and_religion.md
   - file: Sections/misc
-    sections:
+    sections: 
     - file: Volumes/09/05/the_white_christ.md
     - file: Volumes/07/03/free_white_twenty_one.md
     - file: Volumes/04/06/vital_statistics.md
     - file: Volumes/34/08/mencken.md
+    - file: Volumes/04/03/third_battle_of_bull_run.md
     - file: Volumes/04/04/anarchism.md
     - file: Volumes/06/06/church_negro.md
     - file: Volumes/06/06/princess_of_hither_isles.md
