@@ -9,7 +9,7 @@ pages:   56-57
 -->
 # On Being Crazy (1923)
 
-I was one o'clock and I was hungry. I walked into a restaurant, seated myself and reached for the bill-of-fare. My table companion rose.
+It was one o'clock and I was hungry. I walked into a restaurant, seated myself and reached for the bill-of-fare. My table companion rose.
 
 "Sir," said he, "do you wish to force your company on those who do not want you?"
 
@@ -33,7 +33,7 @@ I was surprised. I fear you are mistaken, I said. I certainly want the music and
 
 "Usher," said the lady, "this is social equality."
 
-No, madame, said the usher, it is the second movement of Beethoven's
+No, madame, said the usher, it is the second movement of Beethoven's Fifth Symphony.
 
 After the theatre, I sought the hotel where I had sent my baggage. The clerk scowled.
 
