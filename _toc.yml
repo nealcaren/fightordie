@@ -28,10 +28,12 @@ chapters:
   - file: Volumes/03/02/sin.md
   - file: Volumes/03/04/light.md
   - file: Volumes/05/02/black_mother.md
+  - file: Volumes/05/06/hail_columbia.md
   - file: Volumes/06/02/logic.md
   - file: Volumes/06/02/democrats.md
   - file: Volumes/07/04/negro_land.md
   - file: Volumes/07/05/taxation_without_representation.md
+  - file: Volumes/08/04/muddle.md
   - file: Volumes/08/05/does_race_antagonism.md
   - file: Volumes/09/02/supreme_court.md
   - file: Volumes/10/01/clansman.md
@@ -169,6 +171,7 @@ chapters:
     - file: Volumes/02/06/taft.md
     - file: Volumes/03/02/christmas_gift.md
     - file: Volumes/04/04/politics.md
+    - file: Volumes/04/05/mr_roosevelt.md
     - file: Volumes/05/01/last_word_in_politics.md
     - file: Volumes/05/02/the_election.md
     - file: Volumes/05/02/odd_fellows.md
@@ -207,6 +210,7 @@ chapters:
     - file: Volumes/08/04/votes_for_women.md
     - file: Volumes/09/06/womansuffrage.md
     - file: Volumes/09/03/agility.md
+    - file: Volumes/11/01/woman_suffrage.md
     - file: Volumes/15/01/votes_for_women.md
     - file: Volumes/20/01/get_ready.md
     - file: Volumes/21/01/suffrage.md
@@ -218,6 +222,7 @@ chapters:
   - file: Volumes/05/02/truth.md
   - file: Volumes/05/05/proper_way.md
   - file: Volumes/06/02/ostrich.md
+  - file: Volumes/06/02/next_step.md  
   - file: Volumes/07/03/strength_of_segregation.md
   - file: Volumes/09/05/organization.md
   - file: Volumes/09/06/immediate_program.md
@@ -247,6 +252,7 @@ chapters:
     - file: Volumes/06/01/vigilance_committee.md
     - file: Volumes/07/03/fightordie.md
     - file: Volumes/07/05/booming_crisis.md
+    - file: Volumes/07/05/crusades.md
     - file: Volumes/07/04/work_for_black_folk.md
     - file: Volumes/07/06/does_organization_pay.md
     - file: Volumes/11/01/we_come_of_age.md
@@ -449,6 +455,7 @@ chapters:
     - file: Volumes/02/03/high_school.md
     - file: Volumes/03/02/cost_of_education.md
     - file: Volumes/04/02/education.md
+    - file: Volumes/08/03/college_education.md
     - file: Volumes/10/03/education.md
     - file: Volumes/15/01/hampton.md
     - file: Volumes/15/04/negro_education.md
@@ -471,6 +478,9 @@ chapters:
     - file: Volumes/40/10/church_and_religion.md
   - file: Sections/misc
     sections: 
+    - file: Volumes/04/06/of_children.md
+    - file: Volumes/04/03/fraud_and_imitation.md
+    - file: Volumes/08/04/prize_fighter.md
     - file: Volumes/09/05/the_white_christ.md
     - file: Volumes/07/03/free_white_twenty_one.md
     - file: Volumes/04/06/vital_statistics.md
