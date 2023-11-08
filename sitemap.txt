@@ -70,6 +70,7 @@ https://www.dareyoufight.org/Volumes/03/01/quadroon.html
 https://www.dareyoufight.org/Volumes/03/01/census.html
 https://www.dareyoufight.org/Volumes/03/01/ezekielism.html
 https://www.dareyoufight.org/Volumes/03/06/servant_in_the_south.html
+https://www.dareyoufight.org/Volumes/04/03/fraud_and_imitation.html
 https://www.dareyoufight.org/Volumes/04/03/organized_labor.html
 https://www.dareyoufight.org/Volumes/04/03/third_battle_of_bull_run.html
 https://www.dareyoufight.org/Volumes/04/04/ohio.html
@@ -79,6 +80,7 @@ https://www.dareyoufight.org/Volumes/04/05/virginia_christian.html
 https://www.dareyoufight.org/Volumes/04/05/two_suffrage_movements.html
 https://www.dareyoufight.org/Volumes/04/05/justice_of_woman_suffrage.html
 https://www.dareyoufight.org/Volumes/04/05/brother_batis.html
+https://www.dareyoufight.org/Volumes/04/05/mr_roosevelt.html
 https://www.dareyoufight.org/Volumes/04/05/colored_women_as_voters.html
 https://www.dareyoufight.org/Volumes/04/05/garrison_and_womans_suffrage.html
 https://www.dareyoufight.org/Volumes/04/05/votes_for_women.html
@@ -86,6 +88,7 @@ https://www.dareyoufight.org/Volumes/04/02/decency.html
 https://www.dareyoufight.org/Volumes/04/02/suffering_suffragettes.html
 https://www.dareyoufight.org/Volumes/04/02/education.html
 https://www.dareyoufight.org/Volumes/04/01/negro_church.html
+https://www.dareyoufight.org/Volumes/04/06/of_children.html
 https://www.dareyoufight.org/Volumes/04/06/vital_statistics.html
 https://www.dareyoufight.org/Volumes/32/03/kgriwa.html
 https://www.dareyoufight.org/Volumes/32/02/italy_and_abyssinia.html
@@ -147,6 +150,7 @@ https://www.dareyoufight.org/Volumes/05/02/the_election.html
 https://www.dareyoufight.org/Volumes/05/02/black_mother.html
 https://www.dareyoufight.org/Volumes/05/01/last_word_in_politics.html
 https://www.dareyoufight.org/Volumes/05/01/second_birthday.html
+https://www.dareyoufight.org/Volumes/05/06/hail_columbia.html
 https://www.dareyoufight.org/Volumes/02/03/high_school.html
 https://www.dareyoufight.org/Volumes/02/03/flag.html
 https://www.dareyoufight.org/Volumes/02/03/allies.html
@@ -194,6 +198,7 @@ https://www.dareyoufight.org/Volumes/11/04/that_capital_n.html
 https://www.dareyoufight.org/Volumes/11/05/cherokee_fires.html
 https://www.dareyoufight.org/Volumes/11/02/booker_t_washington.html
 https://www.dareyoufight.org/Volumes/11/02/star_of_ethiopia.html
+https://www.dareyoufight.org/Volumes/11/01/woman_suffrage.html
 https://www.dareyoufight.org/Volumes/11/01/we_come_of_age.html
 https://www.dareyoufight.org/Volumes/11/01/risk_of_woman_suffrage.html
 https://www.dareyoufight.org/Volumes/11/06/peonage.html
@@ -262,6 +267,7 @@ https://www.dareyoufight.org/Volumes/07/04/south_in_saddle.html
 https://www.dareyoufight.org/Volumes/07/04/work_for_black_folk.html
 https://www.dareyoufight.org/Volumes/07/04/negro_land.html
 https://www.dareyoufight.org/Volumes/07/05/taxation_without_representation.html
+https://www.dareyoufight.org/Volumes/07/05/crusades.html
 https://www.dareyoufight.org/Volumes/07/05/booming_crisis.html
 https://www.dareyoufight.org/Volumes/07/05/lynching.html
 https://www.dareyoufight.org/Volumes/07/02/three_wise_men.html
@@ -326,9 +332,12 @@ https://www.dareyoufight.org/Volumes/37/08/new_party.html
 https://www.dareyoufight.org/Volumes/37/01/football.html
 https://www.dareyoufight.org/Volumes/37/01/about_marrying.html
 https://www.dareyoufight.org/Volumes/37/01/gambling.html
+https://www.dareyoufight.org/Volumes/08/03/college_education.html
 https://www.dareyoufight.org/Volumes/08/03/cause_of_lynching.html
 https://www.dareyoufight.org/Volumes/08/03/real_estate_in_new_york.html
+https://www.dareyoufight.org/Volumes/08/04/muddle.html
 https://www.dareyoufight.org/Volumes/08/04/votes_for_women.html
+https://www.dareyoufight.org/Volumes/08/04/prize_fighter.html
 https://www.dareyoufight.org/Volumes/08/05/story_of_africa.html
 https://www.dareyoufight.org/Volumes/08/05/does_race_antagonism.html
 https://www.dareyoufight.org/Volumes/08/02/mexico.html
@@ -375,6 +384,7 @@ https://www.dareyoufight.org/Volumes/06/05/open_letter.html
 https://www.dareyoufight.org/Volumes/06/05/fruit_of_tree.html
 https://www.dareyoufight.org/Volumes/06/02/logic.html
 https://www.dareyoufight.org/Volumes/06/02/democrats.html
+https://www.dareyoufight.org/Volumes/06/02/next_step.html
 https://www.dareyoufight.org/Volumes/06/02/ostrich.html
 https://www.dareyoufight.org/Volumes/06/01/womans_suffrage.html
 https://www.dareyoufight.org/Volumes/06/01/vigilance_committee.html

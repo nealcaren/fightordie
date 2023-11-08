@@ -1,0 +1,64 @@
+<!--
+title:   A Crusade
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1914
+volume:  7
+issue:   5
+pages:   238-239
+-->
+
+# A Crusade (1914)
+
+The Western trip of the chairman of the board of directors was a clarion
+call to arms. To Chicago, St. Louis, Kansas City and Indianapolis went
+the cry which had already aroused black Washington as it was never
+aroused before. Mr. Spingarn told the people, colored and white, that
+the time had come for organization and work. The new abolitionism has
+come. Its workers are in the field and its voice is heard from St. Paul
+to New Orleans and from sea to sea.
+
+Already the Bourbon press of the South, abetted by colored traitors in
+the North, is taking notice. The Richmond *Times-Dispatch* said in its
+leading editorial of January 12:
+
+> Someone has sent us a special number of a Negro monthly magazine, which
+appears to us to be about the most incendiary document that has passed
+through the mails since the anarchists' literature was barred.    
+> &nbsp    
+> On its title page this remarkable publication bears this legend:
+'Hereditary Bondsmen! Know Ye Not Who Would Be Free Must Strike the
+Blow?' Answering its own question, the magazine proceeds to list some of
+the 'blows' valiant Negroes have struck, the race hatred they have
+aroused, the bloodshed they have precipitated, the insolence which has
+aroused so many against them. Altogether the array would be amusing were
+not its purpose so manifestly vicious.
+
+It declares that fighting means razors and revolvers and fears that the
+whites of the South would be inclined to answer with ruthless repression
+and cruel injustice. All that has been gained in a generation for good
+will and peace would be sacrificed.
+
+It then cites the recent Southern Sociological Congress as
+characteristic of the attitude of the South! On the contrary, that
+splendid congress is precisely the sort of fighting which we advocate,
+and there was not a Southern man in it who did not risk his bread and
+butter by speaking out.
+
+It is the reactionary Bourbonism of the *Times-Dispatch* and its ilk
+that makes a great moral battle for a new abolition absolutely necessary
+in the land. The editor thinks that:
+
+> This particular magazine is of limited circulation, and is probably the
+organ of ambitious Negroes in New York. Its remarks, therefore, are
+scarcely worthy of consideration and its opinions beneath notice. But
+were this spirit to spread among the Negroes, we can but think how
+disastrous would be its workings.
+
+<span style="font-variant:small-caps;">The Crisis</span> sold 32,000 copies of its January number, which is a larger circulation than the *Times-Despatch* has. And <span style="font-variant:small-caps;">The Crisis</span> renews the invitation to every American, black or white: Join or die. Join the National Association for the Advancement of Colored People. Support its work, advocate its principles.
+
+Ignore the mischievous intimation of venal colored editors that we are
+"fighting" Booker T. Washington. We are fighting slavery, caste and cowardice in black men and white; nothing more and nothing less.
+
+______________
+*Citation:* Du Bois, W.E.B. 1914. "A Crusade." *The Crisis*. 7(5):238&ndash;239.
