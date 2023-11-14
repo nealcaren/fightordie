@@ -70,6 +70,7 @@ chapters:
     - file: Volumes/03/05/divine_right.md
     - file: Volumes/07/05/lynching.md
     - file: Volumes/08/03/cause_of_lynching.md
+    - file: Volumes/09/04/lynching_industry.md
     - file: Volumes/11/06/peonage.md
     - file: Volumes/12/06/cowardice.md
     - file: Volumes/22/01/anti-lynching_legislation.md
@@ -208,6 +209,7 @@ chapters:
     - file: Volumes/04/05/votes_for_women.md
     - file: Volumes/06/01/womans_suffrage.md
     - file: Volumes/08/04/votes_for_women.md
+    - file: Volumes/09/04/suffrage_women.md
     - file: Volumes/09/06/womansuffrage.md
     - file: Volumes/09/03/agility.md
     - file: Volumes/11/01/woman_suffrage.md
@@ -478,6 +480,7 @@ chapters:
     - file: Volumes/40/10/church_and_religion.md
   - file: Sections/misc
     sections: 
+    - file: Volumes/09/04/president.md
     - file: Volumes/04/06/of_children.md
     - file: Volumes/04/03/fraud_and_imitation.md
     - file: Volumes/08/04/prize_fighter.md
