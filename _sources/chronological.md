@@ -168,6 +168,9 @@
 |   1915 |       11 | 2       | [The Star of Ethiopia](https://www.dareyoufight.org/Volumes/11/02/star_of_ethiopia.html)                                                                                                 |
 |   1915 |       11 | 2       | [Booker T. Washington](https://www.dareyoufight.org/Volumes/11/02/booker_t_washington.html)                                                                                              |
 |   1915 |        9 | 3       | [Agility](https://www.dareyoufight.org/Volumes/09/03/agility.html)                                                                                                                       |
+|   1915 |        9 | 4       | [The Lynching Industry](https://www.dareyoufight.org/Volumes/09/04/lynching_industry.html)                                                                                               |
+|   1915 |        9 | 4       | [Suffrage and Women](https://www.dareyoufight.org/Volumes/09/04/suffrage_women.html)                                                                                                     |
+|   1915 |        9 | 4       | [The President](https://www.dareyoufight.org/Volumes/09/04/president.html)                                                                                                               |
 |   1915 |        9 | 5       | [Organization](https://www.dareyoufight.org/Volumes/09/05/organization.html)                                                                                                             |
 |   1915 |        9 | 5       | [The White Christ](https://www.dareyoufight.org/Volumes/09/05/the_white_christ.html)                                                                                                     |
 |   1915 |        9 | 6       | [Woman Suffrage](https://www.dareyoufight.org/Volumes/09/06/womansuffrage.html)                                                                                                          |
