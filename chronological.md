@@ -137,6 +137,7 @@
 |   1914 |        7 | 5       | [Lynching](https://www.dareyoufight.org/Volumes/07/05/lynching.html)                                                                                                                     |
 |   1914 |        7 | 5       | [Booming The Crisis](https://www.dareyoufight.org/Volumes/07/05/booming_crisis.html)                                                                                                     |
 |   1914 |        7 | 5       | [A Crusade](https://www.dareyoufight.org/Volumes/07/05/crusades.html)                                                                                                                    |
+|   1914 |        7 | 5       | [A Little Play](https://www.dareyoufight.org/Volumes/07/05/a_little_play.html)                                                                                                           |
 |   1914 |        7 | 6       | [Does Organization Pay?](https://www.dareyoufight.org/Volumes/07/06/does_organization_pay.html)                                                                                          |
 |   1914 |        7 | 6       | [Brazil](https://www.dareyoufight.org/Volumes/07/06/brazil.html)                                                                                                                         |
 |   1914 |        7 | 6       | [Veiled Insults](https://www.dareyoufight.org/Volumes/07/06/veiled_insults.html)                                                                                                         |

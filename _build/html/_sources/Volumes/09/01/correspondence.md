@@ -16,11 +16,11 @@ excellent article concerning that meeting. On the strength of this the
 magazine has evidently obtained the mailing list of the colored
 organization and is sending this letter broadcast:
 
-> GENERAL FEDERATION MAGAZINE    
+> GENERAL FEDERATION MAGAZINE
 > &nbsp;    
 > Only official organ of the General Federation of Women's Clubs   
 > &nbsp;        
-> New York, N. Y, Sept. 22, 1914. 
+> New York, N. Y, Sept. 22, 1914.    
 > &nbsp;    
 > My dear Madam:   
 > &nbsp;    
@@ -31,7 +31,6 @@ colored women in this country who would without doubt be interested in
 the *General Federation Magazine*, which is the official organ of the
 General Federation of Women's Clubs.       
 > &nbsp;    
-> 
 > I am using this month an account of your Convention by Miss Zona Gale
 and I know you will be interested to see that in this important
 Magazine. May I not hope for your support in the way of at least one
@@ -45,9 +44,9 @@ to give you publicity in the Magazine whenever you desire.
 > &nbsp;    
 > We are sending you a sample copy of our Biennial number.       
 > &nbsp;    
-> Very cordially yours,       
+> Very cordially yours,
 > &nbsp;    
-> Harriet Bishop Waters,       
+> Harriet Bishop Waters,
 > &nbsp;    
 > *General Federation Magazine.*
 
