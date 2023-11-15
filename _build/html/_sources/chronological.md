@@ -153,6 +153,7 @@
 |   1914 |        8 | 5       | [The Story of Africa](https://www.dareyoufight.org/Volumes/08/05/story_of_africa.html)                                                                                                   |
 |   1914 |        9 | 1       | [World War and the Color Line](https://www.dareyoufight.org/Volumes/09/01/worldwar.html)                                                                                                 |
 |   1914 |        9 | 1       | [The Burden of Black Women](https://www.dareyoufight.org/Volumes/09/01/burden_of_black_women.html)                                                                                       |
+|   1914 |        9 | 1       | [A Correspondence](https://www.dareyoufight.org/Volumes/09/01/correspondence.html)                                                                                                       |
 |   1914 |        9 | 2       | [Supreme Court](https://www.dareyoufight.org/Volumes/09/02/supreme_court.html)                                                                                                           |
 |   1914 |        9 | 2       | [William Monroe Trotter](https://www.dareyoufight.org/Volumes/09/02/trotter.html)                                                                                                        |
 |   1914 |        9 | 2       | [Y.M.C.A](https://www.dareyoufight.org/Volumes/09/02/ymca.html)                                                                                                                          |

@@ -486,6 +486,7 @@ chapters:
     - file: Volumes/40/10/church_and_religion.md
   - file: Sections/misc
     sections: 
+    - file: Volumes/09/01/correspondence.md
     - file: Volumes/09/04/president.md
     - file: Volumes/04/06/of_children.md
     - file: Volumes/04/03/fraud_and_imitation.md
