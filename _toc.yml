@@ -28,7 +28,6 @@ chapters:
   - file: Volumes/03/02/sin.md
   - file: Volumes/03/04/light.md
   - file: Volumes/05/02/black_mother.md
-  - file: Volumes/05/06/hail_columbia.md
   - file: Volumes/06/02/logic.md
   - file: Volumes/06/02/democrats.md
   - file: Volumes/07/04/negro_land.md
@@ -176,6 +175,7 @@ chapters:
     - file: Volumes/05/01/last_word_in_politics.md
     - file: Volumes/05/02/the_election.md
     - file: Volumes/05/02/odd_fellows.md
+    - file: Volumes/09/02/election.md
     - file: Volumes/10/01/the_republicans.md
     - file: Volumes/13/01/mr_hughes.md
     - file: Volumes/13/01/presidential_candidates.md
@@ -207,6 +207,7 @@ chapters:
     - file: Volumes/04/02/suffering_suffragettes.md
     - file: Volumes/04/04/ohio.md
     - file: Volumes/04/05/votes_for_women.md
+    - file: Volumes/05/06/hail_columbia.md
     - file: Volumes/06/01/womans_suffrage.md
     - file: Volumes/08/04/votes_for_women.md
     - file: Volumes/09/04/suffrage_women.md
@@ -226,6 +227,7 @@ chapters:
   - file: Volumes/06/02/ostrich.md
   - file: Volumes/06/02/next_step.md  
   - file: Volumes/07/03/strength_of_segregation.md
+  - file: Volumes/08/04/dont_be_bitter.md
   - file: Volumes/09/05/organization.md
   - file: Volumes/09/06/immediate_program.md
   - file: Volumes/13/02/refinement_and_love.md
@@ -272,6 +274,7 @@ chapters:
     sections:
     - file: Volumes/03/06/servant_in_the_south.md
     - file: Volumes/04/03/organized_labor.md
+    - file: Volumes/09/03/logic.md
     - file: Volumes/15/05/the_black_man_and_the_unions.md
     - file: Volumes/18/05/labor_omnia_vincit.md
     - file: Volumes/19/05/dives.md
@@ -423,6 +426,7 @@ chapters:
   sections:
   - file: Sections/great_migration
     sections:
+     - file: Volumes/07/04/migration.md
      - file: Volumes/12/06/migration.md
      - file: Volumes/14/01/migration.md
      - file: Volumes/14/02/migration_of_negroes.md
@@ -432,6 +436,7 @@ chapters:
      - file: Volumes/01/03/old_story.md
      - file: Volumes/01/04/pink.md
      - file: Volumes/04/05/virginia_christian.md
+     - file: Volumes/09/02/murder.md
      - file: Volumes/19/04/crime.md
      - file: Volumes/23/05/boddy.md
      - file: Volumes/23/05/homicides.md
@@ -475,6 +480,7 @@ chapters:
     - file: Volumes/03/01/social_equality.md
     - file: Volumes/03/01/christianity_rampant.md
     - file: Volumes/04/01/negro_church.md
+    - file: Volumes/07/02/episcopal_church.md
     - file: Volumes/14/01/white_church.md
     - file: Volumes/36/05/missionaries.md
     - file: Volumes/40/10/church_and_religion.md
