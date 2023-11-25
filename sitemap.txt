@@ -141,8 +141,11 @@ https://www.dareyoufight.org/Volumes/33/02/books.html
 https://www.dareyoufight.org/Volumes/33/02/debs.html
 https://www.dareyoufight.org/Volumes/33/02/travel.html
 https://www.dareyoufight.org/Volumes/33/01/russia_1926.html
+https://www.dareyoufight.org/Volumes/05/03/emancipation.html
+https://www.dareyoufight.org/Volumes/05/03/our_own_consent.html
 https://www.dareyoufight.org/Volumes/05/04/blesseddiscrimination.html
 https://www.dareyoufight.org/Volumes/05/04/intermarriage.html
+https://www.dareyoufight.org/Volumes/05/05/open_letter.html
 https://www.dareyoufight.org/Volumes/05/05/proper_way.html
 https://www.dareyoufight.org/Volumes/05/02/truth.html
 https://www.dareyoufight.org/Volumes/05/02/odd_fellows.html
@@ -297,6 +300,7 @@ https://www.dareyoufight.org/Volumes/36/02/a_pilgrimage_to_negro_schools.html
 https://www.dareyoufight.org/Volumes/36/11/negro_in_politics.html
 https://www.dareyoufight.org/Volumes/36/09/pechstein_and_pecksniff.html
 https://www.dareyoufight.org/Volumes/09/03/logic.html
+https://www.dareyoufight.org/Volumes/09/03/alleged_failure.html
 https://www.dareyoufight.org/Volumes/09/03/agility.html
 https://www.dareyoufight.org/Volumes/09/04/president.html
 https://www.dareyoufight.org/Volumes/09/04/lynching_industry.html
