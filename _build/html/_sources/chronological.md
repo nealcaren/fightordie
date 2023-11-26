@@ -107,6 +107,8 @@
 |   1913 |        5 | 4       | [Intermarriage](https://www.dareyoufight.org/Volumes/05/04/intermarriage.html)                                                                                                           |
 |   1913 |        5 | 5       | [The Proper Way](https://www.dareyoufight.org/Volumes/05/05/proper_way.html)                                                                                                             |
 |   1913 |        5 | 5       | [An Open Letter to Woodrow Wilson](https://www.dareyoufight.org/Volumes/05/05/open_letter.html)                                                                                          |
+|   1913 |        5 | 6       | [The Hurt Hound](https://www.dareyoufight.org/Volumes/05/06/hurt_hound.html)                                                                                                             |
+|   1913 |        5 | 6       | [The "Jim Crow" Argument](https://www.dareyoufight.org/Volumes/05/06/jim_crow_argument.html)                                                                                             |
 |   1913 |        5 | 6       | [Hail Columbia](https://www.dareyoufight.org/Volumes/05/06/hail_columbia.html)                                                                                                           |
 |   1913 |        6 | 1       | [Woman's Suffrage](https://www.dareyoufight.org/Volumes/06/01/womans_suffrage.html)                                                                                                      |
 |   1913 |        6 | 1       | [The Vigilance Committee: A Call To Arms](https://www.dareyoufight.org/Volumes/06/01/vigilance_committee.html)                                                                           |
@@ -144,6 +146,7 @@
 |   1914 |        7 | 6       | [Does Organization Pay?](https://www.dareyoufight.org/Volumes/07/06/does_organization_pay.html)                                                                                          |
 |   1914 |        7 | 6       | [Brazil](https://www.dareyoufight.org/Volumes/07/06/brazil.html)                                                                                                                         |
 |   1914 |        7 | 6       | [Veiled Insults](https://www.dareyoufight.org/Volumes/07/06/veiled_insults.html)                                                                                                         |
+|   1914 |        8 | 1       | [A Question of Policy and The Philosophy of Mr. Dole](https://www.dareyoufight.org/Volumes/08/01/question_of_policy.html)                                                                |
 |   1914 |        8 | 2       | [Senators' Records](https://www.dareyoufight.org/Volumes/08/02/senators_records.html)                                                                                                    |
 |   1914 |        8 | 2       | [Mexico](https://www.dareyoufight.org/Volumes/08/02/mexico.html)                                                                                                                         |
 |   1914 |        8 | 3       | [Muddle](https://www.dareyoufight.org/Volumes/08/04/muddle.html)                                                                                                                         |
@@ -173,6 +176,7 @@
 |   1915 |       10 | 2       | [An Amazing Island](https://www.dareyoufight.org/Volumes/10/02/amazing_island.html)                                                                                                      |
 |   1915 |       10 | 2       | [An Open Letter](https://www.dareyoufight.org/Volumes/10/03/an_open_letter.html)                                                                                                         |
 |   1915 |       10 | 3       | [Education](https://www.dareyoufight.org/Volumes/10/03/education.html)                                                                                                                   |
+|   1915 |       10 | 4       | [Frank](https://www.dareyoufight.org/Volumes/10/04/frank.html)                                                                                                                           |
 |   1915 |       10 | 6       | [Hayti](https://www.dareyoufight.org/Volumes/10/06/hayti.html)                                                                                                                           |
 |   1915 |       11 | 1       | [Woman Suffrage](https://www.dareyoufight.org/Volumes/11/01/woman_suffrage.html)                                                                                                         |
 |   1915 |       11 | 1       | [We Come of Age](https://www.dareyoufight.org/Volumes/11/01/we_come_of_age.html)                                                                                                         |
@@ -392,6 +396,7 @@
 |   1928 |       35 | 12      | [Segregation](https://www.dareyoufight.org/Volumes/35/12/segregation.html)                                                                                                               |
 |   1928 |       35 | 12      | [The Campaign of 1928](https://www.dareyoufight.org/Volumes/35/12/campaign_of_1928.html)                                                                                                 |
 |   1928 |       35 | 12      | [The Election](https://www.dareyoufight.org/Volumes/35/12/election.html)                                                                                                                 |
+|   1928 |       35 | 2       | [Marcus Garvey and the NAACP](https://www.dareyoufight.org/Volumes/35/02/marcus_garvey.html)                                                                                             |
 |   1928 |       35 | 2       | [The Flood, the Red Cross and the National Guard](https://www.dareyoufight.org/Volumes/35/02/the_flood_the_red_cross_and_the_national_guard.html)                                        |
 |   1928 |       35 | 3       | [Black and White Workers](https://www.dareyoufight.org/Volumes/35/03/black_and_white_workers.html)                                                                                       |
 |   1928 |       35 | 3       | [The Name Negro](https://www.dareyoufight.org/Volumes/35/03/name_negro.html)                                                                                                             |

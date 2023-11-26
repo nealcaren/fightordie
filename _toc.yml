@@ -28,6 +28,7 @@ chapters:
   - file: Volumes/03/02/sin.md
   - file: Volumes/03/04/light.md
   - file: Volumes/05/02/black_mother.md
+  - file: Volumes/05/06/hurt_hound.md
   - file: Volumes/06/02/logic.md
   - file: Volumes/06/02/democrats.md
   - file: Volumes/07/04/negro_land.md
@@ -71,6 +72,7 @@ chapters:
     - file: Volumes/07/05/lynching.md
     - file: Volumes/08/03/cause_of_lynching.md
     - file: Volumes/09/04/lynching_industry.md
+    - file: Volumes/10/04/frank.md
     - file: Volumes/11/06/peonage.md
     - file: Volumes/12/06/cowardice.md
     - file: Volumes/22/01/anti-lynching_legislation.md
@@ -116,6 +118,7 @@ chapters:
   - file: Volumes/01/04/rampant_democracy.md
   - file: Volumes/03/05/homes.md
   - file: Volumes/05/04/blesseddiscrimination.md
+  - file: Volumes/05/06/jim_crow_argument.md
   - file: Volumes/06/05/open_letter.md
   - file: Volumes/08/03/real_estate_in_new_york.md
   - file: Volumes/09/02/trotter.md
@@ -382,6 +385,7 @@ chapters:
     - file: Volumes/23/04/africa_for_the_africans.md
     - file: Volumes/26/05/florida.md
     - file: Volumes/27/06/little_portraits.md
+    - file: Volumes/35/02/marcus_garvey.md
     - file: Volumes/37/03/patient_asses.md
     - file: Volumes/37/02/smuts.md
     - file: Volumes/40/11/panafrica_and_new_racial_philosophy.md
@@ -456,6 +460,7 @@ chapters:
   - file: Sections/capital_n
     sections:
     - file: Volumes/07/06/veiled_insults.md
+    - file: Volumes/08/01/question_of_policy.md
     - file: Volumes/09/02/negro.md
     - file: Volumes/11/04/that_capital_n.md
     - file: Volumes/35/03/name_negro.md
