@@ -101,6 +101,7 @@ https://www.dareyoufight.org/Volumes/35/03/black_and_white_workers.html
 https://www.dareyoufight.org/Volumes/35/05/browsing_reader.html
 https://www.dareyoufight.org/Volumes/35/05/our_economic_future.html
 https://www.dareyoufight.org/Volumes/35/02/the_flood_the_red_cross_and_the_national_guard.html
+https://www.dareyoufight.org/Volumes/35/02/marcus_garvey.html
 https://www.dareyoufight.org/Volumes/35/11/on_the_fence.html
 https://www.dareyoufight.org/Volumes/35/11/dunbar_national_bank.html
 https://www.dareyoufight.org/Volumes/35/11/third_party.html
@@ -153,6 +154,8 @@ https://www.dareyoufight.org/Volumes/05/02/the_election.html
 https://www.dareyoufight.org/Volumes/05/02/black_mother.html
 https://www.dareyoufight.org/Volumes/05/01/last_word_in_politics.html
 https://www.dareyoufight.org/Volumes/05/01/second_birthday.html
+https://www.dareyoufight.org/Volumes/05/06/jim_crow_argument.html
+https://www.dareyoufight.org/Volumes/05/06/hurt_hound.html
 https://www.dareyoufight.org/Volumes/05/06/hail_columbia.html
 https://www.dareyoufight.org/Volumes/02/03/high_school.html
 https://www.dareyoufight.org/Volumes/02/03/flag.html
@@ -231,6 +234,7 @@ https://www.dareyoufight.org/Volumes/17/04/reconstruction_and_africa.html
 https://www.dareyoufight.org/Volumes/17/06/for_what.html
 https://www.dareyoufight.org/Volumes/10/03/an_open_letter.html
 https://www.dareyoufight.org/Volumes/10/03/education.html
+https://www.dareyoufight.org/Volumes/10/04/frank.html
 https://www.dareyoufight.org/Volumes/10/02/amazing_island.html
 https://www.dareyoufight.org/Volumes/10/01/credit.html
 https://www.dareyoufight.org/Volumes/10/01/the_republicans.html
@@ -360,6 +364,7 @@ https://www.dareyoufight.org/Volumes/08/05/story_of_africa.html
 https://www.dareyoufight.org/Volumes/08/05/does_race_antagonism.html
 https://www.dareyoufight.org/Volumes/08/02/mexico.html
 https://www.dareyoufight.org/Volumes/08/02/senators_records.html
+https://www.dareyoufight.org/Volumes/08/01/question_of_policy.html
 https://www.dareyoufight.org/Volumes/01/03/winter_pilmigrage.html
 https://www.dareyoufight.org/Volumes/01/03/ashamed.html
 https://www.dareyoufight.org/Volumes/01/03/social_equality.html
