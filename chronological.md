@@ -217,6 +217,8 @@
 |   1917 |       13 | 5       | [The Attempted Lynching of Lube Martin: An N.A.A.C.P. Investigation](https://www.dareyoufight.org/Volumes/13/05/attempted_lynching.html)                                                 |
 |   1917 |       13 | 6       | [The Perpetual Dilemma](https://www.dareyoufight.org/Volumes/13/06/perpetual_dilemma.html)                                                                                               |
 |   1917 |       14 | 1       | [Register and Vote](https://www.dareyoufight.org/Volumes/14/01/register_and_vote.html)                                                                                                   |
+|   1917 |       14 | 1       | [Loyalty](https://www.dareyoufight.org/Volumes/14/01/loyalty.html)                                                                                                                       |
+|   1917 |       14 | 1       | [Naval Ruler](https://www.dareyoufight.org/Volumes/14/01/naval_ruler.html)                                                                                                               |
 |   1917 |       14 | 1       | [The Migration](https://www.dareyoufight.org/Volumes/14/01/migration.html)                                                                                                               |
 |   1917 |       14 | 1       | [The White Church](https://www.dareyoufight.org/Volumes/14/01/white_church.html)                                                                                                         |
 |   1917 |       14 | 1       | [A Moral Void](https://www.dareyoufight.org/Volumes/14/01/moral_void.html)                                                                                                               |
@@ -224,6 +226,7 @@
 |   1917 |       14 | 2       | [Officers](https://www.dareyoufight.org/Volumes/14/02/officers.html)                                                                                                                     |
 |   1917 |       14 | 2       | ['We Should Worry'](https://www.dareyoufight.org/Volumes/14/02/we_should_worry.html)                                                                                                     |
 |   1917 |       14 | 2       | [The Migration of Negroes](https://www.dareyoufight.org/Volumes/14/02/migration_of_negroes.html)                                                                                         |
+|   1917 |       14 | 3       | [Promoting Race Prejudice](https://www.dareyoufight.org/Volumes/14/03/race_prejudice.html)                                                                                               |
 |   1917 |       14 | 3       | [Memphis or East St. Louis?](https://www.dareyoufight.org/Volumes/14/03/memphis_or_east_st_louis.html)                                                                                   |
 |   1917 |       14 | 3       | [Justice](https://www.dareyoufight.org/Volumes/14/03/justice.html)                                                                                                                       |
 |   1917 |       14 | 4       | [Roosevelt](https://www.dareyoufight.org/Volumes/14/04/roosevelt.html)                                                                                                                   |

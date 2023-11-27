@@ -505,6 +505,7 @@ https://www.dareyoufight.org/Volumes/13/01/presidential_candidates.html
 https://www.dareyoufight.org/Volumes/13/06/perpetual_dilemma.html
 https://www.dareyoufight.org/Volumes/14/03/memphis_or_east_st_louis.html
 https://www.dareyoufight.org/Volumes/14/03/justice.html
+https://www.dareyoufight.org/Volumes/14/03/race_prejudice.html
 https://www.dareyoufight.org/Volumes/14/04/roosevelt.html
 https://www.dareyoufight.org/Volumes/14/05/massacre_of_east_st_louis.html
 https://www.dareyoufight.org/Volumes/14/05/awake_america.html
@@ -515,9 +516,11 @@ https://www.dareyoufight.org/Volumes/14/02/resolutions.html
 https://www.dareyoufight.org/Volumes/14/02/migration_of_negroes.html
 https://www.dareyoufight.org/Volumes/14/02/officers.html
 https://www.dareyoufight.org/Volumes/14/02/we_should_worry.html
+https://www.dareyoufight.org/Volumes/14/01/naval_ruler.html
 https://www.dareyoufight.org/Volumes/14/01/white_church.html
 https://www.dareyoufight.org/Volumes/14/01/register_and_vote.html
 https://www.dareyoufight.org/Volumes/14/01/migration.html
+https://www.dareyoufight.org/Volumes/14/01/loyalty.html
 https://www.dareyoufight.org/Volumes/14/01/moral_void.html
 https://www.dareyoufight.org/Volumes/14/06/houston.html
 https://www.dareyoufight.org/Volumes/22/03/libelous_film.html
