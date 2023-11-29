@@ -131,6 +131,7 @@
 |   1913 |        7 | 2       | [The Strength of Segregation](https://www.dareyoufight.org/Volumes/07/03/strength_of_segregation.html)                                                                                   |
 |   1913 |        7 | 2       | [The Three Wise Men](https://www.dareyoufight.org/Volumes/07/02/three_wise_men.html)                                                                                                     |
 |   1913 |        7 | 2       | [The Episcopal Church](https://www.dareyoufight.org/Volumes/07/02/episcopal_church.html)                                                                                                 |
+|   1913 |        6 | 1       | [Peace](https://www.dareyoufight.org/Volumes/06/01/peace.html)                                                                                                                           |
 |   1914 |        7 | 3       | [Join or Die](https://www.dareyoufight.org/Volumes/07/03/fightordie.html)                                                                                                                |
 |   1914 |        7 | 3       | [Free, White and Twenty One](https://www.dareyoufight.org/Volumes/07/03/free_white_twenty_one.html)                                                                                      |
 |   1914 |        7 | 4       | [The Negro and the Land](https://www.dareyoufight.org/Volumes/07/04/negro_land.html)                                                                                                     |
