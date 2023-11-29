@@ -5,7 +5,7 @@ journal: The Crisis
 year:    1918
 volume:  15
 issue:   6
-pages:   268
+pages:   269
 -->
 # Houston and East St. Louis (1918)
 
@@ -27,4 +27,4 @@ pages:   268
  The park is maintained by taxes on 70,000 whites and 40,000 Negroes. A few blocks from this park Policeman Sparks shot Corporal Baltimore and started the riot. Baltimore was hanged.
 
 ______________
-*Citation:* Du Bois, W.E.B. 1918. "Houston and East St. Louis." *The Crisis*. 15(6):268.
+*Citation:* Du Bois, W.E.B. 1918. "Houston and East St. Louis." *The Crisis*. 15(6):269.

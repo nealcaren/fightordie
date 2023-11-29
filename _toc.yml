@@ -190,6 +190,7 @@ chapters:
     - file: Volumes/13/02/muddle.md
     - file: Volumes/14/01/register_and_vote.md
     - file: Volumes/15/01/oath_of_the_negro_voter.md
+    - file: Volumes/15/06/republican_party.md
     - file: Volumes/20/05/how_shall_we_vote.md
     - file: Volumes/21/02/unreal_campaign.md
     - file: Volumes/22/01/drive.md 
@@ -272,6 +273,7 @@ chapters:
     - file: Volumes/11/01/we_come_of_age.md
     - file: Volumes/11/05/young.md
     - file: Volumes/10/01/credit.md
+    - file: Volumes/15/03/efficiency.md
     - file: Volumes/20/01/white_coworkers.md
     - file: Volumes/22/05/boards.md
     - file: Volumes/28/03/unity.md
@@ -287,6 +289,7 @@ chapters:
     - file: Volumes/03/06/servant_in_the_south.md
     - file: Volumes/04/03/organized_labor.md
     - file: Volumes/09/03/logic.md
+    - file: Volumes/15/04/railroads.md
     - file: Volumes/15/05/the_black_man_and_the_unions.md
     - file: Volumes/18/05/labor_omnia_vincit.md
     - file: Volumes/19/05/dives.md
@@ -344,6 +347,7 @@ chapters:
     - file: Volumes/14/02/we_should_worry.md
     - file: Volumes/14/03/justice.md
     - file: Volumes/14/05/awake_america.md
+    - file: Volumes/15/06/attention.md
     - file: Volumes/16/03/close_ranks.md
     - file: Volumes/16/04/philosophy_in_time_of_war.md
     - file: Volumes/16/05/momentous_proposal.md
@@ -495,7 +499,7 @@ chapters:
     - file: Volumes/39/04/again_howard.md
     - file: Volumes/40/08/negro_college.md
   - file: Sections/religion.md
-    sections:
+    sections: 
     - file: Volumes/01/03/baltimore.md
     - file: Volumes/01/05/methodist_church_north.md
     - file: Volumes/03/01/social_equality.md
@@ -504,6 +508,7 @@ chapters:
     - file: Volumes/07/02/episcopal_church.md
     - file: Volumes/11/06/church.md
     - file: Volumes/14/01/white_church.md
+    - file: Volumes/15/05/crime.md
     - file: Volumes/36/05/missionaries.md
     - file: Volumes/40/10/church_and_religion.md
   - file: Sections/misc

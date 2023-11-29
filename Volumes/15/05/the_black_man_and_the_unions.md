@@ -5,7 +5,7 @@ journal: The Crisis
 year:    1918
 volume:  15
 issue:   5
-pages:   114
+pages:   214
 -->
 # The Black Man and the Unions (1918)
 
@@ -24,4 +24,4 @@ Personally, I have come to this decision reluctantly and in the past have writte
 The recent convention of the American Federation of Labor, at Buffalo, is no proof of change of heart. Grudgingly, unwillingly, almost insultingly, this Federation yields to us inch by inch the status of half-a-man, denying and withholding every privilege it dares at all times.
 
 ______________
-*Citation:* Du Bois, W.E.B. 1918. "The Black Man and the Unions." *The Crisis*. 15(5):114.
+*Citation:* Du Bois, W.E.B. 1918. "The Black Man and the Unions." *The Crisis*. 15(5):214.
