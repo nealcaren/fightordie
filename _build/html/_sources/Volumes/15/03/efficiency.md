@@ -5,15 +5,19 @@ journal: The Crisis
 year:    1918
 volume:  15
 issue:   3
-pages:   114
+pages:   115
 -->
 # Thirteen (1918)
 
-```{margin}
-This editorial is on the [Houston riot](https://en.wikipedia.org/wiki/Houston_riot_of_1917).
-```
+Efficiency
 
-The have gone to their death. Thirteen young, strong men; soldiers who have fought for a country which never was wholly theirs; men born to suffer ridicule, injustice, and, at last, death itself. They broke the law. Against their punishment, if it was legal, we cannot protest. But we can protest and we do protest against the shame­ful treatment which these men and which we, their brothers, receive all our lives, and which our fathers received, and our children await; and above all we raise our clenched hands against the hundreds of thousands of white murderers, rapists, and scoundrels who have oppressed, killed, ruined, robbed, and debased their black fellow men and fellow women, and yet, today, walk scot-free, unwhipped of justice, uncondemned by millions of their white fellow citizens, and unrebuked by the President of the United States.
+The National Association for the Advancement of Colored People has, in its comparatively brief career, dealt Bourbonism in the United States three telling blows. First: by helping to secure the celebrated Grandfather Decision before the Supreme Court, it began the overthrow of Disfranchisement and secured the first official affirmation of the validity of the Fifteenth Amendment. Second: it dealt Caste in the Nation a telling blow when it secured the admission of nearly seven hundred Colored Officers of the United States Army. Third: in securing the Segregation Decision before the Supreme Court, it stopped the most outrageous invasion of the Negro's rights yet attempted.
+
+In addition to these three blows, it has fought for Civil Rights, encouraged ability through the Spingarn Medal, defeated Anti-Intermarriage Laws, watched Legislation, made Lynching a National question, and published the Truth.
+
+It did not do these things single-handed but has worked always with all persons minded to work with it. In each case, however, it has furnished suggestion, encouragement, funds, and active organization.
+
+This is surely a record which proves The National Association for the Advancement of Colored People the only national organization in the field today which can fight efficiently for the rights of the Negro and the one on which twelve million Negroes should concentrate with membership, encouragement and funds.
 
 ______________
-*Citation:* Du Bois, W.E.B. 1918. "Thirteen." *The Crisis*. 15(3):114.
+*Citation:* Du Bois, W.E.B. 1918. "Thirteen." *The Crisis*. 15(3):115.

@@ -41,6 +41,7 @@ chapters:
   - file: Volumes/12/02/deception.md
   - file: Volumes/12/05/conduct_not_color.md
   - file: Volumes/14/03/race_prejudice.md
+  - file: Volumes/14/05/black_bastille.md
   - file: Volumes/17/06/for_what.md
   - file: Volumes/19/01/social_equality.md
   - file: Volumes/19/05/again_social_equality.md
@@ -108,7 +109,6 @@ chapters:
   - file: Volumes/40/05/scottsboro.md
   - file: Volumes/41/01/scottsboro.md
 
-
 - file: Sections/segregation 
   sections:
   - file: Volumes/01/01/Segregation.md
@@ -126,6 +126,7 @@ chapters:
   - file: Volumes/08/03/real_estate_in_new_york.md
   - file: Volumes/09/02/trotter.md
   - file: Volumes/09/02/ymca.md
+  - file: Volumes/15/02/victory.md
   - file: Volumes/17/03/jim_crow.md
   - file: Volumes/19/03/american_legion_again.md
   - file: Volumes/26/03/tuskegee_hospital.md
@@ -242,6 +243,7 @@ chapters:
   - file: Volumes/09/05/organization.md
   - file: Volumes/09/06/immediate_program.md
   - file: Volumes/13/02/refinement_and_love.md
+  - file: Volumes/13/05/tuskegee_resolutions.md
   - file: Volumes/19/01/statement.md
   - file: Volumes/12/06/negro_party.md
   - file: Volumes/22/01/inter-racial_comity.md
@@ -328,6 +330,8 @@ chapters:
     - file: Volumes/40/05/marxism_and_the_negro_problem.md
     - file: Volumes/40/07/our_class_struggle.md
     - file: Volumes/41/03/Subsistence_homestead_colonies.md
+  - file: Volumes/14/05/more_suggestions.md
+  - file: Volumes/14/06/consecration.md
   - file: Volumes/34/02/farmers.md
   - file: Volumes/37/03/our_economic_peril.md
   - file: Volumes/39/03/to_your_tents.md
@@ -346,7 +350,9 @@ chapters:
     - file: Volumes/14/02/officers.md
     - file: Volumes/14/02/we_should_worry.md
     - file: Volumes/14/03/justice.md
+    - file: Volumes/14/04/present.md
     - file: Volumes/14/05/awake_america.md
+    - file: Volumes/15/02/baker.md
     - file: Volumes/15/06/attention.md
     - file: Volumes/16/03/close_ranks.md
     - file: Volumes/16/04/philosophy_in_time_of_war.md
