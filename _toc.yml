@@ -98,6 +98,7 @@ chapters:
     - file: Volumes/14/06/houston.md
     - file: Volumes/15/03/thirteen.md
     - file: Volumes/15/06/houston_and_east_st_louis.md
+    - file: Volumes/16/06/houston.md
   - file: Sections/red_summer
     sections:
     - file: Volumes/18/05/let_us_reason_together.md
@@ -192,6 +193,8 @@ chapters:
     - file: Volumes/14/01/register_and_vote.md
     - file: Volumes/15/01/oath_of_the_negro_voter.md
     - file: Volumes/15/06/republican_party.md
+    - file: Volumes/16/04/tillman.md
+    - file: Volumes/16/06/blease.md
     - file: Volumes/20/05/how_shall_we_vote.md
     - file: Volumes/21/02/unreal_campaign.md
     - file: Volumes/22/01/drive.md 
@@ -355,10 +358,13 @@ chapters:
     - file: Volumes/15/02/baker.md
     - file: Volumes/15/06/attention.md
     - file: Volumes/16/03/close_ranks.md
+    - file: Volumes/16/04/help_us.md
+    - file: Volumes/16/04/food.md
     - file: Volumes/16/04/philosophy_in_time_of_war.md
     - file: Volumes/16/05/momentous_proposal.md
     - file: Volumes/16/05/our_special_greivances.md
     - file: Volumes/16/05/reward.md
+    - file: Volumes/16/06/boy_over_there.md
     - file: Volumes/18/01/returning_soldiers.md
     - file: Volumes/18/01/robert_moton.md
     - file: Volumes/33/03/league_of_nations.md
@@ -496,6 +502,7 @@ chapters:
     - file: Volumes/10/03/education.md
     - file: Volumes/15/01/hampton.md
     - file: Volumes/15/04/negro_education.md
+    - file: Volumes/16/06/school.md
     - file: Volumes/22/04/mixed.md
     - file: Volumes/34/10/hampton_strike.md
     - file: Volumes/36/05/optimism.md
@@ -519,6 +526,7 @@ chapters:
     - file: Volumes/40/10/church_and_religion.md
   - file: Sections/misc
     sections: 
+    - file: Volumes/16/06/slaughter.md
     - file: Volumes/05/05/open_letter.md
     - file: Volumes/11/05/brandeis.md
     - file: Volumes/09/01/correspondence.md

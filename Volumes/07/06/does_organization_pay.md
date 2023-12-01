@@ -7,7 +7,6 @@ volume:  7
 issue:   6
 pages:   285
 -->
-
 # Does Organization Pay? (1914)
 
 The colored Americans have not yet realized the strength or efficiency of organization. They continually complain of inability to co-operate, of disintegrating tendencies, of ineffective beginnings of union. 
@@ -34,45 +33,6 @@ Or are you drifting, with so many white Americans, under the excuse that "Nothin
 > Or soon, their right shall vindicate. 
 
  There are 36,000 copies of this issue of <span style="font-variant:small-caps;">The Crisis</span> being read this month. There are at least 100,000 readers. If every reader becomes a member of the National Association for the Advancement of Colored People, the battle for Negro rights is won! 
-
-<!--
-Formatting hints:
-
-**Bold** and *italics* text.
-
-Ordered list:
-1. First item
-2. Second item
-3. Third item
-
-Bullet list:
-- First item
-- Second item
-- Third item
-
-How to include a link to the Du Bois [archive](https://credo.library.umass.edu/view/collection/mums312).
-
-Including an image: 
-![Du Bois sitting at this desk](http://www.dareyoufight.org/_images/nypl.digitalcollections.510d47dc-8fb3-a3d9-e040-e00a18064a99.001.w.jpg)
-
-Ignore the drop cap and excessive capitalization that begins some articles.
-
-Long quotes are indented using >. For quotes that run more than one paragraph, use a non-printing space between each paragraph to preserve the indent. Additionally, each paragraph, except the last, should end with two spaces:
-> Paragraph 1  
-> &nbsp;  
-> Paragraph 2
-
-The Crisis: <span style="font-variant:small-caps;">The Crisis</span>
-
-Crisis: <span style="font-variant:small-caps;">Crisis</span>
-
-Long articles sometimes have section break lines, which can be recreated with 
-<p style="text-align:center"> ~~~~~~~~~~~~~~~ </p>
-
-Markdown file titles is a lower-cased version of the article title, replacing spaces with underscores (_)
-
-Don't worry about the citation at the bottom. It is automatically generated. 
--->
 
 ______________
 *Citation:* Du Bois, W.E.B. 1914. "Does Organization Pay?." *The Crisis*. 7(6):285.
