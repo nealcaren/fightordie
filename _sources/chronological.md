@@ -523,6 +523,7 @@
 |   1934 |       41 | 5       | [Segregation](https://www.dareyoufight.org/Volumes/41/05/segregation.html)                                                                                                               |
 |   1934 |       41 | 5       | [William Monroe Trotter](https://www.dareyoufight.org/Volumes/41/05/trotter.html)                                                                                                        |
 |   1934 |       41 | 5       | [Violence](https://www.dareyoufight.org/Volumes/41/05/violence.html)                                                                                                                     |
+|   1934 |       41 | 5       | [Westward Ho](https://www.dareyoufight.org/Volumes/41/05/westward_ho.html)                                                                                                               |
 |   1934 |       41 | 5       | [Grand Jury Adjourns: Laurens County Fails to Indict Dendy Lynchers](https://www.dareyoufight.org/Volumes/41/05/grand_jury_adjourns.html)                                                |
 |   1934 |       41 | 6       | [Counsels of Despair](https://www.dareyoufight.org/Volumes/41/06/counsels_of_despair.html)                                                                                               |
 |   1934 |       41 | 8       | [Dr. Du Bois Resigns](https://www.dareyoufight.org/Volumes/41/08/dr_dubois_resigns.html)                                                                                                 |
