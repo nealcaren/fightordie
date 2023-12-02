@@ -371,6 +371,7 @@ chapters:
     - file: Volumes/17/01/flaming_arrows.md
     - file: Volumes/17/01/soldiers.md
     - file: Volumes/17/01/patriotism.md
+    - file: Volumes/17/02/peace.md
     - file: Volumes/18/01/returning_soldiers.md
     - file: Volumes/18/01/robert_moton.md
     - file: Volumes/33/03/league_of_nations.md
@@ -532,6 +533,7 @@ chapters:
     - file: Volumes/40/10/church_and_religion.md
   - file: Sections/misc
     sections: 
+    - file: Volumes/17/02/flight.md
     - file: Volumes/17/02/steve.md
     - file: Volumes/16/06/slaughter.md
     - file: Volumes/05/05/open_letter.md
