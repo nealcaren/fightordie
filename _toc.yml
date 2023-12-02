@@ -196,6 +196,7 @@ chapters:
     - file: Volumes/15/06/republican_party.md
     - file: Volumes/16/04/tillman.md
     - file: Volumes/16/06/blease.md
+    - file: Volumes/17/02/ballot.md
     - file: Volumes/20/05/how_shall_we_vote.md
     - file: Volumes/21/02/unreal_campaign.md
     - file: Volumes/22/01/drive.md 
@@ -531,6 +532,7 @@ chapters:
     - file: Volumes/40/10/church_and_religion.md
   - file: Sections/misc
     sections: 
+    - file: Volumes/17/02/steve.md
     - file: Volumes/16/06/slaughter.md
     - file: Volumes/05/05/open_letter.md
     - file: Volumes/11/05/brandeis.md
