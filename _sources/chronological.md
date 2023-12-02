@@ -280,6 +280,8 @@
 |   1919 |       17 | 1       | [Flaming Arrows](https://www.dareyoufight.org/Volumes/17/01/flaming_arrows.html)                                                                                                         |
 |   1919 |       17 | 1       | [Soldiers](https://www.dareyoufight.org/Volumes/17/01/soldiers.html)                                                                                                                     |
 |   1919 |       17 | 1       | [Patriotism](https://www.dareyoufight.org/Volumes/17/01/patriotism.html)                                                                                                                 |
+|   1919 |       17 | 2       | [The Ballot](https://www.dareyoufight.org/Volumes/17/02/ballot.html)                                                                                                                     |
+|   1919 |       17 | 2       | [Steve](https://www.dareyoufight.org/Volumes/17/02/steve.html)                                                                                                                           |
 |   1919 |       17 | 3       | [Jim Crow](https://www.dareyoufight.org/Volumes/17/03/jim_crow.html)                                                                                                                     |
 |   1919 |       17 | 4       | [Reconstruction and Africa](https://www.dareyoufight.org/Volumes/17/04/reconstruction_and_africa.html)                                                                                   |
 |   1919 |       17 | 4       | [Africa](https://www.dareyoufight.org/Volumes/17/04/africa.html)                                                                                                                         |
