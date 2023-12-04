@@ -312,6 +312,7 @@
 |   1919 |       19 | 2       | [The Negro Soldier](https://www.dareyoufight.org/Volumes/19/02/negro_soldier.html)                                                                                                       |
 |   1919 |       19 | 2       | [The Gospel According to Mary Brown](https://www.dareyoufight.org/Volumes/19/02/gospel.html)                                                                                             |
 |   1919 |       19 | 2       | [Radicals](https://www.dareyoufight.org/Volumes/19/02/radicals.html)                                                                                                                     |
+|   1920 |       19 | 3       | ["Our" South](https://www.dareyoufight.org/Volumes/19/03/our_south.html)                                                                                                                 |
 |   1920 |       19 | 3       | [The Macon Telegraph](https://www.dareyoufight.org/Volumes/19/03/macon_telegraph.html)                                                                                                   |
 |   1920 |       19 | 3       | [American Legion, Again](https://www.dareyoufight.org/Volumes/19/03/american_legion_again.html)                                                                                          |
 |   1920 |       19 | 3       | [Sex Equality](https://www.dareyoufight.org/Volumes/19/03/sex_equality.html)                                                                                                             |
