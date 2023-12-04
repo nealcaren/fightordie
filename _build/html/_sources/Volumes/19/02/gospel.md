@@ -1,13 +1,13 @@
 <!------
-title:   Votes
-author:  The Gospel According to Mary Brown
+title:   The Gospel According to Mary Brown
+author:  Du Bois, W.E.B.
 journal: The Crisis
 year:    1919
 volume:  19
 issue:   2
 pages:   41---43
 ------>
-# Votes (1919)
+# The Gospel According to Mary Brown (1919)
 
 She was very small and pretty and black and lived in the cabin beyond the Big Road and down the lane by the creek, where one field on field of green cotton was flowering in the spring. And one night as she sat there all alone and wistful, watching the stars, a woman passed by and hailed her. She shrank back in the shadows, but the woman smiled and said full softly:
 
@@ -48,7 +48,7 @@ And all that heard him were astonished at his understanding and answers.
 
 But his mother said unto him:  
 
-"Son, why did you do me this---a---way?"  
+"Son, why did you do me this-a-way?"  
 
 And he answered: "Wist ye not, that I must be about my Father's business."
 
@@ -122,15 +122,15 @@ And so swiftly he was sentenced for treason and inciting murder and insurrection
 
 And Joshua said: "Father, forgive them, for they know not what they do."
 
------
+______________
 
 Now far down in the cabin beyond the Big Road and down the lane by the creek, there where filed on field of bronze---stalked cotton lay bursting in white clouds, awaiting the pickers, a mother strove with heaven, on her knees. And she cried:
 
 "God, you ain't fair!---You ain't fair, God! You didn't ought to do it---if you didn't want him black, you didn't have to make him black; if you didn't want him unhappy, why did you let him think? And then you let them mock him, and hurt him, and lynch him! Why, why did you do it, God?"
 
-And then after she heard the faint pit---a---pat of running feet; she paused on her knees. Pit---a---pat they came across the field, down the Big Road, along the lane; pit---a---pat---pit---a---pat; and then she heard the hard breathing—ha---ha! Ha---ha!—Pit---a---pat---pit---a---pat, until suddenly a flying sweat---swathed figure rushed on her, crying: "Mary—Mary—he is not dead: He is risen!"
+And then after she heard the faint pit-a-pat of running feet; she paused on her knees. pit-a-pat they came across the field, down the Big Road, along the lane; pit-a-pat-pit-a-pat; and then she heard the hard breathing—--ha-ha! Ha-ha!---Pit-a-pat---pit-a-pat, until suddenly a flying sweat-swathed figure rushed on her, crying: "Mary---Mary---he is not dead: He is risen!"
 
----------
+______________
 
 He came in the twilight, walking slowly, with head thrust slightly forward, as was his wont, and eyes upon the ground. But the heart of Mary leapt within her. For his hair shone, the lines were gone from his face, and the sorrow slept in his eyes. His clothes were white and whole and clean, and his voice was the voice of God.
 
@@ -141,4 +141,4 @@ And he answered and said: "I was crucified, dead, and buried. I descended into H
 And softly Mary laid herself down at His feet, and died.
 
 ______________
-*Citation:* The Gospel According to Mary Brown. 1919. "Votes." *The Crisis*. 19(2):41&ndash;&ndash;43.
+*Citation:* Du Bois, W.E.B. 1919. "The Gospel According to Mary Brown." *The Crisis*. 19(2):41&ndash;&ndash;43.
