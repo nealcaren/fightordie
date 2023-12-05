@@ -384,6 +384,7 @@
 |   1924 |       28 | 5       | [The N.A.A.C.P. and Parties](https://www.dareyoufight.org/Volumes/28/05/naacp_and_parties.html)                                                                                          |
 |   1924 |      291 | 1       | [How Shall We Vote](https://www.dareyoufight.org/Volumes/29/01/how_shall_we_vote.html)                                                                                                   |
 |   1924 |      291 | 1       | [Fall Books](https://www.dareyoufight.org/Volumes/29/01/fall_books.html)                                                                                                                 |
+|   1924 |      291 | 6       | [Inter-Marriage](https://www.dareyoufight.org/Volumes/29/06/inter-marriage.html)                                                                                                         |
 |   1925 |       29 | 5       | [Radicals and the Negro](https://www.dareyoufight.org/Volumes/29/05/radicals_and_the_negro.html)                                                                                         |
 |   1925 |       30 | 1       | [The New Crisis](https://www.dareyoufight.org/Volumes/30/01/new_crisis.html)                                                                                                             |
 |   1925 |       30 | 2       | [Disenfranchisement](https://www.dareyoufight.org/Volumes/30/02/disenfranchisement.html)                                                                                                 |
@@ -404,6 +405,7 @@
 |   1926 |       32 | 1       | [Crime](https://www.dareyoufight.org/Volumes/32/01/crime.html)                                                                                                                           |
 |   1926 |       32 | 2       | [Italy and Abyssinia](https://www.dareyoufight.org/Volumes/32/02/italy_and_abyssinia.html)                                                                                               |
 |   1926 |       32 | 3       | ['Krigwa Players Little Negro Theatre'](https://www.dareyoufight.org/Volumes/32/03/kgriwa.html)                                                                                          |
+|   1926 |       32 | 3       | [Murder](https://www.dareyoufight.org/Volumes/32/03/murder.html)                                                                                                                         |
 |   1926 |       32 | 6       | [Criteria of Negro Art](https://www.dareyoufight.org/Volumes/32/06/criteria_of_negro_art.html)                                                                                           |
 |   1926 |       33 | 1       | [Russia, 1926](https://www.dareyoufight.org/Volumes/33/01/russia_1926.html)                                                                                                              |
 |   1926 |       33 | 2       | [Eugene Debs](https://www.dareyoufight.org/Volumes/33/02/debs.html)                                                                                                                      |
