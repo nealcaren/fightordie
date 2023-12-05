@@ -96,8 +96,12 @@ https://www.dareyoufight.org/Volumes/32/01/lynching.html
 https://www.dareyoufight.org/Volumes/32/01/disenfranchisement.html
 https://www.dareyoufight.org/Volumes/32/01/crime.html
 https://www.dareyoufight.org/Volumes/32/06/criteria_of_negro_art.html
+https://www.dareyoufight.org/Volumes/35/03/robert.html
 https://www.dareyoufight.org/Volumes/35/03/name_negro.html
 https://www.dareyoufight.org/Volumes/35/03/black_and_white_workers.html
+https://www.dareyoufight.org/Volumes/35/03/dill.html
+https://www.dareyoufight.org/Volumes/35/03/failure_to_vote.html
+https://www.dareyoufight.org/Volumes/35/04/black.html
 https://www.dareyoufight.org/Volumes/35/05/browsing_reader.html
 https://www.dareyoufight.org/Volumes/35/05/our_economic_future.html
 https://www.dareyoufight.org/Volumes/35/02/the_flood_the_red_cross_and_the_national_guard.html
@@ -109,6 +113,7 @@ https://www.dareyoufight.org/Volumes/35/10/possible_democracy.html
 https://www.dareyoufight.org/Volumes/35/09/possiblity_of_democracy_i.html
 https://www.dareyoufight.org/Volumes/35/08/negro_voter.html
 https://www.dareyoufight.org/Volumes/35/01/the_flood_the_red_cross_and_the_national_guard.html
+https://www.dareyoufight.org/Volumes/35/01/exclusion.html
 https://www.dareyoufight.org/Volumes/35/06/two_novels.html
 https://www.dareyoufight.org/Volumes/35/06/so_the_girl_marries.html
 https://www.dareyoufight.org/Volumes/35/12/campaign_of_1928.html
