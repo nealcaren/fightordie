@@ -37,6 +37,7 @@ chapters:
   - file: Volumes/08/05/does_race_antagonism.md
   - file: Volumes/09/02/supreme_court.md
   - file: Volumes/10/01/clansman.md
+  - file: Volumes/11/04/lies_agreed_upon.md
   - file: Volumes/12/02/consolations.md
   - file: Volumes/12/02/deception.md
   - file: Volumes/12/05/conduct_not_color.md
@@ -66,7 +67,7 @@ chapters:
 
 - file: Sections/racialviolence.md
   sections:
-  - file: Sections/lynching.md
+  - file: Sections/lynching.md 
     sections:
     - file: Volumes/02/03/flag.md
     - file: Volumes/02/04/lynching.md
@@ -78,6 +79,7 @@ chapters:
     - file: Volumes/08/03/cause_of_lynching.md
     - file: Volumes/09/04/lynching_industry.md
     - file: Volumes/10/04/frank.md
+    - file: Volumes/11/05/preparedness.md
     - file: Volumes/11/06/peonage.md
     - file: Volumes/12/06/cowardice.md
     - file: Volumes/22/01/anti-lynching_legislation.md
@@ -191,6 +193,8 @@ chapters:
     - file: Volumes/05/02/odd_fellows.md
     - file: Volumes/09/02/election.md
     - file: Volumes/10/01/the_republicans.md
+    - file: Volumes/11/02/elections.md
+    - file: Volumes/11/05/st_louis.md
     - file: Volumes/13/01/mr_hughes.md
     - file: Volumes/13/01/presidential_candidates.md
     - file: Volumes/13/02/muddle.md
@@ -283,6 +287,7 @@ chapters:
     - file: Volumes/07/05/crusades.md
     - file: Volumes/07/04/work_for_black_folk.md
     - file: Volumes/07/06/does_organization_pay.md
+    - file: Volumes/10/05/other_organizations.md
     - file: Volumes/11/01/we_come_of_age.md
     - file: Volumes/11/05/young.md
     - file: Volumes/10/01/credit.md
@@ -356,6 +361,7 @@ chapters:
     sections:
     - file: Volumes/09/01/worldwar.md
     - file: Volumes/10/02/lusitania.md
+    - file: Volumes/11/04/germany.md
     - file: Volumes/12/05/battle_of_eruope.md
     - file: Volumes/13/06/perpetual_dilemma.md
     - file: Volumes/14/01/loyalty.md
@@ -521,6 +527,7 @@ chapters:
     - file: Volumes/04/02/education.md
     - file: Volumes/08/03/college_education.md
     - file: Volumes/10/03/education.md
+    - file: Volumes/11/05/negro_public_school.md
     - file: Volumes/15/01/hampton.md
     - file: Volumes/15/04/negro_education.md
     - file: Volumes/16/06/school.md
