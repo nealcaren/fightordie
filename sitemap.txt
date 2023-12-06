@@ -207,11 +207,17 @@ https://www.dareyoufight.org/Volumes/27/03/black_man_and_the_wounded_world.html
 https://www.dareyoufight.org/Volumes/27/04/younger_movement.html
 https://www.dareyoufight.org/Volumes/27/04/kenya.html
 https://www.dareyoufight.org/Volumes/27/06/little_portraits.html
+https://www.dareyoufight.org/Volumes/11/04/germany.html
 https://www.dareyoufight.org/Volumes/11/04/that_capital_n.html
+https://www.dareyoufight.org/Volumes/11/04/lies_agreed_upon.html
 https://www.dareyoufight.org/Volumes/11/05/cherokee_fires.html
+https://www.dareyoufight.org/Volumes/11/05/negro_public_school.html
+https://www.dareyoufight.org/Volumes/11/05/preparedness.html
 https://www.dareyoufight.org/Volumes/11/05/brandeis.html
+https://www.dareyoufight.org/Volumes/11/05/st_louis.html
 https://www.dareyoufight.org/Volumes/11/05/young.html
 https://www.dareyoufight.org/Volumes/11/02/booker_t_washington.html
+https://www.dareyoufight.org/Volumes/11/02/elections.html
 https://www.dareyoufight.org/Volumes/11/02/star_of_ethiopia.html
 https://www.dareyoufight.org/Volumes/11/01/woman_suffrage.html
 https://www.dareyoufight.org/Volumes/11/01/we_come_of_age.html
@@ -260,6 +266,7 @@ https://www.dareyoufight.org/Volumes/17/06/for_what.html
 https://www.dareyoufight.org/Volumes/10/03/an_open_letter.html
 https://www.dareyoufight.org/Volumes/10/03/education.html
 https://www.dareyoufight.org/Volumes/10/04/frank.html
+https://www.dareyoufight.org/Volumes/10/05/other_organizations.html
 https://www.dareyoufight.org/Volumes/10/02/lusitania.html
 https://www.dareyoufight.org/Volumes/10/02/amazing_island.html
 https://www.dareyoufight.org/Volumes/10/01/credit.html
