@@ -12,7 +12,7 @@ pages:   234
 Thirty-one states, with a population of 681,325 colored women, 21 years of age and over, in 1910, and at least 750,000 today, have ratified the proposed Woman Suffrage Amendment:
 
 |               |       |               |         |
-| ------------- | ----- | ------------- | ------- |
+| ------------- | ----: | ------------- | ------: |
 | Maine         | 401   | Arkansas      | 102,917 |
 | N. H'sphire  | 176   | Texas        | 161,959 |
 | Mass.        | 12,648 | Montana      | 553     |
