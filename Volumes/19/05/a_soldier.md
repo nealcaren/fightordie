@@ -10,7 +10,7 @@ pages:   235-236
 # A Soldier (1920)
 Do you want this boy to be hanged?
 
-![](../../../Images/caldwell.jpg) 
+![](../Images/caldwell.jpg) 
 
 This is the picture of Edgar Caldwell, who is under sentence of death, for defending himself against the crew of a street car in Anniston, Ala., and killing one of them.
 
