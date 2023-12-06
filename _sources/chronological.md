@@ -322,7 +322,7 @@
 |   1920 |       19 | 4       | [Coöperation](https://www.dareyoufight.org/Volumes/19/04/cooperation.html)                                                                                                               |
 |   1920 |       19 | 4       | [Crime](https://www.dareyoufight.org/Volumes/19/04/crime.html)                                                                                                                           |
 |   1920 |       19 | 5       | [Again, Social Equality](https://www.dareyoufight.org/Volumes/19/05/again_social_equality.html)                                                                                          |
-|   1920 |       19 | 5       | [Just Like---Folks](https://www.dareyoufight.org/Volumes/19/05/woman_suffrage.html)                                                                                                      |
+|   1920 |       19 | 5       | [Woman Suffrage](https://www.dareyoufight.org/Volumes/19/05/woman_suffrage.html)                                                                                                         |
 |   1920 |       19 | 5       | [Dives, Mob, and Scab](https://www.dareyoufight.org/Volumes/19/05/dives.html)                                                                                                            |
 |   1920 |       19 | 5       | [Just Like---Folks](https://www.dareyoufight.org/Volumes/19/05/just_like_folks.html)                                                                                                     |
 |   1920 |       19 | 5       | [A Soldier](https://www.dareyoufight.org/Volumes/19/05/a_soldier.html)                                                                                                                   |

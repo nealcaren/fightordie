@@ -1,5 +1,5 @@
 <!--
-title:   Just Like---Folks
+title:   Woman Suffrage
 author:  Du Bois, W.E.B.
 journal: The Crisis
 year:    1920
@@ -7,11 +7,13 @@ volume:  19
 issue:   5
 pages:   234
 -->
-# Just Like---Folks (1920)
+# Woman Suffrage (1920)
 
 Thirty-one states, with a population of 681,325 colored women, 21 years of age and over, in 1910, and at least 750,000 today, have ratified the proposed Woman Suffrage Amendment:
 
-| Maine        | 401   | Arkansas     | 102,917 |
+|               |       |               |         |
+| ------------- | ----- | ------------- | ------- |
+| Maine         | 401   | Arkansas      | 102,917 |
 | N. H'sphire  | 176   | Texas        | 161,959 |
 | Mass.        | 12,648 | Montana      | 553     |
 | New York     | 49,300 | Colorado     | 3,861   |
@@ -39,4 +41,4 @@ Get ready.
 They may beat and bribe our men, but the political hope of the Negro, rests on its intelligent and incorruptible womanhood.
 
  ______________
-*Citation:* Du Bois, W.E.B. 1920. "Just Like---Folks." *The Crisis*. 19(5):234&ndash;235.
+*Citation:* Du Bois, W.E.B. 1920. "Woman Suffrage." *The Crisis*. 19(5):234.
