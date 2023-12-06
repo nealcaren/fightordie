@@ -233,6 +233,7 @@ chapters:
     - file: Volumes/09/03/agility.md
     - file: Volumes/11/01/woman_suffrage.md
     - file: Volumes/15/01/votes_for_women.md
+    - file: Volumes/19/05/woman_suffrage.md
     - file: Volumes/20/01/get_ready.md
     - file: Volumes/21/01/suffrage.md
 
@@ -383,6 +384,7 @@ chapters:
     - file: Volumes/18/01/robert_moton.md
     - file: Volumes/19/01/league.md
     - file: Volumes/19/02/negro_soldier.md
+    - file: Volumes/19/05/just_like_folks.md
     - file: Volumes/33/03/league_of_nations.md
 
   - file: Sections/colonialization
