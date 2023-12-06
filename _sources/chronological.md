@@ -323,6 +323,7 @@
 |   1920 |       19 | 4       | [Crime](https://www.dareyoufight.org/Volumes/19/04/crime.html)                                                                                                                           |
 |   1920 |       19 | 5       | [Again, Social Equality](https://www.dareyoufight.org/Volumes/19/05/again_social_equality.html)                                                                                          |
 |   1920 |       19 | 5       | [Dives, Mob, and Scab](https://www.dareyoufight.org/Volumes/19/05/dives.html)                                                                                                            |
+|   1920 |       19 | 5       | [A Soldier](https://www.dareyoufight.org/Volumes/19/05/a_soldier.html)                                                                                                                   |
 |   1920 |       20 | 1       | [Get Ready](https://www.dareyoufight.org/Volumes/20/01/get_ready.html)                                                                                                                   |
 |   1920 |       20 | 1       | [White Co-Workers](https://www.dareyoufight.org/Volumes/20/01/white_coworkers.html)                                                                                                      |
 |   1920 |       20 | 3       | [Race Intelligence](https://www.dareyoufight.org/Volumes/20/03/race_intelligence.html)                                                                                                   |
