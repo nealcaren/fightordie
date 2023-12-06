@@ -112,6 +112,7 @@
 |   1913 |        5 | 6       | [Hail Columbia](https://www.dareyoufight.org/Volumes/05/06/hail_columbia.html)                                                                                                           |
 |   1913 |        6 | 1       | [Woman's Suffrage](https://www.dareyoufight.org/Volumes/06/01/womans_suffrage.html)                                                                                                      |
 |   1913 |        6 | 1       | [The Vigilance Committee: A Call To Arms](https://www.dareyoufight.org/Volumes/06/01/vigilance_committee.html)                                                                           |
+|   1913 |        6 | 1       | [Peace](https://www.dareyoufight.org/Volumes/06/01/peace.html)                                                                                                                           |
 |   1913 |        6 | 2       | [Logic](https://www.dareyoufight.org/Volumes/06/02/logic.html)                                                                                                                           |
 |   1913 |        6 | 2       | [Education](https://www.dareyoufight.org/Volumes/06/02/democrats.html)                                                                                                                   |
 |   1913 |        6 | 2       | [Education](https://www.dareyoufight.org/Volumes/06/02/ostrich.html)                                                                                                                     |
@@ -131,7 +132,6 @@
 |   1913 |        7 | 2       | [The Strength of Segregation](https://www.dareyoufight.org/Volumes/07/03/strength_of_segregation.html)                                                                                   |
 |   1913 |        7 | 2       | [The Three Wise Men](https://www.dareyoufight.org/Volumes/07/02/three_wise_men.html)                                                                                                     |
 |   1913 |        7 | 2       | [The Episcopal Church](https://www.dareyoufight.org/Volumes/07/02/episcopal_church.html)                                                                                                 |
-|   1913 |        6 | 1       | [Peace](https://www.dareyoufight.org/Volumes/06/01/peace.html)                                                                                                                           |
 |   1914 |        7 | 3       | [Join or Die](https://www.dareyoufight.org/Volumes/07/03/fightordie.html)                                                                                                                |
 |   1914 |        7 | 3       | [Free, White and Twenty One](https://www.dareyoufight.org/Volumes/07/03/free_white_twenty_one.html)                                                                                      |
 |   1914 |        7 | 4       | [The Negro and the Land](https://www.dareyoufight.org/Volumes/07/04/negro_land.html)                                                                                                     |
@@ -197,6 +197,7 @@
 |   1915 |        9 | 5       | [The White Christ](https://www.dareyoufight.org/Volumes/09/05/the_white_christ.html)                                                                                                     |
 |   1915 |        9 | 6       | [Woman Suffrage](https://www.dareyoufight.org/Volumes/09/06/womansuffrage.html)                                                                                                          |
 |   1915 |        9 | 6       | [The Immediate Program of the  American Negro](https://www.dareyoufight.org/Volumes/09/06/immediate_program.html)                                                                        |
+|   1916 |       11 | 4       | [Lies Agreed Upon](https://www.dareyoufight.org/Volumes/11/04/lies_agreed_upon.html)                                                                                                     |
 |   1916 |       11 | 4       | [Germany](https://www.dareyoufight.org/Volumes/11/04/germany.html)                                                                                                                       |
 |   1916 |       11 | 4       | [That Capital 'N'](https://www.dareyoufight.org/Volumes/11/04/that_capital_n.html)                                                                                                       |
 |   1916 |       11 | 5       | [St. Louis](https://www.dareyoufight.org/Volumes/11/05/st_louis.html)                                                                                                                    |
@@ -222,7 +223,6 @@
 |   1916 |       13 | 1       | [Presidential Candidates](https://www.dareyoufight.org/Volumes/13/01/presidential_candidates.html)                                                                                       |
 |   1916 |       13 | 2       | [Muddle](https://www.dareyoufight.org/Volumes/13/02/muddle.html)                                                                                                                         |
 |   1916 |       13 | 2       | ['Refinement and Love'](https://www.dareyoufight.org/Volumes/13/02/refinement_and_love.html)                                                                                             |
-|   1916 |       11 | 4       | [Lies Agreed Upon](https://www.dareyoufight.org/Volumes/11/04/lies_agreed_upon.html)                                                                                                     |
 |   1917 |       13 | 5       | [The Tuskegee Resolutions](https://www.dareyoufight.org/Volumes/13/05/tuskegee_resolutions.html)                                                                                         |
 |   1917 |       13 | 5       | [The Attempted Lynching of Lube Martin: An N.A.A.C.P. Investigation](https://www.dareyoufight.org/Volumes/13/05/attempted_lynching.html)                                                 |
 |   1917 |       13 | 6       | [The Perpetual Dilemma](https://www.dareyoufight.org/Volumes/13/06/perpetual_dilemma.html)                                                                                               |
