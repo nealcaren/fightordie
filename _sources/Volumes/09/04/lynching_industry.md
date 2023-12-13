@@ -20,7 +20,7 @@ those starred are unrecorded in the Chicago *Tribune* list; with regard
 to five of these of unknown name there is it bare possibility of
 duplication or mistake, but this does not seem probable:
 
-### **COLORED MEN LYNCHED IN 1914**
+## **COLORED MEN LYNCHED IN 1914**
 
 Jan.
 * Okla.---Dickerson, murder.
@@ -106,7 +106,7 @@ Dec.
 
 **Total**--- 69
 
-### **NUMBER BY MONTHS**
+## **NUMBER BY MONTHS**
 
 |       |    |
 |-------|---:|
@@ -123,7 +123,7 @@ Dec.
 | Nov.  | 16 |
 | Dec.  | 10 |
 
-### **NUMBER BY STATE**
+## **NUMBER BY STATE**
 
 |       |    |
 |-------|---:|
@@ -140,7 +140,7 @@ Dec.
 | N. C. | 1  |
 | Mo.   | 1  |
 
-### **NUMBER BY CRIMES**
+## **NUMBER BY CRIMES**
 
 |                                                     |    | Percentage |
 |-----------------------------------------------------|---:|-----------:|
@@ -152,7 +152,7 @@ Dec.
 | Arson                                               | 2  | 3          |
 | Resistance to search                                | 1  | 1.5        |
 
-### **LYNCHED BY YEARS, 1885-1914**
+## **LYNCHED BY YEARS, 1885-1914**
 
 | &nbsp;    |  &nbsp;  |
 |------|----:|

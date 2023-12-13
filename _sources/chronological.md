@@ -211,6 +211,7 @@
 |   1916 |       11 | 6       | [The Church](https://www.dareyoufight.org/Volumes/11/06/church.html)                                                                                                                     |
 |   1916 |       12 | 1       | [Social Equality](https://www.dareyoufight.org/Volumes/12/01/social_equality.html)                                                                                                       |
 |   1916 |       12 | 1       | [Public Schools](https://www.dareyoufight.org/Volumes/12/01/salutations.html)                                                                                                            |
+|   1916 |       12 | 1       | [Public Schools](https://www.dareyoufight.org/Volumes/12/01/rescue.html)                                                                                                                 |
 |   1916 |       12 | 1       | [The Pageant](https://www.dareyoufight.org/Volumes/12/01/pageant.html)                                                                                                                   |
 |   1916 |       12 | 1       | [The Pageant](https://www.dareyoufight.org/Volumes/12/01/negro_college.html)                                                                                                             |
 |   1916 |       12 | 1       | [Public Schools](https://www.dareyoufight.org/Volumes/12/01/public_schools.html)                                                                                                         |

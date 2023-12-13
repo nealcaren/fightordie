@@ -12,7 +12,7 @@ pages:   43-44, 65-69
 
 These are snapshots, and  they have the validity and weakness of snapshots. I got mere glimpses of these various institutions, and from the glimpses came impressions and judgments. In some cases these impressions are doubtless right, in others, just as surely they are quite wrong. I give them, therefore, not as final judgments, but simply for what they are worth, and | shall be glad to know of any mistakes I may have made. 
 
-### Palmer and Petersburg
+## Palmer and Petersburg
 
 The Palmer Institute at Sedalia has a distinct individuality and a certain little air of culture. There is vim and enthusiasm, sunlight and air. Perhaps the institution feels a bit new and self-conscious and over-eager, and yet it is genuine. It has buildings, good-class rooms, and a teachers' home that is homelike. It needs a library. 
 
@@ -22,7 +22,7 @@ What shall one do with an old building? The great central hall at Petersburg is 
 
 But to go back to Petersburg. It moves like clockwork. The curriculum is complete and all-embracing in its theory, and yet, do I not seem to feel a little too much machinery, a certain lack of spontaneity and initiative on the part of the students? The student audience did not have the same air of intelligence that I found in many other places. 
 
-### Shaw and Fayetteville
+## Shaw and Fayetteville
 
 Shaw is grey-haired and slow. But it has a constituency. It is built deep in human hearts. It needs, physically and mentally, without doubt, thorough overhauling and readjustment to a new day. 
 
@@ -32,7 +32,7 @@ The State Normal School at Fayetteville was a discovery. It has one beautiful bu
 
 Fayetteville is a curious mass of contradictions. It has some good dormitories, with a young, live faculty, and I have never spoken to a student audience that showed more rapt attention and intelligence; and yet, on the top of that came one astonishing adventure: Fayetteville is difficult of access, and I asked the Principal to arrange to get me to Hamlet by auto sixty miles away. He promised to hire one, but could not. Nevertheless, it mattered little. The roads were excellent and  the Principal himself owns two autos: a Cadillac and a new Ford. He sent his chauffeur with me and we made the trip in an hour and a half, with an expenditure of less than three gallons of gas, and the Principal charged me Ten Dollars for the courtesy! The next time I go to Fayetteville I shall walk. 
 
-### Smith, Allen and Bethune
+## Smith, Allen and Bethune
 
 Johnson C. Smith is sedate and staid. It has a quiet, clean campus and an air of academic withdrawal. 'The students are a crowd of sturdy big-voiced boys and they listened with intelligence and even eagerness. But the school has too much religion and too few.young modern teachers. It lacks something of fire and vim, of freedom and aspiration. There were roses in my room. 
 
@@ -48,13 +48,13 @@ revolution had struck the colored college student; and trustees and teachers had
 
 ![Tapley Hall, Spelman College, as Seen Through the Pillars of Sisters Chapel.](../../../Images/tapley_hall.png)  
 
-### Waters and Charleston
+## Waters and Charleston
 
 I rode back from Daytona with the President of Edward Waters and stopped at Jacksonville to lecture for this college. Edward Waters is an A. M. E. School and it is down at the heels. It has one good building, and that characteristically, is a building for theological students who are not there. Yet the African A. M. E. Church in Florida is vigorous and well organized. 'The school has valuable land, although the titles are clouded by failure to pay taxes. The student body looks dull and unintelligent. Vigorous organization is needed here to save their institution. 
 
 Charleston is always Charleston, with its Mona Lisa smile, and its hereditary hospitality. I go there to pick up threads of the past. There were two colored banks. One has survived, and it is the one that deserved to survive. Avery is still the city High School and the city still refuses to support it; the students looked awake lining the gallery, and sang well. There was a little dinner before the lecture with singular cross-currents of religion and art, education and business, compromise and resentment. The audience was intelligent. 
   
-### Jim-Crow
+## Jim-Crow
 
 I rode to Augusta, starting early. This riding in the South is interesting. From New York to Sedalia, 463 miles, I went in a Pullman. After reaching the South I traveled in a Pullman, 190 miles back to Virginia—and then 275 miles from Columbia to Jacksonville; 166 miles from Atlanta to Tuskegee and 205 miles from Birmingham to Nashville. 
 
@@ -70,7 +70,7 @@ My chief joy in these "Jim Crow" rides was these empty cars. The automobile is c
 
 Especially is the automobile a boon for the colored Bishops, the officials of fraternal societies, insurance agents, and the like. I remember once that the venerable Bishop Turner stricken with paralysis, could for neither love nor money, hire a Pullman berth from Savannah to Atlanta. They fixed the old man up in the "Tim Crow" smoker across two seats. Yesterday, I saw the African A. M. F. Bishop of Florida. He was gliding along in his Cadillac car with a chauffeur on the way from Jacksonville to Atlanta. He looked extremely comfortable. 
 
-### Augusta and Atlanta
+## Augusta and Atlanta
 
 Augusta shows a sort of dogged stagnation. It is the home of rich Northern golfers, grim cotton mills, and disinherited black folk. For fifty years it has refused any substantial improvement to its Negro schools and the Negro section still has its unpaved _ streets. Increasing _ poverty among the poor white folk is leading to every effort among the well-to-do whites to displace Negro labor. In fact, this movement is characteristic of the Southeast. It is perhaps widest in Florida, where the whites have poured in from Georgia and Alabama, like a plague of locusts. Wherever they could get a Negro's job by legislation or mob violence, they did so. The Negroes underbid them only by semi-servile work, as for instance, when white women of Jacksonville canvassed the business center for white truckmen; it was revealed that the colored truckmen not only drove their trucks, but loaded and underloaded them; which, of course, no lordly white men would be expected to do! So in Augusta, the colored people are fighting for lowly jobs. 
 
@@ -78,7 +78,7 @@ Haines Institute looked grey and slow. Its guiding genius still sits within, sed
 
 Atlanta is taller and fiercer and richer. A terrible blood-sucking crowded hell with heavens for the white rich, roundabout, outside. Money, money and gaud. No culture, no humanity, American in the crassest sense. Here even as in Jacksonville and Augusta, they are piling the white "Crackers" on black folk, and adding insult. At the depot, no colored persons can hire a yellow cab, and no black man can keep his cab at or even near the depot. All the Negro quarter is neglected. "The main bridge from the center of Negro population out past Atlanta University to the High School is broken down and roped off. The High School and all the colored schools have two and three sessions a day. Down in the low bottoms is the unpaved mud and unsewered homes of the black poor, looking much as they did twenty years ago, when I first saw them. Ugliness is rampant in Atlanta save in the white residential developments that circle roundabout and add suave and gracious beauty to the carcass of the city. A city of dope and coca-cola. Atlanta University is falling behind in buildings and equipment. It has its old spirit, its library and laboratories and a good body of students, but they are not as enthusiastic and do not give the evidence of intelligence that I saw in many other schools. New blood and new ideas are needed in the faculty; and yet probably no institution in the South has so significant a body of loyal alumni. Over across the hill are Morehouse and Spelman. 1 did not see Morehouse in the light, but the alert body of Morehouse and Spelman students was up to the highest mark. I could feel the audience thrill beneath me. I am not sure about the Morehouse teachers. I saw only a few. But Spelman has risen from the dead. It has a library with books, a new and beautiful quadrangle and a _ chapel which is a shrine, although one is sorry that it wasn't built to be something more useful than a shrine. The President is an energetic woman, whom it is a pleasure to meet. 
 
-### Tuskegee
+## Tuskegee
 
 And now to Tuskegee. It is twenty-five years or more since I saw Tuskegee. Booker Washington was then at his zenith and the Tuskegee idea was triumphant. It was a combination of something insistent but suspicious that led to my invitation twenty-five years ago to talk to the Tuskegee summer school. I come back to find the school a city. One can no longer speak of a single institution, or judge this mass of buildings, roads and institutions as one thing. It is a great historic growth, and most significant of all, it has grown beautiful. It lies in curving undulating hills, with pines and trees and grass, and the happy voices of thousands of young folk. 
 
