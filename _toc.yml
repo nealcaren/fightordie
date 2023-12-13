@@ -38,6 +38,7 @@ chapters:
   - file: Volumes/09/02/supreme_court.md
   - file: Volumes/10/01/clansman.md
   - file: Volumes/11/04/lies_agreed_upon.md
+  - file: Volumes/12/01/social_equality.md
   - file: Volumes/12/02/consolations.md
   - file: Volumes/12/02/deception.md
   - file: Volumes/12/05/conduct_not_color.md
@@ -152,6 +153,7 @@ chapters:
     sections:
     - file: Volumes/04/02/decency.md
     - file: Volumes/05/04/intermarriage.md
+    - file: Volumes/11/06/intermarriage.md
     - file: Volumes/19/03/sex_equality.md
     - file: Volumes/29/06/inter-marriage.md
     - file: Volumes/31/05/correspondence.md
@@ -255,6 +257,7 @@ chapters:
   - file: Volumes/08/04/dont_be_bitter.md
   - file: Volumes/09/05/organization.md
   - file: Volumes/09/06/immediate_program.md
+  - file: Volumes/12/01/salutations.md
   - file: Volumes/13/02/refinement_and_love.md
   - file: Volumes/13/05/tuskegee_resolutions.md
   - file: Volumes/12/06/negro_party.md
@@ -401,6 +404,7 @@ chapters:
     - file: Volumes/07/04/resistance.md
     - file: Volumes/08/02/mexico.md
     - file: Volumes/10/01/peace.md
+    - file: Volumes/10/05/hayti.md
     - file: Volumes/10/06/hayti.md 
     - file: Volumes/10/02/amazing_island.md
     - file: Volumes/12/04/ireland.md
@@ -477,7 +481,9 @@ chapters:
   - file: Sections/theater
     sections:
     - file: Volumes/07/01/national_emancipation_exposition.md
+    - file: Volumes/10/05/pageant.md
     - file: Volumes/11/02/star_of_ethiopia.md
+    - file: Volumes/12/01/pageant.md
     - file: Volumes/12/03/drama_among_black_folk.md
     - file: Volumes/32/03/kgriwa.md
 
@@ -528,6 +534,8 @@ chapters:
     - file: Volumes/08/03/college_education.md
     - file: Volumes/10/03/education.md
     - file: Volumes/11/05/negro_public_school.md
+    - file: Volumes/12/01/negro_college.md
+    - file: Volumes/12/01/public_schools.md
     - file: Volumes/15/01/hampton.md
     - file: Volumes/15/04/negro_education.md
     - file: Volumes/16/06/school.md

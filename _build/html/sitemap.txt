@@ -224,6 +224,7 @@ https://www.dareyoufight.org/Volumes/11/01/we_come_of_age.html
 https://www.dareyoufight.org/Volumes/11/01/risk_of_woman_suffrage.html
 https://www.dareyoufight.org/Volumes/11/06/peonage.html
 https://www.dareyoufight.org/Volumes/11/06/church.html
+https://www.dareyoufight.org/Volumes/11/06/intermarriage.html
 https://www.dareyoufight.org/Volumes/29/05/radicals_and_the_negro.html
 https://www.dareyoufight.org/Volumes/29/01/fall_books.html
 https://www.dareyoufight.org/Volumes/29/01/how_shall_we_vote.html
@@ -267,6 +268,8 @@ https://www.dareyoufight.org/Volumes/10/03/an_open_letter.html
 https://www.dareyoufight.org/Volumes/10/03/education.html
 https://www.dareyoufight.org/Volumes/10/04/frank.html
 https://www.dareyoufight.org/Volumes/10/05/other_organizations.html
+https://www.dareyoufight.org/Volumes/10/05/hayti.html
+https://www.dareyoufight.org/Volumes/10/05/pageant.html
 https://www.dareyoufight.org/Volumes/10/02/lusitania.html
 https://www.dareyoufight.org/Volumes/10/02/amazing_island.html
 https://www.dareyoufight.org/Volumes/10/01/credit.html
@@ -521,6 +524,11 @@ https://www.dareyoufight.org/Volumes/12/05/battle_of_eruope.html
 https://www.dareyoufight.org/Volumes/12/05/coloured_audience.html
 https://www.dareyoufight.org/Volumes/12/02/consolations.html
 https://www.dareyoufight.org/Volumes/12/02/deception.html
+https://www.dareyoufight.org/Volumes/12/01/social_equality.html
+https://www.dareyoufight.org/Volumes/12/01/pageant.html
+https://www.dareyoufight.org/Volumes/12/01/public_schools.html
+https://www.dareyoufight.org/Volumes/12/01/negro_college.html
+https://www.dareyoufight.org/Volumes/12/01/salutations.html
 https://www.dareyoufight.org/Volumes/12/06/negro_party.html
 https://www.dareyoufight.org/Volumes/12/06/migration.html
 https://www.dareyoufight.org/Volumes/12/06/cowardice.html
