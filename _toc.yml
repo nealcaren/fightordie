@@ -407,6 +407,7 @@ chapters:
     - file: Volumes/10/05/hayti.md
     - file: Volumes/10/06/hayti.md 
     - file: Volumes/10/02/amazing_island.md
+    - file: Volumes/12/01/rescue.md
     - file: Volumes/12/04/ireland.md
     - file: Volumes/12/04/carrizal.md
     - file: Volumes/14/01/naval_ruler.md
@@ -513,6 +514,7 @@ chapters:
   - file: Sections/history
     sections:
     - file: Volumes/03/05/lee.md
+    - file: Volumes/35/03/robert.md
     - file: Volumes/39/01/john_brown.md
   - file: Sections/capital_n
     sections:
