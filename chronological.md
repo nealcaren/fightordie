@@ -468,6 +468,7 @@
 |   1928 |       35 | 3       | [Augustus G. Dill](https://www.dareyoufight.org/Volumes/35/03/failure_to_vote.html)                                                                                                      |
 |   1928 |       35 | 3       | [Augustus G. Dill](https://www.dareyoufight.org/Volumes/35/03/dill.html)                                                                                                                 |
 |   1928 |       35 | 3       | [Black and White Workers](https://www.dareyoufight.org/Volumes/35/03/black_and_white_workers.html)                                                                                       |
+|   1928 |       35 | 3       | [Robert E. Lee](https://www.dareyoufight.org/Volumes/35/03/robert.html)                                                                                                                  |
 |   1928 |       35 | 3       | [The Name Negro](https://www.dareyoufight.org/Volumes/35/03/name_negro.html)                                                                                                             |
 |   1928 |       35 | 4       | [The House of the Black Burghardts](https://www.dareyoufight.org/Volumes/35/04/black.html)                                                                                               |
 |   1928 |       35 | 5       | [Our Economic Future](https://www.dareyoufight.org/Volumes/35/05/our_economic_future.html)                                                                                               |
