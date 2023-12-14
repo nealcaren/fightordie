@@ -217,6 +217,7 @@
 |   1916 |       12 | 1       | [Public Schools](https://www.dareyoufight.org/Volumes/12/01/public_schools.html)                                                                                                         |
 |   1916 |       12 | 2       | [Consolation](https://www.dareyoufight.org/Volumes/12/02/consolations.html)                                                                                                              |
 |   1916 |       12 | 2       | [Deception](https://www.dareyoufight.org/Volumes/12/02/deception.html)                                                                                                                   |
+|   1916 |       12 | 2       | [Tenements](https://www.dareyoufight.org/Volumes/12/02/tenements.html)                                                                                                                   |
 |   1916 |       12 | 3S      | [The Waco Horror](https://www.dareyoufight.org/Volumes/12/03/waco_horror.html)                                                                                                           |
 |   1916 |       12 | 4       | [Ireland](https://www.dareyoufight.org/Volumes/12/04/ireland.html)                                                                                                                       |
 |   1916 |       12 | 4       | [Carrizal](https://www.dareyoufight.org/Volumes/12/04/carrizal.html)                                                                                                                     |
@@ -230,6 +231,7 @@
 |   1916 |       12 | 6       | [Migration](https://www.dareyoufight.org/Volumes/12/06/migration.html)                                                                                                                   |
 |   1916 |       13 | 1       | [Mr. Hughes](https://www.dareyoufight.org/Volumes/13/01/mr_hughes.html)                                                                                                                  |
 |   1916 |       13 | 1       | [Presidential Candidates](https://www.dareyoufight.org/Volumes/13/01/presidential_candidates.html)                                                                                       |
+|   1916 |       13 | 1       | [Southern Civilization](https://www.dareyoufight.org/Volumes/13/01/southern_civilization.html)                                                                                           |
 |   1916 |       13 | 2       | [Muddle](https://www.dareyoufight.org/Volumes/13/02/muddle.html)                                                                                                                         |
 |   1916 |       13 | 2       | ['Refinement and Love'](https://www.dareyoufight.org/Volumes/13/02/refinement_and_love.html)                                                                                             |
 |   1917 |       13 | 5       | [The Tuskegee Resolutions](https://www.dareyoufight.org/Volumes/13/05/tuskegee_resolutions.html)                                                                                         |
@@ -261,6 +263,7 @@
 |   1917 |       14 | 6       | [Consecration](https://www.dareyoufight.org/Volumes/14/06/consecration.html)                                                                                                             |
 |   1917 |       15 | 2       | [Victory](https://www.dareyoufight.org/Volumes/15/02/victory.html)                                                                                                                       |
 |   1917 |       15 | 2       | [Baker](https://www.dareyoufight.org/Volumes/15/02/baker.html)                                                                                                                           |
+|   1917 |       15 | 2       | [The Second Coming](https://www.dareyoufight.org/Volumes/15/02/second_coming.html)                                                                                                       |
 |   1918 |       15 | 1       | [The Oath of the Negro Voter](https://www.dareyoufight.org/Volumes/15/01/oath_of_the_negro_voter.html)                                                                                   |
 |   1918 |       15 | 1       | [Votes for Women](https://www.dareyoufight.org/Volumes/15/01/votes_for_women.html)                                                                                                       |
 |   1918 |       15 | 1       | [Co-Operation](https://www.dareyoufight.org/Volumes/15/01/cooperation.html)                                                                                                              |

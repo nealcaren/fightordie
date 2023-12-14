@@ -132,6 +132,7 @@ chapters:
   - file: Volumes/08/03/real_estate_in_new_york.md
   - file: Volumes/09/02/trotter.md
   - file: Volumes/09/02/ymca.md
+  - file: Volumes/12/02/tenements.md
   - file: Volumes/15/02/victory.md
   - file: Volumes/17/03/jim_crow.md
   - file: Volumes/19/03/american_legion_again.md
@@ -238,6 +239,7 @@ chapters:
     - file: Volumes/09/06/womansuffrage.md
     - file: Volumes/09/03/agility.md
     - file: Volumes/11/01/woman_suffrage.md
+    - file: Volumes/13/01/southern_civilization.md
     - file: Volumes/15/01/votes_for_women.md
     - file: Volumes/19/05/woman_suffrage.md
     - file: Volumes/20/01/get_ready.md
@@ -560,6 +562,7 @@ chapters:
     - file: Volumes/07/02/episcopal_church.md
     - file: Volumes/11/06/church.md
     - file: Volumes/14/01/white_church.md
+    - file: Volumes/15/02/second_coming.md
     - file: Volumes/15/05/crime.md
     - file: Volumes/36/05/missionaries.md
     - file: Volumes/40/10/church_and_religion.md
