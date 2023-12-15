@@ -312,6 +312,7 @@
 |   1919 |       18 | 1       | [To Mr. Emmett Scott](https://www.dareyoufight.org/Volumes/18/01/scott.html)                                                                                                             |
 |   1919 |       18 | 1       | [Robert R. Moton](https://www.dareyoufight.org/Volumes/18/01/robert_moton.html)                                                                                                          |
 |   1919 |       18 | 1       | [My Mission](https://www.dareyoufight.org/Volumes/18/01/my_mission.html)                                                                                                                 |
+|   1919 |       18 | 2       | [An Essay Toward a History of the Black Man in the Great War](https://www.dareyoufight.org/Volumes/18/02/essay.html)                                                                     |
 |   1919 |       18 | 2       | [Egypt and India](https://www.dareyoufight.org/Volumes/18/02/egypt_and_india.html)                                                                                                       |
 |   1919 |       18 | 3       | [Reconstruction](https://www.dareyoufight.org/Volumes/18/03/reconstruction.html)                                                                                                         |
 |   1919 |       18 | 5       | [Let us Reason Together](https://www.dareyoufight.org/Volumes/18/05/let_us_reason_together.html)                                                                                         |
