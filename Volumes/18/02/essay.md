@@ -30,7 +30,7 @@ To everyone war is, and, thank God, must be, disillusion. This war has disillusi
 
 Not that this double disillusion has for a moment made black men doubt the wisdom of their wholehearted help of the Allies. Given the chance again, they would again do their duty---for have they not seen and known France? But these young men see today with opened eyes and strained faces the true and hateful visage of the Negro problem in America.
 
-![Lt. Bakane Diop, a Chief of the Senegalese and Chevalier of the Legion of Honor](Images/essay_Diop.jpg)
+![](Images/essay_Diop.jpg)*Lt. Bakane Diop, a Chief of the Senegalese and Chevalier of the Legion of Honor*
 
 When the German host---grey, grim, irresistible, poured through Belgium, out of Africa France called her sons; they came; 280,000 black Senegalese, first and last---volunteers, not drafted; they hurled the Boches back across the Ourcq and the Marne on a ghastly bridge of their own dead. It was the crisis---four long, bitter years the war wore on; but Germany was beaten at the first battle of the Marne, and by Negroes. Beside the Belgians, too, stood, first and last, 30,000 black Congolese, not to mention the 20,000 black English West Indians who fought in the East and the thousands of black troops who conquered German Africa.
 
@@ -125,7 +125,7 @@ Immediately a persistent campaign began:
 
 First, was the effort to get rid of Negro officers; second, the effort to discredit Negro soldiers; third, the effort to spread race prejudice in France; and fourth, the effort to keep Negroes out of the Regular Army.
 
-![Company 22, Sixth Battalion, 163rd Depot Brigade, Camp Dodge, Iowa. The Only Unit in the Depot Brigades Entirely Officered by Negroes. Captain C. C. Cooper, and Lieutenants T. M. Gregory, E. S. Horne, J. E. Oliver, W. B. Hall and W. C. Dickerson.](Images/essay_22.jpg)
+![](Images/essay_22.jpg)*Company 22, Sixth Battalion, 163rd Depot Brigade, Camp Dodge, Iowa. The Only Unit in the Depot Brigades Entirely Officered by Negroes. Captain C. C. Cooper, and Lieutenants T. M. Gregory, E. S. Horne, J. E. Oliver, W. B. Hall and W. C. Dickerson.*
 
 First and foremost, war is war and military organization is, and must be, tyranny. This is, perhaps, the greatest and most barbarous cost of war and the most pressing reason for its abolition from civilization. As war means tyranny, the company officer is largely at the mercy of his superior officers.
 
