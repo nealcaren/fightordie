@@ -71,6 +71,7 @@ The outlying companies were continually in immediate sight of the sausage balloo
 A concentration had been ordered at Varennes, November 18, and several companies had taken up their abode there or at Camp Mahaut, but to carry out the salvage program, a re-distribution over the Argonne-Meuse area had to be affected immediately.  
 
 The area assigned the 805th Pioneer Infantry extended from Boult-aux-Bois, almost due south to a point one kilometer west of Les Islettes; thence to Aubreville and Avocourt and Esnes; thence to Montfaucon via Bethincourt and Cuisy; thence north through Nantillois and Cunel to Bantheville; thence southwest through Romagne, Gesnes and Exermont to the main road just south of Fleville; and then north to Boult-aux-Bois through Fleville, St. Juvin, Grand Pré and Briquenay.  
+
 The area comprised all of the Argonne forest, from Clermont north and the Varennes-Malancourt-Montfaucon-Romagne sections. More than five hundred square miles of battlefield was included.  
 
 A list of the articles to be salvaged would require a page. Chiefly they were Allied and enemy weapons and cannon, web and leather equipment, clothing and blankets, rolling stock, aviation electrical and engineer equipment. It was a gigantic task and did not near completion until the first week in March when more than 3,000 French carloads had been shipped.  
@@ -100,12 +101,16 @@ The band was organized on the spot and as more instruments and music were obtain
 The following commendation of the work of the regiment was received: 
 
 > The Chief Engineer desires to express his highest appreciation to you and to your regiment for the services rendered to the 1st Army in the offensive between the Meuse and the Argonne, starting September 26, and the continuation of that offensive on November 1 and concluding with the Armistice of November 11.   
+> &nbsp;    
 > The success of the operations of the Army Engineer Troops toward constructing and maintaining supply lines, both roads and railway, of the Army was in no small measure made possible by the excellent work performed by your troops.    
+> &nbsp;    
 > It is desired that the terms of this letter be published to all the officers and enlisted men of your command at the earliest opportunity.
 
 A soldier writes us:
 > Our regiment is composed of colored and white officers. You will find a number of complimentary things on the regiment's record in the Argonne in the history. We were, as you know, the fighting reserves of the Army and that we were right on this front from September to November 11. We kept the lines of communication going and, of course, we were raided and shelled by German long-range guns and subject to gas raids, too.    
+> &nbsp;    
 > We are now located in the Ardennes, between the Argonne and the Meuse. This is a wild and wooly forest, I assure you. We are hoping to reach our homes in May. We have spent over seven months in this section of the battle-front and we are hoping to get started home in a few weeks after you get this letter, at least. Our regiment is the best advertised regiment in the A. E. F. and its members are from all over the United States practically.    
+> &nbsp;    
 > A month or so ago we had a pay-day here and twenty thousand dollars was collected the first day and sent to relatives and banks in the United States. Every day our mail sergeant sends from one hundred to one thousand dollars per day to the United States for the men in our regiment,---savings of the small salary they receive as soldiers. As a whole they are and have learned many things by having had this great war experience.
 
 ## Negro Officers
@@ -245,17 +250,18 @@ Despite the prejudice of officers toward the men, the regiment marched from Ban-
 
 While stationed at Granges, individuals in the regiment were decorated on December 17 for various deeds of gallantry in the Champagne battle. General Goybet presented four military medals and seventy-two Croix de Guerre to enlisted men. Colonel Tupes presented four Distinguished Service Crosses to enlisted men. At the time, the regiment had just been returned to the American command, the following order was read:
 
-> 157th Division
-> Hqrs. December 15th, 1918.
-> Staff.
->     
-> *General Order No. 246.*
+> 157th Division    
+> Hqrs. December 15th, 1918.    
+> Staff.    
+> &nbsp;    
+> *General Order No. 246.*    
 >      
 > On the date of the 12th of December, 1918, the 371st and the 372nd R.I., U.S. have been returned to the disposal of the American Command. It is not without profound emotion that I come in the name of the 157th (French) Division and in my personal name, to say good-bye to our valiant comrades of combat.
-For seven months we have lived as brothers of arms, sharing the same works, the same hardships, the same dangers; side by side we have taken part in the great battle of the Champagne, that a wonderful victory has ended.
+For seven months we have lived as brothers of arms, sharing the same works, the same hardships, the same dangers; side by side we have taken part in the great battle of the Champagne, that a wonderful victory has ended.    
+> &nbsp;    
 > The 157th (French) Division will never forget the wonderful impetus irresistible, the rush heroic of the colored American regiments on the "Observatories Crest" and in the Plain of Menthois. The most formidable defense, the nests of machine guns, the best organized positions, the artillery barrages most crushing, could not stop them. These best regiments have gone through all with disdaining of death and thanks to their courage devotedness, the "Red Hand" Division has during nine hard days of battle been ahead in the victorious advance of the Fourth (French) Army. 
 
-Officers and non-commissioned officers and privates of the 371st and 372nd Regiments Infantry, U. S., I respectfully salute your glorious dead and I bow down before your standards, which by the side of the 333rd R. I., led us to victory.
+Officers and non-commissioned officers and privates of the 371st and 372nd Regiments Infantry, U.S., I respectfully salute your glorious dead and I bow down before your standards, which by the side of the 333rd R.I., led us to victory.
 
 Dear Friends from America, when you have crossed back over the ocean, don't forget the "Red Hand" Division. Our fraternity of arms has been soaked in the blood of the brave. Those bonds will be indistructible.
 
@@ -273,7 +279,7 @@ On January 1, 1919, the regiment entrained for Le Mans (Sarthe). After completin
 
 ## The 370th
 
-UP to this point the anti-Negro propaganda is clear and fairly consistent and unopposed. General Headquarters had not only witnessed instructions in Negro prejudice to the French, but had, also, consented to wholesale removals of officers among the engineers and infantry, on the main ground of color. Even the French, in at least one case, had been persuaded that Negro officers were the cause of certain inefficiencies in Negro units.
+Up to this point the anti-Negro propaganda is clear and fairly consistent and unopposed. General Headquarters had not only witnessed instructions in Negro prejudice to the French, but had, also, consented to wholesale removals of officers among the engineers and infantry, on the main ground of color. Even the French, in at least one case, had been persuaded that Negro officers were the cause of certain inefficiencies in Negro units.
 
 Undoubtedly the cruel losses of the 369th Regiment were due in part to the assumption of the French at first that the American Negroes were like the Senegalese; these half-civilized troops could not in time given them be trained in modern machine warfare, and they were rushed at the enemy almost with naked hands. The resulting slaughter was horrible. Our troops tell of great black fields of stark and crimson dead after some of these superhuman onrushes.
 
