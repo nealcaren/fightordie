@@ -9,8 +9,6 @@ pages:   63-87
 -->
 # An Essay Toward a History of the Black Man in the Great War (1919)
 
-*Under construction* 
-
 ## Foreword
 
 The mayor of Domfront stood in the village inn, high on the hill that hovers green in the blue sky of Normandy; and he sang as we sang: "Allons, enfants de la patrie!" God! How we sang! How the low, grey-clouded room rang with the strong voice of the little Frenchman in the corner, swinging his arms in deep emotion; with the vibrant voices of a score of black American officers who sat round about. Their hearts were swelling---torn in sunder. Never have I seen black folk---and I have seen many---so bitter and disillusioned at the seemingly bottomless depths of American color hatred---so uplifted at the vision of real democracy dawning on them in France.
@@ -30,7 +28,7 @@ To everyone war is, and, thank God, must be, disillusion. This war has disillusi
 
 Not that this double disillusion has for a moment made black men doubt the wisdom of their wholehearted help of the Allies. Given the chance again, they would again do their duty---for have they not seen and known France? But these young men see today with opened eyes and strained faces the true and hateful visage of the Negro problem in America.
 
-![](Images/essay_Diop.jpg)*Lt. Bakane Diop, a Chief of the Senegalese and Chevalier of the Legion of Honor*
+![](Images/essay_Diop.jpg){ width=20% }*Lt. Bakane Diop, a Chief of the Senegalese and Chevalier of the Legion of Honor*
 
 When the German host---grey, grim, irresistible, poured through Belgium, out of Africa France called her sons; they came; 280,000 black Senegalese, first and last---volunteers, not drafted; they hurled the Boches back across the Ourcq and the Marne on a ghastly bridge of their own dead. It was the crisis---four long, bitter years the war wore on; but Germany was beaten at the first battle of the Marne, and by Negroes. Beside the Belgians, too, stood, first and last, 30,000 black Congolese, not to mention the 20,000 black English West Indians who fought in the East and the thousands of black troops who conquered German Africa.
 
@@ -289,7 +287,7 @@ It was this kind of fighting that the French expected of the black Americans at 
 
 It was another story, however, when the 370th Regiment came. This was the famous 8th Illinois, and it had a full quota of Negro officers, from Colonel down. It had seen service on the Mexican Border; it went to Houston, Tex., after the Thirteen had died for Freedom; and it was treated with wholesome respect. It was sent to Newport News, Va., for embarkation; one Colonel Denison refused to embark his troops and marched them back to camp because he learned they were to be "Jim-Crowed" on the way over.
 
-![THE COLONEL AND OFFICERS OF THE 370th U. S. I. WITH CAPTAIN BOUTTE AND DR. DU BOIS IN CAMP AT LE MANS, FRANCE.](image URL)
+![](Images/essay_Colonel.jpg)*The Colonel And Officers Of The 370th U. S. I. With Captain Boutte And Dr. Du Bois In Camp At Le Mans, France.*
 
 The regiment arrived at Brest, April 22, and was assigned to the 72nd French Division, remaining near Belfort until June 17. Then it went with the 34th French Division into the front-line, at St. Mihiel, for a month and later with the 36th French Division into the Argonne, where they fought. They were given a short period of rest and then they went into the front-line, at Soissons, with the 59th French Division. In September and October they were fighting again.
 
@@ -456,7 +454,7 @@ Division, while advancing, ran into a strong barbed wire entanglement that had n
 
 When the bugle sounded the call to cease firing, Company H of the 365th Infantry held 800 yards of the battle-front, five kilometers of which was taken from the Germans under the heavy guns of Metz, and held against odds five to one under intense shell and machine gun fire.
 
-![Mrs. Helen Curtis and Her Soldiers, at Chambery, France][]
+![](Images/essay_curtis.jpg)*Mrs. Helen Curtis and Her Soldiers, at Chambery, France*
 
 ## Other Agencies
 
