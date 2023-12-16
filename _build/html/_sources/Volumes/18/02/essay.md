@@ -255,7 +255,7 @@ While stationed at Granges, individuals in the regiment were decorated on Decemb
 > Staff.    
 > &nbsp;    
 > *General Order No. 246.*    
->      
+> &nbsp;   
 > On the date of the 12th of December, 1918, the 371st and the 372nd R.I., U.S. have been returned to the disposal of the American Command. It is not without profound emotion that I come in the name of the 157th (French) Division and in my personal name, to say good-bye to our valiant comrades of combat.
 For seven months we have lived as brothers of arms, sharing the same works, the same hardships, the same dangers; side by side we have taken part in the great battle of the Champagne, that a wonderful victory has ended.    
 > &nbsp;    
@@ -285,7 +285,7 @@ Undoubtedly the cruel losses of the 369th Regiment were due in part to the assum
 
 It was this kind of fighting that the French expected of the black Americans at first and some white American officers did not greatly care so long as white men got the glory. The French easily misunderstood the situation at first and assumed that the Negro officers were to blame, especially as this was continually suggested to them by the Americans.
 
-It was another story, however, when the 370th Regiment came. This was the famous-8th Illinois, and it had a full quota of Negro officers, from Colonel down. It had seen service on the Mexican Border; it went to Houston, Tex., after the Thirteen had died for Freedom; and it was treated with wholesome respect. It was sent to Newport News, Va., for embarkation; one Colonel Denison refused to embark his troops and marched them back to camp because he learned they were to be "Jim-Crowed" on the way over.
+It was another story, however, when the 370th Regiment came. This was the famous 8th Illinois, and it had a full quota of Negro officers, from Colonel down. It had seen service on the Mexican Border; it went to Houston, Tex., after the Thirteen had died for Freedom; and it was treated with wholesome respect. It was sent to Newport News, Va., for embarkation; one Colonel Denison refused to embark his troops and marched them back to camp because he learned they were to be "Jim-Crowed" on the way over.
 
 ![THE COLONEL AND OFFICERS OF THE 370th U. S. I. WITH CAPTAIN BOUTTE AND DR. DU BOIS IN CAMP AT LE MANS, FRANCE.](image URL)
 
@@ -297,7 +297,7 @@ The general conduct of the regiment was excellent. No case of rape was reported 
 
 When at first the regiment did not adopt the tactics of "shock" troops, the white Americans again took their cue and inspired a speech from the French General, which the colored men could not understand. It was not long, however, before the French General publicly apologized for his first and hasty criticism and afterward he repeatedly commended both officers and men for their bravery, intelligence and daring. This regiment received more citations than any other American regiment for bravery on the field of battle. There was, of course, the fly in the ointment---the effort to substitute white officers was strong and continuous, notwithstanding the fact that many of the black officers of this regiment were among the most efficient in the American Army.
 
-General Headquarters by this time haa begun to change its attitude and curb the Bourbons. It announced that it was not the policy of the American Army to make wholesale removals simply on account of color and it allowed the citations for bravery of Negro troops to be approved.
+General Headquarters by this time had begun to change its attitude and curb the Bourbons. It announced that it was not the policy of the American Army to make wholesale removals simply on account of color and it allowed the citations for bravery of Negro troops to be approved.
 
 Nevertheless, the pressure continued. First the colored Colonel, the ranking Negro officer in France, was sent home. The reason for this is not clear. At any rate Colonel Dennison was replaced by a white Colonel, who afterward accepted a *Croix de Guerre* for an exploit which the Negro officers to a man declare was actually performed by a Negro officer while he was sitting snugly in his tent. The men of the regiment openly jeered him, crying out: "Blue Eyes ain't our Colonel; Duncan's our Colonel!" referring to the colored Lieutenant-Colonel. But the white Colonel was diplomatic; he let the colored officers run the regiment, posed as the "Moses" of the colored race (to the open amusement of the Negroes) and quietly tried to induct white officers. "I cannot understand why they sent this white Lieutenant," he said plaintively to a colored officer. The officer at that moment had in his pocket a copy of the Colonel's telegram asking General Headquarters for white officers. But the Armistice came before the Colonel succeeded in getting but two white officers,---his brother as Major (without a battalion) and one Lieutenant.
 
