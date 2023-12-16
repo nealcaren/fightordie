@@ -26,9 +26,14 @@ This, then, is a first attempt at the story of the Hell which war in the fateful
 
 To everyone war is, and, thank God, must be, disillusion. This war has disillusioned millions of fighting white men---disillusioned them with its frank truth of dirt, disease, cold, wet and discomfort; murder, maiming and hatred. But the disillusion of Negro American troops was more than this, or rather it was this and more---the flat, frank realization that however high the ideals of America or however noble her tasks, her great duty as conceived by an astonishing number of able men, brave and good, as well as of other sorts of men, is to hate "niggers."
 
+<figure>
+   <img src="Images/essay_Diop.jpg" width="30%">
+   <figcaption>Lt. Bakane Diop, a Chief of the Senegalese and Chevalier of the Legion of Honor</figcaption>
+</figure>
+
 Not that this double disillusion has for a moment made black men doubt the wisdom of their wholehearted help of the Allies. Given the chance again, they would again do their duty---for have they not seen and known France? But these young men see today with opened eyes and strained faces the true and hateful visage of the Negro problem in America.
 
-![](Images/essay_Diop.jpg){ width=20% }*Lt. Bakane Diop, a Chief of the Senegalese and Chevalier of the Legion of Honor*
+![](Images/essay_Diop.jpg)*Lt. Bakane Diop, a Chief of the Senegalese and Chevalier of the Legion of Honor*
 
 When the German host---grey, grim, irresistible, poured through Belgium, out of Africa France called her sons; they came; 280,000 black Senegalese, first and last---volunteers, not drafted; they hurled the Boches back across the Ourcq and the Marne on a ghastly bridge of their own dead. It was the crisis---four long, bitter years the war wore on; but Germany was beaten at the first battle of the Marne, and by Negroes. Beside the Belgians, too, stood, first and last, 30,000 black Congolese, not to mention the 20,000 black English West Indians who fought in the East and the thousands of black troops who conquered German Africa.
 
