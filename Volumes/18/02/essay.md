@@ -205,6 +205,8 @@ This regiment was originally authorized by Governor Sulzer, but its formation wa
 
 The regiment was in a state of irritation many times, but it was restrained by the influence of the non-commissioned officers---very strong in this case because the regiment was all from New York and mainly from Harlem---and especially because being brigaded with the French they were from the first treated on such terms of equality and brotherhood that they were eager to fight. There were charges that Colonel Hayward and his white officers needlessly sacrificed the lives of these men. This, of course, is hard to prove; but certainly the casualties in this regiment were heavy and in the great attack in the Champagne, in September and October, two hundred were killed and eight hundred were wounded and gassed. The regiment went into battle with the French on the left and the Moroccans on the right and got into its own barrage by advancing faster than the other units. It was in line seven and one-half days, when three to four days is usually the limit.
 
+![](Images/essay_Barringtine.jpg)*Sergeant E. W. Barringtine, 369th U.S.I., With French Medaille Militaire And Croix De Guerre.*
+
 In all, the regiment was under fire 191 days---a record for any American unit. It received over 170 citations for the *Croix de Guerre* and Distinguished Service Cross and was the first unit of the Allied armies to reach the Rhine, November 18, with the Second French Army.
 
 ## The 371st and 372nd
@@ -454,7 +456,7 @@ Division, while advancing, ran into a strong barbed wire entanglement that had n
 
 When the bugle sounded the call to cease firing, Company H of the 365th Infantry held 800 yards of the battle-front, five kilometers of which was taken from the Germans under the heavy guns of Metz, and held against odds five to one under intense shell and machine gun fire.
 
-![Mrs. Helen Curtis and Her Soldiers, at Chambery, France][]
+![](Images/essay_curtis.jpg)*Mrs. Helen Curtis and Her Soldiers, at Chambery, France*
 
 ## Other Agencies
 
