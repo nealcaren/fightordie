@@ -30,7 +30,7 @@ To everyone war is, and, thank God, must be, disillusion. This war has disillusi
 
 Not that this double disillusion has for a moment made black men doubt the wisdom of their wholehearted help of the Allies. Given the chance again, they would again do their duty---for have they not seen and known France? But these young men see today with opened eyes and strained faces the true and hateful visage of the Negro problem in America.
 
-![Lt. Bakane Diop, a Chief of the Senegalese and Chevalier of the Legion of Honor][Images/essay_Diop.jpg]
+![Lt. Bakane Diop, a Chief of the Senegalese and Chevalier of the Legion of Honor](Images/essay_Diop.jpg)
 
 When the German host---grey, grim, irresistible, poured through Belgium, out of Africa France called her sons; they came; 280,000 black Senegalese, first and last---volunteers, not drafted; they hurled the Boches back across the Ourcq and the Marne on a ghastly bridge of their own dead. It was the crisis---four long, bitter years the war wore on; but Germany was beaten at the first battle of the Marne, and by Negroes. Beside the Belgians, too, stood, first and last, 30,000 black Congolese, not to mention the 20,000 black English West Indians who fought in the East and the thousands of black troops who conquered German Africa.
 
@@ -41,7 +41,6 @@ But the story of stories is that of the American Negro. Here was a man who brave
 We gained the right to fight for civilization at the cost of being "Jim-Crowed" and insulted; we were segregated in the draft; we were segregated in the first officers' training camp; and we were allowed to volunteer only as servants in the Navy and as common laborers in the Army, outside of the four regular Negro regiments. The Army wanted stevedores, road builders, wood choppers, railroad hands, etc., and American Negroes were among the first to volunteer. Of the 200,000 Negroes in the American Expeditionary Force, approximately 150,000 were stevedores and laborers, doing the hardest work under, in some cases, the most trying conditions faced by any soldiers during the war. And it is the verdict of men who know that the most efficient and remarkable service has been rendered by these men. Patient, loyal, intelligent, not grouchy, knowing all that they were up against among their countrymen as well as the enemy, these American black men won the war as perhaps no other set of S.O.S. men of any other race or army won it.
 
 Where were these men stationed? At some English ports; at many of the interior depots and bases; at the various France and in places where automobiles, airplanes, cars and locomotives were got ready for use; in the forests, on the mountains and in the valleys, cutting wood; building roads from ports of entry right up to the view and touch of Germans in the front-lines; burying the dead; salvaging at great risk to their own lives millions of shells and other dangerous war material, actually piling up and detonating the most deadly devices in order that French battlefields might be safe to those who walk the ways of peace.
-
 
 Who commanded these thousands of black men assembled from all parts of the United States and representing in culture all the way from absolute illiterates from under-taught Southern States to well-educated men from northern universities and colleges and even from many northern universities and colleges? By a queer twist of American reasoning on the Negro it is assumed that he is best known and best "handled"
 by white people from the South, who more than any other white people refuse and condemn that sort of association that would most surely acquaint the white man with the very best that is in the Negro. Therefore, when officers were to be chosen for the Negro S.O.S. men, it seems that there was a preference expressed or felt for southern white officers. Some of these were fine men, but the majority were "nigger" drivers of the most offensive type.
@@ -126,7 +125,7 @@ Immediately a persistent campaign began:
 
 First, was the effort to get rid of Negro officers; second, the effort to discredit Negro soldiers; third, the effort to spread race prejudice in France; and fourth, the effort to keep Negroes out of the Regular Army.
 
-![Company 'H' Machine Gun Section, 366th Infantry, 93rd Division Winners of Regimental Croix de Guerre for Gallantry in Action. The Only Troops of the Home Units Cited, at Camp Dodge, Iowa.][]
+![Company 22, Sixth Battalion, 163rd Depot Brigade, Camp Dodge, Iowa. The Only Unit in the Depot Brigades Entirely Officered by Negroes. Captain C. C. Cooper, and Lieutenants T. M. Gregory, E. S. Horne, J. E. Oliver, W. B. Hall and W. C. Dickerson.](Images/essay_22.jpg)
 
 First and foremost, war is war and military organization is, and must be, tyranny. This is, perhaps, the greatest and most barbarous cost of war and the most pressing reason for its abolition from civilization. As war means tyranny, the company officer is largely at the mercy of his superior officers.
 
