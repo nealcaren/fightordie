@@ -27,7 +27,7 @@ This, then, is a first attempt at the story of the Hell which war in the fateful
 To everyone war is, and, thank God, must be, disillusion. This war has disillusioned millions of fighting white men---disillusioned them with its frank truth of dirt, disease, cold, wet and discomfort; murder, maiming and hatred. But the disillusion of Negro American troops was more than this, or rather it was this and more---the flat, frank realization that however high the ideals of America or however noble her tasks, her great duty as conceived by an astonishing number of able men, brave and good, as well as of other sorts of men, is to hate "niggers."
 
 <figure>
-   <img src="Images/essay_Diop.jpg" width="30%">
+   <img src="Images/essay_Diop.jpg" width="30%" style="float: left;">
    <figcaption>Lt. Bakane Diop, a Chief of the Senegalese and Chevalier of the Legion of Honor</figcaption>
 </figure>
 
