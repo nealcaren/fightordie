@@ -203,7 +203,7 @@ This regiment was originally authorized by Governor Sulzer, but its formation wa
 
 The regiment was in a state of irritation many times, but it was restrained by the influence of the non-commissioned officers---very strong in this case because the regiment was all from New York and mainly from Harlem---and especially because being brigaded with the French they were from the first treated on such terms of equality and brotherhood that they were eager to fight. There were charges that Colonel Hayward and his white officers needlessly sacrificed the lives of these men. This, of course, is hard to prove; but certainly the casualties in this regiment were heavy and in the great attack in the Champagne, in September and October, two hundred were killed and eight hundred were wounded and gassed. The regiment went into battle with the French on the left and the Moroccans on the right and got into its own barrage by advancing faster than the other units. It was in line seven and one-half days, when three to four days is usually the limit.
 
-![](Images/essay_Barringtine.jpg)*Sergeant E. W. Barringtine, 369th U.S.I., With French Medaille Militaire And Croix De Guerre.*
+![](Images/essay_Barringtine.jpg)*Sergeant E. W. Barringtine, 369th U.S.I., with French Medaille Militaire and Croix De Guerre.*
 
 In all, the regiment was under fire 191 days---a record for any American unit. It received over 170 citations for the *Croix de Guerre* and Distinguished Service Cross and was the first unit of the Allied armies to reach the Rhine, November 18, with the Second French Army.
 
@@ -287,7 +287,7 @@ It was this kind of fighting that the French expected of the black Americans at 
 
 It was another story, however, when the 370th Regiment came. This was the famous 8th Illinois, and it had a full quota of Negro officers, from Colonel down. It had seen service on the Mexican Border; it went to Houston, Tex., after the Thirteen had died for Freedom; and it was treated with wholesome respect. It was sent to Newport News, Va., for embarkation; one Colonel Denison refused to embark his troops and marched them back to camp because he learned they were to be "Jim-Crowed" on the way over.
 
-![](Images/essay_Colonel.jpg)*The Colonel And Officers Of The 370th U. S. I. With Captain Boutte And Dr. Du Bois In Camp At Le Mans, France.*
+![](Images/essay_Colonel.jpg)*The Colonel and Officers of the 370th U. S. I. with Captain Boutte and Dr. Du Bois in camp at Le Mans, France.*
 
 The regiment arrived at Brest, April 22, and was assigned to the 72nd French Division, remaining near Belfort until June 17. Then it went with the 34th French Division into the front-line, at St. Mihiel, for a month and later with the 36th French Division into the Argonne, where they fought. They were given a short period of rest and then they went into the front-line, at Soissons, with the 59th French Division. In September and October they were fighting again.
 
