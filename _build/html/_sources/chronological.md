@@ -159,6 +159,7 @@
 |   1914 |        8 | 4       | [The Prize Fighter](https://www.dareyoufight.org/Volumes/08/04/prize_fighter.html)                                                                                                       |
 |   1914 |        8 | 5       | [Does Race Antagonism Serve Any Good Purpose](https://www.dareyoufight.org/Volumes/08/05/does_race_antagonism.html)                                                                      |
 |   1914 |        8 | 5       | [The Story of Africa](https://www.dareyoufight.org/Volumes/08/05/story_of_africa.html)                                                                                                   |
+|   1914 |        8 | 6       | [Of the Children of Peace](https://www.dareyoufight.org/Volumes/08/06/of_children_of_peace.html)                                                                                         |
 |   1914 |        9 | 1       | [World War and the Color Line](https://www.dareyoufight.org/Volumes/09/01/worldwar.html)                                                                                                 |
 |   1914 |        9 | 1       | [The Burden of Black Women](https://www.dareyoufight.org/Volumes/09/01/burden_of_black_women.html)                                                                                       |
 |   1914 |        9 | 1       | [A Correspondence](https://www.dareyoufight.org/Volumes/09/01/correspondence.html)                                                                                                       |
@@ -179,6 +180,7 @@
 |   1915 |       10 | 2       | [An Open Letter](https://www.dareyoufight.org/Volumes/10/03/an_open_letter.html)                                                                                                         |
 |   1915 |       10 | 3       | [Education](https://www.dareyoufight.org/Volumes/10/03/education.html)                                                                                                                   |
 |   1915 |       10 | 4       | [Frank](https://www.dareyoufight.org/Volumes/10/04/frank.html)                                                                                                                           |
+|   1915 |       10 | 5       | [The Grandfather Clause](https://www.dareyoufight.org/Volumes/10/05/grandfather_clause.html)                                                                                             |
 |   1915 |       10 | 5       | [Other Organizations](https://www.dareyoufight.org/Volumes/10/05/other_organizations.html)                                                                                               |
 |   1915 |       10 | 5       | [Hayti](https://www.dareyoufight.org/Volumes/10/05/hayti.html)                                                                                                                           |
 |   1915 |       10 | 5       | [A Pageant](https://www.dareyoufight.org/Volumes/10/05/pageant.html)                                                                                                                     |

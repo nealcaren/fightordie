@@ -177,6 +177,7 @@ chapters:
     - file: Volumes/08/02/senators_records.md
     - file: Volumes/09/03/alleged_failure.md
     - file: Volumes/10/01/fourteenth_amendment.md
+    - file: Volumes/10/05/grandfather_clause.md
     - file: Volumes/19/02/votes.md 
     - file: Volumes/32/01/disenfranchisement.md
     - file: Volumes/30/02/disenfranchisement.md
@@ -369,6 +370,7 @@ chapters:
   - file: Volumes/07/06/brazil.md
   - file: Sections/wwi
     sections:
+    - file: Volumes/08/06/of_children_of_peace.md
     - file: Volumes/09/01/worldwar.md
     - file: Volumes/10/02/lusitania.md
     - file: Volumes/11/04/germany.md
