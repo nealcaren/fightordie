@@ -458,7 +458,10 @@
 |   1927 |       34 | 8       | [The Pan-African Congresses: The Story of a Growing Movement](https://www.dareyoufight.org/Volumes/34/08/panafrican_congresses.html)                                                     |
 |   1927 |       34 | 8       | [Wallace Battle, the Episcopal Church and Mississippi: A Story of Suppressed Truth](https://www.dareyoufight.org/Volumes/34/08/wallace_battle_the_episcopal_church_and_mississippi.html) |
 |   1927 |       34 | 8       | [Death Rates](https://www.dareyoufight.org/Volumes/34/08/death_rates.html)                                                                                                               |
+|   1927 |       34 | 9       | [Peonage](https://www.dareyoufight.org/Volumes/34/09/peonage.html)                                                                                                                       |
 |   1927 |       34 | 9       | [Prejudice](https://www.dareyoufight.org/Volumes/34/09/prejudice.html)                                                                                                                   |
+|   1927 |       34 | 9       | [Social Equals](https://www.dareyoufight.org/Volumes/34/09/social_equals.html)                                                                                                           |
+|   1927 |       34 | 9       | [Smith](https://www.dareyoufight.org/Volumes/34/09/smith.html)                                                                                                                           |
 |   1928 |       35 | 1       | [Exclusion](https://www.dareyoufight.org/Volumes/35/01/exclusion.html)                                                                                                                   |
 |   1928 |       35 | 1       | [The Flood, the Red Cross and the National Guard](https://www.dareyoufight.org/Volumes/35/01/the_flood_the_red_cross_and_the_national_guard.html)                                        |
 |   1928 |       35 | 10      | [The Possibility of Democracy in America](https://www.dareyoufight.org/Volumes/35/10/possible_democracy.html)                                                                            |
@@ -478,6 +481,7 @@
 |   1928 |       35 | 4       | [The House of the Black Burghardts](https://www.dareyoufight.org/Volumes/35/04/black.html)                                                                                               |
 |   1928 |       35 | 5       | [Our Economic Future](https://www.dareyoufight.org/Volumes/35/05/our_economic_future.html)                                                                                               |
 |   1928 |       35 | 5       | [The Browsing Reader](https://www.dareyoufight.org/Volumes/35/05/browsing_reader.html)                                                                                                   |
+|   1928 |       35 | 6       | [Sunny Florida](https://www.dareyoufight.org/Volumes/35/06/sunny_florida.html)                                                                                                           |
 |   1928 |       35 | 6       | [Two Novels](https://www.dareyoufight.org/Volumes/35/06/two_novels.html)                                                                                                                 |
 |   1928 |       35 | 6       | [So the Girl Marries](https://www.dareyoufight.org/Volumes/35/06/so_the_girl_marries.html)                                                                                               |
 |   1928 |       35 | 8       | [The Negro Voter](https://www.dareyoufight.org/Volumes/35/08/negro_voter.html)                                                                                                           |
