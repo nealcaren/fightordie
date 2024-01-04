@@ -46,7 +46,7 @@ chapters:
   - file: Volumes/14/05/black_bastille.md
   - file: Volumes/17/01/letters.md
   - file: Volumes/17/06/for_what.md
-  - file: Volumes/19/01/social_equality.md
+  - file: Volumes/19/01/  social_equality.md
   - file: Volumes/19/03/our_south.md
   - file: Volumes/19/05/again_social_equality.md
   - file: Volumes/20/03/race_intelligence.md
@@ -59,7 +59,9 @@ chapters:
   - file: Volumes/31/03/first_battle_of_detroit.md
   - file: Volumes/31/04/newer_south.md
   - file: Volumes/34/02/higher_friction.md
+  - file: Volumes/34/09/peonage.md
   - file: Volumes/34/09/prejudice.md
+  - file: Volumes/34/09/social_equals.md
   - file: Volumes/36/05/chicago_debate.md
   - file: Volumes/37/01/football.md
   - file: Volumes/37/02/about_wailing.md
@@ -92,6 +94,7 @@ chapters:
     - file: Volumes/34/01/aiken.md
     - file: Volumes/33/04/lynching.md
     - file: Volumes/34/05/coffeville_kansas.md
+    - file: Volumes/35/06/sunny_florida.md
     - file: Volumes/38/04/causes_of_lynching.md
     - file: Volumes/39/02/lynchings.md
     - file: Volumes/40/12/too_rich.md
@@ -217,6 +220,7 @@ chapters:
     - file: Volumes/28/05/naacp_and_parties.md
     - file: Volumes/29/01/how_shall_we_vote.md
     - file: Volumes/34/04/chicago.md
+    - file: Volumes/34/09/smith.md
     - file: Volumes/35/08/negro_voter.md
     - file: Volumes/35/11/on_the_fence.md
     - file: Volumes/35/11/third_party.md

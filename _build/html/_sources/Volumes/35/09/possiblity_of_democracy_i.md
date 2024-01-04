@@ -21,22 +21,32 @@ The loss of interest in voting or the prevention by various means and methods of
 
 Or  to put it another way; in 1920 we had both a presidential election and a decennial census; so that for the first time in twenty years we knew the population at the time of an election. In that election, the following percentage of citizens twenty-one years of age and over did not vote in the several states: 
 
-<div class="container">
-  <div><span class ="dotfollow">South Carolina</span>
-        <span style="float:right;">92</span><br></div>
-    <div><span style="float:left;">Mississippi</span>
-        <span style="float:right;">91</span><br></div>
-    <div><span style="float:left;">Georgia</span>
-        <span style="float:right;">89</span><br></div>
-  <div><span style="float:left;">Louisiana</span>
-        <span style="float:right;">86</span><br></div>
-    <div><span style="float:left;">Texas</span>
-        <span style="float:right;">82</span><br></div>
-    <div><span style="float:left;">Virginia</span>
-        <span style="float:right;">81</span><br></div>
-  <div><span style="float:left;">Arkansas</span>
-        <span style="float:right;">79</span><br></div>
-</div>
+|             | Per Cent |           | Per Cent |
+|------------------|---------: |----------------|---------:|
+| South Carolina   | 92       | Wyoming        | 45       |
+| Mississippi      | 91       | Nebraska       | 45       |
+| Georgia          | 90       | Michigan       | 45       |
+| Louisiana        | 88       | South Dakota   | 44       |
+| Texas            | 82       | New York       | 44       |
+| Virginia         | 81       | Colorado       | 43       |
+| Arkansas         | 79       | Kansas         | 43       |
+| Alabama          | 79       | Connecticut    | 43       |
+| Florida          | 72       | Rhode Island   | 42       |
+| Tennessee        | 65       | New Jersey     | 41       |
+| Pennsylvania     | 58       | West Virginia  | 39       |
+| North Carolina   | 56       | Idaho          | 39       |
+| Vermont          | 55       | Montana        | 39       |
+| Maine            | 55       | New Mexico     | 38       |
+| Arizona          | 53       | Nevada         | 38       |
+| California       | 52       | Ohio           | 38       |
+| Oklahoma         | 51       | Iowa           | 35       |
+| Illinois         | 50       | New Hampshire  | 33       |
+| Minnesota        | 50       | Missouri       | 33       |
+| Maryland         | 48       | Utah           | 30       |
+| Washington       | 48       | North Dakota   | 30       |
+| Wisconsin        | 48       | Kentucky       | 29       |
+| Oregon           | 48       | Indiana        | 26       |
+| Massachusetts    | 47       | Delaware       | 25       |
 
  The largest percentage of voluntary and involuntary disfranchisement is in South; but it is not confined to the South. Over one-half the adults of Pennsylvania, Vermont, Maine and California stayed from the poles and nearly one-half the voting population of Illinois, Minnesota, Washington, Wisconsin, Oregon, Massachusetts, Wyoming, Nebraska and Michigan. In only one state in the United States did three-fourths of the voters go to the poles and in only eight states did two-thirds go. 
 
@@ -46,7 +56,32 @@ Or  to put it another way; in 1920 we had both a presidential election and a dec
 
 Today, the difference in the relative political power of the various states and groups of states is so enormous in the United States that no American has any right to sneer at Old Sarum or at the conditions that brought the first English Reform Bill. This can be illustrated by a table which shows the number of votes cast in the various states for the election of each of that state's representatives in Congress: 
 
-[SECOND TABLE]
+| 1920          |   |             |    |
+|----------------|------:|------------------|-------:|
+| South Carolina | 9,449 | Idaho            | 67,471 |
+| Mississippi    | 10,312| North Carolina   | 68,592 |
+| Georgia        | 12,394| Maryland         | 71,211 |
+| Louisiana      | 15,733| Kansas           | 71,278 |
+| Texas          | 22,973| Connecticut      | 72,802 |
+| Virginia       | 23,100| Utah             | 72,914 |
+| Alabama        | 24,107| Colorado         | 73,014 |
+| Arkansas       | 25,801| Minnesota        | 73,504 |
+| Nevada         | 27,194| New Jersey       | 75,333 |
+| Florida        | 30,706| Oregon           | 76,174 |
+| Tennessee      | 42,863| Illinois         | 77,425 |
+| Vermont        | 44,985| Washington       | 78,720 |
+| Maine          | 49,283| New Hampshire    | 70,372 |
+| Pennsylvania   | 51,380| Michigan         | 81,406 |
+| North Carolina | 53,570| Iowa             | 70,981 |
+| Rhode Island   | 55,795| Missouri         | 83,165 |
+| Wyoming        | 58,190| Kentucky         | 83,519 |
+| South Dakota   | 60,373| West Virginia    | 84,990 |
+| Oklahoma       | 60,572| California       | 85,750 |
+| Massachusetts  | 62,507| Montana          | 89,502 |
+| Wisconsin      | 63,753| Ohio             | 91,795 |
+| Nebraska       | 63,778| Delaware         | 94,758 |
+| Arizona        | 68,687| Indiana          | 97,108 |
+| New York       | 67,328| New Mexico       | 105,131 |
 
 The stranger from Mars looking at this table would immediately ask: "Why is it that the citizens from South Carolina should have eleven times as much political power as the citizens of New Mexico?" Or: "How can a voter in Massachusetts have fifty per cent more power than the voter in Indiana?" 
 
