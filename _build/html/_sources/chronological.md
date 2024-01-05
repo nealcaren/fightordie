@@ -456,7 +456,7 @@
 |   1927 |       34 | 5       | [Coffeeville, Kanasas](https://www.dareyoufight.org/Volumes/34/05/coffeville_kansas.html)                                                                                                |
 |   1927 |       34 | 5       | [Flood](https://www.dareyoufight.org/Volumes/34/05/flood.html)                                                                                                                           |
 |   1927 |       34 | 6       | [Mob Tactics](https://www.dareyoufight.org/Volumes/34/06/mob_tactics.html)                                                                                                               |
-|   1927 |       34 | 7       | [Browsing Reader - The American Race Problem The American Race Problem](https://www.dareyoufight.org/Volumes/34/07/browsing_reader.html)                                                 |
+|   1927 |       34 | 7       | [Browsing Reader - The American Race Problem](https://www.dareyoufight.org/Volumes/34/07/browsing_reader.html)                                                                           |
 |   1927 |       34 | 8       | [Mencken](https://www.dareyoufight.org/Volumes/34/08/mencken.html)                                                                                                                       |
 |   1927 |       34 | 8       | [The Pan-African Congresses: The Story of a Growing Movement](https://www.dareyoufight.org/Volumes/34/08/panafrican_congresses.html)                                                     |
 |   1927 |       34 | 8       | [Wallace Battle, the Episcopal Church and Mississippi: A Story of Suppressed Truth](https://www.dareyoufight.org/Volumes/34/08/wallace_battle_the_episcopal_church_and_mississippi.html) |
