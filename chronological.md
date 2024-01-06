@@ -487,6 +487,7 @@
 |   1928 |       35 | 6       | [Sunny Florida](https://www.dareyoufight.org/Volumes/35/06/sunny_florida.html)                                                                                                           |
 |   1928 |       35 | 6       | [Two Novels](https://www.dareyoufight.org/Volumes/35/06/two_novels.html)                                                                                                                 |
 |   1928 |       35 | 6       | [So the Girl Marries](https://www.dareyoufight.org/Volumes/35/06/so_the_girl_marries.html)                                                                                               |
+|   1928 |       35 | 7       | [Visitors](https://www.dareyoufight.org/Volumes/35/07/visitors.html)                                                                                                                     |
 |   1928 |       35 | 8       | [The Negro Voter](https://www.dareyoufight.org/Volumes/35/08/negro_voter.html)                                                                                                           |
 |   1928 |       35 | 9       | [The Possibility of Democracy](https://www.dareyoufight.org/Volumes/35/09/possiblity_of_democracy_i.html)                                                                                |
 |   1929 |       36 | 11      | [The Negro in Politics](https://www.dareyoufight.org/Volumes/36/11/negro_in_politics.html)                                                                                               |
