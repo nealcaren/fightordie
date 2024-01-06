@@ -31,8 +31,8 @@ joy and laughter in his voice! The world lives and moves again.
 
 But---both Visitor and Worker must have some modicum of common sense.
 The Visitor blows in town on holiday. He sleeps well, eats heartily and
-at eleven A.M. says gaily: "Now for [The Crisis]{.smallcaps} office!"
-But pause, friend. Why not just go to the 'phone and say: "I'm in town.
+at eleven&nbsp;A.M. says gaily: "Now for <span style="font-variant:small-caps;">The Crisis</span> office!"
+But pause, friend. Why not just go to the &rsquo;phone and say: "I'm in town.
 Want to see you. When are you free?" And the editor responds: "Could you
 come at 2? Good!" All is well. Both are happy. Both are helped.
 
@@ -43,7 +43,7 @@ to arrange a mutually convenient time---well, the Editor may be unhappy.
 He may think that his convenience has a right
 to be considered as well as yours.
 
-&nbsp;
+<hr/>
 
 I was sitting in my office with a helper reading the stone-proof of the
 magazine: last day, last hour. It must be down at 5 or the schedule of a
@@ -97,7 +97,7 @@ And so, let's get together on this thing. I want to see you, Visitor, I
 really do. But can't we compromise on the hour, if not the day? I'll go
 half way---honest, I will.
 
-&nbsp;
+<hr/>
 
 Never mind Me, but respect my Work. My Work is cold, calm, relentless.
 It will be done now or never. It is merciless. It glares at me cruel-
