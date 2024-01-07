@@ -176,14 +176,15 @@ Can God pray?
 </div>
 <hr/>
 <div class="poem">
-Prayest Thou, Lord, and to me?  
-*Thou* needest me?  
-Thou *needest* me?  
-Thou needest *me*?  
-Poor wounded Soul!  
-Of this I never dreamed. I thought---  
-*Courage, God*,  
-*I come!*
+<p class = "verse">Prayest Thou, Lord, and to me?  
+<p class = "verse">*Thou* needest me?  
+<p class = "verse">Thou *needest* me?  
+<p class = "verse">Thou needest *me*?  
+<p class = "verse">Poor wounded Soul!  
+<p class = "verse">Of this I never dreamed. I thought---  
+<p class = "verse">*Courage, God*,  
+<p class = "verse">*I come!*
 </div>
+
 ______________
 *Citation:* Du Bois, W.E.B. 1914. "The Christmas Prayers of God." *The Crisis*. 9(2):83&ndash;84.
