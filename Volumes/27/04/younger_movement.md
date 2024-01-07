@@ -20,7 +20,7 @@ There are two books before me, which, if I mistake not, will mark an epoch: a no
 
 <div class="poem">
 <p class="verse">Shake your brown feet, Liza, 
-<p class="verse">Shake 'em Liza, chile, 
+<p class="verse">Shake &rsquo;em Liza, chile, 
 <p class="verse">Shake your brown feet, Liza,
 <p class="verse indent"> (The music's soft and wile). 
 <p class="verse">Shake your brown feet, Liza,
@@ -33,10 +33,10 @@ Countée Cullen in his "Ballad of the Brown Girl" achieves eight lyric lines tha
 
 The world of black folk will some day arise and point to Jean Toomer as a writer who first dared to emancipate the colored world from the conventions of sex. It is quite impossible for most Americans to realize how straight-laced and conventional thought is within the Negro World, despite the very unconventional acts of the group. Yet this contradiction is true. And Jean Toomer is the first of our writers to hurl his pen across the very face of our sex conventionality. In "Cane" (Boni & Liveright, New York), one has only to take his women characters seriatim to realize this: Here is Karintha, an innocent prostitute; Becky, a fallen white woman; Carma, a tender Amazon of unbridled desire; Fern, an unconscious wanton; Esther, a woman who looks age and bastardy in the face and flees in despair; Louise, with a white and a black lover; Avey, unfeeling and unmoral; and Doris, the cheap chorus girl. These are his women, painted with a frankness that is going to make his black readers shrink and criticize; and yet they are done with a certain splendid, careless truth. 
 
-Toomer does not impress me as one who knows his Georgia but he does know human beings; and, from the background which he has seen slightly and heard of all his life through the lips of others, he paints things that are true, not with Dutch exactness, but rather with an impressionist's sweep of color. He is an artist with words but a conscious artist who offends often by his apparently undue striving for effect. On the other hand his powerful book is filled with felicitous phrases---Karintha, "carrying beauty perfect as the dusk when the sun goes down"',--- 
+Toomer does not impress me as one who knows his Georgia but he does know human beings; and, from the background which he has seen slightly and heard of all his life through the lips of others, he paints things that are true, not with Dutch exactness, but rather with an impressionist's sweep of color. He is an artist with words but a conscious artist who offends often by his apparently undue striving for effect. On the other hand his powerful book is filled with felicitous phrases---Karintha, "carrying beauty perfect as the dusk when the sun goes down",--- 
 
 <div class="poem">
-<p class="verse"> Hair—
+<p class="verse">Hair—
 <p class="verse">Silver-grey 
 <p class="verse">Like streams of stars
 </div>

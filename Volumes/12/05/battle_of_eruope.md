@@ -1,5 +1,5 @@
 <!--
-title:   'The Battle of Europe'
+title:   The Battle of Europe
 author:  Du Bois, W.E.B.
 journal: The Crisis
 year:    1916
@@ -7,7 +7,7 @@ volume:  12
 issue:   5
 pages:   216-217
 -->
-# 'The Battle of Europe' (1916)
+# The Battle of Europe (1916)
 
 The war is still with us, has almost become a commonplace, and yet there is no thinking man who does not send his mind two years back and remember the assurance with which he said in those bewildering, tumultuous days of August, 1914, "This cannot last, we are too civilized." 
 
@@ -20,4 +20,4 @@ The realization of all this means for us the reassembling of old ideals. Honor w
 Brothers, the war has shown us the cruelty of the civilization of the West. History has taught us the futility of the civilization of the East. Let ours be the civilization of no *man*, but of *all men*. This is the truth that sets us free. 
 
 ______________
-*Citation:* Du Bois, W.E.B. 1916. "'The Battle of Europe.'" *The Crisis*. 12(5):216&ndash;217.
+*Citation:* Du Bois, W.E.B. 1916. "The Battle of Europe." *The Crisis*. 12(5):216&ndash;217.

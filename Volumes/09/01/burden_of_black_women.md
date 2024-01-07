@@ -83,7 +83,7 @@ This poem first appeared in a 1907 issue of *The Horizon* and was included as "T
 <p>
 <p class = "poem">Black mother of the iron hills that guard the blazing sea,
 <p class = "poem">Wild spirit of a storm-swept soul a-struggling to be free,
-<p class = "poem">Where 'neath the bloody finger marks, thy riven bosom quakes,
+<p class = "poem">Where &rsquo;neath the bloody finger marks, thy riven bosom quakes,
 <p class = "poem">Thicken the thunders of God's voice, and lo! a world awakes!
 
 ______________

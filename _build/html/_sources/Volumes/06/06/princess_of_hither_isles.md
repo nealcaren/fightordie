@@ -136,19 +136,19 @@ A while the Princess stood and moaned in mad amaze, then with one wilful wrench 
 
 The King of Yonder Kingdom looked upward quickly, curiously, still fingering the earth, and saw the offer of her bleeding heart. 
 
-"It's a Nigger,'' he growled darkly; "it may not be.'' 
+"It's a Nigger," he growled darkly; "it may not be." 
 
 The woman quivered. 
 
-''It's a Nigger,'' he repeated fiercely. "It's neither God nor Man. but a Nigger.'' 
+"It's a Nigger," he repeated fiercely. "It's neither God nor Man. but a Nigger." 
 
 The Princess stepped forward. 
 
 The King grasped his great sword and looked north and east; he raised his long sword and looked south and west. 
 
-"I seek the sun,'' the Princess sang, and started into the west. 
+"I seek the sun," the Princess sang, and started into the west. 
 
-"Never!'' cried the King of Yonder Kingdom, ''for such were blasphemy and defilement and the making of all evil.'' 
+"Never!" cried the King of Yonder Kingdom, "for such were blasphemy and defilement and the making of all evil." 
 
 So raising his great sword he struck with all his might and more. Down hissed the blow and bit that little white heart-holding hand till it flew armless and disbodied up through the sunlit air. Down hissed the blow and clove the whimpering hound till his last shriek shook the stars. Down hissed the blow and rent the earth. It trembled, fell apart and yawned to a chasm wide as earth from Heaven, deep as hell, and empty, cold and silent. 
 

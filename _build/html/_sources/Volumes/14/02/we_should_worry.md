@@ -1,5 +1,5 @@
 <!--
-title:   'We Should Worry'
+title:   We Should Worry
 author:  Du Bois, W.E.B.
 journal: The Crisis
 year:    1917
@@ -8,7 +8,7 @@ issue:   2
 pages:   61-62
 -->
 
-# 'We Should Worry' (1917)
+# We Should Worry (1917)
 
 The American Negro more unanimously than any other American group has offered his services in this war as officer and soldier. He has done this earnestly and unselfishly, overlooking his just resentment and grievous wrongs. 
 
@@ -49,4 +49,4 @@ Take your choice, gentlemen.
 "We should worry." 
 
 ______________
-*Citation:* Du Bois, W.E.B. 1917. "'We Should Worry.'" *The Crisis*. 14(2):61&ndash;62.
+*Citation:* Du Bois, W.E.B. 1917. "We Should Worry." *The Crisis*. 14(2):61&ndash;62.
