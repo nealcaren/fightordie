@@ -171,6 +171,7 @@
 |   1914 |        9 | 2       | [Negro](https://www.dareyoufight.org/Volumes/09/02/negro.html)                                                                                                                           |
 |   1914 |        9 | 3       | [The Alleged Failure of Democracy](https://www.dareyoufight.org/Volumes/09/03/alleged_failure.html)                                                                                      |
 |   1914 |        9 | 3       | [Logic](https://www.dareyoufight.org/Volumes/09/03/logic.html)                                                                                                                           |
+|   1914 |        7 | 3       | [The Song of the Smoke](https://www.dareyoufight.org/Volumes/07/03/song_of_smoke.html)                                                                                                   |
 |   1915 |       10 | 1       | [The Fourteenth Amendment](https://www.dareyoufight.org/Volumes/10/01/fourteenth_amendment.html)                                                                                         |
 |   1915 |       10 | 1       | [The Republicans](https://www.dareyoufight.org/Volumes/10/01/the_republicans.html)                                                                                                       |
 |   1915 |       10 | 1       | [Credit](https://www.dareyoufight.org/Volumes/10/01/credit.html)                                                                                                                         |

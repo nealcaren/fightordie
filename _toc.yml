@@ -489,6 +489,7 @@ chapters:
   - file: Sections/poetry
     sections:
     - file: Volumes/03/01/quadroon.md
+    - file: Volumes/07/03/song_of_smoke.md
     - file: Volumes/09/01/burden_of_black_women.md
   - file: Sections/theater
     sections:
