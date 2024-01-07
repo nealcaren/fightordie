@@ -77,6 +77,30 @@ Specific *Dare You Fight* style is:
 * You can review the Markdown version of any page on Dare You Fight by clicking the down arrow in the upper right corner and selecting ".md". Reviewing these might be helpful for potentially complex formatting issues. There is also a [sample markdown page](https://raw.githubusercontent.com/nealcaren/fightordie/main/markdown_sample.md).
 * Markdown file titles is a lower-cased version of the article title, replacing spaces with underscores (`_`).
 
+* Here is a sample poem:
+```
+<div class="poem">
+<p class="verse">Shake your brown feet, Liza,
+<p class="verse">Shake &rsquo;em Liza, chile,
+<p class="verse">Shake your brown feet, Liza,
+<p class="verse indent"> (The music's soft and wile).
+<p class="verse">Shake your brown feet, Liza,
+<p class="verse indent">(The Banjo's sobbin' low),
+<p class="verse">The sun's goin' down this very night&mdash;
+<p class="verse">Might never rise no mo'.
+</div>
+```
+<div class="poem">
+<p class="verse">Shake your brown feet, Liza,
+<p class="verse">Shake &rsquo;em Liza, chile,
+<p class="verse">Shake your brown feet, Liza,
+<p class="verse indent"> (The music's soft and wile).
+<p class="verse">Shake your brown feet, Liza,
+<p class="verse indent">(The Banjo's sobbin' low),
+<p class="verse">The sun's goin' down this very night&mdash;
+<p class="verse">Might never rise no mo'.
+</div>
+
 ### Marginal notes
 We seek to add marginal explanatory notes. These are usually a sentence or two that provide additional information about the subject that Crisis readers would likely know, such as details about a specific person or organization. In addition, these notes can include links and pictures. To submit one, a "New Issue" on our GitHub [issues page](https://github.com/nealcaren/fightordie/issues) with the page, where on the page the note should go, and text of the note in Markdown, ending with your initials (e..g, "- npc"). Folks who contribute marginal notes will be listed on the credits page.
 
