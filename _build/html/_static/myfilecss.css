@@ -243,7 +243,7 @@ p.verse {
   margin-bottom: 0rem;
   font-size: 1.25rem;
   line-height: 1.6rem;
-  font-style: italic;
+  /* font-style: italic; */
   padding-left: 2em;
   text-indent: -2em;
 }
@@ -263,8 +263,8 @@ p.bigger-indent {
     text-indent: -2em;
     }
 
-    p.biggest-indent {
-      padding-left: 5em;
+  p.biggest-indent {
+      padding-left: 6em;
       text-indent: -2em;
       }
   
