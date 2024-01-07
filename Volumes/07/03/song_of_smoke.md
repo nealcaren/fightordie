@@ -8,7 +8,7 @@ issue:   3
 pages:   132
 -->
 
-# The Song of the Smoke (1914.0)
+# The Song of the Smoke (1914)
 
 <div class="poem">
 <p class = "verse">I am the smoke king,</p>
@@ -69,4 +69,4 @@ pages:   132
 (Original version first published in the *Horizon*)
 
 ______________
-*Citation:* Du Bois, W.E.B. 1914.0. "The Song of the Smoke." *The Crisis*. 7(3):132.
+*Citation:* Du Bois, W.E.B. 1914. "The Song of the Smoke." *The Crisis*. 7(3):132.
