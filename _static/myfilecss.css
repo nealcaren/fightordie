@@ -244,15 +244,30 @@ p.verse {
   font-size: 1.25rem;
   line-height: 1.6rem;
   font-style: italic;
-  padding-left: 4em;
+  padding-left: 2em;
   text-indent: -2em;
 }
 
 p.indent {
-  padding-left: 6em;
+  padding-left: 3em;
   text-indent: -2em;
 }
 
+p.big-indent {
+  padding-left: 4em;
+  text-indent: -2em;
+  }
+
+p.bigger-indent {
+    padding-left: 5em;
+    text-indent: -2em;
+    }
+
+    p.biggest-indent {
+      padding-left: 5em;
+      text-indent: -2em;
+      }
+  
 h2 {
   margin-bottom: 1rem;
   margin-top: 3rem; 
