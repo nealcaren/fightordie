@@ -16,7 +16,7 @@ This third battlefield is dotted with buildings green and red. A little flying e
 
 Southward the girls are clustered, northward the boys, and round about are teachers' families often new founded with new and cunning babies, albeit one and the prettiest had fled, suddenly, and left a sorrow underneath the trees. Teachers there are, varicolored, sunny and sad, but quiet all, busy and happy, eager and glad. With them and not above them is the principal with his boy face and his wife who has wings—wings finely frayed with beating at the bars of life—but wings withal, and in her eyes dreams.
 
-But the battle? Ah, yes, the battle, the third and blood-bought battle of this winding brook that whimpers 'twixt the mountains and the sea; the blood of wounded souls lies along the gold green of that campus—the hail of the iron that enters thuds through the thick dark skins. Now and then the bitter stifled wail of the dying breaks the sudden stillness, then the ranks close and the school moves on.
+But the battle? Ah, yes, the battle, the third and blood-bought battle of this winding brook that whimpers &rsquo;twixt the mountains and the sea; the blood of wounded souls lies along the gold green of that campus—the hail of the iron that enters thuds through the thick dark skins. Now and then the bitter stifled wail of the dying breaks the sudden stillness, then the ranks close and the school moves on.
 
 It's costly, this fighting. Costly in blood and men, costly in money, costliest in worry and apprehension. Each year, each month, the Forager goes North:
 

@@ -22,7 +22,7 @@ We offer no apology for coining a new long needed English word. We simply pause 
 * I know a woman who is frivolous. 
 * I know a white man who led a mob. 
 
-After that persons afflicted with this form of hysteria proceed to ''Ezekielize" and, lo! we learn that:
+After that persons afflicted with this form of hysteria proceed to "Ezekielize" and, lo! we learn that:
 
 * Negroes steal.
 * Jews cheat.

@@ -28,13 +28,13 @@ First: To conserve and select ability, giving to their best minds higher college
 
 Second: They should endeavor to give all their children the largest possible amount of general training and intelligence before teaching them the technique of a particular trade, remembering that the object of all true education is not to make men carpenters, but to make carpenters men. 
 
-Is not this reasoning sound? Could you imagine an educator of any experience who would take material exception to it? Would you call it revolutionary or in the nature of a ''personal'' attack ? 
+Is not this reasoning sound? Could you imagine an educator of any experience who would take material exception to it? Would you call it revolutionary or in the nature of a "personal" attack ? 
 
 Certainly not. 
 
-Yet this very argument, with illustrations and emphasis delivered to some seven hundred apparently well-pleased folk in Indianapolis, has had the most astounding results. The Indianapolis *Star* in a leading editorial denounced it as ''dangerous!'' 
+Yet this very argument, with illustrations and emphasis delivered to some seven hundred apparently well-pleased folk in Indianapolis, has had the most astounding results. The Indianapolis *Star* in a leading editorial denounced it as "dangerous!" 
 
-A leading white philanthropist of abolition forbears considered it not only ''misleading'' and ''mischievous'' but a covert and damaging personal attack! 
+A leading white philanthropist of abolition forbears considered it not only "misleading" and "mischievous" but a covert and damaging personal attack! 
 
 The supervisor of the colored schools of Indianapolis wrote to express regret that the lecture had seemed to attack his school curriculum and ideals, and the assistant superintendent of schools in the District of Columbia hastens to give advice! 
 
@@ -46,7 +46,7 @@ The first flaw is the naive assumption that the paraphernalia of a school shows 
 
 When the proud principal of a school shows workshop and kitchen, table and pie, one may be interested, but one is no more convinced than when another shows an array of Greek roots and rounded phrases. One must merely remark: The end of education is neither the table nor the phrase—it is the boy; what kind of boys are you training here? Are they boys quickened in intelligence, with some knowledge of the world they live in? Are they trained in such ways as to discover their true bent and ability, and to be intelligently guided to the choice of a life work? Then your system is right. Otherwise it is wrong, and not all the gingham dresses in Indiana will justify it. 
 
-The second flaw is the more or less conscious determination of certain folk to use the American public-school system for the production of laborers who will do the work they want done. To them Indianapolis exists for the sake of its factories and not the factories for the sake of Indianapolis. They want dinners, chairs and motor cars, and they want them cheap; therefore use the public schools to train servants, carpenters and mechanics. It does not occur to them to think of workingmen as existing for their own sakes. What with impudent maids, and half-trained workingmen, they are tired of democracy; they.want caste; a place for everybody and everybody in his father's place with themselves on top, and ''Niggers'' at the bottom where they belong. To such folk the problem of education is strikingly simple. To teach the masses to work; show them how to do things; increase their output; give them intelligence, of course; but this as a means, not as an end, and be careful of too much of it. Of course, if a meteoric genius bursts his birth's invidious bar, let him escape, but keep up the bars, and as most men are fools, treat them and train them as such. 
+The second flaw is the more or less conscious determination of certain folk to use the American public-school system for the production of laborers who will do the work they want done. To them Indianapolis exists for the sake of its factories and not the factories for the sake of Indianapolis. They want dinners, chairs and motor cars, and they want them cheap; therefore use the public schools to train servants, carpenters and mechanics. It does not occur to them to think of workingmen as existing for their own sakes. What with impudent maids, and half-trained workingmen, they are tired of democracy; they.want caste; a place for everybody and everybody in his father's place with themselves on top, and "Niggers" at the bottom where they belong. To such folk the problem of education is strikingly simple. To teach the masses to work; show them how to do things; increase their output; give them intelligence, of course; but this as a means, not as an end, and be careful of too much of it. Of course, if a meteoric genius bursts his birth's invidious bar, let him escape, but keep up the bars, and as most men are fools, treat them and train them as such. 
 
 It was such darkened counsels as these that brought the French Revolution. It is such mad logie as this that is at the bottom of the social unrest to-day. 
 

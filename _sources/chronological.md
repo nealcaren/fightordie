@@ -226,7 +226,7 @@
 |   1916 |       12 | 4       | [The Drama Among Black Folk](https://www.dareyoufight.org/Volumes/12/03/drama_among_black_folk.html)                                                                                     |
 |   1916 |       12 | 4       | [An Open Letter to Robert Russa Moton](https://www.dareyoufight.org/Volumes/12/03/open_letter.html)                                                                                      |
 |   1916 |       12 | 5       | [Conduct, Not Color](https://www.dareyoufight.org/Volumes/12/05/conduct_not_color.html)                                                                                                  |
-|   1916 |       12 | 5       | ['The Battle of Europe'](https://www.dareyoufight.org/Volumes/12/05/battle_of_eruope.html)                                                                                               |
+|   1916 |       12 | 5       | [The Battle of Europe](https://www.dareyoufight.org/Volumes/12/05/battle_of_eruope.html)                                                                                                 |
 |   1916 |       12 | 5       | [The Colored Audience](https://www.dareyoufight.org/Volumes/12/05/coloured_audience.html)                                                                                                |
 |   1916 |       12 | 6       | [Cowardice](https://www.dareyoufight.org/Volumes/12/06/cowardice.html)                                                                                                                   |
 |   1916 |       12 | 6       | [The Negro Party](https://www.dareyoufight.org/Volumes/12/06/negro_party.html)                                                                                                           |
@@ -235,7 +235,7 @@
 |   1916 |       13 | 1       | [Presidential Candidates](https://www.dareyoufight.org/Volumes/13/01/presidential_candidates.html)                                                                                       |
 |   1916 |       13 | 1       | [Southern Civilization](https://www.dareyoufight.org/Volumes/13/01/southern_civilization.html)                                                                                           |
 |   1916 |       13 | 2       | [Muddle](https://www.dareyoufight.org/Volumes/13/02/muddle.html)                                                                                                                         |
-|   1916 |       13 | 2       | ['Refinement and Love'](https://www.dareyoufight.org/Volumes/13/02/refinement_and_love.html)                                                                                             |
+|   1916 |       13 | 2       | [Refinement and Love](https://www.dareyoufight.org/Volumes/13/02/refinement_and_love.html)                                                                                               |
 |   1917 |       13 | 5       | [The Tuskegee Resolutions](https://www.dareyoufight.org/Volumes/13/05/tuskegee_resolutions.html)                                                                                         |
 |   1917 |       13 | 5       | [The Attempted Lynching of Lube Martin: An N.A.A.C.P. Investigation](https://www.dareyoufight.org/Volumes/13/05/attempted_lynching.html)                                                 |
 |   1917 |       13 | 6       | [The Perpetual Dilemma](https://www.dareyoufight.org/Volumes/13/06/perpetual_dilemma.html)                                                                                               |
@@ -247,7 +247,7 @@
 |   1917 |       14 | 1       | [A Moral Void](https://www.dareyoufight.org/Volumes/14/01/moral_void.html)                                                                                                               |
 |   1917 |       14 | 2       | [Resolutions of the Washington Conference](https://www.dareyoufight.org/Volumes/14/02/resolutions.html)                                                                                  |
 |   1917 |       14 | 2       | [Officers](https://www.dareyoufight.org/Volumes/14/02/officers.html)                                                                                                                     |
-|   1917 |       14 | 2       | ['We Should Worry'](https://www.dareyoufight.org/Volumes/14/02/we_should_worry.html)                                                                                                     |
+|   1917 |       14 | 2       | [We Should Worry](https://www.dareyoufight.org/Volumes/14/02/we_should_worry.html)                                                                                                       |
 |   1917 |       14 | 2       | [The Migration of Negroes](https://www.dareyoufight.org/Volumes/14/02/migration_of_negroes.html)                                                                                         |
 |   1917 |       14 | 3       | [Promoting Race Prejudice](https://www.dareyoufight.org/Volumes/14/03/race_prejudice.html)                                                                                               |
 |   1917 |       14 | 3       | [Memphis or East St. Louis?](https://www.dareyoufight.org/Volumes/14/03/memphis_or_east_st_louis.html)                                                                                   |
@@ -359,6 +359,7 @@
 |   1920 |       21 | 2       | [Marcus Garvey](https://www.dareyoufight.org/Volumes/21/02/garvey.html)                                                                                                                  |
 |   1921 |       21 | 3       | [Marcus Garvey](https://www.dareyoufight.org/Volumes/21/03/marcus_garvey.html)                                                                                                           |
 |   1921 |       21 | 3       | [Election Day in Florida](https://www.dareyoufight.org/Volumes/21/03/election_day.html)                                                                                                  |
+|   1921 |       22 | 2       | [Negro Art](https://www.dareyoufight.org/Volumes/22/02/negro_art.html)                                                                                                                   |
 |   1921 |       22 | 3       | [Amity](https://www.dareyoufight.org/Volumes/22/03/amity.html)                                                                                                                           |
 |   1921 |       22 | 3       | [Libelous Film](https://www.dareyoufight.org/Volumes/22/03/libelous_film.html)                                                                                                           |
 |   1921 |       22 | 3       | [The Negro and Radical Thought](https://www.dareyoufight.org/Volumes/22/03/negro_and_radical_thought.html)                                                                               |
@@ -380,7 +381,6 @@
 |   1922 |       22 | 1       | [Anti-Lynching Legislation](https://www.dareyoufight.org/Volumes/22/01/anti-lynching_legislation.html)                                                                                   |
 |   1922 |       22 | 1       | [The Drive](https://www.dareyoufight.org/Volumes/22/01/drive.html)                                                                                                                       |
 |   1922 |       22 | 1       | [Inter-Racial Comity](https://www.dareyoufight.org/Volumes/22/01/inter-racial_comity.html)                                                                                               |
-|   1922 |       22 | 2       | [Negro Art](https://www.dareyoufight.org/Volumes/22/02/negro_art.html)                                                                                                                   |
 |   1922 |       24 | 1       | [Slavery](https://www.dareyoufight.org/Volumes/24/01/slavery.html)                                                                                                                       |
 |   1922 |       24 | 1       | [Publicity](https://www.dareyoufight.org/Volumes/24/01/publicity.html)                                                                                                                   |
 |   1922 |       24 | 1       | [Art for Nothing](https://www.dareyoufight.org/Volumes/24/01/art_for_nothing.html)                                                                                                       |

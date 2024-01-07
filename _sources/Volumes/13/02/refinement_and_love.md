@@ -1,5 +1,5 @@
 <!--
-title:   'Refinement and Love'
+title:   Refinement and Love
 author:  Du Bois, W.E.B.
 journal: The Crisis
 year:    1916
@@ -7,7 +7,7 @@ volume:  13
 issue:   2
 pages:   63
 -->
-# 'Refinement and Love' (1916)
+# Refinement and Love (1916)
 
 A colored girl writes us from Oswego, N. Y., saying:
 
@@ -16,4 +16,4 @@ A colored girl writes us from Oswego, N. Y., saying:
 No one wishes more than <span class = "small-caps">The Crisis</span> that "culture, refinement, service and love" should triumph in the world; but we continually fear lest easy-going young folk should loll in their parlors toasting their toes and expect the horror of the world's blood sacrifice to be accomplished by someone else while they are practising "refinement and love." Terrible as it may be, the awful fact faces the colored races in this world: That no human group has ever achieved freedom without being compelled to murder thousands of members of other groups who were determined that they should be slaves. Let us hope and deeply pray that this may not happen in the case of colored folk; but at the same time let us set our faces grimly toward the fact, with unwinking eyes, that it may be necessary. War is Hell, but there are things worse than Hell, as every Negro knows.
 
 ______________
-*Citation:* Du Bois, W.E.B. 1916. "'Refinement and Love.'" *The Crisis*. 13(2):63.
+*Citation:* Du Bois, W.E.B. 1916. "Refinement and Love." *The Crisis*. 13(2):63.

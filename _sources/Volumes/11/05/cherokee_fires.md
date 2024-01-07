@@ -31,7 +31,7 @@ Cumming, the county seat, with its population of 300, is built around the four s
 
 A colored teamster driving his mules around the corner into the square, seeing that symbol dangling in front of the most respectable institution in the county, quit his wagon and ran.
 
-"Let's run 'em all out," the wielder of the hammer suggested.
+"Let's run &rsquo;em all out," the wielder of the hammer suggested.
 
 By the time they cut the body down at sunset the exodus from Forsyth County had commenced.
 

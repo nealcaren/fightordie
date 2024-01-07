@@ -10,7 +10,7 @@ pages:   269
 
 # The Boy Over There (1918)
 
-Listen, O Sister and Brother of Mine. Have you a Boy "over there?" Some slim, young fellow, brown of face and dark of eye, with the Eternal Joy of God on his lips? I have. Only mine is a ghost boy---just twenty-one he would have been last May. His soul is there with the Souls of the great company of his Fathers, a hundred, nay, a thousand years gone: with Alfred, his grandfather, who wore his country's uniform in '61; with Jacob who fought in 1812; with Tom who went in '76—all, all and more. It was not given to this my boy nor yet to me to go in the flesh; but he went dead, yet dreaming, and I dream-drunk, and yet alive, albeit with twitching, hanging hands.
+Listen, O Sister and Brother of Mine. Have you a Boy "over there?" Some slim, young fellow, brown of face and dark of eye, with the Eternal Joy of God on his lips? I have. Only mine is a ghost boy---just twenty-one he would have been last May. His soul is there with the Souls of the great company of his Fathers, a hundred, nay, a thousand years gone: with Alfred, his grandfather, who wore his country's uniform in &rsquo;61; with Jacob who fought in 1812; with Tom who went in &rsquo;76—all, all and more. It was not given to this my boy nor yet to me to go in the flesh; but he went dead, yet dreaming, and I dream-drunk, and yet alive, albeit with twitching, hanging hands.
 
 And we, Sister and Brother of Mine, we who sit and listen, what are we doing for OUR boys "over there?" Are we seeing that they have food to eat, or are we starving them by our gluttony?
 
