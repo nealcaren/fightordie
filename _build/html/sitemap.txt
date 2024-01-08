@@ -3,6 +3,7 @@ https://www.dareyoufight.org/toc.html
 https://www.dareyoufight.org/quotable.html
 https://www.dareyoufight.org/code_of_conduct.html
 https://www.dareyoufight.org/contributing.html
+https://www.dareyoufight.org/search.html
 https://www.dareyoufight.org/chronological.html
 https://www.dareyoufight.org/credits.html
 https://www.dareyoufight.org/introduction.html
@@ -48,6 +49,8 @@ https://www.dareyoufight.org/Sections/intermarriage.html
 https://www.dareyoufight.org/Sections/religion.html
 https://www.dareyoufight.org/Sections/criminal_justice.html
 https://www.dareyoufight.org/Sections/short_stories.html
+https://www.dareyoufight.org/_static/webpack-macros.html
+https://www.dareyoufight.org/_static/sbt-webpack-macros.html
 https://www.dareyoufight.org/Volumes/03/03/mild_suggestion.html
 https://www.dareyoufight.org/Volumes/03/03/crime_and_lynching.html
 https://www.dareyoufight.org/Volumes/03/04/gail_of_bitterness.html
