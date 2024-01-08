@@ -1,5 +1,5 @@
 <!--
-title:   "'Social Equality'"
+title:   'Social Equality'
 author:  Du Bois, W.E.B.
 journal: The Crisis
 year:    1911
@@ -8,7 +8,7 @@ issue:   1
 pages:   25
 -->
 
-# "'Social Equality'" (1911)
+# 'Social Equality' (1911)
 
 We are with great assiduity collecting practical definitions of "social equality."We say "practical" because the theoretical argument has gone quite insane. Here comes this month, *The Missionary Voice*, a well-disposed organ of the Southern white Methodists. In reviewing a pamphlet published by Atlanta University the *Voice* remarks concerning the editor that he is "well known as the leader of those Negroes who desire social equality for their race---a desire which crops out, here and there, through this pamphlet. The fact that no Southern white nor the wisest Southern blacks would sanction this desire for one moment does not lessen the impressiveness of this study of Negro effort to uplift the Negro race."
 
@@ -25,4 +25,4 @@ This *Missionary Voice* is the voice of earnest, honest people. They are strivin
 
 ______________
 
-*Citation:* Du Bois, W.E.B. 1911. ""'Social Equality'"." *The Crisis*. 3(1):25.
+*Citation:* Du Bois, W.E.B. 1911. "'Social Equality.'" *The Crisis*. 3(1):25.
