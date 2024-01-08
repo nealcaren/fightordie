@@ -57,7 +57,7 @@
 |   1911 |        2 | 6       | [Knowledge](https://www.dareyoufight.org/Volumes/02/06/knowledge.html)                                                                                                                   |
 |   1911 |        3 | 1       | ["'Ezekielism'"](https://www.dareyoufight.org/Volumes/03/01/ezekielism.html)                                                                                                             |
 |   1911 |        3 | 1       | [The Quadroon](https://www.dareyoufight.org/Volumes/03/01/quadroon.html)                                                                                                                 |
-|   1911 |        3 | 1       | ["'Social Equality'"](https://www.dareyoufight.org/Volumes/03/01/social_equality.html)                                                                                                   |
+|   1911 |        3 | 1       | ['Social Equality'](https://www.dareyoufight.org/Volumes/03/01/social_equality.html)                                                                                                     |
 |   1911 |        3 | 1       | [Christianity Rampant](https://www.dareyoufight.org/Volumes/03/01/christianity_rampant.html)                                                                                             |
 |   1911 |        3 | 1       | [The Census](https://www.dareyoufight.org/Volumes/03/01/census.html)                                                                                                                     |
 |   1911 |        3 | 2       | [The Sin Against the Holy Ghost](https://www.dareyoufight.org/Volumes/03/02/sin.html)                                                                                                    |
@@ -232,6 +232,7 @@
 |   1916 |       12 | 5       | [The Battle of Europe](https://www.dareyoufight.org/Volumes/12/05/battle_of_eruope.html)                                                                                                 |
 |   1916 |       12 | 5       | [The Colored Audience](https://www.dareyoufight.org/Volumes/12/05/coloured_audience.html)                                                                                                |
 |   1916 |       12 | 6       | [Cowardice](https://www.dareyoufight.org/Volumes/12/06/cowardice.html)                                                                                                                   |
+|   1916 |       12 | 6       | [The Presidential Campaign](https://www.dareyoufight.org/Volumes/12/06/presidential_campaign.html)                                                                                       |
 |   1916 |       12 | 6       | [The Negro Party](https://www.dareyoufight.org/Volumes/12/06/negro_party.html)                                                                                                           |
 |   1916 |       12 | 6       | [Migration](https://www.dareyoufight.org/Volumes/12/06/migration.html)                                                                                                                   |
 |   1916 |       13 | 1       | [Mr. Hughes](https://www.dareyoufight.org/Volumes/13/01/mr_hughes.html)                                                                                                                  |
@@ -487,6 +488,7 @@
 |   1928 |       35 | 3       | [Robert E. Lee](https://www.dareyoufight.org/Volumes/35/03/robert.html)                                                                                                                  |
 |   1928 |       35 | 3       | [The Name Negro](https://www.dareyoufight.org/Volumes/35/03/name_negro.html)                                                                                                             |
 |   1928 |       35 | 4       | [The House of the Black Burghardts](https://www.dareyoufight.org/Volumes/35/04/black.html)                                                                                               |
+|   1928 |       35 | 5       | [The Negro Politician](https://www.dareyoufight.org/Volumes/35/05/negro_politician.html)                                                                                                 |
 |   1928 |       35 | 5       | [Our Economic Future](https://www.dareyoufight.org/Volumes/35/05/our_economic_future.html)                                                                                               |
 |   1928 |       35 | 5       | [The Browsing Reader](https://www.dareyoufight.org/Volumes/35/05/browsing_reader.html)                                                                                                   |
 |   1928 |       35 | 6       | [Sunny Florida](https://www.dareyoufight.org/Volumes/35/06/sunny_florida.html)                                                                                                           |
