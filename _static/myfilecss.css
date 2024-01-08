@@ -187,11 +187,11 @@ aside p {
 }
 
 hr.break {
-  align: center;
-  width: 30%;
-  border-top: 4px solid black;
-  margin-top: 2rem;
-  margin-bottom: 2rem;
+  align: center !important; 
+  width: 30% !important;
+  border-top: 2px solid black !important;
+  margin-top: 2rem !important;
+  margin-bottom: 2rem !important;
 }
 
 .sidebar p {
