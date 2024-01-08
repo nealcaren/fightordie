@@ -417,6 +417,7 @@ chapters:
     - file: Volumes/10/05/hayti.md
     - file: Volumes/10/06/hayti.md 
     - file: Volumes/10/02/amazing_island.md
+    - file: Volumes/11/02/haiti.md
     - file: Volumes/12/01/rescue.md
     - file: Volumes/12/04/ireland.md
     - file: Volumes/12/04/carrizal.md
@@ -476,6 +477,7 @@ chapters:
   - file: Volumes/34/07/browsing_reader.md
   - file: Volumes/35/05/browsing_reader.md
   - file: Volumes/35/06/two_novels.md
+  - file: Volumes/38/05/beside.md
   - file: Sections/short_stories
     sections:
     - file: Volumes/01/02/precept_and_practice.md 
@@ -551,6 +553,7 @@ chapters:
     - file: Volumes/11/05/negro_public_school.md
     - file: Volumes/12/01/negro_college.md
     - file: Volumes/12/01/public_schools.md
+    - file: Volumes/13/03/schools.md
     - file: Volumes/15/01/hampton.md
     - file: Volumes/15/04/negro_education.md
     - file: Volumes/16/06/school.md
@@ -620,6 +623,7 @@ chapters:
     - file: Volumes/11/02/booker_t_washington.md
     - file: Volumes/12/03/open_letter.md
     - file: Volumes/12/05/coloured_audience.md
+    - file: Volumes/13/06/south.md
     - file: Volumes/15/04/shadow_of_years.md
     - file: Volumes/18/03/reconstruction.md
     - file: Volumes/18/06/true_brownies.md
