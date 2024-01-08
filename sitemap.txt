@@ -225,6 +225,7 @@ https://www.dareyoufight.org/Volumes/11/05/brandeis.html
 https://www.dareyoufight.org/Volumes/11/05/st_louis.html
 https://www.dareyoufight.org/Volumes/11/05/young.html
 https://www.dareyoufight.org/Volumes/11/02/booker_t_washington.html
+https://www.dareyoufight.org/Volumes/11/02/haiti.html
 https://www.dareyoufight.org/Volumes/11/02/elections.html
 https://www.dareyoufight.org/Volumes/11/02/star_of_ethiopia.html
 https://www.dareyoufight.org/Volumes/11/01/woman_suffrage.html
@@ -346,6 +347,7 @@ https://www.dareyoufight.org/Volumes/07/06/does_organization_pay.html
 https://www.dareyoufight.org/Volumes/07/06/brazil.html
 https://www.dareyoufight.org/Volumes/38/03/woofterism.html
 https://www.dareyoufight.org/Volumes/38/04/causes_of_lynching.html
+https://www.dareyoufight.org/Volumes/38/05/beside.html
 https://www.dareyoufight.org/Volumes/38/09/negro_and_communism.html
 https://www.dareyoufight.org/Volumes/36/05/optimism.html
 https://www.dareyoufight.org/Volumes/36/05/negro_citizen.html
@@ -571,6 +573,7 @@ https://www.dareyoufight.org/Volumes/40/12/peace.html
 https://www.dareyoufight.org/Volumes/40/12/too_rich.html
 https://www.dareyoufight.org/Volumes/40/12/af_of_l.html
 https://www.dareyoufight.org/Volumes/40/12/matter_of_manners.html
+https://www.dareyoufight.org/Volumes/13/03/schools.html
 https://www.dareyoufight.org/Volumes/13/05/tuskegee_resolutions.html
 https://www.dareyoufight.org/Volumes/13/05/attempted_lynching.html
 https://www.dareyoufight.org/Volumes/13/02/muddle.html
@@ -579,6 +582,7 @@ https://www.dareyoufight.org/Volumes/13/01/mr_hughes.html
 https://www.dareyoufight.org/Volumes/13/01/presidential_candidates.html
 https://www.dareyoufight.org/Volumes/13/01/southern_civilization.html
 https://www.dareyoufight.org/Volumes/13/06/perpetual_dilemma.html
+https://www.dareyoufight.org/Volumes/13/06/south.html
 https://www.dareyoufight.org/Volumes/14/03/memphis_or_east_st_louis.html
 https://www.dareyoufight.org/Volumes/14/03/justice.html
 https://www.dareyoufight.org/Volumes/14/03/race_prejudice.html

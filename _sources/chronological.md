@@ -191,6 +191,7 @@
 |   1915 |       11 | 1       | [We Come of Age](https://www.dareyoufight.org/Volumes/11/01/we_come_of_age.html)                                                                                                         |
 |   1915 |       11 | 1       | [The Risk of Woman Suffrage](https://www.dareyoufight.org/Volumes/11/01/risk_of_woman_suffrage.html)                                                                                     |
 |   1915 |       11 | 2       | [The Elections](https://www.dareyoufight.org/Volumes/11/02/elections.html)                                                                                                               |
+|   1915 |       11 | 2       | [Haiti](https://www.dareyoufight.org/Volumes/11/02/haiti.html)                                                                                                                           |
 |   1915 |       11 | 2       | [The Star of Ethiopia](https://www.dareyoufight.org/Volumes/11/02/star_of_ethiopia.html)                                                                                                 |
 |   1915 |       11 | 2       | [Booker T. Washington](https://www.dareyoufight.org/Volumes/11/02/booker_t_washington.html)                                                                                              |
 |   1915 |       11 | 5       | [Preparedness](https://www.dareyoufight.org/Volumes/11/05/preparedness.html)                                                                                                             |
@@ -238,9 +239,11 @@
 |   1916 |       13 | 1       | [Southern Civilization](https://www.dareyoufight.org/Volumes/13/01/southern_civilization.html)                                                                                           |
 |   1916 |       13 | 2       | [Muddle](https://www.dareyoufight.org/Volumes/13/02/muddle.html)                                                                                                                         |
 |   1916 |       13 | 2       | [Refinement and Love](https://www.dareyoufight.org/Volumes/13/02/refinement_and_love.html)                                                                                               |
+|   1917 |       13 | 3       | [Schools](https://www.dareyoufight.org/Volumes/13/03/schools.html)                                                                                                                       |
 |   1917 |       13 | 5       | [The Tuskegee Resolutions](https://www.dareyoufight.org/Volumes/13/05/tuskegee_resolutions.html)                                                                                         |
 |   1917 |       13 | 5       | [The Attempted Lynching of Lube Martin: An N.A.A.C.P. Investigation](https://www.dareyoufight.org/Volumes/13/05/attempted_lynching.html)                                                 |
 |   1917 |       13 | 6       | [The Perpetual Dilemma](https://www.dareyoufight.org/Volumes/13/06/perpetual_dilemma.html)                                                                                               |
+|   1917 |       13 | 6       | [The South](https://www.dareyoufight.org/Volumes/13/06/south.html)                                                                                                                       |
 |   1917 |       14 | 1       | [Register and Vote](https://www.dareyoufight.org/Volumes/14/01/register_and_vote.html)                                                                                                   |
 |   1917 |       14 | 1       | [Loyalty](https://www.dareyoufight.org/Volumes/14/01/loyalty.html)                                                                                                                       |
 |   1917 |       14 | 1       | [Naval Ruler](https://www.dareyoufight.org/Volumes/14/01/naval_ruler.html)                                                                                                               |
@@ -523,6 +526,7 @@
 |   1930 |       37 | 8       | [Freedom of Speech](https://www.dareyoufight.org/Volumes/37/08/freedom.html)                                                                                                             |
 |   1931 |       38 | 4       | [Causes of Lynching](https://www.dareyoufight.org/Volumes/38/04/causes_of_lynching.html)                                                                                                 |
 |   1931 |       38 | 4       | [Woofterism](https://www.dareyoufight.org/Volumes/38/03/woofterism.html)                                                                                                                 |
+|   1931 |       38 | 5       | [Beside the Still Water](https://www.dareyoufight.org/Volumes/38/05/beside.html)                                                                                                         |
 |   1931 |       38 | 9       | [The Negro and Communism](https://www.dareyoufight.org/Volumes/38/09/negro_and_communism.html)                                                                                           |
 |   1932 |       39 | 1       | [John Brown](https://www.dareyoufight.org/Volumes/39/01/john_brown.html)                                                                                                                 |
 |   1932 |       39 | 11      | [If I Had a Million Dollars: A Review of the Phelps Stokes Fund](https://www.dareyoufight.org/Volumes/39/11/million_dollars.html)                                                        |
