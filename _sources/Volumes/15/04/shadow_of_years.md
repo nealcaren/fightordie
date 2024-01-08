@@ -16,7 +16,10 @@ I was born by a golden river and in the shadow of two great hills, five years af
 
 We were part of a great clan. Full two hundred years before Tom Burghardt had come through the western pass to the Hudson with his Dutch captor, "Coenret Borghghardt," sullen in his slavery and achieving his freedom by volunteering for the Revolution at a time of sudden alarm. His wife was a little black Bantu woman who never became reconciled to this strange land; she clasped her knees and rocked and crooned: 
 
-> *Do bana coba---gene me!* <p>*Ben d'nuli, ben d'le&#11834;*
+<div class="poem">
+<p class="verse">Do bana coba&mdash;gene me!
+<p class="verse">Ben d'nuli, ben d'le&#11834;
+</div>
 
 Tom died about 1787, but of him came many sons and one, Jack, who helped in The War of 1812. Of Jack and his wife, Violet, was born a mighty family, splendidly named: Harlow and Ira, Cloe, Lucinda, Maria and Othello! I dimly remember my grandfather, Othello, or Uncle "Tallow,"---a brown man, strong-voiced and redolent with tobacco, who sat stiffly in a great high chair because his hip was broken. He was probably a bit lazy and given to wassail. At any rate, grandmother had a shrewish tongue and often berated him. mother was Sarah---"Aunt Sally"---a stern, tall, Dutch-African woman, beak-nosed but beautiful-eyed and golden skinned. Ten or more children were theirs, of whom the youngest was Mary, my mother. 
 
