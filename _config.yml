@@ -15,6 +15,7 @@ execute:
 parse:
   myst_enable_extensions:
     - smartquotes
+    - colon_fence
 
 
 # Define the name of the latex output file for PDF builds
@@ -45,3 +46,5 @@ sphinx:
   config:
     language: en
     html_show_copyright: false
+  html_context:
+    default_mode: light
