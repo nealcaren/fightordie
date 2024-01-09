@@ -31,7 +31,7 @@ Never before in the history of the United States has the Negro population worked
 
 > I received your letter of Nov. 22 upon my return from the West where I have been almost the entire time since the close of the campaign.
 > &nbsp;
-"I confess to you that I have blood in my eyes for the National Association for the Advancement of Colored People and others who have used them with sinister designs to defeat some of the best friends that we have in particular and the Nation in general.
+> I confess to you that I have blood in my eyes for the National Association for the Advancement of Colored People and others who have used them with sinister designs to defeat some of the best friends that we have in particular and the Nation in general.
 > &nbsp;
 > The purpose of this letter is to call attention of you and other outstanding statesmen to the fact that the National Association for the Advancement of Colored People is purely a Negro Democratic organization and has always been found on the side of the Democrats in the final analysis. That organization was used by Bob Nelson and others, and you owe your defeat to no other agency. I corrected the evil in Wilmington and if I could have gone into the Dover neighborhood on the following Monday I could have saved the day, but I had an engagement to fill for Senator Frelinghuysen and you know it was impossible for me to do so.
 > &nbsp;
