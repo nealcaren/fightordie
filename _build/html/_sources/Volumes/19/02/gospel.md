@@ -5,7 +5,7 @@ journal: The Crisis
 year:    1919
 volume:  19
 issue:   2
-pages:   41---43
+pages:   41-43
 ------>
 # The Gospel According to Mary Brown (1919)
 
@@ -141,4 +141,4 @@ And he answered and said: "I was crucified, dead, and buried. I descended into H
 And softly Mary laid herself down at His feet, and died.
 
 ______________
-*Citation:* Du Bois, W.E.B. 1919. "The Gospel According to Mary Brown." *The Crisis*. 19(2):41&ndash;&ndash;43.
+*Citation:* Du Bois, W.E.B. 1919. "The Gospel According to Mary Brown." *The Crisis*. 19(2):41&ndash;43.
