@@ -328,6 +328,7 @@
 |   1919 |       18 | 5       | [Forward](https://www.dareyoufight.org/Volumes/18/05/forward.html)                                                                                                                       |
 |   1919 |       18 | 5       | [The Riots: An N.A.A.C.P. Investigation](https://www.dareyoufight.org/Volumes/18/05/riots.html)                                                                                          |
 |   1919 |       18 | 6       | [Shillady and Texas](https://www.dareyoufight.org/Volumes/18/06/shillady_and_texas.html)                                                                                                 |
+|   1919 |       18 | 6       | [Balls](https://www.dareyoufight.org/Volumes/18/06/balls.html)                                                                                                                           |
 |   1919 |       18 | 6       | [The True Brownies](https://www.dareyoufight.org/Volumes/18/06/true_brownies.html)                                                                                                       |
 |   1919 |       18 | 6       | [Chicago and Its Eight Reasons](https://www.dareyoufight.org/Volumes/18/06/chicago_and_its_eight_reasons.html)                                                                           |
 |   1919 |       18 | 6       | [The Riot at Longview, Texas](https://www.dareyoufight.org/Volumes/18/06/riot_at_longview.html)                                                                                          |
@@ -354,6 +355,7 @@
 |   1920 |       19 | 5       | [Dives, Mob, and Scab](https://www.dareyoufight.org/Volumes/19/05/dives.html)                                                                                                            |
 |   1920 |       19 | 5       | [Just Like---Folks](https://www.dareyoufight.org/Volumes/19/05/just_like_folks.html)                                                                                                     |
 |   1920 |       19 | 5       | [A Soldier](https://www.dareyoufight.org/Volumes/19/05/a_soldier.html)                                                                                                                   |
+|   1920 |       19 | 6       | [Negro Writers](https://www.dareyoufight.org/Volumes/19/06/negro_writers.html)                                                                                                           |
 |   1920 |       20 | 1       | [Get Ready](https://www.dareyoufight.org/Volumes/20/01/get_ready.html)                                                                                                                   |
 |   1920 |       20 | 1       | [White Co-Workers](https://www.dareyoufight.org/Volumes/20/01/white_coworkers.html)                                                                                                      |
 |   1920 |       20 | 3       | [Race Intelligence](https://www.dareyoufight.org/Volumes/20/03/race_intelligence.html)                                                                                                   |

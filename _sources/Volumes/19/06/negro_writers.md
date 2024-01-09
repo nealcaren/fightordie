@@ -13,7 +13,7 @@ Since its founding, <span style="font-variant:small-caps;">The Crisis</span> has
 
 One colored writer, Claude McKay, asserts that we rejected one of his poems and then quoted it from Pearson's; and intimates that colored editors, in general, defer to white editors' opinions. This is, of course, arrogant nonsense. But it does call our attention to the need of encouraging Negro writers. We have today all too few, for the reason that there is a small market for their ideas among whites, and their energies are being called to other and more lucrative ways of earning a living. Nevertheless we have literary ability and the race needs it. A renaissance of American Negro literature is due; the material about us in the strange, heartrending race tangle is rich beyond dream and only we can tell the truth and sing the song from the heart.
 
-From the beginning, the editor has read with care every manuscript sent us, which explains the unconscionable delay in returning many; and yet for three years the editor was editor, business manager, and chief clerk, and only this last year has THE CRISIS been able to hire an editorial staff even approximately adequate to the work.
+From the beginning, the editor has read with care every manuscript sent us, which explains the unconscionable delay in returning many; and yet for three years the editor was editor, business manager, and chief clerk, and only this last year has <span style="font-variant:small-caps;">The Crisis</span> been able to hire an editorial staff even approximately adequate to the work.
 
  ______________
 *Citation:* Du Bois, W.E.B. 1920. "Negro Writers." *The Crisis*. 19(6):298&ndash;299.
