@@ -37,7 +37,7 @@ One morning Mr. Dendy received a letter, anonymous and bearing at the top a crud
 
 ![](/Images/dendy.jpg)
 
-"You look good to us," it read.  "If you build a house down there this is what you get you better build your house up where the rest of the dam <span class="keeptogether">n&#11834;s</span> live. You getting too dam rich to be a <span class="keeptogether">n&#11834;</span>. That dam manish boy of yours will die soon.
+"You look good to us," it read.  "If you build a house down there this is what you get you better build your house up where the rest of the dam <span class="keeptogether">n&#11834;s</span> live. You getting too dam rich to be a <span class="keeptogether">n&#11834;</span>. That dam manish boy of yours will die soon."
 
 "We are only giving you a warning."
 
