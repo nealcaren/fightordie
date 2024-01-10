@@ -9,7 +9,7 @@ pages:   251
 -->
 # Inter-Marriage (1924)
 
-The Ku Klux Klan has secured the introduction of bills into certain legislatures, including Ohio, Iowa and Michigan, which should be called proposals "to encourage prostitution and degrade women of Negro descent". These bills have secured the backing of Christian ministers, women's clubs and some prominent citizens, because they prevent legal marriage between persons of different "races".
+The Ku Klux Klan has secured the introduction of bills into certain legislatures, including Ohio, Iowa and Michigan, which should be called proposals "to encourage prostitution and degrade women of Negro descent." These bills have secured the backing of Christian ministers, women's clubs and some prominent citizens, because they prevent legal marriage between persons of different "races."
 
 It is astonishing that muddled thinking will lead to such indefensible and disgraceful proposals. There is nothing to prevent today a white man from refusing to marry a colored woman. There is no law compelling a white woman to take a Negro mate. Decent custom in all civilized communities compels the scoundrel who seduces a girl to marry her no matter what race she belongs to. Does decency ask change in such custom? There are laws which say that if white people wish to consort with colored people they must marry. Can civilization demand less?
 

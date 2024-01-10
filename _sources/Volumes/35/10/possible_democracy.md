@@ -103,7 +103,7 @@ In other words, in these five states, out of a total of 5,145,282 persons 21 yea
 |                  |------------------|-----------------------|----------------------|
 |                  | 19,000           | 2,215,771             | 2,297,799            |
 
-There is one consideration which, in the opinion of some, modifies these figures. In each one of these states there is practically but one party and a "white primary". Ostensibly to make the exclusion of the Negro voter doubly sure a system came into vogue by which only white voters are admitted to the dominant party primary and the condition of admittance was a promise to abide by the decision of the primary. 
+There is one consideration which, in the opinion of some, modifies these figures. In each one of these states there is practically but one party and a "white primary." Ostensibly to make the exclusion of the Negro voter doubly sure a system came into vogue by which only white voters are admitted to the dominant party primary and the condition of admittance was a promise to abide by the decision of the primary. 
 
 This means that in order to vote at all the white voter must first disenfranchise himself so far as having any voice as to the major principles which form the chief matters of difference between parties. Practically his vote is confined to choosing between individuals who will carry out principles which he must accept before voting at all. If, for instance, a Southern white man wants to vote in the Democratic primary this year, he can only do so if he gives up his right to vote against Al Smith!
 

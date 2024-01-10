@@ -29,7 +29,7 @@ That all our officers and members are working wholeheartedly to this end is prov
 
 We have not worked alone; what we have done has been in coöperate with numerous agencies and individuals outside our membership; but ours has been the impulse and initiative and most of the work.
 
-Despite all this we admit frankly and freely that we have not yet settled the Negro problem. The Negro is still disfranchised, lynched, "Jim Crowed", robbed and insulted. But we did not expect to unravel the tangle of 300 years in 10; we did expect to start the unravelling and this the most churlish must credit us with doing.
+Despite all this we admit frankly and freely that we have not yet settled the Negro problem. The Negro is still disfranchised, lynched, "Jim Crowed," robbed and insulted. But we did not expect to unravel the tangle of 300 years in 10; we did expect to start the unravelling and this the most churlish must credit us with doing.
 
 If now anyone can suggest any improvement in our organization or method, we are eager to hear them; but we do not believe that the time has come, or ever will come, when we will not need the help of white Americans. To bar them from our organization would be a monstrous discrimination; it would advertise the fact that we can not or will not work with white people. If this is true, what are we doing in America or indeed in the modern world? What are we fighting for, if it is not the chance to stand with our white fellows, side by side and hand in hand, and fight for right?
 

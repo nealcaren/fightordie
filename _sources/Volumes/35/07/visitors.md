@@ -49,7 +49,7 @@ I was sitting in my office with a helper reading the stone-proof of the
 magazine: last day, last hour. It must be down at 5 or the schedule of a
 great printing house with 25 magazines to print would be thrown out of
 kilter, 800 agents would await a late magazine, and 100,000 readers
-would yell: "C.P.T.". We were working like hell with an hour to finish
+would yell: "C.P.T.." We were working like hell with an hour to finish
 an hour and a half's work.---
 
 "Miss Blink and Miss Blank of Seattle, to see the Editor."

@@ -9,7 +9,7 @@ pages:   167
 -->
 # Herbert Hoover and the South (1929)
 
-Herbert Hoover has started something. We very much doubt if he understands the ramifications of his late declaration. His statement is that Republican Presidents for many years have tried to build up state Republican organizations in the Southern states; that this Southern Republican Party must "commend itself to the citizens of those states"; that the basis of sound government is a strong two-party representation; that there must be no sectionalism in politics; and that the re-organization must come "from the states themselves".
+Herbert Hoover has started something. We very much doubt if he understands the ramifications of his late declaration. His statement is that Republican Presidents for many years have tried to build up state Republican organizations in the Southern states; that this Southern Republican Party must "commend itself to the citizens of those states"; that the basis of sound government is a strong two-party representation; that there must be no sectionalism in politics; and that the re-organization must come "from the states themselves."
 
 He then lists the states: North Carolina and Virginia have a Republican Party. Alabama, Arkansas, Louisiana, Texas and Florida are strengthening the Republican Party, and Mr. Hoover commends the movement. He puts Mississippi, South Carolina, Georgia and Florida on the black list, and says nothing about Tennessee.
 

@@ -60,7 +60,7 @@ This called for subtlety in interpretation and understanding---for a deep and hu
 
 When manager and playwright turned to find such a man they faced a wall. They knew few Negro actors. To Broadway the Negro was not an actor, he was a vaudeville turn. True it was that Charles Gilpin, by the tragedy of his own damnation had, with dying flair of genius and clairvoyance of O'Neill, forced the Negro defeatist psychology partially across the footlights. Half willingly thereafter, Broadway endured patronizingly Robeson and Rose McClendon for limited periods and with the clearly expressed proviso, that the author engage in the climax to kill the black hero, or destroy him or rend his soul from his body. Then the white audience could depart secure in the knowledge that all Negro aspiration and effort, by the very constitution of the universe, must ever end in annihilation and defeat, frustration and death.
 
-But this climax would not suit "The Green Pastures". Even on the American stage, God must be reasonably successful; and Richard Harrison almost as a last resort was offered the opportunity to try this role.
+But this climax would not suit "The Green Pastures." Even on the American stage, God must be reasonably successful; and Richard Harrison almost as a last resort was offered the opportunity to try this role.
 
 <hr/>
 

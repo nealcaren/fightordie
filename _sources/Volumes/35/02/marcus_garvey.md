@@ -30,7 +30,7 @@ On the other hand Garvey's attacks on the N. A. A. C. P. have been continuous, p
 
 1. That we kept his representative from activity in Paris in 1919.
 2. That Moorfield Storey came from Boston to secure his conviction in 1924.
-3. That the collapse of the Black Star Line came about "because men were paid to make this trouble by certain organizations calling themselves Negro Advancement Associations. They paid men to dismantle our machinery and otherwise damage it so as to bring about the downfall of the movement".
+3. That the collapse of the Black Star Line came about "because men were paid to make this trouble by certain organizations calling themselves Negro Advancement Associations. They paid men to dismantle our machinery and otherwise damage it so as to bring about the downfall of the movement."
 4. That the N.A.A C.P. was responsible for his incarceration and deportation.
 
 Every single statement in these and dozens of similar charges are absolutely false and without any basis of fact whatsoever. As The Crisis said in May, 1924:
