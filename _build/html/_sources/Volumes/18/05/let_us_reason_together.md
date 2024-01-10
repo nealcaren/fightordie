@@ -23,11 +23,11 @@ Honor, endless and undying Honor, to every man, black or white, who in Houston, 
 
 If the United States is to be a Land of Law, we would live humbly and peaceably in it---working, singing, learning and dreaming to make it and ourselves nobler and better; if it is to be a Land of Mobs and Lynchers, we might as well die today as tomorrow.
 
-::: poem
-<p class="verse">And how can man die better
-<p class="verse">Than facing fearful odds
-<p class="verse">For the ashes of his fathers  
-<p class="verse">And the temples of his gods?
-:::
+<div class="poem">
+<p class="verse"><em>And how can man die better</em>
+<p class="verse"><em>Than facing fearful odds</em>
+<p class="verse"><em>For the ashes of his fathers</em>
+<p class="verse"><em>And the temples of his gods?</em>
+</div>
 ______________
 *Citation:* Du Bois, W.E.B. 1919. "Let us Reason Together." *The Crisis*. 18(5):231.
