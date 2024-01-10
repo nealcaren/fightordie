@@ -13,7 +13,7 @@ pages:   175-177
 A [draft of the speech](https://credo.library.umass.edu/cgi-bin/pdf.cgi?id=scua:mums312-b211-i116) is available from the [Du Bois archive](https://credo.library.umass.edu/view/collection/mums312).
 ```
 
-*This is part of an address on "The Field and Function of a Negro College", delivered at the annual alumni reunion during commencement week at Fisk University last June. The complete address has been issued in pamphlet form by the University.*
+*This is part of an address on "The Field and Function of a Negro College," delivered at the annual alumni reunion during commencement week at Fisk University last June. The complete address has been issued in pamphlet form by the University.*
 
 It has been said many times that a Negro University is nothing more and nothing less than a university. Quite recently one of the great leaders of education in the United States, Abraham flexner, said something of that sort concerning Howard, As President of the Boaard of Trustees, he said he was seeking to build not a Negro university, but a University. And by those words he brought again before our eyes the ideal of a great institution of learning which becomes a center of universal culture. With all good will toward them that say such words–it is the object of this paper to insist that there can be no college for Negroes which is not a Negro college and that while an American Negro university, just like a German or Swiss university may rightly aspire to a universal culture unhampered by limitations of race and culture, yet it must start on the earth where we sit and not in the skies whither we aspire. May I develop this thought.
 

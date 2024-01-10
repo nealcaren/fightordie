@@ -46,7 +46,7 @@ the hotel proprietor and identified Kier as the messenger. The police
 were called. Kier denied his guilt but was knocked to the floor by a
 policeman's club. When he was able to get up, he said that he was
 guilty. The proprietor asked the detective "not to murder the boy in my
-hotel". They took the Negro to police headquarters where the Chief of
+hotel." They took the Negro to police headquarters where the Chief of
 Police, H. L. Quigg, told them not to enter any charge against him. The
 policemen took Kier in an automobile out to the Northwestern part of the
 city. Then they threw him out and tried to shoot him. The first shot

@@ -125,7 +125,7 @@ As she was about to leave they laid on her a solemn charge.
 
 Miss Gruening inquired why, in the case of so much heroism, were so many Negroes killed and only eight white men. There was no answer to that.
 
-Many white people told Miss Gruening that the militia had done remarkably well when one considered that most of them came from towns in Southern Illinois, like Olney, for instance, at whose railway stations were placards with the inscription: "N&#11834;, don't let the sun set on you." It  was impossible, it was argued, for such men to suppose that they were being called on to protect "n&#11834;s"!
+Many white people told Miss Gruening that the militia had done remarkably well when one considered that most of them came from towns in Southern Illinois, like Olney, for instance, at whose railway stations were placards with the inscription: "N&#11834;, don't let the sun set on you." It  was impossible, it was argued, for such men to suppose that they were being called on to protect "n&#11834;s!"
 
 And now we come to a short list of savage deeds which most of the newspapers have failed to print. Some of them though hint at them, like the *St. Louis Globe-Democrat* for instance, when it says "enormities of savagery which would shame the jungle were committed in the presence of policemen and militiamen." All of the following statements were related by eyewitnesses to Miss Gruening and Dr. Du Bois.
 

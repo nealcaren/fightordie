@@ -11,7 +11,7 @@ pages:   240
 
 *Porgy. By DuBose Heyward. George H. Doran Company. New York. 1925. 196 pages.*
 
-DuBose Heyward's little novel of colored Charleston life, "Porgy", is a beautiful piece of work. It is the Iliad of a small black beggar in the underworld of labor and crime surrounded by whiskey and lust and sanctified with music, a queer and quaint religion and a great yearning flood of love. 
+DuBose Heyward's little novel of colored Charleston life, "Porgy," is a beautiful piece of work. It is the Iliad of a small black beggar in the underworld of labor and crime surrounded by whiskey and lust and sanctified with music, a queer and quaint religion and a great yearning flood of love. 
 
 Seldom before has a white Southern writer done black folk with so much of sympathy and subtle understanding. Heyward knows Porgy and his fellows; but his very knowledge brings forward the old and ever young criticism: Charleston has 35,000 persons of Negro descent. They include not only pitiful and terrible figures---beggars, drunkards and prostitutes---but self-supporting and self-respecting laborers and servants, artisans and merchants, professional men and housewives. There is a group of educated and well-to-do folk, beautiful in character and face, who look back on generations of freedom and comfort and accomplishment. Out of Charleston for a hundred years has flowed leadership of the colored folk of America and in Charleston still rest men and women who would be a credit to any modern nation. 
 

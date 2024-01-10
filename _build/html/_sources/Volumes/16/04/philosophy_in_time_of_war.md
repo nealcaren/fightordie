@@ -10,7 +10,7 @@ pages:   164-165
 # A Philosophy in Time of War (1918)
 
 ```{margin}
-This is a sequel to the "[Close Ranks](../03/close_ranks.md)", Du Bois's controversial pro-war editorial which ran the month earlier.
+This is a sequel to the "[Close Ranks](../03/close_ranks.md)," Du Bois's controversial pro-war editorial which ran the month earlier.
 ```
 
 FIRST, This is Our Country:

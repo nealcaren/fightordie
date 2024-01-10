@@ -1,5 +1,5 @@
 <!--
-title:   "'Ezekielism'"
+title:   'Ezekielism'
 author:  Du Bois, W.E.B.
 journal: The Crisis
 year:    1911
@@ -8,7 +8,7 @@ issue:   1
 pages:   25
 -->
 
-# "'Ezekielism'" (1911)
+# 'Ezekielism' (1911)
 
 We offer no apology for coining a new long needed English word. We simply pause to acknowledge our indebtedness to Miss Pratt and Miss Ovington and to recommend our readers to know the former's stories and to commit to memory the last chapter of "Half-a-Man."
 
@@ -47,4 +47,4 @@ Then I know that he has a case of "Ezekielism" and I go.
 
 ______________
 
-*Citation:* Du Bois, W.E.B. 1911. ""'Ezekielism'"." *The Crisis*. 3(1):25.
+*Citation:* Du Bois, W.E.B. 1911. "'Ezekielism.'" *The Crisis*. 3(1):25.

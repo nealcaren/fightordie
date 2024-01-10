@@ -16,7 +16,7 @@ earth to get Negroes voluntarily to segregate themselves. They have even
 had the impudence to quote  <span style="font-variant:small-caps;">The Crisis</span> in their own
 defense, when we asserted "the right of any individual of any race or
 color to choose his own marital mate, his own friend, and his own dinner
-companion,---in fine, to be the master of his home". What these real
+companion,---in fine, to be the master of his home." What these real
 estate agents want is not only to be masters of their own homes, but
 also of ours. They may buy property where they please, but we must not
 buy where we please. They claim the right not only to occupy their own

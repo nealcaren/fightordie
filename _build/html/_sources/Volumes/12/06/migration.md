@@ -10,7 +10,7 @@ pages:   270
 # Migration (1916)
 
 It has long been the custom of colored leaders to advise the colored people to stay in the South. This has been supplemented by the startling information on the part of southern whites
-that they are the "best friends of the colored people", etc.
+that they are the "best friends of the colored people," etc.
 
 We might as well face the facts squarely: If there is any colored man in the South who wishes to have his children educated and who wishes to be in close touch with civilization and who has any chance or ghost of a chance of making a living in the North it is his business to get out of the South as soon as possible. He need not seek for reasons for so doing. The same reasons that drive the Jew from Russia, the peasants from Austria, the Armenians from Turkey and the oppressed from tyranny everywhere should drive the colored man out of the land of lynching, lawlessness and industrial oppression.
 
