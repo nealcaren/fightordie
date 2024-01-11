@@ -71,7 +71,7 @@ chapters:
 
 - file: Sections/racialviolence.md
   sections:
-  - file: Sections/lynching.md 
+  - file: Sections/lynching.md
     sections:
     - file: Volumes/02/03/flag.md
     - file: Volumes/02/04/lynching.md
@@ -85,6 +85,7 @@ chapters:
     - file: Volumes/10/04/frank.md
     - file: Volumes/11/05/preparedness.md
     - file: Volumes/11/06/peonage.md
+    - file: Volumes/18/05/signs_from_south.md
     - file: Volumes/12/06/cowardice.md
     - file: Volumes/22/01/anti-lynching_legislation.md
     - file: Volumes/22/04/lynchings.md
