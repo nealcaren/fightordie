@@ -87,7 +87,7 @@ Du Bois is in the second row, second from the right, marching next to James Weld
 <li style="text-indent: -1.5rem;">The Negro has never betrayed the flag, attempted to assassinate the President or any official of this government.        
 <li style="text-indent: -1.5rem;">We have 60,000 iron and steel workers.    
 <li style="text-indent: -1.5rem;">We have 20,000 slaughter and packing house operators.        
-<li style="text-indent: -1.5rem;">No land that loves to lynch 'n&#11834;s' can lead the hosts of Almighty God.    
+<li style="text-indent: -1.5rem;">No land that loves to lynch 'niggers' can lead the hosts of Almighty God.    
 <li style="text-indent: -1.5rem;">Put the spirit of Christ in the making and execution of laws.
 <li style="text-indent: -1.5rem;">Your hands are full of blood.  
 <li style="text-indent: -1.5rem;">Mother, do lynchers go to heaven?       

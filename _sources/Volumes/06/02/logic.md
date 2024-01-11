@@ -23,7 +23,7 @@ Very well, says the compromiser, segregate Negroes in a Ghetto. But, answers the
 
 What then is the next step? Are we not harking right back to slavery? Is there any logical resting place on this downward path between a theory of inferiority and a theory of mob violence and extinction?
 
-No. The man who begins by saying "This man is not entitled to equal rights with me," ends by either himself saying or letting others say "Lynch the N&#11834;."
+No. The man who begins by saying "This man is not entitled to equal rights with me," ends by either himself saying or letting others say "Lynch the Nigger."
 
 The new step which attacks the property of Negroes comes at this time because of the advance of the Negro in economic lines. Let us note this advance in a single State like Virginia with 670,000 Negro inhabitants. The Negroes cultivate 48,114 farms and the value of the farms which they own and rent increased from $24,529,016 in 1900 to $54,748,907 in 1910, or 123 per cent. Or if we would have figures covering simply ownership we find that
 
