@@ -13,7 +13,7 @@ Few  groups of people are forced by their situation into such cruel dilem­mas a
 
 Take, for instance, the question of the intermarrying of white and black folk; it is a question that colored people sel­dom discuss. It is about the last of the social problems over which they are dis­turbed, because they so seldom face it in fact or in theory. Their problems are problems of work and wages, of the right to vote, of the right to travel decently, of the right to frequent places of pub­ lic amusement, of the right to public security.
 
-White people, on the other hand, for the most part profess to see but one prob­lem: "Do you want your sister to marry a N&#11834;?"" Sometimes we are led to wonder if they are lying about their solicitude on this point; and if they are not, we are led to ask why under present laws anybody should be compelled to marry any person whom she does not wish to marry?
+White people, on the other hand, for the most part profess to see but one prob­lem: "Do you want your sister to marry a Nigger?"" Sometimes we are led to wonder if they are lying about their solicitude on this point; and if they are not, we are led to ask why under present laws anybody should be compelled to marry any person whom she does not wish to marry?
 
 This brings us to the crucial question: so far as the present advisability of intermarrying between white and colored people in the United States is concerned, both races are practically in complete agreement. Colored folk marry colored folk and white marry white, and the exceptions are very few.
 

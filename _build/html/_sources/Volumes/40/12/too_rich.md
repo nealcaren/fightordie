@@ -1,5 +1,5 @@
 <!--
-title:   Too Rich to be a N&#11834;
+title:   Too Rich to be a Nigger
 author:  Du Bois, W.E.B.
 journal: The Crisis
 year:    1933
@@ -7,7 +7,7 @@ volume:  40
 issue:   12
 pages:   282-283
 -->
-# Too Rich to be a N&#11834; (1933)
+# Too Rich to be a Nigger (1933)
 
 Forty-odd years ago, when stalwart Young Dendy and slim Martha Duckett were married, their fortune consisted of youth, health and intelligence. They went to housekeeping with cheerful enthusiasm in a one-roomed cabin. Today they live in a spacious home; but the South has robbed them of their gay enthusiasm.
 
@@ -37,13 +37,13 @@ One morning Mr. Dendy received a letter, anonymous and bearing at the top a crud
 
 ![](/Images/dendy.jpg)
 
-"You look good to us," it read.  "If you build a house down there this is what you get you better build your house up where the rest of the dam <span class="keeptogether">n&#11834;s</span> live. You getting too dam rich to be a <span class="keeptogether">n&#11834;</span>. That dam manish boy of yours will die soon."
+"You look good to us," it read.  "If you build a house down there this is what you get you better build your house up where the rest of the dam <span class="keeptogether">niggers</span> live. You getting too dam rich to be a <span class="keeptogether">nigger</span>. That dam manish boy of yours will die soon."
 
 "We are only giving you a warning."
 
-"We want to see a n&#11834; stay in his place."
+"We want to see a nigger stay in his place."
 
-The "manish boy" was Norris. Mr. Dendy went quietly on with his building, watchfully alert. Public sentiment swayed to his side and nothing happened. Only, from that time Norris became an object of persecution. The crowd of boot-legging, petty politicians who were gradually coming to control the town were out to "get" him. The very presence of this self-reliant boy, well-dressed, educated and intelligent, was an affront to the inferior whites. Twice he was framed on a charge of receiving stolen goods. Without evidence he was convicted in the local court and acquitted on appeal. He had a good lawyer, the best, it was said, in the county. Things had come to a pretty pass when a <span class="keeptogether">n&#11834;</span> could hire him a lawyer and win his case in the white man's court. "He's too smart," they grumbled. "His daddy got too much money for a <span class="keeptogether">n&#11834;</span>." They arrested him on other charges and with each acquittal (he never was convicted) their rancor grew.
+The "manish boy" was Norris. Mr. Dendy went quietly on with his building, watchfully alert. Public sentiment swayed to his side and nothing happened. Only, from that time Norris became an object of persecution. The crowd of boot-legging, petty politicians who were gradually coming to control the town were out to "get" him. The very presence of this self-reliant boy, well-dressed, educated and intelligent, was an affront to the inferior whites. Twice he was framed on a charge of receiving stolen goods. Without evidence he was convicted in the local court and acquitted on appeal. He had a good lawyer, the best, it was said, in the county. Things had come to a pretty pass when a <span class="keeptogether">nigger</span> could hire him a lawyer and win his case in the white man's court. "He's too smart," they grumbled. "His daddy got too much money for a <span class="keeptogether">nigger</span>." They arrested him on other charges and with each acquittal (he never was convicted) their rancor grew.
 
 On the fourth of July, 1933, the colored people of Clinton had a picnic at Lake Murray. Norris drove one truck-load of picnickers and Marvin Lollis, a white man, drove another. Late in the afternoon a dispute arose between Norris and the white man on the subject, it is said, of the relative merits of the trucks they were driving. The argument grew heated, culminating in a verbal outburst from Lollis to which Norris replied by striking him on the mouth.
 
@@ -58,4 +58,4 @@ Clinton---white Clinton---has had its revenge: Mr. and Mrs. Dendy, in their spac
 "What was the use?" ponders Mrs. Dendy as she mechanically rocks the baby. Everywhere oppressed Negroes echo, "What *is* the use?"
 
 _________________
-*Citation:* Du Bois, W.E.B. 1933. "Too Rich to be a N&#11834;." *The Crisis*. 40(12):282&ndash;283.
+*Citation:* Du Bois, W.E.B. 1933. "Too Rich to be a Nigger." *The Crisis*. 40(12):282&ndash;283.

@@ -29,7 +29,7 @@ In the meantime, however, Mr. Smuts, himself, supplied a good deal of missing in
 
 Dr. Moton of Tuskegee, who among a half-dozen Negro leaders sat upon the platform, was the only one who had the courage to challenge Smuts then and there. We congratulate him upon the deed.
 
-Smuts explained. He meant nothing derogative. He was complimenting Negroes. That is Smuts all over! Shrewd, wary, insincere, distrusted throughout South Africa by black and white, Boer and Briton, desperately trying to pose in Europe and America as a great Liberal and forever damned by his determination to keep black folk in eternal subjection to white, while salving the fools with fair words. Herzog, his opponent and the present Premier, is at least sincere. He is as narrow in his "N&#11834;" hatred as Smuts, but his narrowness is lack of knowledge and not deliberate and suave hypocrisy. Herzog wants to learn. Smuts will never learn. He knows it all now.
+Smuts explained. He meant nothing derogative. He was complimenting Negroes. That is Smuts all over! Shrewd, wary, insincere, distrusted throughout South Africa by black and white, Boer and Briton, desperately trying to pose in Europe and America as a great Liberal and forever damned by his determination to keep black folk in eternal subjection to white, while salving the fools with fair words. Herzog, his opponent and the present Premier, is at least sincere. He is as narrow in his "Nigger" hatred as Smuts, but his narrowness is lack of knowledge and not deliberate and suave hypocrisy. Herzog wants to learn. Smuts will never learn. He knows it all now.
 
 -----------------
 

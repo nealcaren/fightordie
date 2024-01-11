@@ -68,7 +68,7 @@ Those Republicans who defeated the Dyer Bill, encouraged by the silence and inac
 
 It is doubtful if free government in Western European civilization has descended to such depths as it did in this filibuster of the Democratic party. They did not use argument; they simply, as one journal said, lynched the anti-lynching bill. They brought to the floor of the United States Senate exactly the same methods which the lynchers of Georgia, Louisiana and Texas used at home---brute force. And the Republican party was *particeps criminis* with them. Influential leaders among them  wanted the Democrats to filibuster; they prayed they would filibuster; they asked them to filibuster and agreed to help them. They argued:
 
-"What can the 'n&#11834;s' do but vote for us. Can they vote for the Democrats after this?"
+"What can the 'niggers' do but vote for us. Can they vote for the Democrats after this?"
 
 No, we cannot.
 

@@ -22,7 +22,7 @@ Certain Americans,---Southern Bourbons, and Northern Copperheads---fear Negro so
 
 Selah! 
 
-These Bourbons and Copperheads know that if Negroes fight well in this war they will get credit for it. They cannot "Carrizal" the news and boost the white putty-head who blundered, forgetting the very name of the brave black subalterns. No! those fool French will tell the truth and the Associated Press will not be able to edit "N&#11834;s"; so the Copperheads and Bourbons do not want Negro soldiers. They think they can trust Southern state officers to juggle that little "agricultural laborer joker" and keep us out of the ranks. 
+These Bourbons and Copperheads know that if Negroes fight well in this war they will get credit for it. They cannot "Carrizal" the news and boost the white putty-head who blundered, forgetting the very name of the brave black subalterns. No! those fool French will tell the truth and the Associated Press will not be able to edit "Niggers"; so the Copperheads and Bourbons do not want Negro soldiers. They think they can trust Southern state officers to juggle that little "agricultural laborer joker" and keep us out of the ranks. 
 
 Very good. 
 
