@@ -49,5 +49,6 @@ pages:   59
 <p class = "verse">While I at last unguided and alone
 <p class = "verse">Pass&mdash;softly, full softly.
 </div>
+
 ______________
 *Citation:* Du Bois, W.E.B. 1911. "Joseph Pulitzer." *The Crisis*. 3(2):59.

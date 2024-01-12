@@ -16,20 +16,20 @@ This poem first appeared in a 1907 issue of *The Horizon* and was included as "T
 <p class = "verse">Dark daughter of the lotus leaves that watch the Southern sea,</p>
 <p class = "verse">Wan spirit of a prisoned soul a-panting to be free;</p>
 <p class = "verse indent">The muttered music of thy streams, the whispers of the deep</p>
-<p class = "verse indent"> Have kissed each other in God's name and kissed a world to sleep.</p>
+<p class = "verse indent"> Have kissed each other in God&rsquo;s name and kissed a world to sleep.</p>
 
 <div class="poem">
 </div>
 <p class = "verse">The will of the world is a whistling wind sweeping a cloud-cast sky,
 <p class = "verse">And not from the east and not from the west knelled its soul-searing cry;
-<p class = "verse">But out of the past of the Past's grey past, it yelled from the top of the sky;
+<p class = "verse">But out of the past of the Past&rsquo;s grey past, it yelled from the top of the sky;
 <p class = "verse indent">Crying: Awake, O ancient race! Wailing: O woman arise!
 <p class = "verse indent">And crying and sighing and crying again as a voice in the midnight cries;
 <p class = "verse indent">But the burden of white men bore her back, and the white world stifled her sighs.
 
 <div class="poem">
 </div>
-<p class = "verse">The White World's vermin and filth:
+<p class = "verse">The White World&rsquo;s vermin and filth:
 <p class = "verse indent">All the dirt of London,
 <p class = "verse indent">All the scum of New York;
 <p class = "verse indent">Valiant spoilers of women
@@ -38,7 +38,7 @@ This poem first appeared in a 1907 issue of *The Horizon* and was included as "T
 <p class = "verse indent">Drunk with the greed of gold,
 <p class = "verse indent">Baiting their blood-stained hooks
 <p class = "verse indent">With cant for the souls of the simple,
-<p class = "verse indent">Bearing the White Man's Burden
+<p class = "verse indent">Bearing the White Man&rsquo;s Burden
 <p class = "verse indent">Of Liquor and Lust and Lies!
 <p class = "verse indent">Unthankful we wince in the East,
 <p class = "verse indent">Unthankful we wail from the westward,
@@ -49,14 +49,14 @@ This poem first appeared in a 1907 issue of *The Horizon* and was included as "T
 <p class = "verse big-indent">I hate them, Christ!
 <p class = "verse big-indent">As I hate Hell,
 <p class = "verse big-indent">If I were God
-<p class = "verse big-indent">I'd sound their knell
+<p class = "verse big-indent">I&rsquo;d sound their knell
 <p class = "verse big-indent">This day!
 </div>
 
 <div class="poem">
 <p class = "verse indent">Who raised the fools to their glory
 <p class = "verse indent">But black men of Egypt and Ind?
-<p class = "verse indent">Ethiopia's sons of the evening,
+<p class = "verse indent">Ethiopia&rsquo;s sons of the evening,
 <p class = "verse indent">Chaldeans and Yellow Chinese?
 <p class = "verse indent">The Hebrew children of Morning
 <p class = "verse indent">And mongrels of Rome and Greece?
@@ -78,7 +78,7 @@ This poem first appeared in a 1907 issue of *The Horizon* and was included as "T
 </div>
 
 <div class="poem">
-<p class = "verse">Till the Devil's strength be shorn,
+<p class = "verse">Till the Devil&rsquo;s strength be shorn,
 <p class = "verse">Till some dim, darker David a-hoeing of his corn,
 <p class = "verse">And married maiden, Mother of God,
 <p class = "verse">Bid the Black Christ be born!
@@ -97,7 +97,8 @@ This poem first appeared in a 1907 issue of *The Horizon* and was included as "T
 <p class = "verse">Black mother of the iron hills that guard the blazing sea,
 <p class = "verse">Wild spirit of a storm-swept soul a-struggling to be free,
 <p class = "verse">Where &rsquo;neath the bloody finger marks, thy riven bosom quakes,
-<p class = "verse">Thicken the thunders of God's voice, and lo! a world awakes!
+<p class = "verse">Thicken the thunders of God&rsquo;s voice, and lo! a world awakes!
 </div>
+
 ______________
 *Citation:* Du Bois, W.E.B. 1914. "The Burden of Black Women." *The Crisis*. 9(1):31.
