@@ -244,6 +244,7 @@
 |   1916 |       13 | 2       | [Muddle](https://www.dareyoufight.org/Volumes/13/02/muddle.html)                                                                                                                         |
 |   1916 |       13 | 2       | [Refinement and Love](https://www.dareyoufight.org/Volumes/13/02/refinement_and_love.html)                                                                                               |
 |   1917 |       13 | 3       | [Schools](https://www.dareyoufight.org/Volumes/13/03/schools.html)                                                                                                                       |
+|   1917 |       13 | 4       | [Curtains of Pain](https://www.dareyoufight.org/Volumes/13/04/curtains_of_pain.html)                                                                                                     |
 |   1917 |       13 | 5       | [The Tuskegee Resolutions](https://www.dareyoufight.org/Volumes/13/05/tuskegee_resolutions.html)                                                                                         |
 |   1917 |       13 | 5       | [The Attempted Lynching of Lube Martin: An N.A.A.C.P. Investigation](https://www.dareyoufight.org/Volumes/13/05/attempted_lynching.html)                                                 |
 |   1917 |       13 | 6       | [The Perpetual Dilemma](https://www.dareyoufight.org/Volumes/13/06/perpetual_dilemma.html)                                                                                               |
