@@ -1,4 +1,4 @@
-<!&mdash;
+<!---
 title:   In God's Gardens
 author:  Du Bois, W.E.B.
 journal: The Crisis
@@ -6,7 +6,8 @@ year:    1912
 volume:  3
 issue:   6
 pages:   235
-&mdash;>
+-->
+
 # In God's Gardens (1912)
 
 <div class="poem">
@@ -18,7 +19,7 @@ pages:   235
 
 <div class="poem">
 <p class = "verse">O fair white ily, bowing low,
-<p class = "verse">Above the dream-swept poppy's mouth,
+<p class = "verse">Above the dream-swept poppy&rsquo;s mouth,
 <p class = "verse">Athwart the black and crimson South&mdash;
 <p class = "verse">Why dost thou fear&mdash;why dos thou fear?
 </div>

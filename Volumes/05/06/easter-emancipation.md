@@ -13,7 +13,7 @@ pages:   285-297
 <div class="poem">
 <p class = "verse">I am dead;
 <p class = "verse">Yet somehow, somewhere,
-<p class = "verse">In Time's weird contradiction, I 
+<p class = "verse">In Time&rsquo;s weird contradiction, I 
 <p class = "verse">May tell of that dread deed, wherewith
 <p class = "verse">I brought to Children of the Moon 
 <p class = "verse">Freedom and vast salvation.
@@ -22,8 +22,8 @@ pages:   285-297
 <div class="poem">
 <p class = "verse">I was a woman born
 <p class = "verse">And trod that streaming street
-<p class = "verse">That ebbs and flows from Harlem's hills
-<p class = "verse">Thro' caves and canyons limned in light
+<p class = "verse">That ebbs and flows from Harlem&rsquo;s hills
+<p class = "verse">Thro&rsquo; caves and canyons limned in light
 <p class = "verse">Down to the twisting sea.
 </div>
 
@@ -37,7 +37,7 @@ pages:   285-297
 
 <div class="poem">
 <p class = "verse">Dimly I set foot upon the air;
-<p class = "verse">I fled, I flew, thro' thrills of light,
+<p class = "verse">I fled, I flew, thro&rsquo; thrills of light,
 <p class = "verse">With all about, above, below the whirring
 <p class = "verse">Of almighty wings. I found a twilight land
 <p class = "verse">Where, hardly hid, the sun
@@ -56,11 +56,11 @@ pages:   285-297
 </div>
 
 <div class="poem">
-<p class = "verse"> Woman, woman, woman!"
+<p class = "verse">&ldquo;Woman, woman, woman!&rdquo;
 <p class = "verse">I cried in mounting terror.
-<p class = "verse"> Woman and Child!"
+<p class = "verse">&ldquo;Woman and Child!&rdquo;
 <p class = "verse">And the cry sang back
-<p class = "verse">Thro' Heaven with the
+<p class = "verse">Thro&rsquo; Heaven with the
 <p class = "verse">Whirring of almighty wings.
 </div>
 
@@ -86,8 +86,8 @@ pages:   285-297
 <p class = "verse">Moaning in mournful monotone:
 <p class = "verse indent">O Freedom, O Freedom,
 <p class = "verse indent">O Freedom over me;
-<p class = "verse indent">Before I'll be a slave
-<p class = "verse indent">I'll be buried in my grave
+<p class = "verse indent">Before I&rsquo;ll be a slave
+<p class = "verse indent">I&rsquo;ll be buried in my grave
 <p class = "verse indent">And go home to my God
 <p class = "verse indent">And be free.
 </div>
@@ -147,12 +147,12 @@ pages:   285-297
 
 <div class="poem">
 <p class = "verse">I strode above the stricken bleeding men.
-<p class = "verse">The rampart 'ranged against the skies.
+<p class = "verse">The rampart &rsquo;ranged against the skies.
 <p class = "verse">And shouted:
-<p class = "verse"> Up I say, build and slay;
+<p class = "verse">&ldquo;Up I say, build and slay;
 <p class = "verse">Fight face foremost, force a way,
 <p class = "verse">Unloose, unfetter and unbind;
-<p class = "verse">Be men and free."
+<p class = "verse">Be men and free.&rdquo;
 </div>
 
 <div class="poem">
@@ -160,7 +160,7 @@ pages:   285-297
 <p class = "verse">Muttering they pointed toward that peak
 <p class = "verse">Than vastness vaster,
 <p class = "verse">Whereon a darkness brooded,
-<p class = "verse"> Who shall look and live," they sighed;
+<p class = "verse">&ldquo;Who shall look and live,&rdquo; they sighed;
 <p class = "verse">And I sensed
 <p class = "verse">The folding and unfolding of almighty wings
 </div>
@@ -190,8 +190,8 @@ pages:   285-297
 </div>
 
 <div class="poem">
-<p class = "verse"> Freedom!" I cried.
-<p class = "verse"> Freedom!" cried Heaven, Earth and Stars,
+<p class = "verse">&ldquo;Freedom!&rdquo; I cried.
+<p class = "verse">&ldquo;Freedom!&rdquo; cried Heaven, Earth and Stars,
 <p class = "verse">And a Voice near-far
 <p class = "verse">Amid the folding and unfolding of Almighty wings
 <p class = "verse">Answered "I am Freedom&mdash;
@@ -237,7 +237,7 @@ pages:   285-297
 <p class = "verse">Spreading and sweeping and shading and flaming&mdash;
 <p class = "verse">Wings, wings, eternal wings,
 <p class = "verse">&rsquo;Til the hot red blood Flood fleeing flood,
-<p class = "verse">Thundered thro' Heaven and mine ears
+<p class = "verse">Thundered thro&rsquo; Heaven and mine ears
 <p class = "verse">While all across a purple sky
 <p class = "verse">The last vast pinion
 <p class = "verse">Trembled to unfold.
