@@ -499,6 +499,9 @@ chapters:
   - file: Sections/poetry
     sections:
     - file: Volumes/03/01/quadroon.md
+    - file: Volumes/03/02/joseph_pulitzer.md
+    - file: Volumes/03/06/in-gods-gardens.md
+    - file: Volumes/05/06/easter-emancipation.md
     - file: Volumes/07/03/song_of_smoke.md
     - file: Volumes/09/01/burden_of_black_women.md
     - file: Volumes/09/02/christmas_prayers_of_god.md
