@@ -353,8 +353,10 @@
 |   1920 |       19 | 3       | [Race Pride](https://www.dareyoufight.org/Volumes/19/03/race_pride.html)                                                                                                                 |
 |   1920 |       19 | 3       | [Brothers, Come North](https://www.dareyoufight.org/Volumes/19/03/brothers_come_north.html)                                                                                              |
 |   1920 |       19 | 4       | [Coöperation](https://www.dareyoufight.org/Volumes/19/04/cooperation.html)                                                                                                               |
+|   1920 |       19 | 4       | [Leadership](https://www.dareyoufight.org/Volumes/19/04/leadership.html)                                                                                                                 |
 |   1920 |       19 | 4       | [Crime](https://www.dareyoufight.org/Volumes/19/04/crime.html)                                                                                                                           |
 |   1920 |       19 | 5       | [Again, Social Equality](https://www.dareyoufight.org/Volumes/19/05/again_social_equality.html)                                                                                          |
+|   1920 |       19 | 5       | [Information Wanted](https://www.dareyoufight.org/Volumes/19/05/information_wanted.html)                                                                                                 |
 |   1920 |       19 | 5       | [Woman Suffrage](https://www.dareyoufight.org/Volumes/19/05/woman_suffrage.html)                                                                                                         |
 |   1920 |       19 | 5       | [Dives, Mob, and Scab](https://www.dareyoufight.org/Volumes/19/05/dives.html)                                                                                                            |
 |   1920 |       19 | 5       | [Just Like---Folks](https://www.dareyoufight.org/Volumes/19/05/just_like_folks.html)                                                                                                     |
@@ -367,6 +369,7 @@
 |   1920 |       20 | 1       | [Get Ready](https://www.dareyoufight.org/Volumes/20/01/get_ready.html)                                                                                                                   |
 |   1920 |       20 | 1       | [White Co-Workers](https://www.dareyoufight.org/Volumes/20/01/white_coworkers.html)                                                                                                      |
 |   1920 |       20 | 3       | [Race Intelligence](https://www.dareyoufight.org/Volumes/20/03/race_intelligence.html)                                                                                                   |
+|   1920 |       20 | 3       | [Latin](https://www.dareyoufight.org/Volumes/20/03/latin.html)                                                                                                                           |
 |   1920 |       20 | 5       | [How Shall We Vote](https://www.dareyoufight.org/Volumes/20/05/how_shall_we_vote.html)                                                                                                   |
 |   1920 |       20 | 5       | [The Rise of the West Indian](https://www.dareyoufight.org/Volumes/20/05/rise_of_the_west_indian.html)                                                                                   |
 |   1920 |       20 | 6       | [In Black](https://www.dareyoufight.org/Volumes/20/06/in_black.html)                                                                                                                     |
