@@ -371,6 +371,8 @@
 |   1920 |       20 | 3       | [Race Intelligence](https://www.dareyoufight.org/Volumes/20/03/race_intelligence.html)                                                                                                   |
 |   1920 |       20 | 3       | [Latin](https://www.dareyoufight.org/Volumes/20/03/latin.html)                                                                                                                           |
 |   1920 |       20 | 5       | [How Shall We Vote](https://www.dareyoufight.org/Volumes/20/05/how_shall_we_vote.html)                                                                                                   |
+|   1920 |       20 | 5       | [Forward](https://www.dareyoufight.org/Volumes/20/05/forward.html)                                                                                                                       |
+|   1920 |       20 | 5       | [Murder Will Out](https://www.dareyoufight.org/Volumes/20/05/murder_will_out.html)                                                                                                       |
 |   1920 |       20 | 5       | [The Rise of the West Indian](https://www.dareyoufight.org/Volumes/20/05/rise_of_the_west_indian.html)                                                                                   |
 |   1920 |       20 | 6       | [In Black](https://www.dareyoufight.org/Volumes/20/06/in_black.html)                                                                                                                     |
 |   1920 |       21 | 1       | [The Social Equality of Whites and Blacks](https://www.dareyoufight.org/Volumes/21/01/social_equality_of_blacks_and_whites.html)                                                         |
