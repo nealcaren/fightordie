@@ -129,7 +129,7 @@ pages:   285-297
 <p class = "verse">I bent with tears and pitying hands
 <p class = "verse">Above these dusky star-eyed children.
 <p class = "verse">Crinkly haired, with sweet-sad baby voices
-<p class = "verse">Pleading low for light and love and living--- And I crooned
+<p class = "verse">Pleading low for light and love and living&mdash; And I crooned
 </div>
 
 <div class="poem">
@@ -140,7 +140,7 @@ pages:   285-297
 <p class = "verse indent">For the tripping of thy feet
 <p class = "verse indent">Make a mystic music sweet
 <p class = "verse indent">In the darkness of thy hair;
-<p class = "verse indent">Light and laughter in the air---
+<p class = "verse indent">Light and laughter in the air&mdash;
 <p class = "verse indent">Little children weeping there.
 <p class = "verse indent">God shall find thy faces fair!
 </div>
@@ -194,15 +194,15 @@ pages:   285-297
 <p class = "verse"> Freedom!" cried Heaven, Earth and Stars,
 <p class = "verse">And a Voice near-far
 <p class = "verse">Amid the folding and unfolding of Almighty wings
-<p class = "verse">Answered "I am Freedom---
-<p class = "verse">Who sees my face is free---
+<p class = "verse">Answered "I am Freedom&mdash;
+<p class = "verse">Who sees my face is free&mdash;
 <p class = "verse">He and his."
 </div>
 
 <div class="poem">
 <p class = "verse">I dared not look;
 <p class = "verse">Downward I glanced on deep bowed heads and closed eyes,
-<p class = "verse">Outward I gazed on flecked and flaming blue---
+<p class = "verse">Outward I gazed on flecked and flaming blue&mdash;
 <p class = "verse">But ever onward, upward flew
 <p class = "verse">The sobbing of small voices;
 <p class = "verse">Down, down, far down into the night.
@@ -215,7 +215,7 @@ pages:   285-297
 <p class = "verse">Onward I reeled:
 <p class = "verse">The Face, the Face!
 <p class = "verse">To Beauty wonderful as sudden death
-<p class = "verse">Or horror horrible as endless life---
+<p class = "verse">Or horror horrible as endless life&mdash;
 <p class = "verse">Up! Up! the blood-built way
 <p class = "verse">(Shadow grow vaster!
 <p class = "verse">Terror come faster!)
@@ -225,8 +225,8 @@ pages:   285-297
 <p class = "verse">Rolling and unrolling of Almighty wings:
 <p class = "verse">The last step stood!
 <p class = "verse">The last dim cry of pain
-<p class = "verse">Fluttered across the stars---
-<p class = "verse">And then---
+<p class = "verse">Fluttered across the stars&mdash;
+<p class = "verse">And then&mdash;
 </div>
 
 <div class="poem">
@@ -234,7 +234,7 @@ pages:   285-297
 <p class = "verse">Lifting and lowering, waxing and waning,
 <p class = "verse">Swinging and swaying, twirling and whirling,
 <p class = "verse">Whispering and screaming, streaming and gleaming,
-<p class = "verse">Spreading and sweeping and shading and flaming---
+<p class = "verse">Spreading and sweeping and shading and flaming&mdash;
 <p class = "verse">Wings, wings, eternal wings,
 <p class = "verse">&rsquo;Til the hot red blood Flood fleeing flood,
 <p class = "verse">Thundered thro' Heaven and mine ears
@@ -247,7 +247,7 @@ pages:   285-297
 <p class = "verse">I rose upon the Mountain of the Moon;
 <p class = "verse">I felt the blazing glory of the Sun.
 <p class = "verse">I heard the Song of Children crying "Free!"
-<p class = "verse">I saw the Face of Freedom---
+<p class = "verse">I saw the Face of Freedom&mdash;
 <p class = "verse">And I died.
 </div>
 
