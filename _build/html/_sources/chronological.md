@@ -381,6 +381,8 @@
 |   1920 |       21 | 2       | [Marcus Garvey](https://www.dareyoufight.org/Volumes/21/02/garvey.html)                                                                                                                  |
 |   1921 |       21 | 3       | [Marcus Garvey](https://www.dareyoufight.org/Volumes/21/03/marcus_garvey.html)                                                                                                           |
 |   1921 |       21 | 3       | [Election Day in Florida](https://www.dareyoufight.org/Volumes/21/03/election_day.html)                                                                                                  |
+|   1921 |       21 | 5       | [The Woman Voter](https://www.dareyoufight.org/Volumes/21/05/woman_voter.html)                                                                                                           |
+|   1921 |       21 | 5       | [A Quarter Million](https://www.dareyoufight.org/Volumes/21/05/a_quarter_million.html)                                                                                                   |
 |   1921 |       21 | 5       | [A Correction](https://www.dareyoufight.org/Volumes/21/05/correction.html)                                                                                                               |
 |   1921 |       22 | 2       | [Negro Art](https://www.dareyoufight.org/Volumes/22/02/negro_art.html)                                                                                                                   |
 |   1921 |       22 | 3       | [Amity](https://www.dareyoufight.org/Volumes/22/03/amity.html)                                                                                                                           |

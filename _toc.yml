@@ -256,6 +256,7 @@ chapters:
     - file: Volumes/19/05/woman_suffrage.md
     - file: Volumes/20/01/get_ready.md
     - file: Volumes/21/01/suffrage.md
+    - file: Volumes/21/05/woman_voter.md
 
 - file: Sections/strategy
   sections:
@@ -311,6 +312,7 @@ chapters:
     - file: Volumes/15/03/efficiency.md
     - file: Volumes/20/01/white_coworkers.md
     - file: Volumes/20/05/forward.md
+    - file: Volumes/21/05/a_quarter_million.md
     - file: Volumes/22/05/boards.md
     - file: Volumes/28/03/unity.md
     - file: Volumes/30/01/new_crisis.md
