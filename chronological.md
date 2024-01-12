@@ -370,6 +370,7 @@
 |   1920 |       20 | 1       | [White Co-Workers](https://www.dareyoufight.org/Volumes/20/01/white_coworkers.html)                                                                                                      |
 |   1920 |       20 | 3       | [Race Intelligence](https://www.dareyoufight.org/Volumes/20/03/race_intelligence.html)                                                                                                   |
 |   1920 |       20 | 3       | [Latin](https://www.dareyoufight.org/Volumes/20/03/latin.html)                                                                                                                           |
+|   1920 |       20 | 4       | [Clothes](https://www.dareyoufight.org/Volumes/20/04/clothes.html)                                                                                                                       |
 |   1920 |       20 | 5       | [How Shall We Vote](https://www.dareyoufight.org/Volumes/20/05/how_shall_we_vote.html)                                                                                                   |
 |   1920 |       20 | 5       | [Forward](https://www.dareyoufight.org/Volumes/20/05/forward.html)                                                                                                                       |
 |   1920 |       20 | 5       | [Murder Will Out](https://www.dareyoufight.org/Volumes/20/05/murder_will_out.html)                                                                                                       |
