@@ -63,6 +63,7 @@
 |   1911 |        3 | 2       | [The Sin Against the Holy Ghost](https://www.dareyoufight.org/Volumes/03/02/sin.html)                                                                                                    |
 |   1911 |        3 | 2       | [Christmas Gift](https://www.dareyoufight.org/Volumes/03/02/christmas_gift.html)                                                                                                         |
 |   1911 |        3 | 2       | [Jesus Christ in Georgia](https://www.dareyoufight.org/Volumes/03/02/jesus_christ.html)                                                                                                  |
+|   1911 |        3 | 2       | [Joseph Pulitzer](https://www.dareyoufight.org/Volumes/03/02/joseph_pulitzer.html)                                                                                                       |
 |   1911 |        3 | 2       | [The Cost of Education](https://www.dareyoufight.org/Volumes/03/02/cost_of_education.html)                                                                                               |
 |   1912 |        3 | 3       | [Crime and Lynching](https://www.dareyoufight.org/Volumes/03/03/crime_and_lynching.html)                                                                                                 |
 |   1912 |        3 | 3       | [A Mild Suggestion](https://www.dareyoufight.org/Volumes/03/03/mild_suggestion.html)                                                                                                     |
@@ -72,8 +73,9 @@
 |   1912 |        3 | 4       | [The Durbar](https://www.dareyoufight.org/Volumes/03/04/durbar.html)                                                                                                                     |
 |   1912 |        3 | 5       | [Divine Right](https://www.dareyoufight.org/Volumes/03/05/divine_right.html)                                                                                                             |
 |   1912 |        3 | 5       | [Homes](https://www.dareyoufight.org/Volumes/03/05/homes.html)                                                                                                                           |
-|   1912 |        3 | 5       | [The Servant in the South](https://www.dareyoufight.org/Volumes/03/06/servant_in_the_south.html)                                                                                         |
 |   1912 |        3 | 5       | [Lee](https://www.dareyoufight.org/Volumes/03/05/lee.html)                                                                                                                               |
+|   1912 |        3 | 6       | [The Servant in the South](https://www.dareyoufight.org/Volumes/03/06/servant_in_the_south.html)                                                                                         |
+|   1912 |        3 | 6       | [In God's Gardens](https://www.dareyoufight.org/Volumes/03/06/in-gods-gardens.html)                                                                                                      |
 |   1912 |        4 | 1       | [The Negro Church](https://www.dareyoufight.org/Volumes/04/01/negro_church.html)                                                                                                         |
 |   1912 |        4 | 2       | [Decency](https://www.dareyoufight.org/Volumes/04/02/decency.html)                                                                                                                       |
 |   1912 |        4 | 2       | [Suffering Suffragettes](https://www.dareyoufight.org/Volumes/04/02/suffering_suffragettes.html)                                                                                         |
@@ -110,6 +112,7 @@
 |   1913 |        5 | 6       | [The Hurt Hound](https://www.dareyoufight.org/Volumes/05/06/hurt_hound.html)                                                                                                             |
 |   1913 |        5 | 6       | [The "Jim Crow" Argument](https://www.dareyoufight.org/Volumes/05/06/jim_crow_argument.html)                                                                                             |
 |   1913 |        5 | 6       | [Hail Columbia](https://www.dareyoufight.org/Volumes/05/06/hail_columbia.html)                                                                                                           |
+|   1913 |        5 | 6       | [Easter-Emancipation 1863-1913](https://www.dareyoufight.org/Volumes/05/06/easter-emancipation.html)                                                                                     |
 |   1913 |        6 | 1       | [Woman's Suffrage](https://www.dareyoufight.org/Volumes/06/01/womans_suffrage.html)                                                                                                      |
 |   1913 |        6 | 1       | [The Vigilance Committee: A Call To Arms](https://www.dareyoufight.org/Volumes/06/01/vigilance_committee.html)                                                                           |
 |   1913 |        6 | 1       | [Peace](https://www.dareyoufight.org/Volumes/06/01/peace.html)                                                                                                                           |

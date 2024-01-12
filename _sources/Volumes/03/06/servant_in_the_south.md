@@ -4,7 +4,7 @@ author:  Du Bois, W.E.B.
 journal: The Crisis
 year:    1912
 volume:  3
-issue:   5
+issue:   6
 pages:   200-201
 -->
 # The Servant in the South (1912)
@@ -33,4 +33,4 @@ If the South or the North wants de­cent domestic service it must
 The people that are unwilling to do this will find the "servant problem" always with them, even though they nickname it a "Negro" problem.
 
 _________________
-*Citation:* Du Bois, W.E.B. 1912. "The Servant in the South." *The Crisis*. 3(5):200&ndash;201.
+*Citation:* Du Bois, W.E.B. 1912. "The Servant in the South." *The Crisis*. 3(6):200&ndash;201.
