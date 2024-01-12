@@ -13,13 +13,13 @@ pages:   59
 [The blind editor of the New York World died October 29, 1911, murmuring in German, "Leise, ganz leise!" His paper always treated  black folk fairly, in market contrast to most New York dailies.]
 
 <div class="poem">
-<p class = "verse">Softly, quite softly---
+<p class = "verse">Softly, quite softly&mdash;
 <p class = "verse">For I hear, above the murmur of the sea,
 <p class = "verse">Faint and far-fallen footsteps, as of One
 <p class = "verse">Who comes from out beyond the endless ends of Time,
 <p class = "verse">With voice that downwar d looms thro' singing stars;
-<p class = "verse">Its subtle sound I see thro' these long - darkened eyes,
-<p class = "verse">I hear the Light He bringeth on his hands---
+<p class = "verse">Its subtle sound I see thro' these long-darkened eyes,
+<p class = "verse">I hear the Light He bringeth on his hands&mdash;
 <p class = "verse">Almight  Death! Softly, oh, softly, lest he pass me by,
 <p class = "verse">And that unquivering Light toward which my longing soul
 <p class = "verse">And tortured body through these years have writhed,
@@ -43,11 +43,11 @@ pages:   59
 <p class = "verse">Then I may know what things I have not known;
 <p class = "verse">Then may I do my dreams!
 <p class = "verse">Farewell! No sound of idle mourning let there be
-<p class = "verse">To shudder this full silence---save the voice
-<p class = "verse">Of children---little children, white and black,
+<p class = "verse">To shudder this full silence&mdash;save the voice
+<p class = "verse">Of children&mdash;little children, white and black,
 <p class = "verse">Whispering the deeds I tried to do for them;
 <p class = "verse">While I at last unguided and alone
-<p class = "verse">Pass---softly, full softly.
+<p class = "verse">Pass&mdash;softly, full softly.
 </div>
 ______________
 *Citation:* Du Bois, W.E.B. 1911. "Joseph Pulitzer." *The Crisis*. 3(2):59.
