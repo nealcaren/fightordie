@@ -98,6 +98,7 @@
 |   1912 |        4 | 6       | [Vital Statistics](https://www.dareyoufight.org/Volumes/04/06/vital_statistics.html)                                                                                                     |
 |   1912 |        5 | 1       | [The Last Word in Politics](https://www.dareyoufight.org/Volumes/05/01/last_word_in_politics.html)                                                                                       |
 |   1912 |        5 | 1       | [The Second Birthday](https://www.dareyoufight.org/Volumes/05/01/second_birthday.html)                                                                                                   |
+|   1912 |        5 | 1       | [The Colored Magazine in America](https://www.dareyoufight.org/Volumes/05/01/colored-magazine.html)                                                                                      |
 |   1912 |        5 | 2       | [The Black Mother](https://www.dareyoufight.org/Volumes/05/02/black_mother.html)                                                                                                         |
 |   1912 |        5 | 2       | [The Election](https://www.dareyoufight.org/Volumes/05/02/the_election.html)                                                                                                             |
 |   1912 |        5 | 2       | [The Odd Fellows](https://www.dareyoufight.org/Volumes/05/02/odd_fellows.html)                                                                                                           |

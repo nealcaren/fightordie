@@ -5,7 +5,7 @@ journal: The Crisis
 year:    1912
 volume:  5
 issue:   1
-pages:   27--28
+pages:   27-28
 -->
 
 # The Second Birthday (1912)
