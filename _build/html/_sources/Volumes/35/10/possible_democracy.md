@@ -18,7 +18,7 @@ In the September <span style="font-variant:small-caps;">Crisis</span> I showed h
 
 It might be assumed that the practical disfranchisement of the great majority of Negroes chiefly by race and not by condition had no effect upon the state and nation, but simply upon them: but the singular thing is, and the point which this paper is seeking to emphasize, that this disfranchisement of the Negro has had an astonishing effect on the voting of other persons in the states concerned and in the whole nation so far as the mass of voters is concerned.
 
-![](/Images/disfranchisement_in_the_south.jpg) 
+![](/Images/disfranchisement_in_the_south.png) 
 
 First, in the Southern states it encourages oligarchy. Secondly, it enables cliques to nullify, not simply the 14th and 15th Amendments, but the 19th Amendment, giving the right vote to women, And finally, it entirely vitiates the normal distribution of voting power throughout the nation and makes a third party impossible. Let us take these points up in order. 
 

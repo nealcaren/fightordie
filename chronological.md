@@ -205,6 +205,7 @@
 |   1915 |        9 | 4       | [Suffrage and Women](https://www.dareyoufight.org/Volumes/09/04/suffrage_women.html)                                                                                                     |
 |   1915 |        9 | 4       | [The President](https://www.dareyoufight.org/Volumes/09/04/president.html)                                                                                                               |
 |   1915 |        9 | 5       | [Organization](https://www.dareyoufight.org/Volumes/09/05/organization.html)                                                                                                             |
+|   1915 |        9 | 5       | [An Old Folks' Home](https://www.dareyoufight.org/Volumes/09/05/old-folks-home.html)                                                                                                     |
 |   1915 |        9 | 5       | [The White Christ](https://www.dareyoufight.org/Volumes/09/05/the_white_christ.html)                                                                                                     |
 |   1915 |        9 | 6       | [Woman Suffrage](https://www.dareyoufight.org/Volumes/09/06/womansuffrage.html)                                                                                                          |
 |   1915 |        9 | 6       | [The Immediate Program of the  American Negro](https://www.dareyoufight.org/Volumes/09/06/immediate_program.html)                                                                        |
@@ -409,6 +410,7 @@
 |   1922 |       22 | 1       | [Anti-Lynching Legislation](https://www.dareyoufight.org/Volumes/22/01/anti-lynching_legislation.html)                                                                                   |
 |   1922 |       22 | 1       | [The Drive](https://www.dareyoufight.org/Volumes/22/01/drive.html)                                                                                                                       |
 |   1922 |       22 | 1       | [Inter-Racial Comity](https://www.dareyoufight.org/Volumes/22/01/inter-racial_comity.html)                                                                                               |
+|   1922 |       24 | 1       | [Social Equality](https://www.dareyoufight.org/Volumes/24/01/social-equality.html)                                                                                                       |
 |   1922 |       24 | 1       | [Slavery](https://www.dareyoufight.org/Volumes/24/01/slavery.html)                                                                                                                       |
 |   1922 |       24 | 1       | [Publicity](https://www.dareyoufight.org/Volumes/24/01/publicity.html)                                                                                                                   |
 |   1922 |       24 | 1       | [Art for Nothing](https://www.dareyoufight.org/Volumes/24/01/art_for_nothing.html)                                                                                                       |
