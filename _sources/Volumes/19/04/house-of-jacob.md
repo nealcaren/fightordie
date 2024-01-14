@@ -1,0 +1,70 @@
+<!--
+title:   The House of Jacob
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1920
+volume:  19
+issue:   4
+pages:   171
+-->
+
+# The House of Jacob (1920)
+
+Where is the chief seat of lawlessness in this land?
+
+*The South.*
+
+Where is the highest murder rate in the land and the fewest convictions?
+
+*In the South.*
+
+Where is education at its lowest ebb, school terms shortest, teachers' wages lowest, school children fewest?
+
+*In the South.*
+
+Where is the percentage of child labor highest and the "age of consent" lowest?
+
+*In the South.*
+
+Who has defied the Constitution of the United States, the statutes of their own states, and the decalogue?
+
+*The South.*
+
+Who has disfranchised its citizens wholesale, and for fifty years lynched, burned, and tortured them?
+
+*The South.*
+
+Who holds forty-two "rotten borough" seats in Congress, stolen from black men, and uses them to defeat the will of the voters of the land?
+
+*The South.*
+
+Who elects the President of the United States, in defiance of the number of votes cast?
+
+*The South.*
+
+Who hates racial amalgamation so bitterly that it has raised three million mulattoes?
+
+*The South.*
+
+Who is leading the fight in Congress to stop "lawlessness" and "sedition"?
+
+*Southerners.*
+
+What do they really want to stop?
+
+*Criticism of the South.*
+
+Who has a body of intelligent, just, men who know that these things are wrong and foul and that they must be righted?
+
+*The South.*
+
+Where are these men when they are needed for action?
+
+*God knows!*
+
+What are YOU going to do about it?
+
+*"Cry aloud and spare not, lift up thy voice like a trumpet, and shew my people their transgression and the House of Jacob their sins."*
+
+______________
+*Citation:* Du Bois, W.E.B. 1920. "The House of Jacob." *The Crisis*. 19(4):171.

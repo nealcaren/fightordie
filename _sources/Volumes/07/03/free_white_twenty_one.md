@@ -37,7 +37,7 @@ But do you realize that the one certain way to insure a future mulatto
 world is to despise black folk? Do you realize that if you make this
 world a hell for Africans and Chinese and Malays that
 the result will be the rapid disappearance of race differentiation and
-that, too, largely and predominantly by amalgamation ?
+that, too, largely and predominantly by amalgamation?
 
 If then you want to preserve the special characteristics of white
 peoples, make it possible for darker peoples to preserve their racial
@@ -48,7 +48,7 @@ can. Or if you are really wise you know what a farce voting is in this
 land. Why? Because a Southern voter has from twice to seven times the
 power of a Northern voter and South Carolina far outweighs Illinois in
 political significance. Because political democracy cannot be linked
-with industrial despotism, else the result is the , rule of the rich.
+with industrial despotism, else the result is the rule of the rich.
 Now industrial despotism is founded on slavery and peonage, rack rent
 and low wages. Negroes were slaves, they are peons, they are rack rented
 and receive less than can support them in decency. Against them white

@@ -39,7 +39,7 @@ and business men, become acquainted with modern philanthropic effort.
 This was not done. On the contrary, at the peremptory demand of the
 local white committee all Negroes were segregated in the gallery and, as
 a result, not a dozen Negroes attended the week's sessions of this
-mighty conference. How could they and retain their self-respect ?
+mighty conference. How could they and retain their self-respect?
 
 It is doubtless the courteous and proper thing for the National
 Conference to defer, in many things, to the wish and opinion of the

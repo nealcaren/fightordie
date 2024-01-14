@@ -28,7 +28,7 @@ First: To conserve and select ability, giving to their best minds higher college
 
 Second: They should endeavor to give all their children the largest possible amount of general training and intelligence before teaching them the technique of a particular trade, remembering that the object of all true education is not to make men carpenters, but to make carpenters men. 
 
-Is not this reasoning sound? Could you imagine an educator of any experience who would take material exception to it? Would you call it revolutionary or in the nature of a "personal" attack ? 
+Is not this reasoning sound? Could you imagine an educator of any experience who would take material exception to it? Would you call it revolutionary or in the nature of a "personal" attack? 
 
 Certainly not. 
 
@@ -38,7 +38,7 @@ A leading white philanthropist of abolition forbears considered it not only "mis
 
 The supervisor of the colored schools of Indianapolis wrote to express regret that the lecture had seemed to attack his school curriculum and ideals, and the assistant superintendent of schools in the District of Columbia hastens to give advice! 
 
-Yet where is the flaw in the argument ? 
+Yet where is the flaw in the argument? 
 
 There is no flaw, but there are serious flaws in the thinking of some of these critics. 
 

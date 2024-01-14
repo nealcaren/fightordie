@@ -247,6 +247,7 @@
 |   1916 |       13 | 2       | [Refinement and Love](https://www.dareyoufight.org/Volumes/13/02/refinement_and_love.html)                                                                                               |
 |   1917 |       13 | 3       | [Schools](https://www.dareyoufight.org/Volumes/13/03/schools.html)                                                                                                                       |
 |   1917 |       13 | 4       | [Curtains of Pain](https://www.dareyoufight.org/Volumes/13/04/curtains_of_pain.html)                                                                                                     |
+|   1917 |       13 | 5       | [Civilization in the South](https://www.dareyoufight.org/Volumes/13/05/civilization_in_south.html)                                                                                       |
 |   1917 |       13 | 5       | [The Tuskegee Resolutions](https://www.dareyoufight.org/Volumes/13/05/tuskegee_resolutions.html)                                                                                         |
 |   1917 |       13 | 5       | [The Attempted Lynching of Lube Martin: An N.A.A.C.P. Investigation](https://www.dareyoufight.org/Volumes/13/05/attempted_lynching.html)                                                 |
 |   1917 |       13 | 6       | [The Perpetual Dilemma](https://www.dareyoufight.org/Volumes/13/06/perpetual_dilemma.html)                                                                                               |
@@ -356,6 +357,7 @@
 |   1920 |       19 | 3       | [Race Pride](https://www.dareyoufight.org/Volumes/19/03/race_pride.html)                                                                                                                 |
 |   1920 |       19 | 3       | [Brothers, Come North](https://www.dareyoufight.org/Volumes/19/03/brothers_come_north.html)                                                                                              |
 |   1920 |       19 | 4       | [The Unfortunate South](https://www.dareyoufight.org/Volumes/19/04/unfortunate_south.html)                                                                                               |
+|   1920 |       19 | 4       | [The House of Jacob](https://www.dareyoufight.org/Volumes/19/04/house-of-jacob.html)                                                                                                     |
 |   1920 |       19 | 4       | [Arkansas](https://www.dareyoufight.org/Volumes/19/04/arkansas.html)                                                                                                                     |
 |   1920 |       19 | 4       | [A Matter of Manners](https://www.dareyoufight.org/Volumes/19/04/matter-of-manners.html)                                                                                                 |
 |   1920 |       19 | 4       | [Danger](https://www.dareyoufight.org/Volumes/19/04/danger.html)                                                                                                                         |
