@@ -357,6 +357,7 @@
 |   1920 |       19 | 3       | [Brothers, Come North](https://www.dareyoufight.org/Volumes/19/03/brothers_come_north.html)                                                                                              |
 |   1920 |       19 | 4       | [The Unfortunate South](https://www.dareyoufight.org/Volumes/19/04/unfortunate_south.html)                                                                                               |
 |   1920 |       19 | 4       | [Arkansas](https://www.dareyoufight.org/Volumes/19/04/arkansas.html)                                                                                                                     |
+|   1920 |       19 | 4       | [A Matter of Manners](https://www.dareyoufight.org/Volumes/19/04/matter-of-manners.html)                                                                                                 |
 |   1920 |       19 | 4       | [Danger](https://www.dareyoufight.org/Volumes/19/04/danger.html)                                                                                                                         |
 |   1920 |       19 | 4       | [Coöperation](https://www.dareyoufight.org/Volumes/19/04/cooperation.html)                                                                                                               |
 |   1920 |       19 | 4       | [Leadership](https://www.dareyoufight.org/Volumes/19/04/leadership.html)                                                                                                                 |
