@@ -219,7 +219,7 @@ pages:   285-297
 <p class = "verse">Up! Up! the blood-built way
 <p class = "verse">(Shadow grow vaster!
 <p class = "verse">Terror come faster!)
-<p class = "verse">Up ! Up to the blazing blackness
+<p class = "verse">Up! Up to the blazing blackness
 <p class = "verse">Of one veiled face
 <p class = "verse">And endless folding and unfolding,
 <p class = "verse">Rolling and unrolling of Almighty wings:

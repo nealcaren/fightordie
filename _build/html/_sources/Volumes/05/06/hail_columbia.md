@@ -41,7 +41,7 @@ was hurled.
 > To the white-haired women the men shouted continuously: 'Granny!
 granny! We came to see chickens, not hens! Go home and sit in the
 corner!' To the younger women they yelled: 'Say, what you going to do
-to-night? Can't we make a date ?' and the police only smiled. The
+to-night? Can't we make a date?' and the police only smiled. The
 rowdies jumped on the running boards of the automobiles and snatched the
 flags from the elderly women, and they attempted to pull the girls from
 the floats.

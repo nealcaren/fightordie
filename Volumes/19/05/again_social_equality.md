@@ -31,7 +31,7 @@ Mr. Paleface raised a deprecating finger, 'Not social equality," he murmured,---
 
 "Sir, we want to vote." 
 
-"Ah! That is difficult---difficult. You see, voting has come to have a new significance. We used to confine our votes to politics, but now---bless me !---we are voting religion, work, social-reform, landscape-gardening, and art. Then, too, women are in politics ---you see---well, I'm sure you sense the difficulties. Moreover, what is voting? A mere form---the making and execution of the laws is the thing, and there I promise you that I&#11834;" 
+"Ah! That is difficult---difficult. You see, voting has come to have a new significance. We used to confine our votes to politics, but now---bless me!---we are voting religion, work, social-reform, landscape-gardening, and art. Then, too, women are in politics ---you see---well, I'm sure you sense the difficulties. Moreover, what is voting? A mere form---the making and execution of the laws is the thing, and there I promise you that I&#11834;" 
 
 "Well, then; we would help in carrying out the laws." 
 

@@ -13,7 +13,7 @@ pages:   289-290
 Come, all my father's children, and sit beside my knee, here with this
 child of mine, and listen:
 
-Have you ever seen a soldier? It is a brave sight, is it not ? Once upon
+Have you ever seen a soldier? It is a brave sight, is it not? Once upon
 a time, many, many years before your dear little curly heads were born,
 I remember seeing an army that marched because a King was visiting an
 Emperor. Berlin was joy mad. Houses streamed with color and music reeled
@@ -125,7 +125,7 @@ Look yonder! In the gloomy forest all is still, save here a red and
 flickering flame and there a last trembling sob. Only one living thing
 passes across the night: a horse---a gaunt, sweating horse, with bloody
 nostrils, great pain-struck eyes, and bowels trailing on the earth. He
-hears his Emperor bugling "Victory !" to the King. Turning he staggers
+hears his Emperor bugling "Victory!" to the King. Turning he staggers
 toward him and whimpers as he goes.
 
 ______________

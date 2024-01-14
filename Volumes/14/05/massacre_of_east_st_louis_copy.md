@@ -23,7 +23,7 @@ East St. Louis is a great industrial center, possessing huge packing and manufac
 
  The leader of a labor union must be an opportunist. The psychology of any unskilled laborer is comparatively simple. To the knowledge then that his job is being held by an outsider add his natural and fostered prejudice against an outsider who is black and you have something of the mental attitude of the rioters of East St. Louis. Doubtless it was with some such prophetic vision as this that Edward F. Mason, secretary of the Central Trades and Labor Union, issued a letter, the facsimile of which appears on the opposite page.
 
- ![](../../../Images/mesl_2.jpg)
+![](../../../Images/mesl_2.jpg)
 
 One point in particular is emphasized, that of color: "The Southern Negro," writes Mr. Mason, "has come into our community. No less than ten thousand of undesirable Negroes," he continues, "have poured in and are being used to the detriment of our white citizens." There is the appeal direct to prejudice. It is not that foreigners---Czechs, Slovaks, Lithuanians---or whatever ethnic division is least indigenous to East St. Louis---it is not that they are ousting Americans of any color or hue, but the "Southern Negro," the most American product there is, is being used "to the detriment of our white citizens."
 

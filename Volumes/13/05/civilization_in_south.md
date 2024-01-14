@@ -1,0 +1,25 @@
+<!--
+title:   Civilization in the South
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1917
+volume:  13
+issue:   5
+pages:   215-216
+-->
+
+# Civilization in the South (1917)
+
+An interesting exchange of letters has appeared in the New York *Nation* in which a Canadian has taken the South severely to task for lynching and for its pretended excuses for lynching. A Texan has hotly replied that the culture of the South must not be accused of dishonesty nor made responsible for southern barbarities. To which the Canadian replies: "If editors, preachers, lawyers, teachers, indeed, all the professional classes, and all business men of consequence, are as genuinely indignant as your correspondent supposes, the influence of these persons must be painfully small. And unfortunately it is the common man who counts. It is he who determines the selection of a governor. It is he whose pressure upon the administration decides whether or not the majesty of the law shall be protected. It is he who pours petroleum upon the body of an unpopular Negro. And the whole point of my contention was that the common man of Georgia or Texas has a very different feeling towards the lyncher from that of common men elsewhere."
+
+This brings out the real dilemma of those who would interpret the present South. Is the South a land of barbarism leavened with culture, or a land of culture leavened with barbarism? If we accept the former explanation we can explain lynching. It is a barbaric outburst and survival, and against it the better elements of the South are gradually making headway and gaining strength. But they are not yet strong enough to overcome it. Yet this rational explanation makes the Southerners furious. "No!" they yell, "The South is a center of culture and civilization. It is really one of the most civilized parts of the globe. It is 'pure' in its blood and ideals and suited and able to lead the world." But, if this is so, what about lynching and lawlessness? What sort of a culture is it that cannot control itself in the most fundamental of human relations, that is given over to mobs, reactionary legislation and cruel practices?
+
+That the "culture" of the South is thus shot through with barbarism can easily be proven. A white woman, whose letter the Columbia *State* feels compelled to publish, gives the following reasons for the lynching of a wealthy colored man: She does not believe in lynching, but (1) Crawford would not let certain classes of Negroes enter his house; (2) Crawford hired Negroes who were working for white people; (3) Crawford was "insolent" toward whites; (4) Negroes in general had their pockets full of money and would not work; (5) That for the above reasons this lynching may have "prevented some more serious trouble."
+
+A letter from a white man in New Kent, Va., to the Richmond *Times-Dispatch* says: "How would they like to have their wives and daughters out in the cotton fields? Somebody must do the work and the Negro is fitted by nature for it. All the rough manual labor in the South, and much in the North, is done by him. No white man will do it if he can possibly avoid it; and education totally unfits anybody for it."
+
+We ask in all honesty. Does the thing which the South calls culture, and yet which stands for sentiments like those above, represent really a modern, civilized community? Is it not rather true that the former slave states stand today at least three hundred years behind the civilized world in all essential social and economic thought? And that outside of a very few progressive whites, their only really modern, forward-looking class is the educated Negro?
+
+------------------------------------------------------------------------
+
+*Citation:* Du Bois, W.E.B. 1917. "Civilization in the South." *The Crisis*. 13(5):215&ndash;216.
