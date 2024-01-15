@@ -393,7 +393,9 @@
 |   1921 |       21 | 3       | [Election Day in Florida](https://www.dareyoufight.org/Volumes/21/03/election_day.html)                                                                                                  |
 |   1921 |       21 | 5       | [The Woman Voter](https://www.dareyoufight.org/Volumes/21/05/woman_voter.html)                                                                                                           |
 |   1921 |       21 | 5       | [A Quarter Million](https://www.dareyoufight.org/Volumes/21/05/a_quarter_million.html)                                                                                                   |
+|   1921 |       21 | 5       | [Bleeding Ireland](https://www.dareyoufight.org/Volumes/21/05/bleeding-ireland.html)                                                                                                     |
 |   1921 |       21 | 5       | [A Correction](https://www.dareyoufight.org/Volumes/21/05/correction.html)                                                                                                               |
+|   1921 |       21 | 5       | [Pan-Africa](https://www.dareyoufight.org/Volumes/21/05/pan-africa.html)                                                                                                                 |
 |   1921 |       22 | 2       | [Negro Art](https://www.dareyoufight.org/Volumes/22/02/negro_art.html)                                                                                                                   |
 |   1921 |       22 | 3       | [Amity](https://www.dareyoufight.org/Volumes/22/03/amity.html)                                                                                                                           |
 |   1921 |       22 | 3       | [Libelous Film](https://www.dareyoufight.org/Volumes/22/03/libelous_film.html)                                                                                                           |
