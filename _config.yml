@@ -45,7 +45,6 @@ html:
 sphinx:
   config:
     language: en
-    html_theme: insegel
     html_show_copyright: false
   html_context:
     default_mode: light
