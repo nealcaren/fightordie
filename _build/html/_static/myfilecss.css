@@ -49,6 +49,11 @@ body {
   color: #111; 
 }
 
+a:hover {
+  color: black; /* Changes the text color to black */
+  text-decoration: underline black; /* Changes the underline to black */
+}
+
 
 #search-input {
   font-family: "et-book", "Palatino", "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
