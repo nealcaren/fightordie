@@ -1,0 +1,34 @@
+<!--
+title:   Colored Chicago
+author:  Du Bois, W.E.B.
+journal: The Crisis
+year:    1915
+volume:  10
+issue:   5
+pages:   234-236
+-->
+
+# Colored Chicago (1915)
+
+It is said that the first cabin in the present confines of Chicago was built by a San Domingan Negro in 1779. To-day there are 50,000 persons of Negro descent in this city of two and one-half millions.
+
+Chicago has usually treated its colored citizens more liberally than most large American cities. The Ordinance of 1787 drove slavery from this territory and fugitive slaves found refuge here in many cases. It was not until 1873, however, that colored children were admitted to the public schools.
+
+Like all the larger American cities Chicago's Negro population has an immigrant character and consequently is at any given period rather sharply divided in an older class of well established citizens and a large mass of more or less unassimilated new comers. In the case of white immigrants the first of these two classes merge with the larger community and cease to figure as "hyphenated" Americans. Color prejudice in the case of persons of Negro descent class all these citizens in one group, visit criticism and discrimination upon them all alike and makes intelligent study or judgment of them extremely difficult.
+
+Earning a living is naturally the first problem of these 50,000 folks. In 1910 out of 18,437 colored men over fifteen years of age in gainful occupations there were 2,500 general laborers, 3,828 railway porters, 3,136 servants and waiters, 1,358 janitors, 443 bartenders and elevator men and 1,841 artisans including 319 barbers, 119 butchers, 92 carpenters, 67 stationery engineers, 116 stationery firemen, 95 machinists, 246 helpers in building and hand trades, 198 painters, 90 plasterers, 67 masons, 46 electricians, etc.
+
+Among the other 8,000 men there were in transportation 220 chauffeurs, 566 draymen, 149 longshoremen, 266 deliverymen, 535 porters in stores and 131 messenger boys.
+
+In professional service there were 619: 78 actors, 15 artists, 76 clergymen, 14 dentists, 10 editors and reporters, 44 lawyers, 216 musicians, 16 photographers, 109 physicians, 30 showmen and 11 school teachers.
+
+In business there were 93 manufacturers, 24 proprietors of transfer companies, 5 wholesale dealers, 23 undertakers, 218 retail dealers and 771 clerks, salesmen, stenographers, etc.
+
+In the civil service there were 54 policemen and detectives which have since increased to over 80. There were 20 United States, state and city officials and 87 watchmen and firemen.
+
+Colored women in Chicago were in gainful occupations in 1910 as follows: 3,653 as servants and waitresses, 2,229 as washerwomen, 939 as dressmakers and milliners, 316 as hairdressers and manicurists, 458 as boarding housekeepers, stewardesses, etc. Beside these there were 29 women retail dealers, 54 actresses, 136 musicians, 53 school teachers, 42 trained nurses, 53 stenographers and 145 clerks, book-keepers, etc. A later compilation in 1913 shows 292 colored men employed bv the City of Chicago and 755 by the Federal Government including a large number of post office clerks and carriers.
+
+Colored Chicago suffers from high rent and difficulty in buying houses in good residence districts. The increase, however, in home owning during the last twenty years has been phenomenal although no exact statistics are available. There are thirty or more colored churches in the city, a fine hospital, the Provident, four social settlements working chiefly among colored people and the Young Men's Christian Association with a building which cost $195,000 and a membership of 2,000. There is an Old Folks' Home, a Home for Colored Working Girls, a League of Colored Women's Clubs, the Amanda Smith Industrial Home and a large number of social clubs like the Appomatox. Out of the mass of colored folk in Chicago have risen numbers of distinguished people who have made their mark in city life and even in the life of the nation quite independent of their race or color. As compared with other cities colored Chicago is noted for its push and independence, its political aggressiveness and its large number of middle class working people who are doing well. As teachers in the public schools, and public officials, the Chicago colored people have more than maintained their proportionate quota. In business and industry they are still behind but pushing rapidly forward. Small wonder that a progressive, alert group like this should maintain the largest circulation, per capita, as buvers of <span style="font-variant:small-caps;">The Crisis.</span>
+
+______________
+*Citation:* Du Bois, W.E.B. 1915. "Colored Chicago." *The Crisis*. 10(5):234&ndash;236.
