@@ -56,6 +56,7 @@ chapters:
   - file: Volumes/20/04/clothes.md
   - file: Volumes/21/01/social_equality_of_blacks_and_whites.md
   - file: Volumes/22/04/problems.md
+  - file: Volumes/22/05/about_pugilists.md
   - file: Volumes/24/01/social-equality.md
   - file: Volumes/24/01/slavery.md
   - file: Volumes/24/02/whitecharity.md
@@ -211,6 +212,7 @@ chapters:
     - file: Volumes/05/02/the_election.md
     - file: Volumes/05/02/odd_fellows.md
     - file: Volumes/09/02/election.md
+    - file: Volumes/09/02/congressmen_and_the_naacp.md
     - file: Volumes/10/01/the_republicans.md
     - file: Volumes/11/02/elections.md
     - file: Volumes/11/05/st_louis.md
@@ -588,6 +590,8 @@ chapters:
     - file: Volumes/13/03/schools.md
     - file: Volumes/15/01/hampton.md
     - file: Volumes/15/04/negro_education.md
+    - file: Volumes/16/03/common_school.md
+    - file: Volumes/16/03/philanthropy_and_self_help.md
     - file: Volumes/16/06/school.md
     - file: Volumes/20/03/latin.md
     - file: Volumes/22/04/mixed.md
@@ -644,6 +648,7 @@ chapters:
     - file: Volumes/06/04/burleson.md
     - file: Volumes/06/03/i_go_a_talking.md
     - file: Volumes/06/03/newest_south.md
+    - file: Volumes/10/05/colored_chicago.md
     - file: Volumes/34/08/panafrican_congresses.md
     - file: Volumes/34/08/wallace_battle_the_episcopal_church_and_mississippi.md
     - file: Volumes/35/01/the_flood_the_red_cross_and_the_national_guard.md

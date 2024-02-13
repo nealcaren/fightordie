@@ -6,7 +6,7 @@ year:    1911
 volume:  3
 issue:   1
 pages:   25-26
---->
+-->
 # Christianity Rampant (1911)
 
 How long is practical Christianity going to be able to survive its own hypocrisy? How long is the world going to be able to profess a system of unselfish ethics, of lofty ideal, which it does not pretend to practice? If the augurs of Rome laughed at each other as they passed, how long at the present rate will Christian ministers be able to keep straight faces?
