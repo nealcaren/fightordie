@@ -172,6 +172,7 @@
 |   1914 |        9 | 2       | [William Monroe Trotter](https://www.dareyoufight.org/Volumes/09/02/trotter.html)                                                                                                        |
 |   1914 |        9 | 2       | [Y.M.C.A](https://www.dareyoufight.org/Volumes/09/02/ymca.html)                                                                                                                          |
 |   1914 |        9 | 2       | [The Election](https://www.dareyoufight.org/Volumes/09/02/election.html)                                                                                                                 |
+|   1914 |        9 | 2       | [The Congressmen and the NAACP](https://www.dareyoufight.org/Volumes/09/02/congressmen_and_the_naacp.html)                                                                               |
 |   1914 |        9 | 2       | [The Christmas Prayers of God](https://www.dareyoufight.org/Volumes/09/02/christmas_prayers_of_god.html)                                                                                 |
 |   1914 |        9 | 2       | [Murder](https://www.dareyoufight.org/Volumes/09/02/murder.html)                                                                                                                         |
 |   1914 |        9 | 2       | [Negro](https://www.dareyoufight.org/Volumes/09/02/negro.html)                                                                                                                           |
@@ -190,6 +191,7 @@
 |   1915 |       10 | 5       | [Other Organizations](https://www.dareyoufight.org/Volumes/10/05/other_organizations.html)                                                                                               |
 |   1915 |       10 | 5       | [Hayti](https://www.dareyoufight.org/Volumes/10/05/hayti.html)                                                                                                                           |
 |   1915 |       10 | 5       | [A Pageant](https://www.dareyoufight.org/Volumes/10/05/pageant.html)                                                                                                                     |
+|   1915 |       10 | 5       | [Colored Chicago](https://www.dareyoufight.org/Volumes/10/05/colored_chicago.html)                                                                                                       |
 |   1915 |       10 | 6       | [Hayti](https://www.dareyoufight.org/Volumes/10/06/hayti.html)                                                                                                                           |
 |   1915 |       11 | 1       | [Woman Suffrage](https://www.dareyoufight.org/Volumes/11/01/woman_suffrage.html)                                                                                                         |
 |   1915 |       11 | 1       | [We Come of Age](https://www.dareyoufight.org/Volumes/11/01/we_come_of_age.html)                                                                                                         |
@@ -297,6 +299,8 @@
 |   1918 |       15 | 6       | [Attention](https://www.dareyoufight.org/Volumes/15/06/attention.html)                                                                                                                   |
 |   1918 |       16 | 1       | [The Burning of Jim Mc Ilherron: An N.A.A.C.P. Investigation](https://www.dareyoufight.org/Volumes/16/01/burning_of_jim_mcilherron.html)                                                 |
 |   1918 |       16 | 3       | [Close Ranks](https://www.dareyoufight.org/Volumes/16/03/close_ranks.html)                                                                                                               |
+|   1918 |       16 | 3       | [The Common School](https://www.dareyoufight.org/Volumes/16/03/common_school.html)                                                                                                       |
+|   1918 |       16 | 3       | [Philanthropy and Self Help](https://www.dareyoufight.org/Volumes/16/03/philanthropy_and_self_help.html)                                                                                 |
 |   1918 |       16 | 4       | [Tillman](https://www.dareyoufight.org/Volumes/16/04/tillman.html)                                                                                                                       |
 |   1918 |       16 | 4       | [Help Us to Help](https://www.dareyoufight.org/Volumes/16/04/help_us.html)                                                                                                               |
 |   1918 |       16 | 4       | [Food](https://www.dareyoufight.org/Volumes/16/04/food.html)                                                                                                                             |
@@ -406,6 +410,7 @@
 |   1921 |       22 | 4       | [The Class Struggle](https://www.dareyoufight.org/Volumes/22/04/class_struggle.html)                                                                                                     |
 |   1921 |       22 | 4       | [Hopkinsville, Chicago and Idlewild](https://www.dareyoufight.org/Volumes/22/04/hopkinsville.html)                                                                                       |
 |   1921 |       22 | 4       | [Lynchings and Mobs](https://www.dareyoufight.org/Volumes/22/04/mixed.html)                                                                                                              |
+|   1921 |       22 | 5       | [About Pugilists](https://www.dareyoufight.org/Volumes/22/05/about_pugilists.html)                                                                                                       |
 |   1921 |       22 | 5       | [Of Boards](https://www.dareyoufight.org/Volumes/22/05/boards.html)                                                                                                                      |
 |   1921 |       22 | 5       | [The Spread of Socialism](https://www.dareyoufight.org/Volumes/22/05/spread-of-socialism.html)                                                                                           |
 |   1921 |       22 | 6       | [Tulsa](https://www.dareyoufight.org/Volumes/22/06/tulsa.html)                                                                                                                           |

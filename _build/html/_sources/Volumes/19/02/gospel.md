@@ -1,4 +1,4 @@
-<!------
+<!--
 title:   The Gospel According to Mary Brown
 author:  Du Bois, W.E.B.
 journal: The Crisis
@@ -6,7 +6,7 @@ year:    1919
 volume:  19
 issue:   2
 pages:   41-43
------->
+-->
 # The Gospel According to Mary Brown (1919)
 
 She was very small and pretty and black and lived in the cabin beyond the Big Road and down the lane by the creek, where one field on field of green cotton was flowering in the spring. And one night as she sat there all alone and wistful, watching the stars, a woman passed by and hailed her. She shrank back in the shadows, but the woman smiled and said full softly:

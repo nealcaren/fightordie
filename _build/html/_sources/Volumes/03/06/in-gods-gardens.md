@@ -1,4 +1,4 @@
-<!---
+<!--
 title:   In God's Gardens
 author:  Du Bois, W.E.B.
 journal: The Crisis
