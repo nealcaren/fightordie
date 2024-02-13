@@ -603,7 +603,6 @@
 |   1933 |       40 | 5       | [Scottsboro](https://www.dareyoufight.org/Volumes/40/05/scottsboro.html)                                                                                                                 |
 |   1933 |       40 | 5       | [Marxism and The Negro Problem](https://www.dareyoufight.org/Volumes/40/05/marxism_and_the_negro_problem.html)                                                                           |
 |   1933 |       40 | 6       | [The Strategy of the Negro Voter](https://www.dareyoufight.org/Volumes/40/06/strategy_of_the_negro_voter.html)                                                                           |
-|   1933 |       40 | 7       | [A Protest](https://www.dareyoufight.org/Volumes/40/07/protest.html)                                                                                                                     |
 |   1933 |       40 | 7       | [Our Class Struggle](https://www.dareyoufight.org/Volumes/40/07/our_class_struggle.html)                                                                                                 |
 |   1933 |       40 | 8       | [The Negro College](https://www.dareyoufight.org/Volumes/40/08/negro_college.html)                                                                                                       |
 |   1933 |       40 | 9       | [On Being Ashamed of Oneself](https://www.dareyoufight.org/Volumes/40/09/on_being_ashamed.html)                                                                                          |
