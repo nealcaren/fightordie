@@ -221,6 +221,7 @@
 |   1916 |       11 | 6       | [Peonage](https://www.dareyoufight.org/Volumes/11/06/peonage.html)                                                                                                                       |
 |   1916 |       11 | 6       | [Intermarriage](https://www.dareyoufight.org/Volumes/11/06/intermarriage.html)                                                                                                           |
 |   1916 |       11 | 6       | [The Church](https://www.dareyoufight.org/Volumes/11/06/church.html)                                                                                                                     |
+|   1916 |       11 | 6       | [Three Churches](https://www.dareyoufight.org/Volumes/11/06/three_churches.html)                                                                                                         |
 |   1916 |       12 | 1       | [Social Equality](https://www.dareyoufight.org/Volumes/12/01/social_equality.html)                                                                                                       |
 |   1916 |       12 | 1       | [Public Schools](https://www.dareyoufight.org/Volumes/12/01/salutations.html)                                                                                                            |
 |   1916 |       12 | 1       | [To the Rescue](https://www.dareyoufight.org/Volumes/12/01/rescue.html)                                                                                                                  |
