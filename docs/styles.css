@@ -1,0 +1,83 @@
+/* css styles */
+
+h1 {
+	font-size: 2.5rem;
+}
+
+.small-caps {
+	font-variant: small-caps;
+}
+
+/* Remove display of citation prefix */
+.quarto-appendix-secondary-label {
+	display: none;
+}
+
+/*TO DO Remove the box around citation */
+
+/* Hide AUTHOR and DATE fields*/
+.quarto-appendix-secondary-label {
+    border: none !important;
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+blockquote {
+    border-left: none;
+}
+
+
+blockquote div > p {
+    padding-right: 2em;
+    text-indent: 2rem;
+    padding-bottom: 0rem;
+    margin-bottom: 0rem;
+    font-size: 1.25rem;
+    line-height: 1.6rem;
+  }
+  
+  blockquote div > p:first-of-type {
+    text-indent: 0;
+  }
+
+  
+/* BROKEN: Make author/date bigger */
+.quarto-title-meta-contents p {
+    font-size: 1.5rem;
+}
+
+div.poem {
+	border-left: none;
+	padding-left: 2em;
+	padding-bottom: 0rem;
+	margin-bottom: 1.5rem;
+}
+
+p.verse {
+	margin-bottom: 0rem;
+	font-size: 1.25rem;
+	line-height: 1.6rem;
+	/* font-style: italic; */
+	padding-left: 2em;
+	text-indent: -2em;
+}
+
+p.indent {
+	padding-left: 3em;
+	text-indent: -2em;
+}
+
+p.big-indent {
+	padding-left: 4em;
+	text-indent: -2em;
+}
+
+p.bigger-indent {
+	padding-left: 5em;
+	text-indent: -2em;
+}
+
+p.biggest-indent {
+	padding-left: 6em;
+	text-indent: -2em;
+}
