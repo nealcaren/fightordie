@@ -1,4 +1,0 @@
-#!/bin/bash
-
-# Build book
-conda run -n dyf jupyter-book build ./ 

@@ -1,0 +1,26 @@
+
+---
+title: Social Equality
+author: Du Bois, W.E.B.
+date: May 1916
+categories: 
+  - Social Equality
+  - Booker T. Washington
+citation: 
+  type: article-journal
+  container-title: The Crisis
+  volume: 12
+  issue: 1
+  page: 30
+google-scholar: true
+
+format:
+  html:
+    toc: false
+    appendix-cite-as: display
+---
+
+
+The Southern white man who writes the *Outlook* editorials on the Negro said recently: "The social intimacy (or so-called social equality that some disloyal Negroes have craved and the sort of politics that created the evils of the Reconstruction era, have been the two main causes of the race complication." This is as flat a falsehood as could easily be told. The cause of the difficulties in Reconstruction was the determination of the white South to re-enslave Negroes, and the determination of the Negroes to be really free.
+
+The writer goes on to say that the late Booker T. Washington believed that "the only social intimacy the Negro required was that open to him among his own people." This is not true. No American Negro ever accepted so much social recognition as Mr. Washington. He dined with white men and women, he sat in the parlors of his white friends, he was entertained at their homes, he met and conferred with them on all possible social occasions. Why did he do this? Because he craved their company? No. He did it for the reason given by the late Justice Lamar of the United States Supreme Court, a Mississippian and a Confederate: Justice Lamar, in a speech made several years before his appointment to the bench, in speaking of the Negro problem, said: "He can only be elevated by education --- not the mere education of books, but the education that comes from contact with the 'superior mind'." Wherever that "superior mind" is found the Negro will be found. Sometimes it is found in a white skin; sometimes it is found in a black skin; but any social life which tries to forbid common contact of human minds is not only wrong and dangerous but in the long run it is impossible.

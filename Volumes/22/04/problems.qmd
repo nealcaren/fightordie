@@ -1,0 +1,34 @@
+
+---
+title: 'Of Problems'
+author: Du Bois, W.E.B.
+date: Feb. 1921
+categories: 
+  - ""
+citation: 
+  type: article-journal
+  container-title: The Crisis
+  volume: 22
+  issue: 4
+  page: 149
+google-scholar: true
+
+format:
+  html:
+    toc: false
+    appendix-cite-as: display
+---
+
+
+Why is it that nothing is said of social equality save in the case of Negroes? The nation is mute as to Irishmen, Italians, Poles and Armenians. One may dine with Chinese, Japanese or East Indians. But Negroes? Social Equality!
+
+Why is it that only Negroes should give up the right to vote?
+
+Why is it that only Negroes should not organize for self defense against mobs?
+
+Why is it that only Negroes must be meek, and wait and wait!
+
+For all others: Equality, Votes, Fight for Right!
+
+Such is the Negro Problem.
+

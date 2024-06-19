@@ -1,0 +1,58 @@
+
+---
+title: 'The Social Equality of Whites and Blacks'
+author: Du Bois, W.E.B.
+date: May 1920
+categories: 
+  - Social Equality
+citation: 
+  type: article-journal
+  container-title: The Crisis
+  volume: 21
+  issue: 1
+  page: 18, 20
+google-scholar: true
+
+format:
+  html:
+    toc: false
+    appendix-cite-as: display
+---
+
+
+When The National Association for the Advancement of Colored People was organized it seemed to us that the subject of "social equality" between races was not one that we need touch officially whatever our private opinions might be. We announced clearly our object as being the political and civil rights of Negroes and this seemed to us a sufficiently clear explanation of our work.
+
+We soon found, however, certain difficulties: Was the right to attend a theatre a civil or a social right? Is a hotel a private or a public institution? What should be our stand as to public travel or public celebrations or public dinners to discuss social uplift? And above all, should we be silent when laws were proposed taking away from a white father all legal responsibility for his colored child?
+
+Moreover, no matter what our attitude, acts and clear statements have been, we were continually being "accused" of advocating "social equality" and back of the accusations were implied the most astonishing assumptions: our secretary was assaulted in Texas for "advocating social equality" when in fact he was present to prove that we were a legal organization under Texas law. Attempts were made in North Carolina to forbid a state school from advertising in our organ <span class = "small-caps">The Crisis</span> on the ground that "now and then it injects a note of social equality" and in general we have seen theft, injustice, lynchings, riot and murder based on "accusations" or attempts at "social equality."
+
+The time has, therefore, evidently come for <span class = "small-caps">The Crisis</span> to take a public stand on this question in the interest of Justice and clear thinking. Let us openly define our terms and beliefs and let there be no further unjustifiable reticence on our part or underground skulking by enemies of the Negro race. This statement does not imply any change of attitude on our part; it simply means a clear and formal expression on matters which hitherto we have mistakenly assumed were unimportant in their relation to our main work.
+
+We make this statement, too, the more willingly because recent events lead us to realize that there lurks in the use and the misuse of the phrase "social equality" much of the same virus that for thousands of years has separated and insulted and injured men of many races and groups and social classes.
+
+We believe that social equality, by a reasonable interpretation of the words, means moral, mental and physical fitness to associate with one's fellowmen. In this sense <span class = "small-caps">The Crisis</span> believes absolutely in the Social Equality of the Black and White and Yellow races and it believes too that any attempt to deny this equality by law or custom is a blow at Humanity, Religion and Democracy.
+
+No sooner is this incontestable statement made, however, than many minds immediately adduce further implications: they say that such a statement and belief implies the right of black folk to force themselves into the private social life of whites and to intermarry with them.
+
+This is a forced and illogical definition of social equality. Social equals, even in the narrowest sense of the term, do not have the *right* to be invited to, or attend private receptions, or to marry persons who do not wish to marry them. Such a right would imply not mere equality---it would mean superiority. Such rights inhere in reigning monarchs in certain times and countries, but no man, black or white, ever dreamed of claiming a right to invade the private social life of any man.
+
+On the other hand, every self-respecting person does claim the right to mingle with his fellows *if he is invited* and to be free from insult or hindrance because of his presence. When, therefore, the public is invited, or when he is privately invited to social gatherings, the Negro has a right to accept and no other guest has a right to complain; they have only the right to absent themselves. The late Booker T. Washington could hardly be called an advocate of "social equality" in any sense and yet he repeatedly accepted invitations to private and public functions and certainly had the right to.
+
+To the question of intermarriage there are three aspects:
+
+1. The individual right
+2. The social expediency
+3. The physical result
+
+As to the individual right of any two sane grown individuals of any race to marry there can be no denial in any civilized land. The moral results of any attempt to deny this right are too terrible and of this the southern United States is an awful and abiding example. Either white people and black people want to mingle sexually or they do not. If they do, no law will stop them and attempted laws are cruel, inhuman and immoral. If they do not, no laws are necessary.
+
+But above the individual problem lies the question of the social expediency of the intermarriage of whites and blacks today in America. The answer to this is perfectly clear: it is not socially expedient today for such marriages to take place; the reasons are evident: where there are great differences of ideal, culture, taste and public esteem, the intermarriage of groups is unwise because it involves too great a strain to evolve a compatible, agreeable family life and to train up proper children. On this point there is almost complete agreement among colored and white people and the strong opinion here is not only that of the whites---it is the growing determination of the blacks to accept no alliances so long as there is any shadow of condescension; and to build a great black race tradition of which the Negro and the world will be as proud in the future as it has been in the ancient world.
+
+<span class = "small-caps">The Crisis</span>, therefore, most emphatically advises against race intermarriage in America but it does so while maintaining the moral and legal right of individuals who may think otherwise and it most emphatically refuses to base its opposition on other than social grounds.
+
+<span class = "small-caps">The Crisis</span>does not believe, for instance, that the intermarriage of races is physically criminal or deleterious. The overwhelming weight of scientific opinion and human experience is against this assumption and it is a cruel insult to seek to transmute a perfectly permissible social taste or thoughtful social advice into a confession or accusation of physical inferiority and contamination.
+
+To sum up then: <span class = "small-caps">The Crisis</span> advises strongly against interracial marriage in the United States today because of social conditions and prejudice and not for physical reasons; at the same time it maintains absolute legal right of such marriage for such as will, for the simple reason that any other solution is immoral and dangerous.
+
+<span class = "small-caps">The Crisis</span> does not for a moment believe that any man has a right to force his company on others in their private lives but it maintains just as strongly that the right of any man to associate privately with those who wish to associate with him and publicly with anybody so long as he conducts himself gently, is the most fundamental right of a Human Being.
+

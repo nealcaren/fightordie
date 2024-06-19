@@ -1,0 +1,42 @@
+
+---
+title: 'The Macon Telegraph'
+author: Du Bois, W.E.B.
+date: Jan. 1920
+categories: 
+  - ""
+citation: 
+  type: article-journal
+  container-title: The Crisis
+  volume: 19
+  issue: 3
+  page: 109-110
+google-scholar: true
+
+format:
+  html:
+    toc: false
+    appendix-cite-as: display
+---
+
+
+
+The Macon, Georgia, *Daily Telegraph*, a widely-read white publication, has often done <span class="small-caps">The Crisis</span> the honor of quoting and criticizing its words. Some of these remarks we have from time to time reprinted, but they have hardly seemed to call for an answer. Usually they answered themselves. Last September, however, the *Telegraph* published a leading editorial, a column and a half long, which illustrates so well the deliberate misunderstanding of the aspirations of the Negro by the White South that it deserves a reply. 
+
+The Telegraph asserts in brief, *first*, that <span class="small-caps">The Crisis</span> is responsible for the present racial unrest in the South and that if "a really serious race clash" should break out there that "the blood will be on its head." *Secondly*, that "Du Bois hates white men, because they are white and he is black" and that our fight against "segregation, Jim-Crowism, and division of the races" proves this. *Thirdly*, that the South wants the Negro to practice economy, thrift, and the steady acquisition of property and "will do everything to help and further that development," while <span class="small-caps">The Crisis</span> wants "social equality." *Fourthly*, that <span class="small-caps">The Crisis</span> deliberately plays up "the one-tenth of one per cent. of trouble" in the South and "ignores the ninety-nine and nine-tenths of continued and growing organization on a better basis for both races." *Fifthly*, that Negro schools in the South are supported by white men's taxes, while <span class="small-caps">The Crisis</span> is complaining because the schools are not mixed. *Sixthly*, that "the black man lived for uncounted centuries in Africa on his own resources and never so much as improved the make-up of an arrow, coined a new word, or crept an inch nearer to a spiritual religion." And, *finally*, that Dr. Moton should start a new magazine at Tuskegee to tell the world "and tell all the Negroes about how well things are going on or can be made to go between the races." 
+
+We quote this extraordinary indictment at length because while the editor of the *Telegraph* cannot possibly believe it true, thousands of his white readers do; and millions of other white Southerners hold similar beliefs. 
+
+Now, therefore, to our answers. *First*, <span class="small-caps">The Crisis</span> is not responsible for the present unrest among Negroes. That unrest is caused by disfranchisement, lynching, "Jim-Crow" cars, and wide-spread and continuous injustice of southern whites toward blacks. <span class="small-caps">The Crisis</span> is responsible for spreading the knowledge of this crime and injustice and urging Negroes and whites to protest against it. *Secondly*, opposition to segregation in homes, travel, and work does not show that Negroes are ashamed of their color and race. It merely shows that they have sense enough to know that if their homes are confined to the Negro quarter, they will get no sewerage or police protection, no paving or lights, and that white prostitutes will be openly housed next to their schools and churches, as was the case in Macon. It shows that Negroes object to paying first-class fares for third-class railway accommodations, and that starvation wages result from a color line in work and ability. *Thirdly*, there is no doubt but that large numbers of white Southerners see a solution of the race problem in the upbuilding of a thrifty, contented, homeowning peasantry. But they are not willing to pay the price, and that price is Law and Order, Justice in the courts, decent schools, and mutual self-respect; instead of this, the South over large areas and in numberless cases caters to the mob, has a double standard of justice, provides wretched schools or none at all, and drives out self-respecting and law-abiding Negroes, who will not cheerfully submit to insult. *Fourthly*, <span class="small-caps">The Crisis</span> does not consciously exaggerate southern conditions. The editor has lived fifteen years in the South, has visited every Southern State, and has made painstaking studies into social conditions. It is true, and it ought to be true, that if among ten men, a murder occurs, those who would better human life say more about the one dead man than about the nine living. This because the murder rate of one in ten is too high for a civilized community. So, too, when <span class="small-caps">The Crisis</span> attacks lynching, it does not forget that of the 1,200,000 Negroes in  Georgia, in 1918, only nineteen were lynched. But <span class="small-caps">The Crisis</span> remembers that a single human being illegally done to death by a mob in any state is an indictment of government so severe as to call for protest and agitation. It is perfectly true that most white Southerners are not lynchers, but it is just as true that most of them will not consent to the one step which will stop lynching---punishment of lynchers. So, too, while peace and prosperity rule wide regions of the South and kindly and helpful race relations exist, yet it is also true that the amount of racial friction and unrest, the human hatred and insult, the poverty, the fighting, murder and maiming, the crime, sorrow, and despair, reach a height which makes the problem of race relations in the South the most portentous social problem in the United States. *Fifthly*, it is untrue that Negro schools are supported by white taxes in the South. This is a blatant falsehood which has been disproven again and again. Charles L. Coon, a southern white school superintendent, found in 1909, that Negroes in eleven Southern States, forming over 40% of the school population, got less than 15% of the school fund, and in the state of Georgia he proves that $647,582 of the school fund of 1907 was due Negroes as their share of direct and indirect taxes, while only $506,170 was spent on their schools, and he concludes that the southern white man cannot maintain that he is supporting Negro schools. *Sixthly*, as to Africa and the Negro, we appeal from the Anthropology of Macon to that of Dr. Franz Boas, a professor of Anthropology in Columbia University, who says: 
+
+> An unbiased estimate of the anthropological evidence so far brought forward does not permit us to countenance the belief in a racial inferiority which would unfit an individual of the Negro race to take his part in modern civilization. We do not know of any demand made on the human body or mind in modern life that anatomical or ethnological evidence would prove to be beyond the powers of the Negro.
+
+Boaz adds: 
+
+> It seems likely that at a time when the European was still satisfied with rude stone tools, the African had invented or adopted the art of smelting iron.
+
+A volume in the *Home University Library* says: 
+> That Negro peoples were the beginners of civilization along the Ganges, the Euphrates, and the Nile, seems proven. Early Babylon was founded by a Negroid race.    <p> The Assyrians show a distinct Negroid strain, and early Egypt was predominately Negro. 
+
+Finally, we would welcome a monthly edited by R. R. Moton on the lines suggested by the Telegraph. But we opine that it would omit the semiannual report of lynchings, which Tuskegee sends out to the world.
+

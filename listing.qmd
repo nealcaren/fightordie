@@ -1,0 +1,10 @@
+---
+title: "Articles"
+listing: 
+  contents: Volumes
+  type: table
+  sort: "date"
+  date-format: "YYYY (MMM)"
+  page-size: 20
+  fields: [date, title, description, word-count]
+---

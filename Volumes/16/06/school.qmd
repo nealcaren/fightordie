@@ -1,0 +1,25 @@
+
+---
+title: 'School'
+author: Du Bois, W.E.B.
+date: Apr. 1918
+categories: 
+  - ""
+citation: 
+  type: article-journal
+  container-title: The Crisis
+  volume: 16
+  issue: 6
+  page: 267
+google-scholar: true
+
+format:
+  html:
+    toc: false
+    appendix-cite-as: display
+---
+
+
+
+This is school month. Send the children to school. Do not be tempted to keep them at work because they are earning large wages. The race is to the intelligent and not merely to the busy. Wisdom is the principal thing, therefore, GET WISDOM! Hustle the children off the farms and out of the factories and into the schools. Do not wait---do not hesitate. Our life depends upon it. Our rise is founded on the rock of knowledge. Put the children in school. Keep the children in school.
+

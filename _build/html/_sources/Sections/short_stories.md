@@ -1,5 +1,0 @@
-# Short Stories
-
-
-```{tableofcontents}
-```

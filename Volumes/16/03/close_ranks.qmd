@@ -1,0 +1,32 @@
+
+---
+title: 'Close Ranks'
+author: Du Bois, W.E.B.
+date: Jan. 1918
+categories: 
+  - ""
+citation: 
+  type: article-journal
+  container-title: The Crisis
+  volume: 16
+  issue: 3
+  page: 111
+google-scholar: true
+
+format:
+  html:
+    toc: false
+    appendix-cite-as: display
+---
+
+
+
+
+This is the crisis of the world.
+
+For all the long years to come men will point to the at year 1918 as the great Day of Decision, the day when the world decided whether it would submit to military despotism and an endless armed peace---if peace it could be called---or whether they would put down the menace of German militarism and inaugurate the United States of the World.
+
+
+
+We of the colored race have no ordinary interest in the outcome. That which the German power represents today spells death to the aspirations of Negroes and all darker races for equality, freedom and democracy. Let us not hesitate. Let us, while this war lasts, forget our special grievances and close our ranks shoulder to shoulder with our own white fellow citizens and the allied nations that are fighting for democracy. We make no ordinary sacrifice, but we make it gladly and willingly with our eyes lifted to the hills.
+

@@ -1,0 +1,41 @@
+
+---
+title: 'Missionaries'
+author: Du Bois, W.E.B.
+date: May 1929
+categories: 
+  - ""
+citation: 
+  type: article-journal
+  container-title: The Crisis
+  volume: 36
+  issue: 5
+  page: 168
+google-scholar: true
+
+format:
+  html:
+    toc: false
+    appendix-cite-as: display
+---
+
+
+There is a curious attitude on the part of religion in the United States and Europe toward American Negro missionaries. It is a little difficult to get at all the facts, but a questionnaire sent out among various missionary organizations reveals the following apparent situation:
+
+One of 158 African missionaries, the Protestant Episcopal Church has 1 American Negro; the Presbyterian, 2 out of 88; the Northern Baptists, 1 out of 20; the Methodist Episcopal Church, 5 out of 91; the American Board, 4 out of 97.
+
+Of 793 other missionaries to Africa sent out by American missionary societies, including the United Presbyterians, the United Missionary Society, the United Brethren, the African Inland Mission, the Friends, the Brethren-in-Christ, the Southern Baptists, the Women's General Mission Society of the United Presbyterian Church, the Lutherans, and the Sudan Interior Mission, there is not a single American Negro!
+
+It would seem at first thought that the use of American Negroes to evangelize Africa would be not only a logical but singularly poetic and satisfying result of American slavery. Indeed, for centuries it was the main justification for that slavery on the consciences and lips of Christians.
+
+But careful inquiry among missionary societies reveals today an astonishing state of mind. For instance, in the case of the African Inland Mission: "The question has never been raised." The United Missionary Society says: "The matter has not come before the Board." The Foreign Missionary Society of the United Brethren-in-Christ has "not made it a practice to send out American Negroes"; the American Friends Board of Foreign Missions has "never formulated any policy concerning the sending to Africa of American Negroes as missionaries"; the Foreign Mission Board of the Brethren-in-Christ, "have not had any applicants"; the Women's General Missionary Society of the United Presbyterian Church has "never discussed the matter"; the Missionary Society of the Evangelical Church has "no policy!"
+
+On the other hand, the Foreign Mission Board of the Southern Baptist Convention is frank: *"Our policy is not to send American Negroes as missionaries";* also, the Sudan Interior Mission has a policy, and states it plainly: "Our brethren from the American Negro churches practically have to live on the same plane almost as their white brethren, and this creates a problem"; the American Bible Society scents some trouble and hastens to say: "I presume your inquiry is evoked by some thought that there may be racial discrimination asserted by the missionary agencies of the churches selecting missionaries. I have been more or less closely associated with missionary work in the last ten years and have never known of such a case." Thus writes Mr. Eric North, who evidently does not dwell on earth but in a Heaven of his own.
+
+Most of the missionary societies who try to apologize for their discrimination seek to explain their stand by saying that they are training "native" helpers. Certainly, this should be true. But why not use American Negroes as the obvious instruments for such training? The Presbyterian Church began sending Negro missionaries and then stopped. Only this year have they finally been induced to send two. The American Baptist Foreign Mission Society tries to put the whole onus upon Negro churches, and declares that "no qualified Negro applicants" have applied in recent years. If they should apply, the Society does not promise to send them, but only to give the matter "most careful consideration." The Women's General Missionary Society of the United Presbyterian Church says that "no action for or against the sending of Negroes to work as missionaries in Africa has been taken. *I can see complications that might be unpleasant and hard to surmount."* The Friends and others also admit the fact that several foreign governments, and especially the Belgian Congo, object to American Negroes.
+
+As a matter of fact, missionary societies of the United States started out, for the most part, with the obvious policy of sending Negroes to convert Africa. Then they found out that this involved social equality between white and black missionaries; the paying of Negro missionaries on the same scale as white missionaries, and their promotion and treatment as civilized beings. With few exceptions, American white Christianity could not stand this, and they consequently changed their policy. Several of them stopped sending Negroes, altogether. Others tried to get their assistance from the natives, where discrimination in treatment and wages could be made without complaint; while still others intimated, as the American Baptist Foreign Missionary Society puts it: "The failure of quite a proportion to live up to their all important moral obligations has necessarily been a serious consideration," which is a chaste way of saying that American Negroes are too immoral to convert Africans to the kind of Christianity which this Society has for sale.
+
+_____
+
+*Citation:* Du Bois, W.E.B. 1929. "Missionaries." *The Crisis*. 36(5):168.

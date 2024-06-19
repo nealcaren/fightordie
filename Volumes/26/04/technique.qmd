@@ -1,0 +1,48 @@
+
+---
+title: 'The Technique of Race Prejudice'
+author: Du Bois, W.E.B.
+date: Feb. 1923
+categories: 
+  - ""
+citation: 
+  type: article-journal
+  container-title: The Crisis
+  volume: 26
+  issue: 4
+  page: 152-154
+google-scholar: true
+
+format:
+  html:
+    toc: false
+    appendix-cite-as: display
+---
+
+
+We have developed in the United States a technique of race discrimination which gains its dispicable ends by methods so subtle and evasive that the man on the street not only cannot place the blame but after a few bewildered gestures is tempted to look upon the whole thing as an "Act of God."
+
+Consider, for instance, the now well-known case of Miss Augusta Savage. Miss Savage struggled up through the wretched public schools of Florida; came to New York and eventually began studying art at Cooper Union. "Miss Savage's record," writes the Art Director, "has been excellent and her conduct irreproachable." The friends of Miss Savage sought to get her a chance to do some study abroad in the "Fontainebleau School of the Fine Arts"; financed by Americans and established as "a summer school for American architects, painters and sculptors."
+
+The Executive Committee of this school is impressive: The Chairman of the Department of Architecture, is Whitney Warren, a leading architect, member of the National Institute of Arts and Sciences, with an honorary degree from Harvard. The Chairman of the Department of Painting and Sculpture is Ernest C. Peixotto, a pupil of Benjamin Constant and Chevalier of the French Legion of Honor; well known as a painter and illustrator. Other members of the Committee are Edwin Blashfield, who decorated the great central dome of the Library of Congress; Howard Greenley, President of the Architectural League; Thomas Hastings, who designed the New York Public Library and is a member of the American Academy of Arts and Letters; J. Monroe Hewlett, President of the Mural Painters; Hermon MacNeil, President of the National Sculpture Society; and James Gamble Rogers, who designed the great Harkness Memorial Quadrangle at Yale.
+
+Here then, are representatives of the best America; leaders in Art and Literature; members of the world's most exclusive clubs and organizations. This Committee told Miss Savage that she could not study at the Fontainebleau School of Fine Arts and that the reason was because she was black. But do not think that this action was straightforward, clear and definite. The only clear and definite thing about it was that Miss Savage's deposit was returned to her and that she did not go to Fontainebleau. But the responsibility for this action and the reasons for it are most difficult to trace and yet the hunt has its points of interest.
+
+<span style="font-variant:small-caps;">The Crisis</span> has addressed a politely-worded note to each one of the eight gentlemen mentioned above. Mr. Peixotto, Mr. Warren and Mr. Greenley have not answered. However, Mr. Peixotto had already written a letter to another person which we feel at liberty to quote: He hopes she will "understand our position" and starts off with a technical excuse based on Miss Savage's alleged failure to furnish "two letters of recommendation." He hastens, however, to admit that this is a small matter and proceeds to say: "To be perfectly frank with you, we did learn that Miss Savage was of the colored race and the question was put before our Advisory Committee who strongly felt that in a school such as the Fontainebleau School it would not be wise to have a colored student."
+
+Then come five varying points of view; first there are two alibis: Thomas Hastings says: "I believe it is needless for me to say that I personally would have no sympathy with keeping Miss Augusta Savage away from the Fontainebleau School of Arts because of Negro Descent." Edwin Blashfield says: "I was not present at any meeting where the question of Miss Savage's application came up or was discussed and I am entirely without knowledge of what happened."
+
+James Gamble Rogers also has an alibi handy: "I did not know anything about the case of the colored girl you mention until I read it in the newspapers." But he adds this interesting point of view: "When we try to take advantage of this Fontainebleau School for the benefit of people here, we have to have sponsors for certain financial conditions, such as guaranteeing the payment to the boats that so many staterooms will be paid for, etc., and it is not easy to get the sponsors. Therefore, I hope that you will do nothing that will prevent us getting the sponsors." 
+
+Hermon A. MacNeil says nothing of responsibility but is, "Extremely sorry that a story of this kind should have gotten about as I know the gentlemen of the committee are men of the broadest vision and are trying to do the very best possible. It may be that her work was not very high in quality."
+
+So far, poor Mr. Peixotto stands apparently alone; but finally, J. Monroe Hewlett adds this bit: "The accepted applicants come from all parts of the United States. It seemed clear to the committee that any race prejudice that manifested itself among the students might easily affect the entire morale of the School during its first year.... I am satisfied in my own mind that the decision reached in regard to Miss Savage was due quite as much to consideration for her as to any other thought or feeling."
+
+To us who have experience, there is nothing mystifying in all this. These men, either by shirking their plain responsibility or by disingenuous excuses have connived at a miserable piece of race discrimination; and yet every last one of them has "ducked" responsibility: they have no knowledge; they spared her feelings; they need money. Many of them prayed that the reason should be that Miss Savage had no ability, but that is disproved by the records at Cooper Union and by the fact that no very high standards of ability were required of the sensitive white Southerners. Other Directors emphasized the terrible and explosive possibilities of social contact. But the Art Director at Cooper Union writes of his own accord: "It may be added that Miss Savage's treatment at the hands of her fellow-students, whether in the classes, in the lunch room or in their social relations generally, has been as irreproachable as has been her own conduct: indeed it appears that she has been rather a favorite."
+
+In fact, here you have in its naked shame, the technique of American race prejudice. It is idle to charge up lynching solely to the "poor white trash"; it is silly to talk of race prejudice as simply a child of ignorance and poverty. The ignorant and poor may lynch and discriminate but the real deep and the basic race hatred in the United States is a matter of the educated and distinguished leaders of white civilization. They are the ones who are determined to keep black folk from developing talent and sharing in civilization. The only thing to their credit is that they are ashamed of what they do and say and cover their tracks desperately even if ineffectually with excuses and surprises and alibis. But the discrimination goes on and they not only do not raise a hand to stop it—they even gently and politely but in strict secrecy put their shoulders to the wheel and push it forward.
+
+One can only sum it up in the words of Daisy King, a white sculptor:
+
+> Have you seen this latest example of 'White Supremacy'. Sounds like good old Texas, doesn't it? That Thomas Hastings, the architect of the 42nd Street Library, and our foremost architect since the death of Stanford White, with his own training safely completed should stoop to place a stone in the path of a little colored girl who has won a distinctive honor, against odds, is unbelievable. That Ernest Peixotto, himself a Spanish Jew, should feel it necessary to deprive a young colored woman of a well-earned scholarship in order to protect from 'contamination' these young Southern girls who have apparently, no honors to their credit, is, to say the least, 'instructive'.
+

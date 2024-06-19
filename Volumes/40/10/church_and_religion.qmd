@@ -1,0 +1,38 @@
+
+---
+title: 'The Church and Religion'
+author: Du Bois, W.E.B.
+date: Oct. 1933
+categories: 
+  - ""
+citation: 
+  type: article-journal
+  container-title: The Crisis
+  volume: 40
+  issue: 10
+  page: 236-237
+google-scholar: true
+
+format:
+  html:
+    toc: false
+    appendix-cite-as: display
+---
+
+
+Critics of religion and of the church must distinguish rather carefully between the two. Religion is a theory of the ultimate constitution of the world, more particularly in its moral aspects, and as applied to questions of individual right and wrong. The church, on the other hand, is the organization which writes down and from time to time rewrites the exact religious belief which is prevalent and which carries out celebrations and methods of worship, particularly collects and spends money for its own organization and for certain religious and ethical objects.
+
+Now in both these things there are certain facts that are naturally indisputable. The first is that science, organized human knowledge, does not pretend to give a complete answer to the riddle of the universe. It frankly acknowledges that there are a great many things that we do not know and perhaps never can know. The right of any person to go beyond this scientific position and say that they believe certain things to be true, even though they cannot prove them is undoubted. It may lead down to the petty superstition of avoiding black cats or it may lead up to the belief in a divine personal ruler of the universe. It may be criticized as dangerous to logic and mental integrity for a person to assume too much beyond what can be proven. But to this there is a valid answer in saying that all the time we are making certain assumptions; we are assuming that the world which we see and hear and touch is the real world. We are assuming that the sun will rise tomorrow as it did yesterday. Life is largely and must be a series of assumptions. In so far as these assumptions are confirmed by the recurrent happenings of the world, we have a right to assume that they are approximately true. But we must even go beyond this. There is, for instance, faith in the triumph of good deeds; hope that the world will grow better; love of our relatives and our neighbors and of all humanity.
+
+It would be difficult to adduce scientific proof that these hopes and faiths are justified, and still there is good reason for our assuming that they are and guiding our conduct accordingly.
+
+Now as expositor and preserver of assumed truth, and faith in the good, comes the organized church. The church tries to systematize these assumptions and explain and act on them; to write down the creed with exactness and even to go so far as to enforce its belief upon recalcitrants. This, of course, becomes immediately a difficult and dangerous task. And most of the criticism aimed against religion is primarily criticism of those organized churches which try to express religion. The church falls into all sorts of errors. It states as absolute truth one day that which it denies as truth the next day. If it were true in the 16th Century that unbaptised infants went to hell, how could it be also true in the 19th Century that they did not? If belief in miracles is declared essential to salvation in the 19th Century, what shall we say of the religion of people who today do not believe in sleight of hand, whether it is performed by Houdini or Jesus Christ?
+
+Then, too, when the organized church exercised power, its role is always dangerous. Its arguments cannot be refuted by an appeal to truth because it is not founded on truth but on faith. And by the very basis of its logic its faith is not proveable. What now must be the attitude of a man who does not believe all a church teaches and who proposes to be free and untrammeled in mind, charitable toward his fellows, and who wants on the whole to do what is right; that is; to injure no other man by his actions and to guide his own character along safe and beautiful paths.
+
+Manifestly such a man joins an organized church with difficulty, because the statement of truth made by the church must always lag behind the truth as it is actually known. That is, the creed of the church must necessarily be handed down from a previous generation. It must state what our fathers and grandfathers believed, and for that very reason it cannot easily state what we believe. It must emphasize thin that seem trivial to us, no matter how important they were one thousand years ago. And for that reason there is always the endeavor on the part of the young and the thoughtful to lay less emphasis on creed and belief and more on ethics and action. But also and for equally evident reasons, the church continually attacks this attitude. Among Negroes especially today it is most natural for preachers to sneer at the man who is "merely" good and emphasize the transcendental value of the person who is too dumb to question any fairytale forced upon his belief.
+
+Yet the young person who questions, who refuses to accept as truth all that he is told, is the salt of the earth and the hope of the future. And what the church must do, if it is going to retain the following of such persons is to remember that at best its creed is an unproven assumption of truth. This does not mean that it is absolutely wrong and in all probability it is not wholly wrong. But on the other hand, it does mean that it is both unwise and wicked to assert that the creed of a modern church is known to be an accurate statement of absolute truth. Moreover, there is grave, ethical and logical danger in not admitting this. An ethical danger because young people are often forced to subscribe to and say that they believe things which in the nature of the case they do not and cannot believe, and perhaps most of the muddle that faces us when we try to get people to think straight and reform industry and the state, arises from the cheap and false logic which they have daily thrust upon them in their religious life and experience through the organized church.
+
+With such fundamental facts clearly in mind, a young Negro ought not to be puzzled by his religious surroundings. He should see in the church an expression of that desire for full and ultimate truth; that desire for goodness and beauty, which is ingrained in every human being; and on the other hand, and just as clearly, he should frankly denounce all attempt on the part of any organized body of human beings when they declare that they know it all and that God has personally told them about it. That is a plain lie and they know it and everybody else ought to know it. We must have religion in the sense of a striving for the infinite, the ultimate and the best. But just as truly we must straitly curb the effort of any exclusive guild to be the single and final arbitrator of individual interpretation of desired and desirable truth.
+

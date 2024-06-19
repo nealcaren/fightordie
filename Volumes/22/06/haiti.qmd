@@ -1,0 +1,26 @@
+
+---
+title: 'Haiti'
+author: Du Bois, W.E.B.
+date: Apr. 1921
+categories: 
+  - ""
+citation: 
+  type: article-journal
+  container-title: The Crisis
+  volume: 22
+  issue: 6
+  page: 247
+google-scholar: true
+
+format:
+  html:
+    toc: false
+    appendix-cite-as: display
+---
+
+
+Our chance has come! It is not the greatest and best chance, but it is a chance. A Senate committee, composed of McCormick of Illinois, Knox of Pennsylvania, King of Utah, Poindexter of Washington, and Odie of Nevada, is going to investigate conditions in Haiti. They asked the National Association for the Advancement of Colored People and other organizations to present their charges. We are going to do so.
+
+Meantime, let every constituent of these Senators write them and urge them to withdraw the United States army from Haiti and to treat black republics in the way in which white republics want to be treated. Do not delay! Write now, and keep writing. Once in a while, telegraph.
+

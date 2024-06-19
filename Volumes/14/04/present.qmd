@@ -1,0 +1,27 @@
+
+---
+title: 'The Present'
+author: Du Bois, W.E.B.
+date: Feb. 1917
+categories: 
+  - ""
+citation: 
+  type: article-journal
+  container-title: The Crisis
+  volume: 14
+  issue: 4
+  page: 165-166
+google-scholar: true
+
+format:
+  html:
+    toc: false
+    appendix-cite-as: display
+---
+
+
+
+We are facing a new world. Never again are we going to cope with the same conditions and the same social forces that we have faced in the last half-century. There will be in the world the same human beings, but new forces have been loosed and a new situation has arisen. It is the business of the American Negro not to sit idly by and see this rearrangement of the world, hoping that something will come out of it of good for him. It is rather his business actually to put himself into the turmoil and work effectively for a new democracy that shall know no color.
+
+The first method of doing this is, of course, to take part in the war, either by actual enlistment or by civic duties. The second thing is to note the new industrial openings for colored people in the United States and elsewhere and to take advantage of them in such way as shall lead to wider openings.
+

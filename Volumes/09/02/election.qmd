@@ -1,0 +1,27 @@
+
+---
+title: 'The Election'
+author: Du Bois, W.E.B.
+date: Jun. 1914
+categories: 
+  - ""
+citation: 
+  type: article-journal
+  container-title: The Crisis
+  volume: 9
+  issue: 2
+  page: 82
+google-scholar: true
+
+format:
+  html:
+    toc: false
+    appendix-cite-as: display
+---
+
+
+
+The chief matter of comfort to colored folk in the late election is the more evenly balanced power of the two great parties resulting from it. Neither Republicans nor Democrats can afford to defy 500,000 Negro voters in the next two years. The Republicans have disfranchised them in party councils and the Democrats have segregated them. With such a record both parties must do a lot of explaining.
+
+We see the decline of Progressivism with regret. It had some splendid personalities and high ideals; but on the greatest human problem of the day it went at the very beginning violently and inexcusably wrong.
+

@@ -1,0 +1,25 @@
+
+---
+title: 'Naval Ruler'
+author: Du Bois, W.E.B.
+date: May 1917
+categories: 
+  - ""
+citation: 
+  type: article-journal
+  container-title: The Crisis
+  volume: 14
+  issue: 1
+  page: 9
+google-scholar: true
+
+format:
+  html:
+    toc: false
+    appendix-cite-as: display
+---
+
+
+
+When the United States takes possession of foreign territory it sends to govern it a naval officer. But, naval officers are not trained to govern. They are trained to fight! They have made no study of social organization, of human development, of industrial organization; if they are not quite unsympathetic, it is no fault of their training or of the traditions of their caste; yet, today they are well-nigh absolute masters in Nicaragua, San Domingo, Hayti and the erstwhile Danish West Indies. It would be impossible to conceive a more dangerous or foolhardy experiment.
+

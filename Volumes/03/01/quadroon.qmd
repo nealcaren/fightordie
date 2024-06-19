@@ -1,0 +1,40 @@
+
+---
+title: 'The Quadroon'
+author: Du Bois, W.E.B.
+date: May 1911
+categories: 
+  - ""
+citation: 
+  type: article-journal
+  container-title: The Crisis
+  volume: 3
+  issue: 1
+  page: 1
+google-scholar: true
+
+format:
+  html:
+    toc: false
+    appendix-cite-as: display
+---
+
+
+
+<div class="poem">
+<p class = "verse">Daughter of Twilight,</p>
+<p class = "verse">Mothered of Midnight,</p>
+<p class = "verse">Fathered of Daylight and Dawn;</p>
+<p class = "verse indent">Shadow of Sunlight,</p>
+<p class = "verse indent">Shimmering Starlight,</p>
+<p class = "verse indent">Sister of Forest and Fawn!</p>
+</div>
+<div class="poem">
+<p class = "verse">Maid of a Morrow,</p>
+<p class = "verse">Mistress of Sorrow,</p>
+<p class = "verse">Mingled of Mourning and Mirth;</p>
+<p class = "verse indent">Born of World Brotherhood,</p>
+<p class = "verse indent">Crowned of all Motherhood,</p>
+<p class = "verse indent">Beauty of Heaven and Earth!</p>
+</div>
+

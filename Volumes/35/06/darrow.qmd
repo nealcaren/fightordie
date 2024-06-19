@@ -1,0 +1,74 @@
+
+---
+title: 'Darrow'
+author: Du Bois, W.E.B.
+date: Jun. 1928
+categories: 
+  - ""
+citation: 
+  type: article-journal
+  container-title: The Crisis
+  volume: 35
+  issue: 6
+  page: 203
+google-scholar: true
+
+format:
+  html:
+    toc: false
+    appendix-cite-as: display
+---
+
+
+
+Nothing more unfortunate has happened in the recent history of the Negro
+race than the attitude of black ministers in Washington toward Clarence
+Darrow. Here is a man whose voice has been raised for righteousness in
+the face of flattery, money and fame. He has dared to use his unique
+genius to defend the rights of poor white labor and disfranchised
+Negroes. While the Christian Church stands silent, he speaks. When an
+appeal to the organized religion of the United States brings no audible
+response, Clarence Darrow goes down into the blood and dust of battle to
+defend the lost cause.
+
+If religion and Christianity mean anything, they mean deeds and not the
+mere words. And yet, the black ministers of Washington are apparently
+more interested in the mouthing of creeds and the orthodoxy of men's
+beliefs than in the Christianity and unselfishness of their deeds. There
+is not a Negro church in the United States that ought not to throw wide
+its doors to Clarence Darrow and beg him to come in. He will criticize
+those churches, and they ought to be criticized. He says frankly and
+openly what their own members say, namely: They are spending too much
+money for church edifices, and not enough for the social uplift which
+Christianity stands for, if it stands for anything.
+
+Whenever religion forgets its high calling of inspiring faith in human
+beings, peace instead of war, unselfishness instead of greed, and deeds
+instead of words; and turns to heresy hunting, it brings on itself the
+contempt of mankind. The Negro Church in the past has been sewn with
+superstition and worldliness, but it has always been able to say in its
+own defense, We believe in man; and in the lowest of men; We open our
+doors to the despised and hunted; We extend our charity to all forms and
+faith.
+
+It will be a sad time, and the beginning of its doom when the black
+church turns from this its highest mission and goes to burning witches.
+
+<hr/>
+
+Clarence Darrow does not believe many things that Orthodox Christians
+believe; but he respects the beliefs of any sincere person and in turn
+he deserves respect for his own honest opinions. If the Negro race is
+going to start hunting Heretics, let it pause and remember that William
+Lloyd Garrison, Abraham Lincoln and Frederick Douglass were nearly as
+radical religious freethinkers as Clarence Darrow. Nor let them forget
+that the greatest of religious rebels once said to a bunch of
+pettifogging defenders of the letter of the law: "Woe unto
+you scribes and Pharisee, hypocrites, that strain out a gnat and swallow
+a camel!"
+
+<hr/>
+
+What difference does it make whether the whale swallowed Jonah or Jonah
+swallowed the whale, so long as Justice, Mercy and Peace prevail?
+

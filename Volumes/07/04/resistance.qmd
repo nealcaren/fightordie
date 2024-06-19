@@ -1,0 +1,25 @@
+
+---
+title: 'Resistance'
+author: Du Bois, W.E.B.
+date: Feb. 1914
+categories: 
+  - ""
+citation: 
+  type: article-journal
+  container-title: The Crisis
+  volume: 7
+  issue: 4
+  page: 190
+google-scholar: true
+
+format:
+  html:
+    toc: false
+    appendix-cite-as: display
+---
+
+
+
+The Hindus in Natal and the Chinese in Panama are resisting white oppression. It is a good sign, not simply for colored folk, but for white folk. Bad as oppression is for the oppressed, it is worse for the oppressor. For the sake of both it should cease.
+

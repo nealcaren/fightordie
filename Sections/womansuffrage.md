@@ -1,5 +1,0 @@
-# Woman Suffrage
-
-
-```{tableofcontents}
-```

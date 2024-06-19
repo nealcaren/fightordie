@@ -1,0 +1,34 @@
+
+---
+title: 'About Wailing'
+author: Du Bois, W.E.B.
+date: Jan. 1930
+categories: 
+  - ""
+citation: 
+  type: article-journal
+  container-title: The Crisis
+  volume: 37
+  issue: 1
+  page: 64
+google-scholar: true
+
+format:
+  html:
+    toc: false
+    appendix-cite-as: display
+---
+
+
+George Jean Nathan last fall told the readers of the *American Mercury* reasons that made him tired of wails from Negroes. His argument was that lynching has decreased; that a Negro can live his private life as he pleases; that he has freedom in sex, gambling and drinking; that he plays on college athletic teams; that he acts on the stage; intermarries sometimes with whites; sings; publishes recognized books; has big churches; holds public office; shines in the prize ring and at the Bar; is entering the movies; owns land and property; has an increasing number of colleges and college students and less illiteracy; sees the whites getting glory from featuring him; and commits fewer suicides than other folk.
+
+All this is encouraging but it is more encouraging to Mr. Nathan than it is to us. As showing progress, it is astonishing; as absolute accomplishment and reasonable goal-reaching, it is nothing to be satisfied about.
+
+We see the other side of the shield. We persist in wailing because in 1929 eight Negroes unconvicted of crime by any civilized method, were killed and tortured by mobs. We wail because our children are growing up in ignorance because of discrimination and deliberate perversion of public school funds. We wail at being excluded from public institutions, like libraries, hospitals and parks. We shriek at taxation without representation, and the disfranchisement of nine-tenths of all Negroes living in the South, and of four-fifths of Negroes with education and property; at a system of fraud and force which distorts the whole basis of democratic representation throughout the United States and makes Blease and Heflin our representatives in Congress. We are not satisfied with the present condition of Negro actors and writers. They may, to be sure, entertain Mr. Nathan and other white folk with exhibitions of crude comedy, rude debauchery and sadism; but we conceive Art to be a reflection of life as it is among us and not life as white people conceive it. The every-day truth about the mass of Negro workers is not today written or permitted to be written. We wail because in so many cases where colored people show ability they are silently or openly discriminated against,---kept out of colleges; refused chances for research in laboratories; put out of their place as tennis players, jockeys and baseball players. We wail because the daily newspapers of the United States and the radio corporations refuse by intricate but effective means to let black singers and orators have a place in national competition.
+
+Our chance for higher training is not one-fourth of what it should be, and seems so large to Mr. Nathan simply because it was once so pitifully small. We own property, but if we had half the property that we have been deliberately cheated out of, we could secure a startling increase of respect from Mr. Nathan and other magazine writers. We work harder than any other class of Americans and we are paid miserably less than a decent living wage. We are the victims of poverty, malnutrition and disease to an extent that surpasses every other group in America, and for this reason we are crowded, pushed and kicked into the jails, and insane asylums.
+
+We are not unmindful of our accomplishments and of a significant change in American public opinion. But we know perfectly well that all that we have accomplished is to put our feet upon the path to modern manhood. We are still the only group in civilized American life who can be openly and grossly insulted on the public platform and in newspaper editorials and columns without any effective chance to protest to a sound public opinion; but our encouragement comes from the fact that two generations ago we could be openly murdered upon the streets of New York with even less protest. This is progress. We are encouraged. But even with this before our faces, and with every respect to the *American Mercury*, We are not going to change our wailing to grinning just yet.
+
+In fact, we have a feeling that in times past we have already rather overdone that grinning business. Let's wail a while.
+

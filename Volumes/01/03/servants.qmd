@@ -1,0 +1,27 @@
+
+---
+title: 'Except Servants'
+author: Du Bois, W.E.B.
+date: Jan. 1911
+categories: 
+  - ""
+citation: 
+  type: article-journal
+  container-title: The Crisis
+  volume: 1
+  issue: 3
+  page: 21
+google-scholar: true
+
+format:
+  html:
+    toc: false
+    appendix-cite-as: display
+---
+
+
+
+The noticeable reservation in all attempts, North and South, to separate black folk and white is the saving phrase, "Except servants."
+
+Are not servants colored? Is the objection, then, to colored people or to colored people who are not servants? In other words, is this race prejudice inborn antipathy or a social and economic caste?
+

@@ -1,0 +1,61 @@
+
+---
+title: 'An Open Letter to Woodrow Wilson'
+author: Du Bois, W.E.B.
+date: Mar. 1913
+categories: 
+  - ""
+citation: 
+  type: article-journal
+  container-title: The Crisis
+  volume: 5
+  issue: 5
+  page: 236-237
+google-scholar: true
+
+format:
+  html:
+    toc: false
+    appendix-cite-as: display
+---
+
+
+SIR:
+
+Your inauguration to the Presidency of the United States is to the colored people, to the white South and to the nation a momentous occasion. For the first time since the emancipation of slaves the government of this nation—the Presidency, the Senate, the House of Representatives and, practically, the Supreme Court—passes on the 4th of March into the hands of the party which a half century ago fought desperately to keep black men as real estate in the eyes of the law.
+
+Your elevation to the chief magistracy of the nation at this time shows not simply a splendid national faith in the perpetuity of free government in this land, but even more, a personal faith in you.
+
+We black men by our votes helped to put you in your high position. It is true that in your overwhelming triumph at the polls you might have succeeded without our aid, but the fact remains that our votes helped elect you this time, and that the time may easily come in the near future when without our 500,000 ballots neither you nor your party can control the government.
+
+True as this is, we would not be misunderstood. We do not ask or expect special consideration or treatment in return for our franchises. We did not vote for you and your party because you represented our best judgment. It was not because we loved Democrats more, but Republicans less and Roosevelt least, that led to our action.
+
+Calmly reviewing our action we are glad of it. It was a step toward political independence, and it was helping to put into power a man who has to-day the power to become the greatest benefactor of his country since Abraham Lincoln.
+
+We say this to you, sir, advisedly. We believe that the Negro problem is in many respects the greatest problem facing the nation, and we believe that you have the opportunity of beginning a just and righteous solution of this burning human wrong. This opportunity is yours because, while a Southerner in birth and tradition, you have escaped the provincial training of the South and you have not had burned into your soul desperate hatred and despising of your darker fellow men.
+
+You start then where no Northerner could start, and perhaps your only real handicap is peculiar lack of personal acquaintance with individual black men, a lack which is the pitiable cause of much social misery and hurt. A president of Harvard or Columbia would have known a few black men as men. It is sad that this privilege is denied a president of Princeton, sad for him and for his students.
+
+But waiving this, you face no insoluble problem. The only time when the Negro problem is insoluble is when men insist on settling it wrong by asking absolutely contradictory things. You cannot make 10,000,000 people at one and the same time servile and dignified, docile and self-reliant, servants and independent leaders, segregated and yet part of the industrial organism, disfranchised and citizens of a democracy, ignorant and intelligent. This is impossible and the impossibility is not factitious; it is in the very nature of things.
+
+On the other hand, a determination on the part of intelligent and decent Americans to see that no man is denied a reasonable chance for life, liberty and happiness simply because of the color of his skin is a simple, sane and practical solution of the race problem in this land. The education of colored children, the opening of the gates of industrial opportunity to colored workers, absolute equality of all citizens before the law, the civil rights of all decently behaving citizens in places of public accommodation and entertainment, absolute impartiality in the granting of the right of suffrage—these things are the bedrock of a just solution of the rights of man in the American Republic.
+
+Nor does this solution of color, race and class discrimination abate one jot or tittle the just fight of humanity against crime, ignorance, inefficiency and the right to choose one's own wife and dinner companions.
+
+Against this plain straight truth the forces of hell in this country are fighting a terrific and momentarily successful battle. You may not realize this, Mr. Wilson. To the quiet walls of Princeton where no Negro student is admitted the noise of the fight and the reek of its blood may have penetrated but vaguely and dimly.
+
+But the fight is on, and you, sir, are this month stepping into its arena. Its virulence will doubtless surprise you and it may scare you as it scared one William Howard Taft. But we trust not; we think not.
+
+First you will be urged to surrender your conscience and intelligence in these matters to the keeping of your Southern friends. They "know the Negro," as they will continually tell you. And this is true. They do know 
+"the Negro," but the question for you to settle is whether or not the Negro whom they know is the real Negro or the Negro of their vivid imaginations and violent prejudices.
+
+Whatever Negro it is that your Southern friends know, it is your duty to know the real Negro and know him personally. This will be no easy task. The embattled Bourbons, from the distinguished Blease to the gifted Hoke Smith, will evince grim determination to keep you from contact with any colored person. It will take more than general goodwill on your part to foil the wide conspiracy to make Negroes known to their fellow Americans not as flesh and blood but as beasts of fiction.
+
+You must remember that the ability, sincerity and worth of one-tenth of the population of your country will be absolutely veiled from you unless you make effort to lift the veil. When you make that effort, then more trouble will follow. If you tell your Southern friends that you have discovered that the internal revenue of New York is well collected and administered, they are going to regard you in pained surprise. Can a Negro administer! they will exclaim, ignoring the fact that he does.
+
+But it is not the offices at your disposal, President Woodrow Wilson, that is the burden of our great cry to you. We want to be treated as men. We want to vote. We want our children educated. We want lynching stopped. We want no longer to be herded as cattle on street cars and railroads. We want the right to earn a living, to own our own property and to spend our income unhindered and unaccused. Your power is limited? We know that, but the power of the American people is unlimited. To-day you embody that power, you typify its ideals. In the name then of that common country for which your fathers and ours have bled and toiled, be not untrue, President Wilson, to the highest ideals of American Democracy.
+
+Respectfully yours,
+
+<p style="font-variant: small-caps;">The Crisis.</p>
+

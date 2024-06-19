@@ -9,6 +9,11 @@ __pycache__/
 # No notebooks
 *.ipynb
 
+# quarto stuff
+/.quarto/
+/_site/
+_*.*
+
 # Ignore files with variables
 index_with_var.md
 

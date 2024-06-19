@@ -1,0 +1,34 @@
+---
+title: 'Unrest'
+author: Du Bois, W.E.B.
+date: Mar. 1920
+categories: 
+  - ""
+citation: 
+  type: article-journal
+  container-title: The Crisis
+  volume: 19
+  issue: 5
+  page: 274
+google-scholar: true
+
+format:
+  html:
+    toc: false
+    appendix-cite-as: display
+---
+
+
+<div class="poem">
+<p class = "verse">O God!
+<p class = "verse">Dip down Thy Hands into the flame ways of Thy Heavens;  
+<p class = "verse">Splash back the foaming clouds,
+</div>
+
+<div class="poem">
+<p class = "verse">Strain out Thy Suns,  
+<p class = "verse">And let the stars drip through,  
+<p class = "verse">pon the panting blindness of our ears.  
+</div>
+
+ 

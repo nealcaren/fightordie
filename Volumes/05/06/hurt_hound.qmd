@@ -1,0 +1,37 @@
+
+---
+title: 'The Hurt Hound'
+author: Du Bois, W.E.B.
+date: Apr. 1913
+categories: 
+  - ""
+citation: 
+  type: article-journal
+  container-title: The Crisis
+  volume: 5
+  issue: 6
+  page: 290-291
+google-scholar: true
+
+format:
+  html:
+    toc: false
+    appendix-cite-as: display
+---
+
+
+
+The editor has received this news note from a colored friend:
+
+> January 22—Revs. G.H. Burks and P.A. Nichols, returning from Louisville to Paducah, Ky., over the I.C. Railroad, on being detained from 5 p.m. to 2 a.m., by reason of a freight wreck, were ushered into the dining car and given supper without one single word of comment or protest from the whites, who were eating at the same time.
+
+The editor read this and read it yet again. At first he thought it was a banquet given to black men by white; then he thought it charity to the hungry poor; then—then it dawned on his darkened soul: Two decently dressed, educated colored men had been allowed to pay for their unobtrusive meal in a Pullman dining car "WITHOUT ONE SINGLE WORD OF COMMENT OR PROTEST!" No one had cursed them; none had thrown plates at them; they were not lynched! And in humble ecstasy at being treated for once like ordinary human beings they rushed from the car and sent a letter a thousand miles to say to the world: "My God! Look! See!"
+
+What more eloquent comment could be made on the white South? What more stinging indictment could be voiced? What must be the daily and hourly treatment of black men in Paducah, Ky., to bring this burst of applause at the sheerest and most negative decency?
+
+Yet every black man in America has known that same elation---North and South and West. We have all of us felt the sudden relief---the half-mad delight when contrary to fixed expectation we were treated as men and not dogs; and then, in the next breath, we hated ourselves for elation over that which was but due any human being.
+
+This is the real tragedy of the Negro in America: the inner degradation, the hurt hound feeling; the sort of upturning of all values which leads some black men to "rejoice" because "only" sixty-four Negroes were lynched in the year of our Lord 1912.
+
+Conceive, O poet, a ghastlier tragedy than such a state of mind!
+

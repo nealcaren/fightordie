@@ -1,0 +1,24 @@
+
+---
+title: 'Conduct, Not Color'
+author: Du Bois, W.E.B.
+date: Mar. 1916
+categories: 
+  - ""
+citation: 
+  type: article-journal
+  container-title: The Crisis
+  volume: 12
+  issue: 5
+  page: 217-218
+google-scholar: true
+
+format:
+  html:
+    toc: false
+    appendix-cite-as: display
+---
+
+
+A number of papers have been repeating a recent dictum that it is conduct, not color, that counts in the advance  of the Negro race. We wish this were the truth; but it is not the truth and those who say it know that it is not the truth. Conduct counts, but color counts more. It is this that constitutes the Negro problem.
+

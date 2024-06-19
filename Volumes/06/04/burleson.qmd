@@ -1,0 +1,45 @@
+
+---
+title: 'Burleson'
+author: Du Bois, W.E.B.
+date: Feb. 1913
+categories: 
+  - ""
+citation: 
+  type: article-journal
+  container-title: The Crisis
+  volume: 6
+  issue: 4
+  page: 180, 184
+google-scholar: true
+
+format:
+  html:
+    toc: false
+    appendix-cite-as: display
+---
+
+
+There is no doubt but that the Bourbon South is fighting hard to control Mr. Wilson's Negro policy. For a time they held back the spectacular fire caters and marked time, being content with the dismissal of two or three leading Negro officeholders. Then they plucked up courage. Postmaster-General Burleson is said on good authority to have frankly announced this policy: The gradual weeding of the Negro out of the civil service of the United States until he is left only menial positions. Encouraged by this the white railway mail clerks are conducting a systematic and open campaign against the colored clerks in defiance of the plain rules of the service. The official organ, the *Railway Mail*, says editorially:
+
+> There is a new man at the head of the postoffice department, a man from the South, who knows the Negro problem as it is. ….   
+> &nbsp;
+> Of course the Negroes will oppose this measure because they feel it is the first step in removing them entirely from the service. They assert that they have the qualifications and the ambition to make good railway mail clerks. While not admitting this as a general rule, we will let it pass, because it has no bearing on the question of separating the black clerks from the white. They are inclined to argue the proposition, not realizing that it is a matter of feeling and not argument.    
+> &nbsp;
+> The Negroes utterly fail to understand our reasons for desiring separation. It is impossible for them to realize our viewpoint. They do not know that it is a matter of racial instinct that causes the Negro to be repulsive to the white man when associating with him on the same social plane. It is useless for the Negro to speak of his qualifications, his progress, his ambition, that does not remove our instinctive racial dislike.
+
+This is the kind of thing which the Bourbon South is trying to inject into the civil service. We understand that in the Treasury Department alone six or more of the oldest and best colored clerks have been dismissed and that determined effort is being made to segregate colored clerks in all branches of the civil service.
+
+To this we must add the fact that certain "Jim Crow" legislation has been proposed and that President Wilson has not yet dared to appoint n single colored man to office.
+
+The last point would be of less significance were it not coupled as usual with efforts at discrimination: the right to vote and hold office insure civil rights.	It is time, therefore, that
+Northern Democrats bestirred themselves. It is time that Negroes were aroused to action. It is no time to say "I told you so!" or to sit still. Bad as the Democrats may prove, they cannot outdo William H. Taft.
+
+The government is still ours and we have the right to protest to President, Senators and Congressmen against the machinations of Burleson and his ilk.
+
+We give President Wilson the highest credit for his attempt to lighten our burden of tariff taxation and his frank and fearless currency bill. But we must remind him that the ills of this nation are not purely economic. When the London *Spectator* named the stopping of lynching as one of the new President's three greatest tasks it spoke no idle word.
+
+And lynching begins not with the drunken blood lust of a wild gang of men and boys, but with the every-day white citizen who finds that race prejudice pays as an investment; helps him to win over his black competitor in the civil-service examination; helps him to get his fellow workman's job; helps to indulge the beast instinct to despise and trample on the weak.
+
+This is the kind of thing that Woodrow Wilson must fight and he must fight it in his own Cabinet.
+

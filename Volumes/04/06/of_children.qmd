@@ -1,0 +1,34 @@
+
+---
+title: 'Of Children'
+author: Du Bois, W.E.B.
+date: Apr. 1912
+categories: 
+  - ""
+citation: 
+  type: article-journal
+  container-title: The Crisis
+  volume: 4
+  issue: 6
+  page: 287
+google-scholar: true
+
+format:
+  html:
+    toc: false
+    appendix-cite-as: display
+---
+
+
+
+This is the Children's Number, and as it has grown and developed in the
+editor's hesitating hands, it has in some way come to seem a typical
+rather than a special number. Indeed, there is a sense in which all
+numbers and all words of a magazine of ideas must point to the
+child---to that vast immortality and wide sweep and infinite possibility
+which the child represents. Such thought as this it was that made men
+say of old as they saw baby faces like these that adorn our pages this
+month:
+
+> And whosoever shall offend one of these little ones... it is better for him that a millstone were hanged about his neck, and he were cast into the sea.
+

@@ -1,0 +1,34 @@
+
+---
+title: 'Logic'
+author: Du Bois, W.E.B.
+date: Jan. 1914
+categories: 
+  - ""
+citation: 
+  type: article-journal
+  container-title: The Crisis
+  volume: 9
+  issue: 3
+  page: 132
+google-scholar: true
+
+format:
+  html:
+    toc: false
+    appendix-cite-as: display
+---
+
+
+
+One of the interesting ways of settling the race problem comes to the
+fore in this period of unemployment among the poor. In Waterloo, Ky.,
+the enterprising chief of police is arresting all unemployed Negroes and
+putting them in jail, thus securing their labor for the state at the
+cheapest possible figure. This bright idea did not originate in
+Kentucky. It is used all through the South and strong sermons and
+editorials are written against "lazy" Negroes.
+
+Despite this there are people in this country who wonder at the increase
+of "crime" among colored people.
+

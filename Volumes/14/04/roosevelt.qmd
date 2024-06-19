@@ -1,0 +1,26 @@
+
+---
+title: 'Roosevelt'
+author: Du Bois, W.E.B.
+date: Feb. 1917
+categories: 
+  - ""
+citation: 
+  type: article-journal
+  container-title: The Crisis
+  volume: 14
+  issue: 4
+  page: 164
+google-scholar: true
+
+format:
+  html:
+    toc: false
+    appendix-cite-as: display
+---
+
+
+
+
+Greeting, Theodore Roosevelt! Forgotten is Brownsville! Forgotten is the misbirth of the Progressive Party! We only remember to-day that of all Americans mouthing of Liberty and Justice and a world "free for Democracy" you alone had the courage to stand and condemn the murder and riot in East St. Louis. All honor to you and all shame to that silent man in the White House who wants Home Rule for Ireland, Freedom for Poles, and Justice for Armenians, but has no single word for the 3,000 American citizens lynched North and South, principally by the South which he is crowding more and more "into the Saddle." You have gained the votes of twelve million Americans, Theodore Roosevelt, by one strong word.
+

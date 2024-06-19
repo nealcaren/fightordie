@@ -1,0 +1,25 @@
+
+---
+title: 'The Odd Fellows'
+author: Du Bois, W.E.B.
+date: Jun. 1912
+categories: 
+  - ""
+citation: 
+  type: article-journal
+  container-title: The Crisis
+  volume: 5
+  issue: 2
+  page: 77--78
+google-scholar: true
+
+format:
+  html:
+    toc: false
+    appendix-cite-as: display
+---
+
+
+
+The Grand United Order of Odd Fellows is so large and influential an organization among the colored people of America that its internal affairs are of wide interest. As contrasted with the Elks it represents the original English society, while the white order, the International Order of Odd Fellows, forms the spurious organization. The first lodge was set up by Peter Ogden, a Negro, March 4, 1843. The order had 4,000 members by 1868, and in 1904 reported 286,000. It has to-day 492,905 members. Not only has the order this large membership, but it owns something like two and a half million dollars' worth of property, and pays out through its subordinate lodges a half million dollars a year in sick and death benefits. It has a central governing body which handles nearly $200,000 a year. It is natural that in an organization like this there should come a severe test of Negro democracy in elections. At the last meeting in Atlanta one man had, on the face of the returns, a majority of votes to elect him grand master. Some of the votes, however, were contested, and back of the effort to contest was a deep and widespread feeling that the candidate was not the proper man to be elected to the position. The result was that his election did not take place and the convention adjourned with the old officers holding over. This was accomplished, however, by adroit and high-handed methods which did not at all savor of democracy. On the other hand, the defeated candidate, contrary to expectation, neither withdrew from the order nor openly rebelled: but, while criticising the methods by which his election was prevented, announced his determination to run again two years hence. Here, then, is a problem of democracy put squarely before the colored people. It is not a new problem, but old as the hills. How, with democratic government, are you going to prevent the election to high office of men whom you think unworthy? There is but one way. Educate the voters. Any other method is dangerous and in the long run suicidal. If the colored Odd Fellows wish the worthiest of their fellows in command over them they must train the rank and file to know what worth is and to select such worth intelligently. But, say many, does not this all prove that if colored men generally voted throughout the South they would make such mistakes as they are making in their own organizations? Of course, it does; of course, they would make mistakes; but human democracy is built on such mistakes. It is only through the training of mistaken action that worthy democratic government can be founded, it is only when the possible mistakes mean utter destruction of government that oligarchy is justifiable. In the present instance there is no such possibility, for even now the colored people in the black belt would vote with some intelligence, and if they had been as zealously trained to citizenship as they have to caste and crime they would be voting as intelligently as any class of workingmen in the republic. Meantime they are beginning their training in democracy in such organizations as the Odd Fellows, and it behooves them to make that training tell.
+

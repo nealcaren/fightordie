@@ -1,0 +1,33 @@
+
+---
+title: 'Lynchings and Mobs'
+author: Du Bois, W.E.B.
+date: Feb. 1921
+categories: 
+  - ""
+citation: 
+  type: article-journal
+  container-title: The Crisis
+  volume: 22
+  issue: 4
+  page: 149
+google-scholar: true
+
+format:
+  html:
+    toc: false
+    appendix-cite-as: display
+---
+
+
+
+You are frightened? Thieves, hold-ups and crime? But the police and the courts are with you. Public opinion is behind you; your neighbor's arm is ready to help.
+
+How would you feel if you were a Negro and lived in Georgia or Mississippi or Oklahoma?
+
+There the police *is* the mob. 
+
+The courts *are* the lynchers. 
+
+The press will lie to the last ditch to distort the truth. Suppose you lived there and heard a noise in the night?
+
