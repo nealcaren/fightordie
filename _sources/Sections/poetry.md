@@ -1,5 +1,0 @@
-# Poetry
-
-
-```{tableofcontents}
-```

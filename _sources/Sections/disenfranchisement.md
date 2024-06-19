@@ -1,5 +1,0 @@
-# Disenfranchisement
-
-
-```{tableofcontents}
-```

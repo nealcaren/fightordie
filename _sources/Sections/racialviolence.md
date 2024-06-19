@@ -1,5 +1,0 @@
-# Racial Violence
-
-
-```{tableofcontents}
-```
