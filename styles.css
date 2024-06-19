@@ -1,11 +1,32 @@
 /* css styles */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
+/*@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display=swap');*/
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap');
+
+
+h1, h2, h3, h4, h5 {
+    font-family: 'Roboto Serif';
+}
 
 h1 {
 	font-size: 2.5rem;
 }
 
+/* Epigraph styling */
+.epigraph {
+    font-family: 'Roboto Serif';
+    font-style: italic;
+    text-align: center;
+    margin: 20px 0; /* Adjust margins as needed */
+    color: #555; /* Optional: add a subtle color */
+    padding-left: 4rem;
+    padding-right: 4rem;
+}
+
 .small-caps {
 	font-variant: small-caps;
+    font-weight: 500;
+    font-family: 'Roboto Serif';
 }
 
 /* Remove display of citation prefix */
@@ -23,6 +44,7 @@ h1 {
 }
 
 blockquote {
+    font-family: 'Roboto Serif';
     border-left: none;
 }
 
@@ -44,6 +66,7 @@ blockquote div > p {
 /* BROKEN: Make author/date bigger */
 .quarto-title-meta-contents p {
     font-size: 1.5rem;
+    font-family: 'Roboto Slab';
 }
 
 div.poem {
