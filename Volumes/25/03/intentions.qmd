@@ -1,13 +1,16 @@
 
 ---
 title: 'Intentions'
-author: Du Bois, W.E.B.
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
 date: Jan. 1923
 categories: 
   - ""
 citation: 
   type: article-journal
-  container-title: The Crisis
+  container-title: The Crisis
   volume: 25
   issue: 3
   page: 103-107
@@ -48,7 +51,7 @@ Never before in the history of the United States has the Negro population worked
 > &nbsp;
 > Now, I may call attention to the fact that whatever legislation or whatever else is done for the colored people of this country ought certainly to be done and done promptly, but I insist that none of it ought to be done through or by reason of the National Association for the Advancement of Colored People or any of its sympathizers.
 > &nbsp;
-> I therefore think that it should be the policy of the leaders of the party like you to absolutely ignore and give the back of your hand to such men as Nelson, James Weldon Johnson, W. E. B. Du Bois, Robert L. Vann of Pittsburgh, and others of their ilk. There should be no quarters; and while treating every colored man with fairness and looking well to the interest of our group, these political bolshevists should be annihilated as the basest of ingrates.
+> I therefore think that it should be the policy of the leaders of the party like you to absolutely ignore and give the back of your hand to such men as Nelson, James Weldon Johnson, W. E. B. Du Bois, Robert L. Vann of Pittsburgh, and others of their ilk. There should be no quarters; and while treating every colored man with fairness and looking well to the interest of our group, these political bolshevists should be annihilated as the basest of ingrates.
 > &nbsp;
 > (Signed) Perry W. Howard
 

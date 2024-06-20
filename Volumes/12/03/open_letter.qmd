@@ -1,13 +1,16 @@
 
 ---
 title: 'An Open Letter to Robert Russa Moton'
-author: Du Bois, W.E.B.
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
 date: Feb. 1916
 categories: 
   - ""
 citation: 
   type: article-journal
-  container-title: The Crisis
+  container-title: The Crisis
   volume: 12
   issue: 4
   page: 169-173
@@ -21,7 +24,7 @@ format:
 
 
 
-<span class = "small-caps">The Crisis</span>
+<span class = "small-caps">The Crisis</span>
 hastens to extend to you on your accession to the headship of Tuskegee the  assurances of its good will and personal respect. The <span class = "small-caps">Crisis</span> 
 does this all the more willingly because it has to some extent been the mouthpiece of many who have had occasion repeatedly to criticize the words and deeds of your predecessor. 
 

@@ -1,13 +1,16 @@
 
 ---
 title: 'Letters'
-author: Du Bois, W.E.B.
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
 date: May 1919
 categories: 
   - ""
 citation: 
   type: article-journal
-  container-title: The Crisis
+  container-title: The Crisis
   volume: 17
   issue: 1
   page: 9
@@ -26,7 +29,7 @@ A young southern white woman writes us:
 
 > Several influential women of the South of my acquaintance have decided to write the President concerning the things we hope to see won for the Negro in our national government in the near future. This, we feel, may do something in creating through Mr. Wilson's influence the state of affairs we hope to see. Would you mind outlining for me the questions that most need to have attention given?
 
-To which The Crisis has replied:
+To which The Crisis has replied:
 
 1. Disfranchisement of educated Negroes in the South.
 2. The "Jim-Crow" car system by which we are compelled to pay first-class fares for third-class accommodations, and usually denial of Pullman car accommodations.

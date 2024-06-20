@@ -1,13 +1,16 @@
 
 ---
 title: 'The Negro Soldier'
-author: Du Bois, W.E.B.
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
 date: Jun. 1919
 categories: 
   - ""
 citation: 
   type: article-journal
-  container-title: The Crisis
+  container-title: The Crisis
   volume: 19
   issue: 2
   page: 45-46
@@ -21,7 +24,7 @@ format:
 
 
 
-The carefully arranged attack on the Negro soldier, delayed and somewhat disarranged by <span style="font-variant:small-caps;">The Crisis</span>' revelation in May and June, was at last launched in *Harvey's Weekly*. The article consisted of a series of falsehoods and half-truths.
+The carefully arranged attack on the Negro soldier, delayed and somewhat disarranged by <span class="small-caps">The Crisis</span>' revelation in May and June, was at last launched in *Harvey's Weekly*. The article consisted of a series of falsehoods and half-truths.
 
 > The Ninety-Second Division---was the only Negro division sent to France.
 
@@ -45,7 +48,7 @@ To this scurrilous attack the Secretary of War has himself replied, quoting the 
 
 > The circumstances disclosed by a detailed study of the situation do not justify many of the highly colored accounts which have been given of the behavior of the troops in this section, and they afford no basis at all for any of the general assumptions, with regard to the action of colored troops in this battle or elsewhere in France. On the contrary, it is to be noted that many colored officers, and particularly three in the very battalion here under discussion, were decorated with Distinguished Service Crosses for extraordinary heroism under fire.
 
-A detailed description of this battle can be found in <span style="font-variant:small-caps;">The Crisis</span>, June, 1919.
+A detailed description of this battle can be found in <span class="small-caps">The Crisis</span>, June, 1919.
 
 I have heard the story of this battle from the mouths of Negro officers and soldiers fresh from the hell of war and I am convinced that of all the regiments in France, black and white, none made a more desperate fight or stood a finer test of Negro manhood and leadership than the Three Hundred and Sixty-Eighth.
 

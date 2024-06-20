@@ -1,13 +1,16 @@
 
 ---
 title: 'The Younger Literary Movement'
-author: Du Bois, W.E.B. and Alan Locke
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois and Alan Locke
 date: Feb. 1924
 categories: 
   - ""
 citation: 
   type: article-journal
-  container-title: The Crisis
+  container-title: The Crisis
   volume: 27
   issue: 4
   page: 161-163
@@ -74,4 +77,4 @@ The book has what I maintain is the prime essential for novels with such subject
 These, then, are the two books of the younger Negro Movement; read them and enjoy them as I have done and spread the glad tidings. <span class="right">--W. E. B. D.</span>
 
 _____
-*Citation:* Du Bois, W.E.B. and Alan Locke. 1924. "The Younger Literary Movement." *The Crisis*. 27(4):161&ndash;163.
+*Citation:* Du Bois, W.E.B. and Alan Locke. 1924. "The Younger Literary Movement." *The Crisis*. 27(4):161&ndash;163.

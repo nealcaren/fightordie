@@ -1,13 +1,16 @@
 
 ---
 title: 'The National Interracial Conference'
-author: Du Bois, W.E.B.
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
 date: Feb. 1929
 categories: 
   - ""
 citation: 
   type: article-journal
-  container-title: The Crisis
+  container-title: The Crisis
   volume: 36
   issue: 2
   page: 47, 69-70
@@ -75,9 +78,9 @@ In *Citizenship and Race Relations* an insistent demand for the suffrage was mad
 
 The whole bogie of inherent, ineradicable race distinctions was attacked. "Races that try to be exclusive are both the producers and the consumers of each other's goods. The competition of laborers seems immediate and threatening. However, with a rising tide of economic activity, no race is self-sufficient, and the organization of interracial labor will be just as easily demonstrated and just as necessary as is international banking." 
 
-One comes from a meeting of this sort with a distinct feeling that all of the labor and devotion which was put into this ought not to be lost. There is no need for any super-organization. Agreement is not yet wide enough for a movement of this kind; but THE Crisis suggests that the following program be carried out, to obviate, on one hand, such an impossible crowding of problems and spoiling of real conference and discussion as was inevitable at this meeting; and on the other hand, to widen and deepen our knowledge of facts. 
+One comes from a meeting of this sort with a distinct feeling that all of the labor and devotion which was put into this ought not to be lost. There is no need for any super-organization. Agreement is not yet wide enough for a movement of this kind; but The Crisis suggests that the following program be carried out, to obviate, on one hand, such an impossible crowding of problems and spoiling of real conference and discussion as was inevitable at this meeting; and on the other hand, to widen and deepen our knowledge of facts. 
 
-<span style="font-variant:small-caps;">The Crisis</span> proposes that the sponsoring organizations, and any other organizations that may wish to come in, should arrange a comprehensive program; admission should depend upon willingness to inaugurate, with the cooperation and consent of consulting Committee of experts, a long intensive scientific study of some one phase of the Negro problems; and that there be held each year a meeting at which the result of *one* of these lines of study be reported to the public and adequately and thoroughly discussed. The following year another subject should be taken up, etc. At the beginning, of course, subjects would have to be chosen which had less than ten years' investigation, but it would be easy to do this because, for instance, in matters of health, education, industry and agriculture, recreation and housing, there is already a fairly good beginning of material. In 1929 and 1939, for instance, we might have a meeting devoted entirely to health, in which all of the studies made and available, should be presented and discussed. After that the following problems could be put on: 1930 and 1940, Education; 1931 and 1941, Industry and Agriculture; 1932 and 1942, Housing and Recreation; 1933 and 1943, Law Observance and Administration; 1934 and 1944, Citizenship and the Suffrage; 1935 and 1945, Race and Race Relations. With the year 1936, the question of health could again be taken up with seven years of additional study over 1929, and so on through the program. 
+<span class="small-caps">The Crisis</span> proposes that the sponsoring organizations, and any other organizations that may wish to come in, should arrange a comprehensive program; admission should depend upon willingness to inaugurate, with the cooperation and consent of consulting Committee of experts, a long intensive scientific study of some one phase of the Negro problems; and that there be held each year a meeting at which the result of *one* of these lines of study be reported to the public and adequately and thoroughly discussed. The following year another subject should be taken up, etc. At the beginning, of course, subjects would have to be chosen which had less than ten years' investigation, but it would be easy to do this because, for instance, in matters of health, education, industry and agriculture, recreation and housing, there is already a fairly good beginning of material. In 1929 and 1939, for instance, we might have a meeting devoted entirely to health, in which all of the studies made and available, should be presented and discussed. After that the following problems could be put on: 1930 and 1940, Education; 1931 and 1941, Industry and Agriculture; 1932 and 1942, Housing and Recreation; 1933 and 1943, Law Observance and Administration; 1934 and 1944, Citizenship and the Suffrage; 1935 and 1945, Race and Race Relations. With the year 1936, the question of health could again be taken up with seven years of additional study over 1929, and so on through the program. 
 
 At each of the meetings, while the main topic which had received the intensive study for the period, would receive the main part of the attention, one or two sessions might be given to a general survey of all conditions, in which new studies and new occurrences would be partially reported. The annual meetings could be in charge of the organization making the main study, with financial aid for the meeting from all member organizations. 
 

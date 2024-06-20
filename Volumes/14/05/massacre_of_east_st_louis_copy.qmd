@@ -7,7 +7,7 @@ categories:
   - ""
 citation: 
   type: article-journal
-  container-title: The Crisis
+  container-title: The Crisis
   volume: 14
   issue: 5
   page: 219-238
@@ -22,7 +22,7 @@ format:
 
 ![](../../../Images/mesl_1.jpg)
 
-***The National Association for the Advancement of Colored People 70 Fifth Avenue, New York, sent Martha Gruening and W. E. Burghardt Du Bois to East St. Louis, as special investigators of the recent outrages. These two collected in person the facts and pictures from which this article is compiled.***
+***The National Association for the Advancement of Colored People 70 Fifth Avenue, New York, sent Martha Gruening and W. E. Burghardt Du Bois to East St. Louis, as special investigators of the recent outrages. These two collected in person the facts and pictures from which this article is compiled.***
 
 On the 2nd of July, 1917, the city of East St. Louis in Illinois added a foul and revolting page to the history of all the massacres of the world. On that day a mob of white men, women and children burned and destroyed at least $400,000 worth of property belonging to both whites and Negroes; drove 6,000 Negroes out of their homes; and deliberately burdered, by shooting, burning and hanging, between one and two hundred human beings who were black.
 
@@ -138,7 +138,7 @@ Miss Gruening inquired why, in the case of so much heroism, were so many Negroes
 
 Many white people told Miss Gruening that the militia had done remarkably well when one considered that most of them came from towns in Southern Illinois, like Olney, for instance, at whose railway stations were placards with the inscription: "Nigger, don't let the sun set on you." It  was impossible, it was argued, for such men to suppose that they were being called on to protect "niggers!"
 
-And now we come to a short list of savage deeds which most of the newspapers have failed to print. Some of them though hint at them, like the *St. Louis Globe-Democrat* for instance, when it says "enormities of savagery which would shame the jungle were committed in the presence of policemen and militiamen." All of the following statements were related by eyewitnesses to Miss Gruening and Dr. Du Bois.
+And now we come to a short list of savage deeds which most of the newspapers have failed to print. Some of them though hint at them, like the *St. Louis Globe-Democrat* for instance, when it says "enormities of savagery which would shame the jungle were committed in the presence of policemen and militiamen." All of the following statements were related by eyewitnesses to Miss Gruening and Dr. Du Bois.
 
 Miss Gruening writing in the *Boston Journal* says succintly:
 
@@ -155,7 +155,7 @@ Around a corner came a group of miners, fresh from work, their pick-axes over th
 ![](../../../Images/mesl_5.jpg)  
 **Looking for bodies of victims. Six were found here.**  *St. Louis Star.*
 
-While Mrs. Cox was talking to Miss Gruening and Dr. Du Bois, a colored woman came up and exclaimed: "There's the lady that saved me!" The woman had spent all that terrible night crouching in a sewer pipe.
+While Mrs. Cox was talking to Miss Gruening and Dr. Du Bois, a colored woman came up and exclaimed: "There's the lady that saved me!" The woman had spent all that terrible night crouching in a sewer pipe.
 
 It was Mrs. Cox, too, who saw the baby snatched from its mother's arms and thrown into the flames, to be followed afterwards by the mother. This last act was the only merciful one on the part of the crowd.
 

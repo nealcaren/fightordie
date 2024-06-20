@@ -1,13 +1,16 @@
 
 ---
 title: 'Hampton'
-author: Du Bois, W.E.B.
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
 date: May 1918
 categories: 
   - ""
 citation: 
   type: article-journal
-  container-title: The Crisis
+  container-title: The Crisis
   volume: 15
   issue: 1
   page: 10-12
@@ -22,7 +25,7 @@ format:
 
 The death of Hollis Burke Frissell, principal of Hampton Institute, brings that institution and its work prominently before the public. It is, therefore, peculiarly fitting that the following correspondence should be made public: 
 
-> Dear Dr. Du Bois:    <p> In preparation for the Fiftieth Anniversary of Hampton Institute, efforts are being made to collect the necessary material for the history of the school. It is a matter of history that for many years the colored people were opposed to the type of education offered them at Hampton and were consequently also opposed to the school itself. For the sake of learning the facts in regard to this matter I am writing to you and to a number of other prominent colored men to ask for statements in regard to the facts in the case.   <p> I shall be very grateful if you will send me a statement in regard to the attitude (with reasons) of the colored people who were opposed to industrial education during the early days of Hampton and who are still in some cases opposed to it.      <p> Will you kindly say in this connection whether you will object to the use of your name, if that is thought desirable? * * *       <p> (Miss) J. E. DAVIS. 
+> Dear Dr. Du Bois:    <p> In preparation for the Fiftieth Anniversary of Hampton Institute, efforts are being made to collect the necessary material for the history of the school. It is a matter of history that for many years the colored people were opposed to the type of education offered them at Hampton and were consequently also opposed to the school itself. For the sake of learning the facts in regard to this matter I am writing to you and to a number of other prominent colored men to ask for statements in regard to the facts in the case.   <p> I shall be very grateful if you will send me a statement in regard to the attitude (with reasons) of the colored people who were opposed to industrial education during the early days of Hampton and who are still in some cases opposed to it.      <p> Will you kindly say in this connection whether you will object to the use of your name, if that is thought desirable? * * *       <p> (Miss) J. E. DAVIS. 
 
 Dear Miss Davis: 
 
@@ -41,7 +44,7 @@ These are the reasons why many educated Negroes are and have been "opposed" to H
 
 I reiterate my respect for the Institution and my firm belief that it has done great good, but I insist that no school which deliberately curtails the training of the talented, refuses to guide her apter students to their greatest development, save in restricted lines, and not only gives her beneficiaries little or no voice in its control, but seems even to harbor and encourage their enemies---no such school is reaching its greatest usefulness. 
 
-W. E. B. <span class = "small-caps">DU BOIS<.span>.
+W. E. B. <span class = "small-caps">Du Bois<.span>.
 
 __________
-*Citation:* Du Bois, W.E.B. 1918. "Hampton." *The Crisis*. 15(1):10&ndash;12.
+*Citation:* Du Bois, W.E.B. 1918. "Hampton." *The Crisis*. 15(1):10&ndash;12.

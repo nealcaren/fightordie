@@ -1,13 +1,16 @@
 
 ---
 title: 'The Fourteenth Amendment'
-author: Du Bois, W.E.B.
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
 date: May 1915
 categories: 
   - ""
 citation: 
   type: article-journal
-  container-title: The Crisis
+  container-title: The Crisis
   volume: 10
   issue: 1
   page: 128
@@ -23,4 +26,4 @@ format:
 A correspondent asks us "in view of the explicit and imperative terms of the Fourteenth Amendment is it not the binding duty of Congress to cut down southern representation in apportioning members to Congress to the various states?" We answer, it is. But who is going to make Congress do its duty? We are trying to do this and have tried and will continue to try, but we have not yet succeeded.
 
 _____
-*Citation:* Du Bois, W.E.B. 1915. "The Fourteenth Amendment." *The Crisis*. 10(1):128.
+*Citation:* Du Bois, W.E.B. 1915. "The Fourteenth Amendment." *The Crisis*. 10(1):128.

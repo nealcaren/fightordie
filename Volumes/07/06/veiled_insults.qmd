@@ -1,13 +1,16 @@
 
 ---
 title: 'Veiled Insults'
-author: Du Bois, W.E.B.
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
 date: Apr. 1914
 categories: 
   - ""
 citation: 
   type: article-journal
-  container-title: The Crisis
+  container-title: The Crisis
   volume: 7
   issue: 6
   page: 287-288

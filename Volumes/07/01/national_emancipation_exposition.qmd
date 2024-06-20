@@ -1,13 +1,16 @@
 
 ---
 title: 'The People of Peoples and Their Gifts to Men'
-author: Du Bois, W.E.B.
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
 date: Nov. 1913
 categories: 
   - ""
 citation: 
   type: article-journal
-  container-title: The Crisis
+  container-title: The Crisis
   volume: 6
   issue: 7
   page: 339-341
@@ -23,7 +26,7 @@ format:
 
 **In New York City, October 22-31, 1913**
 
-*The pageant of Negro history as written by W. E. B. Du Bois and produced by Charles Burroughs, Master; Daisy Tapley, Dora Cole Norman, Marie Stuart Jackson, Augustus G. Dill and 350 others, during the exhibition, and entitled "The People of Peoples and Their Gifts to Men."*
+*The pageant of Negro history as written by W. E. B. Du Bois and produced by Charles Burroughs, Master; Daisy Tapley, Dora Cole Norman, Marie Stuart Jackson, Augustus G. Dill and 350 others, during the exhibition, and entitled "The People of Peoples and Their Gifts to Men."*
 
 ## Prelude
 

@@ -1,13 +1,16 @@
 
 ---
 title: 'The Proper Way'
-author: Du Bois, W.E.B.
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
 date: Mar. 1913
 categories: 
   - ""
 citation: 
   type: article-journal
-  container-title: The Crisis
+  container-title: The Crisis
   volume: 5
   issue: 5
   page: 238-239
@@ -34,11 +37,11 @@ But the *Gazette* should know that cases before the Supreme Court are delicate m
 
 
 
-As to lynching, there are four things to do: Publish the facts, appeal to the authorities, agitate publicity and employ detectives. Every one of these things we have done. <span class = "small-caps">The Crisis</span> publishes the facts monthly over the protest of sensitive readers. We have sent telegrams and appeals to governors, sheriffs and the President; we have held mass meetings: we have sent distinguished writers and: investigators; we have secured publicity in prominent magazines, and we spent thousands of dollars in putting Burns' detectives on the Coatesville matter.
+As to lynching, there are four things to do: Publish the facts, appeal to the authorities, agitate publicity and employ detectives. Every one of these things we have done. <span class = "small-caps">The Crisis</span> publishes the facts monthly over the protest of sensitive readers. We have sent telegrams and appeals to governors, sheriffs and the President; we have held mass meetings: we have sent distinguished writers and: investigators; we have secured publicity in prominent magazines, and we spent thousands of dollars in putting Burns' detectives on the Coatesville matter.
 
 What else can we do? We want suggestions. Meantime we shall keep up our present agitation.
 
-Some folk seem to imagine that the walls of caste and prejudice in America will fall at a blast of the trumpet, if the blast be loud enough. Consequently, when an association like the National Association for the Advancement of Colored People does something, they say querulously: "But nothing has happened." They ought to say: Nothing has yet happened, for that is true and that is expected. If in fifty or a hundred years <span class = "small-caps">The Crisis</span> can point to a distinct lessening of disfranchisement, and an undoubted reduction of lynching, and more decent traveling accommodations, this will be a great, an enormous accomplishment. Would God all this could be done to-morrow, but this is not humanly possible.
+Some folk seem to imagine that the walls of caste and prejudice in America will fall at a blast of the trumpet, if the blast be loud enough. Consequently, when an association like the National Association for the Advancement of Colored People does something, they say querulously: "But nothing has happened." They ought to say: Nothing has yet happened, for that is true and that is expected. If in fifty or a hundred years <span class = "small-caps">The Crisis</span> can point to a distinct lessening of disfranchisement, and an undoubted reduction of lynching, and more decent traveling accommodations, this will be a great, an enormous accomplishment. Would God all this could be done to-morrow, but this is not humanly possible.
 
 What is possible to-day and tomorrow and every day is to keep up necessary agitation, make unfaltering protest, fill the courts and legislatures and executive chambers, and keep ever lastingly at the work of protest in season and out of season. The weak and silly part of the program of those who deprecate complaint and agitation is that a moment's let up, a moment's acquiescence, means a chance for the wolves of prejudice to get at our necks. It is not that we have too many organizations; it is that we have too few effective workers in the great cause of Negro emancipation in America. Let us from this movement join in a frontal attack on disfranchiseemnt, "Jim Crow" cars and lynching. We shall not win today or to-morrow, but some day we shall win if we faint not.
 

@@ -1,13 +1,16 @@
 
 ---
 title: 'Intermarriage'
-author: Du Bois, W.E.B.
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
 date: Apr. 1916
 categories: 
   - ""
 citation: 
   type: article-journal
-  container-title: The Crisis
+  container-title: The Crisis
   volume: 11
   issue: 6
   page: 306
@@ -22,7 +25,7 @@ format:
 
 
 There are those who from time to time suggest that the National
-Association for the Advancement of Colored People and <span style="font-variant:small-caps;">The Crisis</span> go far afield in opposing laws to prohibit
+Association for the Advancement of Colored People and <span class="small-caps">The Crisis</span> go far afield in opposing laws to prohibit
 intermarriage between white and colored people. They argue that neither
 race desires intermarriage; that it is a matter "purely social," and
 that legalizing the prohibition simply puts stern custom into law. Every

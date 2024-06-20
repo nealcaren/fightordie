@@ -1,13 +1,16 @@
 
 ---
 title: 'William Monroe Trotter'
-author: Du Bois, W.E.B.
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
 date: May 1934
 categories: 
   - ""
 citation: 
   type: article-journal
-  container-title: The Crisis
+  container-title: The Crisis
   volume: 41
   issue: 5
   page: 134
@@ -31,7 +34,7 @@ Out of this rose his life-long philosophy: Intense hatred of all racial discrimi
 
 In the first years of the 20th Century, with George Forbes, Monroe Trotter began the publication of *The Guardian*. Several times young men have started radical sheets among us, like *The Messenger*, and others. But nothing, I think, that for sheer biting invective and unswerving courage, ever quite equaled the Boston *Guardian* in its earlier days. Mr. Washington and his followers literally shriveled before it, and it was, of course, often as unfair as it was inspired. 
 
-I had come to know Trotter, then, especially because I knew Deenie Pindell as a girl before they were married. We were to stop with them one summer. Mrs. Du Bois was already there when I arrived in Boston, and on the elevated platform, I learned of the Zion Church riot. It was called a riot in  the newspapers, and they were full of it. As a matter of fact, Trotter and Forbes had tried to ask Booker T. Washington certain pointed questions, after a speech which he made in the colored church; and immediately he was arrested, according to the careful plans which William L. Lewis, Washington's attorney, had laid. I was incensed at Trotter. I thought that he had been needlessly violent, and had compromised me as his guest; but when I learned the exact facts, and how little cause for riot there was, and when they clapped Trotter in the Charles Street Jail, all of us more conservative, younger men rose in revolt. 
+I had come to know Trotter, then, especially because I knew Deenie Pindell as a girl before they were married. We were to stop with them one summer. Mrs. Du Bois was already there when I arrived in Boston, and on the elevated platform, I learned of the Zion Church riot. It was called a riot in  the newspapers, and they were full of it. As a matter of fact, Trotter and Forbes had tried to ask Booker T. Washington certain pointed questions, after a speech which he made in the colored church; and immediately he was arrested, according to the careful plans which William L. Lewis, Washington's attorney, had laid. I was incensed at Trotter. I thought that he had been needlessly violent, and had compromised me as his guest; but when I learned the exact facts, and how little cause for riot there was, and when they clapped Trotter in the Charles Street Jail, all of us more conservative, younger men rose in revolt. 
 
 Out of this incident, within a year or two, arose the Niagara movement, and Trotter was present. 
 

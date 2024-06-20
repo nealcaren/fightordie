@@ -1,13 +1,16 @@
 
 ---
 title: 'The Class Struggle'
-author: Du Bois, W.E.B.
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
 date: Feb. 1921
 categories: 
   - ""
 citation: 
   type: article-journal
-  container-title: The Crisis
+  container-title: The Crisis
   volume: 22
   issue: 4
   page: 151-152

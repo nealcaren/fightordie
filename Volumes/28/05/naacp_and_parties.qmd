@@ -1,13 +1,16 @@
 
 ---
 title: 'The N.A.A.C.P. and Parties'
-author: Du Bois, W.E.B.
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
 date: Mar. 1924
 categories: 
   - ""
 citation: 
   type: article-journal
-  container-title: The Crisis
+  container-title: The Crisis
   volume: 28
   issue: 5
   page: 199-200

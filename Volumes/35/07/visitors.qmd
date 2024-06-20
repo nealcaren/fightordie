@@ -1,13 +1,16 @@
 
 ---
 title: 'Visitors'
-author: Du Bois, W.E.B.
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
 date: Jul. 1928
 categories: 
   - ""
 citation: 
   type: article-journal
-  container-title: The Crisis
+  container-title: The Crisis
   volume: 35
   issue: 7
   page: 239-240
@@ -42,7 +45,7 @@ joy and laughter in his voice! The world lives and moves again.
 
 But---both Visitor and Worker must have some modicum of common sense.
 The Visitor blows in town on holiday. He sleeps well, eats heartily and
-at eleven&nbsp;A.M. says gaily: "Now for <span style="font-variant:small-caps;">The Crisis</span> office!"
+at eleven&nbsp;A.M. says gaily: "Now for <span class="small-caps">The Crisis</span> office!"
 But pause, friend. Why not just go to the &rsquo;phone and say: "I'm in town.
 Want to see you. When are you free?" And the editor responds: "Could you
 come at 2? Good!" All is well. Both are happy. Both are helped.

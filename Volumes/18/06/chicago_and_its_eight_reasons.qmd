@@ -1,4 +1,3 @@
-
 ---
 title: 'Chicago and Its Eight Reasons'
 author: White, Walter F.
@@ -7,7 +6,7 @@ categories:
   - ""
 citation: 
   type: article-journal
-  container-title: The Crisis
+  container-title: The Crisis
   volume: 18
   issue: 6
   page: 293-297
@@ -77,6 +76,4 @@ In a number of cases during the period from January, 1918, to August, 1919, ther
 
 Finally, the new spirit aroused in Negroes by their war experiences enters into the problem. From Local Board No. 4, embracing the neighborhood in the vicinity of State and 35th Streets, containing over 30,000 inhabitants of which fully ninety per cent are colored, over 9,000 men registered uandad 1,850 went to camp. These men, with their new outlook on life, injected the same spirit of independence into their companions, a thing that is true of many other sections of America. One of the greatest surprises to many of those who came down to "clean out the niggers" is that these same "niggers" fought back. Colored men saw their own kind being killed, heard of many more and believed that their live; and liberty were at stake. In such a spirit most of the fighting was done.
 
-![](../../../Images/white_mob.png)    
-***The "Infuriated" White Mob in Chicago***
-
+![The "Infuriated" White Mob in Chicago](../../../Images/white_mob.png)    

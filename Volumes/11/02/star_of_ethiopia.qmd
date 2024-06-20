@@ -1,13 +1,16 @@
 
 ---
 title: 'The Star of Ethiopia'
-author: Du Bois, W.E.B.
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
 date: Jun. 1915
 categories: 
   - ""
 citation: 
   type: article-journal
-  container-title: The Crisis
+  container-title: The Crisis
   volume: 11
   issue: 2
   page: 91-93
@@ -43,4 +46,4 @@ I shall never forget that last night. Six thousand human faces looked down from 
 The Herald cried, "People of Washington arise, and go. The Play is done." And yet the play was not done. Some things are quite too beautiful ever to be finished. So I walked home alone and
 the joys of God.
 
-*Citation:* Du Bois, W.E.B. 1915. "The Star of Ethiopia." *The Crisis*. 11(2):91&ndash;93.
+*Citation:* Du Bois, W.E.B. 1915. "The Star of Ethiopia." *The Crisis*. 11(2):91&ndash;93.

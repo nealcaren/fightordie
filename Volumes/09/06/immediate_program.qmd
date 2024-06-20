@@ -1,13 +1,16 @@
 
 ---
 title: 'The Immediate Program of the  American Negro'
-author: Du Bois, W.E.B.
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
 date: Apr. 1915
 categories: 
   - ""
 citation: 
   type: article-journal
-  container-title: The Crisis
+  container-title: The Crisis
   volume: 9
   issue: 6
   page: 310-312
@@ -48,7 +51,7 @@ We must *secondly* seek in legislature and congress remedial legislation; nation
 
 *Third* the human contact of human beings must be increased; the policy which brings into sympathetic touch and understanding, men and women, rich and poor, capitalist and laborer, Asiatic and European, must bring into closer contact and mutual knowledge the white and black people of this land. It is the most frightful indictment of a country which dares to call itself civilized that it has allowed itself to drift into a state of ignorance where ten million people are coming to believe that all white people are liars and thieves, and the whites in turn to believe that the chief industry of Negroes is raping white women.
 
-*Fourth* only the publication of the truth repeatedly and incisively and uncompromisingly can secure that change in public opinion which will correct these awful lies. <span class = "small-caps">The Crisis</span>, our record of the darker races, must have a circulation not of 35,000 chiefly among colored folk  but of at least 250,000 among all men who believe in men. It must not be a namby-pamby box of salve, but a voice that thunders fact and is more anxious to be true than pleasing. There should be a campaign of tract distribution---short well written facts and arguments---rained over this land by millions of copies, particularly in the South, where the white people know less about the Negro than in any other part of the civilized world. The press should be utilized---the 400 Negro weeklies, the great dailies and eventually the magazines, when we get magazine editors who will lead public opinion instead of following afar with resonant brays. Lectures, lantern-slides and moving pictures, co-operating with a bureau of information and eventually becoming a Negro encyclopedia, all these are efforts along the line of making human beings realize that Negroes are human.
+*Fourth* only the publication of the truth repeatedly and incisively and uncompromisingly can secure that change in public opinion which will correct these awful lies. <span class = "small-caps">The Crisis</span>, our record of the darker races, must have a circulation not of 35,000 chiefly among colored folk  but of at least 250,000 among all men who believe in men. It must not be a namby-pamby box of salve, but a voice that thunders fact and is more anxious to be true than pleasing. There should be a campaign of tract distribution---short well written facts and arguments---rained over this land by millions of copies, particularly in the South, where the white people know less about the Negro than in any other part of the civilized world. The press should be utilized---the 400 Negro weeklies, the great dailies and eventually the magazines, when we get magazine editors who will lead public opinion instead of following afar with resonant brays. Lectures, lantern-slides and moving pictures, co-operating with a bureau of information and eventually becoming a Negro encyclopedia, all these are efforts along the line of making human beings realize that Negroes are human.
 
 Such is the program of work against obstructions. Let us now turn to constructive effort. This may be summed up under (1) economic co-operation (2) a revival of art and literature (3) political action (4) education and (5) organization.
 
@@ -62,4 +65,4 @@ In education we must seek to give colored children free public school training. 
 
 For the accomplishment of all these ends we must organize. Organization among us already has gone far but it must go much further and higher. Organization is sacrifice. It is sacrifice of opinions, of time, of work and of money, but it is, after all, the cheapest way of buying the most priceless of gifts---freedom and efficiency. I thank God that most of the money that supports the National Association for the Advancement of Colored People comes from black hands; a still larger proportion must so come, and we must not only support but control this and similar organizations and hold them unwaveringly to our objects, our aims and our ideals.
 
-*Citation:* Du Bois, W.E.B. 1915. "The Immediate Program of the  American Negro." *The Crisis*. 9(6):310&ndash;312.
+*Citation:* Du Bois, W.E.B. 1915. "The Immediate Program of the  American Negro." *The Crisis*. 9(6):310&ndash;312.

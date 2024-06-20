@@ -1,13 +1,16 @@
 
 ---
 title: 'Lusitania'
-author: Du Bois, W.E.B.
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
 date: Jun. 1915
 categories: 
   - ""
 citation: 
   type: article-journal
-  container-title: The Crisis
+  container-title: The Crisis
   volume: 10
   issue: 2
   page: 81

@@ -1,13 +1,16 @@
 
 ---
 title: 'The Migration of Negroes'
-author: Du Bois, W.E.B.
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
 date: Jun. 1917
 categories: 
   - ""
 citation: 
   type: article-journal
-  container-title: The Crisis
+  container-title: The Crisis
   volume: 14
   issue: 2
   page: 63-66
@@ -20,7 +23,7 @@ format:
 ---
 
 
-Much has been written of the recent migration of colored people from the South to the North, but there have been very few attempts to give a definite, coherent picture of the whole movement. Aided by the funds of the National Association for the Advancement of Colored People, <span class = "small-caps">The Crisis</span> has attempted to put into concrete form such knowledge as we have of this movement.
+Much has been written of the recent migration of colored people from the South to the North, but there have been very few attempts to give a definite, coherent picture of the whole movement. Aided by the funds of the National Association for the Advancement of Colored People, <span class = "small-caps">The Crisis</span> has attempted to put into concrete form such knowledge as we have of this movement.
 
 The data at hand are vague and have been collected from a hundred different sources. While the margin of error is large, the actual information which we have gathered is most valuable.
 

@@ -1,13 +1,16 @@
 
 ---
 title: 'The Possibility of Democracy'
-author: Du Bois, W.E.B.
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
 date: Sep. 1928
 categories: 
   - ""
 citation: 
   type: article-journal
-  container-title: The Crisis
+  container-title: The Crisis
   volume: 35
   issue: 9
   page: 296--296, 314--315

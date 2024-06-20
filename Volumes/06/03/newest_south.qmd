@@ -1,13 +1,16 @@
 
 ---
 title: 'The Newest South'
-author: Du Bois, W.E.B.
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
 date: Jan. 1913
 categories: 
   - ""
 citation: 
   type: article-journal
-  container-title: The Crisis
+  container-title: The Crisis
   volume: 6
   issue: 3
   page: 130
@@ -20,7 +23,7 @@ format:
 ---
 
 
-For the first time in history, Southern white men and Southern black men have met under Southern white auspices and frankly discussed the race problems of the South before an audience of both races. At the Southern Sociological Congress the professional Negro lover was absent, and the white demagogue was silent. There was scarcely a word uttered which <span style="font-variant:small-caps;">The Crisis</span> does not cordially endorse.
+For the first time in history, Southern white men and Southern black men have met under Southern white auspices and frankly discussed the race problems of the South before an audience of both races. At the Southern Sociological Congress the professional Negro lover was absent, and the white demagogue was silent. There was scarcely a word uttered which <span class="small-caps">The Crisis</span> does not cordially endorse.
 
 It was a splendid occasion. It was epoch making, and men like Dillard, Hunley, Branson Morse, Hammond and Scroggs are the real leaders of the newest South.
 

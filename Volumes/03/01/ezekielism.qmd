@@ -1,13 +1,16 @@
 
 ---
 title: '''Ezekielism'''
-author: Du Bois, W.E.B.
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
 date: May 1911
 categories: 
   - ""
 citation: 
   type: article-journal
-  container-title: The Crisis
+  container-title: The Crisis
   volume: 3
   issue: 1
   page: 25

@@ -1,13 +1,16 @@
 
 ---
 title: 'Criteria of Negro Art'
-author: Du Bois, W.E.B.
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
 date: Apr. 1926
 categories: 
   - ""
 citation: 
   type: article-journal
-  container-title: The Crisis
+  container-title: The Crisis
   volume: 32
   issue: 6
   page: 290-297
@@ -20,7 +23,7 @@ format:
 ---
 
 
-*So many persons have asked for the complete text of the address delivered by Dr. Du Bois at the Chicago Conference of the National Association for the Advancement of Colored People that we are publishing the address here.*
+*So many persons have asked for the complete text of the address delivered by Dr. Du Bois at the Chicago Conference of the National Association for the Advancement of Colored People that we are publishing the address here.*
 
 Do not doubt but there are some in this audience who are a little disturbed at the subject of this meeting, and particularly at the subject I have chosen. Such people are thinking something like this: "How is it that an organization like this, a group of radicals trying to bring new things into the world, a fighting organization which has come up out of the blood and dust of battle, struggling for the right of black men to be ordinary human beings---how is it that an organization of this kind can turn aside to talk about Art? After all, what have we who are slaves and black to do with Art?"
 

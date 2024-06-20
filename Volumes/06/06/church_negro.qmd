@@ -1,13 +1,16 @@
 
 ---
 title: 'The Church and the Negro'
-author: Du Bois, W.E.B.
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
 date: Apr. 1913
 categories: 
   - ""
 citation: 
   type: article-journal
-  container-title: The Crisis
+  container-title: The Crisis
   volume: 6
   issue: 6
   page: 290-291

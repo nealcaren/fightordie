@@ -1,13 +1,16 @@
 
 ---
 title: 'For What'
-author: Du Bois, W.E.B.
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
 date: Apr. 1919
 categories: 
   - ""
 citation: 
   type: article-journal
-  container-title: The Crisis
+  container-title: The Crisis
   volume: 17
   issue: 6
   page: 268
@@ -26,4 +29,4 @@ Fellow blacks, we must join the democracy of Europe.
 
 --------------  
 
-*Citation:* Du Bois, W.E.B. 1919. "For What." *The Crisis*. 17(6):268.
+*Citation:* Du Bois, W.E.B. 1919. "For What." *The Crisis*. 17(6):268.

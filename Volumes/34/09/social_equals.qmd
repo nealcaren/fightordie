@@ -1,13 +1,16 @@
 
 ---
 title: 'Social Equals'
-author: Du Bois, W.E.B.
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
 date: Nov. 1927
 categories: 
   - Social Equality
 citation: 
   type: article-journal
-  container-title: The Crisis
+  container-title: The Crisis
   volume: 34
   issue: 9
   page: 312

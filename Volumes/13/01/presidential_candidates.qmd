@@ -7,7 +7,7 @@ categories:
   - ""
 citation: 
   type: article-journal
-  container-title: The Crisis
+  container-title: The Crisis
   volume: 13
   issue: 1
   page: 16-17
@@ -41,7 +41,7 @@ We beg to remain, Sir,<br>
 <li> <span class="small-caps">National Association for the Advancement of Colored People</span>.
 <li> (Signed) J. E. <span class="small-caps">Spingarn</span>, Chairman of the Board of Directors.
 <li> (Signed) Oswald Garrison <span class="small-caps">Villard</span>, Treasurer
-<li> (Signed) W. E. Burghardt <span class="small-caps">Du Bois</span>, Director of Publications and Research.
+<li> (Signed) W. E. Burghardt <span class="small-caps">Du Bois</span>, Director of Publications and Research.
 <li> (Signed) A. H. <span class="small-caps">Grimké</span>, President, District of Columbia Branch. 
 </ul>
 

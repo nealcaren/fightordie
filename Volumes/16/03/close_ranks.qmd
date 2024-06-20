@@ -1,13 +1,16 @@
 
 ---
 title: 'Close Ranks'
-author: Du Bois, W.E.B.
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
 date: Jan. 1918
 categories: 
   - ""
 citation: 
   type: article-journal
-  container-title: The Crisis
+  container-title: The Crisis
   volume: 16
   issue: 3
   page: 111
@@ -22,7 +25,7 @@ format:
 
 
 
-This is the crisis of the world.
+This is The Crisis of the world.
 
 For all the long years to come men will point to the at year 1918 as the great Day of Decision, the day when the world decided whether it would submit to military despotism and an endless armed peace---if peace it could be called---or whether they would put down the menace of German militarism and inaugurate the United States of the World.
 

@@ -1,13 +1,16 @@
 
 ---
 title: 'Divine Right'
-author: Du Bois, W.E.B.
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
 date: Mar. 1912
 categories: 
   - ""
 citation: 
   type: article-journal
-  container-title: The Crisis
+  container-title: The Crisis
   volume: 3
   issue: 5
   page: 197
@@ -20,7 +23,7 @@ format:
 ---
 
 
-We would like to know what rights the white people of this land are going to be able to retain? Step by step their dearest and most cherished prerogatives are being invaded, and <span style="font-variant:small-caps;">The Crisis</span> wants to say right here and now that it does not countenance oppression of the downtrodden whites by arrogant black folk. A few years ago the right to kick a darky off the sidewalk was unquestioned in the most devout circles, and yet to-day they actually complain at being called by their front names.
+We would like to know what rights the white people of this land are going to be able to retain? Step by step their dearest and most cherished prerogatives are being invaded, and <span class="small-caps">The Crisis</span> wants to say right here and now that it does not countenance oppression of the downtrodden whites by arrogant black folk. A few years ago the right to kick a darky off the sidewalk was unquestioned in the most devout circles, and yet to-day they actually complain at being called by their front names.
 
 Everybody knows that for three hundred years the most jealously guarded right of white men in this land and others has been the right to seduce black women without legal, social or moral penalty. Many white mothers and daughters of the best families have helped to maintain this ancient and honored custom by loading the victims of their fathers' and husbands' lust with every epithet of insult and degradation. Thus has the sweet cleanness of their own race virtue shone holier and higher.
 

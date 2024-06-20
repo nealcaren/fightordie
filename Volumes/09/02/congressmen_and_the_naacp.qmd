@@ -1,13 +1,16 @@
 
 ---
 title: 'The Congressmen and the NAACP'
-author: Du Bois, W.E.B.
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
 date: Jun. 1914
 categories: 
   - ""
 citation: 
   type: article-journal
-  container-title: The Crisis
+  container-title: The Crisis
   volume: 9
   issue: 2
   page: 85-87
@@ -49,7 +52,7 @@ A white policeman, F. A. Winter of Los Angeles, has been clandestinely meeting J
 
 Here, then, is the problem: Did the colored people want this girl to have a white husband? They most certainly did not. Did the white people want the policeman to have a colored wife? Evidently not. But the fact remains that these people wanted each other and what is a civilized world going to do about it? Of course, the first answer that rushes to the mouth of Gibbons, an Illinois Progressive, is "I am opposed to intermarriage on ethnological grounds as it deteriorates both races and is a stock process of extermination."
 
-This is absolutely false, as anyone may learn by reading Dr. Loeb's article in this number of <span style="font-variant:small-caps;">The Crisis.</span> We have a perfect right to oppose racial intermarriage, but we have no right, consciously or unconsciously, to lie about the reasons.
+This is absolutely false, as anyone may learn by reading Dr. Loeb's article in this number of <span class="small-caps">The Crisis.</span> We have a perfect right to oppose racial intermarriage, but we have no right, consciously or unconsciously, to lie about the reasons.
 
 Despite our predilections, the answer of Paxton Hibben, of Indiana, is absolutely the only decent answer: "*I shall vote to make no woman's children illegitimate*." It is not enough here to rely on general philanthropy. Linden Bates, of New York, states that "it is a basic Progressive policy" to protect women and children of "all races." But Gulley, just as good a Progressive, from Indiana, says: "I will not oppose a law making such marriages invalid."
 

@@ -1,13 +1,16 @@
 
 ---
 title: 'Education'
-author: Du Bois, W.E.B.
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
 date: Feb. 1911
 categories: 
   - ""
 citation: 
   type: article-journal
-  container-title: The Crisis
+  container-title: The Crisis
   volume: 1
   issue: 4
   page: 16-17
@@ -39,7 +42,7 @@ years of age are in school. Moreover, the Negro schools being shorter than the w
 
 These are the official figures compiled for public consumption by white Southern officials. The State supervisor of rural schools of South Carolina says openly in his last report: "It has been my observation that the Negro schools of South Carolina are for the most part without supervision of any kind. Frequently the county superintendent does not know where they are located, and sometimes the district board cannot tell where the school is taught!"
 
-If once we go behind the official admissions the picture is even worse. As we pointed out in the January <span style="font-variant:small-caps;">Crisis</span>, in one Alabama county out of 10,758 Negro children only 1,000 were in school. As to Louisiana, this is the way V. P. Thomas dissects the school report:
+If once we go behind the official admissions the picture is even worse. As we pointed out in the January <span class="small-caps">Crisis</span>, in one Alabama county out of 10,758 Negro children only 1,000 were in school. As to Louisiana, this is the way V. P. Thomas dissects the school report:
 
 > The school term for white schools is over eight months long; the school term for colored schools is less than five months long. There are high schools for white children in every parish, and no high schools for colored children in any parish at the present time, except Southern University in New Orleans. The high schools all run nine months. The average monthly salary of the white female teacher is $50.80; that of the colored female teacher $28.67.
 > &nbsp;

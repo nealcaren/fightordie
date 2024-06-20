@@ -1,13 +1,16 @@
 
 ---
 title: 'An Essay Toward a History of the Black Man in the Great War'
-author: Du Bois, W.E.B.
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
 date: Jun. 1919
 categories: 
   - ""
 citation: 
   type: article-journal
-  container-title: The Crisis
+  container-title: The Crisis
   volume: 18
   issue: 2
   page: 63-87
@@ -41,7 +44,7 @@ Not that this double disillusion has for a moment made black men doubt the wisdo
 
 ![](Images/essay_Diop.jpg)*Lt. Bakane Diop, a Chief of the Senegalese and Chevalier of the Legion of Honor*
 
-When the German host---grey, grim, irresistible, poured through Belgium, out of Africa France called her sons; they came; 280,000 black Senegalese, first and last---volunteers, not drafted; they hurled the Boches back across the Ourcq and the Marne on a ghastly bridge of their own dead. It was the crisis---four long, bitter years the war wore on; but Germany was beaten at the first battle of the Marne, and by Negroes. Beside the Belgians, too, stood, first and last, 30,000 black Congolese, not to mention the 20,000 black English West Indians who fought in the East and the thousands of black troops who conquered German Africa.
+When the German host---grey, grim, irresistible, poured through Belgium, out of Africa France called her sons; they came; 280,000 black Senegalese, first and last---volunteers, not drafted; they hurled the Boches back across the Ourcq and the Marne on a ghastly bridge of their own dead. It was The Crisis---four long, bitter years the war wore on; but Germany was beaten at the first battle of the Marne, and by Negroes. Beside the Belgians, too, stood, first and last, 30,000 black Congolese, not to mention the 20,000 black English West Indians who fought in the East and the thousands of black troops who conquered German Africa.
 
 ## Stevedores
 
@@ -298,7 +301,7 @@ It was this kind of fighting that the French expected of the black Americans at 
 
 It was another story, however, when the 370th Regiment came. This was the famous 8th Illinois, and it had a full quota of Negro officers, from Colonel down. It had seen service on the Mexican Border; it went to Houston, Tex., after the Thirteen had died for Freedom; and it was treated with wholesome respect. It was sent to Newport News, Va., for embarkation; one Colonel Denison refused to embark his troops and marched them back to camp because he learned they were to be "Jim-Crowed" on the way over.
 
-![](Images/essay_Colonel.jpg)*The Colonel and Officers of the 370th U. S. I. with Captain Boutte and Dr. Du Bois in camp at Le Mans, France.*
+![](Images/essay_Colonel.jpg)*The Colonel and Officers of the 370th U. S. I. with Captain Boutte and Dr. Du Bois in camp at Le Mans, France.*
 
 The regiment arrived at Brest, April 22, and was assigned to the 72nd French Division, remaining near Belfort until June 17. Then it went with the 34th French Division into the front-line, at St. Mihiel, for a month and later with the 36th French Division into the Argonne, where they fought. They were given a short period of rest and then they went into the front-line, at Soissons, with the 59th French Division. In September and October they were fighting again.
 
@@ -489,5 +492,5 @@ No adequate excuse for America's actions can be offered: Grant that many of the 
 
 On the other hand, there is not a black soldier but who is glad he went,---glad to fight for France, the only real white Democracy; glad to have a new, clear vision of the real, inner spirit of American prejudice. The day of camouflage is past.
 
-This history will be enlarged and expanded, embellished with maps and pictures and with the aid of an editorial board, consisting of the leading Negro American scholars and the most distinguished of the black soldiers who fought in France, will be issued by the National Association for the Advancement of Colored People and The Crisis, in three volumes, in honor of the first great struggle of the modern Negro race for liberty.
+This history will be enlarged and expanded, embellished with maps and pictures and with the aid of an editorial board, consisting of the leading Negro American scholars and the most distinguished of the black soldiers who fought in France, will be issued by the National Association for the Advancement of Colored People and The Crisis, in three volumes, in honor of the first great struggle of the modern Negro race for liberty.
 

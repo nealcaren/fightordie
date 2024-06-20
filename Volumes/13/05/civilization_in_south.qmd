@@ -1,13 +1,16 @@
 
 ---
 title: 'Civilization in the South'
-author: Du Bois, W.E.B.
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
 date: Mar. 1917
 categories: 
   - ""
 citation: 
   type: article-journal
-  container-title: The Crisis
+  container-title: The Crisis
   volume: 13
   issue: 5
   page: 215-216
@@ -33,4 +36,4 @@ We ask in all honesty. Does the thing which the South calls culture, and yet whi
 
 ------------------------------------------------------------------------
 
-*Citation:* Du Bois, W.E.B. 1917. "Civilization in the South." *The Crisis*. 13(5):215&ndash;216.
+*Citation:* Du Bois, W.E.B. 1917. "Civilization in the South." *The Crisis*. 13(5):215&ndash;216.

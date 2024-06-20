@@ -7,7 +7,7 @@ categories:
   - ""
 citation: 
   type: article-journal
-  container-title: The Crisis
+  container-title: The Crisis
   volume: 14
   issue: 5
   page: 241-244
@@ -108,5 +108,5 @@ Although the paraders marched by in silence their sentiments were proclaimed by 
 
 The New York *World* says:
 
-> The Rev. Dr. H. C. Bishop was President of the parade. The Rev. Dr. Charles D. Martin was Secretary. The Rev. F. A. Cullen was Vice President. The first Deputy Marshal was J. Rosamond Johnson. Others were A. B. Cosey, C. H. Payne, formerly a member of Troop A, Ninth Cavalry; the Rev. E. W. Daniels, Allen Wood, James W. Johnson and John Nail. Jr. <p>Rev. G. M. Plaskett and Dr. W. E. B. Du Bois were in the line of officers.
+> The Rev. Dr. H. C. Bishop was President of the parade. The Rev. Dr. Charles D. Martin was Secretary. The Rev. F. A. Cullen was Vice President. The first Deputy Marshal was J. Rosamond Johnson. Others were A. B. Cosey, C. H. Payne, formerly a member of Troop A, Ninth Cavalry; the Rev. E. W. Daniels, Allen Wood, James W. Johnson and John Nail. Jr. <p>Rev. G. M. Plaskett and Dr. W. E. B. Du Bois were in the line of officers.
 

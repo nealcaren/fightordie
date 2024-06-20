@@ -1,13 +1,16 @@
 
 ---
 title: 'Young'
-author: Du Bois, W.E.B.
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
 date: Mar. 1915
 categories: 
   - ""
 citation: 
   type: article-journal
-  container-title: The Crisis
+  container-title: The Crisis
   volume: 11
   issue: 5
   page: 240,242
@@ -24,7 +27,7 @@ format:
 It is peculiarly fitting that Major Charles Young should be the second
 Negro American to receive the Spingarn medal. Major Young was born in
 Kentucky and educated in Ohio, as we have already noted in the pages of
-The Crisis. He is forty-eight years of age, strongly built, and
+The Crisis. He is forty-eight years of age, strongly built, and
 physically fit. He has just been assigned command of the 2nd Squadron of
 the 10th Cavalry stationed in Arizona. Every effort was made by the State Department to retain him in Liberia, where
 his work was invaluable, but the Department of War refused to make an

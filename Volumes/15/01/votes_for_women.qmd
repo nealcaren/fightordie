@@ -1,13 +1,16 @@
 
 ---
 title: 'Votes for Women'
-author: Du Bois, W.E.B.
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
 date: May 1918
 categories: 
   - ""
 citation: 
   type: article-journal
-  container-title: The Crisis
+  container-title: The Crisis
   volume: 15
   issue: 1
   page: 8
@@ -41,4 +44,4 @@ It is, therefore, of the utmost importance that every single black voter in the 
 It is only in such broad-minded willingness to do justice to all, that the black man can prove his right not only to share, but to help direct modern culture.
 
 __________
-*Citation:* Du Bois, W.E.B. 1918. "Votes for Women." *The Crisis*. 15(1):8.
+*Citation:* Du Bois, W.E.B. 1918. "Votes for Women." *The Crisis*. 15(1):8.

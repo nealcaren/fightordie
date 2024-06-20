@@ -1,13 +1,16 @@
 
 ---
 title: 'The Ghetto'
-author: Du Bois, W.E.B.
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
 date: Dec. 1910
 categories: 
   - Discrimination
 citation: 
   type: article-journal
-  container-title: The Crisis
+  container-title: The Crisis
   volume: 1
   issue: 2
   page: 21--22

@@ -1,13 +1,16 @@
 
 ---
 title: 'Listen, Japan and China'
-author: Du Bois, W.E.B.
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
 date: Jan. 1933
 categories: 
   - ""
 citation: 
   type: article-journal
-  container-title: The Crisis
+  container-title: The Crisis
   volume: 40
   issue: 1
   page: 20

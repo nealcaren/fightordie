@@ -4,8 +4,31 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap');
 
 
+header {
+    font-family: 'Roboto Serif';
+    font-weight: 500;
+
+}
+
+.navbar-title, .menu-text {
+    color: #660018; /* Darker burgundy  */
+}
+
+a {
+    color: #800020; /* Deep burgundy */
+    text-decoration: none; /* Remove underline for a cleaner look */
+}
+
+a:hover {
+    color: #660018; /* Darker burgundy on hover */
+    text-decoration: underline; /* Add underline on hover */
+}
+
+
 h1, h2, h3, h4, h5 {
     font-family: 'Roboto Serif';
+    color: #800020; /* Deep burgundy */
+
 }
 
 h1 {
@@ -34,7 +57,29 @@ h1 {
 	display: none;
 }
 
+h2.anchored.quarto-appendix-heading#citation {
+    display: none;
+}
+
+#title-block-header.quarto-title-block.default .quarto-title-meta-heading {
+    margin-top: .25rem;
+}
+.quarto-title-meta-heading {
+    visibility: hidden;
+    margin-top: .25rem;
+}
+
 /*TO DO Remove the box around citation */
+#quarto-appendix.default .quarto-appendix-citeas {
+    border: none;
+}
+
+#quarto-appendix.default .quarto-appendix-citeas {
+    text-align: right;
+    font-family: 'Roboto Serif';
+    color: #660018; /* Darker burgundy  */
+
+}
 
 /* Hide AUTHOR and DATE fields*/
 .quarto-appendix-secondary-label {
@@ -62,11 +107,19 @@ blockquote div > p {
     text-indent: 0;
   }
 
-  
-/* BROKEN: Make author/date bigger */
+.quarto-title-meta-heading {
+    margin-top: 0rem;
+}
+
+/*Increase space before main text */
+.quarto-title-meta {
+    padding-bottom: 1.5rem;
+}
+/* Make author/date bigger */
 .quarto-title-meta-contents p {
     font-size: 1.5rem;
     font-family: 'Roboto Slab';
+    color: #800020; /* Deep burgundy */
 }
 
 div.poem {

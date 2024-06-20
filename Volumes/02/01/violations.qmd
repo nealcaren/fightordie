@@ -1,13 +1,16 @@
 
 ---
 title: 'Violations of Property Rights'
-author: Du Bois, W.E.B.
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
 date: May 1911
 categories: 
   - ""
 citation: 
   type: article-journal
-  container-title: The Crisis
+  container-title: The Crisis
   volume: 2
   issue: 1
   page: 28-22

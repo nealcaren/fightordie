@@ -1,13 +1,16 @@
 
 ---
 title: 'Wallace Battle, the Episcopal Church and Mississippi: A Story of Suppressed Truth'
-author: Du Bois, W.E.B.
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
 date: Oct. 1927
 categories: 
   - ""
 citation: 
   type: article-journal
-  container-title: The Crisis
+  container-title: The Crisis
   volume: 34
   issue: 8
   page: 261--262, 282--283
@@ -77,5 +80,5 @@ This does not mean that the white Episcopal South believes in lynching, mob viol
 
 When now the church faces such an episode as the Okolona murder it suffers moral paralysis. This murder in broad daylight was an affront to the Episcopal Church as well as white civilization and the acquittal of the murderers for lack of evidence in the face of that cold dead corpse was an outrageous travesty on justice. The pretense of self-defense was shameless. Despite this every pressure has been brought to bear by the officials of the Episcopal Church; first, to keep the facts of this case from being known; second, to keep them from being published; third, to keep any outside person or organizations from trying to secure justice or publicity; fourth, to compel Battle to keep silent and to induce him to go back to his work at the school.
 
-<span style="font-variant:small-caps;">The Crisis</span> in its endeavor to tell a straight, unvarnished tale has submitted this article to the persons chiefly concerned, except Wallace Battle. They have all agreed that nothing should be published. What do you think, Gentle Reader? 
+<span class="small-caps">The Crisis</span> in its endeavor to tell a straight, unvarnished tale has submitted this article to the persons chiefly concerned, except Wallace Battle. They have all agreed that nothing should be published. What do you think, Gentle Reader? 
 

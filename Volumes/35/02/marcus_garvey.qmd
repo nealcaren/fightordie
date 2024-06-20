@@ -1,13 +1,16 @@
 
 ---
 title: 'Marcus Garvey and the NAACP'
-author: Du Bois, W.E.B.
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
 date: Feb. 1928
 categories: 
   - ""
 citation: 
   type: article-journal
-  container-title: The Crisis
+  container-title: The Crisis
   volume: 35
   issue: 2
   page: 51
@@ -23,13 +26,13 @@ format:
 
 Many persons are under the impression that the N.A.A.C.P. has been the persistent enemy of Marcus Garvey. This is due to repeated accusations published in the *Negro World* without the slightest basis of fact. For the sake of the truth, it may be well to recall certain matters of clear record.
 
-The Crisis has published five articles on Marcus Garvey. The first two articles, March 1920 and January 1921 ended with this summary:
+The Crisis has published five articles on Marcus Garvey. The first two articles, March 1920 and January 1921 ended with this summary:
 
 > To sum up: Garvey is a sincere, hard-working idealist; he is also stubborn, domineering leader of the mass; he has worthy industrial and commercial schemes but he is an inexperienced business man. His dreams of Negro industry, commerce and the ultimate freedom of Africa are feasible; but his methods are bombastic, wasteful, illogical and ineffective and almost illegal. If he learns by experience, attracts strong and capable friends and helpers instead of making needless enemies; if he gives up secrecy and suspicion and substitutes open and frank reports as to his income and expenses, and above all if he is willing to be a co-worker and not a czar, he may yet in time succeed in at least starting some of his schemes toward accomplishment. But unless he does these things and does them quickly he cannot escape failure.
 
 No more prophetic word was ever written about Marcus Garvey! The third and fourth articles dealt with the Black Star Line and the Universal Negro Improvement Association and were based on published documents with little comment.
 
-It was not until September, 1922, that The Crisis had a sharp word of criticism. This was based on Garvey's threats against his critics, his connection with the Ku Klux Klan and his distribution of pamphlet propaganda against American Negroes. We quoted, among other things, this:
+It was not until September, 1922, that The Crisis had a sharp word of criticism. This was based on Garvey's threats against his critics, his connection with the Ku Klux Klan and his distribution of pamphlet propaganda against American Negroes. We quoted, among other things, this:
 
 > The white race can best help the Negro by telling him the truth, and not by flattering him into believing that he is as good as any white man.
 
@@ -44,7 +47,7 @@ On the other hand Garvey's attacks on the N. A. A. C. P. have been continuous, p
 3. That the collapse of the Black Star Line came about "because men were paid to make this trouble by certain organizations calling themselves Negro Advancement Associations. They paid men to dismantle our machinery and otherwise damage it so as to bring about the downfall of the movement."
 4. That the N.A.A C.P. was responsible for his incarceration and deportation.
 
-Every single statement in these and dozens of similar charges are absolutely false and without any basis of fact whatsoever. As The Crisis said in May, 1924:
+Every single statement in these and dozens of similar charges are absolutely false and without any basis of fact whatsoever. As The Crisis said in May, 1924:
 
 > No Negro in America ever had a fairer and more patient trial than Marcus Garvey. He convicted himself by his own admissions, his swaggering monkey-shines in the court room with monocle and long tailed coat and his insults to the judge and prosecuting attorney.    
 > &nbsp;    

@@ -1,13 +1,16 @@
 
 ---
 title: 'The N.A.A.C.P. and Race Segregation'
-author: Du Bois, W.E.B.
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
 date: Feb. 1934
 categories: 
   - ""
 citation: 
   type: article-journal
-  container-title: The Crisis
+  container-title: The Crisis
   volume: 41
   issue: 2
   page: 52-53
@@ -59,4 +62,4 @@ On the other hand, the danger of easily and eagerly yielding to suggested racial
 
 The "Jim Crow" galleries of Southern moving picture houses are filled with some of the best Negro citizens. Separate schools and other institutions have been asked by Negroes in the north when the whites had made no real demand.
 
-Such are the flat and undeniable facts. What are we going to do about them? We can neither yell them down nor make them disappear by resolutions. We must think and act. It is this problem which THE Crisis dgsires to discuss during the present year in all its phases and with ample and fair representation to all shades of opinion.
+Such are the flat and undeniable facts. What are we going to do about them? We can neither yell them down nor make them disappear by resolutions. We must think and act. It is this problem which The Crisis dgsires to discuss during the present year in all its phases and with ample and fair representation to all shades of opinion.

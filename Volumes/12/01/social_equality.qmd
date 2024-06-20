@@ -1,14 +1,17 @@
 
 ---
 title: Social Equality
-author: Du Bois, W.E.B.
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
 date: May 1916
 categories: 
   - Social Equality
   - Booker T. Washington
 citation: 
   type: article-journal
-  container-title: The Crisis
+  container-title: The Crisis
   volume: 12
   issue: 1
   page: 30

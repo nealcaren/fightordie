@@ -1,13 +1,16 @@
 
 ---
 title: 'Mr. Roosevelt'
-author: Du Bois, W.E.B.
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
 date: Mar. 1912
 categories: 
   - ""
 citation: 
   type: article-journal
-  container-title: The Crisis
+  container-title: The Crisis
   volume: 4
   issue: 5
   page: 235-236
@@ -91,7 +94,7 @@ rights and hopes of 10,000,000 human beings---10,000,000 men, women and children
 political life have no place in a democracy. Especially does the party
 realize that a group of 10,000,000 people who have in a generation changed from a slave to a free labor system, re-established family life, accumulated $1,000,000,000 of real property, including 20,000,000 acres of land, and reduced their illiteracy from 80 to 30 per cent., deserve and must have justice, opportunity and a voice in their own government. The party, therefore, dgmands for the American of Negro descent the repeal of unfair discriminatory laws and the right to vote on the same terms on which other citizens vote.
 
-This is the exact wording of the original plank which was written in <span style="font-variant:small-caps;">The Crisis</span> office.
+This is the exact wording of the original plank which was written in <span class="small-caps">The Crisis</span> office.
 
 Such was the meagre declaration that black men asked. They did not get
 this. Not only was this refused, but every suggested modification,

@@ -1,13 +1,16 @@
 
 ---
 title: 'Information Wanted'
-author: Du Bois, W.E.B.
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
 date: Mar. 1920
 categories: 
   - ""
 citation: 
   type: article-journal
-  container-title: The Crisis
+  container-title: The Crisis
   volume: 19
   issue: 5
   page: 235
@@ -45,7 +48,7 @@ These men are:
 
 BISHOP J. M. CONNER, *African Methodist Church*; J.M. COX, President, *Philander Smith College*; JOSEPH A. BOOKER, President, *Arkansas Baptist College*.
 
-<span style="font-variant:small-caps;">The Crisis</span> wishes to do no man an injustice, and, therefore, we pause one month to ask:
+<span class="small-caps">The Crisis</span> wishes to do no man an injustice, and, therefore, we pause one month to ask:
 
 *Bishop Conner, President Cox, and President Booker---did you sign that petition?*
 

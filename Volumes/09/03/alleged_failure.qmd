@@ -1,13 +1,16 @@
 
 ---
 title: 'The Alleged Failure of Democracy'
-author: Du Bois, W.E.B.
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
 date: Jan. 1914
 categories: 
   - ""
 citation: 
   type: article-journal
-  container-title: The Crisis
+  container-title: The Crisis
   volume: 9
   issue: 3
   page: 131-132
@@ -20,7 +23,7 @@ format:
 ---
 
 
-The following editorial on "The Alleged Failure of Democracy" was written by the editor of The Crisis and printed in the Boston *Sunday Globe*:
+The following editorial on "The Alleged Failure of Democracy" was written by the editor of The Crisis and printed in the Boston *Sunday Globe*:
 
 We are becoming more democratic, but not easily, not without struggle and misgivings. Our progress seems even slower than it is because we have really experienced so little real democracy in the past. We founded a republic in 1787 which was in reality an aristocracy of the most pronounced tendencies. The democracy ushered in by Andrew Jackson was the beginning of that system of government by deception where "the people" are congratulated on the possession of all powers of government, while the real rulers hide in the background so effectually that their very existence often is not sensed. Since the Civil War we have driven these rulers into the open, and frankly acknowledged, weighed and studied their power.
 

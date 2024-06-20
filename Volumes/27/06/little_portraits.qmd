@@ -1,13 +1,16 @@
 
 ---
 title: 'Little Portraits of Africa'
-author: Du Bois, W.E.B.
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
 date: Apr. 1924
 categories: 
   - ""
 citation: 
   type: article-journal
-  container-title: The Crisis
+  container-title: The Crisis
   volume: 27
   issue: 6
   page: 272-274
@@ -50,4 +53,4 @@ The spell of Africa is upon me. The ancient witchery of her medicine is burning 
 The objects of life will be revolutionized. Our duty will not consist in getting up at seven, working furiously for six, ten and twelve hours, eating in sullen ravenousness or extraordinary repletion. No---We shall dream the day away and in cool dawns, in little swift hours, do all our work.
 
 _____
-*Citation:* Du Bois, W.E.B. 1924. "Little Portraits of Africa." *The Crisis*. 27(6):272&ndash;274.
+*Citation:* Du Bois, W.E.B. 1924. "Little Portraits of Africa." *The Crisis*. 27(6):272&ndash;274.

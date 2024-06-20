@@ -1,13 +1,16 @@
 
 ---
 title: 'DePriest'
-author: Du Bois, W.E.B.
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
 date: Feb. 1929
 categories: 
   - ""
 citation: 
   type: article-journal
-  container-title: The Crisis
+  container-title: The Crisis
   volume: 36
   issue: 2
   page: 57
@@ -22,11 +25,11 @@ format:
 
  We have received the following letter from Margaret Deland, the well-known writer:
 
-> I remember with great pleasure meeting you very many years ago at the house of my friend, Mrs. Evans, in Boston. I recall that William James was there also, and that we four had a delightful time. As I have always been profoundly interested in the political, industrial and spiritual welfare of the people who were so deeply wronged some three hundred years ago, I am keenly alive to the advancement of Negro Americans to-day.  <p>  So, remembering your good nature in answering the questions I asked that day at Mrs. Evans', I am venturing to send you the enclosed clipping in regard to the election to Congress of Oscar DePriest. I have a feeling that few things would be so impressive to persons who desire not only justice, but spiritual advancement, for the colored people, as to have a colored man of your eminence protest against the political advancement of any persons of his race who does not display intellectual and moral integrity.   Of course, the same protest should be made to the political advancement of any unethical white man---and, as we both know well, there have been many opportunities for such protest! But political indignation expressed against white scoundrels, in papers conducted by white men---desirable as such expression of opinion is---can not draw forth the same approval, as that same indignation expressed against an unethical colored man, in a magazine such as <span class = "small-caps">The Crisis</span>.  <p> I am sure that you will see my point in this, and I most earnestly hope that THE Crisis will repudiate this man in no uncertain terms.
+> I remember with great pleasure meeting you very many years ago at the house of my friend, Mrs. Evans, in Boston. I recall that William James was there also, and that we four had a delightful time. As I have always been profoundly interested in the political, industrial and spiritual welfare of the people who were so deeply wronged some three hundred years ago, I am keenly alive to the advancement of Negro Americans to-day.  <p>  So, remembering your good nature in answering the questions I asked that day at Mrs. Evans', I am venturing to send you the enclosed clipping in regard to the election to Congress of Oscar DePriest. I have a feeling that few things would be so impressive to persons who desire not only justice, but spiritual advancement, for the colored people, as to have a colored man of your eminence protest against the political advancement of any persons of his race who does not display intellectual and moral integrity.   Of course, the same protest should be made to the political advancement of any unethical white man---and, as we both know well, there have been many opportunities for such protest! But political indignation expressed against white scoundrels, in papers conducted by white men---desirable as such expression of opinion is---can not draw forth the same approval, as that same indignation expressed against an unethical colored man, in a magazine such as <span class = "small-caps">The Crisis</span>.  <p> I am sure that you will see my point in this, and I most earnestly hope that The Crisis will repudiate this man in no uncertain terms.
 
 
 
-<span class = "small-caps">The Crisis</span> regrets that it cannot do this. On the contrary, it congratulates Oscar DePriest upon his election. We do not approve of all that Mr. DePriest has done in the past and probably shall not approve of much that he will do in the future, but we do know that Oscar DePriest stands solidly and unwaveringly for the following things:
+<span class = "small-caps">The Crisis</span> regrets that it cannot do this. On the contrary, it congratulates Oscar DePriest upon his election. We do not approve of all that Mr. DePriest has done in the past and probably shall not approve of much that he will do in the future, but we do know that Oscar DePriest stands solidly and unwaveringly for the following things:
 
 1. The enforcement of the 13th, 14th and 15th Amendments of the Constitution of the United States.
 2. The passage of the Dyer-Anti Lynching Bill.

@@ -1,13 +1,16 @@
 
 ---
 title: 'Kenya'
-author: Du Bois, W.E.B.
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
 date: Feb. 1924
 categories: 
   - ""
 citation: 
   type: article-journal
-  container-title: The Crisis
+  container-title: The Crisis
   volume: 27
   issue: 4
   page: 152-153
@@ -27,4 +30,4 @@ They have tried to give the best of the land for agriculture and grazing to whit
 One cannot contemplate a more unjust and shortsighted policy. It is an attempt to find white supremacy in Africa itself and to carry out the idea that the European white man is going to dominate the earth. It will never succeed but it will cause endless bloodshed and misery before it fails.
 
 _____
-*Citation:* Du Bois, W.E.B. 1924. "Kenya." *The Crisis*. 27(4):152&ndash;153.
+*Citation:* Du Bois, W.E.B. 1924. "Kenya." *The Crisis*. 27(4):152&ndash;153.

@@ -1,13 +1,16 @@
 
 ---
 title: 'The Lynching Industry'
-author: Du Bois, W.E.B.
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
 date: Feb. 1915
 categories: 
   - ""
 citation: 
   type: article-journal
-  container-title: The Crisis
+  container-title: The Crisis
   volume: 9
   issue: 4
   page: 196,198
@@ -21,11 +24,11 @@ format:
 
 
 
-<span style="font-variant:small-caps;">The Crisis</span> is interested to report that the standard American industry
+<span class="small-caps">The Crisis</span> is interested to report that the standard American industry
 of lynching colored men has flourished during the year 1914. There is,
 of course, the usual difference of opinion ns to the number of its
 victims. Tuskegee reluctantly admits 52; the Chicago *Tribune* notes 54;
-<span style="font-variant:small-caps;">The Crisis</span> finds 74, of whom 69 were colored and 5 white. Of the 69,
+<span class="small-caps">The Crisis</span> finds 74, of whom 69 were colored and 5 white. Of the 69,
 four were colored women. The following is a list of the lynchings and
 those starred are unrecorded in the Chicago *Tribune* list; with regard
 to five of these of unknown name there is it bare possibility of

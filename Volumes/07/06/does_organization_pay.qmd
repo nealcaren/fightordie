@@ -1,13 +1,16 @@
 
 ---
 title: 'Does Organization Pay?'
-author: Du Bois, W.E.B.
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
 date: Apr. 1914
 categories: 
   - ""
 citation: 
   type: article-journal
-  container-title: The Crisis
+  container-title: The Crisis
   volume: 7
   issue: 6
   page: 285
@@ -43,5 +46,5 @@ Or are you drifting, with so many white Americans, under the excuse that "Nothin
 > And dares the dread recoil which late 
 > Or soon, their right shall vindicate. 
 
- There are 36,000 copies of this issue of <span style="font-variant:small-caps;">The Crisis</span> being read this month. There are at least 100,000 readers. If every reader becomes a member of the National Association for the Advancement of Colored People, the battle for Negro rights is won! 
+ There are 36,000 copies of this issue of <span class="small-caps">The Crisis</span> being read this month. There are at least 100,000 readers. If every reader becomes a member of the National Association for the Advancement of Colored People, the battle for Negro rights is won! 
 

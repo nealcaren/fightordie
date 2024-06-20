@@ -1,13 +1,16 @@
 
 ---
 title: 'Education'
-author: Du Bois, W.E.B.
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
 date: Jan. 1915
 categories: 
   - ""
 citation: 
   type: article-journal
-  container-title: The Crisis
+  container-title: The Crisis
   volume: 10
   issue: 3
   page: 132-133, 136
@@ -57,4 +60,4 @@ Do Negroes oppose this because they are ashamed of having their children trained
 In all these arguments and actions there blazes one great and shining light: the persistent army of Negro boys and girls pushing through high school and college continues to increase. Negro mothers and fathers are not being entirely deceived. They know that intelligence and self-development are the only means by which the Negro is to win his way in the modern world. They persist in pushing their children on through the highest courses. May they always continue to do so; and may the bright, fine faces on these pages be inspiration to thousands of other boys and girls in the coming years to resist the contemptible temptation so persistently laid before this race to train its children simply as menials and scavengers.
 
 ______
-*Citation:* Du Bois, W.E.B. 1915. "Education." *The Crisis*. 10(3):132&ndash;133, 136.
+*Citation:* Du Bois, W.E.B. 1915. "Education." *The Crisis*. 10(3):132&ndash;133, 136.

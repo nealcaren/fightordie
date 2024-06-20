@@ -1,14 +1,17 @@
 
 ---
 title: 'Agitation'
-author: Du Bois, W.E.B.
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
 date: Nov. 1910
 categories: 
   - Tactics
   - NAACP
 citation: 
   type: article-journal
-  container-title: The Crisis
+  container-title: The Crisis
   volume: 1
   issue: 1
   page: 11

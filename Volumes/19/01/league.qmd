@@ -1,13 +1,16 @@
 
 ---
 title: 'The League of Nations'
-author: Du Bois, W.E.B.
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
 date: May 1919
 categories: 
   - ""
 citation: 
   type: article-journal
-  container-title: The Crisis
+  container-title: The Crisis
   volume: 19
   issue: 1
   page: 336-337

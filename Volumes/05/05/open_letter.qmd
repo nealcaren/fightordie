@@ -1,13 +1,16 @@
 
 ---
 title: 'An Open Letter to Woodrow Wilson'
-author: Du Bois, W.E.B.
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
 date: Mar. 1913
 categories: 
   - ""
 citation: 
   type: article-journal
-  container-title: The Crisis
+  container-title: The Crisis
   volume: 5
   issue: 5
   page: 236-237
@@ -57,5 +60,5 @@ But it is not the offices at your disposal, President Woodrow Wilson, that is th
 
 Respectfully yours,
 
-<p style="font-variant: small-caps;">The Crisis.</p>
+<p style="font-variant: small-caps;">The Crisis.</p>
 

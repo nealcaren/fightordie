@@ -1,13 +1,16 @@
 
 ---
 title: 'Roosevelt'
-author: Du Bois, W.E.B.
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
 date: Feb. 1917
 categories: 
   - ""
 citation: 
   type: article-journal
-  container-title: The Crisis
+  container-title: The Crisis
   volume: 14
   issue: 4
   page: 164

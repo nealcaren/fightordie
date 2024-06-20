@@ -1,13 +1,16 @@
 
 ---
 title: 'Victory'
-author: Du Bois, W.E.B.
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
 date: Jun. 1917
 categories: 
   - ""
 citation: 
   type: article-journal
-  container-title: The Crisis
+  container-title: The Crisis
   volume: 15
   issue: 2
   page: 61
@@ -27,7 +30,7 @@ format:
 
 Messages like the above have come to us from many persons and places.
 
-We are thankful; and the National Association for the Advancement of Colored People and <span style="font-variant:small-caps;">The Crisis</span>, in turn, pause to raise their hats to one man who bore the burden in the heat of the day, initiated the fight against segregation, carried it victoriously up through the state courts, and filed a brief in the Supreme Court case---WILLIAM ASHBIE HAWKINS, the attorney of our Baltimore Branch. Nor do we forget the heroic efforts of our branches in Louisville and St. Louis.
+We are thankful; and the National Association for the Advancement of Colored People and <span class="small-caps">The Crisis</span>, in turn, pause to raise their hats to one man who bore the burden in the heat of the day, initiated the fight against segregation, carried it victoriously up through the state courts, and filed a brief in the Supreme Court case---WILLIAM ASHBIE HAWKINS, the attorney of our Baltimore Branch. Nor do we forget the heroic efforts of our branches in Louisville and St. Louis.
 
 As Moorfield Storey, our honored president says, this is the most momentous utterance of the Supreme Court since the Dred Scott decision.
 

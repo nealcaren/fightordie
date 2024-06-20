@@ -1,13 +1,16 @@
 
 ---
 title: 'Hyde Park'
-author: Du Bois, W.E.B.
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
 date: Apr. 1920
 categories: 
   - ""
 citation: 
   type: article-journal
-  container-title: The Crisis
+  container-title: The Crisis
   volume: 19
   issue: 6
   page: 298
@@ -24,7 +27,7 @@ format:
 A crowed of white profiteers in the Hyde Park division of the city of
 Chicago publish a *Property Owners' Journal* and are moving heaven and
 earth to get Negroes voluntarily to segregate themselves. They have even
-had the impudence to quote  <span style="font-variant:small-caps;">The Crisis</span> in their own
+had the impudence to quote  <span class="small-caps">The Crisis</span> in their own
 defense, when we asserted "the right of any individual of any race or
 color to choose his own marital mate, his own friend, and his own dinner
 companion,---in fine, to be the master of his home." What these real

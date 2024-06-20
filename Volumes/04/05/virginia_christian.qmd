@@ -1,13 +1,16 @@
 
 ---
 title: 'Virginia Christian'
-author: Du Bois, W.E.B.
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
 date: Mar. 1912
 categories: 
   - ""
 citation: 
   type: article-journal
-  container-title: The Crisis
+  container-title: The Crisis
   volume: 4
   issue: 5
   page: 236

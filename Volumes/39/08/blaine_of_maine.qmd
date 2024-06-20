@@ -1,13 +1,16 @@
 
 ---
 title: 'Blaine of Maine'
-author: Du Bois, W.E.B.
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
 date: Aug. 1932
 categories: 
   - ""
 citation: 
   type: article-journal
-  container-title: The Crisis
+  container-title: The Crisis
   volume: 39
   issue: 8
   page: 267

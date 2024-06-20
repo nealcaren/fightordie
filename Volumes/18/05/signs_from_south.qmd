@@ -1,13 +1,16 @@
 
 ---
 title: 'Signs from the South'
-author: Du Bois, W.E.B.
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
 date: Mar. 1919
 categories: 
   - ""
 citation: 
   type: article-journal
-  container-title: The Crisis
+  container-title: The Crisis
   volume: 18
   issue: 5
   page: 233-234

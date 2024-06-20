@@ -1,13 +1,16 @@
 
 ---
 title: 'Travel'
-author: Du Bois, W.E.B.
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
 date: Jun. 1926
 categories: 
   - ""
 citation: 
   type: article-journal
-  container-title: The Crisis
+  container-title: The Crisis
   volume: 33
   issue: 2
   page: 63-65
@@ -32,7 +35,7 @@ My recent trip I had planned for revisiting Germany and I had hoped to pay for i
 My friend accepted these conditions and I went to Russia. 
 
 ![](../../../Images/russia_travel.jpg)
-**THE JOURNEY OF DR. DU BOIS TO RUSSIA**<br>*2. Franfort-on-Main, 3. Berlin, 4. Leningrad, 5. Moscow, 6. Nijni Novgorad, 7. Kiev, 8. Odessa, 9. Constantinople, 10. Skutari, 11. Athens, 12. Naples, 13. Gibraltar.*
+**THE JOURNEY OF DR. Du Bois TO RUSSIA**<br>*2. Franfort-on-Main, 3. Berlin, 4. Leningrad, 5. Moscow, 6. Nijni Novgorad, 7. Kiev, 8. Odessa, 9. Constantinople, 10. Skutari, 11. Athens, 12. Naples, 13. Gibraltar.*
 
  <h2>My Recent Journey</h2> 
 

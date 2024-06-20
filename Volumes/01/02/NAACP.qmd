@@ -1,14 +1,17 @@
 
 ---
 title: 'N.A.A.C.P.'
-author: Du Bois, W.E.B.
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
 date: Dec. 1910
 categories: 
   - NAACP
   - Tactics
 citation: 
   type: article-journal
-  container-title: The Crisis
+  container-title: The Crisis
   volume: 1
   issue: 2
   page: 16-17
