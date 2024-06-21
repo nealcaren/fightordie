@@ -35,3 +35,15 @@ format:
 </div>
 
  
+<!-- Similar articles start here -->
+
+<hr>
+#### Related Articles:
+
+* [The Christmas Prayers of God (1914)](/Volumes/09/02/christmas_prayers_of_god.html)
+* [The Quadroon (1911)](/Volumes/03/01/quadroon.html)
+* [In God''s Gardens (1912)](/Volumes/03/06/in-gods-gardens.html)
+* [The Burden of Black Women (1914)](/Volumes/09/01/burden_of_black_women.html)
+* [The Song of the Smoke (1914)](/Volumes/07/03/song_of_smoke.html)
+
+<!-- Similar articles end here -->

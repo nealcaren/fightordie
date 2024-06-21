@@ -144,3 +144,4 @@ done.csv
 local/
 
 /.quarto/
+.aider*

@@ -45,3 +45,15 @@ comparatively short period of time and we have to thank first of all not
 ourselves, but our readers in every state in this Union and in the lands
 oversea.
 
+<!-- Similar articles start here -->
+
+<hr>
+#### Related Articles:
+
+* [Truth and Beauty (1922)](/Volumes/25/01/truth_and_beauty.html)
+* [Booming The Crisis (1914)](/Volumes/07/05/booming_crisis.html)
+* [The New Crisis (1925)](/Volumes/30/01/new_crisis.html)
+* [Join or Die (1914)](/Volumes/07/03/fightordie.html)
+* [An Open Letter to Robert Russa Moton (1916)](/Volumes/12/03/open_letter.html)
+
+<!-- Similar articles end here -->

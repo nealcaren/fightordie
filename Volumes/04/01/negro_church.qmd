@@ -98,3 +98,15 @@ men and women of education and energy can work for the best things
 regardless of their belief or disbelief in unimportant dogmas and
 ancient and outworn creeds.
 
+<!-- Similar articles start here -->
+
+<hr>
+#### Related Articles:
+
+* [Crime (1918)](/Volumes/15/05/crime.html)
+* [The Methodist Church, North (1911)](/Volumes/01/05/methodist_church_north.html)
+* [The Church (1916)](/Volumes/11/06/church.html)
+* [The Church and the Negro (1913)](/Volumes/06/06/church_negro.html)
+* [Jesus Christ in Baltimore (1911)](/Volumes/01/03/baltimore.html)
+
+<!-- Similar articles end here -->

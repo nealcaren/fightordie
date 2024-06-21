@@ -68,3 +68,15 @@ Exit the Pale One in anger.
 
 Exit the Brown One in thought.
 
+<!-- Similar articles start here -->
+
+<hr>
+#### Related Articles:
+
+* [The True Brownies (1919)](/Volumes/18/06/true_brownies.html)
+* [Precept and Practice (1910)](/Volumes/01/02/precept_and_practice.html)
+* [Prejudice (1927)](/Volumes/34/09/prejudice.html)
+* [A Statement (1919)](/Volumes/19/01/statement.html)
+* [The Inevitable (1910)](/Volumes/01/02/inevitable.html)
+
+<!-- Similar articles end here -->

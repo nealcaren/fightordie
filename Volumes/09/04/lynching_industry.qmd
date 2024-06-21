@@ -16,6 +16,8 @@ citation:
   page: 196,198
 google-scholar: true
 
+tbl-cap-location: top
+
 format:
   html:
     toc: false
@@ -34,47 +36,55 @@ those starred are unrecorded in the Chicago *Tribune* list; with regard
 to five of these of unknown name there is it bare possibility of
 duplication or mistake, but this does not seem probable:
 
-## **COLORED MEN LYNCHED IN 1914**
+## Colored Men Lynched in 1914
 
-Jan.
-* Okla.---Dickerson, murder.
-* N. C.---Wilson, murder.
-* Fla.---Peck, assault.
-* Fla.---James, assault.
+Jan.    
+
+* Okla.---Dickerson, murder.    
+* N. C.---Wilson, murder.    
+* Fla.---Peck, assault.    
+* Fla.---James, assault.    
 * Tex.---Lee, assault.
 * Ga.---Harris, murder.
 
 Feb.
+
 * Miss.---Petty, murder.
 * Miss.---Johnson, murder.
 
 March
+
 * Mo.---Shields, murder.
 * Miss.---Unknown, murder.
 * Ala. Young, rape.
 * Okla.---Scott, murder
 
 April
+
 * Miss.---Turner, assault.
 * Miss.---Unknown, race riot.
 * Miss.---Unknown, race riot.
 * Tex.---Morgan, assault
 
 May
+
 * La.---Washington, murder.
 * Ga.---Jones, theft.
 * La.---Hamilton, rape.
 * Fla.---Woodsome, unlawful entry.
 
 June
+
 * Miss.---Smith, robbery.
 * Miss.---Collins, resistance.
 
-July
+July    
+
 * Miss.---Bailey, theft.
 * S. C.---Carson, murder.
 
 August
+
 * Okla.---Williams, murder.
 * La.---Griffin, murder.
 * La.---Hall, murder.
@@ -85,10 +95,12 @@ August
 * Ala.---Unknown, "running amuck."
 
 Sept.
+
 * Ala.---Baines, robbery.
 * Ga.---Brown, murder.
 
 Oct.
+
 * Fla.---Junior, rape.
 * Miss.---Miller, rape.
 * Ark.---Davis, murder.
@@ -98,6 +110,7 @@ Oct.
 * Tex.---Durfee, murder.
 
 Nov.
+
 * Miss.---Burns, assault.
 * Ky.---10 unknown Negroes by night-riders.
 * Fla.---Evans, rape.
@@ -107,6 +120,7 @@ Nov.
 * Miss.---Sullivan, arson.
 
 Dec.
+
 * La.---McKnight, murder.
 * La.---T. Lewis, murder.
 * La.---Dirden, murder.
@@ -120,7 +134,9 @@ Dec.
 
 **Total**--- 69
 
-## **NUMBER BY MONTHS**
+::: {.grid}
+
+::: {.g-col-4}
 
 |       |    |
 |-------|---:|
@@ -137,7 +153,17 @@ Dec.
 | Nov.  | 16 |
 | Dec.  | 10 |
 
-## **NUMBER BY STATE**
+: Number by Months
+
+:::
+:::
+
+
+::: {.grid}
+
+::: {.g-col-4}
+
+: Number by State
 
 |       |    |
 |-------|---:|
@@ -154,7 +180,15 @@ Dec.
 | N. C. | 1  |
 | Mo.   | 1  |
 
-## **NUMBER BY CRIMES**
+:::
+:::
+
+
+::: {.grid}
+
+::: {.g-col-7}
+
+:  Number by Crimes
 
 |                                                     |    | Percentage |
 |-----------------------------------------------------|---:|-----------:|
@@ -166,7 +200,16 @@ Dec.
 | Arson                                               | 2  | 3          |
 | Resistance to search                                | 1  | 1.5        |
 
-## **LYNCHED BY YEARS, 1885-1914**
+:::
+:::
+
+
+
+::: {.grid}
+
+::: {.g-col-4}
+
+: Lynched by Years, 1885-1914
 
 | &nbsp;    |  &nbsp;  |
 |------|----:|
@@ -200,6 +243,8 @@ Dec.
 | 1912 | 63  |
 | 1913 | 79  |
 | 1914 | 69  |
+:::
+:::
 
 **Total**--- 2,732
 
@@ -257,3 +302,15 @@ on his benevolent face told the South "as a Southerner" that they must
 that is possible for his good and for our good." The President ended
 with a charming story from Charles Lamb.
 
+<!-- Similar articles start here -->
+
+<hr>
+#### Related Articles:
+
+* [Lynchings (1932)](/Volumes/39/02/lynchings.html)
+* [Anti-Lynching Legislation (1922)](/Volumes/22/01/anti-lynching_legislation.html)
+* [Lynching (1914)](/Volumes/07/05/lynching.html)
+* [Causes of Lynching (1931)](/Volumes/38/04/causes_of_lynching.html)
+* [Lynching (1927)](/Volumes/33/04/lynching.html)
+
+<!-- Similar articles end here -->

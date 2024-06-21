@@ -69,3 +69,15 @@ Finally, let the locals support the National Association for the Advancement of 
 
 We have ten branches which are beginning work as outlined above. Who will be the next?
 
+<!-- Similar articles start here -->
+
+<hr>
+#### Related Articles:
+
+* [N.A.A.C.P. (1910)](/Volumes/01/02/NAACP.html)
+* [Muddle (1916)](/Volumes/13/02/muddle.html)
+* [The Next Step (1913)](/Volumes/06/02/next_step.html)
+* [A Statement (1919)](/Volumes/19/01/statement.html)
+* [White Co-Workers (1920)](/Volumes/20/01/white_coworkers.html)
+
+<!-- Similar articles end here -->

@@ -35,3 +35,15 @@ Thirdly, it will publish a few short articles.
 
 Finally, its editorial page will stand for the rights of men, irrespective of color or race, for the highest ideals of American democracy, and for reasonable but earnest and persistent attempt to gain these rights and realize these ideals. The magazine will be the organ of no clique or party and will avoid personal rancor of all sorts. In the absence of proof to the contrary it will assume honesty of purpose on the part of all men, North and South, white and black.
 
+<!-- Similar articles start here -->
+
+<hr>
+#### Related Articles:
+
+* [Prejudice (1927)](/Volumes/34/09/prejudice.html)
+* [The New Crisis (1925)](/Volumes/30/01/new_crisis.html)
+* [Our Special Grievances (1918)](/Volumes/16/05/our_special_greivances.html)
+* [Radicals (1919)](/Volumes/19/02/radicals.html)
+* [The Truth (1912)](/Volumes/05/02/truth.html)
+
+<!-- Similar articles end here -->

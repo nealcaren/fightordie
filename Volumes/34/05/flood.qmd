@@ -64,3 +64,15 @@ business block---Mr. Coolidge tells the
 world of the privileges of American
 civilization.
 
+<!-- Similar articles start here -->
+
+<hr>
+#### Related Articles:
+
+* [The Migration (1917)](/Volumes/14/01/migration.html)
+* [Brothers, Come North (1920)](/Volumes/19/03/brothers_come_north.html)
+* [Slavery (1922)](/Volumes/24/01/slavery.html)
+* [Arkansas (1920)](/Volumes/19/04/arkansas.html)
+* [Memphis or East St. Louis? (1917)](/Volumes/14/03/memphis_or_east_st_louis.html)
+
+<!-- Similar articles end here -->

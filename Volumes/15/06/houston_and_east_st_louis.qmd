@@ -40,3 +40,15 @@ format:
 
  The park is maintained by taxes on 70,000 whites and 40,000 Negroes. A few blocks from this park Policeman Sparks shot Corporal Baltimore and started the riot. Baltimore was hanged.
 
+<!-- Similar articles start here -->
+
+<hr>
+#### Related Articles:
+
+* [Houston (1918)](/Volumes/16/06/houston.html)
+* [Houston (1917)](/Volumes/14/06/houston.html)
+* [Houston: An N.A.A.C.P. Investigation (1918)](/Volumes/15/01/houston.html)
+* [A Crusade (1914)](/Volumes/07/05/crusades.html)
+* [A Soldier (1920)](/Volumes/19/05/a_soldier.html)
+
+<!-- Similar articles end here -->

@@ -36,3 +36,15 @@ What Mrs. Pecu and others must learn is that this is the natural fruit of race p
 
 The Editor of a magazine like <span class = "small-caps">The Crisis</span> should nevertheless try to achieve such an attitude. He does try. If he fails, do not lay the fault entirely at his door. Lay it to the last lynching, or to the last time he was insulted in the theater, or to the last time he went hungry because all available hotels and restaurants were closed against him. It is all a mess, he admits and that is precisely what <span class = "small-caps">The Crisis</span> has been trying to say for many years.
 
+<!-- Similar articles start here -->
+
+<hr>
+#### Related Articles:
+
+* [The Crisis (1910)](/Volumes/01/01/TheCrisis.html)
+* [Radicals (1919)](/Volumes/19/02/radicals.html)
+* [Our Special Grievances (1918)](/Volumes/16/05/our_special_greivances.html)
+* [A Question of Policy and The Philosophy of Mr. Dole (1914)](/Volumes/08/01/question_of_policy.html)
+* [A Statement (1919)](/Volumes/19/01/statement.html)
+
+<!-- Similar articles end here -->

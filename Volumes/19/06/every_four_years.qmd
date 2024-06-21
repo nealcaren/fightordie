@@ -1,0 +1,42 @@
+---
+title: 'Every Four Years'
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
+date: Apr. 1920
+categories: 
+  - ""
+citation: 
+  type: article-journal
+  container-title: The Crisis
+  volume: 19
+  issue: 6
+  page: 297
+google-scholar: true
+
+format:
+  html:
+    toc: false
+    appendix-cite-as: display
+---
+
+
+Every four years the disgrace of the buying up of certain delegates for the Republican convention is repeated in the Southern South. In South Carolina, Georgia, Florida, Alabama, Mississippi, Louisiana, and Texas, there are a few professional grafters, black and white, who assume to represent the “Republican Party.” They are for sale to the highest bidder. Republican candidates begin their campaign by sending men into the South to buy the support of these men, and the whole Negro race is blamed for this recurring disgrace. But whose is the fault? The fault lies at the doors of the National Republican Party. Not only is the party and its candidates willing and eager to buy up this support, but they have repeatedly refused support or countenance to the better class of colored leaders, who seek to oust these thieves. They give recognition and offices to the “Lily Whites” wherever possible, thus carrying out a policy, begun by Theodore Roosevelt and brought to its highest fruition by William H. Taft.
+
+Only yesterday in Tennessee, where a real Republican movement with high aims and efficient leadership has been led in the western part of the state by R.R. Church, a Republican convention composed only of white men calmly ousted every black Republican. And it stands every chance of being given recognition by the National Republican Committee, which refused to seat Perry Howard of Mississippi, who was legally elected and in the face of right and justice, put a white man in his place. So that the Republican Party has practically said to the South,--- No decent colored man need apply and we will recognize anything, decent or indecent, among white politicians.
+
+To cap all this, the party refuses to take a single step toward enforcing the Fourteenth and Fifteenth Amendments, or to stop the disgraceful disfranchisement of colored voters.
+
+<!-- Similar articles start here -->
+
+<hr>
+#### Related Articles:
+
+* [How Shall We Vote (1920)](/Volumes/20/05/how_shall_we_vote.html)
+* [The Negro in Politics (1929)](/Volumes/36/11/negro_in_politics.html)
+* [Young Voters (1932)](/Volumes/39/09/young_voters.html)
+* [Vote (1924)](/Volumes/28/03/vote.html)
+* [The Negro Party (1916)](/Volumes/12/06/negro_party.html)
+
+<!-- Similar articles end here -->

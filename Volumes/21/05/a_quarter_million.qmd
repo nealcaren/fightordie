@@ -29,3 +29,15 @@ If you belong to us, renew your membership now and bring a brother. If you have 
 
 <span class="small-caps">The Crisis</span> costs $1.50 a year. Spend at least $2.50 now on freedom for your children.
 
+<!-- Similar articles start here -->
+
+<hr>
+#### Related Articles:
+
+* [Help Us to Help (1918)](/Volumes/16/04/help_us.html)
+* [Thirteen (1918)](/Volumes/15/03/thirteen.html)
+* [The Congressmen and the NAACP (1914)](/Volumes/09/02/congressmen_and_the_naacp.html)
+* [A Statement (1919)](/Volumes/19/01/statement.html)
+* [The Next Step (1913)](/Volumes/06/02/next_step.html)
+
+<!-- Similar articles end here -->

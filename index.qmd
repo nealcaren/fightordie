@@ -4,10 +4,13 @@ title:  |
   W.E.B Du Bois in The Crisis
 ---
 
-![](/Images/crisis_office.png)  
 
-W.E.B. Du Bois founded <span class="small-caps">The Crisis</span>, the official journal of the NAACP, in 1910 and regularly contributed editorials and articles until 1934. This project is an ongoing effort to make available his writings from this period.
+![](/Images/crisis_office.png "Schomburg Center for Research in Black Culture, Photographs and Prints Division, The New York Public Library. "W.E.B. Du Bois and staff in the Crisis magazine office" The New York Public Library Digital Collections. 1900 - 1930. https://digitalcollections.nypl.org/items/8e0981a2-4aea-a10a-e040-e00a18063089")  
 
-**Work in progress.** This site currently includes more than 600 articles, but hundreds more are in <span class="small-caps">The Crisis</span> archives. If you want to help make more articles available, look at our [Contribution Guide](https://github.com/nealcaren/fightordie/blob/main/contributing.md), or email [me](mailto:nealcaren@unc.edu).
+W.E.B. Du Bois, the influential sociologist and civil rights activist, founded <span class="small-caps">The Crisis</span>, the official journal of the NAACP, in 1910. From the journal's start until 1934, Du Bois regularly contributed editorials and articles that shaped the discourse around race relations and Black identity in America during the early 20th century. His writings from this period also provide invaluable insights into the evolution of his thinking and activism during these critical decades.
 
-*[Image](https://digitalcollections.nypl.org/items/8e0981a2-4aea-a10a-e040-e00a18063089): Staff of the <span class="small-caps">>The Crisis</span>.*
+This project aims to digitize and make available Du Bois's writings from his 24-year tenure at <span class="small-caps">The Crisis</span>, which are estimated to be well over 1,000 articles and editorials. Currently, the site includes more than 600 of his contributions, with hundreds more awaiting digitization in <span class="small-caps">The Crisis</span> archives. By making these works accessible in a digital format, we hope to facilitate new scholarship and engagement with Du Bois's work during this period.
+
+If you are interested in helping expand access to Du Bois's work, please review our [Contribution Guide](https://github.com/nealcaren/fightordie/blob/main/contributing.md) for details on how you can get involved in the digitization effort. The guide outlines the process for transcribing, proofreading, and uploading articles to the database. You can also email the project director, [Neal Caren](mailto:neal.caren@unc.edu), with any questions or to discuss other ways you would like to contribute to the project.
+
+Our goal is to create a searchable database of Du Bois's writings from <span class="small-caps">The Crisis</span>. This resource will serve as an invaluable tool for scholars, students, and activists, and foster new conversations around Du Bois's enduring legacy.

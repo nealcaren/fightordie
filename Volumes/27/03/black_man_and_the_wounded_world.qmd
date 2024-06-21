@@ -80,3 +80,15 @@ Who was to blame? Not Germany but certain Germans. Not England but certain Engli
 
 > The undersigned is interested in the publication of "The Black Man in the Wounded World" by Dr. W. E. Burghardt Du Bois and would like details as to its size, cost and date of issue when these matters have been determined on.
 
+<!-- Similar articles start here -->
+
+<hr>
+#### Related Articles:
+
+* [Resolutions of the Washington Conference (1917)](/Volumes/14/02/resolutions.html)
+* [Separation (1911)](/Volumes/01/04/separation.html)
+* [Freedom of Speech (1930)](/Volumes/37/08/freedom.html)
+* [Muddle (1916)](/Volumes/13/02/muddle.html)
+* [Of Problems (1921)](/Volumes/22/04/problems.html)
+
+<!-- Similar articles end here -->

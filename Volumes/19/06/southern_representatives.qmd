@@ -1,0 +1,47 @@
+---
+title: 'Southern Representatives'
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
+date: Apr. 1920
+categories: 
+  - ""
+citation: 
+  type: article-journal
+  container-title: The Crisis
+  volume: 19
+  issue: 6
+  page: 299
+google-scholar: true
+
+format:
+  html:
+    toc: false
+    appendix-cite-as: display
+---
+
+
+
+The conditions under which a person is allowed to vote under our government, is left in the hands of the states, with only two limitations:
+
+*First.*--- No person can be deprived of a vote on account of “race, color, or previous condition of servitude” (Fifteenth Amendment).
+
+*Second.*--- If the state limits the right to vote for any other reasons, Congress has the right proportionately to reduce its representation (Fourteenth Amendment).
+
+In the North the right to vote is restricted slightly by educational qualifications; in the South the right to vote is so restricted by educational, property, military, industrial, and administrative qualifications, that the majority of voters are disqualified. The United States has a right to reduce representation in Congress. The Republican majority is in honor bound to do this. The Negro race should demand such reduction. The reduction would not make the North lose a single Congressman, but it would sweep out of the National House forty-two Negro baiters from the South, who are upholding lynching and voting “Jim-Crow” legislation and depriving Negroes of education.
+
+The South may pretend that it would assent to this, rather than let Negroes vote. This is a falsehood. Restrictions on the black vote would disappear in a day. But even if it were true, the Negro would be infinitely better off: he would retain his legal right to vote in the South and his actual vote in the North and in the Border States, while his enemies would be kicked out of Congress. Why hesitate? The demand on the Republicans should be unanimous.
+
+<!-- Similar articles start here -->
+
+<hr>
+#### Related Articles:
+
+* [The White Primary (1911)](/Volumes/01/05/white_primary.html)
+* [The Truth (1911)](/Volumes/01/03/truth.html)
+* [Remember (1920)](/Volumes/19/06/remember.html)
+* [How Shall We Vote (1920)](/Volumes/20/05/how_shall_we_vote.html)
+* [The Negro Voter (1928)](/Volumes/35/08/negro_voter.html)
+
+<!-- Similar articles end here -->

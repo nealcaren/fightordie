@@ -62,3 +62,15 @@ Respectfully yours,
 
 <p style="font-variant: small-caps;">The Crisis.</p>
 
+<!-- Similar articles start here -->
+
+<hr>
+#### Related Articles:
+
+* [Education (1913)](/Volumes/06/02/democrats.html)
+* [Presidential Candidates (1916)](/Volumes/13/01/presidential_candidates.html)
+* [The South in the Saddle (1914)](/Volumes/07/04/south_in_saddle.html)
+* [The Congressmen and the NAACP (1914)](/Volumes/09/02/congressmen_and_the_naacp.html)
+* [The Election (1912)](/Volumes/05/02/the_election.html)
+
+<!-- Similar articles end here -->

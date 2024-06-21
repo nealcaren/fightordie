@@ -1,0 +1,63 @@
+---
+title: 'The War History'
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
+date: Apr. 1919
+categories: 
+  - ""
+citation: 
+  type: article-journal
+  container-title: The Crisis
+  volume: 18
+  issue: 6
+  page: 286-287
+google-scholar: true
+
+format:
+  html:
+    toc: false
+    appendix-cite-as: display
+---
+
+
+
+We are happy to announce that <span class="small-caps">The Crisis'</span> "History of the Negro in the Revolution of 1914-1918" is progressing favorably. Two volumes are already planned. The first will be a popular narrative history, well illustrated, by Dr. DuBois, to be issued next spring; supporting this will be a volume of war documents, edited by Edward C. Williams, Librarian of Howard University and formerly Librarian of Western Reserve University, to follow in 1921. 
+
+A survey of the large amount of material in the hands of the editors reveals some gaps which ought to be filled.
+
+There is still need of information concerning certain units, notably those officered by white men and especially the engineer service battalions, labor battalions, stevedore regiments, pioneer infantry regiments and the transportation corps.
+
+The material needed is of various kinds, as follows:
+
+<ol type="a">
+<li> Connected narratives, in outline or detail, of the history of each unit from its organization in the United States, including training camp experiences, embarkation, instruction or service behind the lines in France and movements from place to place, with dates where they are known.   
+<li> Official reports of operations. These are usually made at headquarters, and many officers have copies.   
+<li> Rosters.   
+<li> Official orders, general and special, memoranda and bulletins.   
+<li> Reports of court martial proceedings and findings.   
+<li> Citations and decorations for bravery.   
+<li> Personal experiences of individuals.   
+<li> Incidents or documents showing the discipline and morale of the colored troops and their relations with white Americans and the French.   
+<li> Photographs, especially of officers and of men decorated for bravery, and of scenes from life at the front.   
+</ol>
+
+Material furnished will be returned when the lender so desires. Such documents should be marked plainly with the owner's name and address. Photographs should have indicated on the back the persons or scenes they portray.
+
+If anyone feels unable by reason of lack of training to convey the information in his possession in his own words or handwriting, he should get someone to help him or send us the names and addresses of fellow-soldiers, white or colored, who may be able to give us the facts desired.
+
+Please act at once. It is a patriotic service to the credit of our race.
+
+<!-- Similar articles start here -->
+
+<hr>
+#### Related Articles:
+
+* [The Black Man in the Revolution of 1914-1918 (1919)](/Volumes/17/05/the_black_man_in_the_revolution_of_1914_1918.html)
+* [The Negro Soldier (1919)](/Volumes/19/02/negro_soldier.html)
+* [Our Book Shelf (1926)](/Volumes/31/03/book_shelf.html)
+* [Radicals (1919)](/Volumes/19/02/radicals.html)
+* [Socialism and the Negro (1921)](/Volumes/22/06/socialism_and_the_negro.html)
+
+<!-- Similar articles end here -->

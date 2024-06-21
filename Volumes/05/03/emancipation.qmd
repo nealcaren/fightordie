@@ -88,3 +88,15 @@ Lincoln began the emancipation of the Negro-American. The National
 Association for the Advancement of Colored People proposes to complete
 it.
 
+<!-- Similar articles start here -->
+
+<hr>
+#### Related Articles:
+
+* [An Open Letter (1915)](/Volumes/10/03/an_open_letter.html)
+* [Blaine of Maine (1932)](/Volumes/39/08/blaine_of_maine.html)
+* [Loyalty (1917)](/Volumes/14/01/loyalty.html)
+* [Civil Rights (1913)](/Volumes/06/04/civil_rights.html)
+* [An Open Letter to Woodrow Wilson (1913)](/Volumes/05/05/open_letter.html)
+
+<!-- Similar articles end here -->

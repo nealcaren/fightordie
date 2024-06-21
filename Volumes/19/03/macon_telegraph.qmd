@@ -43,3 +43,15 @@ A volume in the *Home University Library* says:
 
 Finally, we would welcome a monthly edited by R. R. Moton on the lines suggested by the Telegraph. But we opine that it would omit the semiannual report of lynchings, which Tuskegee sends out to the world.
 
+<!-- Similar articles start here -->
+
+<hr>
+#### Related Articles:
+
+* [The Newest South (1913)](/Volumes/06/03/newest_south.html)
+* [Radicals (1919)](/Volumes/19/02/radicals.html)
+* [Inter-Racial Comity (1922)](/Volumes/22/01/inter-racial_comity.html)
+* [The Name Negro (1928)](/Volumes/35/03/name_negro.html)
+* [The Tuskegee Resolutions (1917)](/Volumes/13/05/tuskegee_resolutions.html)
+
+<!-- Similar articles end here -->

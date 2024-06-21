@@ -1,6 +1,7 @@
 
 ---
 title: 'On Being Ashamed of Oneself'
+subtitle: An Essay on Race Pride
 author:
   - name:
       given: W.E.B.
@@ -22,8 +23,6 @@ format:
     appendix-cite-as: display
 ---
 
-
- ***An Essay on Race Pride***
 
 My Grandfather left a passage in his diary expressing his indignation at receiving an invitation to a "Negro" picnic. Alexander DuBois, born in the Bahamas, son of Dr. James DuBois of the well-known DuBois family of Poughkeepsie, N. Y., had been trained as a gentleman in the Cheshire School of Connecticut, and the implications of a Negro picnic were anathema to his fastidious soul. It meant close association with poverty, ignorance and suppressed and disadvantaged people, dirty and with bad manners.
 
@@ -68,3 +67,15 @@ We cannot entirely escape it, since it is just as true, and just as false as suc
 
 There is no other way; let us not be deceived. American Negroes will be beaten into submission and degradation if they merely wait unorganized to find some place voluntarily given them in the new reconstruction of the economic world. They must themselves force their race into the new economic set-up and bring with them the millions of West Indians and Africans by peaceful organization for normative action or else drift into greater poverty, greater crime, greater helplessness until there is no resort but the last red alternative of revolt, revenge and war.
 
+<!-- Similar articles start here -->
+
+<hr>
+#### Related Articles:
+
+* [Again, Social Equality (1920)](/Volumes/19/05/again_social_equality.html)
+* [Social Equality (1916)](/Volumes/12/01/social_equality.html)
+* [The Negro Citizen (1929)](/Volumes/36/05/negro_citizen.html)
+* [William Monroe Trotter (1914)](/Volumes/09/02/trotter.html)
+* [Optimism (1929)](/Volumes/36/05/optimism.html)
+
+<!-- Similar articles end here -->

@@ -9,6 +9,7 @@ website:
     right:
     - about.qmd
     - listing.qmd
+    - credits.qmd
     - covers.qmd
 
 format:

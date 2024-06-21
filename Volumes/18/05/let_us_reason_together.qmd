@@ -43,3 +43,16 @@ If the United States is to be a Land of Law, we would live humbly and peaceably 
 <p class="verse"><em>For the ashes of his fathers</em>
 <p class="verse"><em>And the temples of his gods?</em>
 </div>
+
+<!-- Similar articles start here -->
+
+<hr>
+#### Related Articles:
+
+* [Thirteen (1918)](/Volumes/15/03/thirteen.html)
+* [Crime (1920)](/Volumes/19/04/crime.html)
+* [Logic (1913)](/Volumes/06/02/logic.html)
+* [Forward (1920)](/Volumes/20/05/forward.html)
+* [Awake America (1917)](/Volumes/14/05/awake_america.html)
+
+<!-- Similar articles end here -->

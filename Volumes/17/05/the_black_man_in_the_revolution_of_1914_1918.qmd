@@ -1,0 +1,122 @@
+---
+title: 'The Black Man in the Revolution of 1914-1918'
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
+date: Mar. 1919
+categories: 
+  - ""
+citation: 
+  type: article-journal
+  container-title: The Crisis
+  volume: 17
+  issue: 5
+  page: 218-223
+google-scholar: true
+
+format:
+  html:
+    toc: false
+    appendix-cite-as: display
+---
+
+
+
+## I 
+
+As announced in the December, 1918, <span class="small-caps">Crisis</span> the National Association for the Advancement of Colored People has undertaken to see that a scientific and exhaustive history of the black man in the Great War is written. The Association wishes to duplicate no work that others may do and it is especially anxious to co-operate to the fullest extent with all persons who know the facts and are acquainted with historical methods. Already the list of those co-operating with us is of considerable size and first importance.
+
+Preliminary to this work and with the idea of at once getting material and a point of view, I came to France. Quite by accident my trip was made on the same boat taken by Dr. R.R. Moton, of Tuskegee, who was going on a special trip arranged by Secretary of War Baker. Wherever possible Dr. Moton and I have gladly co-operated but our missions were distinct in every respect.
+
+After a rapid survey of the situation here I am venturing to send back a preliminary and tentative foreword to the history I hope to write. It is nothing more than a sketch---its details are lacking and some basic facts missing, but I think I have the main outlines.
+
+The black soldier saved civilization in 1914-18. First, nearly 400,000 black men of Senegal were the troops that at the Marne and the Oureq stopped the first onset of Germans, filled the river with their dead and made the world's greatest army re-cross on the dead corpses of their companions. France not only does not deny this---she is proud to acknowledge the debt.
+
+For example, on December 29, 1918 the French Colonial League held in the Trocadéro in Paris a great celebration in honor of native troops who had come to fight for France. This celebration was sanctioned by President Poincaré and conducted in the presence of the ministers and the military Governor-General of Paris. Presiding were M. Henry Simon, Colonial Minister; M. Diagne, a Senegalese, Commissioner-General of Colonial Affairs; and M. Eugène Etienne, President of the French Colonial League.
+
+The program, whose title page is here displayed, gives the following account of M. Diagne:
+
+> *M. Diagne, Deputy from Senegal, was made Commissioner-General of Colonial Affairs in the Cabinet of M. Clemenceau, as a result of the brilliant success of the last levy of troops in French West Africa. Under conditions calling for great tact and delicacy M. Diagne was able to render the most signal services to his country. He is administering with consummate ability his present office of Commissioner, which will involve the consideration of the numerous problems arising with respect to whatever is of special import to our black troops who throughout the war have conducted themselves with so much heroism.*   
+> &nbsp;   
+> *M. Diagne will give in his speech a detailed account of the loyalty of the native troops and will indicate the new obligations incumbent now on the mother country in recognition of the rights of naturalization which native troops have gained on the battle-fields which they* as *brothers shared with their white brothers.*
+
+The program mentions also the decoration of M. Bakhane Diop, an African chieftain. M. Diop stood between an Arab and an Annamite and all three received the crimson badge of the Legion. That was a wonderful sight. The passage in the program reads:
+
+> *The Cross of Chevalier of the Legion of Honor, merited in action at the front by one of these chieftains, M. Bakhane Diop, will be bestowed upon him with all the usual ceremony by one of the glorious figures in our Colonial history, General Archinard, who ranks among the most active spirits in our penetration into Africa. The grandeur of the symbolic accolade, which will be given by General Archinard to Bakhane Diop, son of one of our most unyielding adversaries, will assuredly be one of the extremely stirring features in this celebration which is tendered by glorious France.*
+
+## II
+
+America did not win the war by her fighting only. Her fighting both of colored and white troops covered less than a year of a four years' war. America's great contribution was her preparations which frightened Germany; and her sailors, engineers and laborers who made food and material available. Among these the black stevedores have won a world record. They have been the best workers in France, as is acknowledged by everybody, and their efficiency has been due in part to no small numbers of colored officers and under-officers and to colored Y.M.C.A. workers.
+
+But America did some fighting and the most critical time of America's fighting was in the terrible days of last fall when the exhausted French had to have re-inforcements or yield. It was here that among the first units sent to aid was the Ninety-third Division. The Ninety-third was not a division. It consisted of the Eighth Illinois, the Fifteenth New York, the Separate Battalions of Maryland, the District of Columbia, and Ohio, Company L of the Sixth Massachusetts and others. It was an aggregation nobody wanted. It could not under the draft law go with its state units, or, at least, the law was so interpreted. A whole division was planned to include Colonel Young---but dark forces intervened. Yet these units were ready for work, they were eager, and they were sent to the French and have become known as the 369th, 370th, 371st and 372d Regiments of the Ninety-third Division. Their black officers were transferred and changed considerably, but they went into battle practically with a complete roster of black officers except Colonels, a few Majors and several Captains. But most of the officers were black---for instance, the old Eighth Illinois, even after Colonel Dennison left, had a colored Lieutenant-Colonel, two colored Majors, nineteen colored Captains and ninety-eight colored First and Second Lieutenants. Colonel Hayward, of the old New York Fifteenth, succeeded in removing a larger proportion of his colored officers.
+
+So at the most critical period of the American participation in the war these men went into action.
+
+What was the result?
+
+The colored Lieutenant-Colonel of the 370th, a colored Major, eight colored Captains, seventeen colored Lieutenants, eight colored under-officers and twenty-six colored privates received the *Croix de Guerre* in November.
+
+On November 11, General Vincenden, the French Commanding Officer, said of the 370th: *"Fired by a noble ardor, they go at times even beyond the objectives given them by the higher command; they have always wished to be in the front line."* The final order of General Vincenden, December 9, said: *"In the name of France, I thank you."* He mentioned the *"hard and brilliant battles of Chavigny, Leury and the Bois de Beaumont."* He commends their *"fine appearance under arms"* like *"silk unrolling in wavy folds."* He especially mentions the exploits of three battalions (two with all colored officers and one with a white Captain) at Val St. Pierre, Aubenton and Logny, where the colored Lieutenant-Colonel distinguished himself. *"You have given us of your best and you have given it out of the fullness of your hearts. The blood of your comrades who fell on the soil of France, mixed with the blood of our soldiers, renders indissoluble the bonds of affection that unite us. We have, besides, the pride of having worked together at a magnificent task and the pride of bearing on our foreheads the ray of a common grandeur. A last time---Au Revoir!"*
+
+The 371st and 372d Infantries were brigaded with the 157th French Division under General Goybet. On the occasion of their leaving, December 15, the General in Order No. 245 said:
+
+> *For seven months we have lived as brothers-at-arms, partaking of the same activities, sharing the same hardships and the same dangers. Side by side we took part in the great Champagne Battle, which was to be crowned by a tremendous victory. Never will the 157th Division forget the indomitable dash, the heroic rush of the American (Negro) regiments up the observatory ridge and into the Plain of Monthois. The most powerful defenses, the most strongly organized machine gun nests, the heaviest artillery barrages---nothing could stop them. These crack regiments overcame every obstacle with a most complete contempt for danger. Through their steady devotion the Red Band Division (157th French) for nine whole days' of severe struggle was constantly leading the way for the victorious advance of the Fourth Army. Officers, non-commissioned officers and men, I respectfully salute our glorious comrades who have fallen, and I bow to your colors---side by side with this---the flag of the 333d Regiment of Infantry (French). They have shown us the way to victory. Dear Friends from America, when you reach the other side of the ocean, do not forget the Red Hand Division. Our brotherhood has been cemented in the blood of the brave, and such bonds will never be destroyed."*
+
+The Distinguished Service Cross was given, December 16, to four colored officers, five colored privates and one colored corporal, of the 372d Regiment. On December 13, the following honors were given the 371st and 372d, *Croix de Guerre* to two colored corporals and to two colored privates. There were also seventy other citations.
+
+On October 7, General Garnier Duplossis, of the Ninth French Army Corps *"salutes the brave American (Negro) regiments who have rivalled in intrepidity their French comrades."*
+
+On October 8, General Goybet (General Order 234) in submitting the above transmits *"from the bottom of the heart of a chief and soldier the expression of the gratitude for the glory which you have sent to our good 157th Division."* The same day Colonel Quillet notes their *"finest qualities of bravery and daring"* in an order to the 372d Regiment. On the battlefield, October 1, General Goybet said: *"You must be proud of the courage of your officers and men and I consider it an honor to have them under my command."* The 372d Regiment was cited as a whole for bravery and four *Médailles Militaires* and four *Croix de Guerre* were given. Similar words of farewell as went to the 370th Regiment were sent to this regiment.
+
+So much for the soldiers brigaded with the French, to whom will be added later the equally fine record of the 369th (Fifteenth New York). In fine, the universal testimony of the French army is that black officers and men did extraordinarily well.
+
+Thus much for the Ninety-third Division.
+
+The Ninety-second Division went through hell. It was torn and shaken in morale, seriously so by General Ballou's apparent anxiety to preserve a "Jim-Crow" régime for his officers and by the determination of men like Colonel Moss not to insist on respect to his colored officers. The Division seethed with bitterness and discontent, but it stuck to its work.
+
+## III
+
+Meantime, anti-Negro prejudice was rampant in the American army and the officers particularly were subjected to all sorts of discrimination. Scandalous tales were spread in French towns and villages; some villages were posted "Niggers keep out!" Incidents like this continually recurred. A black chaplain with the rank of a Lieutenant reported for duty with colored stevedore regiments at Bordeaux. All the officers were white. He presented himself at the officers' mess and was refused admission. He asked for meals in his room. That was contrary to regulations. He tried the non-commissioned officers' mess. He was refused here because he was an officer. He asked them to send him meals. They refused. He tried to eat with the privates. Again regulations intervened. After a day of hunger and insult he was finally accommodated with a side table for himself in the officers' mess-room.
+
+In the fighting units not one-third of the white soldiers saluted colored officers; they were refused at officers' clubs and in several cases openly disparaged before their men. In hospitals they were often refused admittance to officers' quarters and placed with the privates. Gossip disparaging to the black officers filled the whole American army and clashes of white and colored soldiers ended in blood-shed in a number of cases.
+
+On top of this came subtle German propaganda.
+
+The following was dropped from a German balloon, September 3, 1918, near St. Dié and Raon-l'Etape:
+
+> *TO THE COLORED SOLDIERS OF THE UNITED STATES ARMY*   
+> &nbsp;   
+> *Hello, boys, what are you doing over here? Fighting the Germane? Why? Have they ever done you any harm? Of course some white folks and the lying English-American papers told you that the Germans ought to be wiped out for the sake of humanity and democracy. What is democracy? Personal freedom, all citizens enjoying the same rights socially and before the law. Do you enjoy the same rights as the white people do in America, the land of freedom and democracy, or are you not rather treated over there as second-class citizens? Can you go into o restaurant where white people dine? Can you get a seat in the theatre where white people sit? Can you get a seat or a berth in the railroad car, or can you even ride in the South in the same street car with white people? And how about the law? Is lynching and the most horrible crimes connected therewith, a lawful proceeding in a democratic country? Now, all this is entirely different in Germany, where they do like colored people, where they treat them as gentlemen and as white men and quite a number of colored people have fine positions in business in Berlin and other German cities. Why, then, fight the Germans only for the benefit of the Wall Street robbers and to protect the millions they have loaned to the English, French and Italians? You have been made the tool of the egotistic and rapacious rich in England and America and there is nothing in the whole game for you but broken bones, horrible wounds, spoiled health or death. No satisfaction whatever will you get out of this unjust war. You have never seen Germany. So you are fools if you allow people to make you hate us. Come over and see for yourself. Let those do the fighting who make the profit out of this war. Don't allow them to use you as cannon-fodder. To carry a gun in this service is not an honor, but a shame. Throw it away and come over to the German lines. You will find friends who will help you along.*
+
+## IV
+
+The black men never wavered.
+
+Why?
+
+Because side by side with this treatment on the part of their own countrymen came the courtesy, the kindness and the utter lack of prejudice among the French. The black soldiers by their sweet-tempered consideration gained friends everywhere. They saw the wretched suffering of the French and they toiled and fought willingly for them. French officers and civilians of high social position vied with each other in doing all they could to show consideration. A Negro officer entered a café. The American white officers resented his seat at their table and started to rise---the French officers at a neighboring table very quietly and courteously nodded to the land-lady and the black officer found a welcome seat with them.
+
+Several high white southern officers of General Ballou's staff blocked nearly everything that would help or encourage the black men---the Chief of Staff repeatedly refused permissions to the photographers, with the result that the Division has almost no photographic record of its work.
+
+But it did work and fight.
+
+The single colored artillery brigade, 167th Field Artillery, had a General from Massachusetts, Sherburne, who believed in them. He said in General Order 11 that he desired *"to record his appreciation of the high qualities displayed by officers and men during the recent operations in this sector. They have been zealous soldiers and skilful artillerymen. Their recompense lies in their knowledge of work well done and in the commendation of those well qualified to speak. By day and night, often under a hail of shrapnel, often through clouds of deadly gas, they have marched and fought, dragged their guns sometimes by hand into the line, kept open their lines of communication and brought up their supplies always with a cheerfulness that earned them the admiration of all."*
+
+The Division was repeatedly under fire. It went forward in the last great drive and was preparing to take part in the great assault on Metz when the armistice came.
+
+In one instance alone has the white soldier been able even to disparage the actual work of colored troops. In that case a battalion of the 368th Regiment was put in as support and, quite contrary to plan, was suddenly rushed forward as storm troops without equipment. Caught between the two barrages they fell back, contrary to orders, but another battalion of colored men relieved them and went forward. Where was the fault? The white officer, found skulking in the rear, said it was the cowardice of Negro officers.
+
+So the word to acknowledge the Negro stevedore and the fighting black private has gone forth, but the American army is going to return to America determined to disparage the black officer and eliminate him from the army despite his record. And the black officer and private? They return at once bitter and exalted! They will not submit to American caste and they will ever love France!
+<!-- Similar articles start here -->
+
+<hr>
+#### Related Articles:
+
+* [The War History (1919)](/Volumes/18/06/the_war_history.html)
+* [Robert R. Moton (1919)](/Volumes/18/01/robert_moton.html)
+* [The Present (1917)](/Volumes/14/04/present.html)
+* [Close Ranks (1918)](/Volumes/16/03/close_ranks.html)
+* [The Negro Soldier (1919)](/Volumes/19/02/negro_soldier.html)
+
+<!-- Similar articles end here -->

@@ -9,10 +9,16 @@ Our [Code of Conduct](code_of_conduct.md) governs this project and everyone's pa
 
 ## How you can help
 
-- [Finding and Transcribing Articles](#Transcribe)
-- [Adding notes](#Marginal-notes)
-- [Organizing](#Organizing)
-- [Fixing Errors](#errors)
+- [Contributing](#contributing)
+  - [Code of Conduct](#code-of-conduct)
+  - [How you can help](#how-you-can-help)
+  - [Finding and Transcribing Articles](#finding-and-transcribing-articles)
+      - [Markdown](#markdown)
+    - [Marginal notes](#marginal-notes)
+  - [Organizing](#organizing)
+  - [Errors](#errors)
+  - [Copyright](#copyright)
+  - [Inspiration](#inspiration)
 
 
 ## Finding and Transcribing Articles

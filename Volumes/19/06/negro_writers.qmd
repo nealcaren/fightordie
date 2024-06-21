@@ -30,3 +30,15 @@ One colored writer, Claude McKay, asserts that we rejected one of his poems and 
 From the beginning, the editor has read with care every manuscript sent us, which explains the unconscionable delay in returning many; and yet for three years the editor was editor, business manager, and chief clerk, and only this last year has <span class="small-caps">The Crisis</span> been able to hire an editorial staff even approximately adequate to the work.
 
  
+<!-- Similar articles start here -->
+
+<hr>
+#### Related Articles:
+
+* [The Younger Literary Movement (1924)](/Volumes/27/04/younger_movement.html)
+* [The Name Negro (1928)](/Volumes/35/03/name_negro.html)
+* [Radicals (1919)](/Volumes/19/02/radicals.html)
+* [The Macon Telegraph (1920)](/Volumes/19/03/macon_telegraph.html)
+* [An Open Letter to Robert Russa Moton (1916)](/Volumes/12/03/open_letter.html)
+
+<!-- Similar articles end here -->

@@ -1,0 +1,48 @@
+---
+title: 'Byrnes'
+author: Du Bois, W.E.B.
+date: Apr. 1919
+categories: 
+  - ""
+citation: 
+  type: article-journal
+  container-title: The Crisis
+  volume: 18
+  issue: 6
+  page: 284-285
+google-scholar: true
+
+format:
+  html:
+    toc: false
+    appendix-cite-as: display
+---
+
+
+You have, perhaps, noticed our double-page advertisement in the *Congressional Record,* due to the kindness of our good friend James Francis Byrnes, of South Carolina. Congressman Byrnes is from the Second District and a confrère of the late Congressman James W. Ragsdale, who died suddenly during the Washington riots.
+
+The Congressional Districts of these two gentlemen have about 400,000 inhabitants and probably 80,000 of these are males of voting age, the majority being Negroes. Mr. Byrnes was elected to Congress by a vote of 7,681 ballots out of a total of 7,801 ballots cast.
+
+In the Second District of New York it took, the same year, 46,141 votes to make an election and 24,064 of these to elect a Congressman; but all this is not necessary in South Carolina.
+
+Yet Mr. Byrnes, representing without any legal authority the suppressed votes of 12,000 white men and 20,000 blacks, stands in Congress and talks just as loud---indeed, considerably louder---than Mr. Caldwell of New York.
+
+Mr. Byrnes is alarmed, and so are we. He is alarmed over us and we over him. He accuses <span class="small-caps">The Crisis</span> and other Negro journals of causing not only the Washington and Chicago riots, but the whole unrest and dissatisfaction in the Negro race. We accuse Mr. Byrnes, and his kind, of being primarily the ones who not only precipitated the riots in Washington, Chicago, Atlanta, Houston, Longview and East St. Louis, but also of encouraging for fifty years the lynching of 4,000 Negroes, the disfranchisement of a million and a half voters, the enforced ignorance of three million human beings and the theft of hundreds of millions of dollars in wages, but particularly the theft of the highest privilege of a freeman---our vote and our self-respect.
+
+Following the advice and example of the alarmed Mr. Byrnes, we have called this situation "to the attention of" the President, the Attorney-General and the United States Congress "with the request that they have proceedings instituted" against Byrnes, under the Fourteenth Amendment of the Constitution of the United States.
+
+And we have intimated to them in the chaste language of our friend that "steps should be taken against the use" of the *Congressional Record* "for the Bolshevik and the I.W.W."
+
+Meantime, may we not cordially thank Congressman Byrnes for allowing some seventy-five millions of our fellow-citizens to read a <span class="small-caps">Crisis</span> editorial which might otherwise have reached a bare million?
+<!-- Similar articles start here -->
+
+<hr>
+#### Related Articles:
+
+* [The Negro Voter (1928)](/Volumes/35/08/negro_voter.html)
+* [Political Straws (1923)](/Volumes/26/03/political_straws.html)
+* [Remember (1920)](/Volumes/19/06/remember.html)
+* [The Republicans (1915)](/Volumes/10/01/the_republicans.html)
+* [The Election (1928)](/Volumes/35/12/election.html)
+
+<!-- Similar articles end here -->

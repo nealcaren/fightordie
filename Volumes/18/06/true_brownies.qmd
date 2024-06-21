@@ -53,3 +53,15 @@ This is a great program---a tremendous task. We want the advice of all mothers a
 
 Write us in care of *The Brownies' Book*, 2 West Thirteenth Street, New York City, and---incidentally---send a One Dollar subscription for a year.
 
+<!-- Similar articles start here -->
+
+<hr>
+#### Related Articles:
+
+* [A Little Play (1914)](/Volumes/07/05/a_little_play.html)
+* [Prejudice (1927)](/Volumes/34/09/prejudice.html)
+* [The Name Negro (1928)](/Volumes/35/03/name_negro.html)
+* [The New Crisis (1925)](/Volumes/30/01/new_crisis.html)
+* [Counsels of Despair (1934)](/Volumes/41/06/counsels_of_despair.html)
+
+<!-- Similar articles end here -->

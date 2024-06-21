@@ -41,3 +41,15 @@ Before the publication of this epoch-making volume, <span class = "small-caps">T
 
 These are a fair summary of the conclusions of writers who are among the best-known names in modern science. In the next number of <span class = "small-caps">The Crisis</span> we shall give some of their views at length.
 
+<!-- Similar articles start here -->
+
+<hr>
+#### Related Articles:
+
+* [The New Crisis (1925)](/Volumes/30/01/new_crisis.html)
+* [The Crisis (1910)](/Volumes/01/01/TheCrisis.html)
+* [Inter-Racial Comity (1922)](/Volumes/22/01/inter-racial_comity.html)
+* [A Statement (1919)](/Volumes/19/01/statement.html)
+* [The Name Negro (1928)](/Volumes/35/03/name_negro.html)
+
+<!-- Similar articles end here -->

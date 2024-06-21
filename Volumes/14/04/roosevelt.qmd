@@ -27,3 +27,15 @@ format:
 
 Greeting, Theodore Roosevelt! Forgotten is Brownsville! Forgotten is the misbirth of the Progressive Party! We only remember to-day that of all Americans mouthing of Liberty and Justice and a world "free for Democracy" you alone had the courage to stand and condemn the murder and riot in East St. Louis. All honor to you and all shame to that silent man in the White House who wants Home Rule for Ireland, Freedom for Poles, and Justice for Armenians, but has no single word for the 3,000 American citizens lynched North and South, principally by the South which he is crowding more and more "into the Saddle." You have gained the votes of twelve million Americans, Theodore Roosevelt, by one strong word.
 
+<!-- Similar articles start here -->
+
+<hr>
+#### Related Articles:
+
+* [The Election (1912)](/Volumes/05/02/the_election.html)
+* [Awake America (1917)](/Volumes/14/05/awake_america.html)
+* [How Shall We Vote (1920)](/Volumes/20/05/how_shall_we_vote.html)
+* [Mr. Roosevelt (1912)](/Volumes/04/05/mr_roosevelt.html)
+* [An Open Letter to Woodrow Wilson (1913)](/Volumes/05/05/open_letter.html)
+
+<!-- Similar articles end here -->

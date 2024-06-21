@@ -49,8 +49,22 @@ This astounding advance of over 100 per cent. in property holding in a decade is
 
 What lies beyond if the nation allows this last attack to succeed?
 
-```{epigraph}
-"The ray of hope for justice to the Negro in the South is like the shadow of the dawn. We have caught such glimpses of it as to indicate to us that the morning of our future has not yet appeared."
--- Harrisburg, Pa., *Advocate Verdict.*
-```
 
+::: epigraph
+"The ray of hope for justice to the Negro in the South is like the shadow of the dawn. We have caught such glimpses of it as to indicate to us that the morning of our future has not yet appeared."
+
+-- Harrisburg, Pa., *Advocate Verdict.*
+:::
+
+<!-- Similar articles start here -->
+
+<hr>
+#### Related Articles:
+
+* [A Statement (1919)](/Volumes/19/01/statement.html)
+* [Crime (1920)](/Volumes/19/04/crime.html)
+* [Let us Reason Together (1919)](/Volumes/18/05/let_us_reason_together.html)
+* [N.A.A.C.P. (1910)](/Volumes/01/02/NAACP.html)
+* [Mob Tactics (1927)](/Volumes/34/06/mob_tactics.html)
+
+<!-- Similar articles end here -->

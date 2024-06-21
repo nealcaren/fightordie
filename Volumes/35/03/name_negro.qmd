@@ -47,3 +47,15 @@ Your real work, my dear young man, does not lie with names. It is not a matter o
 
 W. E. B. Du Dois.
 
+<!-- Similar articles start here -->
+
+<hr>
+#### Related Articles:
+
+* [Radicals (1919)](/Volumes/19/02/radicals.html)
+* [Our Special Grievances (1918)](/Volumes/16/05/our_special_greivances.html)
+* [Inter-Racial Comity (1922)](/Volumes/22/01/inter-racial_comity.html)
+* [The Macon Telegraph (1920)](/Volumes/19/03/macon_telegraph.html)
+* [Toward a New Racial Philosophy (1933)](/Volumes/40/01/toward_a_new_racial_philosophy.html)
+
+<!-- Similar articles end here -->

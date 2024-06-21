@@ -45,3 +45,15 @@ We beg to remain, Sir,<br>
 <li> (Signed) A. H. <span class="small-caps">Grimké</span>, President, District of Columbia Branch. 
 </ul>
 
+<!-- Similar articles start here -->
+
+<hr>
+#### Related Articles:
+
+* [The President (1915)](/Volumes/09/04/president.html)
+* [Mr. Hughes (1916)](/Volumes/13/01/mr_hughes.html)
+* [An Open Letter to Woodrow Wilson (1913)](/Volumes/05/05/open_letter.html)
+* [The Congressmen and the NAACP (1914)](/Volumes/09/02/congressmen_and_the_naacp.html)
+* [The Presidential Campaign (1916)](/Volumes/12/06/presidential_campaign.html)
+
+<!-- Similar articles end here -->

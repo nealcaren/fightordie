@@ -33,3 +33,15 @@ white vote, leave the colored vote the same and not increase the vote of
 criminals. We assume that the author will circulate this remarkable
 leaflet on the East side and in Harlem.
 
+<!-- Similar articles start here -->
+
+<hr>
+#### Related Articles:
+
+* [Woman''s Suffrage (1913)](/Volumes/06/01/womans_suffrage.html)
+* [Votes for Women (1918)](/Volumes/15/01/votes_for_women.html)
+* [Woman Suffrage (1915)](/Volumes/11/01/woman_suffrage.html)
+* [The Risk of Woman Suffrage (1915)](/Volumes/11/01/risk_of_woman_suffrage.html)
+* [Woman Suffrage (1915)](/Volumes/09/06/womansuffrage.html)
+
+<!-- Similar articles end here -->

@@ -49,3 +49,15 @@ Can, now, a magazine like <span class="small-caps">The Crisis</span> ever becom
 
 When once <span class="small-caps">The Crisis</span> can reach a circulation of 50,000 its permanence and independence are assured. Until it can there must always be the element of doubt as to whether such a magazine can command the requisite support. We believe it can. The experience of the first two years is more than encouraging. The Crisis has to-day the largest net circulation of any periodical devoted to the Negro race in America. If the growth in the next two years parallels the past, then one at least of our problems will be solved---the problem of publicity. 
 
+<!-- Similar articles start here -->
+
+<hr>
+#### Related Articles:
+
+* [Join or Die (1914)](/Volumes/07/03/fightordie.html)
+* [Truth and Beauty (1922)](/Volumes/25/01/truth_and_beauty.html)
+* [The Gall of Bitterness (1912)](/Volumes/03/04/gail_of_bitterness.html)
+* [We Come of Age (1915)](/Volumes/11/01/we_come_of_age.html)
+* [Booming The Crisis (1914)](/Volumes/07/05/booming_crisis.html)
+
+<!-- Similar articles end here -->

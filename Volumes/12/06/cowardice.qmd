@@ -38,3 +38,15 @@ It may be a good thing to forget and forgive; but it is altogether too easy a tr
 -- G.K. Chesterton
 :::
 
+<!-- Similar articles start here -->
+
+<hr>
+#### Related Articles:
+
+* [Mob Tactics (1927)](/Volumes/34/06/mob_tactics.html)
+* [Peonage (1916)](/Volumes/11/06/peonage.html)
+* [The Challenge of Detroit (1925)](/Volumes/31/01/challenge_of_detroit.html)
+* [The Old Story (1911)](/Volumes/01/03/old_story.html)
+* [Crime (1920)](/Volumes/19/04/crime.html)
+
+<!-- Similar articles end here -->

@@ -1,0 +1,117 @@
+---
+title: 'Memorandum to M. Diagne and Others on a Pan-African Congress to be held in Paris in February, 1919'
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
+date: Mar. 1919
+categories: 
+  - ""
+citation: 
+  type: article-journal
+  container-title: The Crisis
+  volume: 17
+  issue: 5
+  page: 224-225
+google-scholar: true
+
+format:
+  html:
+    toc: false
+    appendix-cite-as: display
+---
+
+
+
+Gentlemen:
+
+I beg hereby to lay before you certain tentative suggestions as to a Pan-African Congress to be held in Paris in February, 1919.
+
+1. The appointment of a small Committee of arrangements.
+
+2. The sending of personal invitations to representatives of the Negro race who can attend such a Congress and who represent the Governments of Abyssinia, Liberia and Haiti; the French, English, Spanish, Italian, Belgian, Dutch and former German Colonies; and the descendants of Negroes inhabiting North and South America and the Islands of the Sea.
+
+3. Invitations to all Governments having Negro citizens and subjects to send representatives to address the Congress; and similar invitations to China, Japan and India.
+
+4. Invitations to join in our open conferences to representatives of organizations devoted to the advancement of the Darker Races.
+
+5. The chief work of the Congress shall be:
+
+    \(a\) The hearing of statements on the condition of Negroes throughout the world.
+
+    \(b\) The obtaining of authoritative statements of policy toward the Negro race from the Great Powers.
+
+    \(c\) The making of strong representations to the Peace Conference sitting in Paris in behalf of both voice in and protection for 250,000,000 Negroes and Negroids in the League of Nations.
+
+    \(d\) The laying down of principles upon which the future development of the Negro race must take place, including:
+
+    Political rights for the civilized.
+
+    Modern education for all children.
+
+    Native rights to the land and natural resources.
+
+    Industrial development primarily for the benefit of the native and his country.
+
+    Development of autonomous government along lines of native custom, with the object of inaugurating gradually an Africa for the Africans.
+
+    Full recognition of the independent Governments of Abyssinia, Liberia and Haiti, with their full natural boundaries, and the development of the former German Colonies under the guarantee and oversight of the League of Nations.
+
+    The cordial and sympathetic co-operation of the Black, Yellow and White Races on terms of mutual respect and equality in the future development of the world.
+
+6.  The program of the Congress might be something as follows:
+
+    Sunday afternoon: Mass-meeting, addressed by representatives of the Colonial Powers and of the Negro nations.
+
+    Night: Reception to delegates.
+
+    Monday morning: Closed conference of Negro delegates; appointment of Committees; reports of conditions.
+
+    Afternoon: Open conference; reports from Governments.
+
+    Tuesday morning: Committees and resolutions.
+
+    Afternoon: Closed conference.
+
+    Night: Mass-meeting and speeches.
+
+7.  The Conference should form a permanent Secretariat with Headquarters in Paris, charged with the duty of:
+
+    Collating the history of the Negro race.
+
+    Studying the present condition of the race.
+
+    Publishing articles, pamphlets and a report of this Congress.
+
+    Encouraging Negro art and literature.
+
+    Arranging for a second Pan-African Congress in 1920.
+
+<p style="text-align:center"> ~~~~~~~~~~~~~~~ </p>
+
+I propose that a preliminary conference to consider these and any other proposals be called to meet Wednesday, January 8, at a time and place to be selected.
+
+<span style="font-variant:small-caps;">W.E.Burghardt DuBois,</span>
+
+Doctor in Philosophy and Director of Publications and Research in the National Association for the Advancement of Colored People, United States of America.
+
+Paris, January 1, 1919.
+
+<p style="text-align:center"> ~~~~~~~~~~~~~~~ </p>
+
+This plan was acceptable not only to the representatives of the various Negro peoples gathered in France, but it was also welcomed by the French. In the last week in January, Dr. DuBois sent the following cablegram to the N.A.A.C.P.:
+
+"Clémenceau permits Pan-African Conference February 12, 13, 14. North, South America, West Indies, Africa represented. Two of our delegates, Haiti, Liberia, sit in Peace Conference. Carefully selected delegates welcome."
+
+<!-- Similar articles start here -->
+
+<hr>
+#### Related Articles:
+
+* [The Pan-African Congresses: The Story of a Growing Movement (1927)](/Volumes/34/08/panafrican_congresses.html)
+* [Soldiers (1919)](/Volumes/17/01/soldiers.html)
+* [Robert R. Moton (1919)](/Volumes/18/01/robert_moton.html)
+* [Resolutions of the Washington Conference (1917)](/Volumes/14/02/resolutions.html)
+* [The American Legion (1919)](/Volumes/18/05/the_american_legion.html)
+
+<!-- Similar articles end here -->

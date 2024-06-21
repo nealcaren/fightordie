@@ -35,3 +35,15 @@ editorials are written against "lazy" Negroes.
 Despite this there are people in this country who wonder at the increase
 of "crime" among colored people.
 
+<!-- Similar articles start here -->
+
+<hr>
+#### Related Articles:
+
+* [The Old Story (1911)](/Volumes/01/03/old_story.html)
+* [Crime (1926)](/Volumes/32/01/crime.html)
+* [Courts and Jails (1932)](/Volumes/39/04/courts_and_jails.html)
+* [Crime (1920)](/Volumes/19/04/crime.html)
+* [Anarchism (1912)](/Volumes/04/04/anarchism.html)
+
+<!-- Similar articles end here -->

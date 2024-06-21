@@ -1,0 +1,48 @@
+---
+title: 'The American Legion'
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
+date: Mar. 1919
+categories: 
+  - ""
+citation: 
+  type: article-journal
+  container-title: The Crisis
+  volume: 18
+  issue: 5
+  page: 233
+google-scholar: true
+
+format:
+  html:
+    toc: false
+    appendix-cite-as: display
+---
+
+
+The American Legion is composed, as President Wilson tells us, of "the men who have served in the Army, Navy and Marine Corps, and who are now banding together to preserve the splendid traditions of that service."
+
+The Legion was formed at preliminary meetings, held in Paris and St. Louis, and sought to settle the inevitable color question by giving all authority as to admitting posts to the state bodies. The South promised faithfully to treat Negroes fairly. As a result, in South Carolina "our committee was told flatly by the Executive Committee of the state organization that it was a white man’s organization and that Negroes would not be admitted.” In Louisiana, Negroes were also excluded; but Virginia caps the climax by offering to admit Negroes on condition that
+
+* Officers of state organization be elected by whites.  
+* Executive Committee be elected by whites.  
+* Time and place of meeting be fixed by whites.  
+* Delegates to national convention to be appointed in “equitable” manner between whites and blacks by the Executive Committee.  
+* Constitution may be amended by two-thirds vote of whites.
+
+This action and other considerations have given impetus to several all-Negro veteran associations,---The Grand Army of Americans in Washington, D.C.; The League for Democracy in New York; and The American Alliance in Richmond. There is room and work for such colored bodies, *but every Negro soldier and sailor should fight to join the American Legion.* Do not give up the battle. Organize throughout the North and South. In the North there will be little, if any, opposition. In the South every subterfuge will be sought, but force the fight. Make the Bourbons refuse in writing, and then take the question to the national convention. Do not help the rascals to win by giving up.
+
+<!-- Similar articles start here -->
+
+<hr>
+#### Related Articles:
+
+* [American Legion, Again (1920)](/Volumes/19/03/american_legion_again.html)
+* [Soldiers (1919)](/Volumes/17/01/soldiers.html)
+* [Inter-Racial Comity (1922)](/Volumes/22/01/inter-racial_comity.html)
+* [Officers (1917)](/Volumes/14/02/officers.html)
+* [The Negro Soldier (1919)](/Volumes/19/02/negro_soldier.html)
+
+<!-- Similar articles end here -->

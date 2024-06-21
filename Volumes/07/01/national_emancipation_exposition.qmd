@@ -130,3 +130,15 @@ Then shall the banners announce:
 
 "The play is done!"
 
+<!-- Similar articles start here -->
+
+<hr>
+#### Related Articles:
+
+* [The Drama Among Black Folk (1916)](/Volumes/12/03/drama_among_black_folk.html)
+* [Criteria of Negro Art (1926)](/Volumes/32/06/criteria_of_negro_art.html)
+* [Hail Columbia (1913)](/Volumes/05/06/hail_columbia.html)
+* [The Next Step (1913)](/Volumes/06/02/next_step.html)
+* [The Black Man and the Unions (1918)](/Volumes/15/05/the_black_man_and_the_unions.html)
+
+<!-- Similar articles end here -->

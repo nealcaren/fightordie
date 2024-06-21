@@ -64,3 +64,15 @@ format:
 <p class = "verse">Pass&mdash;softly, full softly.
 </div>
 
+<!-- Similar articles start here -->
+
+<hr>
+#### Related Articles:
+
+* [The Burden of Black Women (1914)](/Volumes/09/01/burden_of_black_women.html)
+* [In God''s Gardens (1912)](/Volumes/03/06/in-gods-gardens.html)
+* [Easter-Emancipation 1863-1913 (1913)](/Volumes/05/06/easter-emancipation.html)
+* [The Song of the Smoke (1914)](/Volumes/07/03/song_of_smoke.html)
+* [The Christmas Prayers of God (1914)](/Volumes/09/02/christmas_prayers_of_god.html)
+
+<!-- Similar articles end here -->

@@ -54,3 +54,15 @@ We are still hoping that present indications are deceptive. We are still trying 
 
 <span class = "small-caps">The Crisis</span>. 
 
+<!-- Similar articles start here -->
+
+<hr>
+#### Related Articles:
+
+* [Letters (1919)](/Volumes/17/01/letters.html)
+* [An Open Letter to Robert Russa Moton (1916)](/Volumes/12/03/open_letter.html)
+* [The President (1915)](/Volumes/09/04/president.html)
+* [The Truth (1912)](/Volumes/05/02/truth.html)
+* [Education (1913)](/Volumes/06/02/democrats.html)
+
+<!-- Similar articles end here -->

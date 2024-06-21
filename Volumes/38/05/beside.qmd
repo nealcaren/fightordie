@@ -8,6 +8,7 @@ author:
 date: May 1931
 categories: 
   - ""
+  - The Arts
 citation: 
   type: article-journal
   container-title: The Crisis
@@ -23,7 +24,7 @@ format:
 ---
 
 
-*This is the speech made by the Editor of *The Crisis* when the Lieutenant Governor of the State of New York bestowed the 17th Spingarn Medal on Richard B. Harrison.*
+*This is the speech made by the Editor of The Crisis when the Lieutenant Governor of the State of New York bestowed the 17th Spingarn Medal on Richard B. Harrison.*
 
 *The investiture took place in Mansfield Theatre, New York, where "The Green Pastures" is beginning its second year's run. There were present, the author and producer of the play, four Spingarn Medalists, the founder of the Medal and an audience of one thousand.*
 
@@ -84,3 +85,15 @@ What you then as audience and two as authors have unleashed and unbound in this 
 
 This meeting tonight is a tribute to Richard Harrison---a tribute belated and artificial, but none the less sincere. He is in his charm and courtesy, his tact and tolerant philosophy, one to be emulated and envied. Toward this distracting problem of race, he is far finer than many of his darker friends, for he walks without plaint or protest even in his hurt; while I, by God, front earth and high Heaven with insistent and unceasing clamor against this throttling of the Art of beauty, against this enchaining of the human spirit---against, to be sure, its cruelty and pain,---but even more, against its crass stupidity.
 
+<!-- Similar articles start here -->
+
+<hr>
+#### Related Articles:
+
+* [DePriest (1929)](/Volumes/36/02/depriest.html)
+* [Precept and Practice (1910)](/Volumes/01/02/precept_and_practice.html)
+* [Young (1915)](/Volumes/11/05/young.html)
+* [A Crusade (1914)](/Volumes/07/05/crusades.html)
+* [The Fruit of the Tree (1913)](/Volumes/06/05/fruit_of_tree.html)
+
+<!-- Similar articles end here -->

@@ -1,0 +1,69 @@
+---
+title: 'England, Again'
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
+date: Mar. 1920
+categories: 
+  - ""
+citation: 
+  type: article-journal
+  container-title: The Crisis
+  volume: 19
+  issue: 5
+  page: 237-238
+google-scholar: true
+
+format:
+  html:
+    toc: false
+    appendix-cite-as: display
+---
+
+
+
+Two criticisms have been made of the editorial on England in the January number of <span style="font-variant:small-caps;">The Crisis</span>. One writer reminds us of the great work of emancipation and the suppression of the slave trade, started by England early in the nineteenth century. The other, would not have us forget the hostile attitude of Irish Americans toward Negroes.
+
+Of none of these facts are we a moment forgetful. In the Emancipation of Negroes, Englishmen, like Clarkson, Wilberforce, and Sharpe, were splendid pioneers; and the riots against Negroes in Cincinnati, Philadelphia, and New York, during the nineteenth century, in nearly all cases, were instigated and led by Irishmen. More than this: Today, the decisive influence in the American Catholic Church, which keeps black priests out of her pulpits, is the Irish influence,---for the mother Catholic Church is not, and never was, anti-Negro. Her black priests and bishops have for a thousand years sat in her counsels, and the first Catholic bishop of North America, was a full-blooded Negro.
+
+Again,---it was liberal, far-sighted Englishmen who gave to the world the democratic parliamentary ideal, which all rares and colors receive today as civilization’s rightful heritage.
+
+Nevertheless, two things are sure: One cannot indict a whole nation, nor can one excuse a national wrong, because of individual right, or past desert.
+
+Ireland today deserves freedom. She has suffered, and suffered horribly at the hands of Englishmen. In Ireland and Russia, have arisen the greatest spiritual movements of the twentieth century. And we who suffer in slavery and degradation,---shall we hesitate to extend a hand of sympathy to the Irish, simply because their descendants in America are so largely the followers of American snobbery? We must not forget that Irish-Americans, like John Boyle O’Reilly and Archbishop John Ireland, and Irishmen like Daniel O’Connell, have always recognized Negroes as fellow-men.
+
+The great services of England to the world and to the Negro race must not for a moment blind us to the fact that today the dominant powers in England are moving heaven and hell to keep black and brown men in economic and political slavery, to minister to British power and luxury.
+
+Let us cite just one instance:
+
+It has been proven by English testimony, beyond the shadow of a doubt, that Sir Starr Jameson, who died November 26, 1917, was a liar and a thief. The British Aborigines Protection Society says:
+
+> On August 14, 1893, Dr. Starr Jameson signed a Secret Agreement, under which he promised to each man who would assist him in making war upon the Matabele, the right to take from the Matabele 6,000 acres of their land (conditionally redeemable by the Company, paying £9,000 to each raider.) Some 600 men volunteered on these terms, and thus the total land agreed to be taken from the Matabele, before any Chartered Company’s Official entered the country, was over 3,000,000 acres.    
+> &nbsp;   
+> But though war was strongly desired, though every preparation was made locally, the difficulty lay with the Imperial Government, who, represented by the High Commissioner, Sir H.B. Loch, for a time refused to allow the invasion of Matabeleland. It was clear that something must be devised to force the hand of the Imperial Government. What is known as the “Victoria Incident” then took place.   
+> &nbsp;   
+> A Mashona Chief was alleged to have cut some telegraph wire. This chief was in charge of cattle belonging to Lobengula. The Company, it was alleged, seized these cattle as part punishment, knowing them to be Lobengula's property. Lobengula sent an impi, “to punish the Mashonas for cattle thefts and for damaging the telegraph wires.” This was an act (as Lobengula maintained) of positive friendliness to Dr. Jameson, who had insisted on something being done to “protect” the telegraph wire. The Matabele Impi attacked (July 9) the Mashonas, near Victoria, the headquarters of Dr. Jameson, and killed, it is said, twenty (some say seven, but none saw even that number) Mashonas. Dr. Starr Jameson then ordered the Matabele to leave Mashonaland; they started to return. Thirty-eight Chartered Company men followed, and without (as is officially admitted) any provocation, shot nine to eleven Matabele, including the Chief.   
+> &nbsp;   
+> Some days later, Dr. Jameson sent a telegram to the High Commissioner, which included the false statement that the Matabele had fired on the Company’s white men---an allegation which the Imperial Authorities only ascertained to have been without a shred of foundation after the Matabele had been “smashed.” Sir Henry Loch had, naturally, taken a grave view of this alleged action. Accepting Dr. Jameson’s *ex parte* statement, he telegraphed to Lobengula, and thus admonished him: 
+> &nbsp;   
+> "When the conduct of your indunas and people became dangerous, not only to the property, but to the lives of the white men, and they dared to fire on the white men then the limits of patience were passed.”   
+> &nbsp;   
+> War on the Matabele followed this false statement to the High Commissioner, and a general scramble for their best lands at once ensued. The neighboring Mashonas were robbed of their land, by the simple process of declaring that the Mashonas were at the same time subjects of the Matabele (which they were not), and, therefore, what the Matabele lost, the Mashonas lost, although it is interesting to note that the Company recruited Mashonas to assist in the invasion of Matabeleland.
+
+What happened to Mr. Jameson? He was knighted by Great Britain; he became Prime Minister of Cape Colony; he died rich and respected. His Majesty George V “deplored the loss of one who has rendered such great service to the empire.”
+
+This is one incident, but it is an incident of terrible warning to black men. We have a right to suspect a land that honors the thief of 90 million acres. We have a right to ask: Where is liberal England? Where are the spiritual sons of William Wilberforce?
+
+<!-- Similar articles start here -->
+
+<hr>
+#### Related Articles:
+
+* [Ireland (1916)](/Volumes/12/04/ireland.html)
+* [Violence (1934)](/Volumes/41/05/violence.html)
+* [Inter-Racial Comity (1922)](/Volumes/22/01/inter-racial_comity.html)
+* [Radicals (1919)](/Volumes/19/02/radicals.html)
+* [The Name Negro (1928)](/Volumes/35/03/name_negro.html)
+
+<!-- Similar articles end here -->

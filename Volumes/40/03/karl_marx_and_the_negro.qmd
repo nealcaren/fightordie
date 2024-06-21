@@ -341,3 +341,15 @@ what his panacea was for those
 folk if they would see their way clearly
 in the future.
 
+<!-- Similar articles start here -->
+
+<hr>
+#### Related Articles:
+
+* [Marxism and The Negro Problem (1933)](/Volumes/40/05/marxism_and_the_negro_problem.html)
+* [The Negro and Radical Thought (1921)](/Volumes/22/03/negro_and_radical_thought.html)
+* [Socialism and the Negro (1921)](/Volumes/22/06/socialism_and_the_negro.html)
+* [Our Economic Peril (1930)](/Volumes/37/03/our_economic_peril.html)
+* [Marcus Garvey and the NAACP (1928)](/Volumes/35/02/marcus_garvey.html)
+
+<!-- Similar articles end here -->

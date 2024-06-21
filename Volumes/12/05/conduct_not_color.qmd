@@ -25,3 +25,15 @@ format:
 
 A number of papers have been repeating a recent dictum that it is conduct, not color, that counts in the advance  of the Negro race. We wish this were the truth; but it is not the truth and those who say it know that it is not the truth. Conduct counts, but color counts more. It is this that constitutes the Negro problem.
 
+<!-- Similar articles start here -->
+
+<hr>
+#### Related Articles:
+
+* [The Negro Citizen (1929)](/Volumes/36/05/negro_citizen.html)
+* [A Statement (1919)](/Volumes/19/01/statement.html)
+* [White Co-Workers (1920)](/Volumes/20/01/white_coworkers.html)
+* [Lies Agreed Upon (1916)](/Volumes/11/04/lies_agreed_upon.html)
+* [Separation (1911)](/Volumes/01/04/separation.html)
+
+<!-- Similar articles end here -->
