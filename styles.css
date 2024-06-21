@@ -31,6 +31,18 @@ h1, h2, h3, h4, h5 {
 
 }
 
+.subtitle {
+    font-size: 2rem;
+    color: #800020; /* Deep burgundy */
+    font-family: 'Roboto Serif';
+    font-weight: 500;
+}
+
+caption {
+    font-family: 'Roboto Serif';
+    color: #800020; /* Deep burgundy */
+    font-size: 1.25rem;
+}
 h1 {
 	font-size: 2.5rem;
 }
@@ -39,7 +51,7 @@ h1 {
 .epigraph {
     font-family: 'Roboto Serif';
     font-style: italic;
-    text-align: center;
+    text-align: justify;
     margin: 20px 0; /* Adjust margins as needed */
     color: #555; /* Optional: add a subtle color */
     padding-left: 4rem;
@@ -50,6 +62,10 @@ h1 {
 	font-variant: small-caps;
     font-weight: 500;
     font-family: 'Roboto Serif';
+}
+
+.small-caps-title {
+	font-variant: small-caps;
 }
 
 /* Remove display of citation prefix */
@@ -131,8 +147,6 @@ div.poem {
 
 p.verse {
 	margin-bottom: 0rem;
-	font-size: 1.25rem;
-	line-height: 1.6rem;
 	/* font-style: italic; */
 	padding-left: 2em;
 	text-indent: -2em;
