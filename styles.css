@@ -4,6 +4,96 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap');
 
 
+.draft-watermark {
+    position: relative;
+  }
+  
+  .draft-watermark::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-image: repeating-linear-gradient(
+      -45deg,
+      rgba(0, 0, 0, 0.1) 0px,
+      rgba(0, 0, 0, 0.1) 1px,
+      transparent 1px,
+      transparent 20px
+    );
+    z-index: -1;
+    pointer-events: none;
+  }
+  
+  .draft-watermark::after {
+    content: 'Draft!';
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) rotate(-45deg);
+    font-size: 20vw;
+    color: rgba(0, 0, 0, 0.1);
+    white-space: nowrap;
+    pointer-events: none;
+    z-index: -1;
+  }
+
+/* Base styles for images and paragraphs */
+img {
+    max-width: 50%;
+    margin-bottom: 1rem;
+  }
+  
+  img + p {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+  }
+  
+  /* Left-aligned images (default) */
+  img:not(.right), 
+  .left {
+    float: left;
+    margin-right: 1rem;
+  }
+  
+  /* Right-aligned images */
+  img.right,
+  .right {
+    float: right;
+    margin-left: 1rem;
+  }
+  
+  /* Clear the float after the image and paragraph */
+  img + p::after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  
+  /* Responsive design for smaller screens */
+  @media (max-width: 600px) {
+    img, img.right, .right, img:not(.right), .left {
+      float: none;
+      margin-left: 0;
+      margin-right: 0;
+      max-width: 100%;
+    }
+  }
+
+.bibliography {
+    margin: 0 auto;
+}
+
+/* Styles for each bibliography entry */
+.bibliography p {
+    text-indent: -2em;
+    padding-left: 2em;
+    margin-bottom: 0.5em;
+}
+
+
 header {
     font-family: 'Roboto Serif';
     font-weight: 500;
@@ -11,7 +101,12 @@ header {
 }
 
 .navbar-title, .menu-text {
-    color: #660018; /* Darker burgundy  */
+    color: #800020; /* Deep burgundy */
+}
+
+.nav-link {
+    text-decoration: none; /* Turn off inherited underlining */
+
 }
 
 a {
@@ -24,11 +119,31 @@ a:hover {
     text-decoration: underline; /* Add underline on hover */
 }
 
+nav a:hover {
+    font-weight: 600; /* Make bold on hover */
+    text-decoration: none; /* Turn off inherited underlining */
+    color: #33000c; /* Even darker burgundy */
+}
+
+
+
 
 h1, h2, h3, h4, h5 {
     font-family: 'Roboto Serif';
     color: #800020; /* Deep burgundy */
+    border-bottom-width: 0;
 
+}
+
+h2 {
+    font-size: 1.45rem;
+}
+
+h2 {
+    font-size: 1.25rem;
+}
+.nowrap {
+    white-space: nowrap;
 }
 
 .subtitle {
