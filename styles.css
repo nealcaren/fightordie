@@ -35,6 +35,8 @@ h1 { font-size: 2.5rem; }
 h2 { font-size: 1.45rem; }
 h3 { font-size: 1.25rem; }
 
+h2 {margin-bottom: 0rem;}
+
 .subtitle {
   font-size: 2rem;
   color: var(--color-primary);
@@ -91,10 +93,7 @@ img {
   margin-bottom: 1rem;
 }
 
-
-
-  
-  .image-wrap img {
+.image-wrap img {
     width: 100%;
     height: auto;
     margin-bottom: 10px; /* Add some space below the image */
@@ -159,6 +158,8 @@ p {
 blockquote {
   font-family: var(--font-secondary);
   border-left: none;
+  margin-bottom: 0;
+
 }
 
 blockquote p {
@@ -232,6 +233,10 @@ blockquote p:first-of-type {
   white-space: nowrap;
 }
 
+.clear-wrap {
+    clear: both; /* or clear: left/right; depending on your layout */
+}
+
 /* Override the bootstrap styles */
 figure {
     display: inline-block; /* Allow text wrapping */
@@ -296,6 +301,19 @@ figure {
     margin-right: 5px;
   }
   
+  .quarto-appendix-secondary-label {
+    display: none;
+  }
+  #quarto-appendix.default .quarto-appendix-citeas {
+    border: none;
+    padding: none;
+}
+
+
+#quarto-appendix.default {
+    border-top: none;
+}
+
   /* Responsive adjustments for caption lists */
   @media (max-width: 768px) {
     .caption-three-list,
