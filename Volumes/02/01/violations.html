@@ -41,6 +41,9 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="../../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="../../../site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="../../../site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="../../../site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -179,7 +182,12 @@ ul.task-list li input[type="checkbox"] {
 <p>In this later argument, again, there was a tremendous amount of truth. Certainly the first thing that a freedman must learn is regular habits and labor. He has been taught by slavery that labor is a badge of serfdom. He must teach himself that labor is a necessity of life. Moreover, under the slave regime money was an infrequent commodity which was immediately to be spent; while under the responsibilities of a free labor system it must be accumulated in small lots and very carefully guarded and saved.</p>
 <p>While, however, this argument was strong and an argument that ought to have been made, it was not the argument that should have utterly displaced the insistence upon the evil of race prejudice. It was not too much to have asked intelligent people to foresee that race prejudice in the United States was going to hinder Negroes in getting work, and keep down their wages, and make it difficult for them to develop habits of thrift and to save. While on the one hand it was necessary, and imperatively necessary, that work and thrift should be insisted upon so far as Negroes were concerned, just as careful and widespread a campaign should have been carried on to see that the way before the faltering feet of the freedman was clear of hurtful and deadening prejudice. This necessity was not only not attended to but was even forgotten. The public have in later years come to be impatient of and observers to be optimistic and to dwell simply upon the shortcomings of the Negroes.</p>
 <p>What has been the result of this policy? In the first place so far as the Negroes are concerned there can be no doubt that their energies have more and more been given to work and thrift, and despite all the testimonies of car-window sociologists there is absolutely undisputed evidence that the Negro has accumulated property. Full statistics unfortunately do not exist to prove this assertion; so far as crime is concerned we can get statistics of Negroes in practically every State, county and city in the United States, but when it comes to property there are only available figures in three States, and only in one State have these figures gone back for a considerable period.</p>
-<p><img src="../../../Images/georgia_property.jpg" class="img-fluid"></p>
+<figure class="figure right" style="width: 60%;">
+<a href="images/georgia_property.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="images/georgia_property.jpg" class="img-fluid figure-img"></a>
+<figcaption>
+Assessed Value of Colored Property in Georgia. (From Atlanta Univ. Pub No.&nbsp;14)
+</figcaption>
+</figure>
 <p>The State of Georgia, beginning with 1874, has kept a careful account of the assessed value of the property owned by its Negro citizens. I have put on a chart the way in which that property has increased. It began at $6,000,000 in 1874, and did not increase for about six years, owing to the reconstruction troubles in this State. Then as gradually law and order were restored the accumulations began to go up, and once started they went very rapidly until they reached the culminating point in 1893. At that time the Negroes of Georgia were paying taxes on $14,000,000 worth of property. Then there came a check. First the panic of 1892, then a series of Jim Crow laws, four-cent cotton, and the epidemic of lynching. The result was that for five years the accumulations decreased or wavered. Then they took a new forward movement with the new century and went up rapidly until to-day the Negroes of Georgia pay taxes on about $30,000,000 worth of property. Moreover, as the assessments of property in Georgia are low, it is probable that this represents between $50,000,000 and $60,000,000 of actual value.</p>
 <p>I have also tried to indicate on the chart the increase per capita of Negro property by a dotted line, and I have put down the Atlanta riot and the campaign for disfranchisement to indicate to you what is very clear in my mind, that this campaign was carried on chiefly because the Negroes were getting on too well.</p>
 <p>Other States have made similar advancement, although there are fewer data. In Virginia, for instance, in 1891 Negroes paid taxes on $12,000,000 worth of property; in 1908 they paid taxes on $25,500,000. In North Carolina in 1900 Negroes paid taxes on nine and a third million dollars’ worth of property; in 1909 they paid taxes on $21,000,000 worth. Taking these three States together and considering simply the years 1900 to 1908 we find that in Georgia, Virginia and North Carolina colored people owned in 1900 $40,000,000 worth of taxable property, and in 1908 it had increased to $74,000,000. or an increase of 87 1/3 per cent.</p>
@@ -641,6 +649,38 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
+<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","loop":false,"openEffect":"zoom","selector":".lightbox","descPosition":"bottom"});
+(function() {
+  let previousOnload = window.onload;
+  window.onload = () => {
+    if (previousOnload) {
+      previousOnload();
+    }
+    lightboxQuarto.on('slide_before_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      const href = trigger.getAttribute('href');
+      if (href !== null) {
+        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+        if (imgEl !== null) {
+          const srcAttr = imgEl.getAttribute("src");
+          if (srcAttr && srcAttr.startsWith("data:")) {
+            slideConfig.href = srcAttr;
+          }
+        }
+      } 
+    });
+  
+    lightboxQuarto.on('slide_after_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(slideNode);
+      }
+    });
+  
+  };
+  
+})();
+          </script>
 
 
 

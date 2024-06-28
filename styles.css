@@ -1,288 +1,312 @@
-/* css styles */
+/* Modernized and Reorganized CSS */
+
+/* Import fonts */
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
-/*@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display=swap');*/
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap');
 
+/* CSS Variables */
+:root {
+  --color-primary: #800020;
+  --color-primary-dark: #660018;
+  --color-primary-darker: #33000c;
+  --color-text: #333;
+  --color-background: #fff;
+  --font-primary: 'Roboto', sans-serif;
+  --font-secondary: 'Roboto Serif', serif;
+}
 
-.draft-watermark {
-    position: relative;
-  }
-  
-  .draft-watermark::before {
-    content: '';
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    background-image: repeating-linear-gradient(
-      -45deg,
-      rgba(0, 0, 0, 0.1) 0px,
-      rgba(0, 0, 0, 0.1) 1px,
-      transparent 1px,
-      transparent 20px
-    );
-    z-index: -1;
-    pointer-events: none;
-  }
-  
-  .draft-watermark::after {
-    content: 'Draft!';
-    position: fixed;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%) rotate(-45deg);
-    font-size: 20vw;
-    color: rgba(0, 0, 0, 0.1);
-    white-space: nowrap;
-    pointer-events: none;
-    z-index: -1;
-  }
+/* Base styles */
+body {
+  font-family: var(--font-primary);
+  color: var(--color-text);
+  background-color: var(--color-background);
+  line-height: 1.6;
+}
 
-/* Base styles for images and paragraphs */
+
+/* Typography */
+h1, h2, h3, h4, h5 {
+  font-family: var(--font-secondary);
+  color: var(--color-primary);
+  border-bottom-width: 0;
+}
+
+h1 { font-size: 2.5rem; }
+h2 { font-size: 1.45rem; }
+h3 { font-size: 1.25rem; }
+
+.subtitle {
+  font-size: 2rem;
+  color: var(--color-primary);
+  font-family: var(--font-secondary);
+  font-weight: 500;
+}
+
+.small-caps {
+  font-variant: small-caps;
+  font-weight: 500;
+  font-family: var(--font-secondary);
+}
+
+.small-caps-title {
+  font-variant: small-caps;
+}
+
+/* Links */
+a {
+  color: var(--color-primary);
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+a:hover {
+  color: var(--color-primary-dark);
+  text-decoration: underline;
+}
+
+/* Navigation */
+header {
+  font-family: var(--font-secondary);
+  font-weight: 500;
+}
+
+.navbar-title, .menu-text {
+  color: var(--color-primary);
+}
+
+.nav-link {
+  text-decoration: none;
+}
+
+nav a:hover {
+  font-weight: 600;
+  text-decoration: none;
+  color: var(--color-primary-darker);
+}
+
+/* Images */
 img {
-    max-width: 50%;
-    margin-bottom: 1rem;
-  }
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 1rem;
+}
+
+
+
   
-  img + p {
-    display: flex;
-    flex-wrap: wrap;
-    align-items: flex-start;
+  .image-wrap img {
+    width: 100%;
+    height: auto;
+    margin-bottom: 10px; /* Add some space below the image */
   }
-  
-  /* Left-aligned images (default) */
-  img:not(.right), 
-  .left {
-    float: left;
-    margin-right: 1rem;
-  }
-  
-  /* Right-aligned images */
-  img.right,
-  .right {
-    float: right;
-    margin-left: 1rem;
-  }
-  
-  /* Clear the float after the image and paragraph */
-  img + p::after {
+
+p {
+    margin-top: 0; /* Reduce top margin to allow closer wrapping */
+    margin-bottom: 1rem; /* Keep some space between paragraphs */
+}
+
+/* Image alignment classes */
+.left {
+  float: left;
+  width: 40%;
+  margin-right: 1rem;
+}
+
+.clearfix::after {
     content: "";
     display: table;
     clear: both;
   }
-  
-  /* Responsive design for smaller screens */
-  @media (max-width: 600px) {
-    img, img.right, .right, img:not(.right), .left {
-      float: none;
-      margin-left: 0;
-      margin-right: 0;
-      max-width: 100%;
-    }
+
+.right {
+  float: right;
+  width: 40%;
+  margin-left: 1rem;
+}
+
+/* Clear floats */
+.clearfix::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Responsive design */
+@media (max-width: 600px) {
+  .image-wrap, .left, .right {
+    float: none;
+    width: 100%;
+    margin: 0 0 1rem 0;
   }
-
-.bibliography {
-    margin: 0 auto;
 }
 
-/* Styles for each bibliography entry */
+/* Specialized content styles */
 .bibliography p {
-    text-indent: -2em;
-    padding-left: 2em;
-    margin-bottom: 0.5em;
+  text-indent: -2em;
+  padding-left: 2em;
+  margin-bottom: 0.5em;
 }
 
-
-header {
-    font-family: 'Roboto Serif';
-    font-weight: 500;
-
-}
-
-.navbar-title, .menu-text {
-    color: #800020; /* Deep burgundy */
-}
-
-.nav-link {
-    text-decoration: none; /* Turn off inherited underlining */
-
-}
-
-a {
-    color: #800020; /* Deep burgundy */
-    text-decoration: none; /* Remove underline for a cleaner look */
-}
-
-a:hover {
-    color: #660018; /* Darker burgundy on hover */
-    text-decoration: underline; /* Add underline on hover */
-}
-
-nav a:hover {
-    font-weight: 600; /* Make bold on hover */
-    text-decoration: none; /* Turn off inherited underlining */
-    color: #33000c; /* Even darker burgundy */
-}
-
-
-
-
-h1, h2, h3, h4, h5 {
-    font-family: 'Roboto Serif';
-    color: #800020; /* Deep burgundy */
-    border-bottom-width: 0;
-
-}
-
-h2 {
-    font-size: 1.45rem;
-}
-
-h2 {
-    font-size: 1.25rem;
-}
-.nowrap {
-    white-space: nowrap;
-}
-
-.subtitle {
-    font-size: 2rem;
-    color: #800020; /* Deep burgundy */
-    font-family: 'Roboto Serif';
-    font-weight: 500;
-}
-
-caption {
-    font-family: 'Roboto Serif';
-    color: #800020; /* Deep burgundy */
-    font-size: 1.25rem;
-}
-h1 {
-	font-size: 2.5rem;
-}
-
-/* Epigraph styling */
 .epigraph {
-    font-family: 'Roboto Serif';
-    font-style: italic;
-    text-align: justify;
-    margin: 20px 0; /* Adjust margins as needed */
-    color: #555; /* Optional: add a subtle color */
-    padding-left: 4rem;
-    padding-right: 4rem;
-}
-
-.small-caps {
-	font-variant: small-caps;
-    font-weight: 500;
-    font-family: 'Roboto Serif';
-}
-
-.small-caps-title {
-	font-variant: small-caps;
-}
-
-/* Remove display of citation prefix */
-.quarto-appendix-secondary-label {
-	display: none;
-}
-
-h2.anchored.quarto-appendix-heading#citation {
-    display: none;
-}
-
-#title-block-header.quarto-title-block.default .quarto-title-meta-heading {
-    margin-top: .25rem;
-}
-.quarto-title-meta-heading {
-    visibility: hidden;
-    margin-top: .25rem;
-}
-
-/*TO DO Remove the box around citation */
-#quarto-appendix.default .quarto-appendix-citeas {
-    border: none;
-}
-
-#quarto-appendix.default .quarto-appendix-citeas {
-    text-align: right;
-    font-family: 'Roboto Serif';
-    color: #660018; /* Darker burgundy  */
-
-}
-
-/* Hide AUTHOR and DATE fields*/
-.quarto-appendix-secondary-label {
-    border: none !important;
-    padding: 0 !important;
-    margin: 0 !important;
+  font-family: var(--font-secondary);
+  font-style: italic;
+  text-align: justify;
+  margin: 20px 0;
+  color: #555;
+  padding: 0 4rem;
 }
 
 blockquote {
-    font-family: 'Roboto Serif';
-    border-left: none;
+  font-family: var(--font-secondary);
+  border-left: none;
 }
 
+blockquote p {
+  padding-right: 2em;
+  text-indent: 2rem;
+  margin-bottom: 0;
+  font-size: 1rem;
+  line-height: 1.6;
+}
 
-blockquote div > p {
-    padding-right: 2em;
-    text-indent: 2rem;
-    padding-bottom: 0rem;
-    margin-bottom: 0rem;
-    font-size: 1.25rem;
-    line-height: 1.6rem;
+blockquote p:first-of-type {
+  text-indent: 0;
+}
+
+.poem {
+  border-left: none;
+  padding-left: 2em;
+  margin-bottom: 1.5rem;
+}
+
+.verse {
+  margin-bottom: 0;
+  padding-left: 2em;
+  text-indent: -2em;
+}
+
+/* Indentation classes */
+.indent { padding-left: 3em; text-indent: -2em; }
+.big-indent { padding-left: 4em; text-indent: -2em; }
+.bigger-indent { padding-left: 5em; text-indent: -2em; }
+.biggest-indent { padding-left: 6em; text-indent: -2em; }
+
+/* Utility classes */
+.nowrap { white-space: nowrap; }
+
+/* Draft watermark (if needed) */
+.draft-watermark {
+  position: relative;
+}
+
+.draft-watermark::before,
+.draft-watermark::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: -1;
+  pointer-events: none;
+}
+
+.draft-watermark::before {
+  background-image: repeating-linear-gradient(
+    -45deg,
+    rgba(0, 0, 0, 0.1) 0px,
+    rgba(0, 0, 0, 0.1) 1px,
+    transparent 1px,
+    transparent 20px
+  );
+}
+
+.draft-watermark::after {
+  content: 'Draft!';
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%) rotate(-45deg);
+  font-size: 20vw;
+  color: rgba(0, 0, 0, 0.1);
+  white-space: nowrap;
+}
+
+/* Override the bootstrap styles */
+figure {
+    display: inline-block; /* Allow text wrapping */
+  }
+
+  figcaption {
+    font-family: var(--font-secondary);
+    font-size: .8rem;
   }
   
-  blockquote div > p:first-of-type {
-    text-indent: 0;
+/* Caption and Figure Styles */
+.column-figure {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
   }
-
-.quarto-title-meta-heading {
-    margin-top: 0rem;
-}
-
-/*Increase space before main text */
-.quarto-title-meta {
-    padding-bottom: 1.5rem;
-}
-/* Make author/date bigger */
-.quarto-title-meta-contents p {
-    font-size: 1.5rem;
-    font-family: 'Roboto Slab';
-    color: #800020; /* Deep burgundy */
-}
-
-div.poem {
-	border-left: none;
-	padding-left: 2em;
-	padding-bottom: 0rem;
-	margin-bottom: 1.5rem;
-}
-
-p.verse {
-	margin-bottom: 0rem;
-	/* font-style: italic; */
-	padding-left: 2em;
-	text-indent: -2em;
-}
-
-p.indent {
-	padding-left: 3em;
-	text-indent: -2em;
-}
-
-p.big-indent {
-	padding-left: 4em;
-	text-indent: -2em;
-}
-
-p.bigger-indent {
-	padding-left: 5em;
-	text-indent: -2em;
-}
-
-p.biggest-indent {
-	padding-left: 6em;
-	text-indent: -2em;
-}
+  
+  .figure-img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .chicago-figure-caption {
+    width: 100%;
+    text-align: center;
+    margin-top: 10px;
+    padding: 10px 0;
+    border-top: 1px solid var(--color-text);
+    border-bottom: 1px solid var(--color-text);
+  }
+  
+  .caption-list {
+    display: grid;
+    gap: 5px 10px;
+  }
+  
+  .caption-three-list {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 5px;
+  }
+  
+  .caption-four-list {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 5px 10px;
+  }
+  
+  .caption-column-item {
+    display: flex;
+    padding-left: 5px;
+  }
+  
+  .caption-item {
+    display: flex;
+  }
+  
+  .caption-number {
+    min-width: 20px;
+    text-align: right;
+    margin-right: 5px;
+  }
+  
+  /* Responsive adjustments for caption lists */
+  @media (max-width: 768px) {
+    .caption-three-list,
+    .caption-four-list {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .caption-three-list,
+    .caption-four-list {
+      grid-template-columns: 1fr;
+    }
+  }
