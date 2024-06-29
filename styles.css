@@ -31,6 +31,14 @@ h1, h2, h3, h4, h5 {
   border-bottom-width: 0;
 }
 
+.quarto-categories {
+    font-family: var(--font-primary);
+}
+
+.quarto-title-meta-heading {
+    font-family: var(--font-primary);
+}
+
 h1 { font-size: 2.5rem; }
 h2 { font-size: 1.45rem; }
 h3 { font-size: 1.25rem; }
@@ -53,6 +61,11 @@ h2 {margin-bottom: 0rem;}
 .small-caps-title {
   font-variant: small-caps;
 }
+
+#title-block-header {
+    margin-block-end: 3rem;
+}
+
 
 /* Links */
 a {
@@ -154,25 +167,25 @@ p {
   color: #555;
   padding: 0 4rem;
 }
-
 blockquote {
-  font-family: var(--font-secondary);
-  border-left: none;
-  margin-bottom: 0;
-
-}
-
-blockquote p {
-  padding-right: 2em;
-  text-indent: 2rem;
-  margin-bottom: 0;
-  font-size: 1rem;
-  line-height: 1.6;
-}
-
-blockquote p:first-of-type {
-  text-indent: 0;
-}
+    font-family: var(--font-secondary);
+    border-left: none;
+    margin-bottom: 0;
+    padding-top: 0rem;
+  }
+  
+  blockquote p {
+    padding-right: 2em;
+    margin-bottom: 0;
+    font-size: .9rem;
+    line-height: 1.6;
+    text-indent: 2em;
+  }
+  
+  blockquote br + span {
+    display: inline-block;
+    text-indent: 2em;
+  }
 
 .poem {
   border-left: none;
