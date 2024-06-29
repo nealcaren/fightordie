@@ -41,7 +41,7 @@ His mother said, "They taught him to shoot in the army." They did. Millions of b
 And finally, when this boy is dead, remember that the same forces which made him what he was are alive and powerful and working to make others like him. 
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 
@@ -49,6 +49,6 @@ And finally, when this boy is dead, remember that the same forces which made him
 * [Pink Franklin (1911)](/Volumes/01/04/pink.html)
 * [Hopkinsville, Chicago and Idlewild (1921)](/Volumes/22/04/hopkinsville.html)
 * [Courts and Jails (1932)](/Volumes/39/04/courts_and_jails.html)
-* [The Old Story (1911)](/Volumes/01/03/old_story.html)
+* [A Soldier (1920)](/Volumes/19/05/a_soldier.html)
 
 <!-- Similar articles end here -->

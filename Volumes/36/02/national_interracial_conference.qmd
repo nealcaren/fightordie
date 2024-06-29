@@ -87,7 +87,7 @@ At each of the meetings, while the main topic which had received the intensive s
 This was the plan that was conceived at Atlanta University. It could not be carried out there because we had only an annual appropriation of $5,000, which included our salaries and expenses. The scheme, therefore, had to be given up; but this would seem to be an unusually favorable time for redrafting and improving the scheme and starting a study of group development and relations which would be unique in the history of the world. 
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

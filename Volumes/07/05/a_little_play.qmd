@@ -69,7 +69,7 @@ Exit the Pale One in anger.
 Exit the Brown One in thought.
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

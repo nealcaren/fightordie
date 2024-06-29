@@ -122,14 +122,14 @@ Humanity is progressing toward an ideal; but not, please God, solely by help of 
 Evolution is evolving the millennium, but one of the unescapable factors in evolution are the men who hate wickedness and oppression with perfect hatred, who will not equivocate, will not excuse, and will be heard. With the sainted spirits of such as these <span class="small-caps">The Crisis</span> would weakly but earnestly stand and cry in the world's four corners of the way; and it claims no man as friend who dare not stand and cry with it.
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 
 * [Prejudice (1927)](/Volumes/34/09/prejudice.html)
 * [Radicals (1919)](/Volumes/19/02/radicals.html)
 * [The Crisis (1910)](/Volumes/01/01/TheCrisis.html)
-* [Our Special Grievances (1918)](/Volumes/16/05/our_special_greivances.html)
 * [Vital Statistics (1912)](/Volumes/04/06/vital_statistics.html)
+* [Our Special Grievances (1918)](/Volumes/16/05/our_special_greivances.html)
 
 <!-- Similar articles end here -->

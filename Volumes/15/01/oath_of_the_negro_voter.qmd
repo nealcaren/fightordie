@@ -45,15 +45,16 @@ Persons minded to sign the above oath will send their names to the Editor of <sp
 
 __________
 *Citation:* Du Bois, W.E.B. 1918. "The Oath of the Negro Voter." *The Crisis*. 15(1):7.
-<!-- Similar articles start here -->
 
+<!-- Similar articles start here -->
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 
 * [Votes (1919)](/Volumes/19/02/votes.html)
 * [The Strategy of the Negro Voter (1933)](/Volumes/40/06/strategy_of_the_negro_voter.html)
-* [Of Problems (1921)](/Volumes/22/04/problems.html)
 * [Votes for Women (1918)](/Volumes/15/01/votes_for_women.html)
 * [The Negro in Politics (1929)](/Volumes/36/11/negro_in_politics.html)
+* [Politics (1912)](/Volumes/04/04/politics.html)
 
 <!-- Similar articles end here -->

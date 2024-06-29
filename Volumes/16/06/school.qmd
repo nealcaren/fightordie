@@ -27,13 +27,13 @@ format:
 This is school month. Send the children to school. Do not be tempted to keep them at work because they are earning large wages. The race is to the intelligent and not merely to the busy. Wisdom is the principal thing, therefore, GET WISDOM! Hustle the children off the farms and out of the factories and into the schools. Do not wait---do not hesitate. Our life depends upon it. Our rise is founded on the rock of knowledge. Put the children in school. Keep the children in school.
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 
-* [Reconstruction (1919)](/Volumes/18/03/reconstruction.html)
-* [Public Schools (1916)](/Volumes/12/01/salutations.html)
 * [Public Schools (1916)](/Volumes/12/01/public_schools.html)
+* [Public Schools (1916)](/Volumes/12/01/salutations.html)
+* [Reconstruction (1919)](/Volumes/18/03/reconstruction.html)
 * [Education (1915)](/Volumes/10/03/education.html)
 * [Education (1911)](/Volumes/01/04/education.html)
 

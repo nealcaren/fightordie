@@ -58,7 +58,7 @@ or "revelled" in her. We would have passed the hat and told her to go
 home and not agitate for the "Impossible."
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

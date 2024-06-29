@@ -31,8 +31,9 @@ No president, with his hands thus tied, can succeed. When, in addition to that, 
 
 __________
 *Citation:* Du Bois, W.E.B. 1932. "Again Howard." *The Crisis*. 39(4):131.
-<!-- Similar articles start here -->
 
+<!-- Similar articles start here -->
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

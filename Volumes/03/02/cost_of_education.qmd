@@ -37,7 +37,7 @@ Let us see. In the first place the alderman gracefully includes in the "white" p
 What is true in New York is mere than true in Lexington, Ky. Indeed, throughout the South, in most cities outside of Texas, the Negro in direct and indirect taxation is not only paying for his own wretched schooling accommodations, but is also contributing to the schools of the rich whites and then double-taxing himself by contributions to decent colored private schools.
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

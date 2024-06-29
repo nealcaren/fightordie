@@ -1,0 +1,62 @@
+---
+title: 'Investments'
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
+date: Mar.. 1921
+categories: 
+  - ""
+citation: 
+  type: article-journal
+  container-title: The Crisis
+  volume: 22
+  issue: 5
+  page: 200-201
+google-scholar: true
+
+format:
+  html:
+    toc: false
+    appendix-cite-as: display
+---
+
+
+Colored folk in larger and larger numbers are investing their savings and so far as possible investing in such ways as will best serve the race. This is a most encouraging symptom and one has but to visit the Tidewater of Virginia, or Gary, Indiana, or a dozen other centers to see what Negro capital is doing for the Negro.
+
+At the same time the very eagerness of Negro investors brings the danger of loss and reaction. Scoundrels, both white and black, are hastening to prey upon us, offering large returns in cash and race adjustment for a small amount of money. When failure and bankruptcy follow such schemes, many an honest black man will find himself robbed not simply of money but of faith in leadership.
+
+A word to the wise is necessary: Investment is a matter of common-sense. It calls for careful investigation and thought. Any proposed scheme must be backed by **honesty** and what we may call the **abilities**, e.g., responsibility, feasibility, ability.
+
+1. **Honesty**. By honesty we mean not necessarily ideal and perfect integrity but that minimum of common reliability, without which business is impossible: promptness in payment, the giving and taking of receipts, no deliberate misrepresentation, etc. Without these no investment is reliable.
+
+    If the company with which you deal is dishonest, do not invest your funds. If you know that it is honest or if the agent who represents it is known to you to be honest, then comes the question of
+
+2. **Responsibility**. Is the agent responsible for what the company does, or is the company itself responsible or depending upon someone else? An honest colored man of influence may be induced to become an agent of some scheme of which he really knows nothing. You invest because you know him, but he is not responsible. An honest bank may be dealing in dishonest securities, etc. Before investing be sure you know who is responsible for your funds.
+
+3. **Feasibility**. Next ascertain if the thing promised can probably be done. Do not buy building lots which are under water. Do not invest in the conquest of Africa. Do not invest in a business which promises 50% returns the first month. Look into the scheme. Does it seem reasonable? Consult those who know.
+
+4. **Ability**. If the business is honestly conducted by responsible persons known to you and if its objects have a reasonable chance to succeed, your final query must be: Are the persons in charge able to carry on the business; have they the necessary skill and education? If not, save your money.
+
+It will be said that few Negroes have a chance to examine all schemes with such care. In this case, ask advice. Consult those with experience. True it is that in most investments some risk is involved, but be sure that you can afford to take the risk.
+
+If, for instance, you are saving for sickness and old age, you must take the least risk possible; put your funds in the Postal savings or in a local savings bank or in an insurance company organized in a state with proper insurance laws. Only a few Southern States have such laws.
+
+If you are investing surplus funds where a little larger risk is possible, choose either local enterprises whose promoters are known to you and whom you can watch, or invest only in well-known and proven national organizations. Do not put your money in unknown enterprises at a distance, no matter how glib the agent is. Find out about them first.
+
+If you are prepared for considerable risk and invest for reasons of race loyalty and hope, then frankly consider how much you can afford to *lose* before you venture. Do not take desperate chances in flighty dreams and then rail at Negro leadership when you lose every penny invested.
+
+In all cases of investment insist on full and regular reports, and study and understand them. To give your money to friends or strangers and let them know that they do not have to keep books or render accounts, is to encourage rascality.
+
+<!-- Similar articles start here -->
+<div  class="clear-wrap"></div>
+<hr>
+#### Related Articles:
+
+* [Our Economic Peril (1930)](/Volumes/37/03/our_economic_peril.html)
+* [Real Estate in New York (1914)](/Volumes/08/03/real_estate_in_new_york.html)
+* [Philanthropy and Self Help (1918)](/Volumes/16/03/philanthropy_and_self_help.html)
+* [White Charity (1922)](/Volumes/24/02/whitecharity.html)
+* [Work for Black Folk in 1914 (1914)](/Volumes/07/04/work_for_black_folk.html)
+
+<!-- Similar articles end here -->

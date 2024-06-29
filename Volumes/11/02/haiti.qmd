@@ -60,7 +60,7 @@ It will be remembered that the parish of Caddo has lynched more Negroes
 than any single county in the United States.
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

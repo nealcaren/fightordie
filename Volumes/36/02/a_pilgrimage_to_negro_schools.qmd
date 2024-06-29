@@ -115,8 +115,9 @@ Talladega is a small, quiet New England college, built in the heart of Alabama. 
 I made my last speech to the colored citizens of Bowling Green in a Baptist Church on a grey and drizzly Thanksgiving evening. I had missed my Thanksgiving dinner, but my audience had not, and one girl got colic while I was speaking. But it was a kindly audience and it listened. And so, out of great waters, and with billows of new knowledge rolling in my ears, I came across the Ohio to the ramparts of Cincinnati and over the Alleghanies and home. 
 
 *Citation:* Du Bois, W.E.B. 1929. "A Pilgrimage To The Negro Schools." *The Crisis*. 36(2):43&ndash;44, 65&ndash;69.
-<!-- Similar articles start here -->
 
+<!-- Similar articles start here -->
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

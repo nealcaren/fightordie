@@ -46,7 +46,7 @@ But after all, Moscow is bureaucracy. Real Russia lies outside. I had always wan
 But always the center of all this was Russia, and of Russia I have much to tell in days to come. 
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

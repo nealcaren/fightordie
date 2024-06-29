@@ -50,7 +50,7 @@ One can only sum it up in the words of Daisy King, a white sculptor:
 > Have you seen this latest example of 'White Supremacy'. Sounds like good old Texas, doesn't it? That Thomas Hastings, the architect of the 42nd Street Library, and our foremost architect since the death of Stanford White, with his own training safely completed should stoop to place a stone in the path of a little colored girl who has won a distinctive honor, against odds, is unbelievable. That Ernest Peixotto, himself a Spanish Jew, should feel it necessary to deprive a young colored woman of a well-earned scholarship in order to protect from 'contamination' these young Southern girls who have apparently, no honors to their credit, is, to say the least, 'instructive'.
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

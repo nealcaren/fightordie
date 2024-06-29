@@ -30,7 +30,7 @@ As a partial balance to this sort of talk, Reuter acknowledges that there is no 
 The trouble, of course, with a book of this sort is that the writer is not a human being and is not acquainted with human beings. He is studying books and statistics with the usual result.
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

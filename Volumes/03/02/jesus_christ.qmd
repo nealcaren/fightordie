@@ -1,4 +1,3 @@
-
 ---
 title: 'Jesus Christ in Georgia'
 author:
@@ -226,14 +225,14 @@ He did not hear. He did not see. His calm dark eyes all sorrowful were fastened 
 "This day thou shalt be with me in Paradise!"
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 
 * [Courts and Jails (1932)](/Volumes/39/04/courts_and_jails.html)
 * [Again, Social Equality (1920)](/Volumes/19/05/again_social_equality.html)
+* [A Soldier (1920)](/Volumes/19/05/a_soldier.html)
 * [For What (1919)](/Volumes/17/06/for_what.html)
 * [The Old Story (1911)](/Volumes/01/03/old_story.html)
-* [A Soldier (1920)](/Volumes/19/05/a_soldier.html)
 
 <!-- Similar articles end here -->

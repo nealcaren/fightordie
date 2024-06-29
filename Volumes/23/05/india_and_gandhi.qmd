@@ -89,7 +89,7 @@ The second outstanding factor in Mr. Gandhi's program is the idea and practice o
 Behold a man who has ancient and great India at his feet; whom a powerful government is afraid to arrest; who causes visiting members of royalty to be snubbed; who threatens as a last resort to lead his people in an anti-tax paying crusade, thus striking at the very root of government; a man who professes to love his enemies and who refuses to take advantage of or embarrass government in a crisis! 
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

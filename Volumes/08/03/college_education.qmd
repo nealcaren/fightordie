@@ -47,14 +47,14 @@ sundered bonds they can take their place beside their fellows and not be
 held back then by ignorance as they are now by prejudice.
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 
 * [Reconstruction (1919)](/Volumes/18/03/reconstruction.html)
 * [Education (1911)](/Volumes/01/04/education.html)
 * [The Common School (1918)](/Volumes/16/03/common_school.html)
-* [School (1918)](/Volumes/16/06/school.html)
 * [Counsels of Despair (1934)](/Volumes/41/06/counsels_of_despair.html)
+* [Philanthropy and Self Help (1918)](/Volumes/16/03/philanthropy_and_self_help.html)
 
 <!-- Similar articles end here -->

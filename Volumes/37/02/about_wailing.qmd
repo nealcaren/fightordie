@@ -36,7 +36,7 @@ We are not unmindful of our accomplishments and of a significant change in Ameri
 In fact, we have a feeling that in times past we have already rather overdone that grinning business. Let's wail a while.
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

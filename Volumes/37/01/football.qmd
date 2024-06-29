@@ -27,8 +27,9 @@ The right of a football coach to bench a player is granted. But the reason must 
 
 _____________
 *Citation:* Du Bois, W.E.B. 1930. "Football." *The Crisis*. 37(1):30.
-<!-- Similar articles start here -->
 
+<!-- Similar articles start here -->
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 
@@ -36,6 +37,6 @@ _____________
 * [The Negro Citizen (1929)](/Volumes/36/05/negro_citizen.html)
 * [The Immediate Program of the  American Negro (1915)](/Volumes/09/06/immediate_program.html)
 * [Education (1930)](/Volumes/37/02/education.html)
-* [Chicago and Its Eight Reasons (1919)](/Volumes/18/06/chicago_and_its_eight_reasons.html)
+* [The Negro Public School (1916)](/Volumes/11/05/negro_public_school.html)
 
 <!-- Similar articles end here -->

@@ -32,8 +32,9 @@ This action while commendable is not sufficient. The whole second half of the pl
  It is sufficient to add that the main incident in the "Clansman" turns on a thinly veiled charge that Thaddeus Stephens, the great abolition statesman, was induced to give the Negroes the right to vote and secretly rejoice in Lincoln's assassination because of his infatuation for a mulatto mistress. Small wonder that a man who can thus brutally falsify history has never been able to do a single piece of literary work that has brought the slightest attention, except when he seeks to capitalize burning race antagonisms.
 
  
-<!-- Similar articles start here -->
 
+<!-- Similar articles start here -->
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

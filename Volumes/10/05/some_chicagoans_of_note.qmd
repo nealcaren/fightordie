@@ -1,0 +1,185 @@
+---
+title: 'Some Chicagoans of Note'
+author: Du Bois, W.E.B.
+date: Mar. 1915
+categories: 
+  - ""
+citation: 
+  type: article-journal
+  container-title: The Crisis
+  volume: 10
+  issue: 5
+  page: 237-242
+google-scholar: true
+
+format:
+  html:
+    toc: false
+    appendix-cite-as: display
+---
+
+
+<figure>
+![](images/some_chicagoans-church.jpg)
+<figcaption>St. Mark M.E. Church</figcaption>
+</figure>
+
+
+It is a difficult task to single out for mention some of the colored people in Chicago who have made a mark in the world. First and foremost our limited space makes it quite impossible to mention more than a few and those whom we select are selected rather as examples than as an exhaustive list. 
+
+
+Our cover carries the picture of Franklin A. Denison, Colonel of the Eighth Infantry, Illinois National Guard. Colonel Denison is a graduate of Lincoln and of the Union College of Law. He was for many years Assistant Prosecuting Attorney of the City of Chicago and afterward Assistant Corporation Counsel.
+
+<figure  class = "column-figure" style="width: 100%;">
+![](images/some_chicagoans-3_churches.jpg)
+<figcaption>
+<div class="caption-three-list">
+<div class="caption-column-item">Quinn Chapel (A.M.E.)</div>
+<div class="caption-column-item">St. Thomas (P.E.)</div>
+<div class="caption-column-item">Olivet (Baptist)</div>
+</div>
+</figcaption></figure>
+
+The Eighth Regiment, of which he was elected colonel in 1914, was first mustered in as a battalion in 1895. In 1898 it was raised to regimental strength and saw service in the Spanish war under Colonel Marshall who must be regarded as its founder and chief inspiration. In 1908 a movement was started to provide an armory and permanent home for the regiment. After a long and weary struggle in which Colonel Denison took a prominent part the armory was finally ready for occupancy in February, 1915. It is constructed of fire brick with stone trimmings and has a drill floor one hundred and sixty feet by ninety, beside corridors, executive offices and company rooms, thirty-eight by twenty-eight feet.
+
+<figure  class="column-figure" style="width: 100%;">
+![](images/some_chicagoans-3_men.jpg)
+<figcaption>
+<div class="caption-three-list">
+<div class="caption-column-item">Dr. C.E. Bentley</div>
+<div class="caption-column-item">Mr. Oscar De Priest</div>
+<div class="caption-column-item">Dr. Daniel Williams</div>
+</div>
+</figcaption></figure>
+
+The best known colored American in Chicago outside of mere racial lines is undoubtedly Charles E. Bentley. Dr. Bentley is a dentist. He was born in Ohio, educated in the public schools of Cincinnati and received his dental training at the Chicago College of Dental Surgery. He early became so proficient in his work as to number many of the most prominent citizens of Chicago among his patients and to draw others from outside the city.
+
+But Dr. Bentley has been more than a mere dentist. In 1896 at a meeting of the Illinois Dental Society, Dr. Bentley made the first suggestion of dental examinations in the public schools. Afterward he submitted a comprehensive report on the matter to the Odontographic Society and from this have sprung the dental examinations made in nearly all the public schools of the country. The above society was organized by Dr. Bentley in 1888 and he was its first president. Under his management it held in 1903 a great dental congress with three thousand members of the profession and a thousand dental students in attendance. As a reward for this Dr. Bentley was made head of the dental clinics at the St. Louis Exposition but resigned on account of the prejudice of southern whites.
+
+<figure  class = "column-figure" style="width: 100%;">
+![](images/some_chicagoans-3_more_men.jpg)
+<figcaption>
+<div class="caption-three-list">
+<div class="caption-column-item">Mr. W.F. Childs</div>
+<div class="caption-column-item">Mr. Joseph Miller</div>
+<div class="caption-column-item">Rev. M.H. Jackson</div>
+</div>
+</figcaption></figure>
+
+Of late years Dr. Bentley has been prominent in civic work: for twenty years he has been the secretary of the Provident Hospital and is one of the Directors of the National Association for the Advancement of Colored People.
+
+<figure>
+![](images/some_chicagoans-overton.jpg)
+<figcaption>The Overton Hygienic Manufactoring Company</figcaption>
+</figure>
+
+Sheadrick B. Turner is one of the two colored men elected to the Illinois Legislature from Chicago and is one of the three representatives from the First Senatorial District. He follows a number of colored men from this district, among them Edward H. Morris, William Martin, John Jones, Dr. Lane and Edward D. Green. In 1912 the split of the Republican Party resulted in the loss of a colored representative from this district, so that Mr. Turner takes up race representation where Mr. Green left off.
+
+Mr. Turner was born in Bayou, Louisiana, July 12, 1869. Finishing the public schools in 1878 he moved to Kane County, Illinois, where he was graduated from the high school. Moving to Springfield he took a course in the Springfield Business College. In June, 1908, he was graduated from the Illinois College of Law.
+
+<figure>
+![](images/some_chicagoans-provident.jpg)
+<figcaption>Provident Hospital and Vicinity</figcaption>
+</figure>
+
+The most noted colored physician in the United States is Daniel Hale Williams who was born in Pennsylvania in 1888. Dr. Williams is a graduate of the Northwestern Medical School, has long practiced in Chicago and while a member of the Illinois State Board of Health became one of the principal promoters and founders of Provident Hospital in 1891. This hospital established the first training school for colored nurses. Dr. Williams remained as attending surgeon in this hospital until 1912. For several years he was surgeon-in-chief of Freedmen's Hospital, Washington, D.C., and is now connected with Meharry Medical College and St. Luke's Hospital, Chicago.
+
+<figure class="column-figure" style="width: 100%;">
+![](images/some_chicagoans-3_women.jpg)
+<figcaption>
+<div class="caption-three-list">
+<div class="caption-column-item">Mrs. I.W. Barnett</div>
+<div class="caption-column-item">Mrs. L.B. Shrevesr</div>
+<div class="caption-column-item">Miss V.M. Anderson</div>
+</div>
+</figcaption></figure>
+
+Dr. Williams is famous as the first physician to perform a successful operation on the human heart. He was made a fellow of the American College of Surgeons in 1913 and received the degree of LL.D. from Wilberforce University.
+
+Mr. Oscar DePriest is the first colored man to be elected a member of the Chicago Common Council. He was born in Alabama, and is forty-three years of age with a wife and two sons. He was originally a painter but is now engaged in the real estate business and has long been prominent in politics. 
+
+<figure  class="column-figure" style="width: 100%;">
+![](images/some_chicagoans-3_men3.jpg)_
+<figcaption>
+<div class="caption-three-list">
+<div class="caption-column-item">Mr. E.H. Wright</div>
+<div class="caption-column-item">Rev. J.W. Robinson</div>
+<div class="caption-column-item">Dr. G.C. Hall</div>
+</div>
+</figcaption></figure>
+
+Mr. Edward H. Wright has also held high office having been County Commissioner and has just been appointed Assistant Corporation Counsel at a salary of five thousand dollars by the Mayor of Chicago.
+
+Another prominent Chicago physician is Dr. George Cleveland Hall. He has been for twenty years attending surgeon of the Provident Hospital and has given much of his time lately to the holding of surgical clinics and the establishment of infirmaries throughout the large cities of the South.
+
+<figure>
+![](images/some_chicagoans-exposition.jpg)
+<figcaption>Where the Exposition will be held</figcaption>
+</figure>
+
+Dr. Hall is a prominent member of many movements for uplift including the National Association for the Advancement of Colored People, the National Negro Business League, ihe Frederick Douglas Center and the Wabash Avenue Department of the Young Men's Christian Association.
+
+Among the prominent ministers of Chicago may be mentioned the Rev. A.J. Carey, who has recently been appointed Special Investigator of the Corporation Counsel by Mayor Thompson. Dr. Carey was pastor of Quinn Chapel.
+
+The Rev. H.M. Jackson has been for twenty-five years pastor of the First Colored Presbyterian Church of the city. He is especially honored for his upright character.
+
+<div class="clearfix">
+
+<figure class="figure left">
+![](images/some_chicagoans-office.jpg)
+<figcaption>One of Dr. Bentley's offices</figcaption>
+</figure>
+
+The Rev. J.B. Massiah of the Protestant Episcopal Church has been in Chicago for more than ten years and in that time has quadrupled his congregation.
+
+
+Among other clergymen are the Rev. John W. Robinson, the Rev. E.J. Fisher and a number of pastors whose biographies we have been unable to obtain. We learn of Dr. Fisher's death as we go to press.
+
+
+Mr. William F. Childs, Lieutenant of Police, has already been spoken of in <span style="font-variant:small-caps;">The Crisis.</span> He has had a distinguished career and is in the Bureau of Identification.
+
+
+Among the business men Mr. Anthony Overton, the head of the Overton Hygienic Manufacturing Company, is one of the most interesting. His company was established at Kansas City, Missouri, in 1898 to manufacture baking powder with a capital of \$1,960 and two employees. The company now is capitalized at \$286,000, manufactures sixty-two different kinds of articles including baking powder, extracts and toilet articles and employs thirty-two people.
+
+
+
+<figure class="figure left">
+  <img src="images/some_chicagoans-turner.jpg" alt="The Hon. S.B. Turner">
+  <figcaption>The Hon. S.B. Turner</figcaption>
+</figure>Among the other successful Negro business men of Chicago is Joseph Miller, the owner and proprietor of Miller's Buena Park Warehouse and Baggage Express
+
+
+Mr. Miller began life forty-nine years ago and ultimately started a small express business with one horse and a wagon. To-day his fireproof warehouse, with heated rooms and vaults, occupies fifty feet frontage in the busiest district of the North Shore of Chicago. He has three large vans and five express wagons to which an auto truck has recently been added.
+
+
+Turning now to the women of Chicago we face especial difficulty in selection because of their natural desire to avoid publicity. We may merely mention Mrs. Florence Lewis Bentley, who was for several years literary editor of the Philadelphia *Press* and is to-day a strong social force in the city.
+
+<figure class="figure right" style="width: 40%;">
+![](images/some_chicagoans-bank.jpg)
+<figcaption>Mr. Binga's Bank</figcaption>
+</figure>
+
+Best known to the world is the late Amanda Smith who was born in Maryland and freed by her father together with her mother and six other children. Amanda Smith went to England at the invitation of Lady Somerset and spent twelve years preaching in Europe, Asia and Africa. She gave every cent of the savings thus accumulated to the founding of a home for orphan children. She lived just long enough to see this home for which she had sacrificed everything assured permanence by being placed under State control. She died in Florida in 1915 at the age of seventy-eight.
+
+Mrs. Ida Wells Barnett is one of the best known colored women in America and a peculiarly gifted speaker. As a young woman and editor of a paper in Tennessee she witnessed the lynching of three respectable and entirely innocent colored men. Aroused by this frightful injustice she started a crusade, and not before nor since has the world been so aroused over the disgrace of American mob murders.
+
+
+
+Miss Wells married F.L. Barnett, a prominent colored lawyer of Chicago, and has reared a family.
+
+We may also mention Mrs. Lulu B. Shreves, President of the only colored auxiliary of the Spanish war veterans in the State of Illinois, and Miss Violet M. Anderson, a law reporter, who numbers nearly all the colored lawyers and many of the noted white lawyers among her patrons.
+
+</div>
+
+<!-- Similar articles start here -->
+<div  class="clear-wrap"></div>
+<hr>
+#### Related Articles:
+
+* [The White Church (1917)](/Volumes/14/01/white_church.html)
+* [A Soldier (1920)](/Volumes/19/05/a_soldier.html)
+* [Conduct, Not Color (1916)](/Volumes/12/05/conduct_not_color.html)
+* [A Crusade (1914)](/Volumes/07/05/crusades.html)
+* [Colored Chicago (1915)](/Volumes/10/05/colored_chicago.html)
+
+<!-- Similar articles end here -->

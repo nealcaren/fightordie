@@ -97,7 +97,7 @@ It is now easy to understand the explanation for the Cherokee County fires of De
 The proceedings of the Circuit Court which opens in Canton on February 1, may show the fires to have had no connection with Negro baiting but the general opinion is that they marked the beginning of an effort to drive the Negroes from Cherokee which died after twenty-four hours when the gang saw that the Governor and the sheriff intended to get them if possible.
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 
@@ -105,6 +105,6 @@ The proceedings of the Circuit Court which opens in Canton on February 1, may sh
 * [The Burning of Jim Mc Ilherron: An N.A.A.C.P. Investigation (1918)](/Volumes/16/01/burning_of_jim_mcilherron.html)
 * [The Work of a Mob (1918)](/Volumes/16/05/work_of_a_mob.html)
 * [The Burning at Dyersburg: An N.A.A.C.P. Investigation (1918)](/Volumes/15/04/burning_at_dyersburg.html)
-* [Slavery (1922)](/Volumes/24/01/slavery.html)
+* [Fall Books (1924)](/Volumes/29/01/fall_books.html)
 
 <!-- Similar articles end here -->

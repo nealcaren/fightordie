@@ -39,14 +39,14 @@ This is the real tragedy of the Negro in America: the inner degradation, the hur
 Conceive, O poet, a ghastlier tragedy than such a state of mind!
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 
 * [Precept and Practice (1910)](/Volumes/01/02/precept_and_practice.html)
 * [A Matter of Manners (1920)](/Volumes/19/04/matter-of-manners.html)
+* [Logic (1914)](/Volumes/09/03/logic.html)
 * [Prejudice (1911)](/Volumes/02/01/prejudice.html)
 * [Peonage (1916)](/Volumes/11/06/peonage.html)
-* [Burleson (1913)](/Volumes/06/04/burleson.html)
 
 <!-- Similar articles end here -->

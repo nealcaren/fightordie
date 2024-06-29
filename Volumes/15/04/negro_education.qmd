@@ -104,7 +104,7 @@ Here, then, is the weakness and sinister danger of Mr. Jones' report. It calls f
 [^fn1]: *Negro Education, a Study of the Private and Higher Schools for Colored People in the United States*; prepared in co-operation with the Phelps-Stokes Fund, under the direction of Thomas Jesse Jones, specialist in education of racial groups. Two volumes, 8 vo., 424, 724 pages. Washington 1917.
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

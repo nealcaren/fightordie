@@ -30,8 +30,9 @@ Fellow blacks, we must join the democracy of Europe.
 --------------  
 
 *Citation:* Du Bois, W.E.B. 1919. "For What." *The Crisis*. 17(6):268.
-<!-- Similar articles start here -->
 
+<!-- Similar articles start here -->
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

@@ -54,7 +54,7 @@ This is a great program---a tremendous task. We want the advice of all mothers a
 Write us in care of *The Brownies' Book*, 2 West Thirteenth Street, New York City, and---incidentally---send a One Dollar subscription for a year.
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

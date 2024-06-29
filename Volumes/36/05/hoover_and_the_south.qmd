@@ -38,8 +38,9 @@ Very well, an excellent program, says the country. But what does the Solid South
 __________
 
 *Citation:* Du Bois, W.E.B. 1929. "Herbert Hoover and the South." *The Crisis*. 36(5):167.
-<!-- Similar articles start here -->
 
+<!-- Similar articles start here -->
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

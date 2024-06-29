@@ -37,7 +37,7 @@ The *Post Dispatch* said in a closing editorial:
 > Self-interest and prejudice may make segregation popular enough to carry, but we do not believe it will survive. We believe that in the long run temporary victory for segregation will end in permanent defeat. Certainly intelligent people who see the significance and the inevitable drift of such a measure should vote against it.
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

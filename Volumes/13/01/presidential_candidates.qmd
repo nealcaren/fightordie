@@ -46,7 +46,7 @@ We beg to remain, Sir,<br>
 </ul>
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

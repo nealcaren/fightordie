@@ -1,4 +1,3 @@
-
 ---
 title: 'Education'
 author:
@@ -37,11 +36,11 @@ Let us try education and try it on a national scale. Let us have federal aid to 
 
 > Comparative statistics of undoubted authority show that of all sections of the United States the public
 schools of the South have the poorest houses and equipment, the most poorly paid teachers, the shortest school terms, and the most inadequate supervision. The average salary of teachers for the country at large is $49 for men and $40 for women, while the average salary for teachers in the Southern States is $35.63 for men and $30.47 for women. The average length of the public school term for the country at large is 145 days. The average length of the public school term for the North Atlantic States is 177.3 days; the average length of the public school term for the Southern States, including Tennessee, Mississippi, North Carolina, South Carolina, Louisiana, Arkansas, Georgia, Texas, Virginia and Florida is 99 days.
-
+> 
 > For every woman and child of its population the country at large is spending $2.99 for the education of its children. The South is spending barely 98 cents. The country at large is spending $20.29 for every pupil enrolled in its public schools. The Southern States are spending only $6.95. The country at large is spending for every child of school age in the United States an average of $10.57; the Southern States are spending for every child of school age within their borders $4.05. ... Twenty-four per cent, of the white population of the United States dwell in the Southern States that composed the Confederacy, while 64 per cent, of all the white illiterates over 10 years of age are found in these States.
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

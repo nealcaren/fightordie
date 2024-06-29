@@ -1,0 +1,44 @@
+---
+title: 'Soldiers'
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
+date: July 1920
+categories:
+  - ""
+citation: 
+  type: article-journal
+  container-title: The Crisis
+  volume: 20
+  issue: 3
+  page: 120
+google-scholar: true
+
+format:
+  html:
+    toc: false
+    appendix-cite-as: display
+---
+
+The statement by the Secretary of War in this number is a most disappointing pronouncement. It means that the Negro-hating section of the General Staff has had its way and that Negroes in the National Guard are not to be treated as soldiers; that, taking advantage of a strained interpretation of the law, Negro militia is not to be organized as an integral part of the state guard, but is to be regarded as potentially in separate divisions. This, however, would call for training in all arms of the service and by inference it would demand Negro officers. To avoid this the Negro militia units are to be admitted to none of the arms of the service but organized as "pioneers" from which in case of stress either laborers or real soldiers could be recruited.
+
+If the United States Army used half as much brains and ingenuity to make an effective fighting machine as it uses to exclude the Negro as an officer and soldier it might in time escape the derision of the military world.
+
+Let this nonsense cease. Let us make organized and systematic demand on the War Department for:
+
+1. *The organization of colored units as integral parts of state organizations; or*
+2. *The organization of a National Colored Corps with Negro officers.*
+
+<!-- Similar articles start here -->
+<div  class="clear-wrap"></div>
+<hr>
+#### Related Articles:
+
+* [Officers (1917)](/Volumes/14/02/officers.html)
+* [The Negro Soldier (1919)](/Volumes/19/02/negro_soldier.html)
+* [Baker (1917)](/Volumes/15/02/baker.html)
+* [American Legion, Again (1920)](/Volumes/19/03/american_legion_again.html)
+* [We Should Worry (1917)](/Volumes/14/02/we_should_worry.html)
+
+<!-- Similar articles end here -->

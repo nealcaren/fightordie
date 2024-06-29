@@ -58,7 +58,7 @@ honor. Will the church do this? In the long run and after much travail
 of soul we believe it will.
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

@@ -41,14 +41,14 @@ Can you wonder, Sirs, that we are a bit puzzled by all this and that we are aski
 Here is the choice. Which will you have, my masters?
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 
 * [A Statement (1919)](/Volumes/19/01/statement.html)
 * [Pan-Africa and New Racial Philosophy (1933)](/Volumes/40/11/panafrica_and_new_racial_philosophy.html)
-* [Resistance (1914)](/Volumes/07/04/resistance.html)
 * [The Strength of Segregation (1913)](/Volumes/07/03/strength_of_segregation.html)
 * [Separation (1911)](/Volumes/01/04/separation.html)
+* [Correspondence (1926)](/Volumes/31/05/correspondence.html)
 
 <!-- Similar articles end here -->

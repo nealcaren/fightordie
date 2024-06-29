@@ -31,7 +31,7 @@ And now suddenly we awake! It is done. We are sane. We are alive. Behold the Hea
 *On Earth, Peace, Good Will Toward Men.*
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

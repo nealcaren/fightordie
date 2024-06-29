@@ -51,7 +51,7 @@ To entrenched Privilege the underpaid day's work of black and white all looks al
 finds the South its finest, freest dwelling place.
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

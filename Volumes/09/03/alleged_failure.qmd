@@ -50,7 +50,7 @@ To the help of this program comes the wholesale exploitation and despising of co
 But the march of real democracy goes on. Slowly but surely the masses of men will become the great depositors of the bulk of both political and economical power, for their own good. Only democratic government can be both enlightened and selfish, both bond and free.
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

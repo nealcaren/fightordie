@@ -96,7 +96,7 @@ thief, and at all events for the thief to demand gratitude is adding
 insult to injury.
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

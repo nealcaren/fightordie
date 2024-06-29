@@ -47,7 +47,7 @@ There remains, therefore, three things to be done:
 The N.A.A.C.P. will now address itself to these last two matters. 
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

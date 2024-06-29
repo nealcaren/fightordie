@@ -75,7 +75,7 @@ and help accomplish freedom, safeguard legitimate pride of being and
 make democracy real.
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

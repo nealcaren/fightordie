@@ -89,7 +89,7 @@ Association for the Advancement of Colored People proposes to complete
 it.
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

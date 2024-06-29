@@ -83,14 +83,14 @@ When now the church faces such an episode as the Okolona murder it suffers moral
 <span class="small-caps">The Crisis</span> in its endeavor to tell a straight, unvarnished tale has submitted this article to the persons chiefly concerned, except Wallace Battle. They have all agreed that nothing should be published. What do you think, Gentle Reader? 
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 
-* [The White Church (1917)](/Volumes/14/01/white_church.html)
-* [The Tragedy of ''Jim Crow'' (1923)](/Volumes/26/04/tradgedy_of_jim_crow.html)
 * [Crime (1918)](/Volumes/15/05/crime.html)
 * [The White Primary (1911)](/Volumes/01/05/white_primary.html)
 * [Peonage (1927)](/Volumes/34/09/peonage.html)
+* [The Negro and the Land (1914)](/Volumes/07/04/negro_land.html)
+* [Education (1911)](/Volumes/01/04/education.html)
 
 <!-- Similar articles end here -->

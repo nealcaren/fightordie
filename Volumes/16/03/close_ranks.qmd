@@ -34,7 +34,7 @@ For all the long years to come men will point to the at year 1918 as the great D
 We of the colored race have no ordinary interest in the outcome. That which the German power represents today spells death to the aspirations of Negroes and all darker races for equality, freedom and democracy. Let us not hesitate. Let us, while this war lasts, forget our special grievances and close our ranks shoulder to shoulder with our own white fellow citizens and the allied nations that are fighting for democracy. We make no ordinary sacrifice, but we make it gladly and willingly with our eyes lifted to the hills.
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

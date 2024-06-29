@@ -55,7 +55,7 @@ will not give us our rights immediately but it puts us in the shadow of
 the mightiest advance since 1863.
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

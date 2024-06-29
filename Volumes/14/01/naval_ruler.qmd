@@ -27,14 +27,14 @@ format:
 When the United States takes possession of foreign territory it sends to govern it a naval officer. But, naval officers are not trained to govern. They are trained to fight! They have made no study of social organization, of human development, of industrial organization; if they are not quite unsympathetic, it is no fault of their training or of the traditions of their caste; yet, today they are well-nigh absolute masters in Nicaragua, San Domingo, Hayti and the erstwhile Danish West Indies. It would be impossible to conceive a more dangerous or foolhardy experiment.
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 
 * [To the Rescue (1916)](/Volumes/12/01/rescue.html)
 * [Flaming Arrows (1919)](/Volumes/17/01/flaming_arrows.html)
-* [Haiti (1920)](/Volumes/19/06/haiti.html)
-* [Murder Will Out (1920)](/Volumes/20/05/murder_will_out.html)
+* [Allies (1911)](/Volumes/02/03/allies.html)
 * [Officers (1917)](/Volumes/14/02/officers.html)
+* [Haiti (1920)](/Volumes/19/06/haiti.html)
 
 <!-- Similar articles end here -->

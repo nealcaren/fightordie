@@ -36,14 +36,14 @@ I hope and pray that the Liberian Government will see that these taxes for their
 I know that Liberia is not able to spend so much on education as the British colonies, or the West Coast spends on the education of the Africans, but knowing how to read is not everything. Some Englishmen twitted Madariaga about Spain's wishing to have a permanent seat in the council, saying: "Why, the large majority of Spaniards are illiterate!" Madariaga retorted: "Does it show greater lack of intelligence not to be able to read---or to be able to read The Daily Mail?"
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 
 * [Africa for the Africans (1921)](/Volumes/23/04/africa_for_the_africans.html)
 * [Starvation and Prejudice (1911)](/Volumes/02/02/starvation_and_prejudice.html)
 * [Precept and Practice (1910)](/Volumes/01/02/precept_and_practice.html)
-* [Clothes (1920)](/Volumes/20/04/clothes.html)
 * [Violations of Property Rights (1911)](/Volumes/02/01/violations.html)
+* [Social Equality (1916)](/Volumes/12/01/social_equality.html)
 
 <!-- Similar articles end here -->

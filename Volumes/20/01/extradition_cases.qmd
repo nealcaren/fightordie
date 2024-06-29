@@ -1,0 +1,41 @@
+---
+title: 'Extradition Cases'
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
+date: May. 1920
+categories: 
+  - ""
+citation: 
+  type: article-journal
+  container-title: The Crisis
+  volume: 20
+  issue: 1
+  page: 5
+google-scholar: true
+
+format:
+  html:
+    toc: false
+    appendix-cite-as: display
+---
+
+Extradition cases where northern governors are refusing to return colored prisoners to Southern States on account of the prevalence of lynching and mob rule, are accumulating and bid fair eventually to rival in importance and legal significance the celebrated fugitive slave cases. In 1917, Governor Call of Massachusetts refused to return John Johnson to West Virginia because of "danger of a serious miscarriage of justice".
+
+In March, 1920, Governor Allen of Kansas refused to return to Oklahoma Robert L. Hill, accused of fomenting "insurrection", on the ground that the testimony against him was procured by torture and that if returned he would probably be lynched.
+
+The South has protested bitterly against Massachusetts and Kansas, but their words were still hot when the Governor of Michigan returned to Kentucky a Negro, Grant Smith, arrested in Pontiac. He arrived in Kentucky at six o'clock Monday night, March 29, in charge of the sheriff, and was lynched early Tuesday morning!
+
+<!-- Similar articles start here -->
+<div  class="clear-wrap"></div>
+<hr>
+#### Related Articles:
+
+* [Information Wanted (1920)](/Volumes/19/05/information_wanted.html)
+* [The Sweet Trial (1926)](/Volumes/31/03/sweet_trial.html)
+* [The Flag (1911)](/Volumes/02/03/flag.html)
+* [Anarchism (1912)](/Volumes/04/04/anarchism.html)
+* [Scottsboro (1933)](/Volumes/40/05/scottsboro.html)
+
+<!-- Similar articles end here -->

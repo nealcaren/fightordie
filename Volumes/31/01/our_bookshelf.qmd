@@ -51,7 +51,7 @@ I know of no book by a Southern white man with which I so thoroughly and heartil
 The book is in 12 chapters and treats Racial Coöperation, Occupations, Law and Order, Government, Education, Religion and Race Contacts. It is published by Ginn and Company. <span class="right">--W. E. B. D.</span>
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

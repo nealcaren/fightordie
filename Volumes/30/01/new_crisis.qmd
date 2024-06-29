@@ -68,7 +68,7 @@ All this, we admit, is an enormous task for a magazine of 52 pages, selling for 
 We shall probably fall far short of its well doing but we shall make the attempt in all seriousness and good will. And, Good Reader, what will you do? Write and tell us.
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

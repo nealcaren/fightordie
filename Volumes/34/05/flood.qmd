@@ -65,7 +65,7 @@ world of the privileges of American
 civilization.
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

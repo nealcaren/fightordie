@@ -1,4 +1,3 @@
-
 ---
 title: 'The Negro and Communism'
 author:
@@ -143,7 +142,7 @@ Present organization of industry for private profit and control of government by
 There is no doubt, then, as to the future, or as to where the true interests of American Negroes lie. There is no doubt, too, but that the first step toward the emancipation of colored labor must come from white labor.
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

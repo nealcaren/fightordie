@@ -39,7 +39,7 @@ Chicago Negroes will buy just as much property in Hyde Park as they can
 pay for, and proceed to live therein.
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

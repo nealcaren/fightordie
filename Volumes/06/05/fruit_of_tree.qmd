@@ -45,7 +45,7 @@ and that no aider, abetter and teacher of slavery in any shape or guise
 can longer lead us?
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

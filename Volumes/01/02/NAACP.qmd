@@ -56,7 +56,7 @@ We are organized to fight this great modern danger. How may we fight it?
 If you think such work is worth while aid us by joining our organization and contributing to it.
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

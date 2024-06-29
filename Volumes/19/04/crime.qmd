@@ -44,8 +44,9 @@ What, now, is the attitude of the white South toward Negro crime? First and fore
  Under such circumstances, what can an honest Negro do to stop Negro crime?
 
  
-<!-- Similar articles start here -->
 
+<!-- Similar articles start here -->
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

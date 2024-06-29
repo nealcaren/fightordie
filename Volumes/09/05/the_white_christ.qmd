@@ -31,7 +31,7 @@ Selah!
 But hereafter let no white man sneer at the medicine men of West Africa or the howling of the Negro revival. The Negro church is at least democratic. It welcomes everybody. It draws no color line.
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

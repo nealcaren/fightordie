@@ -29,14 +29,14 @@ Do not forget Tulsa! The same little herring has been drawn across the path ther
 Nearly every member of the local committee is known to the Editor of <span class="small-caps">The Crisis</span> and is worthy of confidence and support. This local committee proposes to restore Negro real estate, rebuild stores and homes, and go right back to work in the same peaceful pursuits as before the riot. It also proposes to sue the city for losses in the riot. Strength to their arms! 
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 
 * [Tulsa Riots (1921)](/Volumes/22/03/tulsa_riots.html)
 * [The Negro and the Land (1914)](/Volumes/07/04/negro_land.html)
+* [Dodging the Issue (1933)](/Volumes/40/02/dodging_the_issue.html)
 * [Baltimore (1910)](/Volumes/01/01/Baltimore.html)
 * [The Proper Way (1913)](/Volumes/05/05/proper_way.html)
-* [Ireland (1916)](/Volumes/12/04/ireland.html)
 
 <!-- Similar articles end here -->

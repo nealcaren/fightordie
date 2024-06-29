@@ -31,7 +31,7 @@ This is the history of color discrimination in general in Philadelphia, New York
 The argument, then, for color discrimination in schools and in public institutions is an argument against democracy and an attempt to shift public responsibility from the shoulders of the public to the shoulders of some class who are unable to defend themselves.
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

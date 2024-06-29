@@ -48,14 +48,14 @@ enough certainty to spend his life in a Georgia convict camp. At all
 events it is very like the law.
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 
 * [Supreme Court (1914)](/Volumes/09/02/supreme_court.html)
 * [The Sweet Trial (1926)](/Volumes/31/03/sweet_trial.html)
+* [Lynchings and Mobs (1921)](/Volumes/22/04/lynchings.html)
 * [Brandeis (1916)](/Volumes/11/05/brandeis.html)
 * [A Moral Void (1917)](/Volumes/14/01/moral_void.html)
-* [Justice (1917)](/Volumes/14/03/justice.html)
 
 <!-- Similar articles end here -->

@@ -36,7 +36,7 @@ It is this propaganda that has got us war-minded and keeps us war-minded; and th
 The Pacifists today who takes his job seriously and sees war for what it really is, will roll up his sleeves first and attack race prejudice; and then he will attack all generals, colonels, captains, and ammunition makers; and then he will attack military schools and cadets; and finally, he may get us to the place where the world will realize that war is hell.
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 
@@ -44,6 +44,6 @@ The Pacifists today who takes his job seriously and sees war for what it really 
 * [Peace (1913)](/Volumes/06/01/peace.html)
 * [A Philosophy in Time of War (1918)](/Volumes/16/04/philosophy_in_time_of_war.html)
 * [Close Ranks (1918)](/Volumes/16/03/close_ranks.html)
-* [The Battle of Europe (1916)](/Volumes/12/05/battle_of_eruope.html)
+* [Let us Reason Together (1919)](/Volumes/18/05/let_us_reason_together.html)
 
 <!-- Similar articles end here -->

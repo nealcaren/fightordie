@@ -55,8 +55,9 @@ Get ready.
 They may beat and bribe our men, but the political hope of the Negro, rests on its intelligent and incorruptible womanhood.
 
  
-<!-- Similar articles start here -->
 
+<!-- Similar articles start here -->
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

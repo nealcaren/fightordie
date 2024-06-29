@@ -1,7 +1,12 @@
-
 ---
 title: 'The Massacre in East St. Louis'
-author: National Association for the Advancement of Colored People
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
+  - name:
+      given: Martha
+      family: Gruening
 date: Mar. 1917
 categories: 
   - ""
@@ -360,14 +365,14 @@ Prejudice is a bad thing. But prejudice in the hands of Organized Labor in Ameri
 And what of the Federal Government?
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 
-* [The Massacre in East St. Louis (1917)](/Volumes/14/05/massacre_of_east_st_louis.html)
-* [St. Louis (1916)](/Volumes/11/05/st_louis.html)
-* [Memphis or East St. Louis? (1917)](/Volumes/14/03/memphis_or_east_st_louis.html)
 * [A Crusade (1914)](/Volumes/07/05/crusades.html)
+* [St. Louis (1916)](/Volumes/11/05/st_louis.html)
+* [The Black Man in the Revolution of 1914-1918 (1919)](/Volumes/17/05/the_black_man_in_the_revolution_of_1914_1918.html)
+* [Awake America (1917)](/Volumes/14/05/awake_america.html)
 * [The Next Step (1913)](/Volumes/06/02/next_step.html)
 
 <!-- Similar articles end here -->

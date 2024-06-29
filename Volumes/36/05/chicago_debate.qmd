@@ -37,8 +37,9 @@ It was an interesting occasion; but the white man's presentation of his side of 
 _____
 
 *Citation:* Du Bois, W.E.B. 1929. "The Chicago Debate." *The Crisis*. 36(5):167.
-<!-- Similar articles start here -->
 
+<!-- Similar articles start here -->
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

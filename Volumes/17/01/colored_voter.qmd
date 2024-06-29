@@ -28,7 +28,7 @@ This is the month of elections. The colored people have long had the habit of co
 On the other hand, in New York State colored voters have to choose between Whitman and Smith. Both of them have excellent records so far as the colored people are concerned, and a choice calls for thoughtful consideration along lines outside of racial matters.
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

@@ -60,7 +60,7 @@ To sum up then: <span class = "small-caps">The Crisis</span> advises strongly a
 <span class = "small-caps">The Crisis</span> does not for a moment believe that any man has a right to force his company on others in their private lives but it maintains just as strongly that the right of any man to associate privately with those who wish to associate with him and publicly with anybody so long as he conducts himself gently, is the most fundamental right of a Human Being.
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 
@@ -68,6 +68,6 @@ To sum up then: <span class = "small-caps">The Crisis</span> advises strongly a
 * [Social Equality (1919)](/Volumes/19/01/social_equality.html)
 * [Social Equality (1916)](/Volumes/12/01/social_equality.html)
 * [''Social Equality'' (1911)](/Volumes/01/03/social_equality.html)
-* [Our Program (1930)](/Volumes/37/05/our_program.html)
+* [Of Problems (1921)](/Volumes/22/04/problems.html)
 
 <!-- Similar articles end here -->

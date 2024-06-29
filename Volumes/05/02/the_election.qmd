@@ -43,7 +43,7 @@ In other words, it is quite possible that Mr. Wilson, surrounded by counselors w
 As to whether, beyond Mr. Wilson's personal efforts, the Democratic party is prepared to become a real party of the people, and advance toward those great ideals of social democracy which every true patriot desires, is a question. Certainly its first step will be to discard the Southern oligarchy and combine the liberal and progressive policies of North and South, white and black.
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 
@@ -51,6 +51,6 @@ As to whether, beyond Mr. Wilson's personal efforts, the Democratic party is pre
 * [Mr. Roosevelt (1912)](/Volumes/04/05/mr_roosevelt.html)
 * [The Election (1910)](/Volumes/01/02/election.html)
 * [An Open Letter to Woodrow Wilson (1913)](/Volumes/05/05/open_letter.html)
-* [The Election (1928)](/Volumes/35/12/election.html)
+* [Roosevelt (1917)](/Volumes/14/04/roosevelt.html)
 
 <!-- Similar articles end here -->

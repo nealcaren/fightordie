@@ -56,7 +56,7 @@ We are therefore listening to those eminent and distinguished solvers of
 the Negro problem, white and black, who, with hat in hand, have in the last twenty years been lulling this nation to sleep and also feathering their own nests; we are listening for further advice and direction along the simple way.
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

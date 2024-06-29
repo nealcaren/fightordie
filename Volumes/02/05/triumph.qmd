@@ -48,7 +48,7 @@ Again, let the eagle scream!
 But let every black American gird up his loins. The great day is coming. We have crawled and pleaded for justice and we have been cheerfully spit upon and murdered and burned. We will not endure it forever. If we are to die, in God's name let us perish like men and not like bales of hay. 
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

@@ -57,7 +57,7 @@ with shifty and unmeaning platitudes. The whole affair is one of the
 most grievous disappointments that a disappointed people must bear.
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

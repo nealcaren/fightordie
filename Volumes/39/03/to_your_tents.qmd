@@ -36,7 +36,7 @@ When these goods are made, they can be distributed by Negro business, built up l
 To Your Tents, Oh Israel!
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 
@@ -44,6 +44,6 @@ To Your Tents, Oh Israel!
 * [Our Economic Future (1928)](/Volumes/35/05/our_economic_future.html)
 * [Employment (1932)](/Volumes/39/09/employment.html)
 * [Our Class Struggle (1933)](/Volumes/40/07/our_class_struggle.html)
-* [Co-Operation (1918)](/Volumes/15/01/cooperation.html)
+* [Investments (1921)](/Volumes/22/05/investments.html)
 
 <!-- Similar articles end here -->

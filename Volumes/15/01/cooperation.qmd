@@ -37,8 +37,9 @@ This is the movement which <span class = "small-caps">The Crisis</span> wishes 
 
 __________
 *Citation:* Du Bois, W.E.B. 1918. "Co-Operation." *The Crisis*. 15(1):9&ndash;10.
-<!-- Similar articles start here -->
 
+<!-- Similar articles start here -->
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

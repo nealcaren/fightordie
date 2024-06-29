@@ -36,7 +36,7 @@ Meantime, dear colored brethren, we confess to the error of our ways. We have st
 It's worth it!
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

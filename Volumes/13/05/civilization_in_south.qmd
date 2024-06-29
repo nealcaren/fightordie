@@ -37,8 +37,9 @@ We ask in all honesty. Does the thing which the South calls culture, and yet whi
 ------------------------------------------------------------------------
 
 *Citation:* Du Bois, W.E.B. 1917. "Civilization in the South." *The Crisis*. 13(5):215&ndash;216.
-<!-- Similar articles start here -->
 
+<!-- Similar articles start here -->
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

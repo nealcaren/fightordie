@@ -36,14 +36,14 @@ month:
 > And whosoever shall offend one of these little ones... it is better for him that a millstone were hanged about his neck, and he were cast into the sea.
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 
-* [The Slaughter of the Innocents (1918)](/Volumes/16/06/slaughter.html)
 * [The True Brownies (1919)](/Volumes/18/06/true_brownies.html)
 * [The New Crisis (1925)](/Volumes/30/01/new_crisis.html)
+* [The Slaughter of the Innocents (1918)](/Volumes/16/06/slaughter.html)
 * [It is a Girl (1933)](/Volumes/40/02/its_a_girl.html)
-* [The Shadow of Years (1918)](/Volumes/15/04/shadow_of_years.html)
+* [Join or Die (1914)](/Volumes/07/03/fightordie.html)
 
 <!-- Similar articles end here -->

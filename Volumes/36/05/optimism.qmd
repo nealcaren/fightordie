@@ -36,8 +36,9 @@ In the economic field one senses in every part of the country, better home life,
 _____
 
 *Citation:* Du Bois, W.E.B. 1929. "Optimism." *The Crisis*. 36(5):168.
-<!-- Similar articles start here -->
 
+<!-- Similar articles start here -->
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

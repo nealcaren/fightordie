@@ -95,8 +95,9 @@ What that will be, no one knows. It may be a great physical segregation of the w
 
 _________
 *Citation:* Du Bois, W.E.B. 1933. "The Negro College." *The Crisis*. 40(8):175&ndash;177.
-<!-- Similar articles start here -->
 
+<!-- Similar articles start here -->
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

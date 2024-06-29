@@ -38,13 +38,13 @@ All Negroes who register should vote. First, they should seek to vote in the Dem
 They should write strong letters of protest, regularly and often to the papers, to the Congressmen, and to the President of the United States. They should thus build up an active and interested political life and back it by just as many votes as they are able to cast.
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 
 * [How Shall We Vote (1920)](/Volumes/20/05/how_shall_we_vote.html)
-* [Voting (1910)](/Volumes/01/01/Voting.html)
 * [The Negro in Politics (1929)](/Volumes/36/11/negro_in_politics.html)
+* [Voting (1910)](/Volumes/01/01/Voting.html)
 * [The Negro Party (1916)](/Volumes/12/06/negro_party.html)
 * [The Presidential Campaign (1916)](/Volumes/12/06/presidential_campaign.html)
 

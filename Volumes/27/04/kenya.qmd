@@ -31,8 +31,9 @@ One cannot contemplate a more unjust and shortsighted policy. It is an attempt t
 
 _____
 *Citation:* Du Bois, W.E.B. 1924. "Kenya." *The Crisis*. 27(4):152&ndash;153.
-<!-- Similar articles start here -->
 
+<!-- Similar articles start here -->
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

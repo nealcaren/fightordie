@@ -32,7 +32,7 @@ The Jewish Publication Society sends out the American Jewish Year Book annually 
 This is the great net work of organization which makes the Jewish people the tremendous force for good and for uplift which they are in this country. Let black men look at them with admiration and emulate them. Only in our secret orders can we approach them from afar, while in voluntary organizations and philanthropic activity we can see from the record of these 3,000,000 what our 10,000,000 have to learn.
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 
@@ -40,6 +40,6 @@ This is the great net work of organization which makes the Jewish people the tre
 * [The National Interracial Conference (1929)](/Volumes/36/02/national_interracial_conference.html)
 * [A Correspondence (1914)](/Volumes/09/01/correspondence.html)
 * [The Odd Fellows (1912)](/Volumes/05/02/odd_fellows.html)
-* [Muddle (1916)](/Volumes/13/02/muddle.html)
+* [A Quarter Million (1921)](/Volumes/21/05/a_quarter_million.html)
 
 <!-- Similar articles end here -->

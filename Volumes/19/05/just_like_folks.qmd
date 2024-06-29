@@ -28,8 +28,9 @@ The Negroes, in our natural, present state of hyper-criticism say, among ourselv
 And Lansing, and Fiume---but why add? Isn't it all "just like white folks?"
 
  
-<!-- Similar articles start here -->
 
+<!-- Similar articles start here -->
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

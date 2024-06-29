@@ -38,14 +38,14 @@ We must watch Hawaii, and in the present turmoil, remember two significant facts
 Watch Hawaii.
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 
-* [John Brown (1932)](/Volumes/39/01/john_brown.html)
 * [The Rise of the West Indian (1920)](/Volumes/20/05/rise_of_the_west_indian.html)
 * [An Amazing Island (1915)](/Volumes/10/02/amazing_island.html)
 * [Westward Ho (1934)](/Volumes/41/05/westward_ho.html)
 * [I Go A-Talking (1913)](/Volumes/06/03/i_go_a_talking.html)
+* [Hail Columbia (1913)](/Volumes/05/06/hail_columbia.html)
 
 <!-- Similar articles end here -->

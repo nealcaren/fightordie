@@ -46,14 +46,14 @@ And he did his bit.
 And so the great farce ends. The People have spoken---and said nothing.
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 
 * [The Presidential Campaign (1916)](/Volumes/12/06/presidential_campaign.html)
 * [The Campaign of 1928 (1928)](/Volumes/35/12/campaign_of_1928.html)
+* [The Election (1914)](/Volumes/09/02/election.html)
 * [On the Fence (1928)](/Volumes/35/11/on_the_fence.html)
 * [How Shall We Vote (1920)](/Volumes/20/05/how_shall_we_vote.html)
-* [The Election (1914)](/Volumes/09/02/election.html)
 
 <!-- Similar articles end here -->

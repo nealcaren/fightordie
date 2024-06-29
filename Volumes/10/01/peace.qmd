@@ -27,8 +27,9 @@ The various efforts toward peace show with singular unanimity either the utter i
 
 ______
 *Citation:* Du Bois, W.E.B. 1915. "Peace." *The Crisis*. 10(1):28.
-<!-- Similar articles start here -->
 
+<!-- Similar articles start here -->
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

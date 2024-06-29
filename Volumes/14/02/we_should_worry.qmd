@@ -63,7 +63,7 @@ Take your choice, gentlemen.
 "We should worry." 
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 
@@ -71,6 +71,6 @@ Take your choice, gentlemen.
 * [The Negro Soldier (1919)](/Volumes/19/02/negro_soldier.html)
 * [A Crusade (1914)](/Volumes/07/05/crusades.html)
 * [Burleson (1913)](/Volumes/06/04/burleson.html)
-* [Officers (1917)](/Volumes/14/02/officers.html)
+* [Soldiers (1920)](/Volumes/20/03/soldiers.html)
 
 <!-- Similar articles end here -->

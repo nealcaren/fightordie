@@ -38,7 +38,7 @@ What is done is done. This is no fit time for recrimination or complaint. Gravel
 It is rumored that Mr. Washington's successor at Tuskegee will be Robert Russa Moton, Commandant of Cadets at Hampton. If this proves true Major Moton will enter on his new duties with the sympathy and good will of his many friends both black and white.
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

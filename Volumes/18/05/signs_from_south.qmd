@@ -39,7 +39,7 @@ friends, will attempt to take a prisoner out of my hands, and no man who
 is not a friend of mine and of law and order can do it.
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

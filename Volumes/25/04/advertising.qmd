@@ -37,14 +37,14 @@ We were not advertising in order to reward our friends or punish our enemies but
 We reached at least five million readers in a day---the greatest single stroke of propaganda ever struck in behalf of justice for the Negro. The Bill was not passed but the effect of this advertisement is beyond estimate. It was copied all over the United States and in Europe, Asia and Africa.
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 
 * [Our Economic Future (1928)](/Volumes/35/05/our_economic_future.html)
 * [Travel (1926)](/Volumes/33/02/travel.html)
 * [White Charity (1922)](/Volumes/24/02/whitecharity.html)
-* [The Last Word in Politics (1912)](/Volumes/05/01/last_word_in_politics.html)
 * [Negro Art (1921)](/Volumes/22/02/negro_art.html)
+* [Our Economic Peril (1930)](/Volumes/37/03/our_economic_peril.html)
 
 <!-- Similar articles end here -->

@@ -7,10 +7,12 @@ website:
     logo: Images/logo.png
     href: https://www.dareyoufight.org
     right:
-    - about.qmd
     - listing.qmd
-    - credits.qmd
+    - about.qmd
+    - href: backround.qmd
+      text: Background
     - covers.qmd
+    - credits.qmd
 
 format:
   html:

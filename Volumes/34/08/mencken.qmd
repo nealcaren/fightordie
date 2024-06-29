@@ -35,7 +35,7 @@ Despite this, Mr. Mencken does not realize all that has been done. If the really
 On the whole then, despite a stimulating critic's opinion, we Negroes are quite well satisfied with our Renaissance. And we have not yet finished. 
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

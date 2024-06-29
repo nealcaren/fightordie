@@ -41,7 +41,7 @@ With one point alone do I differ with the Editor. Mr. Locke has newly been seize
 Of course this involves a controversy as old as the world and much too transcendental for practical purposes, and yet, if Mr. Locke's thesis is insisted on too much it is going to turn the Negro renaissance into decadence. It is the fight for Life and Liberty that is giving birth to Negro literature and art today and when, turning from this fight or ignoring it, the young Negro tries to do pretty things or things that catch the passing fancy of the really unimportant critics and publishers about him, he will find that he has killed the soul of Beauty in his Art. 
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

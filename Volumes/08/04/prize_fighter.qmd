@@ -63,7 +63,7 @@ football and war for pastime until Mr. Johnson retires or permits
 himself to be "knocked out."
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

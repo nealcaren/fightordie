@@ -72,7 +72,7 @@ Clinton---white Clinton---has had its revenge: Mr. and Mrs. Dendy, in their spac
 "What was the use?" ponders Mrs. Dendy as she mechanically rocks the baby. Everywhere oppressed Negroes echo, "What *is* the use?"
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

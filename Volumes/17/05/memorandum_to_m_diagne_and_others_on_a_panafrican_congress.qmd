@@ -104,14 +104,14 @@ This plan was acceptable not only to the representatives of the various Negro pe
 "Clémenceau permits Pan-African Conference February 12, 13, 14. North, South America, West Indies, Africa represented. Two of our delegates, Haiti, Liberia, sit in Peace Conference. Carefully selected delegates welcome."
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 
 * [The Pan-African Congresses: The Story of a Growing Movement (1927)](/Volumes/34/08/panafrican_congresses.html)
 * [Soldiers (1919)](/Volumes/17/01/soldiers.html)
 * [Robert R. Moton (1919)](/Volumes/18/01/robert_moton.html)
-* [Resolutions of the Washington Conference (1917)](/Volumes/14/02/resolutions.html)
 * [The American Legion (1919)](/Volumes/18/05/the_american_legion.html)
+* [The National Interracial Conference (1929)](/Volumes/36/02/national_interracial_conference.html)
 
 <!-- Similar articles end here -->

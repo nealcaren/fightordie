@@ -38,7 +38,7 @@ Therefore (and is not this characteristically American?) the Methodist Church is
 "Come unto Me, all ye that labor and are heavy laden and I will give you rest!"
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

@@ -137,7 +137,7 @@ And so swiftly he was sentenced for treason and inciting murder and insurrection
 And Joshua said: "Father, forgive them, for they know not what they do."
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

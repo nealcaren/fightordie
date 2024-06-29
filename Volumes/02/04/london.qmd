@@ -38,7 +38,7 @@ Yet London is uneasy. London is sensing the strength and determination in the da
 What more fitting center then than London for the coming together of the first world conference of the races and peoples of the world! They are to meet not as master and slave, missionary and heathen, conqueror and conquered---but as men and equals in the center of the world, and the meeting will be watched with intense interest and remembered for many a long day.
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

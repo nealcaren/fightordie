@@ -61,7 +61,7 @@ may-be) at least tries to give the facts, talk English and stand as an
 unpurchasablc advocate of justice and right.
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

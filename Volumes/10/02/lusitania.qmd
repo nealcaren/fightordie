@@ -50,7 +50,7 @@ we have not oppressed, we have been oppressed; we are not thieves, we
 are victims; we are not murderers, we are lynched!
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

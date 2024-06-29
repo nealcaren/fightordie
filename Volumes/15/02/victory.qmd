@@ -35,7 +35,7 @@ We are thankful; and the National Association for the Advancement of Colored Peo
 As Moorfield Storey, our honored president says, this is the most momentous utterance of the Supreme Court since the Dred Scott decision.
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

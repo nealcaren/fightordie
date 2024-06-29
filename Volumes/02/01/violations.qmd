@@ -1,4 +1,3 @@
-
 ---
 title: 'Violations of Property Rights'
 author:
@@ -40,7 +39,13 @@ and observers to be optimistic and to dwell simply upon the shortcomings of the 
 What has been the result of this policy? In the first place so far as the Negroes are concerned there can be no doubt that their energies have more and more been given to work and thrift, and despite all the testimonies of car-window sociologists there is absolutely undisputed evidence that the Negro has accumulated property. Full statistics unfortunately do not exist to prove this assertion; so far as crime is concerned we can get statistics of Negroes in practically every State, county and city in the United States, but when it comes to property there are only available figures in three
 States, and only in one State have these figures gone back for a considerable period.
 
-![](../../../Images/georgia_property.jpg)   
+
+<figure class="figure right" style="width: 60%;">
+![](images/georgia_property.jpg){.lightbox}
+<figcaption>Assessed Value of Colored Property in Georgia. (From Atlanta Univ. Pub No. 14)</figcaption>
+</figure>
+
+
 
 The State of Georgia, beginning with 1874, has kept a careful account of the assessed value of the property owned by its Negro citizens. I have put on a chart the way in which that property has increased. It began at $6,000,000 in 1874, and did not increase for about six years, owing to the reconstruction troubles in this State. Then as gradually law and order were restored the accumulations began to go up, and once started they went very rapidly until they reached the culminating point in 1893. At that time the Negroes of Georgia were paying taxes on $14,000,000 worth of property. Then there came a check. First the panic of 1892, then a series of Jim Crow laws, four-cent cotton, and the epidemic of lynching. The result was that for five years the accumulations decreased or wavered. Then they took a new forward movement with the new century and went up rapidly until to-day the Negroes of Georgia pay taxes on about $30,000,000 worth of property. Moreover, as the assessments of property in Georgia are low, it is probable that this represents between $50,000,000 and $60,000,000 of actual value.
 
@@ -80,14 +85,14 @@ In the time of slavery we had the subterfuge of colonization to tempt the consci
 who ought to have seen; in the days since Reconstruction we have had the subterfuge of industrial inefficiency to make people forget race prejudice. Today the world, north and south, is being asked to believe that the crux of the Negro problem lies in keeping black men from buying property on your street. All through this history of subterfuge and evasion has run the great and dominating fact of a racial prejudice which denies the application of the ethics of Jesus Christ in the relations of men if these men happen to be of a different race. It is the object of the National Association for the Advancement of Colored People to impress the fact upon the American people that the foundation difficulty of the race problem is this despicable race prejudice, and that unless we attack this central difficulty we never shall settle this problem. Moreover, we insist that this problem must be settled and settled right, because it is but a part of a greater problem which is as wide as the world.
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 
 * [An Open Letter (1915)](/Volumes/10/03/an_open_letter.html)
 * [A Statement (1919)](/Volumes/19/01/statement.html)
 * [Work for Black Folk in 1914 (1914)](/Volumes/07/04/work_for_black_folk.html)
+* [Radicals (1919)](/Volumes/19/02/radicals.html)
 * [Toward a New Racial Philosophy (1933)](/Volumes/40/01/toward_a_new_racial_philosophy.html)
-* [Social Equality (1916)](/Volumes/12/01/social_equality.html)
 
 <!-- Similar articles end here -->

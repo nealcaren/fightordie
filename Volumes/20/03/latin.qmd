@@ -1,11 +1,10 @@
-
 ---
 title: 'Latin'
 author:
   - name:
       given: W.E.B.
       family: Du Bois
-date: Jan. 1920
+date: Jul. 1920
 categories: 
   - ""
 citation: 
@@ -30,12 +29,12 @@ The principal of a State school for Negroes writes us:
 for such students as desired to prepare for college or professional
 schools as well as for those who would go at once to work as teachers or
 in some other way to earn a livelihood.  
-> &nbsp;    
+> 
 > In consequence I have been called stupid and stubborn. Stupid because I
 could not see the wonderful advantages of dedicating all efforts to the
 study and teaching of the farm, and stubborn because unwilling to yield
-unreservedly to the advice of those who did see.  
-> &nbsp;    
+unreservedly to the advice of those who did see.    
+> 
 > Under threat of loss of the Federal appropriation our board of trustees
 at last ordered me to cease the teaching of Latin. Something of a
 compromise was made when it was agreed that except for the Latin we
@@ -53,14 +52,14 @@ themselves off from the educational system of the land as established by
 the white universities, is suicide.
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 
 * [Education (1911)](/Volumes/01/04/education.html)
 * [Negro Education (1918)](/Volumes/15/04/negro_education.html)
-* [Public Schools (1916)](/Volumes/12/01/salutations.html)
 * [Public Schools (1916)](/Volumes/12/01/public_schools.html)
+* [Public Schools (1916)](/Volumes/12/01/salutations.html)
 * [The Name Negro (1928)](/Volumes/35/03/name_negro.html)
 
 <!-- Similar articles end here -->

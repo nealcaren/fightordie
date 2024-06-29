@@ -44,7 +44,7 @@ We trust that you may be able to get a strong statement from southern white wome
 It will be a glad day for America when southern white women recognize their clear duty toward the Negro.
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

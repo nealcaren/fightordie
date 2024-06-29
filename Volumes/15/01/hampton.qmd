@@ -48,8 +48,9 @@ W. E. B. <span class = "small-caps">Du Bois<.span>.
 
 __________
 *Citation:* Du Bois, W.E.B. 1918. "Hampton." *The Crisis*. 15(1):10&ndash;12.
-<!-- Similar articles start here -->
 
+<!-- Similar articles start here -->
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

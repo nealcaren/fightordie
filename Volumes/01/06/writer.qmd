@@ -34,7 +34,7 @@ To the young colored American Frances Harper leaves a lesson. Here is a nation w
 Here is a tremendous field for improvement, and if in the next six months <span class="small-caps">The Crisis</span> receives the same remarkable encouragement as in the past we hope to have ready for the beginning of our second year's work a matured plan for encouraging young writers to follow the hallowed footsteps of Frances Watkins Harper.
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

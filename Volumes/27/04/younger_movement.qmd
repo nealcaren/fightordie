@@ -78,8 +78,9 @@ These, then, are the two books of the younger Negro Movement; read them and enjo
 
 _____
 *Citation:* Du Bois, W.E.B. and Alan Locke. 1924. "The Younger Literary Movement." *The Crisis*. 27(4):161&ndash;163.
-<!-- Similar articles start here -->
 
+<!-- Similar articles start here -->
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

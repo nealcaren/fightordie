@@ -34,7 +34,7 @@ In America by the accident of color it is possible roughly to separate much igno
 It is time that the thought and conscience of America took a firm stand on these matters and stopped now and forever such dangerous and undemocratic doctrine.
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

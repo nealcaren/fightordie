@@ -43,7 +43,7 @@ Moreover, there is another and more subtle thing that must be considered. Whethe
 Even worse may happen: In Roanoke, Va., a black boy and a white girl were crossing a bridge, in opposite directions. Just as the girl was opposite the boy, she slipped and fell. The boy stretched out his hand to help her. He was promptly lynched by a mob, despite the vehement protest of the white State's Attorney. American white women are, in numbers of cases, used to treating Negroes publicly as the dirt beneath their feet. Very well, says the Negro, courtesy is not expected of dirt. We are not defending this attitude; we are merely explaining it.
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

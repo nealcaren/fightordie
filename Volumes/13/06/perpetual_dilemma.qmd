@@ -79,7 +79,7 @@ Can the reader conceive of the pos­sibility of choice? The leaders of the color
 Give us the camp!
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

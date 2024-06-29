@@ -46,7 +46,7 @@ I know of no book which treats this matter sanely to any extent. Haldeman-Julius
 And now, Reader---white, black, green or yellow, what do you say in answer to this letter? Answer and we will publish a few of the letters.
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

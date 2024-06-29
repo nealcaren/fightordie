@@ -37,7 +37,7 @@ The civilization of South Africa, by means of theft, disfranchisement and slaver
 If this is true of South African white men, with a vote and a voice and high wages, what, in the name of a merciful God. can be the condition of the voteless and voiceless blacks who toil for dividends to support luxurious restaurants and churches and automobiles in London and New York!
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 
@@ -45,6 +45,6 @@ If this is true of South African white men, with a vote and a voice and high wag
 * [Smuts (1930)](/Volumes/37/02/smuts.html)
 * [Flood (1927)](/Volumes/34/05/flood.html)
 * [Dives, Mob, and Scab (1920)](/Volumes/19/05/dives.html)
-* [Lusitania (1915)](/Volumes/10/02/lusitania.html)
+* [Knowledge (1911)](/Volumes/02/06/knowledge.html)
 
 <!-- Similar articles end here -->

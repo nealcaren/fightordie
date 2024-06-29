@@ -88,7 +88,7 @@ Persons interested in the work of the Horizon Guild may communicate with
 the Editor of <span class="small-caps">The Crisis</span>.
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

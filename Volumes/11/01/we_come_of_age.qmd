@@ -46,7 +46,7 @@ ourselves, but our readers in every state in this Union and in the lands
 oversea.
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

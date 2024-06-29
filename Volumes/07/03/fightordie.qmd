@@ -79,7 +79,7 @@ Join us and fight, then.
 Join or die!
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

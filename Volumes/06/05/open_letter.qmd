@@ -55,7 +55,7 @@ We are still hoping that present indications are deceptive. We are still trying 
 <span class = "small-caps">The Crisis</span>. 
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

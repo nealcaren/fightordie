@@ -76,7 +76,7 @@ What difference does it make whether the whale swallowed Jonah or Jonah
 swallowed the whale, so long as Justice, Mercy and Peace prevail?
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

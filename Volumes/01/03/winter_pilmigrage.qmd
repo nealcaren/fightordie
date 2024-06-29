@@ -47,7 +47,7 @@ Therefore, all is well? Therefore, all is not well. Here are a climbing people. 
 *W. E. B. D.*
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

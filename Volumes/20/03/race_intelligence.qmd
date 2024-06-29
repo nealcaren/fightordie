@@ -1,11 +1,10 @@
-
 ---
 title: 'Race Intelligence'
 author:
   - name:
       given: W.E.B.
       family: Du Bois
-date: Jan. 1920
+date: Jul. 1920
 categories: 
   - ""
 citation: 
@@ -32,89 +31,26 @@ Then came psychology: the children of the public schools were studied and it was
 
 Today, however, all is settled. "A workably accurate scientific classification of brain power" has been discovered and by none other than our astute army officers. The tests were in two sets for literates and illiterates and were simplicity itself. For instance, among other things the literates were asked in three minutes "to look at each row of numbers below and on the two dotted lines write the two numbers that should come next." 
 
-<table>
-<tbody>
-  <tr>
-    <td>3</td>
-    <td>4</td>
-    <td>5</td>
-    <td>6</td>
-    <td>7</td>
-    <td>8</td>
-    <td>...</td>
-    <td>...</td>
-  </tr>
-  <tr>
-    <td>8</td>
-    <td>7</td>
-    <td>6</td>
-    <td>5</td>
-    <td>4</td>
-    <td>3</td>
-        <td>...</td>
-    <td>...</td>
-  </tr>
-  <tr>
-    <td>10</td>
-    <td>15</td>
-    <td>20</td>
-    <td>25</td>
-    <td>30</td>
-    <td>35</td>
-        <td>...</td>
-    <td>...</td>
-  </tr>
-  <tr>
-    <td>81</td>
-    <td>27</td>
-    <td>9</td>
-    <td>3</td>
-    <td>1</td>
-    <td>⅓</td>
-        <td>...</td>
-    <td>...</td>
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>4</td>
-    <td>9</td>
-    <td>16</td>
-    <td>25</td>
-    <td>36</td>
-        <td>...</td>
-    <td>...</td>
-  </tr>
-  <tr>
-    <td>16</td>
-    <td>17</td>
-    <td>15</td>
-    <td>18</td>
-    <td>14</td>
-    <td>19</td>
-        <td>...</td>
-    <td>...</td>
-  </tr>
-  <tr>
-    <td>3</td>
-    <td>6</td>
-    <td>8</td>
-    <td>16</td>
-    <td>18</td>
-    <td>36 </td>
-        <td>...</td>
-    <td>...</td>
-  </tr>
-</tbody>
-</table>
+|    |   |    |    |    |     |   |   |
+|----|----|----|----|----|-----|-----|-----|
+| 3  | 4  | 5  | 6  | 7  | 8   | ... | ... |
+| 8  | 7  | 6  | 5  | 4  | 3   | ... | ... |
+| 10 | 15 | 20 | 25 | 30 | 35  | ... | ... |
+| 81 | 27 | 9  | 3  | 1  | ⅓   | ... | ... |
+| 1  | 4  | 9  | 16 | 25 | 36  | ... | ... |
+| 16 | 17 | 15 | 18 | 14 | 19  | ... | ... |
+| 3  | 6  | 8  | 16 | 18 | 36  | ... | ... |
+
+
 
 Illiterates were asked, for example, to complete pictures where the net was missing in a tennis court or a ball in a bowling alley! 
 
-For these tests were chosen 4730 Negroes from *Louisiana* and *Mississippi* and 28,052 white recruits from *Illinois*. The result? Do you need to ask? M. R. Trabue, Director, Bureau of Educational Service, Columbia University, assures us that the intelligence of the average southern Negro is equal to that of a 9-year-old white boy and that we should arrange our educational program to make "waiters, porters, scavengers and the like" of most Negroes! 
+For these tests were chosen 4730 Negroes from *Louisiana* and *Mississippi* and 28,052 white recruits from *Illinois*. The result? Do you need to ask? M.R. Trabue, Director, Bureau of Educational Service, Columbia University, assures us that the intelligence of the average southern Negro is equal to that of a 9-year-old white boy and that we should arrange our educational program to make "waiters, porters, scavengers and the like" of most Negroes! 
 
 Is it conceivable that a great university should employ a man whose "science" consists of such utter rot? 
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

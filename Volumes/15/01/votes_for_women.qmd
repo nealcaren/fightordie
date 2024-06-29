@@ -45,8 +45,9 @@ It is only in such broad-minded willingness to do justice to all, that the black
 
 __________
 *Citation:* Du Bois, W.E.B. 1918. "Votes for Women." *The Crisis*. 15(1):8.
-<!-- Similar articles start here -->
 
+<!-- Similar articles start here -->
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

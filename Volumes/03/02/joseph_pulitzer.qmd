@@ -65,7 +65,7 @@ format:
 </div>
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

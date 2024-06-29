@@ -183,7 +183,7 @@ All things considered in the election of 1928, the Negro voter has the greatest 
 (In future numbers we shall discuss: the effect of disfranchisement in the South; the presidential candidates; the congressional candidates and the issues at stake in the campaign.) 
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

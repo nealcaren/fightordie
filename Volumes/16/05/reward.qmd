@@ -47,7 +47,7 @@ And we are winning right now. Since this war began we have won:
 Blessed saints! Is this nothing? Should it not discourage slackers and fools? Come, fellow black man, fight for your rights, but for God's sake have sense enough to know when you are getting what you fight for.
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

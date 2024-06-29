@@ -34,7 +34,7 @@ It did not do these things single-handed but has worked always with all persons 
 This is surely a record which proves The National Association for the Advancement of Colored People the only national organization in the field today which can fight efficiently for the rights of the Negro and the one on which twelve million Negroes should concentrate with membership, encouragement and funds.
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

@@ -1,0 +1,41 @@
+---
+title: 'Of Cold Feet'
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
+date: Mar.. 1921
+categories: 
+  - ""
+citation: 
+  type: article-journal
+  container-title: The Crisis
+  volume: 22
+  issue: 5
+  page: 200
+google-scholar: true
+
+format:
+  html:
+    toc: false
+    appendix-cite-as: display
+---
+
+They are so brave! My God! The fire that blows from their dilated nostrils and the spite that sputters from mouths---but---go to Atlanta? No *sir*! Not *me*! I'm busy. I'm just about the busiest person you ever saw.
+
+O, they were radical! They were Red and red-hot. They had fought for their country. They belonged to the American Legion and they sat 500 strong, clamorous with applause.
+
+But when we asked for volunteers to protest a libellous film play, five promised and two came!
+
+<!-- Similar articles start here -->
+<div  class="clear-wrap"></div>
+<hr>
+#### Related Articles:
+
+* [Thirteen (1918)](/Volumes/15/03/thirteen.html)
+* [Radicals (1919)](/Volumes/19/02/radicals.html)
+* [A Quarter Million (1921)](/Volumes/21/05/a_quarter_million.html)
+* [A Crusade (1914)](/Volumes/07/05/crusades.html)
+* [Publicity (1922)](/Volumes/24/01/publicity.html)
+
+<!-- Similar articles end here -->

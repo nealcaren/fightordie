@@ -45,7 +45,7 @@ If the United States is to be a Land of Law, we would live humbly and peaceably 
 </div>
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

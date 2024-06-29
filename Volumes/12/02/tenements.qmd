@@ -53,7 +53,7 @@ Owners' Improvement Corporation would let the public know where their
 proposed new tenements in New York are to be erected.
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

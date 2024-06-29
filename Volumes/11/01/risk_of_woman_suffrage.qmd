@@ -47,13 +47,13 @@ The fundamental defect in the propaganda of woman suffrage consists in the fact 
 Male and female created He them; what God has made different man strives in vain to make identical.
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 
 * [Woman Suffrage (1915)](/Volumes/11/01/woman_suffrage.html)
-* [Votes for Women (1912)](/Volumes/04/05/votes_for_women.html)
 * [Woman''s Suffrage (1913)](/Volumes/06/01/womans_suffrage.html)
+* [Votes for Women (1912)](/Volumes/04/05/votes_for_women.html)
 * [Suffrage and Women (1915)](/Volumes/09/04/suffrage_women.html)
 * [The Justice of Woman Suffrage (1912)](/Volumes/04/05/justice_of_woman_suffrage.html)
 

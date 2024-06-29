@@ -29,7 +29,7 @@ A phrase in the December <span class="small-caps">Crisis</span> has led to some 
 To this we may add the information from the Charleston (S.C.) *News and Courier* that in Rock Hill has been established a school "for Negro servants" and that the public schools of the town are being used to co-operate in this work. This we maintain points to the decline of Negro schools and it indicates a widespread movement. Whenever a public school system is used not for disseminating intelligence and giving the keys of knowledge, but rather for the establishment of caste, then the school is missing its purpose. It may well be that at a particular time and a particular place the caste feeling is so strong, the race hatred so potent, that the only school possible is a school which will keep the hated in their places; but manifestly under such circumstances there is not only room for but crying need for a propaganda to attack caste; to say that it is not right to build up a public school system in order to furnish menials for the rich. In the schools of no other group in the nation beside Negroes have persons dared to enunciate such an object for the public schools, no matter how much they may have thought it. If we would build real democracy in the United States we must make such daring impossible in the case of Negroes.
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 
@@ -37,6 +37,6 @@ To this we may add the information from the Charleston (S.C.) *News and Courier*
 * [Education (1911)](/Volumes/01/04/education.html)
 * [Employment (1932)](/Volumes/39/09/employment.html)
 * [Schools (1917)](/Volumes/13/03/schools.html)
-* [Public Schools (1916)](/Volumes/12/01/public_schools.html)
+* [Public Schools (1916)](/Volumes/12/01/salutations.html)
 
 <!-- Similar articles end here -->

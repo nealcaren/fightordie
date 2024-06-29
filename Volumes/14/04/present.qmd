@@ -29,7 +29,7 @@ We are facing a new world. Never again are we going to cope with the same condit
 The first method of doing this is, of course, to take part in the war, either by actual enlistment or by civic duties. The second thing is to note the new industrial openings for colored people in the United States and elsewhere and to take advantage of them in such way as shall lead to wider openings.
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

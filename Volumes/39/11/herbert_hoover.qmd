@@ -83,14 +83,14 @@ As a manufacturing nation, we need to sell goods all over the earth. We can only
 Moreover, we cannot as a nation secure control of industry and politics as long as the rotten boroughs of the South, with political power based on disfranchised black and white labor, make a third party movement impossible. No one in our day has helped disfranchisement and race hatred more than Herbert Hoover by his "Lily-White" policy, his appointments to office, and his failure to recognize or appreciate the plight of the Forgotten Black Man.
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 
 * [The Election (1928)](/Volumes/35/12/election.html)
+* [The Republican Party (1918)](/Volumes/15/06/republican_party.html)
 * [The Election (1912)](/Volumes/05/02/the_election.html)
 * [Mr. Taft (1911)](/Volumes/02/06/taft.html)
 * [The Campaign of 1928 (1928)](/Volumes/35/12/campaign_of_1928.html)
-* [The Republican Party (1918)](/Volumes/15/06/republican_party.html)
 
 <!-- Similar articles end here -->

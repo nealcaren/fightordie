@@ -33,7 +33,7 @@ Thus the situation is not discouraging. Of course, the real trouble is that Pres
 It is not. 
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

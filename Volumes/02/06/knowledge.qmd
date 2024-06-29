@@ -35,7 +35,7 @@ All these figures are from the United States census reports and go to show the i
 It illustrates, too, how silly it is to try and draw great slashing lines of difference between races. Men. families, nations and races differ, but humanity is one.
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

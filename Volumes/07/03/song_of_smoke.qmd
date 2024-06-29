@@ -83,14 +83,14 @@ format:
 (Original version first published in the *Horizon*)
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 
 * [In God''s Gardens (1912)](/Volumes/03/06/in-gods-gardens.html)
-* [Unrest (1920)](/Volumes/19/05/unrest.html)
 * [The Christmas Prayers of God (1914)](/Volumes/09/02/christmas_prayers_of_god.html)
 * [The Quadroon (1911)](/Volumes/03/01/quadroon.html)
 * [The Burden of Black Women (1914)](/Volumes/09/01/burden_of_black_women.html)
+* [Unrest (1920)](/Volumes/19/05/unrest.html)
 
 <!-- Similar articles end here -->

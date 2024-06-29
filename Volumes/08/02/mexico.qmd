@@ -47,14 +47,14 @@ we civilized? We may blunder into murder and shame and call it a Mexican
 war. But it will not be war. It will be crime.
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 
 * [Violations of Property Rights (1911)](/Volumes/02/01/violations.html)
 * [Pullman Porters (1926)](/Volumes/31/03/pullman_porters.html)
 * [Brazil (1914)](/Volumes/07/06/brazil.html)
+* [To the Rescue (1916)](/Volumes/12/01/rescue.html)
 * [Violence (1934)](/Volumes/41/05/violence.html)
-* [A Statement (1919)](/Volumes/19/01/statement.html)
 
 <!-- Similar articles end here -->

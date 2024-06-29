@@ -31,7 +31,7 @@ Colored folk can always get a dubious sort of consolation in knowing that they h
 Remember this is the story of the treatment of a white woman by chivalrous American white men, the same men who tremble with indignation lest a black man look at one of these beautiful creatures. 
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

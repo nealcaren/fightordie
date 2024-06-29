@@ -33,7 +33,7 @@ But it is perhaps the attitude of Calvin Coolidge and his government which is mo
 Finally, if American Negroes want to know on which side to take their stand in this matter of labor organization among Negroes they should note the people who are against it: Mark Sullivan, the most unfair of newspaper correspondents on Negro problems, the Memphis *Commercial Appeal*, the daily press of Miami, Florida! When such forces as these take one side, it is the business of thinking Negroes to take the other. 
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 
@@ -41,6 +41,6 @@ Finally, if American Negroes want to know on which side to take their stand in t
 * [The Black Man and Labor (1925)](/Volumes/31/02/black_man_and_labor.html)
 * [Again, Pullman Porters (1926)](/Volumes/31/06/again_pullman_porters.html)
 * [Radicals (1919)](/Volumes/19/02/radicals.html)
-* [Organized Labor (1912)](/Volumes/04/03/organized_labor.html)
+* [The Migration of Negroes (1917)](/Volumes/14/02/migration_of_negroes.html)
 
 <!-- Similar articles end here -->

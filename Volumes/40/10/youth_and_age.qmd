@@ -98,7 +98,7 @@ Perhaps the second Amenia conference will not be as epoch-making as the first, b
 This sketch of the conference cannot close without reference to the hospitality of the host, Joel E. Spingarn, and the thoughtful co-operation of his wife, his two daughters and his two sons. It was withal a very beautiful experience.
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

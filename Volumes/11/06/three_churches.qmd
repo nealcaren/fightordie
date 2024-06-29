@@ -53,7 +53,7 @@ The pastor. Dr. William H. Brooks, who has served since 1896, is an organizer of
 Branches of St. Mark's Church have grown up in Brooklyn, in Harlem, in the Bronx and in Williamsbridge, and despite this the Mother church has grown from a membership of eight hundred to nearly two thousand in eighteen years.
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

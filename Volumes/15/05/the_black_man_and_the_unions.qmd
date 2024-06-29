@@ -38,7 +38,7 @@ Personally, I have come to this decision reluctantly and in the past have writte
 The recent convention of the American Federation of Labor, at Buffalo, is no proof of change of heart. Grudgingly, unwillingly, almost insultingly, this Federation yields to us inch by inch the status of half-a-man, denying and withholding every privilege it dares at all times.
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

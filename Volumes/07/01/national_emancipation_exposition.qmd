@@ -131,7 +131,7 @@ Then shall the banners announce:
 "The play is done!"
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

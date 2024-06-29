@@ -68,14 +68,14 @@ We cannot entirely escape it, since it is just as true, and just as false as suc
 There is no other way; let us not be deceived. American Negroes will be beaten into submission and degradation if they merely wait unorganized to find some place voluntarily given them in the new reconstruction of the economic world. They must themselves force their race into the new economic set-up and bring with them the millions of West Indians and Africans by peaceful organization for normative action or else drift into greater poverty, greater crime, greater helplessness until there is no resort but the last red alternative of revolt, revenge and war.
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 
-* [Again, Social Equality (1920)](/Volumes/19/05/again_social_equality.html)
 * [Social Equality (1916)](/Volumes/12/01/social_equality.html)
+* [Again, Social Equality (1920)](/Volumes/19/05/again_social_equality.html)
 * [The Negro Citizen (1929)](/Volumes/36/05/negro_citizen.html)
 * [William Monroe Trotter (1914)](/Volumes/09/02/trotter.html)
-* [Optimism (1929)](/Volumes/36/05/optimism.html)
+* [''Social Equality'' (1911)](/Volumes/01/03/social_equality.html)
 
 <!-- Similar articles end here -->

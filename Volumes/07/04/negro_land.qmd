@@ -90,7 +90,7 @@ for enlightenment from those wise statesmen who have been volubly
 leading us out of the wilderness in these last ten years.
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

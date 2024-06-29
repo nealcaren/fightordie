@@ -44,7 +44,7 @@ format:
 *W. E. B. Du Bois*
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

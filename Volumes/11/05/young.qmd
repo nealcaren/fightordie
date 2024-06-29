@@ -70,7 +70,7 @@ every standpoint."
 This is the man whom this Association is honoring itself by honoring.
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

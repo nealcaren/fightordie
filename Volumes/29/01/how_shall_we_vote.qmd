@@ -29,14 +29,14 @@ I shall vote for La Follette and Wheeler, unusually honest and straight-forward 
 *W. E. B. Du Bois.*
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 
 * [The Election (1928)](/Volumes/35/12/election.html)
 * [The Oath of the Negro Voter (1918)](/Volumes/15/01/oath_of_the_negro_voter.html)
+* [Roosevelt (1917)](/Volumes/14/04/roosevelt.html)
 * [How Shall We Vote (1920)](/Volumes/20/05/how_shall_we_vote.html)
 * [The Election (1912)](/Volumes/05/02/the_election.html)
-* [The Presidential Campaign (1916)](/Volumes/12/06/presidential_campaign.html)
 
 <!-- Similar articles end here -->

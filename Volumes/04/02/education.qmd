@@ -69,14 +69,14 @@ The lecturer came to Indianapolis not to criticise, but to warn—not to attack,
 Yet the despising of men is growing and the caste spirit is rampant in the land; it is laying hold of the public schools and it has the colored public schools by the throat, North, East, South and West. Beware of it, my brothers and dark sisters; educate your children. Give them the broadest and highest education possible; train them to the limit of their ability, if you work your hands to the bone in doing it. See that your child gets, not the highest task, but the task best fitted to his ability, whether it be digging dirt or painting landscapes; remembering that our recognition as common folk by the world depends on the number of men of ability we produce—not great geniuses, but efficient thinkers and doers in all lines. Never forget that if we ever compel the world's respect, it will be by virtue of our heads and not our heels. 
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 
 * [College Education (1914)](/Volumes/08/03/college_education.html)
-* [School (1918)](/Volumes/16/06/school.html)
 * [Education (1911)](/Volumes/01/04/education.html)
 * [Employment (1932)](/Volumes/39/09/employment.html)
+* [School (1918)](/Volumes/16/06/school.html)
 * [The Right to Work (1933)](/Volumes/40/04/right_to_work.html)
 
 <!-- Similar articles end here -->

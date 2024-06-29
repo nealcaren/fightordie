@@ -75,7 +75,7 @@ Ignore the mischievous intimation of venal colored editors that we are
 "fighting" Booker T. Washington. We are fighting slavery, caste and cowardice in black men and white; nothing more and nothing less.
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

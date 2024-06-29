@@ -60,7 +60,7 @@ The success of the experiment is unquestioned. The audiences were enthusiastic a
 A second K. P. L. N. T. is being organized in Washington, D. C., and it is hoped the movement will spread widely.
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

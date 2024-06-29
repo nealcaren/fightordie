@@ -100,7 +100,7 @@ In some such words and thoughts as these we seek to express our will and ideal, 
 The answer is written in the stars.
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

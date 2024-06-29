@@ -64,7 +64,7 @@ As it was, we have organized the "Pan-African Congress" as a permanent body, wit
 The world-fight for black rights is on!
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

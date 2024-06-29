@@ -27,7 +27,7 @@ format:
 "Ebony and Topaz," a "Collectanea" edited by C. S. Johnson and published by the Urban League contains so much work and of such uneven quality, that it is difficult to judge or characterize it. It is a sort of big scrap book, quite without unity, even of race, and containing stories, poems, essays, plays, translations, biographies, reprints, drawings, etc. Some bits are lovely, some mediocre and others make any judgment doubtful. If the whole thing had been split up into a half dozen little booklets, each with its artistic unity and clear spiritual message, the net result would surely have been greater and more valuable. 
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 
@@ -35,6 +35,6 @@ format:
 * [Our Book Shelf (1925)](/Volumes/31/01/our_bookshelf.html)
 * [The True Brownies (1919)](/Volumes/18/06/true_brownies.html)
 * [We Come of Age (1915)](/Volumes/11/01/we_come_of_age.html)
-* [Mencken (1927)](/Volumes/34/08/mencken.html)
+* [The Younger Literary Movement (1924)](/Volumes/27/04/younger_movement.html)
 
 <!-- Similar articles end here -->

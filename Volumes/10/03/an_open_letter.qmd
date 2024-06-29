@@ -62,8 +62,9 @@ We appeal to every warm-hearted, high-minded man or woman in this country, and u
 
 ______
 *Citation:* Storey, Moorfield. 1915. "An Open Letter." *The Crisis*. 10(2):132&ndash;133, 136.
-<!-- Similar articles start here -->
 
+<!-- Similar articles start here -->
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

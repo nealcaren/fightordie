@@ -187,7 +187,7 @@ of heaven's sun whispering "Leap!"
 And the Princess leapt.
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

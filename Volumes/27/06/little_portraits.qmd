@@ -54,8 +54,9 @@ The objects of life will be revolutionized. Our duty will not consist in getting
 
 _____
 *Citation:* Du Bois, W.E.B. 1924. "Little Portraits of Africa." *The Crisis*. 27(6):272&ndash;274.
-<!-- Similar articles start here -->
 
+<!-- Similar articles start here -->
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

@@ -51,7 +51,7 @@ To no part of its force does <span class="small-caps">The Crisis</span> owe mor
 The First Subscriber to <span class="small-caps">The Crisis</span>
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

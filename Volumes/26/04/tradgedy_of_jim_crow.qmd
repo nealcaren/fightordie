@@ -89,7 +89,7 @@ The real fight in Philadelphia and Pennsylvania should be made on the following 
 6. To make the colored teacher feel that no calling is so fine and valuable as his and that the Negro race and the world knows it.
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

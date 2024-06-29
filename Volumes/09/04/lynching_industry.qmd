@@ -303,7 +303,7 @@ that is possible for his good and for our good." The President ended
 with a charming story from Charles Lamb.
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

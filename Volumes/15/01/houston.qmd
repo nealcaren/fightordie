@@ -66,8 +66,9 @@ After the riot the white citizens of Houston behaved with unusual coolness and r
 
 __________
 *Citation:* Gruening, Martha. 1918. "Houston: An N.A.A.C.P. Investigation." *The Crisis*. 15(1):19.
-<!-- Similar articles start here -->
 
+<!-- Similar articles start here -->
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

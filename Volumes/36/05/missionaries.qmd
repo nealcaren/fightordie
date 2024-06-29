@@ -42,8 +42,9 @@ As a matter of fact, missionary societies of the United States started out, for 
 _____
 
 *Citation:* Du Bois, W.E.B. 1929. "Missionaries." *The Crisis*. 36(5):168.
-<!-- Similar articles start here -->
 
+<!-- Similar articles start here -->
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

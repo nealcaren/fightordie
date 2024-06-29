@@ -66,7 +66,7 @@ South as coming around to their point of view.
 Who is doing this philanthropic work? Who is paying for it? Is it our patriotic duty to sit and sleep while this deviltry is hatching?
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 
@@ -74,6 +74,6 @@ Who is doing this philanthropic work? Who is paying for it? Is it our patriotic 
 * [Blessed Discrimination (1913)](/Volumes/05/04/blesseddiscrimination.html)
 * [Southern Papers (1911)](/Volumes/01/04/southern_papers.html)
 * [A Statement (1919)](/Volumes/19/01/statement.html)
-* [''Social Equality'' (1911)](/Volumes/01/03/social_equality.html)
+* [Logic (1914)](/Volumes/09/03/logic.html)
 
 <!-- Similar articles end here -->

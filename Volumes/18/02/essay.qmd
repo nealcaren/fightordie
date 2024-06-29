@@ -495,7 +495,7 @@ On the other hand, there is not a black soldier but who is glad he went,---glad 
 This history will be enlarged and expanded, embellished with maps and pictures and with the aid of an editorial board, consisting of the leading Negro American scholars and the most distinguished of the black soldiers who fought in France, will be issued by the National Association for the Advancement of Colored People and The Crisis, in three volumes, in honor of the first great struggle of the modern Negro race for liberty.
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 
@@ -503,6 +503,6 @@ This history will be enlarged and expanded, embellished with maps and pictures a
 * [The Black Man in the Revolution of 1914-1918 (1919)](/Volumes/17/05/the_black_man_in_the_revolution_of_1914_1918.html)
 * [Mr. Roosevelt (1912)](/Volumes/04/05/mr_roosevelt.html)
 * [Promoting Race Prejudice (1917)](/Volumes/14/03/race_prejudice.html)
-* [My Mission (1919)](/Volumes/18/01/my_mission.html)
+* [Hayes (1927)](/Volumes/33/03/hayes.html)
 
 <!-- Similar articles end here -->

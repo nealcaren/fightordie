@@ -40,7 +40,7 @@ The American Negro does not expect to have the whole Negro problem settled immed
 All these things are matters, not simply of justice, but of National and group efficiency; they are actions designed to still the natural unrest and apprehension among one-eighth of our citizens so as to enable them wholeheartedly and unselfishly to throw their every ounce of effort into this mighty and righteous war.
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

@@ -99,7 +99,7 @@ regardless of their belief or disbelief in unimportant dogmas and
 ancient and outworn creeds.
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

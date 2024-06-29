@@ -342,7 +342,7 @@ folk if they would see their way clearly
 in the future.
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

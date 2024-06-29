@@ -65,7 +65,7 @@ The "Jim Crow" galleries of Southern moving picture houses are filled with some 
 Such are the flat and undeniable facts. What are we going to do about them? We can neither yell them down nor make them disappear by resolutions. We must think and act. It is this problem which The Crisis dgsires to discuss during the present year in all its phases and with ample and fair representation to all shades of opinion.
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

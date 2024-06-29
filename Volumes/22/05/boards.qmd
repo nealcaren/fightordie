@@ -1,4 +1,3 @@
-
 ---
 title: 'Of Boards'
 author:
@@ -49,7 +48,7 @@ Mr. Johnson's work calls for no less praise. Trained as a poet and literary man,
 Loving cups and travelling bags are very little things, but they mean a lot to the servants of boards of directors.
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

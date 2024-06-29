@@ -38,7 +38,7 @@ It was this argument that brought down the *Atlantic Monthly* and the *New York 
 There remains scarcely a respectable periodical in the United States that refuses to capitalize Negro. In fact, the Government Printing Office in Washington and the *Forum* magazine stand almost alone.
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

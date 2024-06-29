@@ -40,7 +40,7 @@ Nevertheless, votes for women must and ought to come and the Negroes should help
 Therefore: Votes for Women.
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

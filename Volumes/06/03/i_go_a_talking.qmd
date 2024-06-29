@@ -94,7 +94,7 @@ Atlanta is another story; so here let me end and, in ending, let me thank those 
 All this by way of preface. In later numbers of <span class="small-caps">The Crisis</span> I shall take up these groups and cities in greater detail and tell of their meaning and promise.
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

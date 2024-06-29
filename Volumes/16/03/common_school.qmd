@@ -41,7 +41,7 @@ The nation will face after this war a tremendous and righteous demand for nation
 On the boards which control the administration of funds for the colored public schools the colored race must be represented. They must have a voice in their own education.
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 
@@ -49,6 +49,6 @@ On the boards which control the administration of funds for the colored public s
 * [Reconstruction (1919)](/Volumes/18/03/reconstruction.html)
 * [The True Brownies (1919)](/Volumes/18/06/true_brownies.html)
 * [Education (1911)](/Volumes/01/04/education.html)
-* [School (1918)](/Volumes/16/06/school.html)
+* [A Little Play (1914)](/Volumes/07/05/a_little_play.html)
 
 <!-- Similar articles end here -->

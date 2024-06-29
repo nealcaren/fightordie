@@ -42,7 +42,7 @@ This is the black man's program for 1914, and the more difficult it looks the mo
 P. S.---The above statement was solicited by the *Survey* and accepted; then it was returned because the writer refused to omit number six!
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

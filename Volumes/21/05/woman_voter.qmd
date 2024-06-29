@@ -30,8 +30,9 @@ N.C., came out in the local paper before election with several columns of advice
 
 _____________
 *Citation:* Du Bois, W.E.B. 1921. "The Woman Voter." *The Crisis*. 21(5):200.
-<!-- Similar articles start here -->
 
+<!-- Similar articles start here -->
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

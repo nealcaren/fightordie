@@ -29,8 +29,9 @@ Here, then, is the outrage of uninvited American intervention, the shooting and 
 
 ______
 *Citation:* Du Bois, W.E.B. 1915. "Hayti." *The Crisis*. 10(6):291.
-<!-- Similar articles start here -->
 
+<!-- Similar articles start here -->
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

@@ -1,4 +1,3 @@
-
 ---
 title: 'A Soldier'
 author:
@@ -22,9 +21,12 @@ format:
     appendix-cite-as: display
 ---
 
+<figure class="figure left" style="width: 40%;">
+![](images/caldwell.png)
+</figure>
+
 Do you want this boy to be hanged?
 
-![](../../../Images/caldwell.png) 
 
 This is the picture of Edgar Caldwell, who is under sentence of death, for defending himself ag ainst the crew of a street car in Anniston, Ala., and killing one of them.
 
@@ -32,16 +34,15 @@ His case will be argued before the Supreme Court of the United States, about Mar
 
 We want 500 Negroes who believe in Negro manhood, to send immediately one dollar each to J. E. Spingarn, Treasurer of the N.A.A.C.P., 70 Fifth Avenue, New York City, for Caldwell's defense.
 
- 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 
 * [The Challenge of Detroit (1925)](/Volumes/31/01/challenge_of_detroit.html)
-* [Houston (1918)](/Volumes/16/06/houston.html)
-* [Officers (1917)](/Volumes/14/02/officers.html)
-* [Cowardice (1916)](/Volumes/12/06/cowardice.html)
-* [To Mr. Emmett Scott (1919)](/Volumes/18/01/scott.html)
+* [Peonage (1916)](/Volumes/11/06/peonage.html)
+* [Houston and East St. Louis (1918)](/Volumes/15/06/houston_and_east_st_louis.html)
+* [Some Chicagoans of Note (1915)](/Volumes/10/05/some_chicagoans_of_note.html)
+* [Radicals (1919)](/Volumes/19/02/radicals.html)
 
 <!-- Similar articles end here -->

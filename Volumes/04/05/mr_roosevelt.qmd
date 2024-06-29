@@ -117,7 +117,7 @@ the electoral vote of Illinois, Indiana, Ohio and New York in your
 pocket--- WHAT ARE YOU GOING TO DO ABOUT IT?
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

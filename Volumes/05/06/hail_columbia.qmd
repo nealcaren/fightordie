@@ -107,7 +107,7 @@ American citizen may not buy as many women as his purse permits? Perish
 the thought and Hail Columbia, Happy Land!
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

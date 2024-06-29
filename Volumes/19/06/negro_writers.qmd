@@ -30,8 +30,9 @@ One colored writer, Claude McKay, asserts that we rejected one of his poems and 
 From the beginning, the editor has read with care every manuscript sent us, which explains the unconscionable delay in returning many; and yet for three years the editor was editor, business manager, and chief clerk, and only this last year has <span class="small-caps">The Crisis</span> been able to hire an editorial staff even approximately adequate to the work.
 
  
-<!-- Similar articles start here -->
 
+<!-- Similar articles start here -->
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

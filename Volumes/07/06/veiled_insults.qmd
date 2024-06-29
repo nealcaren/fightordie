@@ -39,7 +39,7 @@ The Kansas City *Journal* publishes an admirable little lay sermon on a certain 
 In substance nothing could be better than these statements; but can anyone read them and for a moment think of the Negro race as equal to other races? Yet some of the best friends of colored people persist in this species of insult.
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

@@ -35,14 +35,14 @@ In a few cities it has been found possible while maintaining separate graded sch
 In these cities, above all others in the United States, there is the greatest opportunity for real national service. If it is impossible for children of high school age to work together at common knowledge and human training for four years, then it is impossible for white and colored people to live together in the United States and for different races to live together in the world. The test of the possibility of democracy lies in a certain very real sense in the mixed high schools of Indianapolis.
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 
 * [Reconstruction (1919)](/Volumes/18/03/reconstruction.html)
 * [Segregation (1910)](/Volumes/01/01/Segregation.html)
 * [Radicals and the Negro (1925)](/Volumes/29/05/radicals_and_the_negro.html)
-* [Lynchings and Mobs (1921)](/Volumes/22/04/lynchings.html)
 * [A University Course in Lynching (1923)](/Volumes/26/02/university_course_in_lynching.html)
+* [Education (1930)](/Volumes/37/02/education.html)
 
 <!-- Similar articles end here -->

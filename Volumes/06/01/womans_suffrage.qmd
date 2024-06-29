@@ -27,14 +27,14 @@ format:
 There seems to be no doubt but that the attempt to draw the color line in the woman's suffrage movement has received a severe and, let us hope, final setback. Both at Washington and St. Louis the right of the black woman to vote and strive for a vote was openly recognized. There was, to be sure, a struggle in both cases and the forces of caste are not demoralized; they are, however, beaten at present, and a great and good cause can go forward with unbedraggled skirts. Let every black man and woman fight for the new democracy which knows no race or sex.
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 
+* [Suffrage and Women (1915)](/Volumes/09/04/suffrage_women.html)
 * [Votes for Women (1912)](/Volumes/04/05/votes_for_women.html)
-* [Woman Suffrage (1915)](/Volumes/09/06/womansuffrage.html)
-* [Votes for Women (1918)](/Volumes/15/01/votes_for_women.html)
+* [The Risk of Woman Suffrage (1915)](/Volumes/11/01/risk_of_woman_suffrage.html)
 * [Get Ready (1920)](/Volumes/20/01/get_ready.html)
-* [Suffering Suffragettes (1912)](/Volumes/04/02/suffering_suffragettes.html)
+* [Woman Suffrage (1915)](/Volumes/09/06/womansuffrage.html)
 
 <!-- Similar articles end here -->

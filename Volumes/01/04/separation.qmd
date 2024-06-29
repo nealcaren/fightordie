@@ -41,7 +41,7 @@ Those who persist in opposition to it need not be scared by bugbears of possible
 	
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 

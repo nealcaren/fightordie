@@ -44,7 +44,7 @@ A volume in the *Home University Library* says:
 Finally, we would welcome a monthly edited by R. R. Moton on the lines suggested by the Telegraph. But we opine that it would omit the semiannual report of lynchings, which Tuskegee sends out to the world.
 
 <!-- Similar articles start here -->
-
+<div  class="clear-wrap"></div>
 <hr>
 #### Related Articles:
 
