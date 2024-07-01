@@ -39,7 +39,7 @@ A vote for every adult American who can read and write.
 Schools where every American child must learn to read and write.
 After the record of 350,000 black men in the World War, is there any American, black or white, who can oppose this program? If so, we have but to put to him and Hardwick, in parallel columns, the words of Woodrow Wilson in defense of Woman's Suffrage and our own paraphrase in defense of Negro Suffrage:
 
-| The President said | <span class="small-caps">The Crisis</span> says |
+| The President said | <span class="crisis-title">The Crisis</span> says |
 |--------------------|-----------------|
 | Are we alone to ask and take the utmost that our women can give—service and sacrifice of every kind—and still say we do not see what title that gives them to stand by our sides in the guidance of the affairs of their nation and ours? We have made partners of the women in this war. Shall we admit them only to a partnership of suffering and sacrifice and toil, and not to a partnership of privilege and right? | Are we alone to ask and take the utmost that our black fellow citizens can give—service and sacrifice of every kind—and still say we do not see what title that gives them to stand by our sides in the guidance of the affairs of their nation and ours? We have made partners of the Negroes in this war. Shall we admit them only to a partnership of suffering and sacrifice and toil, and not to a partnership of privilege and right? |
 

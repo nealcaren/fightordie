@@ -85,7 +85,7 @@ it will fitly celebrate the great Amendment which declared that
 *"neither slavery nor involuntary servitude ... shall exist within the United States or any place subject to their jurisdiction."*
 
 Persons interested in the work of the Horizon Guild may communicate with
-the Editor of <span class="small-caps">The Crisis</span>.
+the Editor of <span class="crisis-title">The Crisis</span>.
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>

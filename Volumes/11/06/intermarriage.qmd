@@ -25,7 +25,7 @@ format:
 
 
 There are those who from time to time suggest that the National
-Association for the Advancement of Colored People and <span class="small-caps">The Crisis</span> go far afield in opposing laws to prohibit
+Association for the Advancement of Colored People and <span class="crisis-title">The Crisis</span> go far afield in opposing laws to prohibit
 intermarriage between white and colored people. They argue that neither
 race desires intermarriage; that it is a matter "purely social," and
 that legalizing the prohibition simply puts stern custom into law. Every

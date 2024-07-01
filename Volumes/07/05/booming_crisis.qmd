@@ -27,9 +27,9 @@ format:
 The Washington *Bee,* a weekly colored periodical has been stirred to its
 vitals by the fear that the money collected in Washington and elsewhere
 for the National Association for the Advancement of Colored People is
-going to be used for the support of <span class="small-caps">The Crisis</span> We assure
+going to be used for the support of <span class="crisis-title">The Crisis</span> We assure
 the editor that not a single cent of such moneys goes to the support of
-<span class="small-caps">The Crisis</span>. <span class="small-caps">The Crisis</span> supports itself, and has from the
+<span class="crisis-title">The Crisis</span>. <span class="crisis-title">The Crisis</span> supports itself, and has from the
 beginning, with the single exception that the association provides an
 editor for it.
 
@@ -37,11 +37,11 @@ Even this, however, does not apparently suit the nimble *Bee.* "But the
 National Association for the Advancement of Colored People ignores the
 splendid, vitalizing work of the race newspapers already established,
 and established and financed by their editors, while concentrating its
-efforts and giving of its funds exclusively to make <span class="small-caps">The Crisis</span> a very late comer, the real and only organ of the race." Here again the editor is mistaken. Far from displacing the colored weekly newspapers, <span class="small-caps">The Crisis</span> is giving them all
+efforts and giving of its funds exclusively to make <span class="crisis-title">The Crisis</span> a very late comer, the real and only organ of the race." Here again the editor is mistaken. Far from displacing the colored weekly newspapers, <span class="crisis-title">The Crisis</span> is giving them all
 possible publicity and full and careful credit for everything which it
 reprints.
 
-<span class="small-caps">The Crisis</span> regrets, however, that the amount of matter published in the *Bee* and in many other papers, which is worth, reprinting or even reading, is not nearly as large as it ought to be. Moreover, <span class="small-caps">The Crisis</span> is convinced that more careful attention to some of the very things which this editor denounces would bring larger success to the colored weekly papers.
+<span class="crisis-title">The Crisis</span> regrets, however, that the amount of matter published in the *Bee* and in many other papers, which is worth, reprinting or even reading, is not nearly as large as it ought to be. Moreover, <span class="crisis-title">The Crisis</span> is convinced that more careful attention to some of the very things which this editor denounces would bring larger success to the colored weekly papers.
 
 First: *Facts.* Of the newspapers mentioned only one, the *Afro-American Ledger,* makes a careful and valuable attempt to present the facts concerning the Negro. The others present some of the facts, but in a partial and incomplete way.
 
