@@ -1,0 +1,38 @@
+---
+title: 'Triumph'
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
+date: Oct. 1920
+categories: 
+  - ""
+citation: 
+  type: article-journal
+  container-title: The Crisis
+  volume: 20
+  issue: 6
+  page: 261
+google-scholar: true
+
+format:
+  html:
+    toc: false
+    appendix-cite-as: display
+---
+
+# Triumph
+
+At last the work of Susan B. Anthony and Frederick Douglass is crowned. From this day on in the United States a grown human being has the right to a voice in his own government, even if he is a woman.
+
+Who oppose Woman Suffrage? With but few exceptions those states which oppose the abolition of child labor, the raising of the age of consent and universal education; those which advocate and practice lynching, mob violence and government by minority. These states are: 
+
+|              |            |
+|--------------|------------|
+| Alabama      | Virginia   |
+| Georgia      | Maryland   |
+| Mississippi  | Delaware   |
+| South Carolina | North Carolina |
+|              | Louisiana  |
+
+How slowly the world moves in the commonest matters of elementary righteousness. To think that we had to wait until 1920 for Woman Suffrage and then got it by two votes! Yet in this very fact lies hope for us: A civilization that required nineteen centuries to recognize the Rights of Women can confidently be expected some day to abolish the Color Line.
