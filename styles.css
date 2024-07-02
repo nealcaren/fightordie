@@ -259,11 +259,14 @@ blockquote {
 /* Override the bootstrap styles */
 figure {
     display: inline-block; /* Allow text wrapping */
+    margin-block-end: .1rem;
   }
 
   figcaption {
     font-family: var(--font-secondary);
     font-size: .8rem;
+    padding-left: .5rem;
+    padding-right: .25rem;
   }
   
 /* Caption and Figure Styles */
@@ -277,6 +280,7 @@ figure {
   .figure-img {
     max-width: 100%;
     height: auto;
+    padding-top: .5rem;
   }
   
   .chicago-figure-caption {
