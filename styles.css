@@ -72,6 +72,17 @@ h2 {margin-bottom: 0rem;}
     margin-block-end: 3rem;
 }
 
+hr {
+  border: none;
+  height: 3px;
+  background: linear-gradient(
+    to right,
+    transparent,
+    #000000,
+    transparent
+  );
+  margin: 20px 0;
+}
 
 /* Links */
 a {
