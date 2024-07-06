@@ -184,25 +184,51 @@ p {
   color: #555;
   padding: 0 4rem;
 }
+
 blockquote {
-    font-family: var(--font-secondary);
-    border-left: none;
-    margin-bottom: 0;
-    padding-top: 0rem;
-  }
-  
-  blockquote p {
-    padding-right: 2em;
-    margin-bottom: 0;
-    font-size: .9rem;
-    line-height: 1.6;
-    text-indent: 2em;
-  }
-  
-  blockquote br + span {
-    display: inline-block;
-    text-indent: 2em;
-  }
+  font-family: var(--font-secondary);
+  border-left: none;
+  margin-bottom: 0;
+  padding-top: 0rem;
+  position: relative;
+  padding-left: 3em;
+  padding-right: 3em;
+}
+
+blockquote::before,
+blockquote::after {
+  font-family: var(--font-secondary);
+  font-size: 6em;
+  color: var(--color-primary);
+  position: absolute;
+  line-height: 1;
+  opacity: 0.5;
+}
+
+blockquote::before {
+  content: "\201C";
+  left: -0.35em;
+  top: -0.2em;
+}
+
+blockquote::after {
+  content: "\201D";
+  right: -0.35em;
+  bottom: -0.5em;
+}
+
+blockquote p {
+  padding-right: 0;
+  margin-bottom: 1rem;
+  font-size: .9rem;
+  line-height: 1.6;
+  text-indent: 0em;
+}
+
+blockquote br + span {
+  display: inline-block;
+  text-indent: 2em;
+}
 
 .poem {
   border-left: none;
