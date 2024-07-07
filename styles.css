@@ -208,14 +208,15 @@ blockquote::after {
 blockquote::before {
   content: "\201C";
   left: -0.35em;
-  top: -0.2em;
+  top: -0.05em;
 }
 
 blockquote::after {
   content: "\201D";
-  right: -0.35em;
-  bottom: -0.5em;
+  right: -0.05em;
+  bottom: -0.45em;
 }
+
 
 blockquote p {
   padding-right: 0;
