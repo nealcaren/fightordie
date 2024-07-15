@@ -90,6 +90,10 @@ hr {
   margin: 20px 0;
 }
 
+#related-articles {
+  margin-top: 4rem;
+}
+
 /* Links */
 a {
   color: var(--color-primary);
