@@ -74,13 +74,19 @@ h2 {margin-bottom: 0rem;}
 
 hr {
   border: none;
-  height: 3px;
-  background: linear-gradient(
-    to right,
-    transparent,
-    #000000,
-    transparent
-  );
+  height: 30px;
+  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 10"><path fill="none" stroke="black" stroke-width="0.5" d="M0,5 C25,0 25,10 50,5 C75,0 75,10 100,5"/><path fill="black" d="M24,4 Q25,5 26,4 Q25,3 24,4 M49,4 Q50,5 51,4 Q50,3 49,4 M74,4 Q75,5 76,4 Q75,3 74,4"/></svg>');
+  background-repeat: repeat-x;
+  margin: 20px auto;
+  width: 50%;
+  position: relative;
+}
+
+
+.line-primary {
+  border: none;
+  height: 2px;
+  background: var(--color-primary);
   margin: 20px 0;
 }
 
@@ -185,6 +191,10 @@ p {
   padding: 0 4rem;
 }
 
+.column-margin {
+  font-family: var(--font-secondary);
+}
+
 blockquote {
   font-family: var(--font-secondary);
   border-left: none;
@@ -232,6 +242,8 @@ blockquote br + span {
 }
 
 .poem {
+  font-family: var(--font-secondary);
+  font-size: .95rem;
   border-left: none;
   padding-left: 2em;
   margin-bottom: 1.5rem;

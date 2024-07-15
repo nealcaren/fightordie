@@ -41,6 +41,9 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="../../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="../../../site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="../../../site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="../../../site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -86,7 +89,7 @@ ul.task-list li input[type="checkbox"] {
 <meta name="citation_journal_title" content="The&nbsp;Crisis">
 </head>
 
-<body class="nav-fixed fullcontent">
+<body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -148,9 +151,10 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+    </div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content page-columns page-full" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
@@ -187,7 +191,11 @@ ul.task-list li input[type="checkbox"] {
 <p>The first conference at Joel Spingarn’s beautiful country estate, took place in 1916. And after its few days of frank fellowship there was no adequate reason left for essential differences of opinion between the followers of Booker T. Washington, then just dead, and those younger men who had so vigorously opposed some of his policies.</p>
 <p>The second Amenia conference held at Troutbeck, seventeen years later, had a definite object,—one much more usual in this world, and yet emphasized today both within and without the Negro race because of World War and unemployment. It was an attempt to bring together and into sympathetic understanding, Youth and Age interested in the Negro problem. And more particularly Youth, with a fringe of Age; and not extreme youth. Eliminating four admittedly among the elders, the others ranged in age between twenty-five and thirty-five, with a median age of thirty, that is, they were well out of college and started on their life work, and yet, as the invitations suggested, they were still with inquiring minds and still unsettled as to their main life work.</p>
 <p>These younger conferees may be classed in various ways:</p>
-<p>There were 5 social workers; 5 college professors, 4 Y.W.C.A. workers, 3 teachers, 3 lawyers, 2 artisans, 2 librarians, a physician, a student and a Y.M.C.A. worker.</p>
+
+<div class="no-row-height column-margin column-container"><div class="margin-aside">
+<p><a href="images/3c17806u_enlarge.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="images/3c17806u_enlarge.jpg" class="img-fluid"></a> Participants in the 1933 Amenia Conference.<br>
+Third Row (left to right): Ralph Bunche, Edward P. Lovett, W.E.B. Du Bois, Abram Harris, Charles Houston, Grace Nail Johnson, Roy Wilkins, E. Franklin Frazier, Sterling Brown, Lillian Alexander, Emmett Dorsey, William Pickens, Mary White Ovington, Ira De A. Reid, James Weldon Johnson, and Walter White. Second Row (left to right): Hope Spingarn, Hazel Brown, Juanita Jackson, M. Moran Weston, Wenonah Logan, Joel Spingarn, Elmer A. Carter, Mabel J. Bryde, Frank Wilson, and Marion Cuthbert. Front Row (left to right): Dr.&nbsp;Ernest Alexander, Ruth McGee, Dr.&nbsp;Virginia Alexander, Howard Shaw, Anna Arnold, Sara E. Reid, Pauline Young, Frances Williams, unidentified. Source:<a href="https://www.loc.gov/exhibits/naacp/the-great-depression.html">Library of Congress</a></p>
+</div></div><p>There were 5 social workers; 5 college professors, 4 Y.W.C.A. workers, 3 teachers, 3 lawyers, 2 artisans, 2 librarians, a physician, a student and a Y.M.C.A. worker.</p>
 <p>Representing age (more or less willingly), were 2 editors, a professor and a social worker. All were college graduates except one. There were two Doctors of Philosophy.</p>
 <p>Among the visitors were a distinguished author, a Federal official, a social worker and a physician.</p>
 <p>This, of course, was far from being a cross-section of the group represented. Those present were picked almost haphazard from a list of over 400 names sent to us from all parts of the country. The younger people were, however, very interesting. Among them 3 gave evidence of first-class scholarship, based on thoughtful study and reading; ten were clear-thinkers, able to state their thoughts succinctly and definitely, not at all settled in thought or opinion and frankly aware of the fact, and yet able to contribute to thought. Four were more emotional, not altogether clear in thought, but evidently in earnest and groping. Two were bright but cynical, and the rest were a miscellaneous group, some of whom lacked training and others were merely silent.</p>
@@ -231,7 +239,6 @@ C. Inter-Racial Co-operation</p>
 <div class="clear-wrap">
 
 </div>
-<hr>
 <section id="related-articles" class="level4">
 <h4 class="anchored" data-anchor-id="related-articles">Related Articles:</h4>
 <ul>
@@ -671,6 +678,38 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
+<script>var lightboxQuarto = GLightbox({"loop":false,"closeEffect":"zoom","descPosition":"bottom","selector":".lightbox","openEffect":"zoom"});
+(function() {
+  let previousOnload = window.onload;
+  window.onload = () => {
+    if (previousOnload) {
+      previousOnload();
+    }
+    lightboxQuarto.on('slide_before_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      const href = trigger.getAttribute('href');
+      if (href !== null) {
+        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+        if (imgEl !== null) {
+          const srcAttr = imgEl.getAttribute("src");
+          if (srcAttr && srcAttr.startsWith("data:")) {
+            slideConfig.href = srcAttr;
+          }
+        }
+      } 
+    });
+  
+    lightboxQuarto.on('slide_after_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(slideNode);
+      }
+    });
+  
+  };
+  
+})();
+          </script>
 
 
 
