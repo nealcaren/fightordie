@@ -306,6 +306,10 @@ blockquote br + span {
   white-space: nowrap;
 }
 
+.list-no-markers {
+    list-style-type: none;
+  }
+  
 .clear-wrap {
     clear: both; /* or clear: left/right; depending on your layout */
 }
@@ -313,7 +317,7 @@ blockquote br + span {
 /* Override the bootstrap styles */
 figure {
     display: inline-block; /* Allow text wrapping */
-    margin-block-end: .1rem;
+    margin-block-end: 1rem;
   }
 
   figcaption {
@@ -378,14 +382,31 @@ figure {
     margin-right: 5px;
   }
   
+  #quarto-appendix.default {
+    background-color: var(--color-background);
+    padding-top: 0; 
+    margin-top: 0;
+}
+
+#quarto-appendix.default * [role=doc-endnotes] > ol, #quarto-appendix.default .quarto-appendix-contents > * :not(h2):not(.h2) {
+  font-size: var(--bs-body-font-size);
+  font-family: var(--font-secondary);
+
+}
+
+
   .quarto-appendix-secondary-label {
     display: none;
   }
   #quarto-appendix.default .quarto-appendix-citeas {
     border: none;
-    padding: none;
+    padding-left: 1rem;
+    padding-top: 0;
 }
 
+#quarto-appendix.default .quarto-appendix-heading {
+  font-size: 1.25rem !important
+}
 
 #quarto-appendix.default {
     border-top: none;
