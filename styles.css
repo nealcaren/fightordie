@@ -412,6 +412,54 @@ figure {
     border-top: none;
 }
 
+/* For text flush left and amount flush right*/
+.container {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  max-width: 600px;
+}
+.item {
+  display: flex;
+  justify-content: space-between;
+}
+.description {
+  text-align: left;
+}
+.amount {
+  text-align: right;
+}
+
+.dots {
+  flex-grow: 1;
+  border-bottom: 1px dotted black;
+  margin: 0 5px; /* Increase the margin to add more space between the dots and the text */
+  line-height: 0; /* This reduces the space between the dots and raises them up a bit */
+  transform: translateY(-8px); /* Fine-tune the vertical positioning */
+}
+
+/*Two columns usined in 12/4/two-letters */
+
+.columns-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  width: 100%;
+
+}
+.column {
+  padding: none;
+  max-width: 100%;
+  border: 0;
+  padding: 0;
+}
+
+@media (max-width: 768px) {
+  .container {
+      grid-template-columns: 1fr;
+  }
+}
+
+
   /* Responsive adjustments for caption lists */
   @media (max-width: 768px) {
     .caption-three-list,
