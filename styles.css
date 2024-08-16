@@ -224,13 +224,13 @@ blockquote::before {
   left: -0.35em;
   top: -0.05em;
 }
-
+/*
 blockquote::after {
   content: "\201D";
   right: -0.05em;
   bottom: -0.45em;
 }
-
+*/
 
 blockquote p {
   padding-right: 0;
