@@ -58,13 +58,13 @@ h2 {margin-bottom: 0rem;}
   font-family: var(--font-secondary);
 }
 
-.small-caps {
+.small-caps-title {
   font-variant: small-caps;
   font-weight: 500;
   font-family: var(--font-secondary);
 }
 
-.small-caps-title {
+.small-caps {
   font-variant: small-caps;
 }
 
@@ -432,6 +432,8 @@ figure {
   line-height: 0; /* This reduces the space between the dots and raises them up a bit */
   transform: translateY(-8px); /* Fine-tune the vertical positioning */
 }
+
+
 
 /*Two columns usined in 12/4/two-letters */
 
