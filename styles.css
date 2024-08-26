@@ -163,12 +163,6 @@ p {
   margin-left: 1rem;
 }
 
-/* Clear floats */
-.clearfix::after {
-  content: "";
-  display: table;
-  clear: both;
-}
 
 /* Responsive design */
 @media (max-width: 600px) {
