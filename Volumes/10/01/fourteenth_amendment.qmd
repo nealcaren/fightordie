@@ -30,13 +30,13 @@ _____
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
 
-* [The Republicans (1915)](/Volumes/10/01/the_republicans.html)
+#### Related Articles
+
+* [Southern Representatives (1920)](/Volumes/19/06/southern_representatives.html)
 * [Supreme Court (1914)](/Volumes/09/02/supreme_court.html)
-* [Radicals (1919)](/Volumes/19/02/radicals.html)
-* [The Congressmen and the NAACP (1914)](/Volumes/09/02/congressmen_and_the_naacp.html)
+* [The Republicans (1915)](/Volumes/10/01/the_republicans.html)
 * [Peonage (1927)](/Volumes/34/09/peonage.html)
+* [Civil Rights (1913)](/Volumes/06/04/civil_rights.html)
 
 <!-- Similar articles end here -->

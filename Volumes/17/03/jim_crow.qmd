@@ -1,4 +1,3 @@
-
 ---
 title: 'Jim Crow'
 author:
@@ -43,13 +42,13 @@ Here is a dilemma calling for thought and forbearance. Not every builder of raci
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
 
-* [The Tragedy of ''Jim Crow'' (1923)](/Volumes/26/04/tradgedy_of_jim_crow.html)
+#### Related Articles
+
+* [The Tragedy of 'Jim Crow' (1923)](/Volumes/26/04/tradgedy_of_jim_crow.html)
+* [In Georgia (1920)](/Volumes/20/03/in-georgia.html)
 * [Social Equality (1916)](/Volumes/12/01/social_equality.html)
 * [Correspondence (1926)](/Volumes/31/05/correspondence.html)
-* [Separation (1911)](/Volumes/01/04/separation.html)
-* [Pan-Africa and New Racial Philosophy (1933)](/Volumes/40/11/panafrica_and_new_racial_philosophy.html)
+* [The "Jim Crow" Argument (1913)](/Volumes/05/06/jim_crow_argument.html)
 
 <!-- Similar articles end here -->

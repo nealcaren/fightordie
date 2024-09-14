@@ -59,13 +59,13 @@ of soul we believe it will.
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
+
+#### Related Articles
 
 * [The Church and the Negro (1913)](/Volumes/06/06/church_negro.html)
-* [The Church and Religion (1933)](/Volumes/40/10/church_and_religion.html)
+* [Steal (1920)](/Volumes/20/06/steal.html)
 * [Crime (1918)](/Volumes/15/05/crime.html)
-* [The White Church (1917)](/Volumes/14/01/white_church.html)
+* [The Church and Religion (1933)](/Volumes/40/10/church_and_religion.html)
 * [The Negro Church (1912)](/Volumes/04/01/negro_church.html)
 
 <!-- Similar articles end here -->

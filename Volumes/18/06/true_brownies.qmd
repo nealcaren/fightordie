@@ -28,11 +28,11 @@ The Children's <span class = "small-caps"> Crisis</span> has been published annu
 
 But in the problem of our children we black folk are sorely puzzled. For example, a little girl writes us---we remember her as red-bronze and black-curled, with dancing eyes---"I want to learn more about my race, so I want to begin early. … *I hate the white man just as much as he hates me and probably more!*"
 
-Think of this from twelve little years! And yet, can you blame the child? To the consternation of the Editors of <span class = "small-caps">The Crisis</span> we have had to record some horror in nearly every Children's Number---in 1915, it was Leo Frank; in 1916, the lynching at Gainesville, Fla.; in 1917 and 1918, the riot and court martial at Houston, Tex., etc.
+Think of this from twelve little years! And yet, can you blame the child? To the consternation of the Editors of <span class="crisis-title">The Crisis</span> we have had to record some horror in nearly every Children's Number---in 1915, it was Leo Frank; in 1916, the lynching at Gainesville, Fla.; in 1917 and 1918, the riot and court martial at Houston, Tex., etc.
 
 This was inevitable in our rôle as newspaper---but what effect must it have on our children? To educate them in human hatred is more disastrous to them than to the hated; to seek to raise them in ignorance of their racial identity and peculiar situation is inadvisable---impossible.
 
-There seems but one alternative: We shall publish hereafter not ONE Children's Number a year, but TWELVE! Messrs. Du Bois and Dill will issue in November, in co-operation with <span class = "small-caps">The Crisis</span>, but as an entirely separate publication, a little magazine for children---for all children, but especially for ours, "the Children of the Sun."
+There seems but one alternative: We shall publish hereafter not ONE Children's Number a year, but TWELVE! Messrs. Du Bois and Dill will issue in November, in co-operation with <span class="crisis-title">The Crisis</span>, but as an entirely separate publication, a little magazine for children---for all children, but especially for ours, "the Children of the Sun."
 
 It will be called, naturally, *The Brownies' Book*, and as we have advertised, "It will be a thing of Joy and Beauty, dealing in Happiness, Laughter and Emulation, and designed especially for Kiddies from Six to Sixteen.
 
@@ -55,13 +55,13 @@ Write us in care of *The Brownies' Book*, 2 West Thirteenth Street, New York Cit
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
 
+#### Related Articles
+
+* [Negro Writers (1920)](/Volumes/19/06/negro_writers.html)
+* [Browsing Reader - The American Race Problem (1927)](/Volumes/34/07/browsing_reader.html)
+* [Of Children (1912)](/Volumes/04/06/of_children.html)
+* [A Statement (1919)](/Volumes/19/01/statement.html)
 * [A Little Play (1914)](/Volumes/07/05/a_little_play.html)
-* [Prejudice (1927)](/Volumes/34/09/prejudice.html)
-* [The Name Negro (1928)](/Volumes/35/03/name_negro.html)
-* [The New Crisis (1925)](/Volumes/30/01/new_crisis.html)
-* [Counsels of Despair (1934)](/Volumes/41/06/counsels_of_despair.html)
 
 <!-- Similar articles end here -->

@@ -64,13 +64,13 @@ himself to be "knocked out."
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
+
+#### Related Articles
 
 * [About Pugilists (1921)](/Volumes/22/05/about_pugilists.html)
-* [England, Again (1920)](/Volumes/19/05/england_again.html)
 * [The Third Battle of Bull Run (1912)](/Volumes/04/03/third_battle_of_bull_run.html)
-* [The Reward (1918)](/Volumes/16/05/reward.html)
-* [Ireland (1916)](/Volumes/12/04/ireland.html)
+* [McSwiney (1920)](/Volumes/21/02/mcswiney.html)
+* [Violence (1934)](/Volumes/41/05/violence.html)
+* [England, Again (1920)](/Volumes/19/05/england_again.html)
 
 <!-- Similar articles end here -->

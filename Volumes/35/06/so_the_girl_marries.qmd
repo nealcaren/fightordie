@@ -114,13 +114,13 @@ something extra to an Idea, a Tradition. We who are black and panting up hurried
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
 
+#### Related Articles
+
+* [Correspondence (1926)](/Volumes/31/05/correspondence.html)
 * [Intermarriage (1927)](/Volumes/33/03/intermarriage.html)
-* [Intermarriage (1913)](/Volumes/05/04/intermarriage.html)
+* [Inter-Marriage (1924)](/Volumes/29/06/inter-marriage.html)
 * [It is a Girl (1933)](/Volumes/40/02/its_a_girl.html)
-* [About Marrying (1930)](/Volumes/37/01/about_marrying.html)
-* [Decency (1912)](/Volumes/04/02/decency.html)
+* [Intermarriage (1913)](/Volumes/05/04/intermarriage.html)
 
 <!-- Similar articles end here -->

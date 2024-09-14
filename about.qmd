@@ -12,9 +12,19 @@ In addition to his many other commitments during this period, his writing for <s
 
 Although he published his own articles every year or so, Du Bois's main contribution to the writing of <span class="crisis-title">The Crisis</span> was his editorials. Early editorials in <span class="crisis-title">The Crisis</span> are unsigned, although historians and biographers attribute most to Du Bois, except those appearing under the name of another NAACP official or when it was noted in the pages that Du Bois was traveling during the production of the issues. These usually appeared near the back, after an "Opinion" section composed of extracts from Black newspapers. In 1921, <span class="crisis-title">The Crisis</span> switched from publishing "Editorials" to an "Opinion" column credit to Du Bois, and it was usually the first section in each issue. Finally, in the late 1920s, his section was renamed "Postscript" and moved to the back pages.
 
+
+<figure class="left" style="width: 40%;">
+![](/Images/silent_parade.jpg "Underwood & Underwood. W.E.B. Du Bois marching on Fifth Avenue, July 29, 1917 in anti-lynching parade, July 28, 1917. W.E.B. Du Bois Papers (MS 312). Special Collections and University Archives, University of Massachusetts Amherst Libraries"){width=100% .right}
+  <figcaption>
+     W.E.B. Du Bois marching on 5th Ave. in the NAACP's anti-lynching parade, July 29, 1917
+  </figcaption>
+</figure>
+
+
+
 As one of the major goals of the journal was to document white racism, Du Bois did not shy away from printing offensive language and images of racial violence that were designed to shock and disgust readers. They remain shocking and disgusting 100 years on.
 
-![](/Images/silent_parade.jpg "Underwood & Underwood. W.E.B. Du Bois marching on Fifth Avenue, July 29, 1917 in anti-lynching parade, July 28, 1917. W.E.B. Du Bois Papers (MS 312). Special Collections and University Archives, University of Massachusetts Amherst Libraries"){width=40%}
+
 The title of this volume, *Dare Your Fight?*, comes from a 1914 [editorial *Join or Die*](Volumes/07/03/fightordie.html), which provides a rationale for the journal and an emotional plea to support it and the NAACP:
 
 > <span class="crisis-title">The Crisis</span> entertains and informs its readers for the one object and the sole object of arousing their fighting blood. <span class="crisis-title">The Crisis</span> means fight and fight for Right.

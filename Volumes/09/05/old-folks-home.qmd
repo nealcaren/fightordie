@@ -31,13 +31,13 @@ This article refers primarily to the Home for Aged Colored People in Cleveland, 
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
+
+#### Related Articles
 
 * [White Charity (1922)](/Volumes/24/02/whitecharity.html)
 * [Tenements (1916)](/Volumes/12/02/tenements.html)
 * [Muddle (1914)](/Volumes/08/04/muddle.html)
 * [Philanthropy and Self Help (1918)](/Volumes/16/03/philanthropy_and_self_help.html)
-* [Homes (1912)](/Volumes/03/05/homes.html)
+* [Death Rates (1927)](/Volumes/34/08/death_rates.html)
 
 <!-- Similar articles end here -->

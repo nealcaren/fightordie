@@ -24,7 +24,7 @@ format:
 
 
 
-<span class = "small-caps">The Crisis</span> has continually insisted that peonage, false arrest and
+<span class="crisis-title">The Crisis</span> has continually insisted that peonage, false arrest and
 injustice in the Southern courts were responsible for the mass of
 so-called Negro crime. The testimony to this comes continually from
 white Southerners themselves. In nearly every Southern State this has
@@ -43,13 +43,13 @@ Negroes, but *members of a more resentful race, anarchism would be prevalent.*
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
+
+#### Related Articles
 
 * [Scottsboro (1933)](/Volumes/40/05/scottsboro.html)
 * [Deception (1916)](/Volumes/12/02/deception.html)
 * [Signs from the South (1919)](/Volumes/18/05/signs_from_south.html)
 * [Courts and Jails (1932)](/Volumes/39/04/courts_and_jails.html)
-* [Slavery (1922)](/Volumes/24/01/slavery.html)
+* [Lynchings (1932)](/Volumes/39/02/lynchings.html)
 
 <!-- Similar articles end here -->

@@ -29,13 +29,13 @@ ______
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
 
-* [Inter-Racial Comity (1922)](/Volumes/22/01/inter-racial_comity.html)
+#### Related Articles
+
+* [Our Special Grievances (1918)](/Volumes/16/05/our_special_greivances.html)
+* [N.A.A.C.P. and Xmas (1922)](/Volumes/23/03/naacp-and-xmas.html)
 * [The Congressmen and the NAACP (1914)](/Volumes/09/02/congressmen_and_the_naacp.html)
-* [Radicals (1919)](/Volumes/19/02/radicals.html)
-* [The Next Step (1913)](/Volumes/06/02/next_step.html)
-* [A Statement (1919)](/Volumes/19/01/statement.html)
+* [The Black Man and the Unions (1918)](/Volumes/15/05/the_black_man_and_the_unions.html)
+* [Inter-Racial Comity (1922)](/Volumes/22/01/inter-racial_comity.html)
 
 <!-- Similar articles end here -->

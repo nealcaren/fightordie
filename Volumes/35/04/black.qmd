@@ -43,13 +43,13 @@ Whereat in great joy I celebrated another birthday and drew plans. And from its 
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
 
+#### Related Articles
+
+* [Easter-Emancipation 1863-1913 (1913)](/Volumes/05/06/easter-emancipation.html)
 * [Brothers, Come North (1920)](/Volumes/19/03/brothers_come_north.html)
+* [The Shadow of Years (1918)](/Volumes/15/04/shadow_of_years.html)
+* [The Migration of Negroes (1917)](/Volumes/14/02/migration_of_negroes.html)
 * [Light (1912)](/Volumes/03/04/light.html)
-* [The Newer South (1926)](/Volumes/31/04/newer_south.html)
-* [Fall Books (1924)](/Volumes/29/01/fall_books.html)
-* [My Mission (1919)](/Volumes/18/01/my_mission.html)
 
 <!-- Similar articles end here -->

@@ -1,4 +1,3 @@
-
 ---
 title: 'Joseph Pulitzer'
 author:
@@ -27,52 +26,52 @@ format:
 [The blind editor of the New York World died October 29, 1911, murmuring in German, "Leise, ganz leise!" His paper always treated  black folk fairly, in market contrast to most New York dailies.]
 
 <div class="poem">
-<p class = "verse">Softly, quite softly&mdash;
-<p class = "verse">For I hear, above the murmur of the sea,
-<p class = "verse">Faint and far-fallen footsteps, as of One
-<p class = "verse">Who comes from out beyond the endless ends of Time,
-<p class = "verse">With voice that downwar d looms thro' singing stars;
-<p class = "verse">Its subtle sound I see thro' these long-darkened eyes,
-<p class = "verse">I hear the Light He bringeth on his hands&mdash;
-<p class = "verse">Almight  Death! Softly, oh, softly, lest he pass me by,
-<p class = "verse">And that unquivering Light toward which my longing soul
-<p class = "verse">And tortured body through these years have writhed,
-<p class = "verse">Fade to the dun darkness of my days.
+<p class = "verse">Softly, quite softly&mdash;</p>
+<p class = "verse">For I hear, above the murmur of the sea,</p>
+<p class = "verse">Faint and far-fallen footsteps, as of One</p>
+<p class = "verse">Who comes from out beyond the endless ends of Time,</p>
+<p class = "verse">With voice that downwar d looms thro' singing stars;</p>
+<p class = "verse">Its subtle sound I see thro' these long-darkened eyes,</p>
+<p class = "verse">I hear the Light He bringeth on his hands&mdash;</p>
+<p class = "verse">Almight  Death! Softly, oh, softly, lest he pass me by,</p>
+<p class = "verse">And that unquivering Light toward which my longing soul</p>
+<p class = "verse">And tortured body through these years have writhed,</p>
+<p class = "verse">Fade to the dun darkness of my days.</p>
 </div>
 
 <div class="poem">
-<p class = "verse">Softly, full softly, let me rise and greet
-<p class = "verse">The strong, low luting of that long - awaited call;
-<p class = "verse">Swiftly be all my good and going gone,
-<p class = "verse">And this vast veiled and vanquished vigor of my soul
-<p class = "verse">Seek somehow otherwhere its rest and goal,
-<p class = "verse">Where endless spaces stretch,
-<p class = "verse">Where endless time doth moan,
-<p class = "verse">Where endless light doth pour
-<p class = "verse">Thro' the black kingdoms of eternal death.
+<p class = "verse">Softly, full softly, let me rise and greet</p>
+<p class = "verse">The strong, low luting of that long - awaited call;</p>
+<p class = "verse">Swiftly be all my good and going gone,</p>
+<p class = "verse">And this vast veiled and vanquished vigor of my soul</p>
+<p class = "verse">Seek somehow otherwhere its rest and goal,</p>
+<p class = "verse">Where endless spaces stretch,</p>
+<p class = "verse">Where endless time doth moan,</p>
+<p class = "verse">Where endless light doth pour</p>
+<p class = "verse">Thro' the black kingdoms of eternal death.</p>
 </div>
 
 <div class="poem">
-<p class = "verse">Then haply I may see what things I have not seen,
-<p class = "verse">Then I may know what things I have not known;
-<p class = "verse">Then may I do my dreams!
-<p class = "verse">Farewell! No sound of idle mourning let there be
-<p class = "verse">To shudder this full silence&mdash;save the voice
-<p class = "verse">Of children&mdash;little children, white and black,
-<p class = "verse">Whispering the deeds I tried to do for them;
-<p class = "verse">While I at last unguided and alone
-<p class = "verse">Pass&mdash;softly, full softly.
+<p class = "verse">Then haply I may see what things I have not seen,</p>
+<p class = "verse">Then I may know what things I have not known;</p>
+<p class = "verse">Then may I do my dreams!</p>
+<p class = "verse">Farewell! No sound of idle mourning let there be</p>
+<p class = "verse">To shudder this full silence&mdash;save the voice</p>
+<p class = "verse">Of children&mdash;little children, white and black,</p>
+<p class = "verse">Whispering the deeds I tried to do for them;</p>
+<p class = "verse">While I at last unguided and alone</p>
+<p class = "verse">Pass&mdash;softly, full softly.</p>
 </div>
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
+
+#### Related Articles
 
 * [The Burden of Black Women (1914)](/Volumes/09/01/burden_of_black_women.html)
-* [In God''s Gardens (1912)](/Volumes/03/06/in-gods-gardens.html)
-* [Easter-Emancipation 1863-1913 (1913)](/Volumes/05/06/easter-emancipation.html)
+* [Curtains of Pain (1917)](/Volumes/13/04/curtains_of_pain.html)
+* [Chamounix (1921)](/Volumes/23/02/chamounix.html)
+* [Unrest (1920)](/Volumes/19/05/unrest.html)
 * [The Song of the Smoke (1914)](/Volumes/07/03/song_of_smoke.html)
-* [The Christmas Prayers of God (1914)](/Volumes/09/02/christmas_prayers_of_god.html)
 
 <!-- Similar articles end here -->

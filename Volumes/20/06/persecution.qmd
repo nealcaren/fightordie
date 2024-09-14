@@ -1,0 +1,49 @@
+---
+title: 'Persecution'
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
+date: Apr. 1920
+categories: 
+  - ""
+citation: 
+  type: article-journal
+  container-title: The Crisis
+  volume: 20
+  issue: 6
+  page: 262-263
+google-scholar: true
+
+format:
+  html:
+    toc: false
+    appendix-cite-as: display
+---
+
+## Persecution
+
+<span class="crisis-title">The Crisis</span> has said nothing concerning the extraordinary persecution of Roscoe Conkling Bruce in Washington. No one can accuse <span class="crisis-title">The Crisis</span> of being partisan to Mr. Bruce, because it has at times frankly disagreed with him and his policies. But the situation in Washington has gone far beyond all personal consideration and has become a national disgrace---a feud which is doing much to discredit us as a civilized group.
+
+Washington is, because of its political relation to the nation and its own disfranchisement, a city of gossip, full of rumor and incipient hysteria on all subjects, from the president's health to the visitor next door. When, some years ago, the Moens matter arose it was amplified into an attack on all colored teachers. When absolute proof was adduced that the teachers were not involved at all, save in one very doubtful case, suddenly the whole attack veered and like a bolt from the blue hit the colored Superintendent of Public Schools, Mr. Bruce. For two long years Mr. Bruce has been openly accused of nearly every crime in the calendar. He has been flatly insulted, his office picketed and his life made utterly miserable. Mass-meeting has followed mass-meeting and protest has crowded on protest with the one cry: Remove Bruce!
+
+We who stood without, looking on in puzzled amazement, held our comment waiting for the facts. We expected, we feared, a most damning series of revelations, for how else could the hysteria be explained? But public hearings have been held, public speeches made, public accusations printed and in each case Mr. Bruce has conducted himself like a gentleman, with rare poise and perfect courtesy. He has answered his accusers thoughtfully and clearly, and has twice or three times been openly vindicated by judicial bodies which would seem to have had no bias in his favor. Every chance has been given his accusers, and the net sum of the accusations, as far as we can see, amounts to some question here and there as to judgment in planning, courage in policy, determination in action; but there was revealed nothing low, nor criminal nor disgraceful.
+
+One may easily agree that a differently trained man of quick decision, bold generalship and wide vision could have done far more for Washington colored schools than Mr. Bruce. But the same is true of the white schools, and how long would such a man have held his job? When Senator Blank asks this appointment, or Senator Slick opposes this action, what is a Washington official to do? He may be stubborn and follow Chancellor, or be diplomatic and remain. Bruce was diplomatic. So in other matters was Booker Washington and so today is Lloyd George.
+
+We may disagree with them. We may oppose their policy. We may desire them replaced. But all this is a matter of judgment or ordered, reasonable attack. It does not justify an orgy of abuse and absolutely unbridled and viciously cruel persecution. It is one thing to say that Mr. Bruce has not done as well as another might have done; it is quite another thing to call him an unprincipled scoundrel.
+
+Mr. Bruce's opponents have not proven their case. On the contrary, they have raised him high in the respect of disinterested outsiders. Any man who has survived the persecution to which he has been subjected is no ordinary human being. It is high time, and far past that hour, for colored Washington to turn its energies toward its outer foes and cease this internal and objectless row which has every earmark of personal hate and spiteful malice and which is already being used by our enemies against us.
+
+<!-- Similar articles start here -->
+<div  class="clear-wrap"></div>
+
+#### Related Articles
+
+* [A Statement (1919)](/Volumes/19/01/statement.html)
+* [N.A.A.C.P. (1910)](/Volumes/01/02/NAACP.html)
+* [Segregation (1928)](/Volumes/35/12/segregation.html)
+* [The Liberal South (1921)](/Volumes/21/06/liberal-south.html)
+* [The Congressmen and the NAACP (1914)](/Volumes/09/02/congressmen_and_the_naacp.html)
+
+<!-- Similar articles end here -->

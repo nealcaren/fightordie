@@ -5,7 +5,7 @@ author:
   - name:
       given: W.E.B.
       family: Du Bois
-date: May 1920
+date: November 1920
 categories: 
   - ""
 citation: 
@@ -39,13 +39,13 @@ Think of it! If the black race at any time or place comes to excel the whites, t
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
 
-* [Social Equality (1916)](/Volumes/12/01/social_equality.html)
-* [''Social Equality'' (1911)](/Volumes/03/01/social_equality.html)
+#### Related Articles
+
+* [In Georgia (1920)](/Volumes/20/03/in-georgia.html)
 * [Light (1912)](/Volumes/03/04/light.html)
+* [Social Equality (1916)](/Volumes/12/01/social_equality.html)
+* ['Social Equality' (1911)](/Volumes/03/01/social_equality.html)
 * [Tillman (1918)](/Volumes/16/04/tillman.html)
-* [''Social Equality'' (1911)](/Volumes/01/03/social_equality.html)
 
 <!-- Similar articles end here -->

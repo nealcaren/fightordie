@@ -85,13 +85,13 @@ Notwithstanding this criticism, we thank the Phelps Stokes Fund for its work, an
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
 
-* [Negro Education (1918)](/Volumes/15/04/negro_education.html)
-* [Woofterism (1931)](/Volumes/38/03/woofterism.html)
-* [Our Rate of Increase (1933)](/Volumes/40/02/our_rate_of_increase.html)
+#### Related Articles
+
 * [Investments (1921)](/Volumes/22/05/investments.html)
-* [The Cost of Education (1911)](/Volumes/03/02/cost_of_education.html)
+* [Negro Education (1918)](/Volumes/15/04/negro_education.html)
+* [Education (1930)](/Volumes/37/02/education.html)
+* [Woofterism (1931)](/Volumes/38/03/woofterism.html)
+* [Thrift (1921)](/Volumes/21/03/thrift.html)
 
 <!-- Similar articles end here -->

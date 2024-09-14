@@ -1,0 +1,115 @@
+---
+title: 'Sketches from Abroad'
+subtitle: 'Le Grand Voyage'
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
+date: March 1924
+categories: 
+  - ""
+citation: 
+  type: article-journal
+  container-title: The Crisis
+  volume: 27
+  issue: 5
+  page: 203-295
+google-scholar: true
+
+format:
+  html:
+    toc: false
+    appendix-cite-as: display
+---
+
+I have taken many journeys but this is the greatest. I have seen all the states of the American Empire and something of the Western Indies. I have seen England and France many times---all parts of Germany and something of Austria, Switzerland and Italy.
+
+But all this (save Armenia) was white, kindly on the whole---intensely interesting, but painfully white. Today I am drifting toward darkness. I have seen the skin grow sallow and the eyes darken and hair quiver, in southern France, in Spain, in Portugal, in the Canary Isles; and now I set my face toward Africa---the Eternal World of Black Folk.
+
+<hr>
+
+There is a snow capped peak that sits in the seas. With grey mantilla about its silvered hair Teneriffe frowns on the Canaries and the Canaries smile on the waters, the waters love Africa and Africa frowns on God.
+
+A long way---a long, long way have I come to this gate of the darkest world.
+
+<hr>
+
+I was in England at the beginning of that singular election campaign which astonished Europe and in the end revealed the bankruptcy of traditional England. It was a cold, wet England with here and there the white sunshine of promise. It was an England on the farewell evening of the Imperial Conference. No black men were there, but brown men sat and spoke and were listened to. England fears India. Only Smuts replied. Smuts, that curious, provincial mind---German in sympathy, suspicious of France and its black armies, liberal toward all white folk but hating “niggers” and fearing East Indians. He is today the greatest leader in the British Empire. In this atmosphere Pan Africa sat and whispered. But some few listened.
+
+<hr>
+
+I was in France when the first signs came that the hegemony of future mid-European industry, with all its inherent political power, had passed from Germany to France, with England helplessly and jealously watching. The capitalists of the Ruhr, German and French, are agreed. The world will pay. And yet there is one vast beacon of light---France is depending for her hegemony of Europe on Africa. If the rest of Europe wishes to meet her racial bid, they too must make peace---industrial and racial peace---with Africa.
+
+At St. Etienne the most popular man in town---the head of the French and Foreign Club, the chief sportsman, the guest of a hundred hosts, and the welcomed of all business men---is one of us---Hunt, the only American Consul of Negro descent in Europe. The State Department is worried over Hunt. He deserves promotion and they dare not promote him.
+
+Suddenly leaving all this weary world of politics and industry I plunged headlong into fairyland. I am riding down the Rhone. I see the seen and the unseen. The unseen drama of a thousand years and yet nine hundred more. The Allobroges---the Dukes of Burgundy---the Kings of France, shining in the sun and river, the banks rising to mountain heights to westward, the fields and cities, eastward. The colors are pale cream, grey, pale reds, above the blues and greens and browns. The towns are solid, stolid, almost grim, with poplars sternly at attention and vines and tile and wall and tower. Yet there is a kindliness and sweetness in the air---a sense of hearth and home amid factory and swift commerce---the long black steamers, the fruit trees, the pale high hills. The scene stretches into wide plateaus before the dream-far mountains. Then comes a great shoulder of naked rock, a towered town of cream and crimson, sun fields, a mauve and white chateau in trees, the ribbon of river and its poplars; suddenly a gray town with ruined castle on the skies, a river blazing in the sun. From a hill to the right the ghost of the twelfth century stares stonily down upon us. Valence, town of the Gauls, which knew Roman, Visigoth, Lombard and Moor. Upon the right walls that in centuries gone rang with the laughter of the Lady of Poitiers---naughty, beautiful, dead Diana; fair, false and fortunate, are ruins eternal above the waters of the Rhone. To the left a quiet town with one arm clasped lovingly about a hill and the other flung above the river rampart. Opposite the dream of cloudy mountains and vines, yonder a town embroidering a hillside, a solemn cypress here and there and a touch of gay color on roof and door proclaim the coming of the azure coast. Out of earth and mountain leaps on before us another town pale gray and cream, petite and beautiful with light. I see a flying buttress, the towers of a Byzantium church dominating the town and then in applause rock and boulder, rough and hard and grim. On the other side in blue and grayish purple a mighty tower and wall and city with what wonder of past hate and love and war! The ruins of a dead chateau guarding a little golden street; a lonely town of clustered grey crouching on the earth as if a part of it---with wealth of rolling tiles.
+
+Then darkness came down, came down quickly at four and enveloped the widening plane---fell on the tower of Avignon and on the bridge where *tout le monde y danse en ronde*. On to Arles and Mistral and his song “Have you been to Carcassonne?” But in the soft darkness my soul, free, ranged all Provence and its sweet and unseen beauty.
+
+<hr>
+
+Avignon was shadow and dying day---the shadow of the Palace of the Shadow of the Popes somewhere down between me and the bridge.
+
+<hr>
+
+So in the darkness we came down to where Marseilles beneath the moon shone like a jewel in a jewelled sea.
+
+Oh but it rained in Marseilles! The waters spilled themselves across the city and under and over it all my one day and yet could not quench it, could not quite spare its laughter and charm, its satisfied provincial large-town air. The little "Cannebière" was gay and crowded and wet. The bouillabaisse at What's-his-name's (everybody knows him) was expensive and bad, but the great yellow castles that guard the mighty harbor and the little winding sinister streets where folk pass sideways to the seas---they were all there and they are Marseilles.
+
+
+## II
+
+I have been to Carcassonne. I have seen the city, sitting like a tale that is told above the earth, a great grey dim and towered thing amid a universe of purple, yellow, brown and green---a far-flung violet heaven on earth, a clustering church-quartered town. On the plain march the great figures of France, while yonder the Pyrenees snow-crowned look on. I have seen the sun die on the ramparts of Carcassonne and as it died the Pyrenees lived. They raised a song that swelled from Marseilles to Barcelona and from earth right up to the blue gold of Heaven. But the earth empurpled died and sank and smoked a thousand candles and cried a thousand wordless tales. The air was like rare wine---the earth beautiful for a lover, the sky fleeced and gilded silver and purple.
+
+The sun falls. Smoke threads up from the nests of tiles. Goats cry, a mist, mysterious, sweeps the purply air and on the ramparts I stand and peer.
+
+As night rose the sky was green and black and gold above the black ramparts fading to white and blue, while afar the grim teeth of the Pyrenees grated on Heaven.
+
+I rose in the night to see what the moon could do to all this. It dripped but shadows on the scene.
+
+Then came the drab cold morning of disillusion. After all this grey rock stained with blood and tears was but an old machine of murder, of desperate defense against desperate men. Its ever winding streets were alleys where hid poverty and filth. About the ramparts without filth still lay and within in inn and guide lurked bold extortion. And yet Carcassonne rose above all triumphant in its crumpled beauty, its sheer and pregnant human appeal---its hoarse voice of seven hundred years, with ghosts of three hundred more. In the tournament range, facing the court of Honor, there are telephone wires.
+
+Sun and cloud, Mediterranean and Pyrenees, yellowing vines and sheep. The vines have leaves like flowers and the purple sea mirrors old castellated towers in yellow and red beneath the black forbidding Pyrenees.
+
+The Pyrenees romp with heaven, play with earth cloud and sun until together they make superb lace work.
+
+Black cedars, two towers of castled keeps, gold trees, grey walls, white roads and vines and vines.
+
+<hr>
+
+Barcelona is a great city thrusting herself outside her swaddling clothes with an effort which rends her body and soul. Great avenues are shouldering aside and threading tiny, winding Old World streets and building new blocks scornful of span with rounded corners and great inner courts. One has a feeling of strident wealth and deep hidden misery, but one cannot tell. A few things I shall remember:---that great cathedral of gloom at Barcelona with the lovely loneliness of its high windows, the fearsome shadow of the grave of its crypt and its singularly beautiful cloisters. The church was a sort of monumental darkness thrown against the gayety of the Rampas.
+
+Then came a serious and savage Spain---bare nests of mountains with yellow towns creeping close to the earth.
+
+<hr>
+
+Always and everywhere there is going on a subtle change. My brown face attracts no attention. I am darker than my neighbors but they are dark. I become, quite to my own surprise, simply a man. I cease to be specially selected for attention either elaborately pleasant or ostentatiously contemptible. Forgetting myself I study others. I feel relieved.
+
+<hr>
+
+Madrid is disappointing. It is artificial. Its ancient soul and body have been cut away and there remain the empty Prado, the wide and ghostly park, the ranging avenues and the empty countryside. It is a city set upon a hill, but the edges of the hill are guarded from the curious. And yet I may be wrong. After all I stayed but a day at Madrid and I saw Goya writhing in oil and Goya was more than Madrid.
+
+<hr>
+
+Lisbon is a lovely city, rising in great swelling of hills, deep creams and crimson above the sea and the calm Tagus. It is a provincial city---a city of one street and the Rocio, but a city that is happy and knows its citizens by name and is sorry for the rest of Europe. I like Lisbon. It was kind and more than hospitable. I went to the Colliseum and sat by the ringside. My neighbor explained matters carefully in polite French. He accepted a cigarette and commended its flavor. At the end he raised his hat and bowed and bade me a very good night. Imagine him in the Hippodrome, New York! He would have shouldered me warily and explained on the other side the ubiquity of "damn niggers"!
+
+<hr>
+
+Sunset at Funchal in Madeira. The little roar of the little town is softened by the mouth of bells and the curled new moon kisses the electric stars. Above glow the mountains with veils across their misty shoulders---bells, rain and blue sky, green and white homes and the soft laughter of dark eyes---Funchal. With a great circling rainbow day dies. At dawn the fingers of God touch the hills above and they glow with green and gold.
+
+<hr>
+
+The ship is black and white and red. It sails tomorrow and when my feet again touch earth---the earth will be Africa.
+
+<!-- Similar articles start here -->
+<div  class="clear-wrap"></div>
+
+#### Related Articles
+
+* [World War and the Color Line (1914)](/Volumes/09/01/worldwar.html)
+* [Travel (1926)](/Volumes/33/02/travel.html)
+* [Pan-Africa and New Racial Philosophy (1933)](/Volumes/40/11/panafrica_and_new_racial_philosophy.html)
+* [My Mission (1919)](/Volumes/18/01/my_mission.html)
+* [Helping Africa (1924)](/Volumes/28/03/helping_africa.html)
+
+<!-- Similar articles end here -->

@@ -97,13 +97,13 @@ insult to injury.
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
 
-* [Suffering Suffragettes (1912)](/Volumes/04/02/suffering_suffragettes.html)
+#### Related Articles
+
 * [Our Special Grievances (1918)](/Volumes/16/05/our_special_greivances.html)
-* [Other Organizations (1915)](/Volumes/10/05/other_organizations.html)
-* [The Next Step (1913)](/Volumes/06/02/next_step.html)
+* [Suffering Suffragettes (1912)](/Volumes/04/02/suffering_suffragettes.html)
 * [White Co-Workers (1920)](/Volumes/20/01/white_coworkers.html)
+* [The Next Step (1913)](/Volumes/06/02/next_step.html)
+* [A Question (1920)](/Volumes/20/03/a-question.html)
 
 <!-- Similar articles end here -->

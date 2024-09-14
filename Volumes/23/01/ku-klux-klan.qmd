@@ -1,0 +1,40 @@
+---
+title: 'Ku Klux Klan'
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
+date: November 1921
+categories: 
+  - ""
+citation: 
+  type: article-journal
+  container-title: The Crisis
+  volume: 23
+  issue: 1
+  page: 10-11
+google-scholar: true
+
+format:
+  html:
+    toc: false
+    appendix-cite-as: display
+---
+
+
+The white knights are on the run. Their flowing robes no longer present the dignified appearance made familiar to millions of Americans by "The Birth of a Nation." Instead they stream in ridiculous tatters. Since the New York *World* has described the mischievous and dangerous plans plotted behind their masks their power is ended. We have learned a great deal about their Grand Wizard and their Kleagles and we know now that the Klan is a money-making affair selling stock based on race prejudice.
+
+Congratulations to the New York *World* for its wonderful exposure. The part that the Association took in the exposure, the assistance that it was able to give, is told in this number under National Association notes.
+
+<!-- Similar articles start here -->
+<div  class="clear-wrap"></div>
+
+#### Related Articles
+
+* [K.K.K. (1922)](/Volumes/25/01/kkk.html)
+* [Libelous Film (1921)](/Volumes/22/03/libelous_film.html)
+* [Social Equality (1928)](/Volumes/35/02/social_equality.html)
+* [Crime (1926)](/Volumes/32/01/crime.html)
+* [The N.A.A.C.P. and Race Segregation (1934)](/Volumes/41/02/naacp_and_race_segregation.html)
+
+<!-- Similar articles end here -->

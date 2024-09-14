@@ -44,13 +44,13 @@ As to whether, beyond Mr. Wilson's personal efforts, the Democratic party is pre
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
+
+#### Related Articles
 
 * [Mr. Taft (1911)](/Volumes/02/06/taft.html)
-* [Mr. Roosevelt (1912)](/Volumes/04/05/mr_roosevelt.html)
 * [The Election (1910)](/Volumes/01/02/election.html)
 * [An Open Letter to Woodrow Wilson (1913)](/Volumes/05/05/open_letter.html)
-* [Roosevelt (1917)](/Volumes/14/04/roosevelt.html)
+* [Mr. Roosevelt (1912)](/Volumes/04/05/mr_roosevelt.html)
+* [The Presidential Campaign (1916)](/Volumes/12/06/presidential_campaign.html)
 
 <!-- Similar articles end here -->

@@ -1,0 +1,37 @@
+---
+title: 'Coöperation'
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
+date: January 1922
+categories: 
+  - ""
+citation: 
+  type: article-journal
+  container-title: The Crisis
+  volume: 23
+  issue: 3
+  page: 107
+google-scholar: true
+
+format:
+  html:
+    toc: false
+    appendix-cite-as: display
+---
+
+For several years we have sought to interest the colored people of the United States in coöperative business and we have had some beginnings of success. But coöperation among us suffers just as it does among the whites: not everything is "coöperative" that is called coöperative and the first desire of rascals is to call some scheme of doubtful validity "coöperative" so as to attract the pennies of the masses. Recently we have been told that the "Coöperative Society of America" has made a gigantic failure, and this must have scared and warned many colored people. But it is to be hoped that their fear was not misplaced, for the so called "Coöperative Society of America" was not coöperative at all, but was a gigantic fraud. Meantime, the genuine coöperative movement is not only sound but successful. In the State of Illinois, where the fraudulent society failed, there are 200 successful coöperative societies. In Pennsylvania there are 200 coöperative stores in the mining regions, and throughout Europe the coöperative movement is the only economic movement that has successfully withstood the war.
+
+<!-- Similar articles start here -->
+<div  class="clear-wrap"></div>
+
+#### Related Articles
+
+* [The Strength of Segregation (1913)](/Volumes/07/03/strength_of_segregation.html)
+* [White Co-Workers (1920)](/Volumes/20/01/white_coworkers.html)
+* [Coöperation (1920)](/Volumes/19/04/cooperation.html)
+* [Does Organization Pay? (1914)](/Volumes/07/06/does_organization_pay.html)
+* [Progress (1920)](/Volumes/21/01/progress.html)
+
+<!-- Similar articles end here -->

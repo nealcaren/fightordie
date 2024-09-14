@@ -39,13 +39,13 @@ _____
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
 
+#### Related Articles
+
+* [Optimism (1927)](/Volumes/33/04/optimism.html)
 * [The Immediate Program of the  American Negro (1915)](/Volumes/09/06/immediate_program.html)
-* [A Statement (1919)](/Volumes/19/01/statement.html)
 * [Counsels of Despair (1934)](/Volumes/41/06/counsels_of_despair.html)
-* [The Strength of Segregation (1913)](/Volumes/07/03/strength_of_segregation.html)
-* [Fraud and Imitation (1912)](/Volumes/04/03/fraud_and_imitation.html)
+* [Votes for Negroes (1921)](/Volumes/21/03/votes-for-negroes.html)
+* [A Statement (1919)](/Volumes/19/01/statement.html)
 
 <!-- Similar articles end here -->

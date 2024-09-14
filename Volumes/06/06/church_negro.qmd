@@ -90,13 +90,13 @@ they would like to be treated if they themselves were colored?
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
+
+#### Related Articles
 
 * [The Church (1916)](/Volumes/11/06/church.html)
 * [Crime (1918)](/Volumes/15/05/crime.html)
+* [Steal (1920)](/Volumes/20/06/steal.html)
 * [The White Church (1917)](/Volumes/14/01/white_church.html)
 * [Discrimination (1911)](/Volumes/02/03/discrimination.html)
-* [Courts and Jails (1932)](/Volumes/39/04/courts_and_jails.html)
 
 <!-- Similar articles end here -->

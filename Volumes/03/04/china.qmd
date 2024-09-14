@@ -32,13 +32,13 @@ Soberly, is not the world face to face with an enlarged, broadened, endless "rac
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
+
+#### Related Articles
 
 * [Listen, Japan and China (1933)](/Volumes/40/01/listen_japan_and_china.html)
-* [Hopkinsville, Chicago and Idlewild (1921)](/Volumes/22/04/hopkinsville.html)
-* [India (1930)](/Volumes/37/08/india.html)
+* [The World and Us (1921)](/Volumes/23/04/world-and-us.html)
 * [Peace (1933)](/Volumes/40/12/peace.html)
-* [Flaming Arrows (1919)](/Volumes/17/01/flaming_arrows.html)
+* [To The World (1921)](/Volumes/23/01/to_the_world.html)
+* [Hopkinsville, Chicago and Idlewild (1921)](/Volumes/22/04/hopkinsville.html)
 
 <!-- Similar articles end here -->

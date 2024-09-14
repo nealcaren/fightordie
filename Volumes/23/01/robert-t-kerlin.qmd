@@ -1,0 +1,43 @@
+---
+title: 'Robert T. Kerlin'
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
+date: November 1921
+categories: 
+  - ""
+citation: 
+  type: article-journal
+  container-title: The Crisis
+  volume: 23
+  issue: 1
+  page: 10
+google-scholar: true
+
+format:
+  html:
+    toc: false
+    appendix-cite-as: display
+---
+
+Readers of <span class="crisis-title">The Crisis</span> will remember the appearance a year ago of a compilation of Negro opinion gathered in a volume entitled "The Voice of the Negro." Here for the first time we had a book bringing to the white as well as the colored reader the Negro's criticism, through his own press, of America's treatment of him and his race. The book contained an interesting preface by its compiler, Prof. Robert T. Kerlin, professor of English at Virginia Military Institute, Lexington, Va. Prof. Kerlin followed this by a pamphlet on "Contemporary Negro Poetry." He might have continued his literary efforts undisturbed; but the immediate wrongs of the Negro pressed upon him, and when he read of the condemnation to death of the six Negroes in Arkansas concerned in the Elaine riots, he used his splendid command of English to publish an open letter to Thomas C. McRae, Governor of Arkansas, entreating the Governor to give earnest consideration to the sentence of the courts pronounced upon these Negroes. "Not in the history of our Republic," Prof. Kerlin said, "has a more tremendous responsibility before God and the civilized world devolved upon the shoulders of the chief executive of any State than has devolved upon yours *in re* the Negroes of Phillips County condemned to death in the electric chair and so sentenced by the courts of your State. It is a deed to be contemplated with extreme horror. In the execution of these men, a race is suffering crucifixion."
+
+In his letter, Prof. Kerlin explains the iniquities of the peonage system and the travesty of trial given the Elaine Negroes. The letter received much publicity and was so resented by the Board of the Virginia Military Institute that Prof. Kerlin's resignation was called for. Refusing to resign, he was thereupon dismissed by the Board, which stated that "he had rendered his further connection with the Virginia Military Institute undesirable."
+
+We cannot express too deeply our appreciation of Prof. Kerlin's course in sending his letter to the Governor of Arkansas, and in standing unswervingly by his convictions in his dealings with his Board. Virginia Military Institute, designed to promote courage and ardor in youth, has dismissed from its force a man displaying the finest courage the Institute is ever likely to see.
+
+Only through self-criticism can an individual or a nation progress. The South steadily suppresses self-criticism and thus yearly retrogrades showing itself more and more and more sterile. It cannot suppress a man like Mr. Kerlin, but judging from its past acts, with the Ku Klux spirit, it will drive him beyond its borders. Perhaps more than any other section of the world, the South refuses to listen to the voice that cries in the wilderness.
+
+<!-- Similar articles start here -->
+<div  class="clear-wrap"></div>
+
+#### Related Articles
+
+* [Negro Writers (1920)](/Volumes/19/06/negro_writers.html)
+* [Our Book Shelf (1926)](/Volumes/31/03/book_shelf.html)
+* [The Liberal South (1921)](/Volumes/21/06/liberal-south.html)
+* [Mencken (1927)](/Volumes/34/08/mencken.html)
+* [Radicals (1919)](/Volumes/19/02/radicals.html)
+
+<!-- Similar articles end here -->

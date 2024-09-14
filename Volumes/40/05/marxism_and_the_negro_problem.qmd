@@ -85,13 +85,13 @@ Meantime, comes the Great Depression. It levels all in mighty catastrophe. The f
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
+
+#### Related Articles
 
 * [Karl Marx and the Negro (1933)](/Volumes/40/03/karl_marx_and_the_negro.html)
 * [The Negro and Radical Thought (1921)](/Volumes/22/03/negro_and_radical_thought.html)
-* [Socialism and the Negro (1921)](/Volumes/22/06/socialism_and_the_negro.html)
 * [The Negro and Communism (1931)](/Volumes/38/09/negro_and_communism.html)
 * [Our Book Shelf (1926)](/Volumes/31/03/book_shelf.html)
+* [Marcus Garvey and the NAACP (1928)](/Volumes/35/02/marcus_garvey.html)
 
 <!-- Similar articles end here -->

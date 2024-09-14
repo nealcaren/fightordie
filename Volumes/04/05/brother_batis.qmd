@@ -37,13 +37,13 @@ Ain't shame all de debbil yit, outen de Boss!
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
+
+#### Related Articles
 
 * [Woman Suffrage (1915)](/Volumes/11/01/woman_suffrage.html)
-* [Woman''s Suffrage (1913)](/Volumes/06/01/womans_suffrage.html)
-* [Votes for Women (1912)](/Volumes/04/05/votes_for_women.html)
-* [Let us Reason Together (1919)](/Volumes/18/05/let_us_reason_together.html)
+* [Agility (1915)](/Volumes/09/03/agility.html)
+* [President Harding and Social Equality (1921)](/Volumes/23/02/president-harding.html)
 * [The Risk of Woman Suffrage (1915)](/Volumes/11/01/risk_of_woman_suffrage.html)
+* [Votes for Women (1912)](/Volumes/04/05/votes_for_women.html)
 
 <!-- Similar articles end here -->

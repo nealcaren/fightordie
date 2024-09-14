@@ -61,13 +61,13 @@ Then I know that he has a case of "Ezekielism" and I go.
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
 
-* [Courts and Jails (1932)](/Volumes/39/04/courts_and_jails.html)
-* [Browsing Reader - The American Race Problem (1927)](/Volumes/34/07/browsing_reader.html)
-* [Fall Books (1924)](/Volumes/29/01/fall_books.html)
-* [A Statement (1919)](/Volumes/19/01/statement.html)
+#### Related Articles
+
 * [For What (1919)](/Volumes/17/06/for_what.html)
+* [The Crisis (1910)](/Volumes/01/01/TheCrisis.html)
+* [Curtains of Pain (1917)](/Volumes/13/04/curtains_of_pain.html)
+* [Counsels of Despair (1934)](/Volumes/41/06/counsels_of_despair.html)
+* [Let us Reason Together (1919)](/Volumes/18/05/let_us_reason_together.html)
 
 <!-- Similar articles end here -->

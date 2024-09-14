@@ -34,13 +34,13 @@ This section is designed primarily to stop <span class="crisis-title">The Crisi
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
 
-* [Intentions (1923)](/Volumes/25/03/intentions.html)
-* [Radicals (1919)](/Volumes/19/02/radicals.html)
+#### Related Articles
+
 * [Our Special Grievances (1918)](/Volumes/16/05/our_special_greivances.html)
-* [The Congressmen and the NAACP (1914)](/Volumes/09/02/congressmen_and_the_naacp.html)
-* [Credit (1915)](/Volumes/10/01/credit.html)
+* [Intentions (1923)](/Volumes/25/03/intentions.html)
+* [Mississippi (1920)](/Volumes/20/02/mississippi.html)
+* [Amity (1921)](/Volumes/22/03/amity.html)
+* [Radicals (1919)](/Volumes/19/02/radicals.html)
 
 <!-- Similar articles end here -->

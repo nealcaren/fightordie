@@ -50,13 +50,13 @@ the third party is at least temporarily thrown away.
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
 
-* [The Negro in Politics (1929)](/Volumes/36/11/negro_in_politics.html)
+#### Related Articles
+
 * [Mr. Hughes (1916)](/Volumes/13/01/mr_hughes.html)
-* [The Strategy of the Negro Voter (1933)](/Volumes/40/06/strategy_of_the_negro_voter.html)
-* [The Election (1928)](/Volumes/35/12/election.html)
+* [The Negro in Politics (1929)](/Volumes/36/11/negro_in_politics.html)
+* [The Election (1912)](/Volumes/05/02/the_election.html)
 * [Presidential Candidates (1916)](/Volumes/13/01/presidential_candidates.html)
+* [The Election (1928)](/Volumes/35/12/election.html)
 
 <!-- Similar articles end here -->

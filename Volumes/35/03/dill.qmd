@@ -27,13 +27,13 @@ It is with deep regret that <span class="crisis-title">The Crisis</span> announ
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
 
-* [Vital Statistics (1912)](/Volumes/04/06/vital_statistics.html)
+#### Related Articles
+
 * [Marcus Garvey and the NAACP (1928)](/Volumes/35/02/marcus_garvey.html)
-* [Our Economic Future (1928)](/Volumes/35/05/our_economic_future.html)
 * [Marcus Garvey (1921)](/Volumes/21/03/marcus_garvey.html)
-* [A Lunatic or a Traitor (1924)](/Volumes/28/01/lunatic_or_a_traitor.html)
+* [The Black Man and Labor (1925)](/Volumes/31/02/black_man_and_labor.html)
+* [Progress (1920)](/Volumes/21/01/progress.html)
+* [Our Economic Peril (1930)](/Volumes/37/03/our_economic_peril.html)
 
 <!-- Similar articles end here -->

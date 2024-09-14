@@ -47,13 +47,13 @@ This is a big book of nearly 450 pages, but for those who want to escape from th
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
+
+#### Related Articles
 
 * [An Open Letter (1915)](/Volumes/10/03/an_open_letter.html)
-* [Social Equality (1916)](/Volumes/12/01/social_equality.html)
-* [Socialism and the Negro (1921)](/Volumes/22/06/socialism_and_the_negro.html)
 * [Emancipation (1913)](/Volumes/05/03/emancipation.html)
+* [Radicals (1919)](/Volumes/19/02/radicals.html)
 * [Loyalty (1917)](/Volumes/14/01/loyalty.html)
+* [Social Equality (1916)](/Volumes/12/01/social_equality.html)
 
 <!-- Similar articles end here -->

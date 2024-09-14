@@ -116,13 +116,13 @@ in his heart:
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
+
+#### Related Articles
 
 * [The White Church (1917)](/Volumes/14/01/white_church.html)
 * [DePriest (1929)](/Volumes/36/02/depriest.html)
-* [Fall Books (1924)](/Volumes/29/01/fall_books.html)
-* [Of Cold Feet (1921)](/Volumes/22/05/of_cold_feet.html)
+* [Pontius Pilate (1920)](/Volumes/21/02/pontius-pilate.html)
 * [A Crusade (1914)](/Volumes/07/05/crusades.html)
+* [Curtains of Pain (1917)](/Volumes/13/04/curtains_of_pain.html)
 
 <!-- Similar articles end here -->

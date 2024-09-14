@@ -5,7 +5,7 @@ author:
   - name:
       given: W.E.B.
       family: Du Bois
-date: May 1920
+date: November 1920
 categories: 
   - Social Equality
 citation: 
@@ -27,13 +27,13 @@ When The National Association for the Advancement of Colored People was organize
 
 We soon found, however, certain difficulties: Was the right to attend a theatre a civil or a social right? Is a hotel a private or a public institution? What should be our stand as to public travel or public celebrations or public dinners to discuss social uplift? And above all, should we be silent when laws were proposed taking away from a white father all legal responsibility for his colored child?
 
-Moreover, no matter what our attitude, acts and clear statements have been, we were continually being "accused" of advocating "social equality" and back of the accusations were implied the most astonishing assumptions: our secretary was assaulted in Texas for "advocating social equality" when in fact he was present to prove that we were a legal organization under Texas law. Attempts were made in North Carolina to forbid a state school from advertising in our organ <span class = "small-caps">The Crisis</span> on the ground that "now and then it injects a note of social equality" and in general we have seen theft, injustice, lynchings, riot and murder based on "accusations" or attempts at "social equality."
+Moreover, no matter what our attitude, acts and clear statements have been, we were continually being "accused" of advocating "social equality" and back of the accusations were implied the most astonishing assumptions: our secretary was assaulted in Texas for "advocating social equality" when in fact he was present to prove that we were a legal organization under Texas law. Attempts were made in North Carolina to forbid a state school from advertising in our organ <span class="crisis-title">The Crisis</span> on the ground that "now and then it injects a note of social equality" and in general we have seen theft, injustice, lynchings, riot and murder based on "accusations" or attempts at "social equality."
 
-The time has, therefore, evidently come for <span class = "small-caps">The Crisis</span> to take a public stand on this question in the interest of Justice and clear thinking. Let us openly define our terms and beliefs and let there be no further unjustifiable reticence on our part or underground skulking by enemies of the Negro race. This statement does not imply any change of attitude on our part; it simply means a clear and formal expression on matters which hitherto we have mistakenly assumed were unimportant in their relation to our main work.
+The time has, therefore, evidently come for <span class="crisis-title">The Crisis</span> to take a public stand on this question in the interest of Justice and clear thinking. Let us openly define our terms and beliefs and let there be no further unjustifiable reticence on our part or underground skulking by enemies of the Negro race. This statement does not imply any change of attitude on our part; it simply means a clear and formal expression on matters which hitherto we have mistakenly assumed were unimportant in their relation to our main work.
 
 We make this statement, too, the more willingly because recent events lead us to realize that there lurks in the use and the misuse of the phrase "social equality" much of the same virus that for thousands of years has separated and insulted and injured men of many races and groups and social classes.
 
-We believe that social equality, by a reasonable interpretation of the words, means moral, mental and physical fitness to associate with one's fellowmen. In this sense <span class = "small-caps">The Crisis</span> believes absolutely in the Social Equality of the Black and White and Yellow races and it believes too that any attempt to deny this equality by law or custom is a blow at Humanity, Religion and Democracy.
+We believe that social equality, by a reasonable interpretation of the words, means moral, mental and physical fitness to associate with one's fellowmen. In this sense <span class="crisis-title">The Crisis</span> believes absolutely in the Social Equality of the Black and White and Yellow races and it believes too that any attempt to deny this equality by law or custom is a blow at Humanity, Religion and Democracy.
 
 No sooner is this incontestable statement made, however, than many minds immediately adduce further implications: they say that such a statement and belief implies the right of black folk to force themselves into the private social life of whites and to intermarry with them.
 
@@ -51,23 +51,23 @@ As to the individual right of any two sane grown individuals of any race to marr
 
 But above the individual problem lies the question of the social expediency of the intermarriage of whites and blacks today in America. The answer to this is perfectly clear: it is not socially expedient today for such marriages to take place; the reasons are evident: where there are great differences of ideal, culture, taste and public esteem, the intermarriage of groups is unwise because it involves too great a strain to evolve a compatible, agreeable family life and to train up proper children. On this point there is almost complete agreement among colored and white people and the strong opinion here is not only that of the whites---it is the growing determination of the blacks to accept no alliances so long as there is any shadow of condescension; and to build a great black race tradition of which the Negro and the world will be as proud in the future as it has been in the ancient world.
 
-<span class = "small-caps">The Crisis</span>, therefore, most emphatically advises against race intermarriage in America but it does so while maintaining the moral and legal right of individuals who may think otherwise and it most emphatically refuses to base its opposition on other than social grounds.
+<span class="crisis-title">The Crisis</span>, therefore, most emphatically advises against race intermarriage in America but it does so while maintaining the moral and legal right of individuals who may think otherwise and it most emphatically refuses to base its opposition on other than social grounds.
 
-<span class = "small-caps">The Crisis</span>does not believe, for instance, that the intermarriage of races is physically criminal or deleterious. The overwhelming weight of scientific opinion and human experience is against this assumption and it is a cruel insult to seek to transmute a perfectly permissible social taste or thoughtful social advice into a confession or accusation of physical inferiority and contamination.
+<span class="crisis-title">The Crisis</span>does not believe, for instance, that the intermarriage of races is physically criminal or deleterious. The overwhelming weight of scientific opinion and human experience is against this assumption and it is a cruel insult to seek to transmute a perfectly permissible social taste or thoughtful social advice into a confession or accusation of physical inferiority and contamination.
 
-To sum up then: <span class = "small-caps">The Crisis</span> advises strongly against interracial marriage in the United States today because of social conditions and prejudice and not for physical reasons; at the same time it maintains absolute legal right of such marriage for such as will, for the simple reason that any other solution is immoral and dangerous.
+To sum up then: <span class="crisis-title">The Crisis</span> advises strongly against interracial marriage in the United States today because of social conditions and prejudice and not for physical reasons; at the same time it maintains absolute legal right of such marriage for such as will, for the simple reason that any other solution is immoral and dangerous.
 
-<span class = "small-caps">The Crisis</span> does not for a moment believe that any man has a right to force his company on others in their private lives but it maintains just as strongly that the right of any man to associate privately with those who wish to associate with him and publicly with anybody so long as he conducts himself gently, is the most fundamental right of a Human Being.
+<span class="crisis-title">The Crisis</span> does not for a moment believe that any man has a right to force his company on others in their private lives but it maintains just as strongly that the right of any man to associate privately with those who wish to associate with him and publicly with anybody so long as he conducts himself gently, is the most fundamental right of a Human Being.
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
+
+#### Related Articles
 
 * [The Negro Citizen (1929)](/Volumes/36/05/negro_citizen.html)
-* [Social Equality (1919)](/Volumes/19/01/social_equality.html)
 * [Social Equality (1916)](/Volumes/12/01/social_equality.html)
-* [''Social Equality'' (1911)](/Volumes/01/03/social_equality.html)
+* [Social Equality (1919)](/Volumes/19/01/social_equality.html)
+* ['Social Equality' (1911)](/Volumes/01/03/social_equality.html)
 * [Of Problems (1921)](/Volumes/22/04/problems.html)
 
 <!-- Similar articles end here -->

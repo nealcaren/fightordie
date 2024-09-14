@@ -31,13 +31,13 @@ The Negro world and you will bear us witness that The Crisis and its Editor has
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
 
-* [Allies (1911)](/Volumes/02/03/allies.html)
-* [Officers (1917)](/Volumes/14/02/officers.html)
+#### Related Articles
+
 * [The Negro Soldier (1919)](/Volumes/19/02/negro_soldier.html)
-* [Baker (1917)](/Volumes/15/02/baker.html)
-* [A Statement (1919)](/Volumes/19/01/statement.html)
+* [Robert R. Moton (1919)](/Volumes/18/01/robert_moton.html)
+* [Allies (1911)](/Volumes/02/03/allies.html)
+* [Returning Soldiers (1919)](/Volumes/18/01/returning_soldiers.html)
+* [Officers (1917)](/Volumes/14/02/officers.html)
 
 <!-- Similar articles end here -->

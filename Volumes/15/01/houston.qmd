@@ -69,13 +69,13 @@ __________
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
+
+#### Related Articles
 
 * [Houston (1918)](/Volumes/16/06/houston.html)
 * [Houston and East St. Louis (1918)](/Volumes/15/06/houston_and_east_st_louis.html)
 * [Houston (1917)](/Volumes/14/06/houston.html)
 * [Coffeeville, Kanasas (1927)](/Volumes/34/05/coffeville_kansas.html)
-* [Lynching (1926)](/Volumes/32/01/lynching.html)
+* [Tulsa (1921)](/Volumes/22/06/tulsa.html)
 
 <!-- Similar articles end here -->

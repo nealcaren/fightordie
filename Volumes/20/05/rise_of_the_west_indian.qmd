@@ -37,13 +37,13 @@ with a startling surprise upon America's darker millions. The movement is as yet
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
 
-* [Our Rate of Increase (1933)](/Volumes/40/02/our_rate_of_increase.html)
+#### Related Articles
+
+* [West Indian Immigration (1924)](/Volumes/29/02/west_indian_immigration.html)
+* [Pan-Africa and New Racial Philosophy (1933)](/Volumes/40/11/panafrica_and_new_racial_philosophy.html)
 * [The Census (1911)](/Volumes/03/01/census.html)
 * [Death Rates (1927)](/Volumes/34/08/death_rates.html)
-* [Pan-Africa and New Racial Philosophy (1933)](/Volumes/40/11/panafrica_and_new_racial_philosophy.html)
-* [The Migration of Negroes (1917)](/Volumes/14/02/migration_of_negroes.html)
+* [Brazil (1914)](/Volumes/07/06/brazil.html)
 
 <!-- Similar articles end here -->

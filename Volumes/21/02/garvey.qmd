@@ -5,7 +5,7 @@ author:
   - name:
       given: W.E.B.
       family: Du Bois
-date: Jun. 1920
+date: December 1920
 categories: 
   - ""
 citation: 
@@ -54,13 +54,13 @@ Of Garvey's curious credulity and suspicions one example will suffice: In March,
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
+
+#### Related Articles
 
 * [Marcus Garvey and the NAACP (1928)](/Volumes/35/02/marcus_garvey.html)
 * [Marcus Garvey (1921)](/Volumes/21/03/marcus_garvey.html)
+* [Augustus G. Dill (1928)](/Volumes/35/03/dill.html)
+* [Organized Labor (1912)](/Volumes/04/03/organized_labor.html)
 * [Our Economic Peril (1930)](/Volumes/37/03/our_economic_peril.html)
-* [The Colored Magazine in America (1912)](/Volumes/05/01/colored-magazine.html)
-* [Burleson (1913)](/Volumes/06/04/burleson.html)
 
 <!-- Similar articles end here -->

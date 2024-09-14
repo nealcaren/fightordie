@@ -47,13 +47,13 @@ the life of an innocent girl!
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
+
+#### Related Articles
 
 * [Intermarriage (1927)](/Volumes/33/03/intermarriage.html)
-* [Intermarriage (1913)](/Volumes/05/04/intermarriage.html)
 * [Inter-Marriage (1924)](/Volumes/29/06/inter-marriage.html)
-* [Supreme Court (1914)](/Volumes/09/02/supreme_court.html)
-* [Segregation in the North (1934)](/Volumes/41/04/segregation_in_the_north.html)
+* [Intermarriage (1913)](/Volumes/05/04/intermarriage.html)
+* [Decency (1912)](/Volumes/04/02/decency.html)
+* [Sex Equality (1920)](/Volumes/19/03/sex_equality.html)
 
 <!-- Similar articles end here -->

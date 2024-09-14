@@ -89,13 +89,13 @@ the Editor of <span class="crisis-title">The Crisis</span>.
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
+
+#### Related Articles
 
 * [Emancipation (1913)](/Volumes/05/03/emancipation.html)
 * [An Open Letter to Woodrow Wilson (1913)](/Volumes/05/05/open_letter.html)
 * [The Fourteenth Amendment (1915)](/Volumes/10/01/fourteenth_amendment.html)
-* [Civil Rights (1913)](/Volumes/06/04/civil_rights.html)
 * [Thirteen (1918)](/Volumes/15/03/efficiency.html)
+* [Civil Rights (1913)](/Volumes/06/04/civil_rights.html)
 
 <!-- Similar articles end here -->

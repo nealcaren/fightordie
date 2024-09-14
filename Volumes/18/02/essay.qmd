@@ -496,13 +496,13 @@ This history will be enlarged and expanded, embellished with maps and pictures a
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
 
-* [The Present (1917)](/Volumes/14/04/present.html)
+#### Related Articles
+
 * [The Black Man in the Revolution of 1914-1918 (1919)](/Volumes/17/05/the_black_man_in_the_revolution_of_1914_1918.html)
-* [Mr. Roosevelt (1912)](/Volumes/04/05/mr_roosevelt.html)
 * [Promoting Race Prejudice (1917)](/Volumes/14/03/race_prejudice.html)
-* [Hayes (1927)](/Volumes/33/03/hayes.html)
+* [My Mission (1919)](/Volumes/18/01/my_mission.html)
+* [Returning Soldiers (1919)](/Volumes/18/01/returning_soldiers.html)
+* [Presidential Candidates (1920)](/Volumes/20/02/presidential-candidates.html)
 
 <!-- Similar articles end here -->

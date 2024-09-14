@@ -32,13 +32,13 @@ It is a very beautiful place. I am glad I am here.
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
+
+#### Related Articles
 
 * [Forward (1920)](/Volumes/20/05/forward.html)
+* [Unrest (1920)](/Volumes/19/05/unrest.html)
 * [The Burden of Black Women (1914)](/Volumes/09/01/burden_of_black_women.html)
+* [Chamounix (1921)](/Volumes/23/02/chamounix.html)
 * [Peace (1919)](/Volumes/17/02/peace.html)
-* [The South (1917)](/Volumes/13/06/south.html)
-* [The Drama Among Black Folk (1916)](/Volumes/12/03/drama_among_black_folk.html)
 
 <!-- Similar articles end here -->

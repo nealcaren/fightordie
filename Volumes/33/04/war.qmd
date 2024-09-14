@@ -1,0 +1,39 @@
+---
+title: 'War'
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
+date: Feb. 1927
+categories: 
+  - ""
+citation: 
+  type: article-journal
+  container-title: The Crisis
+  volume: 33
+  issue: 4
+  page: 179
+google-scholar: true
+
+format:
+  html:
+    toc: false
+    appendix-cite-as: display
+---
+
+
+
+The land hogs and war profiteers are pushing us into war with Mexico just as fast as they can, with the help of a President who is the tool of Big Business and of a Secretary of State who is a misfortune. We are meddling in Nicaragua and sending there a man trained to drill midshipmen and steer ships and shoot guns, whom we install as dictator without the grace of God. Now is the time for pacifists to act. Now and not later. Now is the time to say to America that not a gallon of oil nor a foot of land is worth the murder of a single human being, whether from Mexico or black or white America. Diaz and rich Americans cheated Mexico of her wealth while her people slept and we are asked to enforce these disgraceful contracts with blood and filth and war. Let us resolve never to do it. Let us face death, jail and poverty before war with Mexico on any pretext. We have stolen enough from that poor land.
+
+<!-- Similar articles start here -->
+<div  class="clear-wrap"></div>
+
+#### Related Articles
+
+* [Two Columns (1916)](/Volumes/12/04/_two-columns.html)
+* [Mexico (1914)](/Volumes/08/02/mexico.html)
+* [The World and Us (1921)](/Volumes/23/04/world-and-us.html)
+* [Carrizal (1916)](/Volumes/12/04/carrizal.html)
+* [Awake America (1917)](/Volumes/14/05/awake_america.html)
+
+<!-- Similar articles end here -->

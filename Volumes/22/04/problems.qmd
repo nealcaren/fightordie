@@ -37,13 +37,13 @@ Such is the Negro Problem.
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
+
+#### Related Articles
 
 * [Social Equality (1919)](/Volumes/19/01/social_equality.html)
-* [''Social Equality'' (1911)](/Volumes/01/03/social_equality.html)
-* [Our Program (1930)](/Volumes/37/05/our_program.html)
-* [Votes (1919)](/Volumes/19/02/votes.html)
 * [The Negro Citizen (1929)](/Volumes/36/05/negro_citizen.html)
+* ['Social Equality' (1911)](/Volumes/01/03/social_equality.html)
+* [The Social Equality of Whites and Blacks (1920)](/Volumes/21/01/social_equality_of_blacks_and_whites.html)
+* [Votes (1919)](/Volumes/19/02/votes.html)
 
 <!-- Similar articles end here -->

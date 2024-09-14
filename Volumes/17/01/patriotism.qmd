@@ -29,8 +29,8 @@ Men work and fight and sweat for a dream only because they believe it possible. 
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
+
+#### Related Articles
 
 * [Returning Soldiers (1919)](/Volumes/18/01/returning_soldiers.html)
 * [Close Ranks (1918)](/Volumes/16/03/close_ranks.html)

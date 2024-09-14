@@ -11,7 +11,7 @@ categories:
 citation: 
   type: article-journal
   container-title: The Crisis
-  volume: 291
+  volume: 29
   issue: 1
   page: 13
 google-scholar: true
@@ -26,17 +26,15 @@ format:
 
 I shall vote for La Follette and Wheeler, unusually honest and straight-forward men. I believe in them. I do not believe in Coolidge. I despise Dawes and his ilk and I will trust no Wall Street lawyer nor any relative of southernized Bryan. I believe in the economic foundations of most of our present social problems and while I wish that the anti-Negro Railway Brotherhood who are supporting La Follette would let him say a plainer, cleaner word on the Negro, I remember that he has said as much as-Coolidge and could scarcely do less if elected president. Especially am I pleased at his clear-cut condemnation of the Klan and his promise to free Haiti.
 
-*W. E. B. Du Bois.*
-
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
 
-* [The Election (1928)](/Volumes/35/12/election.html)
-* [The Oath of the Negro Voter (1918)](/Volumes/15/01/oath_of_the_negro_voter.html)
+#### Related Articles
+
 * [Roosevelt (1917)](/Volumes/14/04/roosevelt.html)
-* [How Shall We Vote (1920)](/Volumes/20/05/how_shall_we_vote.html)
 * [The Election (1912)](/Volumes/05/02/the_election.html)
+* [The Presidential Campaign (1916)](/Volumes/12/06/presidential_campaign.html)
+* [The Election (1914)](/Volumes/09/02/election.html)
+* [The Election (1928)](/Volumes/35/12/election.html)
 
 <!-- Similar articles end here -->

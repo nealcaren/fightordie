@@ -1,0 +1,53 @@
+---
+title: 'The Harding Political Plan'
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
+date: January 1922
+categories: 
+  - ""
+citation: 
+  type: article-journal
+  container-title: The Crisis
+  volume: 23
+  issue: 3
+  page: 105-106
+google-scholar: true
+
+format:
+  html:
+    toc: false
+    appendix-cite-as: display
+---
+
+Mr. Harding's plan for settling various problems in politics is now in full swing and we are not all sure but what it bids fair to be successful beyond his dreams. The Harding plan involves (1) White leadership for the black South; (2) A division of the Negro vote.
+
+The white leadership of the black South has been strikingly illustrated in Virginia where the white leader, Col. Henry W. Anderson, talked some real, plain English. He said, for instance, at Barton Heights, October 22, "Senator Trinkle [his Democratic opponent] fears the Negro in Virginia politics. Our platform has eliminated the Negro from Virginia politics. Thirty-two Negroes now hold office in this State. They were appointed by the Democrats. I have asked Senator Trinkle to join with me in a movement to have these Negro judges removed from office. He has never replied to me on this matter.
+
+> If I am elected Governor of Virginia, no Negro will ever hold office in this State under my administration. The white people must rule this commonwealth, and they will.
+
+The result of this clear and concise statement, together with the expulsion of all Negro members from the party convention, was that 25,000 Negroes so "divided" their vote that Mr. Anderson did not get a single one of them and the Republicans received their worst defeat in many years.
+
+In Louisville, Kentucky, the Republicans so slandered and "Jim-Crowed" the Negro that an attempt at a third party movement was made by the Negroes. The strong-arm methods of thugs interfered with its complete success, but it registered a clear warning.
+
+On the other hand, in Philadelphia, where the Republicans nominated a Negro magistrate to the disgust of the "Independents" and high-brows, the black voters of the Seventh Ward swept him into office 5,000 votes ahead of his independent rivals.
+
+If the putting of the direction of the Republican Party in the South into the hands of Slemp and his ilk, the driving of the Negro from the Republican polls and compelling him to vote for black men because they are black is what Mr. Harding wishes, he is accomplishing it. But his measure of success is bringing thought to both colored and white folk.
+
+Thoughtful Negroes do not want racial candidates and parties: they see the ultimate contradiction and futility of this. But what is one to do who has to choose between the Democratic devil and the Republican deep sea? Thoughtful whites are also getting food for reflection: for what doth it profit a politician to get rid of the Negro in party counsels if he lose the election? And silly as the dilemma is, we opine that we can stand it as long as the other fellow and possibly a bit longer.
+
+Therefore to our muttons, for the Congressional elections of 1922 approach and we must not hesitate. Let every black voter look up the record of his particular Congressman. If he cannot find it, write us; and then let us make every effort to defeat our enemies. If we can encompass their defeat by voting for any particular party, do it. If we can encompass the defeat by voting for a new party of our own, do it. Next to defeating our enemies, let us rally to the support of our friends. And there again, whether the friend be labeled Republican, Democrat, Socialist or Farmer-Labor, *vote for him.* The roll call on the Dyer bill will be a splendid indication of how we ought to vote. Those who vote against the Dyer bill *and those who are absent* are our enemies. Finally, remember what we did in New York: Ten years ago there was not a single Negro policeman in the metropolis of America. Today there are twenty or more. The Democrats gave them to us. The Democrats swept Harlem in the last election.
+
+<!-- Similar articles start here -->
+<div  class="clear-wrap"></div>
+
+#### Related Articles
+
+* [Presidential Candidates (1920)](/Volumes/20/02/presidential-candidates.html)
+* [Political Rebirth and the Office Seeker (1921)](/Volumes/21/03/political-rebirth.html)
+* [The Negro in Politics (1929)](/Volumes/36/11/negro_in_politics.html)
+* [Political Straws (1923)](/Volumes/26/03/political_straws.html)
+* [An Open Letter to Woodrow Wilson (1913)](/Volumes/05/05/open_letter.html)
+
+<!-- Similar articles end here -->

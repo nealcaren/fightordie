@@ -7,7 +7,8 @@ author:
       family: Du Bois
 date: Jun. 1912
 categories: 
-  - ""
+  - "Woman Suffrage"
+  - "Racial Prejudice"
 citation: 
   type: article-journal
   container-title: The Crisis
@@ -23,16 +24,18 @@ format:
 ---
 
 
-The woman suffragists are wincing a bit under the plain speaking of  <span class = "small-caps">The Crisis</span>. President Anna Shaw writes us:
+The woman suffragists are wincing a bit under the plain speaking of  <span class="crisis-title">The Crisis</span>. President Anna Shaw writes us:
 
 
 > There is not in the National Association any discrimination against colored people. If they do not belong to us it is merely because they have not organized and have not made application for membership. Many times we have had colored women on our program and as delegates, and I, personally, would be only too glad to welcome them as long as I am president of the National Association.
-<p> At the State convention in Ithaca a few days ago, when I was conducting the question box, I was asked what I did in Louisville in regard to admitting women of Negro blood to the convention and my reply was: 'I did nothing in regard to admitting women of Negro blood to the convention. Our association does not recognize either Negro blood or white blood; what we stand for is the demand for equal political rights for women with men, and we know no distinction of race.' Our whole contention is for justice to women, white and colored, and I do not think it will be possible ever to change the platform of the National Association in this respect.
+>    
+> At the State convention in Ithaca a few days ago, when I was conducting the question box, I was asked what I did in Louisville in regard to admitting women of Negro blood to the convention and my reply was: 'I did nothing in regard to admitting women of Negro blood to the convention. Our association does not recognize either Negro blood or white blood; what we stand for is the demand for equal political rights for women with men, and we know no distinction of race.' Our whole contention is for justice to women, white and colored, and I do not think it will be possible ever to change the platform of the National Association in this respect.
 
 The corresponding secretary has heard vague rumors in Ohio and says:
 
 > A somewhat indefinite report has reached me that there is being circulated a statement to the effect that the committee on resolutions of the National American Woman Suffrage Association, at the last annual convention held in Louisville, Ky., 'snowed under' a resolution condemning disfranchisement of colored people in the South. As I remember the circumstance that probably gave rise to this misleading report it was as follows: In the hurry of the last meeting of the resolutions committee, which was composed of one member from each State, only a part of the committee being present, several resolutions on various subjects were presented, one being about as the above recites. I do not recall that it read '*colored* people,' though it may have been meant to apply to them. No one objected in any way to its provisions, but one or two mentioned conditions in other parts of the United States which were against the free use of the ballot and said that the resolution was not broad enough. There was not time to discuss it fully, so this one and some other resolutions were not acted upon at all. Those who proposed any of the resolutions not acted upon by our committee had the opportunity and full liberty to present them from the floor, so that our committee did not feel that it was 'snowing under' that resolution, or any other, which it had not had time to revise to make comprehensive enough to include all similar abridgments of rights guaranteed by the Constitution of the United States.
-<p> The ballotless women, I can assure you, who attended that convention are working for, and urging with all their ability, strength and talents, the guarantee of civil and political rights for all citizens of the United States entitled to them.
+>    
+> The ballotless women, I can assure you, who attended that convention are working for, and urging with all their ability, strength and talents, the guarantee of civil and political rights for all citizens of the United States entitled to them.
 
 
 All this is pleasant and encouraging, but does it present the facts in the case exactly? Early in August Miss Martha Gruening sought a chance to have a colored delegate introduce the following resolution at the Louisville convention and speak on the floor:
@@ -47,13 +50,13 @@ We have already shown that the statement that colored men oppose woman suffrage 
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
 
-* [Our Program (1930)](/Volumes/37/05/our_program.html)
-* [Woman''s Suffrage (1913)](/Volumes/06/01/womans_suffrage.html)
+#### Related Articles
+
+* [Woman's Suffrage (1913)](/Volumes/06/01/womans_suffrage.html)
 * [Woman Suffrage (1915)](/Volumes/09/06/womansuffrage.html)
+* [Our Program (1930)](/Volumes/37/05/our_program.html)
 * [The Risk of Woman Suffrage (1915)](/Volumes/11/01/risk_of_woman_suffrage.html)
-* [The Woman Voter (1921)](/Volumes/21/05/woman_voter.html)
+* [The Justice of Woman Suffrage (1912)](/Volumes/04/05/justice_of_woman_suffrage.html)
 
 <!-- Similar articles end here -->

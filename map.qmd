@@ -1,0 +1,96 @@
+---
+title: "Article Map"
+format: 
+  html:
+    code-fold: true
+    toc: false
+---
+
+
+
+
+This interactive table of contents maps each article in a 2D space using document embeddings. Thematically similar documents are near each other. Color is based on the publication year, with the lightest points showing the earliest articles.
+
+Hover over points to see article titles, and click on a point to read the article.
+
+
+```{ojs}
+//| echo: false
+
+// Load Plotly
+Plot = require("https://cdn.plot.ly/plotly-latest.min.js")
+
+// Load and process the CSV data
+data = FileAttachment("embeddings.csv").csv({ typed: true })
+
+
+// Create the plot
+chart = {
+  const trace = {
+    x: data.map(d => d.x),
+    y: data.map(d => d.y),
+    mode: 'markers',
+    type: 'scatter',
+    text: data.map(d => `<b>${d.title}</b><br>${d.year}`),
+    hoverinfo: 'text',
+    marker: {
+      size: 8,
+      color: data.map(d => d.year),
+      colorscale: 'Burg',
+        line: {
+        color: 'rgba(0, 0, 0, 0.5)',
+        width: 0
+      }
+    },
+    customdata: data.map(d => d.url)
+  };
+
+  const layout = {
+    font: {family: "Roboto Serif, serif"},
+    plot_bgcolor: 'rgb(250,250,250)',
+    paper_bgcolor: 'rgb(250,250,250)',
+    hovermode: 'closest',
+    xaxis: {
+      showgrid: false,
+      zeroline: false,
+      showticklabels: false,
+      autorange: true
+    },
+    yaxis: {
+      showgrid: false,
+      zeroline: false,
+      showticklabels: false,
+      autorange: true,
+      scaleanchor: "x",
+      scaleratio: 1
+    },
+    width: 600,
+    height: 500,
+    margin: {l: 0, r: 0, t: 0, b: 0}
+  };
+
+  const plot = Plot.newPlot('myPlot', [trace], layout);
+  
+  // Add click event listener
+  document.getElementById('myPlot').on('plotly_click', function(plotData) {
+    const point = plotData.points[0];
+    const url = point.customdata;
+    if (url) {
+      window.open(url, '_blank');
+    }
+  });
+
+  return plot;
+}
+```
+
+
+<div id="myPlot" style="width:100%;height:100vh;margin:auto;"></div>
+
+
+
+## Technical Details
+
+* Article texts are embedded using the [Sentence Transformers all-MiniLM-L6-v2 model](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2), which represents each text as a 384-dimensional vector. This model is designed to capture semantic meaning, allowing for comparisons between articles based on their content.
+* To facilitate visualization, the 384-dimensional vectors are reduced to two dimensions using UMAP (Uniform Manifold Approximation and Projection).  UMAP is a dimensionality reduction technique that aims to preserve both local and global structure of the high-dimensional data, making it well-suited for visualizing complex relationships between articles. It looked better than TSNE.
+* Data are plotted using the Plotly JavaScript library. While I normally use the Python version, only the JS library allow points to be used as URL links.

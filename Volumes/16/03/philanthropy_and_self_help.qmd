@@ -42,13 +42,13 @@ We can support our own universities. We must do it. One little school in Virgini
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
 
-* [Negro Education (1918)](/Volumes/15/04/negro_education.html)
+#### Related Articles
+
 * [White Charity (1922)](/Volumes/24/02/whitecharity.html)
-* [Education (1930)](/Volumes/37/02/education.html)
+* [Negro Education (1918)](/Volumes/15/04/negro_education.html)
 * [Schools (1917)](/Volumes/13/03/schools.html)
+* [Education (1930)](/Volumes/37/02/education.html)
 * [Education (1911)](/Volumes/01/04/education.html)
 
 <!-- Similar articles end here -->

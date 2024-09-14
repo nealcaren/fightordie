@@ -201,13 +201,13 @@ format:
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
+
+#### Related Articles
 
 * [Unrest (1920)](/Volumes/19/05/unrest.html)
-* [In God''s Gardens (1912)](/Volumes/03/06/in-gods-gardens.html)
-* [The Quadroon (1911)](/Volumes/03/01/quadroon.html)
-* [The Song of the Smoke (1914)](/Volumes/07/03/song_of_smoke.html)
-* [The Burden of Black Women (1914)](/Volumes/09/01/burden_of_black_women.html)
+* [Peace (1919)](/Volumes/17/02/peace.html)
+* [In God's Gardens (1912)](/Volumes/03/06/in-gods-gardens.html)
+* [Curtains of Pain (1917)](/Volumes/13/04/curtains_of_pain.html)
+* [The Drama Among Black Folk (1916)](/Volumes/12/04/drama_among_black_folk.html)
 
 <!-- Similar articles end here -->

@@ -1,0 +1,39 @@
+---
+title: '"Harmless Flourish"'
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
+date: Feb. 1927
+categories: 
+  - ""
+citation: 
+  type: article-journal
+  container-title: The Crisis
+  volume: 33
+  issue: 4
+  page: 179-180
+google-scholar: true
+
+format:
+  html:
+    toc: false
+    appendix-cite-as: display
+---
+
+Senator Harris of Georgia is pained because of the sale of Federal offices in that State. He wants the matter investigated. Senator Ernst of Kentucky proposed to add to this an investigation of disfranchisement in Georgia. Whereupon the bourbon *New York Times* is aghast. Evidently Mr. Ernst's proposal is "politics to catch the Negro vote". It undoubtedly is. And why shouldn't it be? Why should the rotten boroughs of Georgia, by wholesale disfranchisement of black and white voters, make bribery and graft in national politics almost unavoidable and then be allowed to yell "Force Bill!" if any proposal is made to investigate the situation? Georgia casts less than 12,000 votes for a congressman, while in New York it takes over 60,000. Less than ten per cent of Georgia's voting population actually votes. And yet to a leading American newspaper it is a political joke to investigate this, while the sale of a petty post office job is a high crime and misdemeanor.
+
+Of course Federal offices are sold in Georgia; of course they are sold in Virginia, as President Coolidge's first Private Secretary can testify; of course Federal offices are bought in Pennsylvania and Illinois. And why? Does the fact that a southern voter has seven times the political power of a western voter play no part?
+
+<!-- Similar articles start here -->
+<div  class="clear-wrap"></div>
+
+#### Related Articles
+
+* [Votes (1919)](/Volumes/19/02/votes.html)
+* [Political Rebirth and the Office Seeker (1921)](/Volumes/21/03/political-rebirth.html)
+* [The Negro Politician (1928)](/Volumes/35/05/negro_politician.html)
+* [The Oath of the Negro Voter (1918)](/Volumes/15/01/oath_of_the_negro_voter.html)
+* [The Negro in Politics (1929)](/Volumes/36/11/negro_in_politics.html)
+
+<!-- Similar articles end here -->

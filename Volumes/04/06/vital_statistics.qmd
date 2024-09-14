@@ -49,13 +49,13 @@ In other words, because a busy man was too careless to find out what he was talk
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
 
-* [The Name Negro (1928)](/Volumes/35/03/name_negro.html)
-* [The Macon Telegraph (1920)](/Volumes/19/03/macon_telegraph.html)
+#### Related Articles
+
+* [The Task (1920)](/Volumes/20/04/task.html)
 * [Toward a New Racial Philosophy (1933)](/Volumes/40/01/toward_a_new_racial_philosophy.html)
-* [The New Crisis (1925)](/Volumes/30/01/new_crisis.html)
-* [Radicals (1919)](/Volumes/19/02/radicals.html)
+* [Our Book Shelf (1926)](/Volumes/31/03/book_shelf.html)
+* [Browsing Reader - The American Race Problem (1927)](/Volumes/34/07/browsing_reader.html)
+* [Light (1912)](/Volumes/03/04/light.html)
 
 <!-- Similar articles end here -->

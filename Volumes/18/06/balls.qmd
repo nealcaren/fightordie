@@ -28,13 +28,13 @@ format:
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
+
+#### Related Articles
 
 * [Girls (1921)](/Volumes/22/05/girls.html)
-* [The National Interracial Conference (1929)](/Volumes/36/02/national_interracial_conference.html)
+* [A Question (1920)](/Volumes/20/03/a-question.html)
+* [Travel (1926)](/Volumes/33/02/travel.html)
+* [Criteria of Negro Art (1926)](/Volumes/32/06/criteria_of_negro_art.html)
 * [Unity (1924)](/Volumes/28/03/unity.html)
-* [Correspondence (1926)](/Volumes/31/05/correspondence.html)
-* [Muddle (1914)](/Volumes/08/04/muddle.html)
 
 <!-- Similar articles end here -->

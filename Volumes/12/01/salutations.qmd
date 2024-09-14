@@ -28,13 +28,13 @@ Our good friend, the decrepit Charleston *News and Courier* says: "DuBois would 
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
+
+#### Related Articles
 
 * [Public Schools (1916)](/Volumes/12/01/salutations.html)
-* [Education (1911)](/Volumes/01/04/education.html)
-* [The Negro Public School (1916)](/Volumes/11/05/negro_public_school.html)
 * [School (1918)](/Volumes/16/06/school.html)
+* [The Negro Public School (1916)](/Volumes/11/05/negro_public_school.html)
 * [Schools (1917)](/Volumes/13/03/schools.html)
+* [Education (1911)](/Volumes/01/04/education.html)
 
 <!-- Similar articles end here -->

@@ -28,13 +28,13 @@ The Grand United Order of Odd Fellows is so large and influential an organizatio
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
+
+#### Related Articles
 
 * [Organization (1915)](/Volumes/09/05/organization.html)
-* [A Correspondence (1914)](/Volumes/09/01/correspondence.html)
 * [The Negro Church (1912)](/Volumes/04/01/negro_church.html)
-* [Does Organization Pay? (1914)](/Volumes/07/06/does_organization_pay.html)
 * [A Quarter Million (1921)](/Volumes/21/05/a_quarter_million.html)
+* [A Correspondence (1914)](/Volumes/09/01/correspondence.html)
+* [Coöperation (1922)](/Volumes/23/03/cooperation.html)
 
 <!-- Similar articles end here -->

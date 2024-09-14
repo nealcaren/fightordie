@@ -23,7 +23,7 @@ format:
 ---
 
 
-Much has been written of the recent migration of colored people from the South to the North, but there have been very few attempts to give a definite, coherent picture of the whole movement. Aided by the funds of the National Association for the Advancement of Colored People, <span class = "small-caps">The Crisis</span> has attempted to put into concrete form such knowledge as we have of this movement.
+Much has been written of the recent migration of colored people from the South to the North, but there have been very few attempts to give a definite, coherent picture of the whole movement. Aided by the funds of the National Association for the Advancement of Colored People, <span class="crisis-title">The Crisis</span> has attempted to put into concrete form such knowledge as we have of this movement.
 
 The data at hand are vague and have been collected from a hundred different sources. While the margin of error is large, the actual information which we have gathered is most valuable.
 
@@ -102,8 +102,8 @@ At any rate, we face here a social change among American Negroes of great moment
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
+
+#### Related Articles
 
 * [The Migration (1917)](/Volumes/14/01/migration.html)
 * [Brothers, Come North (1920)](/Volumes/19/03/brothers_come_north.html)

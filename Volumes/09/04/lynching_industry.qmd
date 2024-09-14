@@ -304,13 +304,13 @@ with a charming story from Charles Lamb.
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
+
+#### Related Articles
 
 * [Lynchings (1932)](/Volumes/39/02/lynchings.html)
-* [Anti-Lynching Legislation (1922)](/Volumes/22/01/anti-lynching_legislation.html)
-* [Lynching (1914)](/Volumes/07/05/lynching.html)
 * [Causes of Lynching (1931)](/Volumes/38/04/causes_of_lynching.html)
-* [Lynching (1927)](/Volumes/33/04/lynching.html)
+* [Lynching (1914)](/Volumes/07/05/lynching.html)
+* [Anti-Lynching Legislation (1922)](/Volumes/22/01/anti-lynching_legislation.html)
+* [Lynching (1928)](/Volumes/35/09/lynching.html)
 
 <!-- Similar articles end here -->

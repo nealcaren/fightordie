@@ -1,0 +1,52 @@
+---
+title: 'The Task'
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
+date: August. 1920
+categories: 
+  - ""
+citation: 
+  type: article-journal
+  container-title: The Crisis
+  volume: 20
+  issue: 4
+  page: 165-166
+google-scholar: true
+
+format:
+  html:
+    toc: false
+    appendix-cite-as: display
+---
+
+
+There is one sentence in the resignation of Mr. Shillady, our former secretary, which has arrested the attention of us all. He says:
+
+> I am less confident than heretofore of the speedy success of the Association's full program, and of the probability of overcoming, within a reasonable period, the forces opposed to Negro equality, by the means and methods which are within the Association's power to employ.
+
+This is the frank judgment of a white man of high ideals and broad sympathy who came to our problem with thorough training in methods of social uplift. For two years he has studied the Negro problem from a peculiar vantage ground, knowing it without and within, making close friendships with black folk all over the land and studying their problem through thousands of calls and letters.
+
+This man after such experience says:
+
+1. We cannot solve the Negro problem quickly;
+2. There are strong forces opposed to Negro equality;
+3. Our means and methods of meeting these forces are limited.
+
+Mr. Shillady does not say that our problem is insoluble or that Negro hatred in this land is unconquerable or that the methods of the N.A.A.C.P. are ineffective. On the contrary, Mr. Shillady believes in our organization thoroughly and in the ultimate triumph of the Negro. But he does make definite answer to those *soi-disant* philosophers who insist that this problem is a simple matter of this or that---"simply" go to work, "simply" go to school, "simply" stop attacking white women, etc. The Negro problem is a human problem of work, education, crime, democracy, art and life, with all their age-long complications and intertwinings. But it is *more* than that. It is not simply ignorance but ignorance with a determined, powerful, clear-eyed, organized effort on the part of millions of enemies to keep Negroes ignorant. It is crime backed by the devilish conspiracy to use and encourage Negro crime as a means of discrediting all Negroes. It is not simply a matter of regular, efficient work, but it is work accompanied by peonage, theft and abuse which harks back to the 13th century and is almost incomprehensible to modern laborers.
+
+All this is the Negro problem. We Negroes know it and know it well. To us Mr. Shillady's conclusion is no news. But to white people and especially to white social workers, it should come as a mighty—an insistent, a ringing warning. No longer is it admissible to side-track and dodge this terrific human cause. Here are 90,000 people banded together to solve it. Their methods are peaceful, legal, reasonable. If America is not prepared to solve this social problem by such methods what else does she propose? If the N.A.A.C.P. has not the power in hand to solve this problem, there is the nation of 100 millions which has the power. We called to our aid one of the best of America's social workers. The haters of black folk beat him and maltreated him and scarred him like a dog because he tried to talk quiet reason to Texas. Here is the problem and what will white men do about it?
+
+<!-- Similar articles start here -->
+<div  class="clear-wrap"></div>
+
+#### Related Articles
+
+* [Toward a New Racial Philosophy (1933)](/Volumes/40/01/toward_a_new_racial_philosophy.html)
+* [Vital Statistics (1912)](/Volumes/04/06/vital_statistics.html)
+* [The Immediate Program of the  American Negro (1915)](/Volumes/09/06/immediate_program.html)
+* [Black and White Workers (1928)](/Volumes/35/03/black_and_white_workers.html)
+* [The Simple Way (1913)](/Volumes/07/01/simple_way.html)
+
+<!-- Similar articles end here -->

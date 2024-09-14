@@ -75,13 +75,13 @@ Unless the problem of the ballot is solved, either through reduction of Southern
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
 
-* [How Shall We Vote (1920)](/Volumes/20/05/how_shall_we_vote.html)
-* [Inter-Racial Comity (1922)](/Volumes/22/01/inter-racial_comity.html)
-* [Disenfranchisement (1926)](/Volumes/32/01/disenfranchisement.html)
-* [The White Primary (1911)](/Volumes/01/05/white_primary.html)
+#### Related Articles
+
 * [The Woman Voter (1921)](/Volumes/21/05/woman_voter.html)
+* [In Georgia (1920)](/Volumes/20/03/in-georgia.html)
+* [Inter-Racial Comity (1922)](/Volumes/22/01/inter-racial_comity.html)
+* [The White Primary (1911)](/Volumes/01/05/white_primary.html)
+* [Remember (1920)](/Volumes/19/06/remember.html)
 
 <!-- Similar articles end here -->

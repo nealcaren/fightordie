@@ -31,13 +31,13 @@ This indicates a discrimination so fundamental and so calculated to perpetuate i
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
+
+#### Related Articles
 
 * [Education (1911)](/Volumes/01/04/education.html)
 * [Negro Education (1918)](/Volumes/15/04/negro_education.html)
-* [Employment (1932)](/Volumes/39/09/employment.html)
 * [The Negro Citizen (1929)](/Volumes/36/05/negro_citizen.html)
+* [Employment (1932)](/Volumes/39/09/employment.html)
 * [Radicals and the Negro (1925)](/Volumes/29/05/radicals_and_the_negro.html)
 
 <!-- Similar articles end here -->

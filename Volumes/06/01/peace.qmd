@@ -32,13 +32,13 @@ At a recent meeting of the New York Peace Society the war in the Balkans was eul
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
+
+#### Related Articles
 
 * [Resolutions of the Washington Conference (1917)](/Volumes/14/02/resolutions.html)
-* [Peace (1915)](/Volumes/10/01/peace.html)
 * [Peace (1933)](/Volumes/40/12/peace.html)
+* [Peace (1915)](/Volumes/10/01/peace.html)
 * [Just Like---Folks (1920)](/Volumes/19/05/just_like_folks.html)
-* [Thirteen (1918)](/Volumes/15/03/thirteen.html)
+* [Close Ranks (1918)](/Volumes/16/03/close_ranks.html)
 
 <!-- Similar articles end here -->

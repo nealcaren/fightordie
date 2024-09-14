@@ -30,13 +30,13 @@ Turkey? Is it because of Turkish misrule? No, Europe has been able to stand that
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
 
-* [Liberia (1927)](/Volumes/34/01/liberia.html)
+#### Related Articles
+
 * [The Church (1916)](/Volumes/11/06/church.html)
-* [Crime (1918)](/Volumes/15/05/crime.html)
-* [The Battle of Europe (1916)](/Volumes/12/05/battle_of_eruope.html)
 * [The Church and Religion (1933)](/Volumes/40/10/church_and_religion.html)
+* [The Battle of Europe (1916)](/Volumes/12/05/battle_of_eruope.html)
+* [Italy and Abyssinia (1926)](/Volumes/32/02/italy_and_abyssinia.html)
+* [Liberia (1927)](/Volumes/34/01/liberia.html)
 
 <!-- Similar articles end here -->

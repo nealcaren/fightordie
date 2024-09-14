@@ -34,13 +34,13 @@ __________
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
 
+#### Related Articles
+
+* [Howard (1928)](/Volumes/35/09/howard.html)
+* [Mr. Howard (1922)](/Volumes/23/03/mr-howard.html)
 * [The Negro College (1933)](/Volumes/40/08/negro_college.html)
-* [Negro Education (1918)](/Volumes/15/04/negro_education.html)
+* [Reason in School and Business (1920)](/Volumes/21/01/reason-in-school.html)
 * [Credit (1915)](/Volumes/10/01/credit.html)
-* [The President (1915)](/Volumes/09/04/president.html)
-* [Schools (1917)](/Volumes/13/03/schools.html)
 
 <!-- Similar articles end here -->

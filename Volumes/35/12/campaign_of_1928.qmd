@@ -44,13 +44,13 @@ Two incidents in this campaign give hope of success for this new political align
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
 
-* [How Shall We Vote (1920)](/Volumes/20/05/how_shall_we_vote.html)
-* [Political Straws (1923)](/Volumes/26/03/political_straws.html)
+#### Related Articles
+
+* [The Election (1914)](/Volumes/09/02/election.html)
+* [Vote (1924)](/Volumes/28/03/vote.html)
 * [The Election (1928)](/Volumes/35/12/election.html)
-* [Young Voters (1932)](/Volumes/39/09/young_voters.html)
-* [The Republican Party (1918)](/Volumes/15/06/republican_party.html)
+* [Political Straws (1923)](/Volumes/26/03/political_straws.html)
+* [How Shall We Vote (1920)](/Volumes/20/05/how_shall_we_vote.html)
 
 <!-- Similar articles end here -->

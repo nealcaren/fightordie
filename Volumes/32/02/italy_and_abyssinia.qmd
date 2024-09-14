@@ -39,13 +39,13 @@ Here then is the problem and the program and already Italy is beginning actual a
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
 
-* [Helping Africa (1924)](/Volumes/28/03/helping_africa.html)
+#### Related Articles
+
 * [World War and the Color Line (1914)](/Volumes/09/01/worldwar.html)
 * [Christianity Rampant (1911)](/Volumes/03/01/christianity_rampant.html)
-* [Reconstruction and Africa (1919)](/Volumes/17/04/reconstruction_and_africa.html)
-* [Close Ranks (1918)](/Volumes/16/03/close_ranks.html)
+* [Sketches from Abroad (1924)](/Volumes/27/05/sketches.html)
+* [Helping Africa (1924)](/Volumes/28/03/helping_africa.html)
+* [The Future of Africa (1919)](/Volumes/17/03/future-of-africa.html)
 
 <!-- Similar articles end here -->

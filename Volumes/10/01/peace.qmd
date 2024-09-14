@@ -30,11 +30,11 @@ ______
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
 
-* [Peace (1913)](/Volumes/06/01/peace.html)
+#### Related Articles
+
 * [Resolutions of the Washington Conference (1917)](/Volumes/14/02/resolutions.html)
+* [Peace (1913)](/Volumes/06/01/peace.html)
 * [Close Ranks (1918)](/Volumes/16/03/close_ranks.html)
 * [Just Like---Folks (1920)](/Volumes/19/05/just_like_folks.html)
 * [Listen, Japan and China (1933)](/Volumes/40/01/listen_japan_and_china.html)

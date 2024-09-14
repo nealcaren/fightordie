@@ -91,13 +91,13 @@ Colored Chicago suffers from high rent and difficulty in buying houses in good r
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
+
+#### Related Articles
 
 * [The Negro Citizen (1929)](/Volumes/36/05/negro_citizen.html)
-* [St. Louis (1916)](/Volumes/11/05/st_louis.html)
 * [Segregation in the North (1934)](/Volumes/41/04/segregation_in_the_north.html)
-* [The Negro and the Land (1914)](/Volumes/07/04/negro_land.html)
-* [Memphis or East St. Louis? (1917)](/Volumes/14/03/memphis_or_east_st_louis.html)
+* [Chicago (1921)](/Volumes/21/03/chicago.html)
+* [Segregation (1934)](/Volumes/41/01/segregation.html)
+* [St. Louis (1916)](/Volumes/11/05/st_louis.html)
 
 <!-- Similar articles end here -->

@@ -37,13 +37,13 @@ Meantime, may we not cordially thank Congressman Byrnes for allowing some sevent
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
 
+#### Related Articles
+
+* [The Election (1924)](/Volumes/29/02/election.html)
 * [The Negro Voter (1928)](/Volumes/35/08/negro_voter.html)
+* [Political Rebirth and the Office Seeker (1921)](/Volumes/21/03/political-rebirth.html)
 * [Political Straws (1923)](/Volumes/26/03/political_straws.html)
 * [Remember (1920)](/Volumes/19/06/remember.html)
-* [The Republicans (1915)](/Volumes/10/01/the_republicans.html)
-* [Young Voters (1932)](/Volumes/39/09/young_voters.html)
 
 <!-- Similar articles end here -->

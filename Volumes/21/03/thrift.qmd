@@ -1,0 +1,65 @@
+---
+title: 'Thrift'
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
+date: January 1921
+categories: 
+  - ""
+citation: 
+  type: article-journal
+  container-title: The Crisis
+  volume: 21
+  issue: 3
+  page: 101-102
+google-scholar: true
+
+format:
+  html:
+    toc: false
+    appendix-cite-as: display
+---
+
+A Teacher writes us from Texas:
+
+> Now that prices are on the decline and there is a consequent rise in the value of money, it occurs to me that this is an opportune time to start a national thrift movement among our people.  
+> Such a note should be sounded by our newspapers, magazines and periodicals of every kind. The preacher should proclaim it from the pulpit; the teacher from the lecture platform. It ought to be the watchword of every household.  
+>To have such a movement suggested by you in <span class="crisis-title">The Crisis</span>, I think, would be timely and fruitful.
+
+This is a wise word. During the last five years American Negroes have handled more money than in the preceding twenty years. With it they have bought millions of dollars' worth of property and invested other millions in business, insurance and education. But for every dollar thus wisely used, five dollars have been foolishly wasted.
+
+We are not of those who decry the extravagance of the poor and see economic salvation in the luxury of the rich. Waste is waste whether in Harlem or on Fifth Avenue or in the poppy fields of Flanders, and the antidote for waste is not miserliness but wise expenditure.
+
+Now, wise expenditure for Negroes today includes not simply good homes but good bank accounts. Money is rising in value. A dollar saved today means much more than a dollar tomorrow. We need to earn and control capital. All poor folk need to save and learn how to control capital. The capital which is today ruling the world is not the capital of the rich---it is the capital of the middle class and poor. The *control* of it is in the hands of the rich and that is the reason they *are* rich. The *control* must through democratic methods gradually shift to the hands of masses as the masses are taught or teach themselves the science of capitalistic production.
+
+But the anger of the poor against those who control wealth must not, as it so often does, become anger against wealth. The world needs and must have capital if present culture is to be maintained. The Negro race needs and needs desperately larger and larger amounts of capital for its emancipation. While then we strive to learn to control capital, we must simultaneously strive to save it.
+
+Thrift, saving, care and foresight are the watchwords for black folk today as never before. We are not going to be saved by high-powered automobiles and sables but rather by the canny savings balance, the wise investment, and the wide surplus of income over expense.
+
+Much of what we save is thus put into the control of our white enemies. There are white banks in Texas, in Atlanta and in black Harlem that with millions of Negro money would sooner lend to the devil than to a Negro business enterprise. But the race is not to the swift nor the battle to the strong: our business enterprise is rising and thriving and it is a democratic business and not an oligarchy of millionaires. We are gradually learning as a race to control capital and therein lies salvation for us and the Poor. But to control capital there must be capital to control: Save then, brothers,---save and invest. Remember Poor Richard, how he said:
+
+"*A penny saved is a penny earned.*"
+
+"*Waste not, want not.*"
+
+"*Plough deep while sluggards sleep.*"
+
+"*Remember that time is money.*"
+
+"*A man may, if he knows not how to save as he gets, keep his nose to the grindstone.*"
+
+"*It is hard for an empty bag to stand upright.*"
+
+<!-- Similar articles start here -->
+<div  class="clear-wrap"></div>
+
+#### Related Articles
+
+* [White Charity (1922)](/Volumes/24/02/whitecharity.html)
+* [Progress (1920)](/Volumes/21/01/progress.html)
+* [Education (1911)](/Volumes/02/02/business.html)
+* [The Simple Way (1913)](/Volumes/07/01/simple_way.html)
+* [Investments (1921)](/Volumes/22/05/investments.html)
+
+<!-- Similar articles end here -->

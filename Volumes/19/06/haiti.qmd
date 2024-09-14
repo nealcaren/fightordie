@@ -37,13 +37,13 @@ election is the Freedom of Haiti.
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
+
+#### Related Articles
 
 * [Haiti (1921)](/Volumes/22/06/haiti.html)
 * [Haiti (1915)](/Volumes/11/02/haiti.html)
-* [Violence (1934)](/Volumes/41/05/violence.html)
-* [How Shall We Vote (1924)](/Volumes/29/01/how_shall_we_vote.html)
-* [Awake America (1917)](/Volumes/14/05/awake_america.html)
+* [Naval Ruler (1917)](/Volumes/14/01/naval_ruler.html)
+* [The History of Haiti (1920)](/Volumes/20/05/history-of-haiti.html)
+* [Two Columns (1916)](/Volumes/12/04/_two-columns.html)
 
 <!-- Similar articles end here -->

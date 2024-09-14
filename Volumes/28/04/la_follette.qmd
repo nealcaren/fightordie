@@ -48,13 +48,13 @@ This program then is so good in fact that it is most disheartening to find Mr. L
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
 
-* [A Statement (1919)](/Volumes/19/01/statement.html)
-* [Socialism and the Negro (1921)](/Volumes/22/06/socialism_and_the_negro.html)
-* [Our Economic Peril (1930)](/Volumes/37/03/our_economic_peril.html)
-* [Our Program (1930)](/Volumes/37/05/our_program.html)
+#### Related Articles
+
+* [Violations of Property Rights (1911)](/Volumes/02/01/violations.html)
 * [Toward a New Racial Philosophy (1933)](/Volumes/40/01/toward_a_new_racial_philosophy.html)
+* [The Task (1920)](/Volumes/20/04/task.html)
+* [Socialism and the Negro (1921)](/Volumes/22/06/socialism_and_the_negro.html)
+* [A Statement (1919)](/Volumes/19/01/statement.html)
 
 <!-- Similar articles end here -->

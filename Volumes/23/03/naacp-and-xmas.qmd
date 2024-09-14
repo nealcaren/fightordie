@@ -1,0 +1,55 @@
+---
+title: 'N.A.A.C.P. and Xmas'
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
+date: January 1922
+categories: 
+  - ""
+citation: 
+  type: article-journal
+  container-title: The Crisis
+  volume: 23
+  issue: 3
+  page: 104-105
+google-scholar: true
+
+format:
+  html:
+    toc: false
+    appendix-cite-as: display
+---
+
+In this season of holiday and joy have you thought of *your* Christmas gift for Freedom? Thinking of what you have earned and spent for the year, what you have accomplished and enjoyed, does it occur to you that you owe something, not simply to your race and to your country, but to humanity---to the upward striving forces of the world? Have you paid that debt or any part of it?
+
+If not, consider the claims of the National Association for the Advancement of Colored People. During the year 1921 we have:
+
+1. Helped expose the Ku Klux Klan,
+2. Pushed the anti-lynching bill out of committee and before the House of Representatives,
+3. Saved up to the present time the condemned victims of the Arkansas riots, sentenced to die in 1919, and have brought their cases to the Supreme Court of the United States, at an expense of $11,299,
+4. Investigated and exposed the Tulsa riot and raised and disbursed a fund of $3,500 for physical relief and legal aid,
+5. Promoted a Second Pan-African Congress with 110 delegates and 1,000 visitors from 30 countries and 11 states of the United States,
+6. Presented a petition to President Harding signed by 50,000 persons asking clemency for the soldiers who were in the Houston riot and who are now incarcerated at Leavenworth,
+7. Continued to push our efforts to free Haiti and helped secure a Congressional investigating committee which is now sitting in Haiti,
+8. Published 600,000 copies of <span class="crisis-title">The Crisis</span> and sold them in every corner of the world,
+9. In general made every enemy of the Negro fear our power, and every black victim trust our aid.
+
+We have not done everything or all we would---but we have done something, have we not?
+
+Moreover this work has not been paid for by millionaires. No single individual gift to us has exceeded $500, and only seven have reached that figure. There have been only 17 gifts of $100. The great mass of gifts have come in sums of from $1 to $5 from poor colored folk. Nine-tenths of the funds supporting this organization come from Negroes. This is fair and proper. It is our work and we must do it. More and more the burden of this work is going to fall on the Negro race!
+
+But have *you* done *your* share? Why not send the N.A.A.C.P. a Thanksgiving or Christmas or New Year’s gift? Why not lift from the backs of the officers enough of the burden of finance so as to leave them strength for investigation, action, relief, thought and plan?
+
+<!-- Similar articles start here -->
+<div  class="clear-wrap"></div>
+
+#### Related Articles
+
+* [Credit (1915)](/Volumes/10/01/credit.html)
+* [Philanthropy and Self Help (1918)](/Volumes/16/03/philanthropy_and_self_help.html)
+* [Progress (1920)](/Volumes/21/01/progress.html)
+* [White Charity (1922)](/Volumes/24/02/whitecharity.html)
+* [The Next Step (1913)](/Volumes/06/02/next_step.html)
+
+<!-- Similar articles end here -->

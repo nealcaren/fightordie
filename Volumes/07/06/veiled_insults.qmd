@@ -40,13 +40,13 @@ In substance nothing could be better than these statements; but can anyone read 
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
+
+#### Related Articles
 
 * [Negro (1914)](/Volumes/09/02/negro.html)
-* [That Capital ''N'' (1916)](/Volumes/11/04/that_capital_n.html)
-* [The Capital N (1930)](/Volumes/37/05/capital_n.html)
-* [Prejudice (1911)](/Volumes/02/01/prejudice.html)
 * [The Name Negro (1928)](/Volumes/35/03/name_negro.html)
+* [That Capital 'N' (1916)](/Volumes/11/04/that_capital_n.html)
+* [Social Equality (1928)](/Volumes/35/02/social_equality.html)
+* [The Capital N (1930)](/Volumes/37/05/capital_n.html)
 
 <!-- Similar articles end here -->

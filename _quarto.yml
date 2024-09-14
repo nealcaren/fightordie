@@ -11,8 +11,11 @@ website:
     - about.qmd
     - href: backround.qmd
       text: Background
-    - covers.qmd
-    - credits.qmd
+    - text: More
+      menu:
+      - map.qmd
+      - covers.qmd
+      - credits.qmd
 
 format:
   html:

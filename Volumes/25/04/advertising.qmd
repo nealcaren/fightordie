@@ -38,13 +38,13 @@ We reached at least five million readers in a day---the greatest single stroke o
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
+
+#### Related Articles
 
 * [Our Economic Future (1928)](/Volumes/35/05/our_economic_future.html)
+* [The Last Word in Politics (1912)](/Volumes/05/01/last_word_in_politics.html)
+* [Publicity (1922)](/Volumes/24/01/publicity.html)
 * [Travel (1926)](/Volumes/33/02/travel.html)
-* [White Charity (1922)](/Volumes/24/02/whitecharity.html)
-* [Negro Art (1921)](/Volumes/22/02/negro_art.html)
 * [Our Economic Peril (1930)](/Volumes/37/03/our_economic_peril.html)
 
 <!-- Similar articles end here -->

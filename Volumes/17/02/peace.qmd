@@ -32,13 +32,13 @@ And now suddenly we awake! It is done. We are sane. We are alive. Behold the Hea
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
+
+#### Related Articles
 
 * [Curtains of Pain (1917)](/Volumes/13/04/curtains_of_pain.html)
+* [The Christmas Prayers of God (1914)](/Volumes/09/02/christmas_prayers_of_god.html)
 * [Forward (1920)](/Volumes/20/05/forward.html)
 * [The Burden of Black Women (1914)](/Volumes/09/01/burden_of_black_women.html)
-* [Unrest (1920)](/Volumes/19/05/unrest.html)
-* [A Philosophy in Time of War (1918)](/Volumes/16/04/philosophy_in_time_of_war.html)
+* [Peace (1933)](/Volumes/40/12/peace.html)
 
 <!-- Similar articles end here -->

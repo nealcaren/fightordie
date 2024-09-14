@@ -54,12 +54,12 @@ stating age, education, and experience in the class applied for. Those who are a
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
 
-* [Soldiers (1920)](/Volumes/20/03/soldiers.html)
+#### Related Articles
+
 * [The Negro Soldier (1919)](/Volumes/19/02/negro_soldier.html)
 * [To the Rescue (1916)](/Volumes/12/01/rescue.html)
+* [Soldiers (1920)](/Volumes/20/03/soldiers.html)
 * [Officers (1917)](/Volumes/14/02/officers.html)
 * [Baker (1917)](/Volumes/15/02/baker.html)
 

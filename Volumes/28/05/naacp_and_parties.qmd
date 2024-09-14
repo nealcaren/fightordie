@@ -23,7 +23,7 @@ format:
 ---
 
 
-A number of newspapers anxious to get in line for campaign funds have been throwing fits over the alleged endorsing of a Third Party by this Association. What the National Association for the Advancement of Colored People in annual conference actually said was printed in the plainest sort of English in the last <span class = "small-caps">Crisis</span>. The National Association for the Advancement of Colored People does not attempt to tell its members or anyone else how to vote. It does attempt to put the facts before them and to urge them to consider the facts and vote with their brains and not with their prejudices. It has said repeatedly and says again: Any black man who votes for the present Republican party out of gratitude or with any hope that it will do a single thing for the Negro that it is not forced to do, is a born fool. Equally no Negro democrat can for a moment forget that his party depends primarily on the lynching, mobbing, disfranchising South. Toward any Third Party advocates the intelligent Negro must be receptive, hoping they are not enemies, seeking to make them friends, and trying to balance the prospects oi good and ill in supporting them.
+A number of newspapers anxious to get in line for campaign funds have been throwing fits over the alleged endorsing of a Third Party by this Association. What the National Association for the Advancement of Colored People in annual conference actually said was printed in the plainest sort of English in the last <span class="crisis-title">Crisis</span>. The National Association for the Advancement of Colored People does not attempt to tell its members or anyone else how to vote. It does attempt to put the facts before them and to urge them to consider the facts and vote with their brains and not with their prejudices. It has said repeatedly and says again: Any black man who votes for the present Republican party out of gratitude or with any hope that it will do a single thing for the Negro that it is not forced to do, is a born fool. Equally no Negro democrat can for a moment forget that his party depends primarily on the lynching, mobbing, disfranchising South. Toward any Third Party advocates the intelligent Negro must be receptive, hoping they are not enemies, seeking to make them friends, and trying to balance the prospects oi good and ill in supporting them.
 
 Facing such facts one Negro may decide to support Coolidge in the present campaign, not because he is so good but because others are so bad; another Negro considering the same facts may decide to support Davis because in his Negro attitude he represents the best of a bad crowd; or again a black man may well say: "LaFollette's industrial program will help me as a laborer more than his silence on the Negro problem hurts me."
 
@@ -41,13 +41,13 @@ Let us in God's name vote next November with our heads and not with our heels, a
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
 
-* [Muddle (1916)](/Volumes/13/02/muddle.html)
-* [The Congressmen and the NAACP (1914)](/Volumes/09/02/congressmen_and_the_naacp.html)
+#### Related Articles
+
 * [The Negro Party (1916)](/Volumes/12/06/negro_party.html)
+* [Muddle (1916)](/Volumes/13/02/muddle.html)
 * [White Co-Workers (1920)](/Volumes/20/01/white_coworkers.html)
-* [Education (1913)](/Volumes/06/02/democrats.html)
+* [The Negro in Politics (1929)](/Volumes/36/11/negro_in_politics.html)
+* [The Election (1914)](/Volumes/09/02/election.html)
 
 <!-- Similar articles end here -->

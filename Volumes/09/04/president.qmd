@@ -1,4 +1,3 @@
-
 ---
 title: 'The President'
 author:
@@ -7,7 +6,8 @@ author:
       family: Du Bois
 date: Feb. 1915
 categories: 
-  - ""
+  - "Woodrow Wilson"
+  - 
 citation: 
   type: article-journal
   container-title: The Crisis
@@ -58,13 +58,13 @@ most grievous disappointments that a disappointed people must bear.
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
 
-* [Presidential Candidates (1916)](/Volumes/13/01/presidential_candidates.html)
+#### Related Articles
+
 * [William Monroe Trotter (1914)](/Volumes/09/02/trotter.html)
-* [Mr. Taft (1911)](/Volumes/02/06/taft.html)
+* [Presidential Candidates (1916)](/Volumes/13/01/presidential_candidates.html)
 * [An Open Letter to Woodrow Wilson (1913)](/Volumes/05/05/open_letter.html)
-* [Letters (1919)](/Volumes/17/01/letters.html)
+* [Another Open Letter to Woodrow Wilson (1913)](/Volumes/06/05/open_letter.html)
+* [Mr. Taft (1911)](/Volumes/02/06/taft.html)
 
 <!-- Similar articles end here -->

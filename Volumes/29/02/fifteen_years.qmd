@@ -1,0 +1,49 @@
+---
+title: 'Fifteen Years'
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
+date: December 1924
+categories: 
+  - ""
+citation: 
+  type: article-journal
+  container-title: The Crisis
+  volume: 291
+  issue: 29
+  page: 56-57
+google-scholar: true
+
+format:
+  html:
+    toc: false
+    appendix-cite-as: display
+---
+
+### Fifteen Years
+
+With the November number <span class="crisis-title">The Crisis</span> began the 15th year of its life. It has weathered doubt and distrust, misrepresentation and throttling, hatred, concealed plot and open bribery. Without recourse to chronicling crime, broadcasting flattery, retailing petty gossip or specializing in slapstick comedy---without cringing to friend or foe, <span class="crisis-title">The Crisis</span> has made its way to every state in the nation and every country in the world. All this has drawn bloody sweat, heartache and despair, with all the inspiration of high resolve and unflinching courage.
+
+Nor are we yet out of the woods. This magazine is self-supporting and has been since January 1, 1916. We are proud of this; we often boast of it. And yet what does self-support mean? It means that you spend what you earn and no more. It does not mean that you earn enough to support a proper periodical. You know and we know that our income is not large enough to make this magazine what it should be. It needs increase in size, betterment in appearance, and larger variety in contents; it needs ability to pay more to its contributors and workers and it needs funds for investigation and research.
+
+In other words self-support is only a first step. It is a necessary step and a step which few periodicals of the better sort have taken. There is no difficulty in selling to the average public, black and white, sensation, foolishness and gush. But it is desperately difficult to sell information, truth and reform. Some months since there was a meeting of liberal periodicals in New York to compare notes. Of those present, including the Nation, the New Republic and the World Tomorrow, <span class="crisis-title">The Crisis</span> alone was self-supporting and our business manager was cheered and made to repeat his report. But after all there was little to brag about; we had cut our pattern to suit our cloth, and a mighty skimpy pattern it was. Yet many folk take <span class="crisis-title">The Crisis</span> for granted. They think it is here to stay; that it always can and will fight, expose, commend and investigate. This is not true! No institution like <span class="crisis-title">The Crisis</span> can stand still and "occupy" a position. It must move forward or backward.
+
+If then you want <span class="crisis-title">The Crisis</span>, support it and increase the number of supporters. Remember <span class="crisis-title">The Crisis</span> is not trying always to please everybody. That is impossible. But if on the whole this magazine is saying and doing the thing that sensible, educated and far-sighted Negroes want said and done, then make it possible for us to carry our message to a wider audience and tell with redoubled efficiency.
+
+If you do not do this, you will not be without magazines and periodicals---O no and never. But they will be the sort that do and say either what foolish and ignorant black folk pay for, or what rich and wise and unscrupulous white folk think is best for us, to keep us in "our place".
+
+Remember this, brother, and act. And he acts twice who acts quickly.
+
+<!-- Similar articles start here -->
+<div  class="clear-wrap"></div>
+
+#### Related Articles
+
+* [The New Crisis (1925)](/Volumes/30/01/new_crisis.html)
+* [Forward (1920)](/Volumes/20/05/forward.html)
+* [We Come of Age (1915)](/Volumes/11/01/we_come_of_age.html)
+* [Progress (1920)](/Volumes/21/01/progress.html)
+* [Truth and Beauty (1922)](/Volumes/25/01/truth_and_beauty.html)
+
+<!-- Similar articles end here -->

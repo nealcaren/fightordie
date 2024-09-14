@@ -1,0 +1,40 @@
+---
+title: 'And Now Liberia'
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
+date: December 1920
+categories: 
+  - ""
+citation: 
+  type: article-journal
+  container-title: The Crisis
+  volume: 21
+  issue: 2
+  page: 54-56
+google-scholar: true
+
+format:
+  html:
+    toc: false
+    appendix-cite-as: display
+---
+
+
+The Wilson Plan of assisting Liberia has been finally revealed in detail. Its terms, which include a loan of five million dollars, are found to be disastrously rigid. Worley, a white Virginian, as General Receiver, is the one prominent figure and would be the real ruler of Liberia under this plan, together with his band of white pensioners. He and our Secretary of Legation, Bundy, sought to force the plan through, but President King called an extra session of the Legislature to consider amendments. While the Legislature was in session a cablegram was received from the United States, saying that no amendments to the Plan would be accepted and that the Plan must be signed as submitted by them, "or the friendly interest which has heretofore existed would become lessened."
+
+The Liberians, however, refused to be frightened and are preparing to send another commission to America, now that the election is over, to discuss some reasonable changes in the proposed financial arrangements.
+
+<!-- Similar articles start here -->
+<div  class="clear-wrap"></div>
+
+#### Related Articles
+
+* [Soldiers (1919)](/Volumes/17/01/soldiers.html)
+* [Robert R. Moton (1919)](/Volumes/18/01/robert_moton.html)
+* [Liberia (1927)](/Volumes/34/01/liberia.html)
+* [The Pan-African Congresses: The Story of a Growing Movement (1927)](/Volumes/34/08/panafrican_congresses.html)
+* [Intentions (1923)](/Volumes/25/03/intentions.html)
+
+<!-- Similar articles end here -->

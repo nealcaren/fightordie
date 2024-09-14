@@ -42,7 +42,7 @@ The proposals to remedy the economic and political situation in America range fr
 
 ## Advice to Negroes
 
-With these appeals in his ears, what shall the American Negro do? In the letters from United States Senators published in this issue of <span class = "small-caps">The Crisis</span>, we find, with all the sympathy and good-will expressed, a prevailing helplessness when it comes to advice on specific action. Reactionaries like Fess, Conservatives like Bulkley and Capper, Progressives like Borah and Norris, all can only say: "You have done as well as could be expected; you suffer many present disadvantages; there is nothing that we can do to help you, and your salvation lies in patience and further effort on your own part." The Socialist, as represented by Norman Thomas in the February <span class = "small-caps">Crisis</span>, invites the Negro as a worker to vote for the Socialist Party as the party of workers. He offers the Negro no panacea for prejudice and caste but assumes that the uplift of the white worker will automatically emancipate the yellow, brown and black.
+With these appeals in his ears, what shall the American Negro do? In the letters from United States Senators published in this issue of <span class="crisis-title">The Crisis</span>, we find, with all the sympathy and good-will expressed, a prevailing helplessness when it comes to advice on specific action. Reactionaries like Fess, Conservatives like Bulkley and Capper, Progressives like Borah and Norris, all can only say: "You have done as well as could be expected; you suffer many present disadvantages; there is nothing that we can do to help you, and your salvation lies in patience and further effort on your own part." The Socialist, as represented by Norman Thomas in the February <span class="crisis-title">Crisis</span>, invites the Negro as a worker to vote for the Socialist Party as the party of workers. He offers the Negro no panacea for prejudice and caste but assumes that the uplift of the white worker will automatically emancipate the yellow, brown and black.
 
 ## The Scottsboro Cases
 
@@ -143,13 +143,13 @@ There is no doubt, then, as to the future, or as to where the true interests of 
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
 
-* [The Negro and Radical Thought (1921)](/Volumes/22/03/negro_and_radical_thought.html)
+#### Related Articles
+
 * [Ten Years (1927)](/Volumes/34/10/ten_years.html)
+* [The Negro and Radical Thought (1921)](/Volumes/22/03/negro_and_radical_thought.html)
 * [Judging Russia (1927)](/Volumes/33/04/judging_russia.html)
-* [Our Economic Peril (1930)](/Volumes/37/03/our_economic_peril.html)
 * [The Spread of Socialism (1921)](/Volumes/22/05/spread-of-socialism.html)
+* [Our Economic Peril (1930)](/Volumes/37/03/our_economic_peril.html)
 
 <!-- Similar articles end here -->

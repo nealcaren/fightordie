@@ -64,13 +64,13 @@ less is to acknowledge your own lack of manhood.
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
 
-* [Jim Crow (1919)](/Volumes/17/03/jim_crow.html)
+#### Related Articles
+
 * [Blessed Discrimination (1913)](/Volumes/05/04/blesseddiscrimination.html)
-* [The Proper Way (1913)](/Volumes/05/05/proper_way.html)
+* [Jim Crow (1919)](/Volumes/17/03/jim_crow.html)
+* [A Statement (1919)](/Volumes/19/01/statement.html)
 * [The Fruit of the Tree (1913)](/Volumes/06/05/fruit_of_tree.html)
-* [The Tragedy of ''Jim Crow'' (1923)](/Volumes/26/04/tradgedy_of_jim_crow.html)
+* [The Tragedy of 'Jim Crow' (1923)](/Volumes/26/04/tradgedy_of_jim_crow.html)
 
 <!-- Similar articles end here -->

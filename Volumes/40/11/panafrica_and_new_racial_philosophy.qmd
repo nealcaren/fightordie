@@ -57,13 +57,13 @@ It is a large and intricate problem but the sooner we put ourselves in position 
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
 
-* [Correspondence (1926)](/Volumes/31/05/correspondence.html)
-* [The Strength of Segregation (1913)](/Volumes/07/03/strength_of_segregation.html)
+#### Related Articles
+
 * [Unity (1924)](/Volumes/28/03/unity.html)
+* [Correspondence (1926)](/Volumes/31/05/correspondence.html)
 * [A Statement (1919)](/Volumes/19/01/statement.html)
-* [Jim Crow (1919)](/Volumes/17/03/jim_crow.html)
+* [The Strength of Segregation (1913)](/Volumes/07/03/strength_of_segregation.html)
+* [The Name Negro (1928)](/Volumes/35/03/name_negro.html)
 
 <!-- Similar articles end here -->

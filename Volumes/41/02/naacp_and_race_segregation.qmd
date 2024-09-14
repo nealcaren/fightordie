@@ -66,13 +66,13 @@ Such are the flat and undeniable facts. What are we going to do about them? We c
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
 
-* [Segregation in the North (1934)](/Volumes/41/04/segregation_in_the_north.html)
-* [White Co-Workers (1920)](/Volumes/20/01/white_coworkers.html)
+#### Related Articles
+
 * [Inter-Racial Comity (1922)](/Volumes/22/01/inter-racial_comity.html)
+* [White Co-Workers (1920)](/Volumes/20/01/white_coworkers.html)
 * [The Negro Citizen (1929)](/Volumes/36/05/negro_citizen.html)
+* [Segregation in the North (1934)](/Volumes/41/04/segregation_in_the_north.html)
 * [Unity (1924)](/Volumes/28/03/unity.html)
 
 <!-- Similar articles end here -->

@@ -1,0 +1,64 @@
+---
+title: 'In Georgia'
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
+date: Jul. 1920
+categories: 
+  - ""
+citation: 
+  type: article-journal
+  container-title: The Crisis
+  volume: 20
+  issue: 3
+  page: 117-118
+google-scholar: true
+
+format:
+  html:
+    toc: false
+    appendix-cite-as: display
+---
+
+
+
+The eleventh annual conference of the N.A.A.C.P. marked an epoch. For the first time since Reconstruction a radical Negro organization, whose aims were well known and clearly enunciated, has met openly in the center of the South and demanded without equivocation:
+
+<ul class="list-no-markers">
+  <li>The right to vote</li>
+  <li>The Federal suppressing of lynching</li>
+  <li>Free compulsory common school training</li>
+  <li>The abolition of "Jim Crow" cars</li>
+  <li>Decent conditions of labor and wage</li>
+</ul>
+
+To those white Southerners who despite their education and training and despite their deep and passionate convictions stood for and insisted on fair play for us, we hold out hearty hands in greeting and fellowship. We know as they know that this meeting does not mean the conversion of the white South. By no means. The South was never more determined than today to keep the Negro “in his place”. Moreover among the audiences which aggregated perhaps 15,000 persons during the four days, less than 50 were *southern* whites.
+
+Why then did our meeting mark an epoch?
+
+For two reasons:
+
+1. It marked a decision on the part of the leaders of the white South that it is no longer wise to prevent Negroes from openly expressing their grievances.
+2. It marked the realization by the whole country that there is no difference of aim and desire between the southern and northern Negro.
+
+For fifty years the white South backed by organized northern philanthropy has attempted to gag the black man. By charity, promises, cajolery, threats and mob law it has made it next to impossible for the Negro to complain in the South and if he complained in the North about the South it was plausibly explained that he did not know what he was talking about; that only southern Negroes knew southern conditions and they were silent and satisfied!
+
+Again, if northern Negroes presumed to go into the South they not only faced the “Jim Crow” car and the threat of the mob but they were branded as dangerous “agitators” seeking to stir up the quiet and happy southern Negroes; their words were distorted and twisted or entirely suppressed and to cap the climax the ubiquitous “white folks’ nigger” appeared, denounced the intruders and lauded the lynchers to the skies.
+
+The firm, unwavering stand of the Atlanta Branch of the N.A.A.C.P. brought these tactics to naught. The “white folks’ nigger” lost his glib tongue. Hurried conferences between whites and blacks convinced the whites that the blacks demanded this meeting, that their objects were lawful and that the only trouble that could ensue would come from the whites.
+
+Finally, there can be no doubt but that a small portion of the white South is thinking and learning. To them <span class="crisis-title">The Crisis</span> and the N.A.A.C.P. hold out frank hands of fellowship. But we do this without shuffling or deception. We black folk demand the rights of men---no more, no less. Are you with us or against us? If you are with us we are with you, willing to toil and strive in patience and bloody sweat for a real American democracy. But if you are against us there is no compromise possible. It is fight and fight to the bitter end.
+
+<!-- Similar articles start here -->
+<div  class="clear-wrap"></div>
+
+#### Related Articles
+
+* [The Newer South (1926)](/Volumes/31/04/newer_south.html)
+* [The Newest South (1913)](/Volumes/06/03/newest_south.html)
+* [Social Equality (1916)](/Volumes/12/01/social_equality.html)
+* [Suffrage (1920)](/Volumes/21/01/suffrage.html)
+* [Jim Crow (1919)](/Volumes/17/03/jim_crow.html)
+
+<!-- Similar articles end here -->

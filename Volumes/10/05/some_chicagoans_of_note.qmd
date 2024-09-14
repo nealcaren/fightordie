@@ -173,13 +173,13 @@ We may also mention Mrs. Lulu B. Shreves, President of the only colored auxiliar
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
 
-* [The White Church (1917)](/Volumes/14/01/white_church.html)
+#### Related Articles
+
+* [Soldiers (1920)](/Volumes/20/03/soldiers.html)
 * [A Soldier (1920)](/Volumes/19/05/a_soldier.html)
-* [Conduct, Not Color (1916)](/Volumes/12/05/conduct_not_color.html)
-* [A Crusade (1914)](/Volumes/07/05/crusades.html)
 * [Colored Chicago (1915)](/Volumes/10/05/colored_chicago.html)
+* [The American Legion (1919)](/Volumes/18/05/the_american_legion.html)
+* [Chicago (1921)](/Volumes/21/03/chicago.html)
 
 <!-- Similar articles end here -->

@@ -1,0 +1,53 @@
+---
+title: 'Politics and Power'
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
+date: Feb. 1921
+categories: 
+  - ""
+citation: 
+  type: article-journal
+  container-title: The Crisis
+  volume: 23
+  issue: 4
+  page: 153-154
+google-scholar: true
+
+format:
+  html:
+    toc: false
+    appendix-cite-as: display
+---
+
+Some persons continue to admonish the Negro that political power is not omnipotent, and that without it much may be done to uplift the people; while with it, much may be left undone. The real answer to this argument lies in the facts, and Mr. S. D. Redmond of Jackson, Mississippi, has furnished some facts to the editor of the *Commercial Appeal*, Memphis, Tenn., which the editor did not see fit to publish.
+
+Mr. Redmond points, for instance, to the fact that in Mississippi there are 525 consolidated rural schools combining grammar and high school grades, teaching vocal and instrumental music, domestic science and manual training. They have free teachers' homes and agricultural experiment plots, and 200 auto cars transport pupils to these schools at a cost of $99,477 a month. And yet, while 525 of these schools are furnished to the 175,000 *white* school children of the state, *not a single one* is furnished to the 200,000 colored children.
+
+Again there are 400 city high schools for whites, but there is not a single separate high school for Negroes. There are four colored city schools which have the 9th and 10th grades, and one that has 12 grades. Again there are 49 agricultural high schools for the whites in the State and not a single one for Negroes.
+
+Not only is this true, but the Mississippi code of 1917 is so arranged that Negroes cannot even tax themselves for schools. The code says that whenever the "qualified electors" of a school district or county desire a consolidated rural school or high school they can, by petitions signed by a certain percentage, have an election called and issue bonds. Now as Negroes are seldom permitted to qualify as electors they cannot demand a bond issue. In only one case in the State, that is, the Negro town of Mound Bayou, have they been permitted to tax themselves and to build a $100,000 school.
+
+On the other hand, when the white electors vote a bond issue, Negro property is taxed exactly the same as white property *for the support of white schools*.
+
+At its last session the Mississippi legislature appropriated $3,529,479.64 for the support of the higher education of the white youth of the State, but only $50,000 for Negroes, in a single college that can not accommodate more than 350 students. White children are furnished institutions for the feeble-minded and a reform school. Negroes have neither. The State pays $32 a month for the education and reformation of an errant white youth while the Negro youth is sent to the county farm or penitentiary along with the most hardened criminals. The State provides an institution for the white blind but leaves blind Negroes to beg on the streets.
+
+If we turn from the State as a whole and confine our attention to Jackson, the capital city, where the white and Negro population is about equal, the whites have eight fine schools, one of them a city high school which cost nearly $300,000. The Negroes have two poor schools, one of six grades and the other of eight grades, no high school whatsoever, and white teachers receive more than twice the salary paid Negro teachers for the same grade work. Yet Mr. Redmond, a Negro citizen of Jackson, paid $4,000 in taxes last year.
+
+He calls attention finally to the fact that the Negroes have no public library, parks or playgrounds, that the streets in their district are unkept, not properly lighted and often without sidewalks and that if the Negroes should enter one of the parks for which he is taxed he would be arrested! 
+
+This is the cost of disfranchisement in Mississippi.
+
+<!-- Similar articles start here -->
+<div  class="clear-wrap"></div>
+
+#### Related Articles
+
+* [Education (1930)](/Volumes/37/02/education.html)
+* [The Cost of Education (1911)](/Volumes/03/02/cost_of_education.html)
+* [Education (1911)](/Volumes/01/04/education.html)
+* [Employment (1932)](/Volumes/39/09/employment.html)
+* [Public Schools (1916)](/Volumes/12/01/public_schools.html)
+
+<!-- Similar articles end here -->

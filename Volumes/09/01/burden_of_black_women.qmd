@@ -114,13 +114,13 @@ format:
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
 
-* [In God''s Gardens (1912)](/Volumes/03/06/in-gods-gardens.html)
-* [The Christmas Prayers of God (1914)](/Volumes/09/02/christmas_prayers_of_god.html)
-* [The Song of the Smoke (1914)](/Volumes/07/03/song_of_smoke.html)
+#### Related Articles
+
+* [The Drama Among Black Folk (1916)](/Volumes/12/04/drama_among_black_folk.html)
 * [The Quadroon (1911)](/Volumes/03/01/quadroon.html)
-* [Unrest (1920)](/Volumes/19/05/unrest.html)
+* [Curtains of Pain (1917)](/Volumes/13/04/curtains_of_pain.html)
+* [Joseph Pulitzer (1911)](/Volumes/03/02/joseph_pulitzer.html)
+* [In God's Gardens (1912)](/Volumes/03/06/in-gods-gardens.html)
 
 <!-- Similar articles end here -->

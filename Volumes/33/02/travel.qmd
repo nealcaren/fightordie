@@ -47,13 +47,13 @@ But always the center of all this was Russia, and of Russia I have much to tell 
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
 
+#### Related Articles
+
+* [Races (1911)](/Volumes/02/04/races.html)
 * [Y.M.C.A (1914)](/Volumes/09/02/ymca.html)
-* [The Black Man in the Revolution of 1914-1918 (1919)](/Volumes/17/05/the_black_man_in_the_revolution_of_1914_1918.html)
 * [The Present (1917)](/Volumes/14/04/present.html)
+* [The Second Pan-African Congress (1921)](/Volumes/21/06/second-pan-african-congress.html)
 * [World War and the Color Line (1914)](/Volumes/09/01/worldwar.html)
-* [A Winter Pilgrimage (1911)](/Volumes/01/03/winter_pilmigrage.html)
 
 <!-- Similar articles end here -->

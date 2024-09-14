@@ -84,12 +84,12 @@ Moreover, we cannot as a nation secure control of industry and politics as long 
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
+
+#### Related Articles
 
 * [The Election (1928)](/Volumes/35/12/election.html)
-* [The Republican Party (1918)](/Volumes/15/06/republican_party.html)
 * [The Election (1912)](/Volumes/05/02/the_election.html)
+* [The Republican Party (1918)](/Volumes/15/06/republican_party.html)
 * [Mr. Taft (1911)](/Volumes/02/06/taft.html)
 * [The Campaign of 1928 (1928)](/Volumes/35/12/campaign_of_1928.html)
 

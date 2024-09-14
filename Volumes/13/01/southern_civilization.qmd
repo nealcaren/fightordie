@@ -59,13 +59,13 @@ home and not agitate for the "Impossible."
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
+
+#### Related Articles
 
 * [The Newest South (1913)](/Volumes/06/03/newest_south.html)
 * [Slavery (1922)](/Volumes/24/01/slavery.html)
-* [The House of Jacob (1920)](/Volumes/19/04/house-of-jacob.html)
+* [In Georgia (1920)](/Volumes/20/03/in-georgia.html)
 * [Brothers, Come North (1920)](/Volumes/19/03/brothers_come_north.html)
-* [Remember (1920)](/Volumes/19/06/remember.html)
+* [The Newer South (1926)](/Volumes/31/04/newer_south.html)
 
 <!-- Similar articles end here -->

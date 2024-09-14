@@ -131,13 +131,13 @@ I gave up. Go on, I said, either you are crazy or I am.
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
 
-* [A Mild Suggestion (1912)](/Volumes/03/03/mild_suggestion.html)
-* [For What (1919)](/Volumes/17/06/for_what.html)
+#### Related Articles
+
 * [Precept and Practice (1910)](/Volumes/01/02/precept_and_practice.html)
 * [A Matter of Manners (1920)](/Volumes/19/04/matter-of-manners.html)
-* [The Gall of Bitterness (1912)](/Volumes/03/04/gail_of_bitterness.html)
+* [A Mild Suggestion (1912)](/Volumes/03/03/mild_suggestion.html)
+* [For What (1919)](/Volumes/17/06/for_what.html)
+* [Pity the Poor Author (1920)](/Volumes/21/01/pity-the-poor-author.html)
 
 <!-- Similar articles end here -->

@@ -92,13 +92,13 @@ Last year, I looked death in the face and found its lineaments not unkind. But i
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
+
+#### Related Articles
 
 * [The New Crisis (1925)](/Volumes/30/01/new_crisis.html)
-* [Negro Writers (1920)](/Volumes/19/06/negro_writers.html)
-* [DePriest (1929)](/Volumes/36/02/depriest.html)
-* [Truth and Beauty (1922)](/Volumes/25/01/truth_and_beauty.html)
-* [Radicals (1919)](/Volumes/19/02/radicals.html)
+* [Pity the Poor Author (1920)](/Volumes/21/01/pity-the-poor-author.html)
+* [Fifteen Years (1924)](/Volumes/29/02/fifteen_years.html)
+* [We Come of Age (1915)](/Volumes/11/01/we_come_of_age.html)
+* [A Question of Policy and The Philosophy of Mr. Dole (1914)](/Volumes/08/01/question_of_policy.html)
 
 <!-- Similar articles end here -->

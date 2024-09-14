@@ -30,13 +30,13 @@ Nearly every member of the local committee is known to the Editor of <span class
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
+
+#### Related Articles
 
 * [Tulsa Riots (1921)](/Volumes/22/03/tulsa_riots.html)
 * [The Negro and the Land (1914)](/Volumes/07/04/negro_land.html)
 * [Dodging the Issue (1933)](/Volumes/40/02/dodging_the_issue.html)
-* [Baltimore (1910)](/Volumes/01/01/Baltimore.html)
-* [The Proper Way (1913)](/Volumes/05/05/proper_way.html)
+* [Signs from the South (1919)](/Volumes/18/05/signs_from_south.html)
+* [In Georgia (1920)](/Volumes/20/03/in-georgia.html)
 
 <!-- Similar articles end here -->

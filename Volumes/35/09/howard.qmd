@@ -1,0 +1,38 @@
+---
+title: 'Howard'
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
+date: Sep. 1928
+categories: 
+  - ""
+citation: 
+  type: article-journal
+  container-title: The Crisis
+  volume: 35
+  issue: 9
+  page: 312
+google-scholar: true
+
+format:
+  html:
+    toc: false
+    appendix-cite-as: display
+---
+
+
+The Republican Party is playing one of its dirtiest political games in the case of Perry Howard. God knows <span class="crisis-title">The Crisis</span> has no brief for Howard. If the charges are true, he is a grafting politician of the most contemptible sort---but accusations against him are not one whit worse than those against Bascom Slemp, erstwhile Congressman from Virginia, then Secretary to Calvin Coolidge and now in charge of the Republican campaign in the South. Slemp, Howard, Tolbert, Ben Davis and most of the Southern politicians, black and white, of both parties, have trafficked in public offices. White Democrats have bought offices and white Republicans, like Herbert Hoover, have received the votes thus paid for in the National Republican Conventions. The whole situation is a crying shame to American politics and remains so because the mass of black voters in the South is disfranchised and their political power wielded by grafting politicians of all colors and conditions. When the pinch comes and the insurgent West joins with the white South in demanding investigation, it is only the black politicians who are investigated while Slemp, Tolbert and their kind, go free. Let all the northern black voters who are fools vote for Hoover in November.
+
+<!-- Similar articles start here -->
+<div  class="clear-wrap"></div>
+
+#### Related Articles
+
+* [The Republican Party (1918)](/Volumes/15/06/republican_party.html)
+* [The Election (1928)](/Volumes/35/12/election.html)
+* [The Harding Political Plan (1922)](/Volumes/23/03/harding-political-plan.html)
+* [Houston (1928)](/Volumes/35/09/houston.html)
+* [Every Four Years (1920)](/Volumes/19/06/every_four_years.html)
+
+<!-- Similar articles end here -->

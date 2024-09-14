@@ -36,13 +36,13 @@ The woman insisted and got quite excited about it. But Dr. Dumas firmly refused 
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
 
-* [Precept and Practice (1910)](/Volumes/01/02/precept_and_practice.html)
+#### Related Articles
+
 * [Social Equality (1911)](/Volumes/02/05/social_equality.html)
-* [The Negro Citizen (1929)](/Volumes/36/05/negro_citizen.html)
+* [Precept and Practice (1910)](/Volumes/01/02/precept_and_practice.html)
 * [Consolation (1916)](/Volumes/12/02/consolations.html)
-* [Separation (1911)](/Volumes/01/04/separation.html)
+* [Social Equality (1916)](/Volumes/12/01/social_equality.html)
+* [A Matter of Manners (1920)](/Volumes/19/04/matter-of-manners.html)
 
 <!-- Similar articles end here -->

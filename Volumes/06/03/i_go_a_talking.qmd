@@ -95,13 +95,13 @@ All this by way of preface. In later numbers of <span class="crisis-title">The 
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
+
+#### Related Articles
 
 * [Westward Ho (1934)](/Volumes/41/05/westward_ho.html)
 * [The South (1917)](/Volumes/13/06/south.html)
-* [Hail Columbia (1913)](/Volumes/05/06/hail_columbia.html)
-* [Forward (1920)](/Volumes/20/05/forward.html)
-* [A Crusade (1914)](/Volumes/07/05/crusades.html)
+* [Progress (1920)](/Volumes/21/01/progress.html)
+* [The Migration of Negroes (1917)](/Volumes/14/02/migration_of_negroes.html)
+* [Chamounix (1921)](/Volumes/23/02/chamounix.html)
 
 <!-- Similar articles end here -->

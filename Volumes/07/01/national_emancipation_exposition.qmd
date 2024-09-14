@@ -132,13 +132,13 @@ Then shall the banners announce:
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
 
-* [The Drama Among Black Folk (1916)](/Volumes/12/03/drama_among_black_folk.html)
-* [Criteria of Negro Art (1926)](/Volumes/32/06/criteria_of_negro_art.html)
-* [Hail Columbia (1913)](/Volumes/05/06/hail_columbia.html)
-* [The Next Step (1913)](/Volumes/06/02/next_step.html)
+#### Related Articles
+
+* [The Drama Among Black Folk (1916)](/Volumes/12/04/drama_among_black_folk.html)
+* [Negro Art (1922)](/Volumes/23/03/negro-art.html)
 * [The Black Man and the Unions (1918)](/Volumes/15/05/the_black_man_and_the_unions.html)
+* [Criteria of Negro Art (1926)](/Volumes/32/06/criteria_of_negro_art.html)
+* [Black and White Workers (1928)](/Volumes/35/03/black_and_white_workers.html)
 
 <!-- Similar articles end here -->

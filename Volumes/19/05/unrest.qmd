@@ -38,13 +38,13 @@ format:
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
 
-* [The Christmas Prayers of God (1914)](/Volumes/09/02/christmas_prayers_of_god.html)
+#### Related Articles
+
 * [The Quadroon (1911)](/Volumes/03/01/quadroon.html)
-* [In God''s Gardens (1912)](/Volumes/03/06/in-gods-gardens.html)
-* [The Burden of Black Women (1914)](/Volumes/09/01/burden_of_black_women.html)
-* [The Song of the Smoke (1914)](/Volumes/07/03/song_of_smoke.html)
+* [The Crisis (1910)](/Volumes/01/01/TheCrisis.html)
+* [Resistance (1914)](/Volumes/07/04/resistance.html)
+* [Curtains of Pain (1917)](/Volumes/13/04/curtains_of_pain.html)
+* [The Christmas Prayers of God (1914)](/Volumes/09/02/christmas_prayers_of_god.html)
 
 <!-- Similar articles end here -->

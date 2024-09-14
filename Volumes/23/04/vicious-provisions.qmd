@@ -1,0 +1,49 @@
+---
+title: 'Vicious Provisions of a Great Bill'
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
+date: Feb. 1921
+categories: 
+  - ""
+citation: 
+  type: article-journal
+  container-title: The Crisis
+  volume: 23
+  issue: 4
+  page: 152-153
+google-scholar: true
+
+format:
+  html:
+    toc: false
+    appendix-cite-as: display
+---
+
+<span class="crisis-title">The Crisis</span> believes and has always believed in national aid to common schools, because of the shameful fact that the South spends only the miserably inadequate sum of $10.32 a head on the education of white children and only $2.89 for each colored child.
+
+The Smith-Towner Education bill now before Congress seeks to appropriate $7,500,000 annually "to encourage the States to remove illiteracy", and for this reason is directly in line with our wishes. But on reading the bill we learn: "All funds apportioned to a State for the removal of illiteracy shall be distributed and administered in accordance with the laws of said State *in like manner as the funds provided by State and local authorities for the same purpose*, and the State and local educational authorities of said State shall determine the courses of study, plans, and methods for carrying out the purposes of this section within said State in accordance with the laws thereof."
+
+Also the fifty millions appropriated for teachers' salaries in rural schools "shall be distributed and administered in accordance with the laws of said State *in like manner as the funds provided by State and local authorities for the same purpose*, and the State and local educational authorities of said State shall determine the courses of study, plans and methods for carrying out the purposes of this section."
+
+Finally rub your eyes and read this: "Apportionment may be made under the provisions of this section to a State prevented by its constitution from full compliance with the foregoing conditions if said conditions are approximated as nearly as constitutional limitations will permit."
+
+Do the supporters of this bill realize—can they possibly realize what these provisions mean? Despite every effort on the part of the South to conceal the discrimination which it practices against Negro children, the truth is easily approximated. We repeat a statement published by the United States government and prepared by the government in co-operation with the Phelps-Stokes fund. No one could possibly discover Negrophile leanings in figures with such an origin. They are as favorable as they could be made:
+
+> *In the 15 States and the District of Columbia for which salaries by race could be obtained, the public school teachers received $42,510,703 in salaries. Of this sum $36,649,827 was for the teachers of 3,552,431 white children and $5,860,876 for the teachers of 1,852,181 colored children. On a per capita basis, this is $10.32 for each white child and $2.89 for each colored child.*
+
+This is the outrageous situation which this bill proposes to perpetuate. In this form the bill is not a proposal to decrease illiteracy. It is a bill to encourage lynching, peonage and ignorance in the South by perpetuating the present educational discrimination against ignorant and helpless Negroes. Shame on the men, women and national organizations which have loaned their names and influence to this travesty on educational justice.
+
+<!-- Similar articles start here -->
+<div  class="clear-wrap"></div>
+
+#### Related Articles
+
+* [The Cost of Education (1911)](/Volumes/03/02/cost_of_education.html)
+* [Education (1930)](/Volumes/37/02/education.html)
+* [Reconstruction (1919)](/Volumes/18/03/reconstruction.html)
+* [Education (1911)](/Volumes/01/04/education.html)
+* [Schools (1917)](/Volumes/13/03/schools.html)
+
+<!-- Similar articles end here -->

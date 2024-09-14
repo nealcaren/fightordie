@@ -38,13 +38,13 @@ What is true in New York is mere than true in Lexington, Ky. Indeed, throughout 
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
 
-* [Negro Education (1918)](/Volumes/15/04/negro_education.html)
+#### Related Articles
+
 * [Education (1930)](/Volumes/37/02/education.html)
+* [Negro Education (1918)](/Volumes/15/04/negro_education.html)
+* [Taxation without Representation (1914)](/Volumes/07/05/taxation_without_representation.html)
 * [Education (1911)](/Volumes/01/04/education.html)
-* [Reconstruction (1919)](/Volumes/18/03/reconstruction.html)
-* [Segregation (1910)](/Volumes/01/01/Segregation.html)
+* [Politics and Power (1921)](/Volumes/23/04/politics-and-power.html)
 
 <!-- Similar articles end here -->

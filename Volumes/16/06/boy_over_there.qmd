@@ -34,13 +34,13 @@ All is not well, neither in earth, nor in hell, nor yet mayhap in God's own heav
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
+
+#### Related Articles
 
 * [Curtains of Pain (1917)](/Volumes/13/04/curtains_of_pain.html)
-* [The Younger Literary Movement (1924)](/Volumes/27/04/younger_movement.html)
 * [Of Children (1912)](/Volumes/04/06/of_children.html)
-* [The Shadow of Years (1918)](/Volumes/15/04/shadow_of_years.html)
-* [Of the Children of Peace (1914)](/Volumes/08/06/of_children_of_peace.html)
+* [Thirteen (1918)](/Volumes/15/03/thirteen.html)
+* [Boddy (1921)](/Volumes/23/05/boddy.html)
+* [The Younger Literary Movement (1924)](/Volumes/27/04/younger_movement.html)
 
 <!-- Similar articles end here -->

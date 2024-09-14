@@ -23,7 +23,7 @@ format:
 ---
 
 
-<span class = "small-caps">The Crisis</span> believes in organized labor. It realizes that the standard of living among' workers has been raised in the last half century through the efforts and sacrifice of laborers banded together in unions, and that all American labor to-day, white, black and yellow, benefits from this great movement. 
+<span class="crisis-title">The Crisis</span> believes in organized labor. It realizes that the standard of living among' workers has been raised in the last half century through the efforts and sacrifice of laborers banded together in unions, and that all American labor to-day, white, black and yellow, benefits from this great movement. 
 
 For such reasons we carry on our front cover the printer's union label to signify that the printing and binding of this magazine is done under conditions and with wages satisfactory to the printers' union. 
 
@@ -37,13 +37,13 @@ What then must be the attitude of the black man in the event of a strike like th
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
 
-* [Black and White Workers (1928)](/Volumes/35/03/black_and_white_workers.html)
-* [To the American Federation of Labor (1924)](/Volumes/28/04/american_federation_of_labor.html)
-* [Railroad Unions (1921)](/Volumes/22/05/railroad_unions.html)
+#### Related Articles
+
 * [Our Economic Peril (1930)](/Volumes/37/03/our_economic_peril.html)
-* [The Migration (1917)](/Volumes/14/01/migration.html)
+* [Black and White Workers (1928)](/Volumes/35/03/black_and_white_workers.html)
+* [The Negro and Labor (1922)](/Volumes/25/06/negro_and_labor.html)
+* [The A.F. of L. (1933)](/Volumes/40/12/af_of_l.html)
+* [Railroad Unions (1921)](/Volumes/22/05/railroad_unions.html)
 
 <!-- Similar articles end here -->

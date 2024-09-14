@@ -1,0 +1,119 @@
+---
+title: 'Pontius Pilate'
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
+date: December 1920
+categories: 
+  - ""
+citation: 
+  type: article-journal
+  container-title: The Crisis
+  volume: 21
+  issue: 2
+  page: 54-54
+google-scholar: true
+
+format:
+  html:
+    toc: false
+    appendix-cite-as: display
+---
+
+Pontius Pilate, Federal Governor of Mississippi, sat in the Judgment seat at Jackson. Before him stretched a table of shining gold and the morning sun sang through the eastern windows. It lighted the faces of the Chief Priest and the Elders as they bent eagerly toward him, and twisted itching hands.
+
+He was fingering a pile of silver money which seemed to have been tossed or thrown upon the table before him.
+
+“This-er-Iscariot fellow,” he began in a low, inquiring voice, while his eyes sought the haunting shadows of the long, crimson curtains at his back.
+
+A bishop interrupted him: a tall and mighty bishop cassocked, ringed, and jewelled:
+
+“Just a case of uneasy conscience---a worthless fellow---we shall give this to foreign missions, shall we not, and seek Souls for the Kingdom?” And he gathered up and counted out thirty pieces--- “and now to the main matter.”
+
+“I don’t see how I can pardon this Barabbas,” said the Governor, speaking with sudden vehemence. “He is a criminal and a drunkard---he has killed men before and---”
+
+“Now, now, Governor!” interrupted the Judge, “Jack Barabbas is not so bad---quarrelsome, to be sure, when in liquor, and quick to defend his honor as every white man should be. Moreover---hark!”
+
+Something floated in by the window. It was a low, but monstrous sound and in it lay anger and blood.
+
+“See, Governor? Hear that? The Saturday crowds are in town and Jack is a prime favorite---you know they’re none too well disposed toward you and the Government since this new usurpation of federal power.”
+
+“That’s just it,” answered the Governor angrily, straightening in his chair and flashing challenging glances right and left: “Lawlessness has brought Mississippi to this pass and yet you want me not only to pardon a notorious criminal, but also to condemn an innocent man.”
+
+“Innocent?” cried several voices, but the great voice of the Bishop drowned them all.
+
+“You do not understand,” he said ominously, thrusting forward his great bulk and towering over the nervous frame of the Governor. The Governor stiffened but did not quail. “You are northern born---you live far from our problem---our fearful Problem. Remember, Sir, in Mississippi there is one Crime of Crimes, one beside which all crimes fade to innocence---Murder, Arson, Rape, Theft---all are nothing beside the crime of Race Equality. Sir, this man, whom we have brought before you, not only preaches openly the equality of all men, but (and the Bishop shuddered) *practices it!”*
+
+And then the flying words of all the eager, angry councilors raised and swept across the golden board and up the crimson curtains and down the open, sun-flushed windows:
+
+“Do you know what he wants?”---“He wants equality for Everybody---everybody, mind you”---“Turks, Jews, Niggers, Dagoes, Chinks, Japs”---“everybody”---“talking, sleeping, kissing, marrying”---“the damned scoundrel!”---“and do you know why he wants it?”---“He’s nothing but a ---”---“He’s a Bolshevist---a Red Revolutionist”---“He is going to overthrow all government ---”
+
+And then in a shriek---“He claims to be God and King.”
+
+Slowly, Pilate arose.
+
+“Bring him in,” he said.
+
+They swung the crimson curtains back and there in the shadows stood the Christ.
+
+Pontius Pilate shuddered. “Art thou King?” he whispered.
+
+And the answer came calm and clear, “Yes!”
+
+The cry of the mob below shivered to a shriek, while the Chief Priest and the Elders stood in a silence that was ominous.
+
+Pilate turned.
+
+“I find no fault in this man,” he said doggedly, as his hands trembled.
+
+“He blasphemed against the White Race,” hissed the Bishop.
+
+But Pilate continued: “You have brought this man before me as a dangerous agitator. I have examined him before you and have found no fault in him. I will therefore fine him and let him go.”
+
+But the council cried in one voice, “Away with Christ---and pardon Barabbas!”
+
+“I’ll pardon Barabbas if you insist---but Christ---”
+
+Again the groan of the mob rose and flooded in at the window, breaking the sunshine.
+
+Pilate stirred uneasily---“I won’t punish him,” he said testily. “I know no law.”
+
+“Sir, we know our unwritten law. The crowd below---”
+
+“I’ll have no violence,” cried Pilate. “It was just this lynching business that led the federal government to interfere in Mississippi---”
+
+“Your Excellency, consider a moment,” interrupted the States Attorney. “You incur no responsibility. You simply deliver this man into our hands; and by your pardon of Barabbas the crowd will be mollified and---”
+
+“And what?” asked the Governor.
+
+“Well, there will be less likelihood of violence.”
+
+Pilate arose agitated. “I’ll have nothing to do with it,” he said. “I wash my hands of the whole thing.”
+
+The councilors bowed and turned to the door. The shout of the mob rose and rent the courtyard and the sunlight died:
+
+---Lynch him! Lynch the damned---!
+
+For a moment Pilate hesitated with clenched hands and riven face. Then slowly he left the chamber.
+
+It was late afternoon and Pilate stood in the clean, cool bathroom, washing his hands. His wife hurried in.
+
+“Pontius,” she said hesitatingly, “have nothing to do with that just man---for I have suffered---”
+
+“There, there! It’s all right,” he said, chucking her under the chin. “Don’t meddle in politics.” They both started, for they heard the mad music of myriad feet, the laughter, screaming and cursing of men, and the shrill babble of women’s voices; and then over the height of the hills rolled the far-off echo of that world-worn cry:
+
+“My God, my God! Why has Thou forsaken me!”
+
+<!-- Similar articles start here -->
+<div  class="clear-wrap"></div>
+
+#### Related Articles
+
+* [Jesus Christ in Georgia (1911)](/Volumes/03/02/jesus_christ.html)
+* [The Second Coming (1917)](/Volumes/15/02/second_coming.html)
+* [The Truth (1911)](/Volumes/01/06/truth.html)
+* [The Liberal South (1921)](/Volumes/21/06/liberal-south.html)
+* [Peonage (1927)](/Volumes/34/09/peonage.html)
+
+<!-- Similar articles end here -->

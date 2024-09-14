@@ -25,13 +25,13 @@ I attended the East Central Field School Girls' Conference at the Germantown Y.W
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
 
+#### Related Articles
+
+* [Balls (1919)](/Volumes/18/06/balls.html)
 * [College Education (1914)](/Volumes/08/03/college_education.html)
-* [Orphans (1913)](/Volumes/06/04/orphans.html)
-* [Reconstruction (1919)](/Volumes/18/03/reconstruction.html)
+* [The High School (1911)](/Volumes/02/03/high_school.html)
 * [The Technique of Race Prejudice (1923)](/Volumes/26/04/technique.html)
-* [Light (1912)](/Volumes/03/04/light.html)
+* [Reconstruction (1919)](/Volumes/18/03/reconstruction.html)
 
 <!-- Similar articles end here -->

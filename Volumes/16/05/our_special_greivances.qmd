@@ -23,31 +23,31 @@ format:
 ---
 
 
-The leading editorial in the July <span class = "small-caps">Crisis</span>, called "[Close Ranks](../03/close_ranks.html)," has been the subject of much comment. To a few it has seemed to indicate some change of position on the part of the National Association for the Advancement of Colored People and <span class = "small-caps">Crisis</span>. It is needless to say that it indicates nothing of the sort. This Association and this magazine stand today exactly where they have stood during the eight years of their work; viz., for the full manhood rights of the American Negro.
+The leading editorial in the July <span class="crisis-title">Crisis</span>, called "[Close Ranks](../03/close_ranks.html)," has been the subject of much comment. To a few it has seemed to indicate some change of position on the part of the National Association for the Advancement of Colored People and <span class="crisis-title">Crisis</span>. It is needless to say that it indicates nothing of the sort. This Association and this magazine stand today exactly where they have stood during the eight years of their work; viz., for the full manhood rights of the American Negro.
 
 The July editorial is not in the slightest degree inconsistent with these principles. It was submitted to prominent members and officers of the board before printing and found no objection.
 
 The editorial seeks to say that the first duty of an American is to win the war and that to this all else is subsidiary. It declares that whatever personal and group grievances interfere with this mighty duty must wait.
 
-It does not say that these grievances are not grievances, or that the temporary setting aside of wrongs makes them right. But it does say and <span class = "small-caps">Crisis</span> repeats the word, that any man or race that seeks to turn his country's tragic predicament to his own personal gain is fatally cheating himself.
+It does not say that these grievances are not grievances, or that the temporary setting aside of wrongs makes them right. But it does say and <span class="crisis-title">Crisis</span> repeats the word, that any man or race that seeks to turn his country's tragic predicament to his own personal gain is fatally cheating himself.
 
-What <span class = "small-caps">Crisis</span> said is precisely what in practice the Negroes of America have already done during the war and have been advised to do by every responsible editor and leader.
+What <span class="crisis-title">Crisis</span> said is precisely what in practice the Negroes of America have already done during the war and have been advised to do by every responsible editor and leader.
 
 The editorial was in exact accord and almost in the very words of a resolution written by the same hand and passed unanimously by the thirty-one editors of all the leading Negro publications in America.
 
 
 
-Did Negroes refuse to serve in the draft until they got the right to vote? No, they stormed the gates of the army for the right to fight. Did they refuse commissions because their army school was segregated? No, they were eager to enter and diligent to learn. Have we black men for one moment hesitated to do our full duty in this war because we thought the country was not doing its full duty to us? Is there a single Negro leader who advised by word, written or spoken, rebellion and disloyalty? Certainly not. Then somebody "forgot his special grievance" and fought for his country, and to him and for him <span class = "small-caps">Crisis</span> speaks. <span class = "small-caps">Crisis</span> says, *first* your Country, *then* your Rights!
+Did Negroes refuse to serve in the draft until they got the right to vote? No, they stormed the gates of the army for the right to fight. Did they refuse commissions because their army school was segregated? No, they were eager to enter and diligent to learn. Have we black men for one moment hesitated to do our full duty in this war because we thought the country was not doing its full duty to us? Is there a single Negro leader who advised by word, written or spoken, rebellion and disloyalty? Certainly not. Then somebody "forgot his special grievance" and fought for his country, and to him and for him <span class="crisis-title">Crisis</span> speaks. <span class="crisis-title">Crisis</span> says, *first* your Country, *then* your Rights!
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
 
-* [The Name Negro (1928)](/Volumes/35/03/name_negro.html)
+#### Related Articles
+
 * [Radicals (1919)](/Volumes/19/02/radicals.html)
-* [The New Crisis (1925)](/Volumes/30/01/new_crisis.html)
-* [Booming The Crisis (1914)](/Volumes/07/05/booming_crisis.html)
-* [The Crisis (1910)](/Volumes/01/01/TheCrisis.html)
+* [The Present (1917)](/Volumes/14/04/present.html)
+* [The Name Negro (1928)](/Volumes/35/03/name_negro.html)
+* [The Black Man and the Unions (1918)](/Volumes/15/05/the_black_man_and_the_unions.html)
+* [Help Us to Help (1918)](/Volumes/16/04/help_us.html)
 
 <!-- Similar articles end here -->

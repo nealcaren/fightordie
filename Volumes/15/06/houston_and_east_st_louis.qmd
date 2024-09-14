@@ -1,4 +1,3 @@
-
 ---
 title: 'Houston and East St. Louis'
 author:
@@ -34,21 +33,26 @@ format:
 | *White policeman who caused the riot not even indicted.*                             | One COLORED man still on trial for life.      |
 | No *white* army officers tried. (Military law.)                                      | 17 WHITE men acquitted. (Civil law.)          |
 
-![](../../../Images/park_sign.png)
 
-**Entrance to the city park, Houston, Tex.**
+<figure class="right" style="width: 100%;">
+![](/images/park_sign.png ""){width=100% .right}
+  <figcaption>
+    Entrance to the city park, Houston, Tex.
+  </figcaption>
+</figure>
+
 
  The park is maintained by taxes on 70,000 whites and 40,000 Negroes. A few blocks from this park Policeman Sparks shot Corporal Baltimore and started the riot. Baltimore was hanged.
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
+
+#### Related Articles
 
 * [Houston (1918)](/Volumes/16/06/houston.html)
+* [Martyrs (1920)](/Volumes/21/02/martyrs.html)
 * [Houston (1917)](/Volumes/14/06/houston.html)
-* [Houston: An N.A.A.C.P. Investigation (1918)](/Volumes/15/01/houston.html)
 * [A Soldier (1920)](/Volumes/19/05/a_soldier.html)
-* [A Crusade (1914)](/Volumes/07/05/crusades.html)
+* [Houston: An N.A.A.C.P. Investigation (1918)](/Volumes/15/01/houston.html)
 
 <!-- Similar articles end here -->

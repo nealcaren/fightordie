@@ -1,0 +1,44 @@
+---
+title: 'The Lynching Bill'
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
+date: Feb. 1921
+categories: 
+  - ""
+citation: 
+  type: article-journal
+  container-title: The Crisis
+  volume: 23
+  issue: 4
+  page: 152
+google-scholar: true
+
+format:
+  html:
+    toc: false
+    appendix-cite-as: display
+---
+
+
+Those persons who see technical difficulties and constitutional questions in any effort to stop lynching simply do not realize the enormity of this evil.
+
+Lynching is wholesale murder publicly approved by that section of our land where mob rule is an institution. It is the negation and failure of law, order and government. It is not a punishment for one crime or for any crime: it is simply and purely blood lust unparalleled in the civilized world. Not the bull fights of Spain nor the gladiatorial battles of Rome approach it in indecency, cruelty, monstrous sadism and orgies almost beyond belief.
+
+We do not realize the beastliness and barbarism of this national habit. We are drugged by its frequency and by familiarity with its details. But the world is not drugged: In Tokio and Shanghai, in Calcutta and Cairo, in Petrograd and Berlin, in London and Paris, they say: "This is the real America. This is the civilization of a nation that presumes to teach the world morals and religion, that poses as something new and fine and 'advanced.' America cannot at one and the same time lynch Negroes and lead civilization."
+
+We can stop lynching. Of course it is "unconstitutional" now. It was unconstitutional to stop secession; it was unconstitutional to take charge of the railways; it was unconstitutional to do a thousand things that the national government has done; we did these things because we had to in order to survive; because no nation can survive which supinely submits to rebellion, or cannot regulate its traffic, or permits systematic and continued mob murder as a form of public debauchery. The man that opposes the Dyer bill or a similar enactment is a blind fool or worse. Lynching has nothing to do with the Race Question as such—it is a matter of downright decency and civilization. Either the United States can and will end lynching or lynching will end these United States.
+
+<!-- Similar articles start here -->
+<div  class="clear-wrap"></div>
+
+#### Related Articles
+
+* [Lynching (1927)](/Volumes/33/04/lynching.html)
+* [Lynching (1914)](/Volumes/07/05/lynching.html)
+* [Crime and Lynching (1912)](/Volumes/03/03/crime_and_lynching.html)
+* [Lynching (1911)](/Volumes/02/04/lynching.html)
+* [Lynching (1926)](/Volumes/32/01/lynching.html)
+
+<!-- Similar articles end here -->

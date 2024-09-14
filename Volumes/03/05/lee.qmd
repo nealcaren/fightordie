@@ -37,13 +37,13 @@ At this time of year, when we celebrate the birthdays of our two most famous Ame
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
+
+#### Related Articles
 
 * [Robert E. Lee (1928)](/Volumes/35/03/robert.html)
-* [The Election (1928)](/Volumes/35/12/election.html)
 * [Allies (1911)](/Volumes/02/03/allies.html)
-* [Starvation and Prejudice (1911)](/Volumes/02/02/starvation_and_prejudice.html)
+* [Booker T. Washington (1915)](/Volumes/11/02/booker_t_washington.html)
 * [On the Fence (1928)](/Volumes/35/11/on_the_fence.html)
+* [Credit (1915)](/Volumes/10/01/credit.html)
 
 <!-- Similar articles end here -->

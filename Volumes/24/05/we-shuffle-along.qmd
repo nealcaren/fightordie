@@ -1,0 +1,47 @@
+---
+title: 'We Shuffle Along'
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
+date: September 1922
+categories: 
+  - ""
+citation: 
+  type: article-journal
+  container-title: The Crisis
+  volume: 24
+  issue: 5
+  page: 201
+google-scholar: true
+
+format:
+  html:
+    toc: false
+    appendix-cite-as: display
+---
+
+For a solid year colored artists have maintained on Broadway, New York, one of the cleanest, tunefulest and cleverest variety shows ever given. The colored comedians, Miller and Lyles, and the composers, Sissle and Blake, staged the play under great difficulties. They searched long for a manager and longer for a theatre and finally found an old disused music hall around a corner and out of the way, ill-furnished and inconvenient; and then they literally made New York and the world come to see and hear in droves for twelve long months. This is heartening---but see the sequel.
+
+We accuse white America of prejudice, and God knows it has aplenty. But worse than the prejudice is the ignorance. White folk hate and discriminate because they do not realize or know. When they do know they become usually honest, sympathetic human souls. Thousands of them were prejudiced against "nigger shows," but when they had a chance to see "Shuffle Along,"" they applauded generously.
+
+The real devils in America are those who deny the mass of white folk any opportunity of forming real honest judgment concerning Negroes. They stretch a veil of untruth and ignorance and let hate hatch within it. This is true in news gathering, in fiction and in social intercourse. And it is true on the stage.
+
+Except in the City of New York, the people of the United States are only allowed to hear and see such plays as two sets of theatrical Czars permit to be staged in their houses. These monopolists have determined that "Shuffle Along" shall not be permitted to play in their theatres in the United States. One was very frank: "No, you can’t play in any of our theatres. We’ll take Miller and Lyles and let them write their own comedy, but they must play in a white company. We are not going to have any colored women on the stage." The other company was not so plain but equally firm: "No, the manager has decided not to book you. I do not know the reason"! And this for one of the greatest theatrical successes of the season.
+
+In New York City there are independent theatres and managers, and new and decent plays get a chance. Boston is striving for freedom, and "Shuffle Along" has gone to an independent house there under a very disadvantageous contract. Two attempts to secure independent theatres in Chicago have failed because of threats against the managers by the trust.
+
+The only chance then for "Shuffle Along" would seem to be in England! Thus Monopoly aids Ignorance to manufacture Prejudice. And thus this stupid land shuffles along.
+
+<!-- Similar articles start here -->
+<div  class="clear-wrap"></div>
+
+#### Related Articles
+
+* [Precept and Practice (1910)](/Volumes/01/02/precept_and_practice.html)
+* [Promoting Race Prejudice (1917)](/Volumes/14/03/race_prejudice.html)
+* [Pan-Africa and New Racial Philosophy (1933)](/Volumes/40/11/panafrica_and_new_racial_philosophy.html)
+* [Y.M.C.A (1914)](/Volumes/09/02/ymca.html)
+* [The White Church (1917)](/Volumes/14/01/white_church.html)
+
+<!-- Similar articles end here -->

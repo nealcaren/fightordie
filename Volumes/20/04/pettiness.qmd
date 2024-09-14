@@ -1,0 +1,42 @@
+---
+title: 'Pettiness'
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
+date: Feb. 1920
+categories: 
+  - ""
+citation: 
+  type: article-journal
+  container-title: The Crisis
+  volume: 20
+  issue: 4
+  page: 166
+google-scholar: true
+
+format:
+  html:
+    toc: false
+    appendix-cite-as: display
+---
+
+
+"God save us from petty things!" prayed the Wise Man. Once upon a time some of our girls planned a party in honor of Kate. They asked for a list of her friends. Among others Kate suggested Jane. But Mrs. Smith, at whose home the party was to be held, was not "friendly" with Jane and moreover Jane and Sallie who were also invited, did not agree. Mary was asked and telephoned that she would bring her friend Paula along. But Alice thereupon announced that she would not come if Paula came. Rose and Sarah are "not speaking" and so Sarah could not be asked and for similar reasons Berenice vetoed Flora. And so forth.
+
+This is not fiction. It actually took place among colored college girls less than a year ago in Harlem.
+
+God save us from petty things.
+
+<!-- Similar articles start here -->
+<div  class="clear-wrap"></div>
+
+#### Related Articles
+
+* [Booze (1928)](/Volumes/35/09/booze.html)
+* [A Matter of Manners (1920)](/Volumes/19/04/matter-of-manners.html)
+* [Consolation (1916)](/Volumes/12/02/consolations.html)
+* [The Gospel According to Mary Brown (1919)](/Volumes/19/02/gospel.html)
+* [For What (1919)](/Volumes/17/06/for_what.html)
+
+<!-- Similar articles end here -->

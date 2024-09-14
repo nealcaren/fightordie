@@ -1,0 +1,52 @@
+---
+title: 'Reason in School and Business'
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
+date: November 1920
+categories: 
+  - ""
+citation: 
+  type: article-journal
+  container-title: The Crisis
+  volume: 21
+  issue: 1
+  page: 9-10
+google-scholar: true
+
+format:
+  html:
+    toc: false
+    appendix-cite-as: display
+---
+
+A correspondent asks us to denounce a Negro theatre that has refused to employ colored architects, engineers or builders; another writer takes us to task for our article on Wilberforce; and several of our readers dislike the article on the "Weaknesses of the Negro College."
+
+These and other letters lead us to again make clear the position of <span class="crisis-title">The Crisis</span>: we believe that colored people should support Negro business enterprise; but on the other hand we do not believe in the exclusion of white teachers from all Negro colleges. We regard the African Methodist Church as perhaps the greatest accomplishment done by black folk in the last 500 years; we are desperately eager to see Wilberforce University survive as a church school and for this very reason we oppose policies that threaten its very existence.
+
+We are too thankful for the fine missionary spirit of Cravath, Ware and Armstrong to decry our white teachers; but we are painfully aware of the white men of small calibre and selfish aims whom we encounter in some of our southern schools. Efficiency and devotion do not lie in color or race and we should be the last of any men to let our resentment lead us into a silly cry for self-segregation or a scream of "Up Black and Down White!" A world of triumphant, disdainful white-hating Negroes would be just as wicked and just as surely doomed to eventual disaster as a world of triumphant, disdainful Negro-hating whites is today. For this reason we need and need desperately to keep clear and fair every point of human contact between the races; and the school is by far the best remaining medium.
+
+But this does not excuse incompetent teachers, overbearing executives and mediaeval discipline. Morehouse, Tuskegee and a host of other schools prove that we can furnish black executives; other schools show that there are still available competent and devoted white executives. Let us get the *men* then, regardless of race and color.
+
+And what is true in education is true in business. So far as possible it is our bounden duty to use the colored physician, dentist, grocer, publisher, insurance company and what not, because color prejudice so often denies them a white clientele. On the other hand the colored businessman must not ask patronage simply because he is colored. If an architect wishes to plan my house, he must come as an architect and not simply as a Negro; and if I refuse him the job it will be because he does not know his business and not because of his race.
+
+Even here, however, there are refinements: suppose this Negro builder does know his work and can do it well, but because of lack of capital or color hate he cannot do the work quite as cheaply as his white competitor?
+Here, manifestly, it may be wise and just to pay a few hundred or even a few thousand dollars more to give the black man his first chance, provided, of course, that one does not risk too far the hard-earned savings of the many in order to give a doubtful chance to one or two.
+
+All this wandering brings us to our point: the development and further progress of the American Negro has reached a plane which demands from now on, careful reasoning, clear thinking and knowledge of fact. No longer is the short, snappy slogan or the universal platitude capable of explaining every situation or pointing the path in every clouded way. We must think. We must know. We must discuss.
+
+<span class="crisis-title">The Crisis</span> wishes and wishes deeply to be a forum for such deliberation. It has no monopoly of reason and truth, but it is free to think and fearless in conclusion.
+
+<!-- Similar articles start here -->
+<div  class="clear-wrap"></div>
+
+#### Related Articles
+
+* [The Negro College (1933)](/Volumes/40/08/negro_college.html)
+* [Schools (1917)](/Volumes/13/03/schools.html)
+* [The White Church (1917)](/Volumes/14/01/white_church.html)
+* [Negro Education (1918)](/Volumes/15/04/negro_education.html)
+* [Light (1912)](/Volumes/03/04/light.html)
+
+<!-- Similar articles end here -->

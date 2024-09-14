@@ -64,13 +64,13 @@ Take your choice, gentlemen.
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
+
+#### Related Articles
 
 * [Loyalty (1917)](/Volumes/14/01/loyalty.html)
-* [The Negro Soldier (1919)](/Volumes/19/02/negro_soldier.html)
-* [A Crusade (1914)](/Volumes/07/05/crusades.html)
-* [Burleson (1913)](/Volumes/06/04/burleson.html)
-* [Soldiers (1920)](/Volumes/20/03/soldiers.html)
+* [Votes for Negroes (1921)](/Volumes/21/03/votes-for-negroes.html)
+* [Officers (1917)](/Volumes/14/02/officers.html)
+* [Our Special Grievances (1918)](/Volumes/16/05/our_special_greivances.html)
+* [The Reward (1918)](/Volumes/16/05/reward.html)
 
 <!-- Similar articles end here -->

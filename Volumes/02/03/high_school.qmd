@@ -39,13 +39,13 @@ Moral---Heaven and St. Louis help them who help themselves.
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
+
+#### Related Articles
 
 * [Reconstruction (1919)](/Volumes/18/03/reconstruction.html)
+* [Schools (1917)](/Volumes/13/03/schools.html)
 * [Education (1911)](/Volumes/01/04/education.html)
-* [St. Louis (1916)](/Volumes/11/05/st_louis.html)
 * [Segregation (1910)](/Volumes/01/01/Segregation.html)
-* [The Negro Citizen (1929)](/Volumes/36/05/negro_citizen.html)
+* [Employment (1932)](/Volumes/39/09/employment.html)
 
 <!-- Similar articles end here -->

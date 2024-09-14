@@ -73,13 +73,13 @@ Clinton---white Clinton---has had its revenge: Mr. and Mrs. Dendy, in their spac
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
 
-* [Hyde Park (1920)](/Volumes/19/06/hyde_park.html)
-* [Clothes (1920)](/Volumes/20/04/clothes.html)
-* [The Drive (1922)](/Volumes/22/01/drive.html)
-* [Homes (1912)](/Volumes/03/05/homes.html)
-* [Light (1912)](/Volumes/03/04/light.html)
+#### Related Articles
+
+* [Progress (1920)](/Volumes/21/01/progress.html)
+* [The Fruit of the Tree (1913)](/Volumes/06/05/fruit_of_tree.html)
+* [For What (1919)](/Volumes/17/06/for_what.html)
+* [Optimism (1929)](/Volumes/36/05/optimism.html)
+* [Votes for Negroes (1921)](/Volumes/21/03/votes-for-negroes.html)
 
 <!-- Similar articles end here -->

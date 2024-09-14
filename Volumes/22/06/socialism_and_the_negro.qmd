@@ -23,7 +23,7 @@ format:
 ---
 
 
-We have an interesting letter from John H. Owens of Washington, which we would like to publish in full but can only note certain extracts. Mr. Owens says, in answer to the editorial in the July <span class = "small-caps">Crisis</span> on "[The Negro and Radical Thought](../03/negro_and_radical_thought.html)":
+We have an interesting letter from John H. Owens of Washington, which we would like to publish in full but can only note certain extracts. Mr. Owens says, in answer to the editorial in the July <span class="crisis-title">Crisis</span> on "[The Negro and Radical Thought](../03/negro_and_radical_thought.html)":
 
 > Is there not just the bare possibility that some of the issues which you consider subordinate to your central idea (of the emancipation of the Negro) might possess the neucleus of a tangible and definite solution?
 
@@ -53,13 +53,13 @@ I think these questions touch the center of much modern effort and reform. I mai
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
 
-* [Radicals (1919)](/Volumes/19/02/radicals.html)
-* [The Negro and Radical Thought (1921)](/Volumes/22/03/negro_and_radical_thought.html)
-* [Toward a New Racial Philosophy (1933)](/Volumes/40/01/toward_a_new_racial_philosophy.html)
-* [Light (1912)](/Volumes/03/04/light.html)
+#### Related Articles
+
+* [The Task (1920)](/Volumes/20/04/task.html)
 * [Our Book Shelf (1926)](/Volumes/31/03/book_shelf.html)
+* [Black and White Workers (1928)](/Volumes/35/03/black_and_white_workers.html)
+* [The Simple Way (1913)](/Volumes/07/01/simple_way.html)
+* [The Immediate Program of the  American Negro (1915)](/Volumes/09/06/immediate_program.html)
 
 <!-- Similar articles end here -->

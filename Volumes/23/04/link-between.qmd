@@ -1,0 +1,85 @@
+---
+title: 'The Link Between'
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
+date: Feb. 1921
+categories: 
+  - ""
+citation: 
+  type: article-journal
+  container-title: The Crisis
+  volume: 23
+  issue: 4
+  page: 170-171
+google-scholar: true
+
+format:
+  html:
+    toc: false
+    appendix-cite-as: display
+---
+
+What gives us hope for the final solution of this trying race problem is the willingness of persons in each encampment to link hands occasionally across the dividing line. Sometimes the impetus is given by common interests in art, in work, in religion. Sometimes it is stirred by sheer human kindness. Whatever the cause the phenomenon recurs.
+
+One such figure, Natalie Curtis Burlin, died last October in France, but not before she had devoted years to the work of interpreting one group to the other.
+
+<figure class="right" style="width: 40%;">
+![](images/burlin.png){width=100% .right}
+  <figcaption>
+    The late Natalie Curtis Burlin
+  </figcaption>
+</figure>
+
+
+Natalie Curtis, daughter of Dr. Edward and Augusta Stacey Curtis, was born in New York City. She was always a musician and was fortunate enough to have opportunity to cultivate her favorite interest. Hers was no mean training, — Friedheim, Dvorak, Giraudet in Paris, Wolff in Bonn, Busoni in Berlin and Julius Kniese at the Wagner-Schule in Bayreuth were her teachers.
+
+
+
+
+Primitive music attracted her most. Bit by bit she became immersed in musical myth and folk-lore of primitive peoples. She sensed so completely the cultural and interpretive possibilities of this class of music that she determined to turn her interest to some open manifestation. The Indians and their vanishing tales and music claimed her attention first and she set about planning a compilation in which the Indians themselves should record their native effusions.
+
+Her methods were practical. She succeeded in interesting President Roosevelt in her plan to such an extent that he included in his annual message to Congress a plea for the preservation of Indian Art. She visited the Indian Reservations in an attempt to learn, to compare and to contrast their distinctive melodies and rhythms. It was the task of years to work out a comprehensive system of musical notation which should adequately transcribe the melodies which she had recorded.
+
+By 1907 the work was completed. She had already issued separately in 1905 the songs sung by the Pueblo Indians when grinding corn. These were called "Songs of Ancient America". The later book, being naturally more inclusive, was called *The Indians' Book* and contained a collection of the songs and legends of the various tribes.
+
+It was an instant success both for its accuracy of transcription and notation, and for the knowledge which it gave of primitive man.
+
+Her success in this field induced friends of Hampton Institute to request her to record Negro Folk Music of the South. This she readily undertook to do and so in 1919 produced *Songs and Tales from the Dark Continent*. This book is really of surpassing value since she was helped in its compilation by Kamba Simango, a Portuguese East African, and Madikane Cele, from Zululand. In this work Miss Curtis did her best to prove to the world that African and American Negroes are something more than a mere "labor supply".
+
+The fame of this compilation was even more instant and more widely spread than that brought by her former volume.
+
+Isn't it a splendid thing that she lived and that she did come to know us? Think of the entirely new impression of colored people which she was able to get and to disseminate. And think of the much more valuable effect she was able to produce on colored people by showing them that here was some one willing and eager to learn to know them, and to exhibit them at their best.
+
+Although her husband, Paul Burlin, and her family must grieve for her sorely, yet they may take comfort with us in the thought that her comparatively short life has left on both races its ineffaceable imprint.
+
+
+## Bibliography of Mrs. Burlin's Works
+
+- *Dearest Where Thy Shadow Falls*, G. Schirmer, New York, 1898.
+- *Songs from a Child's Garden of Verses*, G. Schirmer, New York, 1902.
+- *Songs of Ancient America*, G. Schirmer, New York, 1905.
+- *The Indians' Book*, Harper Brothers, New York, 1907.
+- *Hymns of Freedom*, G. Schirmer, New York, 1918.
+- *Negro Folk Songs*, G. Schirmer, New York, 1919.
+- *Mary's Baby*, Huntzinger & Dilworth, New York, 1919.
+- *Dar's a Star in de East*, Huntzinger & Dilworth, New York, 1919.
+- *Songs and Tales from the Dark Continent*, G. Schirmer, New York, 1920.
+- *Victory Song of the Pawnees*, G. Schirmer, New York, 1920.
+- *A Cow-boy Song*, G. Schirmer, New York, 1920.
+
+---
+
+<!-- Similar articles start here -->
+<div  class="clear-wrap"></div>
+
+#### Related Articles
+
+* [The Task (1920)](/Volumes/20/04/task.html)
+* [Correspondence (1926)](/Volumes/31/05/correspondence.html)
+* [Unity (1924)](/Volumes/28/03/unity.html)
+* [A Winter Pilgrimage (1911)](/Volumes/01/03/winter_pilmigrage.html)
+* [Progress (1920)](/Volumes/21/01/progress.html)
+
+<!-- Similar articles end here -->

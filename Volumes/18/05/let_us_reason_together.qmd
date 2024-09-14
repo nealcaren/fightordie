@@ -38,21 +38,21 @@ Honor, endless and undying Honor, to every man, black or white, who in Houston, 
 If the United States is to be a Land of Law, we would live humbly and peaceably in it---working, singing, learning and dreaming to make it and ourselves nobler and better; if it is to be a Land of Mobs and Lynchers, we might as well die today as tomorrow.
 
 <div class="poem">
-<p class="verse"><em>And how can man die better</em>
-<p class="verse"><em>Than facing fearful odds</em>
-<p class="verse"><em>For the ashes of his fathers</em>
-<p class="verse"><em>And the temples of his gods?</em>
+<p class="verse"><em>And how can man die better</em></p>
+<p class="verse"><em>Than facing fearful odds</em></p>
+<p class="verse"><em>For the ashes of his fathers</em></p>
+<p class="verse"><em>And the temples of his gods?</em></p>
 </div>
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
+
+#### Related Articles
 
 * [Thirteen (1918)](/Volumes/15/03/thirteen.html)
 * [Crime (1920)](/Volumes/19/04/crime.html)
-* [Logic (1913)](/Volumes/06/02/logic.html)
 * [Forward (1920)](/Volumes/20/05/forward.html)
-* [Awake America (1917)](/Volumes/14/05/awake_america.html)
+* [Logic (1913)](/Volumes/06/02/logic.html)
+* [Counsels of Despair (1934)](/Volumes/41/06/counsels_of_despair.html)
 
 <!-- Similar articles end here -->

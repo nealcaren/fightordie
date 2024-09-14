@@ -43,13 +43,13 @@ This is Texas. This is the dominant white South. This is the answer of the Cowar
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
 
-* [Slavery (1922)](/Volumes/24/01/slavery.html)
+#### Related Articles
+
 * [Prejudice (1911)](/Volumes/02/01/prejudice.html)
+* [Slavery (1922)](/Volumes/24/01/slavery.html)
+* [Houston (1917)](/Volumes/14/06/houston.html)
 * [Murder Will Out (1920)](/Volumes/20/05/murder_will_out.html)
-* [Interracial Love in Texas (1930)](/Volumes/37/02/interracial_love_in_texas.html)
-* [Disenfranchisement (1926)](/Volumes/32/01/disenfranchisement.html)
+* [Carrizal (1916)](/Volumes/12/04/carrizal.html)
 
 <!-- Similar articles end here -->

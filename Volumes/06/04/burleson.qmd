@@ -48,13 +48,13 @@ This is the kind of thing that Woodrow Wilson must fight and he must fight it in
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
+
+#### Related Articles
 
 * [A Crusade (1914)](/Volumes/07/05/crusades.html)
+* [The Liberal South (1921)](/Volumes/21/06/liberal-south.html)
 * [Memphis or East St. Louis? (1917)](/Volumes/14/03/memphis_or_east_st_louis.html)
-* [We Should Worry (1917)](/Volumes/14/02/we_should_worry.html)
+* [Votes for Negroes (1921)](/Volumes/21/03/votes-for-negroes.html)
 * [The Next Step (1913)](/Volumes/06/02/next_step.html)
-* [The Negro Citizen (1929)](/Volumes/36/05/negro_citizen.html)
 
 <!-- Similar articles end here -->

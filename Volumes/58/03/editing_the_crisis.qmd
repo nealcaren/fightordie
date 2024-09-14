@@ -1,0 +1,107 @@
+---
+title: 'Editing The Crisis'
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
+date: Mar. 1951
+categories: 
+  - ""
+citation: 
+  type: article-journal
+  container-title: The Crisis
+  volume: 58
+  issue: 3
+  page: 147-151, 213
+google-scholar: true
+
+format:
+  html:
+    toc: false
+    appendix-cite-as: display
+---
+
+From the time I entered High School at Great Barrington, Massachusetts, in 1880, I have had the itch to edit something. The first fruition was a school paper, in manuscript, called the "High School Howler," edited by me and illustrated by Art Benham, who could draw caricatures. It had as I remember but one issue.
+
+My next effort was while I was a student at Fisk University and I became, first, exchange editor and then editor of the *Fisk Herald*, during my junior and senior years, 1887-1888.
+
+The next adventure was the monthly called *The Moon*, which was published by Harry Pace and Edward Simon in Memphis and edited by me in Atlanta in 1906. From 1907 to 1910, I was joint editor of a miniature magazine, published monthly in Washington, D. C. My co-laborers were H. M. Hershaw and F. H. M. Murray.
+
+In 1910, I came to New York as Director of Publications and Research in the NAACP. The idea was that I should continue the kind of research into the Negro problem that I had been carrying on in Atlanta and that eventually I should become Secretary of the NAACP. But I did not want to raise money, and there were no funds for research; so that from the first, I urged that we have a monthly organ.
+
+This seemed necessary because the chief Negro weekly *The New York Age* was then owned by friends of Mr. Washington, and the Tuskegee organization had tight hold of most of the rest of the Negro press. The result was that the NAACP got a pretty raw deal from the colored press and none at all from the white papers.
+
+In addition to that the Negro press was at the time mainly organs of opinion and not gatherers of news.
+
+## Stressed Facts
+
+I had the idea that a small publication would be read which stressed the facts and minimized editorial opinion, but made it clear and strong; and also published the opinion of others.
+
+There were many on the board of directors who did not agree with me. I remember Albert Pilsbury, former Attorney General of Massachusetts, wrote to me and said: If you have not already determined to publish a magazine, for heavens' sake drop the idea. The number of publications now is as many as the "plagues of Egypt!" But I was firm, and back of me stood William English Walling, Paul Kennedy, Charles Edward Russell and John E. Mulholland and other members of the board.
+
+## No Capital
+
+But there again the matter of money was difficult. It was hard enough to raise the salaries of our two executive officers, and certainly we had no capital for investment in a periodical. I was persistent and two persons helped me: Mary Maclean, an English woman who was a writer on the *New York Times* and a loyal and efficient friend; and Robert N. Wood, a printer who was head of the Negro Tammany organization at that time.
+
+Wood knew about printing and I knew nothing. He advised me, helped me to plan the magazine, and took the risk of getting me credit for paper and printing. The Board agreed that it would be responsible for debts up to but not exceeding $50.00 a month. It has always been a matter of pride to me that I never asked for that $50.00.
+
+Finally after what seemed to me interminable delays on various accounts, the first number of *The Crisis* appeared in November, 1910. It had sixteen 5x8 pages, with a cover which carried one little woodcut of a Negro child; as one of my critics facetiously said: "It is a shame to take the ten cents which this issue costs."
+
+First because of the news which it contained, in 4 pages of "Along the Color Line"; then because of some blazing editorials which continually got us into hot water with friends and foes; and because of the pictures of Negroes which we carried in increasing number and often in color, *The Crisis* succeeded.
+
+We condensed more news about Negroes and their problems in a month than most colored papers before this had published in a year. Then we had four pages of editorials, which talked turkey. The articles were at first short and negligible but gradually increased in number, length, and importance; but we were never able to pay contributors. Pictures of colored people were an innovation; and at that time it was the rule of most white papers never to publish a picture of a colored person except as a criminal and the colored papers published mostly pictures of celebrities who sometimes paid for the honor. In general the Negro race was just a little afraid to see itself in plain ink.
+
+## Circulation Growth
+
+The circulation growth of *The Crisis* was extraordinary, even to us who believed in it. From a monthly net paid circulation of 9,000 copies in 1911, it jumped to 75,000 copies in 1918, and from an income of $6,500 to an income of $57,000. In January 1916, *The Crisis* became entirely self-supporting, paying all items of its cost including publicity, light, heat, rent, etc., and the salaries of an editor and business manager and nine clerks. It circulated in every state in the union, in all the insular possessions, and in most foreign countries including Africa.
+
+We doubled the size of the tiny first issue in December, 1910. We increased the number of pictures, trying two-color jobs on the cover in 1911 and three colors in 1912, 1917-1918. Our special education and children's numbers began in 1914. From time to time we issued special numbers on localities like Chicago and New Orleans; on "Votes for Women" and the pageant "Star of Ethiopia."
+
+### Indispensable Persons
+
+During this period two persons were indispensable in the conduct of *The Crisis*: Mary Maclean, editorial assistant, who died in harness and worked without pay; and Augustus Dill, business manager, who organized a model office. In November, 1919, Jessie Fauset became literary editor and gave us inestimable help for seven years. Mattie Allison and Lottie Jarvis as secretaries, and Hazel Branch as head of the clerical staff, helped make an ideal family. Frank Turner was our bookkeeper from 1910 until the NAACP took him over in 1922.
+
+We reached a circulation of 100,000 in 1919, following my revelation of the attitude of American army officers toward the Negroes in France. I shall never forget the circumstances of that scoop. I was in the office of Blaise Diagne in the spring of 1919. Diagne was a tall, thin, black Senegalese, French Under-Secretary of State for Colonies, and during the war, French Commissioner in West Africa, out-ranking the Colonial Governor. Diagne saved France by the black shock troops which he brought from Africa and threw against German artillery. They held the Germans until the Allies could get ready for them.
+
+Diagne was consequently a great man and it was his word which induced Prime Minister Clemenceau to let the First Pan-African Congress meet in Paris against the advice of the Americans. Diagne did not like white Americans.
+
+"Did you see," he stormed, "what the American Mission told the French about the way Negroes should be treated?" Then he showed me the official document. I read it and sat very still. Then I said, as carelessly as possible, "Would it be possible to obtain a copy of this?" "Take that," said Diagne.
+
+Having the precious document, the problem was what do with it. I dare not carry it nor trust it to the mails. But a white friend who was sailing home offered to take anything I wished to send. I handed him the document sealed, neglecting to say what dynamite was in it. The *Crisis* office and NAACP officials read it and dropped it until I returned. I published it in May, 1919. The Post Office promptly held the *Crisis* up in the mails. But it proved too hot for them; if the Government held it that would be acknowledging its authorship. They let it go. We sold 100,000 copies!
+
+### High-Water Mark
+
+Our income in 1920, was $77,000. That was our high-water mark. Then began a slump which brought the circulation down to 35,000 copies in 1924 and a cash income of $46,000. The causes of this were clear and strike every modern periodical: the reading public is not used to paying for the cost of the periodicals which they read; often they do not pay even for the cost of the paper used in the edition. Advertisers pay for most of the costs and advertisers buy space in periodicals which circulate widely among well-to-do persons able to buy the wares offered. *The Crisis* was known to circulate among Negro workers of low income. Moreover, it antagonized many white powerful interests; it had been denounced in Congress and many respectable Negroes were afraid to be seen reading it. Mississippi passed laws against it and some of our agents were driven from home.
+
+We got some advertising, especially from Negro businesses; some advertisers we refused because we did not like the wares they offered or suspected fraud. The "Big" advertisers remained aloof; some looked us over, but nearly all fell back on the rule not to patronize "propaganda" periodicals. Beside they did not believe the Negro market worth entering.
+
+Our only recourse was to raise our price of subscription. In December 1919 we raised our price to a dollar and a half for a year and fifteen cents a copy; also we increased our size to 64 pages and cover. This might have extricated us if the prices of everything else had not gone up, while wages went down. The depression which burst on the nation in 1929, started among Negro workers as early as 1926. It struck the workers of the Negro race long before the country in general dreamed of it. I remember bringing the matter to the attention of the president of the board of directors, but he said "the country is unusually prosperous!" Nevertheless, I retorted, the Negro worker is losing old jobs and not getting new ones.
+
+### Opinion or Propaganda
+
+There was a wider underlying cause: How far was *The Crisis* an organ of opinion and propaganda; and of whose opinion and just what propaganda? Or how far was it an organ of an association catering to its immediate plans and needs? The two objects and methods were not incompatible with each other in the earlier days of beginnings. Indeed from 1910 to 1925 or later *The Crisis* was the predominant partner, with income and circulation larger than the income and membership of the NAACP. For just this reason the NAACP became known outside its membership, and with the energetic work of Shillady, Johnson, and White, the membership and income increased and the question of the future relation of *The Crisis* and the NAACP had to be settled. Their complete separation was proposed; or if the income of *The Crisis* continued to fall, the subsidy of *The Crisis* by the NAACP; or further attempt to prolong the present relations and increase *The Crisis* income and circulation.
+
+From 1925 to 1934, the latter method was tried. Various efforts were made to increase *The Crisis* circulation, by change of form and content. Considerable success ensued, but the depression which now fell heavier on the nation, convinced me that *The Crisis* could not be made to pay again for a long period and that meantime the only way to keep it alive was by subsidy from the NAACP. For this reason in 1934, I gave up my position as editor and publisher of *The Crisis* and went back to teaching and writing at Atlanta University.
+
+In the nature of the case, there is a clear distinction between an organ of an organization and a literary magazine. They have different objects and functions. The one is mainly a series of reports and records of organizational technicalities and news notes of methods and routine notices. All large organizations need such a publication. But it is never self-supporting nor widely read. So far as it tries to be literary and artistic, it misses its main function and is too narrow to achieve any other.
+
+### Free Lance or Nothing
+
+On the other hand, a literary and news journal must be free and uncontrolled; in no other way can it be virile, creative, and individual. While it must follow an ideal, and one of which one or more organizations approve, yet its right to deviate in particulars must be granted, else it misses its function of provoking thought, stimulating argument, and attracting readers. For many years the NAACP gave me such freedom and the public repaid them and me by wide support. But when public support lagged and the NAACP must furnish a large part of the supporting funds, it would have called for more faith than any organization was likely to have in one man, to leave me still in untrammeled control. And as for me, I had no interest in a conventional organ; I must be Free Lance or nothing.
+
+Against, therefore, the strong pleas of close friends like Joel Spingarn; and against the openly expressed wish of the whole Board, which did not wholly agree with me, but were willing to yield much to retain me, I resigned. And I resigned completely and not in part. I was not only editor and head of a department which was separate from that of the Executive Secretary, with my own office and staff and separate bank account; I was also one of the incorporators of the NAACP and member of the Board of Directors since its beginning. Its officials from the first had come to consideration and election on my recommendation. I was a member of the Spingarn Medal Committee, and chief speaker at every annual conference. It was fair to say that the policy of the NAACP from 1910 to 1934 was largely of my making.
+
+I would not have been honest therefore with my successors to have resigned in part and hung on to remnants of my former power. I went out completely. I think some sighed in relief. But many were genuinely sorry. Among the latter was myself. For I was leaving my dream and brainchild; my garden of hope and highway to high emprise. But I was 65; my life work was practically done. I looked forward to a few final years of thought, advice and remembrance, beneath the trees and on the hills beside the graves and with the friends where first my real life-work had begun in 1897.
+
+<!-- Similar articles start here -->
+<div  class="clear-wrap"></div>
+
+#### Related Articles
+
+* [Booming The Crisis (1914)](/Volumes/07/05/booming_crisis.html)
+* [We Come of Age (1915)](/Volumes/11/01/we_come_of_age.html)
+* [The New Crisis (1925)](/Volumes/30/01/new_crisis.html)
+* [Negro Writers (1920)](/Volumes/19/06/negro_writers.html)
+* [The Colored Magazine in America (1912)](/Volumes/05/01/colored-magazine.html)
+
+<!-- Similar articles end here -->

@@ -1,0 +1,78 @@
+---
+title: 'The World and Us'
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
+date: January 1922
+categories: 
+  - ""
+citation: 
+  type: article-journal
+  container-title: The Crisis
+  volume: 23
+  issue: 3
+  page: 103-104
+google-scholar: true
+
+format:
+  html:
+    toc: false
+    appendix-cite-as: display
+---
+
+
+## Unemployment
+
+To us the great outstanding fact today is lack of work and low wage for such as we get. We suffer with the world in this after-war difficulty, but human misfortune beats the more mercilessly upon those who are already unfortunate. When therefore, we know that between three and five million American working men are today unemployed, we may shrewdly guess that in their ranks are nearly a million colored men and women. The black man is the first laborer to be discharged, the first one to have his wages decreased, the last one to be re-hired.
+
+While we suffer most we are not the only ones that suffer. Throughout the civilized world it is this problem of unemployment, and with it the contradictory fact that to retrieve the losses of the war the world needs work as never before to furnish food and clothing and shelter. What is wrong?
+
+The answer is War. War past, present and future. War has destroyed faith and wealth, and human beings. The machinery of industry has broken down and until, slowly and painfully, it is restored, we must suffer.
+
+## Disarmament
+
+Most of us may think that we have little personal interest in disarmament. We have only to remember that in the last fifty years, the United States Government has spent thirty-four billion dollars for war and only ten billions for everything else. This means that every American family contributes two hundred and fourteen dollars a year to pay the 1921 taxes, where the same family paid thirty-three dollars a year to pay the 1913 taxes. The burden of this cost of war has become intolerable, and it falls heaviest on the poor and the black.
+
+The world is meeting to try and throw it off but no sooner does it meet than the race problem appears. We can disarm only because of faith in each other. The white world is asking how much faith they can have in Japan; but Japan and India and Africa and even the wise ones in China,---in fact, the majority of men---are asking seriously, in view of the past, how much faith we can have in the white world.
+
+Take the matter of China: Who are the aggressors upon China? They are Great Britain, France and Japan; and of these three the greatest and most persistent aggressor has been Great Britain. Yet there is not the slightest chance of Great Britain giving up today a single advantage that she has in China, while, on the other hand, insidiously and carefully prepared propaganda, is making the white world think that the only enemy of China is Japan.
+
+The whole thing could be easily settled. There is Australia, a great empty continent containing five million people, where it could easily support one hundred million. It is being held for white settlers who do not come, while colored people are being kept out. Let Australia open its doors to its natural colored settlers; let Great Britain give up Tibet, Szechuan, Hong-Kong, Weihaiwei and her economic concessions in the Yangtse valley; let France surrender Indo-China and her industrial domination in south China; let Japan get out of Kiao Chow, Mongolia and Manchuria; and let the United States cease her frantic efforts to force white debt slavery on China through a consortium of big banks. Then the East could well afford to give up its armies and navies and seek the path of peace.
+
+## Strikes
+
+The strike is a method of industrial warfare by means of which white laborers in the last century have bettered their condition. Colored laborers have not been able to do so because they have been excluded from white unions, and have not themselves yet learned, or been in a position to learn, the secret of organization. They have consequently been tossed back and forth as shuttle-cocks between white employer and white union laborer. They look, therefore, today, upon the strike as either something that does not concern them or an opportunity to get a job which a white man has given up.
+
+Few of them are in the clothing-making industry and are not touched by the garment makers' strike. Very few of them were threatened by the proposed railway strike. Large numbers of them are always involved in coal and packing house strikes. But whether directly involved or not, they must watch this industrial war with palpitating interest. Undoubtedly the strike as an industrial weapon is too costly and is passing, but the union organization is still here and the colored laborer must learn to use it.
+
+## Ireland and India
+
+The real question of Ireland today is how much of the island is going to be allowed to govern itself and how much of it the industrial interests of Ulster are going to be able to keep as a part of England, and as a center of English power.
+
+The Treaty of Peace brings Irish Freedom nearer and increases the hope of freedom for all men.
+
+In India the case is more complicated. Here are hundreds of millions, ignorant and poverty-stricken almost beyond belief, and yet upheld by fine traditions of family, work and religion, who are seeking to gain control of their own lands and their own souls.
+
+One party marches toward armed resistance with war on the horizon; another party proposes non-resistance and refusal to cooperate in any work or government with the British masters.
+
+It is a marvellously interesting fight and we should watch its every step.
+
+## Visitors
+
+Daily there come to our shores, and lately in larger numbers than usual, men and women of other nations to see America. Very few of them see that tenth of America which we represent. They may meet us casually on Pullman cars or as servants and laborers, but they do not know us and do not try to know us, because they do not realize that there is anything in us worth the knowing. On the other hand, by both deliberate and accidental propaganda, they are told of all the evil concerning us which they do not see and they go home to spread this knowledge or lack of knowledge concerning us.
+
+Sometimes, to be sure, a Foch may see a black regiment or the Disarmament Conferees may note the power and growth of darker Washington, but we have yet to solve the problem of letting the world really see us.
+
+<!-- Similar articles start here -->
+<div  class="clear-wrap"></div>
+
+#### Related Articles
+
+* [The Negro and Labor (1922)](/Volumes/25/06/negro_and_labor.html)
+* [Black and White Workers (1928)](/Volumes/35/03/black_and_white_workers.html)
+* [Our Economic Peril (1930)](/Volumes/37/03/our_economic_peril.html)
+* [The Present (1917)](/Volumes/14/04/present.html)
+* [Eugene Debs (1926)](/Volumes/33/02/debs.html)
+
+<!-- Similar articles end here -->

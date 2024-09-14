@@ -1,0 +1,66 @@
+---
+title: 'Pity the Poor Author'
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
+date: November 1920
+categories: 
+  - ""
+citation: 
+  type: article-journal
+  container-title: The Crisis
+  volume: 21
+  issue: 1
+  page: 7
+google-scholar: true
+
+format:
+  html:
+    toc: false
+    appendix-cite-as: display
+---
+
+
+Every once in a while someone drops in and says cozily:
+
+"I wish you'd give me a copy of your last book."
+
+Or they write:
+
+"The Western Aggregation of Sunny Girls has just opened a reading room. Won't you donate one or two of your books?"
+
+I guard myself carefully in such cases, so as not to be surprised into violence. Letters, I can answer with polite vagueness or forget. Personal appeals I turn into a joke, provided I can summon the necessary self control quickly. But sometimes I am a ghastly failure. Then I turn and ask grimly:
+
+"Do you know that I have to buy my own books?"
+
+They are vastly surprised. Apparently they had been under the impression that I had a tree in my backyard which grew a profusion of delicate darkwaters and Negroes and souls of various folk and that all I had to do was to go out and water it and shake it.
+
+I proceed: An author usually gets six free copies with which he partially supplies his family of six, his poor cousins and twenty close friends. All further copies he must *buy* of the publisher. He gets the same small discount as the retail merchant, but no more.
+
+A request then of an author for a copy of his latest is simply a demand for him to give you $1.80 cash, in addition to postage.
+
+Now it may be that you are in need of charity and that he is a bloated bond-holder to whom $1.80 is a bagatelle. But it may, on the other hand, be barely possible that $1.80 looks just as big to him as to you. And in addition, he has had the job of writing the book.
+
+At any rate, you don't go to your personal friend the grocer and say:
+
+"I wish you'd make me a present of ten pounds of that nice sugar!"
+
+And you don't hail your friend the carpenter with:
+
+"Come and fix my gate for nothing, Bill; I do so like your work."
+
+And if you do not expect the carpenter and the grocer to serve you for nothing, why, in Heaven's name, do you pick on the poor author?
+
+<!-- Similar articles start here -->
+<div  class="clear-wrap"></div>
+
+#### Related Articles
+
+* [The Browsing Reader (1928)](/Volumes/35/05/browsing_reader.html)
+* [For What (1919)](/Volumes/17/06/for_what.html)
+* [The True Brownies (1919)](/Volumes/18/06/true_brownies.html)
+* [Again, Social Equality (1920)](/Volumes/19/05/again_social_equality.html)
+* [The Shadow of Years (1918)](/Volumes/15/04/shadow_of_years.html)
+
+<!-- Similar articles end here -->

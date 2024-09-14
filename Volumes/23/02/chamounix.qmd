@@ -1,0 +1,50 @@
+---
+title: 'Chamounix'
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
+date: December 1921
+categories: 
+  - ""
+citation: 
+  type: article-journal
+  container-title: The Crisis
+  volume: 23
+  issue: 2
+  page: 56-58
+google-scholar: true
+
+format:
+  html:
+    toc: false
+    appendix-cite-as: display
+---
+
+I have seen the League of Nations, the Federation of the World, sitting in a little upper room and stared at by reporters, amidst streams of hopes and fears and of intrigues. After that I came to Chamounix--to cow bells and silence and trickle of waters. Above this world-on-end, lies the vast Thing of Snow,---silent, tremendous, a world apart, remembered and forgotten; a place of lights and shadows, unknown to earth. And of mists. I think the real marriage of earth and stars lies somehow in these mists. There is every preparation for it: the calm and pretty valley with its cows, with its homes, its little intrigues and tragedies, its laughter and flowers. Then gradually and gravely uplifted, the pointing pines; the fingers of the sullen, steadfast pines, pointing, always pointing. And then a space of lichen, leaf and brown gorse; and then a wide grey pause of utter rock, weirdly a waste, grim in its sense of age and strength. After that the snows, the white and blue and golden snows with their feet drabbled in the earth.
+
+What more fitting approach to the stars, to the thoughts that lie beyond the world, enchained and hallowed? One sees this mirage of earth and skies as a mist, a grey and white uncertainty, where line and point drift, merge and dissolve into something that is just cloud and sky.
+
+
+<figure class="right" style="width: 40%;">
+![](images/chamounix-min.png){width=100% .right}
+</figure>
+
+Last night in the rift of the world formed by the serried snow-broidered edge of the Alps, I saw the moon sailing in seas of sounds and tints of tawny green and hurrying waters; without the narrow rift, lifted their heads, snows of clouds and clouds of snows, mountains real and mountains spiritual, clouds of mountains and mountains of clouds, until the world, the great soiled world, was a thing so beautiful, so rare, so still and sweet that life seemed all love and wonder. I could almost hear the sound of stars raining down upon Mont Blanc: the mist of the rain was moon shine there on the dim White Mountain, and the song of the sound of it was as the voice of death calling to the victorious. It was like white age above the brutal strength of youth; it was sweet childhood which is always apart and beyond the scarred and moaning world. How singular is this ceaseless sound of waters, the dripping and dropping of snows, the roar of fallen mists, the dashing of clouds in the slow, grey and crumpled rivers of riven ice. And yet against the voice of the waters is the voice of the mountain; it is the mountain audible, the song of snows, the color of space, the feeling of things without end. The mountain is unmovable; day and day, night after night we have flown and whirled about it, changed to city after city and ridden over hill and dale, resting and running, yet the mountain is always there, pale and calm and motionless, curiously eternal.
+
+If I lived here long I should pray to Mont Blanc, throwing my hands in ecstasy, screaming my tears. I should heap fire against it and vow gold and jewels. It should be God. For what else can God be but a Mountain or the Sea?
+
+In that transforming miracle of the mountain and the mist there is always sinking to earth some solemn singing as of things and of thoughts that rise above, beyond and athwart the heavy tongued earth and melt to something vaster and truer. It is midnight in the valley. I cannot sleep, for the mountain never sleeps and the moon tonight is widely awake. I sit and scribble and then ever and again creep to my window. The marvel of it, the sheer, inhuman perfectness of it all, the almost pain of its beauty and hurt of its joy! It is there still in the morning. The White Wraith has melted into the sky, throwing earthwards one long pale finger. Its feet are at the founding stones of the universe and its head is lost with the stars. Its thoughts are the thoughts of God. The world is grey and black with purple interludes. The waters wail. At last the long shaft dies there from the topmost shoulder of the mighty hill and with its death the mist drops nearer to the black and burning earth. And always the pines point upward.
+
+<!-- Similar articles start here -->
+<div  class="clear-wrap"></div>
+
+#### Related Articles
+
+* [Curtains of Pain (1917)](/Volumes/13/04/curtains_of_pain.html)
+* [Joseph Pulitzer (1911)](/Volumes/03/02/joseph_pulitzer.html)
+* [Unrest (1920)](/Volumes/19/05/unrest.html)
+* [The Story of Africa (1914)](/Volumes/08/05/story_of_africa.html)
+* [Forward (1920)](/Volumes/20/05/forward.html)
+
+<!-- Similar articles end here -->

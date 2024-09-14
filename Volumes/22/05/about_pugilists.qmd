@@ -31,13 +31,13 @@ All this is rather funny now, but before America becomes a leader of civilizatio
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
 
+#### Related Articles
+
+* [McSwiney (1920)](/Volumes/21/02/mcswiney.html)
 * [Dives, Mob, and Scab (1920)](/Volumes/19/05/dives.html)
+* [The Black Man in the Revolution of 1914-1918 (1919)](/Volumes/17/05/the_black_man_in_the_revolution_of_1914_1918.html)
 * [Thirteen (1918)](/Volumes/15/03/thirteen.html)
-* [Cowardice (1916)](/Volumes/12/06/cowardice.html)
 * [Tillman (1918)](/Volumes/16/04/tillman.html)
-* [Heroes (1919)](/Volumes/19/01/heroes.html)
 
 <!-- Similar articles end here -->

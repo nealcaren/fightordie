@@ -82,13 +82,13 @@ Who was to blame? Not Germany but certain Germans. Not England but certain Engli
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
 
+#### Related Articles
+
+* [The Truth (1912)](/Volumes/05/02/truth.html)
 * [Resolutions of the Washington Conference (1917)](/Volumes/14/02/resolutions.html)
-* [Separation (1911)](/Volumes/01/04/separation.html)
-* [Freedom of Speech (1930)](/Volumes/37/08/freedom.html)
-* [Muddle (1916)](/Volumes/13/02/muddle.html)
 * [Radicals (1919)](/Volumes/19/02/radicals.html)
+* [Freedom of Speech (1930)](/Volumes/37/08/freedom.html)
+* [Separation (1911)](/Volumes/01/04/separation.html)
 
 <!-- Similar articles end here -->

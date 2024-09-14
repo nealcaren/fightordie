@@ -32,13 +32,13 @@ The actual organization of this group is progressing by leaps and bounds. It nee
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
+
+#### Related Articles
 
 * [Unity (1924)](/Volumes/28/03/unity.html)
-* [Pan-Africa and New Racial Philosophy (1933)](/Volumes/40/11/panafrica_and_new_racial_philosophy.html)
 * [The Immediate Program of the  American Negro (1915)](/Volumes/09/06/immediate_program.html)
-* [Counsels of Despair (1934)](/Volumes/41/06/counsels_of_despair.html)
-* [Separation (1911)](/Volumes/01/04/separation.html)
+* [Crime (1920)](/Volumes/19/04/crime.html)
+* [A Statement (1919)](/Volumes/19/01/statement.html)
+* [Pan-Africa and New Racial Philosophy (1933)](/Volumes/40/11/panafrica_and_new_racial_philosophy.html)
 
 <!-- Similar articles end here -->

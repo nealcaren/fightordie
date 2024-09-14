@@ -49,13 +49,13 @@ The report bravely concludes:
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
 
-* [Causes of Lynching (1931)](/Volumes/38/04/causes_of_lynching.html)
+#### Related Articles
+
+* [The Lynching Industry (1915)](/Volumes/09/04/lynching_industry.html)
 * [Lynching (1927)](/Volumes/33/04/lynching.html)
+* [Causes of Lynching (1931)](/Volumes/38/04/causes_of_lynching.html)
 * [Lynching (1914)](/Volumes/07/05/lynching.html)
 * [Anti-Lynching Legislation (1922)](/Volumes/22/01/anti-lynching_legislation.html)
-* [The Lynching Industry (1915)](/Volumes/09/04/lynching_industry.html)
 
 <!-- Similar articles end here -->

@@ -35,13 +35,13 @@ The only solution to this kind of problem is not simply to permit but to encoura
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
+
+#### Related Articles
 
 * [Crime (1920)](/Volumes/19/04/crime.html)
 * [Lynchings and Mobs (1921)](/Volumes/22/04/lynchings.html)
 * [Coffeeville, Kanasas (1927)](/Volumes/34/05/coffeville_kansas.html)
-* [The Challenge of Detroit (1925)](/Volumes/31/01/challenge_of_detroit.html)
 * [The Old Story (1911)](/Volumes/01/03/old_story.html)
+* [Cowardice (1916)](/Volumes/12/06/cowardice.html)
 
 <!-- Similar articles end here -->

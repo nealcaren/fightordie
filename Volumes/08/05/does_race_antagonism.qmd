@@ -63,13 +63,13 @@ Such are the arguments. Most persons use all four at once and skillfully skip fr
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
 
-* [Logic (1913)](/Volumes/06/02/logic.html)
-* [The Strength of Segregation (1913)](/Volumes/07/03/strength_of_segregation.html)
+#### Related Articles
+
 * [Crime (1920)](/Volumes/19/04/crime.html)
 * [N.A.A.C.P. (1910)](/Volumes/01/02/NAACP.html)
-* [Unity (1924)](/Volumes/28/03/unity.html)
+* [Logic (1913)](/Volumes/06/02/logic.html)
+* [The Strength of Segregation (1913)](/Volumes/07/03/strength_of_segregation.html)
+* [Pan-Africa and New Racial Philosophy (1933)](/Volumes/40/11/panafrica_and_new_racial_philosophy.html)
 
 <!-- Similar articles end here -->

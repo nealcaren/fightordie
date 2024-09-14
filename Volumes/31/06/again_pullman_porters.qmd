@@ -37,13 +37,13 @@ Well, perhaps it is better to lose this job. Perhaps we have served as porters l
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
+
+#### Related Articles
 
 * [Pullman Porters (1927)](/Volumes/34/10/pullman_porters.html)
 * [Pullman Porters (1926)](/Volumes/31/03/pullman_porters.html)
-* [The Black Man and Labor (1925)](/Volumes/31/02/black_man_and_labor.html)
 * [A Matter of Manners (1920)](/Volumes/19/04/matter-of-manners.html)
-* [Labor Omnia Vincit (1919)](/Volumes/18/05/labor_omnia_vincit.html)
+* [The Black Man and Labor (1925)](/Volumes/31/02/black_man_and_labor.html)
+* [Our Economic Future (1928)](/Volumes/35/05/our_economic_future.html)
 
 <!-- Similar articles end here -->

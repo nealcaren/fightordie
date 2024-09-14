@@ -27,13 +27,13 @@ Keep your eye steady, Mr. Black Voter, your powder dry. You don't really care a 
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
 
-* [How Shall We Vote (1920)](/Volumes/20/05/how_shall_we_vote.html)
-* [Young Voters (1932)](/Volumes/39/09/young_voters.html)
-* [The Presidential Campaign (1916)](/Volumes/12/06/presidential_campaign.html)
-* [The Strategy of the Negro Voter (1933)](/Volumes/40/06/strategy_of_the_negro_voter.html)
+#### Related Articles
+
 * [The Campaign of 1928 (1928)](/Volumes/35/12/campaign_of_1928.html)
+* [Political Rebirth and the Office Seeker (1921)](/Volumes/21/03/political-rebirth.html)
+* [How Shall We Vote (1920)](/Volumes/20/05/how_shall_we_vote.html)
+* [Political Straws (1923)](/Volumes/26/03/political_straws.html)
+* [Young Voters (1932)](/Volumes/39/09/young_voters.html)
 
 <!-- Similar articles end here -->

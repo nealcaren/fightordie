@@ -23,7 +23,7 @@ format:
 ---
 
 
-We are returning from war! <span class = "small-caps">The Crisis</span> and tens of thousands of black men were drafted into a great struggle. For bleeding France and what she means and has meant and will mean to us and humanity and against the threat of German race arrogance, we fought gladly and to the last drop of blood; for America and her highest ideals, we fought in far-off hope; for the dominant southern oligarchy entrenched in Washington, we fought in bitter resignation. For the America that represents and gloats in lynching, disfranchisement, caste, brutality and devilish insult---for this in the hateful upturning and mixing of things, we were forced by vindictive fate to fight, also.
+We are returning from war! <span class="crisis-title">The Crisis</span> and tens of thousands of black men were drafted into a great struggle. For bleeding France and what she means and has meant and will mean to us and humanity and against the threat of German race arrogance, we fought gladly and to the last drop of blood; for America and her highest ideals, we fought in far-off hope; for the dominant southern oligarchy entrenched in Washington, we fought in bitter resignation. For the America that represents and gloats in lynching, disfranchisement, caste, brutality and devilish insult---for this in the hateful upturning and mixing of things, we were forced by vindictive fate to fight, also.
 
 But today we return! We return from the slavery of uniform which the world's madness demanded us to don to the freedom of civil garb. We stand again to look America squarely in the face and call a spade a spade. We sing: This country of ours, despite all its better souls have done and dreamed, is yet a shameful land.
 
@@ -59,13 +59,13 @@ Make way for Democracy! We saved it in France, and by the Great Jehovah, we will
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
 
-* [Close Ranks (1918)](/Volumes/16/03/close_ranks.html)
+#### Related Articles
+
 * [Thirteen (1918)](/Volumes/15/03/thirteen.html)
-* [Awake America (1917)](/Volumes/14/05/awake_america.html)
+* [Close Ranks (1918)](/Volumes/16/03/close_ranks.html)
 * [Help Us to Help (1918)](/Volumes/16/04/help_us.html)
-* [Forward (1920)](/Volumes/20/05/forward.html)
+* [Awake America (1917)](/Volumes/14/05/awake_america.html)
+* [The Present (1917)](/Volumes/14/04/present.html)
 
 <!-- Similar articles end here -->

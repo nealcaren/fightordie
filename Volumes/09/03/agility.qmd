@@ -32,13 +32,13 @@ Moreover, there are thousands of white people in this country whom this kind of 
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
 
-* [Suffering Suffragettes (1912)](/Volumes/04/02/suffering_suffragettes.html)
-* [Woman''s Suffrage (1913)](/Volumes/06/01/womans_suffrage.html)
+#### Related Articles
+
 * [The Woman Voter (1921)](/Volumes/21/05/woman_voter.html)
 * [Votes for Women (1918)](/Volumes/15/01/votes_for_women.html)
-* [Get Ready (1920)](/Volumes/20/01/get_ready.html)
+* [Suffering Suffragettes (1912)](/Volumes/04/02/suffering_suffragettes.html)
+* [Suffrage and Women (1915)](/Volumes/09/04/suffrage_women.html)
+* [Woman's Suffrage (1913)](/Volumes/06/01/womans_suffrage.html)
 
 <!-- Similar articles end here -->

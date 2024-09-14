@@ -50,13 +50,13 @@ the joys of God.
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
+
+#### Related Articles
 
 * [Toward a New Racial Philosophy (1933)](/Volumes/40/01/toward_a_new_racial_philosophy.html)
-* [The Name Negro (1928)](/Volumes/35/03/name_negro.html)
-* [Radicals (1919)](/Volumes/19/02/radicals.html)
-* [A Pilgrimage To The Negro Schools (1929)](/Volumes/36/02/a_pilgrimage_to_negro_schools.html)
+* [Our Book Shelf (1926)](/Volumes/31/03/book_shelf.html)
 * [Negro Writers (1920)](/Volumes/19/06/negro_writers.html)
+* [The Name Negro (1928)](/Volumes/35/03/name_negro.html)
+* [Unrest (1920)](/Volumes/19/05/unrest.html)
 
 <!-- Similar articles end here -->

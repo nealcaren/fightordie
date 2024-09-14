@@ -45,13 +45,13 @@ To understand the situation look at your map of Georgia. Worth, Lee and Early Co
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
 
-* [Cowardice (1916)](/Volumes/12/06/cowardice.html)
-* [Lynchings and Mobs (1921)](/Volumes/22/04/lynchings.html)
+#### Related Articles
+
+* [Lynching (1928)](/Volumes/35/09/lynching.html)
 * [The Cause of Lynching (1914)](/Volumes/08/03/cause_of_lynching.html)
-* [A Soldier (1920)](/Volumes/19/05/a_soldier.html)
-* [The Challenge of Detroit (1925)](/Volumes/31/01/challenge_of_detroit.html)
+* [Lynchings and Mobs (1921)](/Volumes/22/04/lynchings.html)
+* [Lynchings (1932)](/Volumes/39/02/lynchings.html)
+* [Signs from the South (1919)](/Volumes/18/05/signs_from_south.html)
 
 <!-- Similar articles end here -->

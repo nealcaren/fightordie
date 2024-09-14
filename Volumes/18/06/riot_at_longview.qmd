@@ -44,13 +44,13 @@ The riot at Longview has two aspects. First, simply and solely it is a fair samp
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
+
+#### Related Articles
 
 * [Prejudice (1911)](/Volumes/02/01/prejudice.html)
 * [Coffeeville, Kanasas (1927)](/Volumes/34/05/coffeville_kansas.html)
+* [Lynching (1928)](/Volumes/35/09/lynching.html)
 * [Cowardice (1916)](/Volumes/12/06/cowardice.html)
-* [Peonage (1916)](/Volumes/11/06/peonage.html)
 * [The Old Story (1911)](/Volumes/01/03/old_story.html)
 
 <!-- Similar articles end here -->

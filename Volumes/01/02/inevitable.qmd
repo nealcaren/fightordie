@@ -34,13 +34,13 @@ Is it? It is not inevitable. It is criminal injustice. It is inhuman treatment a
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
+
+#### Related Articles
 
 * [A Statement (1919)](/Volumes/19/01/statement.html)
-* [A Little Play (1914)](/Volumes/07/05/a_little_play.html)
 * [The Truth (1912)](/Volumes/05/02/truth.html)
+* [Logic (1913)](/Volumes/06/02/logic.html)
+* [A Little Play (1914)](/Volumes/07/05/a_little_play.html)
 * [Crime (1920)](/Volumes/19/04/crime.html)
-* [The Truth (1911)](/Volumes/01/06/truth.html)
 
 <!-- Similar articles end here -->

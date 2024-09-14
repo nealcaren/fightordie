@@ -1,0 +1,83 @@
+---
+title: 'The Sermon in the Cradle'
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
+date: December 1921
+categories: 
+  - ""
+citation: 
+  type: article-journal
+  container-title: The Crisis
+  volume: 23
+  issue: 2
+  page: 58-59
+google-scholar: true
+
+format:
+  html:
+    toc: false
+    appendix-cite-as: display
+---
+
+Now when Jesus was born in Benin of Nigeria in the days of English rule, behold, there came wise men from the East to London.
+
+Saying, Where is he that is born King of the Blacks? For we have seen his star in the east, and are come to worship him.
+
+When the Prime Minister had heard these things, he was troubled, and all England with him.
+
+And when he had gathered all the chief priests and scholars of the land together, he demanded of them where this new Christ should be born.
+
+And they said unto him, in Benin of Nigeria: for thus it was written by the prophet:
+
+And thou Benin, in the land of Nigeria, art not the least among the princes of Africa: for out of thee shall come a Governor, that shall rule my Negro people.
+
+Then the Prime Minister, when he had privily called the wise men, inquired of them diligently what time the star appeared.
+
+And he sent them to Benin, and said, "Go and search diligently for the young child; and when ye have found him, bring me word again, that I may come and worship him also."
+
+When they had heard the Premier, they departed; and lo, the star, which they saw in the east, went before them, till it came and stood over where the young child was.
+
+When they saw the star, they rejoiced with exceeding great joy.
+
+And when they were come into the house, they saw the young child with Mary his mother, and fell down, and worshipped him: and when they had opened their treasures, they presented unto him gifts: gold and medicine and perfume.
+
+And being warned of God in a dream that they should not return to England, they departed into their own country another way.
+
+Save one, and he was black. And his own country was the country where he was; so the black Wise Man lingered by the cradle and the new-born babe.
+
+The perfume of his gift rose and filled the house until through it and afar came the dim form of years and multitudes. And the child, seeing the multitudes, opened his mouth and taught them, saying:
+
+*Blessed are poor folks for they shall go to heaven.*
+
+*Blessed are sad folks for someone will bring them joy.*
+
+*Blessed are they that submit to hurts for they shall sometime own the world.*
+
+*Blessed are they that truly want to do right for they shall get their wish.*
+
+*Blessed are those who do not seek revenge for vengeance will not seek them.*
+
+*Blessed are the pure for they shall see God.*
+
+*Blessed are those who will not fight for they are God's children.*
+
+*Blessed are those whom people like to injure for they shall sometime be happy.*
+
+*Blessed are you, Black Folk, when men make fun of you and mob you and lie about you. Never mind and be glad for your day will surely come.*
+
+*Always the world has ridiculed its better souls.*
+
+<!-- Similar articles start here -->
+<div  class="clear-wrap"></div>
+
+#### Related Articles
+
+* [Liberia (1927)](/Volumes/34/01/liberia.html)
+* [From a Traveller (1932)](/Volumes/39/12/from_a_traveler.html)
+* [Smuts (1930)](/Volumes/37/02/smuts.html)
+* [Votes for Negroes (1921)](/Volumes/21/03/votes-for-negroes.html)
+* [Darrow (1928)](/Volumes/35/06/darrow.html)
+
+<!-- Similar articles end here -->

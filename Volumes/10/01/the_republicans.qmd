@@ -30,13 +30,13 @@ _____
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
+
+#### Related Articles
 
 * [Political Straws (1923)](/Volumes/26/03/political_straws.html)
-* [The Election (1910)](/Volumes/01/02/election.html)
 * [How Shall We Vote (1920)](/Volumes/20/05/how_shall_we_vote.html)
-* [Every Four Years (1920)](/Volumes/19/06/every_four_years.html)
+* [The Election (1910)](/Volumes/01/02/election.html)
+* [The Negro Party (1916)](/Volumes/12/06/negro_party.html)
 * [Education (1913)](/Volumes/06/02/democrats.html)
 
 <!-- Similar articles end here -->

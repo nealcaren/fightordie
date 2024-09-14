@@ -33,13 +33,13 @@ Is this judgment unfair? Does it seem harsh when compared with what Mr. Smuts sa
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
+
+#### Related Articles
 
 * [Patient Asses (1930)](/Volumes/37/03/patient_asses.html)
-* [To The World (1921)](/Volumes/23/01/to_the_world.html)
-* [Social Equality (1916)](/Volumes/12/01/social_equality.html)
-* [Pan-Africa and New Racial Philosophy (1933)](/Volumes/40/11/panafrica_and_new_racial_philosophy.html)
 * [The Drive (1922)](/Volumes/22/01/drive.html)
+* [The Future of Africa (1919)](/Volumes/17/03/future-of-africa.html)
+* [Social Equality (1916)](/Volumes/12/01/social_equality.html)
+* [Resolutions of the Washington Conference (1917)](/Volumes/14/02/resolutions.html)
 
 <!-- Similar articles end here -->

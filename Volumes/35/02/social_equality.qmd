@@ -1,0 +1,61 @@
+---
+title: 'Social Equality'
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
+date: Feb. 1928
+categories: 
+  - ""
+citation: 
+  type: article-journal
+  container-title: The Crisis
+  volume: 35
+  issue: 2
+  page: 61-62
+google-scholar: true
+
+format:
+  html:
+    toc: false
+    appendix-cite-as: display
+---
+
+Lothrop Stoddard, professional "nigger" hater and protagonist of the Ku Klux Klan, made two astonishing admissions the other night when he debated the subject of social equality with the Editor of <span class="crisis-title">The Crisis</span>.
+
+The first was this: "The basic reason for white America’s attitude and policy toward the Negro is not a belief in the Negro’s inferiority, but the fact of his difference." This is a shifting of ground which was bound to come, but we had not expected it so soon or from such a source.
+
+No sooner, however, had Mr. Stoddard made this admission, than he was faced with this statement from Mr. Du Bois.
+
+> Mr. Stoddard declares that his chief solicitude is to preserve racial differences. Very well. Preserve them. But do not wreck civilization in so doing. Be generous and truthful in your estimate of other races. Give them every chance for development and open recognition of their accomplishment. Meet them as men. Talk with them. Confer with them. Only in this way can the differences be appreciated and understood and used for the glory of mankind.
+> 
+> If you wish to invite black men or yellow men to dinner, do so. If you do not, refrain from it; but do not shut restaurants in their faces; and should you meet them at someone’s else table, act as though you were a gentleman.
+> 
+> All this; and beyond this no one need go unless they wish. If any white person does not want to marry a colored person, no one is going to compel him. If he is asked, he has simply to say no.
+>
+> If Mr. Stoddard were speaking pontifically for everybody in the white race, there would be absolutely no need of his silly bi-racial program. But, of course, Mr. Stoddard has no business to speak for every single white person just as I cannot speak for all black people. Now what are you going to do with the white man who is determined to marry a black woman? Shall you put him in jail, as in Mississippi? That method has been tried and failed. What we black Americans suggest is, that if they want to get married, let them be married, openly and legally.
+> 
+> We assume that there are comparatively few black and white people in the United States, who want to get married; we believe that if marriage is free, and social intercourse takes place on the highest and best levels, that, insofar as there are good and sufficient reasons in science and taste to keep people from marrying outside of their particular group, such marriages will not take place in the vast majority of cases. It would be an astounding admission, and the utter negation of his own argument, if Mr. Stoddard had to admit that free social intercourse among intelligent white and colored people in the United States was going to lead to wholesale intermarriage.
+> 
+> I believe that there would be less intermingling of blood between the white and black group in the United States under the open abolition of the color line, than there is today under its futile and impossible enforcement. If the granting of social equality and equal opportunity for black folk would lead to making America a nation of octoroons, then this would be overwhelming proof that white people of the United States wanted a thing which Mr. Stoddard is carefully and elaborately denying, and with which denial I perfectly agree.
+>
+> It is unfortunate that most white people arguing this question always leap straight to this extreme problem of the amalgamation of races. I ask for a decent seat in the theater, and my white neighbor answers, 'Do you want to marry my daughter?' And if I protest that really that wasn't in my mind, he looks at me suspiciously and then says: 'Well, what is it that you Negroes do want?' His whole attitude and implication is, that as a matter of fact, what Negroes want is intermarriage and amalgamation.
+>
+> In truth, what they want is equality and opportunity. If a group finds, that in the long run, it can only get equal treatment by disappearing as a group, it disappears, and nothing that Mr. Stoddard or any of his friends can do, will keep America from becoming octoroon if they persist in the present drawing of the color line. On the other hand, if the time comes when an American can be black and have the same opportunities as though he were white, why should he change the color of his skin? Does Mr. Stoddard really think that white people are so obviously and remarkably more gifted, good and beautiful than black people or brown people or yellow people, that these darker races are trying to commit racial suicide?
+
+And what does Mr. Stoddard answer? His answer is, in effect: "If the higher classes should give Negroes this treatment socially, see how much intermarriage it would lead to among the mass of people!"
+
+Or, in other words, the only way to keep the mass of white Americans from marrying Negroes is to lie about Negroes and lynch them and insult them. This proves what we have always said: the guilt for lynching lies not on the morons and criminals who pull the rope, it lies at the door of the educated and thoughtful Christians of America who refuse to attack race prejudice even when they know it is based on a lie.
+
+<!-- Similar articles start here -->
+<div  class="clear-wrap"></div>
+
+#### Related Articles
+
+* [The Negro Citizen (1929)](/Volumes/36/05/negro_citizen.html)
+* [A Statement (1919)](/Volumes/19/01/statement.html)
+* [Social Equality (1916)](/Volumes/12/01/social_equality.html)
+* [The Chicago Debate (1929)](/Volumes/36/05/chicago_debate.html)
+* [The N.A.A.C.P. and Race Segregation (1934)](/Volumes/41/02/naacp_and_race_segregation.html)
+
+<!-- Similar articles end here -->

@@ -24,11 +24,11 @@ format:
 
 
 A good friend sends us this word:
-> As an optimist of <span class = "small-caps">The Crisis</span> persuasion, I find myself more or less frequently engaged in arguments on the eternal race question. Here is an argument I am often called upon to meet: "Jim Crow" laws make us save money; discrimination makes us appreciate and patronize our own; segregation gives our business men a chance; separate schools give our girls and boys something to work for. Possibly there are many doubtful minds who would be benefited by a word from you on this subject through the columns of <span class = "small-caps">The Crisis</span>.
+> As an optimist of <span class="crisis-title">The Crisis</span> persuasion, I find myself more or less frequently engaged in arguments on the eternal race question. Here is an argument I am often called upon to meet: "Jim Crow" laws make us save money; discrimination makes us appreciate and patronize our own; segregation gives our business men a chance; separate schools give our girls and boys something to work for. Possibly there are many doubtful minds who would be benefited by a word from you on this subject through the columns of <span class="crisis-title">The Crisis</span>.
 
 There is no doubt that colored people travel less than they otherwise would, on account of " Jim Crow" cars, and thus have this money to spend otherwise.
 
-There is no doubt that thousands of Negro business enterprises have been built up on account of discrimination against colored folks in drug stores, grocery stores, insurance societies and daily papers. In a sense <span class = "small-caps">The Crisis</span> is capitalized race prejudice.
+There is no doubt that thousands of Negro business enterprises have been built up on account of discrimination against colored folks in drug stores, grocery stores, insurance societies and daily papers. In a sense <span class="crisis-title">The Crisis</span> is capitalized race prejudice.
 
 There is not the slightest doubt but that separate school systems, by giving colored children their own teachers and a sense of racial pride, are enabled to keep more colored children in school and take them through longer courses than outworn handwork or decadent trades mixed systems. The 100,000 Negroes of Baltimore have 600 pupils in the separate high school; New York, with a larger colored population, has less than 200 in its mixed high schools.
 
@@ -60,13 +60,13 @@ schools, cars and churches are inevita­ble, we must accept it, make the best of
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
+
+#### Related Articles
 
 * [The "Jim Crow" Argument (1913)](/Volumes/05/06/jim_crow_argument.html)
-* [Correspondence (1926)](/Volumes/31/05/correspondence.html)
-* [Discrimination (1911)](/Volumes/02/03/discrimination.html)
-* [Promotion of Prejudice (1911)](/Volumes/02/05/promotion.html)
-* [Starvation and Prejudice (1911)](/Volumes/02/02/starvation_and_prejudice.html)
+* [Our Economic Peril (1930)](/Volumes/37/03/our_economic_peril.html)
+* [A Statement (1919)](/Volumes/19/01/statement.html)
+* [Jim Crow (1919)](/Volumes/17/03/jim_crow.html)
+* [The Fruit of the Tree (1913)](/Volumes/06/05/fruit_of_tree.html)
 
 <!-- Similar articles end here -->

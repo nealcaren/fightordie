@@ -27,13 +27,13 @@ A number of papers have been repeating a recent dictum that it is conduct, not c
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
 
-* [Resistance (1914)](/Volumes/07/04/resistance.html)
-* [Lies Agreed Upon (1916)](/Volumes/11/04/lies_agreed_upon.html)
-* [A Statement (1919)](/Volumes/19/01/statement.html)
+#### Related Articles
+
 * [The Truth (1912)](/Volumes/05/02/truth.html)
 * [White Co-Workers (1920)](/Volumes/20/01/white_coworkers.html)
+* [Resistance (1914)](/Volumes/07/04/resistance.html)
+* [A Statement (1919)](/Volumes/19/01/statement.html)
+* [Lies Agreed Upon (1916)](/Volumes/11/04/lies_agreed_upon.html)
 
 <!-- Similar articles end here -->

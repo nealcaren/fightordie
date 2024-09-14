@@ -104,13 +104,13 @@ I had a classmate once who did three beautiful things and died. One of them was 
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
+
+#### Related Articles
 
 * [Negro Art (1921)](/Volumes/22/02/negro_art.html)
-* [Muddle (1916)](/Volumes/13/02/muddle.html)
+* [Negro Art (1922)](/Volumes/23/03/negro-art.html)
+* [Mencken (1927)](/Volumes/34/08/mencken.html)
 * [The Black Man and the Unions (1918)](/Volumes/15/05/the_black_man_and_the_unions.html)
-* [White Co-Workers (1920)](/Volumes/20/01/white_coworkers.html)
-* [Toward a New Racial Philosophy (1933)](/Volumes/40/01/toward_a_new_racial_philosophy.html)
+* [Muddle (1916)](/Volumes/13/02/muddle.html)
 
 <!-- Similar articles end here -->

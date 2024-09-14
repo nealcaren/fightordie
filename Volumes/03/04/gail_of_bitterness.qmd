@@ -39,13 +39,13 @@ We trust that the Gall of Bitterness will not spoil the pages of <span class="cr
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
 
-* [Join or Die (1914)](/Volumes/07/03/fightordie.html)
-* [Truth and Beauty (1922)](/Volumes/25/01/truth_and_beauty.html)
-* [The Second Birthday (1912)](/Volumes/05/01/second_birthday.html)
+#### Related Articles
+
+* [Don't Be Bitter (1914)](/Volumes/08/04/dont_be_bitter.html)
 * [The Crisis (1910)](/Volumes/01/01/TheCrisis.html)
 * [The Truth (1912)](/Volumes/05/02/truth.html)
+* [Join or Die (1914)](/Volumes/07/03/fightordie.html)
+* [A Statement (1919)](/Volumes/19/01/statement.html)
 
 <!-- Similar articles end here -->

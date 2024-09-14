@@ -39,13 +39,13 @@ There remains scarcely a respectable periodical in the United States that refuse
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
+
+#### Related Articles
 
 * [Negro (1914)](/Volumes/09/02/negro.html)
-* [That Capital ''N'' (1930)](/Volumes/37/02/that_capital_n.html)
-* [That Capital ''N'' (1916)](/Volumes/11/04/that_capital_n.html)
-* [Radicals (1919)](/Volumes/19/02/radicals.html)
+* [That Capital 'N' (1930)](/Volumes/37/02/that_capital_n.html)
+* [That Capital 'N' (1916)](/Volumes/11/04/that_capital_n.html)
 * [The Name Negro (1928)](/Volumes/35/03/name_negro.html)
+* [Our Book Shelf (1926)](/Volumes/31/03/book_shelf.html)
 
 <!-- Similar articles end here -->

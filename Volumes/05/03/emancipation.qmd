@@ -1,4 +1,3 @@
-
 ---
 title: 'Emancipation'
 author:
@@ -43,7 +42,7 @@ property, educates his children, and even enters the world of literature
 and art. Indeed, so firm has been his faith that large numbers of
 Negroes have even assented to waive all discussion of their rights,
 consent to present disfranchisement and do just as far as possible
-exactly what America w^r^ants them to do. But even here let there be no
+exactly what America wants them to do. But even here let there be no
 mistake; with Negro agitators and Negro submissionists there is the one
 goal: eventual full American citizenship with all rights and
 opportunities of citizens. Remove this hope and you weld ten million
@@ -90,13 +89,13 @@ it.
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
 
-* [An Open Letter (1915)](/Volumes/10/03/an_open_letter.html)
-* [Blaine of Maine (1932)](/Volumes/39/08/blaine_of_maine.html)
+#### Related Articles
+
 * [Loyalty (1917)](/Volumes/14/01/loyalty.html)
 * [Civil Rights (1913)](/Volumes/06/04/civil_rights.html)
-* [An Open Letter to Woodrow Wilson (1913)](/Volumes/05/05/open_letter.html)
+* [An Open Letter (1915)](/Volumes/10/03/an_open_letter.html)
+* [Blaine of Maine (1932)](/Volumes/39/08/blaine_of_maine.html)
+* [Suffrage (1920)](/Volumes/21/01/suffrage.html)
 
 <!-- Similar articles end here -->

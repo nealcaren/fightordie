@@ -29,13 +29,13 @@ On the other hand we never consciously suppress news of persons or organizations
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
+
+#### Related Articles
 
 * [Booming The Crisis (1914)](/Volumes/07/05/booming_crisis.html)
 * [Our Special Grievances (1918)](/Volumes/16/05/our_special_greivances.html)
 * [Allies (1911)](/Volumes/02/03/allies.html)
-* [Radicals (1919)](/Volumes/19/02/radicals.html)
-* [A Correspondence (1914)](/Volumes/09/01/correspondence.html)
+* [Criteria of Negro Art (1926)](/Volumes/32/06/criteria_of_negro_art.html)
+* [Conduct, Not Color (1916)](/Volumes/12/05/conduct_not_color.html)
 
 <!-- Similar articles end here -->

@@ -35,13 +35,13 @@ Brothers, the war has shown us the cruelty of the civilization of the West. Hist
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
 
-* [Forward (1920)](/Volumes/20/05/forward.html)
+#### Related Articles
+
+* [Close Ranks (1918)](/Volumes/16/03/close_ranks.html)
 * [Peace (1933)](/Volumes/40/12/peace.html)
 * [A Philosophy in Time of War (1918)](/Volumes/16/04/philosophy_in_time_of_war.html)
-* [Close Ranks (1918)](/Volumes/16/03/close_ranks.html)
-* [Let us Reason Together (1919)](/Volumes/18/05/let_us_reason_together.html)
+* [Forward (1920)](/Volumes/20/05/forward.html)
+* [Unrest (1920)](/Volumes/19/05/unrest.html)
 
 <!-- Similar articles end here -->

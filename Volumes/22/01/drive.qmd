@@ -40,13 +40,13 @@ Are we going to be misled fools, or are we going to put a quarter of a million l
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
 
-* [Smuts (1930)](/Volumes/37/02/smuts.html)
-* [Votes (1919)](/Volumes/19/02/votes.html)
+#### Related Articles
+
 * [Violations of Property Rights (1911)](/Volumes/02/01/violations.html)
-* [Dodging the Issue (1933)](/Volumes/40/02/dodging_the_issue.html)
+* [Votes (1919)](/Volumes/19/02/votes.html)
+* [Smuts (1930)](/Volumes/37/02/smuts.html)
+* [The Future of Africa (1919)](/Volumes/17/03/future-of-africa.html)
 * [The Simple Way (1913)](/Volumes/07/01/simple_way.html)
 
 <!-- Similar articles end here -->

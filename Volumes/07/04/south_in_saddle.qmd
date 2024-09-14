@@ -60,13 +60,13 @@ South is in the saddle when it wields four times the political power of the Nort
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
+
+#### Related Articles
 
 * [An Open Letter to Woodrow Wilson (1913)](/Volumes/05/05/open_letter.html)
-* [Education (1913)](/Volumes/06/02/democrats.html)
-* [Presidential Candidates (1916)](/Volumes/13/01/presidential_candidates.html)
 * [The President (1915)](/Volumes/09/04/president.html)
+* [Presidential Candidates (1916)](/Volumes/13/01/presidential_candidates.html)
+* [Education (1913)](/Volumes/06/02/democrats.html)
 * [The Election (1912)](/Volumes/05/02/the_election.html)
 
 <!-- Similar articles end here -->

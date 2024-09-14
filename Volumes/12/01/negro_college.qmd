@@ -30,13 +30,13 @@ This pageant has been given in New York and in Washington with striking success.
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
+
+#### Related Articles
 
 * [The Pageant (1916)](/Volumes/12/01/pageant.html)
-* [The Methodist Church, North (1911)](/Volumes/01/05/methodist_church_north.html)
-* [The Negro Church (1912)](/Volumes/04/01/negro_church.html)
 * [The National Interracial Conference (1929)](/Volumes/36/02/national_interracial_conference.html)
 * [Missionaries (1929)](/Volumes/36/05/missionaries.html)
+* [The Methodist Church, North (1911)](/Volumes/01/05/methodist_church_north.html)
+* [The Negro Church (1912)](/Volumes/04/01/negro_church.html)
 
 <!-- Similar articles end here -->

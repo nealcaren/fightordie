@@ -27,8 +27,8 @@ Few Americans realize how many homicides take place in the United States. During
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
+
+#### Related Articles
 
 * [Murder (1914)](/Volumes/09/02/murder.html)
 * [Homicides (1921)](/Volumes/23/05/homicides.html)

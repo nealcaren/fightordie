@@ -1,0 +1,50 @@
+---
+title: 'Presidential Candidates'
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
+date: June. 1920
+categories: 
+  - ""
+citation: 
+  type: article-journal
+  container-title: The Crisis
+  volume: 20
+  issue: 2
+  page: 69
+google-scholar: true
+
+format:
+  html:
+    toc: false
+    appendix-cite-as: display
+---
+
+
+We have asked 17 men mentioned for the presidency what their attitude is on:
+
+1. Lynching
+2. "Jim Crow" cars
+3. Disfranchisement
+4. Haiti
+5. National aid to Negro common schools
+6. Colored army officers
+7. Segregation in the civil service.
+
+Senator Poindexter has replied that he is "in favor of maintaining the legal rights and opportunities of all our citizens, regardless of color or condition".
+
+Senator Harding replied that he would stand on the party platform, and General Wood, replying only to statements of his reported attitude toward colored army officers, says: "The reports concerning colored officers are not true. Most of this propaganda is enemy propaganda." Fourteen gentlemen have announced by their silence that they have no convictions or policy toward the greatest social problem facing America. We will forget these gentlemen neither in our prayers nor in our votes.
+
+<!-- Similar articles start here -->
+<div  class="clear-wrap"></div>
+
+#### Related Articles
+
+* [Mr. Roosevelt (1912)](/Volumes/04/05/mr_roosevelt.html)
+* [The Harding Political Plan (1922)](/Volumes/23/03/harding-political-plan.html)
+* [The Congressmen and the NAACP (1914)](/Volumes/09/02/congressmen_and_the_naacp.html)
+* [Allies (1911)](/Volumes/02/03/allies.html)
+* [Muddle (1916)](/Volumes/13/02/muddle.html)
+
+<!-- Similar articles end here -->

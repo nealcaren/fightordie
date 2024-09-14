@@ -51,13 +51,13 @@ When once <span class="crisis-title">The Crisis</span> can reach a circulation 
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
 
-* [Join or Die (1914)](/Volumes/07/03/fightordie.html)
-* [Truth and Beauty (1922)](/Volumes/25/01/truth_and_beauty.html)
-* [The Gall of Bitterness (1912)](/Volumes/03/04/gail_of_bitterness.html)
+#### Related Articles
+
 * [We Come of Age (1915)](/Volumes/11/01/we_come_of_age.html)
+* [Truth and Beauty (1922)](/Volumes/25/01/truth_and_beauty.html)
+* [Join or Die (1914)](/Volumes/07/03/fightordie.html)
+* [Publicity (1922)](/Volumes/24/01/publicity.html)
 * [Booming The Crisis (1914)](/Volumes/07/05/booming_crisis.html)
 
 <!-- Similar articles end here -->

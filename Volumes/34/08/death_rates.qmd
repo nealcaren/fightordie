@@ -32,13 +32,13 @@ The group can only be compared with its own status in the past, to note progress
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
+
+#### Related Articles
 
 * [Our Health (1933)](/Volumes/40/02/our_health.html)
-* [The Census (1911)](/Volumes/03/01/census.html)
-* [Our Rate of Increase (1933)](/Volumes/40/02/our_rate_of_increase.html)
 * [Knowledge (1911)](/Volumes/02/06/knowledge.html)
+* [The Census (1911)](/Volumes/03/01/census.html)
 * [Homicides (1921)](/Volumes/23/05/homicides.html)
+* [Our Rate of Increase (1933)](/Volumes/40/02/our_rate_of_increase.html)
 
 <!-- Similar articles end here -->

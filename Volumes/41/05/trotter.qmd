@@ -56,13 +56,13 @@ I can understand his death. I can see a man of sixty, tired and disappointed, fa
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
+
+#### Related Articles
 
 * [William Monroe Trotter (1914)](/Volumes/09/02/trotter.html)
-* [Tillman (1918)](/Volumes/16/04/tillman.html)
 * [On Being Ashamed of Oneself (1933)](/Volumes/40/09/on_being_ashamed.html)
+* [Tillman (1918)](/Volumes/16/04/tillman.html)
+* [Marcus Garvey and the NAACP (1928)](/Volumes/35/02/marcus_garvey.html)
 * [Social Equality (1916)](/Volumes/12/01/social_equality.html)
-* [Heroes (1919)](/Volumes/19/01/heroes.html)
 
 <!-- Similar articles end here -->

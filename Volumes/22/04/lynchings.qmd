@@ -36,13 +36,13 @@ The press will lie to the last ditch to distort the truth. Suppose you lived the
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
+
+#### Related Articles
 
 * [Lynching (1927)](/Volumes/33/04/lynching.html)
-* [Mob Tactics (1927)](/Volumes/34/06/mob_tactics.html)
 * [Scottsboro (1934)](/Volumes/41/01/scottsboro.html)
-* [Lynching (1914)](/Volumes/07/05/lynching.html)
+* [Lynching (1928)](/Volumes/35/09/lynching.html)
+* [Mob Tactics (1927)](/Volumes/34/06/mob_tactics.html)
 * [Lynchings (1932)](/Volumes/39/02/lynchings.html)
 
 <!-- Similar articles end here -->

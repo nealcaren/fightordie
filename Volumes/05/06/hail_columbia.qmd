@@ -108,13 +108,13 @@ the thought and Hail Columbia, Happy Land!
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
+
+#### Related Articles
 
 * [Divine Right (1912)](/Volumes/03/05/divine_right.html)
 * [An Open Letter to Woodrow Wilson (1913)](/Volumes/05/05/open_letter.html)
-* [The Next Step (1913)](/Volumes/06/02/next_step.html)
-* [Resolutions of the Washington Conference (1917)](/Volumes/14/02/resolutions.html)
-* [Veiled Insults (1914)](/Volumes/07/06/veiled_insults.html)
+* [Victory (1917)](/Volumes/15/02/victory.html)
+* [Progress (1920)](/Volumes/21/01/progress.html)
+* [Triumph (1920)](/Volumes/20/06/triumph.html)
 
 <!-- Similar articles end here -->

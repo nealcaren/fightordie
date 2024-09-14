@@ -30,13 +30,13 @@ We have received few subscriptions with more pleasure than this. We have perhaps
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
 
-* [An Open Letter to Robert Russa Moton (1916)](/Volumes/12/03/open_letter.html)
-* [Booming The Crisis (1914)](/Volumes/07/05/booming_crisis.html)
+#### Related Articles
+
+* [Ku Klux Klan (1921)](/Volumes/23/01/ku-klux-klan.html)
+* [Social Equality (1928)](/Volumes/35/02/social_equality.html)
+* [Libelous Film (1921)](/Volumes/22/03/libelous_film.html)
 * [Radicals (1919)](/Volumes/19/02/radicals.html)
-* [Truth and Beauty (1922)](/Volumes/25/01/truth_and_beauty.html)
-* [We Come of Age (1915)](/Volumes/11/01/we_come_of_age.html)
+* [A Statement (1919)](/Volumes/19/01/statement.html)
 
 <!-- Similar articles end here -->

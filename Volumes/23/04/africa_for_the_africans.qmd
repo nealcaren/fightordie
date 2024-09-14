@@ -37,13 +37,13 @@ Again the editor distinctly believes that Africa should be administered for the 
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
 
+#### Related Articles
+
+* [Clothes (1920)](/Volumes/20/04/clothes.html)
 * [Pan-Africa and New Racial Philosophy (1933)](/Volumes/40/11/panafrica_and_new_racial_philosophy.html)
 * [The Name Negro (1928)](/Volumes/35/03/name_negro.html)
-* [Light (1912)](/Volumes/03/04/light.html)
 * [Resolutions of the Washington Conference (1917)](/Volumes/14/02/resolutions.html)
-* [Violations of Property Rights (1911)](/Volumes/02/01/violations.html)
+* [A Statement (1919)](/Volumes/19/01/statement.html)
 
 <!-- Similar articles end here -->

@@ -64,13 +64,13 @@ ______
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
+
+#### Related Articles
 
 * [Education (1911)](/Volumes/01/04/education.html)
-* [Education (1911)](/Volumes/02/02/education.html)
-* [Employment (1932)](/Volumes/39/09/employment.html)
 * [Segregation (1910)](/Volumes/01/01/Segregation.html)
 * [Reconstruction (1919)](/Volumes/18/03/reconstruction.html)
+* [A Statement (1919)](/Volumes/19/01/statement.html)
+* [School (1918)](/Volumes/16/06/school.html)
 
 <!-- Similar articles end here -->

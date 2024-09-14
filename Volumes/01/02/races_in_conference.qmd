@@ -41,13 +41,13 @@ To such a meeting should go particularly those people to whom the physical diffe
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
+
+#### Related Articles
 
 * [The World in Council (1911)](/Volumes/02/05/world.html)
 * [The Races in Congress (1911)](/Volumes/02/05/races_congress.html)
 * [The Durham Conference (1927)](/Volumes/34/10/durham_conference.html)
+* [Resolutions of the Washington Conference (1917)](/Volumes/14/02/resolutions.html)
 * [The National Interracial Conference (1929)](/Volumes/36/02/national_interracial_conference.html)
-* [Does Organization Pay? (1914)](/Volumes/07/06/does_organization_pay.html)
 
 <!-- Similar articles end here -->

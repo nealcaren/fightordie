@@ -37,13 +37,13 @@ To Your Tents, Oh Israel!
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
+
+#### Related Articles
 
 * [Philanthropy and Self Help (1918)](/Volumes/16/03/philanthropy_and_self_help.html)
+* [Education (1930)](/Volumes/37/02/education.html)
 * [Our Economic Future (1928)](/Volumes/35/05/our_economic_future.html)
 * [Employment (1932)](/Volumes/39/09/employment.html)
 * [Our Class Struggle (1933)](/Volumes/40/07/our_class_struggle.html)
-* [Investments (1921)](/Volumes/22/05/investments.html)
 
 <!-- Similar articles end here -->

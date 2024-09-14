@@ -25,7 +25,7 @@ format:
 
 We learned during the Great War what Publicity could do. We saw its good effects in bringing the truth before the people; we saw its bad effects in making millions believe lies. We are thinking of these bad effects so persistently since the war that Propaganda is in bad odor. But let us remember that in pitiless Publicity we have perhaps the greatest militant organ of social reform at our hands.
 
-In our own problem, the N.A.A.C.P. at the very beginning looked upon <span class = "small-caps">The Crisis</span> as a first and absolutely necessary step. Until the best black and white people realized the facts concerning the Negro problem, there was no use discussing remedies. It is as true today as it was then.
+In our own problem, the N.A.A.C.P. at the very beginning looked upon <span class="crisis-title">The Crisis</span> as a first and absolutely necessary step. Until the best black and white people realized the facts concerning the Negro problem, there was no use discussing remedies. It is as true today as it was then.
 
 But further than that, if we want the economic conditions upon which modern life is based to be changed and changed for the better, we need first of all Publicity. The mass of men do not know the facts and there is not today any adequate effort to make all these facts known to the public. Not only that, but law and custom conspire to conceal the truth.
 
@@ -39,13 +39,13 @@ These are all simple fundamental facts. Progress, to be sure, has been made in t
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
 
-* [Radicals (1919)](/Volumes/19/02/radicals.html)
-* [Inter-Racial Comity (1922)](/Volumes/22/01/inter-racial_comity.html)
-* [A Statement (1919)](/Volumes/19/01/statement.html)
+#### Related Articles
+
 * [The Truth (1912)](/Volumes/05/02/truth.html)
-* [The Chicago Debate (1929)](/Volumes/36/05/chicago_debate.html)
+* [Radicals (1919)](/Volumes/19/02/radicals.html)
+* [The Present (1917)](/Volumes/14/04/present.html)
+* [The Crisis (1910)](/Volumes/01/01/TheCrisis.html)
+* [A Statement (1919)](/Volumes/19/01/statement.html)
 
 <!-- Similar articles end here -->

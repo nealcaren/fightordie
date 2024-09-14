@@ -48,13 +48,13 @@ war. But it will not be war. It will be crime.
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
 
+#### Related Articles
+
+* [Two Columns (1916)](/Volumes/12/04/_two-columns.html)
+* [War (1927)](/Volumes/33/04/war.html)
+* [Carrizal (1916)](/Volumes/12/04/carrizal.html)
 * [Violations of Property Rights (1911)](/Volumes/02/01/violations.html)
 * [Pullman Porters (1926)](/Volumes/31/03/pullman_porters.html)
-* [Brazil (1914)](/Volumes/07/06/brazil.html)
-* [To the Rescue (1916)](/Volumes/12/01/rescue.html)
-* [Violence (1934)](/Volumes/41/05/violence.html)
 
 <!-- Similar articles end here -->

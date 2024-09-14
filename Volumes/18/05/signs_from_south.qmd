@@ -40,13 +40,13 @@ is not a friend of mine and of law and order can do it.
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
+
+#### Related Articles
 
 * [Anarchism (1912)](/Volumes/04/04/anarchism.html)
+* [In Georgia (1920)](/Volumes/20/03/in-georgia.html)
 * [Scottsboro (1933)](/Volumes/40/05/scottsboro.html)
-* [Scottsboro (1934)](/Volumes/41/01/scottsboro.html)
-* [Education (1930)](/Volumes/37/02/education.html)
 * [Deception (1916)](/Volumes/12/02/deception.html)
+* [Slavery (1922)](/Volumes/24/01/slavery.html)
 
 <!-- Similar articles end here -->

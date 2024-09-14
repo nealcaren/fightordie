@@ -62,13 +62,13 @@ unpurchasablc advocate of justice and right.
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
+
+#### Related Articles
 
 * [Our Special Grievances (1918)](/Volumes/16/05/our_special_greivances.html)
-* [We Come of Age (1915)](/Volumes/11/01/we_come_of_age.html)
-* [Truth and Beauty (1922)](/Volumes/25/01/truth_and_beauty.html)
-* [Join or Die (1914)](/Volumes/07/03/fightordie.html)
 * [Other Organizations (1915)](/Volumes/10/05/other_organizations.html)
+* [The Crisis (1910)](/Volumes/01/01/TheCrisis.html)
+* [We Come of Age (1915)](/Volumes/11/01/we_come_of_age.html)
+* [The New Crisis (1925)](/Volumes/30/01/new_crisis.html)
 
 <!-- Similar articles end here -->

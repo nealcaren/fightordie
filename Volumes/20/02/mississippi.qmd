@@ -1,0 +1,72 @@
+---
+title: 'Mississippi'
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
+date: June. 1920
+categories: 
+  - ""
+citation: 
+  type: article-journal
+  container-title: The Crisis
+  volume: 20
+  issue: 2
+  page: 69-71
+google-scholar: true
+
+format:
+  html:
+    toc: false
+    appendix-cite-as: display
+---
+
+On March 25, 1920, the following law was passed by the Mississippi Legislature:
+
+> An act to make it a misdemeanor to print or publish or circulate printed or published appeals or presentations of arguments or suggestions favoring social equality or marriage between the white and Negro races.
+> 
+> Section I: Be it enacted by the Legislature of the State of Mississippi that any person publishing or circulating printed, typewritten or written matter urging or presenting for public acceptance or general information, arguments or suggestions in favor of social equality or of intermarriage between whites and Negroes, shall be guilty of a misdemeanor and subject to a fine of not exceeding five hundred dollars or imprisonment not exceeding six months or both fine and imprisonment in the discretion of the court.
+> 
+> Section II: That this act take effect and be in force from and after its passage.
+
+One of our agents in Mississippi is the Reverend E.R. Franklin of Jackson. He is, according to one of the best known citizens of the state, "a splendid type of the upstanding conservative young Negro of the South. He has been preaching and teaching school for a number of years, and in every place has been well liked by the white people."
+
+On Sunday, April 18, Mr. Franklin was on a Yazoo and Mississippi Valley train going from Jackson to Tchula, where he was to settle the estate of a deceased sister. He had a few copies of <span class="crisis-title">The Crisis</span> with him containing the article by William Pickens on our soldiers in France. He had let one or two passengers have copies. "Soon after he had let these passengers have the copies, the conductor came up and asked to see a copy also, which he handed him.
+
+> He says that he thought no more of it until upon his arrival in Tchula, he was met at the station by a mob who threw guns in his face and began to beat him; that after the mob had beaten him most severely, some having a rope crying "lynch him," the counsel of one certain man in the crowd to only whip him, but not to kill him, prevailed.
+>
+> And when this mob got through with him, they ordered him to get on up the railroad track out of town or they would kill him; so he then began in his weakened, dazed condition, as best he could, to get up the road. This was about dusk, and he had not gotten far before he looked around and saw either the same or another mob coming after him. And Tchula being practically in a swamp and about wholly surrounded by high water at that time, he slid from the railroad track down into the swamp and stood in the thickets and in water above his waist, with his overcoat thrown over his head to camouflage himself as nearly as possible as an old tree snag.
+>
+> Later, in the thick of darkness, he eased out of the water into the field, and sat there for the remainder of the night with his overcoat still thrown over his head, camouflaged as a stump.
+>
+> The mob came in great numbers and threw flashlights and whooped and howled like demons for quite a while but never detected him. Later a terrible rain storm came up and they had to disperse for the night. He remained in his camouflaged state, under this awful downpour and thunderstorm all night; and at daybreak the next morning, crawled back to the railroad track, and there met a white man whom he told what had happened, and asked this white man to assist him to an officer that he might seek protection.
+>
+> This man took him back to Tchula and there they went to the justice of the peace and told him what had happened. Thereupon, the justice of the peace had an affidavit sworn out against him.
+
+
+On the strength of this affidavit and without trial or indictment he was forthwith sentenced to a fine of $400 and five months on the county chain gang.
+
+His bail was placed at $1000 and in less than 30 minutes colored friends in Jackson subscribed $2,500.
+
+> We then employed a lawyer here to go to Tchula and tender the bond, whereupon a crowd of three hundred men met the lawyer soon after his arrival in Tchula and threatened to mob him if he dared represent Franklin; and the justice of the peace who declined the bond, (though it had been properly certified to by the sheriff and thereby proven valid as required by the law), told the lawyer that Franklin would be lynched if released and that his only salvation would be to permit him to work out the sentence.
+
+The N.A.A.C.P. then wired the Governor and received from the acting Lieutenant-Governor, H. H. Casteel, a reply, saying: "The mildness of his sentence was because of his ignorance. If the editors of this sheet would visit Mississippi we would make an example of them that would be a lasting benefit to the colored people of the South and would not soon be forgotten."
+
+Another telegram was despatched and efforts made to get other lawyers. Governor Russell replied saying, April 26: "I am not advised about the facts of the case but I am sure that the people of the state will see that the law is enforced and every right guaranteed under the law to any citizen is respected; however, let me add that I am sure this party got out very light, if I am properly advised, and that the law has been vindicated by the punishment he has received.
+
+> Let me also add that I fully indorse the telegram of Acting Governor Casteel, and when this man or any man comes into the state or into any state and advocates social equality and intermarriage of the Negro race with the white race he is doing that which should be condemned by both races alike.
+
+On April 27 Franklin was released on bond and arrived in Jackson, April 28. He will be tried at Lexington, Miss., at the next term of the circuit court in the fall.
+
+<!-- Similar articles start here -->
+<div  class="clear-wrap"></div>
+
+#### Related Articles
+
+* [The White Primary (1911)](/Volumes/01/05/white_primary.html)
+* [Senators' Records (1914)](/Volumes/08/02/senators_records.html)
+* [The Liberal South (1921)](/Volumes/21/06/liberal-south.html)
+* [Southern Papers (1911)](/Volumes/01/04/southern_papers.html)
+* [The Negro Citizen (1929)](/Volumes/36/05/negro_citizen.html)
+
+<!-- Similar articles end here -->

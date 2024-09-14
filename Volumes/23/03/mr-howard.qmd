@@ -1,0 +1,43 @@
+---
+title: 'Mr. Howard'
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
+date: January 1922
+categories: 
+  - ""
+citation: 
+  type: article-journal
+  container-title: The Crisis
+  volume: 23
+  issue: 3
+  page: 106-107
+google-scholar: true
+
+format:
+  html:
+    toc: false
+    appendix-cite-as: display
+---
+
+Mr. Perry Howard complains because <span class="crisis-title">The Crisis</span> said concerning his appointment to the United States Department of Justice: "The appointment given Mr. Perry Howard was one that we wish Mr. Howard had been able to refuse, as it is too unimportant and inadequate to be at all representative."
+
+Mr. Howard informs us that his office is important; that it is not "Jim-Crowed"; that he has charge, as counsel for the Government, of all railroads suits brought against it in the United States Court of Claims; that he has an assistant in the person of Captain L. R. Mehlinger, a trained young colored attorney; and that his work is that of practitioner and counsel and has not the least semblance of any clerical position.
+
+We are glad to know of this and we congratulate Mr. Howard and the Attorney-General.
+
+And this makes us all the more insistent that both Mr. Howard and Mr. Henry Lincoln Johnson (if the latter gets his appointment, as we sincerely hope he will), regard themselves as American citizens and Government officials with serious and important work to do, and not as errand boys for the Republican politicians. It was not the business of these two gentlemen to pull the politicians out of a hole by urging amendments to the Dyer Anti-Lynching bill which would emasculate it, and make it meaningless and worthless. It was not the business of either of these gentlemen to rush into Virginia or elsewhere to tell the colored people to vote for the Republican politicians who had insulted and kicked them out of the party. It is rather the duty of these men to set a new and high standard for the Negro office-holder and to let the people of the United States know that when they appoint colored men of their caliber to office they are not bribing voters, but rather they are arranging to get the Government's work done in the best possible manner. And too, it is the duty and privilege of these officials to teach their own race that the best political service which any politician can render his race is to do his duty like a man and to refuse all menial service.
+
+<!-- Similar articles start here -->
+<div  class="clear-wrap"></div>
+
+#### Related Articles
+
+* [Howard (1928)](/Volumes/35/09/howard.html)
+* [Again Howard (1932)](/Volumes/39/04/again_howard.html)
+* [Credit (1915)](/Volumes/10/01/credit.html)
+* [A Momentous Proposal (1918)](/Volumes/16/05/momentous_proposal.html)
+* [Flipper (1922)](/Volumes/24/05/flipper.html)
+
+<!-- Similar articles end here -->

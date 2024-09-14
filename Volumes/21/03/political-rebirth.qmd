@@ -1,0 +1,43 @@
+---
+title: 'Political Rebirth and the Office Seeker'
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
+date: January 1921
+categories: 
+  - ""
+citation: 
+  type: article-journal
+  container-title: The Crisis
+  volume: 21
+  issue: 3
+  page: 104
+google-scholar: true
+
+format:
+  html:
+    toc: false
+    appendix-cite-as: display
+---
+
+Slowly but steadily and with unflinching determination the American Negro is returning to political power. In the last presidential election, black folk put 13 members of their race into the legislatures of the Northern States; they have dozens of representatives in the city councils, not to mention thousands in the civil service. Congressional districts in Missouri, Illinois, Pennsylvania and New York will put black men in Congress before 1925.
+
+It is time, therefore, for us to consider seriously the use of our new and growing political power. We must realize that this country is not a democracy; that it is an oligarchy ruled by the Rich and Powerful, and that the right to vote is the beginning and not the end of the dream of transferring to the masses of men the power now held by the few. This can be done only by the study of modern political and social problems by colored voters, and above all by the discard of the chronic colored office seeker.
+
+When President-elect Harding comes to power he will be besieged by black men who want to be Recorders of Deeds, Registers of the Treasury, Assistant Attorneys-General and Fifteenth Auditors. Their attitude, and too often the attitude of their endorsers, will be that “recognition” of the Negro by these largely ornamental offices is the aim and object of the Negro vote. It is time we disabused our own minds and the minds of the whites that the object of our voting is to procure bread and butter for a few unemployed politicians who have been vociferous during the campaign.
+
+No! We want from the Republican Party and from any other party that deserves our votes, *not offices but deeds.* We sit absolutely unmoved by the appointment of a few figure heads at $2500 salaries, merely remarking that if such men used their brains in other directions they would spurn these petty offices; we stand determined to make some party, sooner or later, stop *lynching* by effectual Federal law; abolish “*Jim Crow*” cars in inter-state traffic; enforce the *13th amendment* by making peonage impossible; base representation in Congress on the actual vote cast; make *education* universal and compulsory; free *Haiti* from the South and the National City Bank; and put an effective *ballot* in the hands of every man and woman in the United States. This is going to be the price of the black vote. Let no politician seek to barter it for less.
+
+<!-- Similar articles start here -->
+<div  class="clear-wrap"></div>
+
+#### Related Articles
+
+* [Political Straws (1923)](/Volumes/26/03/political_straws.html)
+* [The Negro in Politics (1929)](/Volumes/36/11/negro_in_politics.html)
+* [Votes (1919)](/Volumes/19/02/votes.html)
+* [Education (1913)](/Volumes/06/02/democrats.html)
+* [The Negro Party (1916)](/Volumes/12/06/negro_party.html)
+
+<!-- Similar articles end here -->

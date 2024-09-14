@@ -41,13 +41,13 @@ Suppose we represent the electoral vote of the United States by the figure 16, a
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
+
+#### Related Articles
 
 * [Third Party (1929)](/Volumes/36/02/third_party.html)
+* [How Shall We Vote (1920)](/Volumes/20/05/how_shall_we_vote.html)
 * [The Campaign of 1928 (1928)](/Volumes/35/12/campaign_of_1928.html)
 * [The Election (1914)](/Volumes/09/02/election.html)
-* [How Shall We Vote (1920)](/Volumes/20/05/how_shall_we_vote.html)
 * [A New Party (1930)](/Volumes/37/08/new_party.html)
 
 <!-- Similar articles end here -->

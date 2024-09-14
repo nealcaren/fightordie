@@ -42,13 +42,13 @@ Angels and ministers of Grace, defend us!
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
 
-* [Lynchings and Mobs (1921)](/Volumes/22/04/lynchings.html)
+#### Related Articles
+
+* [From a Traveller (1932)](/Volumes/39/12/from_a_traveler.html)
+* [The Old Story (1911)](/Volumes/01/03/old_story.html)
 * [A Matter of Manners (1920)](/Volumes/19/04/matter-of-manners.html)
 * [Hail Columbia (1913)](/Volumes/05/06/hail_columbia.html)
-* [The Old Story (1911)](/Volumes/01/03/old_story.html)
-* [Peonage (1916)](/Volumes/11/06/peonage.html)
+* [The Massacre in East St. Louis (1917)](/Volumes/14/05/massacre_of_east_st_louis.html)
 
 <!-- Similar articles end here -->

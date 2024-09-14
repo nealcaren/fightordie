@@ -48,13 +48,13 @@ civilized districts.
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
+
+#### Related Articles
 
 * [Anarchism (1912)](/Volumes/04/04/anarchism.html)
 * [Scottsboro (1933)](/Volumes/40/05/scottsboro.html)
 * [A Moral Void (1917)](/Volumes/14/01/moral_void.html)
-* [Prejudice (1911)](/Volumes/02/01/prejudice.html)
-* [Scottsboro (1934)](/Volumes/41/01/scottsboro.html)
+* [The Old Story (1911)](/Volumes/01/03/old_story.html)
+* [Lynchings and Mobs (1921)](/Volumes/22/04/lynchings.html)
 
 <!-- Similar articles end here -->

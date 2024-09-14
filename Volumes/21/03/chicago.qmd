@@ -1,0 +1,40 @@
+---
+title: 'Chicago'
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
+date: January 1921
+categories: 
+  - ""
+citation: 
+  type: article-journal
+  container-title: The Crisis
+  volume: 21
+  issue: 3
+  page: 102
+google-scholar: true
+
+format:
+  html:
+    toc: false
+    appendix-cite-as: display
+---
+
+
+We would advise our Chicago friends to watch narrowly the work and forthcoming report of the Inter-racial Commission appointed by the Governor of Illinois after the late riot. The Commission consists of colored men who apparently have a much too complacent trust in their white friends; of white men who are too busy to know; and of enemies of the Negro race who under the guise of impartiality and good will are pushing insidiously but unswervingly a program of racial segregation. They have, for instance, sent a "questionnaire" to prominent colored men, consisting of 15 questions, which with all their surface frankness and innocence seek to betray black folk by means of the logical dilemma of "segregation" and "racial solidarity". By subtle suggestion these queries say: If you believe in colored churches, why not in colored ghettos? Does not Negro advancement increase anti-Negro hatred? Are not Negroes prejudiced against whites? Are not the mistakes of Negro leaders manifest? And so on.
+
+Indeed if a professed enemy of black folk and their progress had set out to start a controversy so as to divide the Negroes and their friends in counsel and throw the whole burden of such nasty outbreaks of race hate as the East St. Louis, Washington and Chicago riots upon them, he would have framed just such a questionnaire as has been sent out by this Commission.
+
+<!-- Similar articles start here -->
+<div  class="clear-wrap"></div>
+
+#### Related Articles
+
+* [White Co-Workers (1920)](/Volumes/20/01/white_coworkers.html)
+* [The White Church (1917)](/Volumes/14/01/white_church.html)
+* [The N.A.A.C.P. and Race Segregation (1934)](/Volumes/41/02/naacp_and_race_segregation.html)
+* [Inter-Racial Comity (1922)](/Volumes/22/01/inter-racial_comity.html)
+* [The Chicago Debate (1929)](/Volumes/36/05/chicago_debate.html)
+
+<!-- Similar articles end here -->

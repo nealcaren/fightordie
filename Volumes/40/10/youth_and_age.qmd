@@ -1,4 +1,3 @@
-
 ---
 title: 'Youth and Age at Amenia'
 author:
@@ -32,6 +31,12 @@ The first conference at Joel Spingarn's beautiful country estate, took place in 
 The second Amenia conference held at Troutbeck, seventeen years later, had a definite object,---one much more usual in this world, and yet emphasized today both within and without the Negro race because of World War and unemployment. It was an attempt to bring together and into sympathetic understanding, Youth and Age interested in the Negro problem. And more particularly Youth, with a fringe of Age; and not extreme youth. Eliminating four admittedly among the elders, the others ranged in age between twenty-five and thirty-five, with a median age of thirty, that is, they were well out of college and started on their life work, and yet, as the invitations suggested, they were still with inquiring minds and still unsettled as to their main life work.
 
 These younger conferees may be classed in various ways:
+
+::: {.aside}
+![](images/3c17806u_enlarge.jpg){.lightbox}
+Participants in the 1933 Amenia Conference.   
+Third Row (left to right): Ralph Bunche, Edward P. Lovett, W.E.B. Du Bois, Abram Harris, Charles Houston, Grace Nail Johnson, Roy Wilkins, E. Franklin Frazier, Sterling Brown, Lillian Alexander, Emmett Dorsey, William Pickens, Mary White Ovington, Ira De A. Reid, James Weldon Johnson, and Walter White.  Second Row (left to right): Hope Spingarn, Hazel Brown, Juanita Jackson, M. Moran Weston, Wenonah Logan, Joel Spingarn, Elmer A. Carter, Mabel J. Bryde, Frank Wilson, and Marion Cuthbert.  Front Row (left to right): Dr. Ernest Alexander, Ruth McGee, Dr. Virginia Alexander, Howard Shaw, Anna Arnold, Sara E. Reid, Pauline Young, Frances Williams, unidentified. Source:[Library of Congress](https://www.loc.gov/exhibits/naacp/the-great-depression.html)
+:::
 
 There were 5 social workers; 5 college professors, 4 Y.W.C.A. workers, 3 teachers, 3 lawyers, 2 artisans, 2 librarians, a physician, a student and a Y.M.C.A. worker.
 
@@ -99,13 +104,13 @@ This sketch of the conference cannot close without reference to the hospitality 
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
+
+#### Related Articles
 
 * [Victory (1917)](/Volumes/15/02/victory.html)
-* [Inter-Racial Comity (1922)](/Volumes/22/01/inter-racial_comity.html)
-* [The Younger Literary Movement (1924)](/Volumes/27/04/younger_movement.html)
 * [The New Crisis (1925)](/Volumes/30/01/new_crisis.html)
-* [Unity (1924)](/Volumes/28/03/unity.html)
+* [Inter-Racial Comity (1922)](/Volumes/22/01/inter-racial_comity.html)
+* [The White Church (1917)](/Volumes/14/01/white_church.html)
+* [The Crisis (1910)](/Volumes/01/01/TheCrisis.html)
 
 <!-- Similar articles end here -->

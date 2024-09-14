@@ -28,13 +28,13 @@ We are filled with delight at the prospect that Governor Smith will be nominated
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
+
+#### Related Articles
 
 * [The Election (1928)](/Volumes/35/12/election.html)
+* [Houston (1928)](/Volumes/35/09/houston.html)
 * [On the Fence (1928)](/Volumes/35/11/on_the_fence.html)
-* [The Truth (1911)](/Volumes/01/03/truth.html)
 * [The Presidential Campaign (1916)](/Volumes/12/06/presidential_campaign.html)
-* [Young Voters (1932)](/Volumes/39/09/young_voters.html)
+* [The Campaign of 1928 (1928)](/Volumes/35/12/campaign_of_1928.html)
 
 <!-- Similar articles end here -->

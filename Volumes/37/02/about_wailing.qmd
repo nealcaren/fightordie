@@ -37,13 +37,13 @@ In fact, we have a feeling that in times past we have already rather overdone th
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
+
+#### Related Articles
 
 * [Causes of Lynching (1931)](/Volumes/38/04/causes_of_lynching.html)
+* [The Task (1920)](/Volumes/20/04/task.html)
 * [The Immediate Program of the  American Negro (1915)](/Volumes/09/06/immediate_program.html)
-* [A Statement (1919)](/Volumes/19/01/statement.html)
-* [Anti-Lynching Legislation (1922)](/Volumes/22/01/anti-lynching_legislation.html)
-* [Social Equality (1916)](/Volumes/12/01/social_equality.html)
+* [Progress (1920)](/Volumes/21/01/progress.html)
+* [The Fruit of the Tree (1913)](/Volumes/06/05/fruit_of_tree.html)
 
 <!-- Similar articles end here -->

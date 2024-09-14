@@ -35,13 +35,13 @@ On our part the way is clear: the sooner we rise above charity, the sooner we sh
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
+
+#### Related Articles
 
 * [Philanthropy and Self Help (1918)](/Volumes/16/03/philanthropy_and_self_help.html)
-* [An Old Folks'' Home (1915)](/Volumes/09/05/old-folks-home.html)
+* [An Old Folks' Home (1915)](/Volumes/09/05/old-folks-home.html)
 * [Negro Education (1918)](/Volumes/15/04/negro_education.html)
+* [Schools (1917)](/Volumes/13/03/schools.html)
 * [Investments (1921)](/Volumes/22/05/investments.html)
-* [Light (1912)](/Volumes/03/04/light.html)
 
 <!-- Similar articles end here -->

@@ -61,13 +61,13 @@ format:
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
 
-* [The Christmas Prayers of God (1914)](/Volumes/09/02/christmas_prayers_of_god.html)
-* [The Quadroon (1911)](/Volumes/03/01/quadroon.html)
-* [Unrest (1920)](/Volumes/19/05/unrest.html)
-* [The Song of the Smoke (1914)](/Volumes/07/03/song_of_smoke.html)
+#### Related Articles
+
 * [The Burden of Black Women (1914)](/Volumes/09/01/burden_of_black_women.html)
+* [The Christmas Prayers of God (1914)](/Volumes/09/02/christmas_prayers_of_god.html)
+* [Curtains of Pain (1917)](/Volumes/13/04/curtains_of_pain.html)
+* [The Gospel According to Mary Brown (1919)](/Volumes/19/02/gospel.html)
+* [Easter-Emancipation 1863-1913 (1913)](/Volumes/05/06/easter-emancipation.html)
 
 <!-- Similar articles end here -->

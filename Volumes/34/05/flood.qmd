@@ -66,13 +66,13 @@ civilization.
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
 
+#### Related Articles
+
+* [The Migration of Negroes (1917)](/Volumes/14/02/migration_of_negroes.html)
 * [The Migration (1917)](/Volumes/14/01/migration.html)
 * [Brothers, Come North (1920)](/Volumes/19/03/brothers_come_north.html)
+* [Peonage (1927)](/Volumes/34/09/peonage.html)
 * [Slavery (1922)](/Volumes/24/01/slavery.html)
-* [Arkansas (1920)](/Volumes/19/04/arkansas.html)
-* [Memphis or East St. Louis? (1917)](/Volumes/14/03/memphis_or_east_st_louis.html)
 
 <!-- Similar articles end here -->

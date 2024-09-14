@@ -1,0 +1,57 @@
+---
+title: 'Ferdinand Q. Morton'
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
+date: July 1925
+categories: 
+  - ""
+citation: 
+  type: article-journal
+  container-title: The Crisis
+  volume: 30
+  issue: 3
+  page: 115-116
+google-scholar: true
+
+format:
+  html:
+    toc: false
+    appendix-cite-as: display
+---
+
+There has been going on in black New York during the last ten years a revolution in practical politics which few Negroes know or understand. There are two political attitudes usual to Negroes. One widely advocated by <span class="crisis-title">The Crisis</span> is that of standing outside parties and throwing a mass of independent votes here or there as the candidates bid until parties will recognize Negro strength and cater to it. The weakness of this stand is that the choices after nominations are made are really few or none. Hence the real fight of the practical politicians is inside the party in the organizing of wards and precincts and the primary elections.
+
+
+<figure class="right" style="width: 40%;">
+![](images/ferdinand.jpg)
+  <figcaption>
+    Ferdinand Q. Morton
+  </figcaption>
+</figure>
+
+Ferdinand Q. Morton is a man who believes in this latter method. He is frankly and avowedly a party politician. He takes human nature as he finds it and seeks to use it for his ends. These ends in his case are the recognition of manhood and ability despite color. While yet a student in school he determined to accomplish this by practical politics. He was born in Mississippi in 1881. He was educated in the public schools of Washington, D.C., and Phillips Exeter Academy in New Hampshire. He entered Harvard in 1902.
+
+Here he made a characteristic fight. He did excellent work in the studies he liked and was representative of his college in inter-collegiate debate. This debating was formerly allowed credit in graduation. But in Morton's senior year this custom was stopped and he was informed he needed one-half course credits necessary to graduation. It would have been an easy matter for Morton to make up this work but he refused on principle and his refusal stands to this day.
+
+This is Morton. As a student he determined to enter politics as a Democrat. He argued that a determined and resourceful Negro inside the Northern democratic party could do more to stop Southern domination than all the Negroes herded as Republicans; that the future of the Negro in America ultimately would be worked out not in the South, but in the North and West; that consequently the thing of paramount importance to win and hold civic and political equality was the division of the Negro vote between the two great political parties. He also felt the interests of the Negro imperatively required that in the urban and industrial centres of the North he should be aligned politically with the dominant parties.
+
+He entered the Tammany colored organization in Harlem which consisted then largely of men contented with janitorships and small jobs supplemented by bribes on election day. Soon Robert N. Wood came to control and a new spirit rose, especially as he made young Morton his right hand man. Wood stood up and made demands and won some recognition in the party. Finally in 1915, Morton became leader of Black Tammany. In 1910 there was not a single colored policeman in New York. The race had no representation either in the State or municipal legislative branches. The only positions held by Negroes were in the Street Cleaning Department, with the exception of school teachers, not regarded as political. Today there are fifty or more Negro policemen. Hundreds of Negroes are holding positions as clerks, stenographers, typists, investigators, parole officers and court attendants. The race has representation in the Corporation Counsel's Office and District Attorney's Office. An alderman and a member of the State Legislature are Negro Democrats, and the party that gets the black vote in Harlem today has to fight for it desperately.
+
+Morton himself has risen from an indictment clerk to Civil Service Commissioner at $7500 a year. He is a district leader and sits in the inner circle of Tammany Hall and is treated and recognized as a man.
+
+Morton has no illusions about politics. He regards it as a selfish, desperate game where out of the clash of low interests a few great principles may be salvaged. He does not attempt to stop all gambling, bootlegging and prostitution in Harlem. But he does limit these things and protect those who wish to be decent and he has helped make Harlem a far better residence quarter than it used to be. Morton uses money in elections as every party leader does, but he uses it to purchase more decency and protection and recognition for black folk than they ever had before. He is neither demi-god nor demagogue. He is just a strong, skillful, courageous man, cynical surely, but honest and sound; and he deserves respect.
+
+<!-- Similar articles start here -->
+<div  class="clear-wrap"></div>
+
+#### Related Articles
+
+* [The Negro in Politics (1929)](/Volumes/36/11/negro_in_politics.html)
+* [The Presidential Campaign (1916)](/Volumes/12/06/presidential_campaign.html)
+* [The Negro Politician (1928)](/Volumes/35/05/negro_politician.html)
+* [Political Rebirth and the Office Seeker (1921)](/Volumes/21/03/political-rebirth.html)
+* [The Negro Party (1916)](/Volumes/12/06/negro_party.html)
+
+<!-- Similar articles end here -->

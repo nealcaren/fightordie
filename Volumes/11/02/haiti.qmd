@@ -61,13 +61,13 @@ than any single county in the United States.
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
+
+#### Related Articles
 
 * [Haiti (1921)](/Volumes/22/06/haiti.html)
 * [Haiti (1920)](/Volumes/19/06/haiti.html)
+* [Naval Ruler (1917)](/Volumes/14/01/naval_ruler.html)
+* [Presidential Candidates (1920)](/Volumes/20/02/presidential-candidates.html)
 * [Soldiers (1919)](/Volumes/17/01/soldiers.html)
-* [How Shall We Vote (1924)](/Volumes/29/01/how_shall_we_vote.html)
-* [Robert R. Moton (1919)](/Volumes/18/01/robert_moton.html)
 
 <!-- Similar articles end here -->

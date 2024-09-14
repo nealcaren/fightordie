@@ -27,13 +27,13 @@ Under the caption "Marcus Garvey" we published in our December and January numbe
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
+
+#### Related Articles
 
 * [Marcus Garvey (1921)](/Volumes/21/03/marcus_garvey.html)
-* [A Lunatic or a Traitor (1924)](/Volumes/28/01/lunatic_or_a_traitor.html)
-* [The South (1917)](/Volumes/13/06/south.html)
 * ["Our" South (1920)](/Volumes/19/03/our_south.html)
-* [Other Organizations (1915)](/Volumes/10/05/other_organizations.html)
+* [Marcus Garvey and the NAACP (1928)](/Volumes/35/02/marcus_garvey.html)
+* [Dives, Mob, and Scab (1920)](/Volumes/19/05/dives.html)
+* [A Lunatic or a Traitor (1924)](/Volumes/28/01/lunatic_or_a_traitor.html)
 
 <!-- Similar articles end here -->

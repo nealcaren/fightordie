@@ -1,0 +1,46 @@
+---
+title: "America's Making"
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
+date: November 1921
+categories: 
+  - ""
+citation: 
+  type: article-journal
+  container-title: The Crisis
+  volume: 23
+  issue: 1
+  page: 11
+google-scholar: true
+
+format:
+  html:
+    toc: false
+    appendix-cite-as: display
+---
+
+
+The part which each group has had in the development of this land will be clearly shown in "America's Making," a pageant and exhibit which will show three centuries of racial and immigrant contributions to our national life. From October 29 to November 12, through pageants, festivities and exhibits, the gift of each race to America will be set forth. This demonstration is under the general supervision of the State Board of Education and of the City of New York.
+
+The overhead expense is being cared for by the city and state, but each racial or national group is expected to defray the expenses of its own exhibit and pageants.
+
+Negroes have been invited to participate and have had delegates at all the conferences at which the plans of the enterprise have been worked out. The committee on Negro exhibit has as its chairman, James Weldon Johnson and as its secretary, Eugene Kinckle Jones.
+
+This committee plans to have a continuous exhibit showing the contribution of the Negro in exploration, literature, art, music, invention and labor. On Thursday night, November 10, "A Festival of Negro Music" will be staged with a chorus of several hundred voices and an orchestra of more than fifty pieces. At this time a primer of Negro accomplishments will be distributed. Thousands of people will for the first time gain direct information concerning the Negro's worth to America.
+
+The educational value of this exhibit cannot be estimated. For a modest budget of $3000, it is believed that the committee on the Negro exhibit can provide a program which will favorably compare with any other.
+
+<!-- Similar articles start here -->
+<div  class="clear-wrap"></div>
+
+#### Related Articles
+
+* [Negro Art (1922)](/Volumes/23/03/negro-art.html)
+* [The Next Step (1913)](/Volumes/06/02/next_step.html)
+* [Y.M.C.A (1914)](/Volumes/09/02/ymca.html)
+* [The Negro Citizen (1929)](/Volumes/36/05/negro_citizen.html)
+* [Travel (1926)](/Volumes/33/02/travel.html)
+
+<!-- Similar articles end here -->

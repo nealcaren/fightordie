@@ -51,13 +51,13 @@ The end is not yet. The President may repudiate all his individualism and deny t
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
+
+#### Related Articles
 
 * [Investments (1921)](/Volumes/22/05/investments.html)
 * [Our Economic Future (1928)](/Volumes/35/05/our_economic_future.html)
-* [Real Estate in New York (1914)](/Volumes/08/03/real_estate_in_new_york.html)
 * [Our Economic Peril (1930)](/Volumes/37/03/our_economic_peril.html)
 * [Sunny Florida (1928)](/Volumes/35/06/sunny_florida.html)
+* [Real Estate in New York (1914)](/Volumes/08/03/real_estate_in_new_york.html)
 
 <!-- Similar articles end here -->

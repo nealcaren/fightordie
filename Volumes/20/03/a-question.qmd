@@ -1,0 +1,43 @@
+---
+title: 'A Question'
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
+date: Jul. 1920
+categories: 
+  - ""
+citation: 
+  type: article-journal
+  container-title: The Crisis
+  volume: 20
+  issue: 3
+  page: 119-120
+google-scholar: true
+
+format:
+  html:
+    toc: false
+    appendix-cite-as: display
+---
+
+Consider, my pale friends, what should be done in cases such as these:
+
+At the recent convention of the Y.W.C.A. at Cleveland a final banquet was arranged at the Hotel Statler. This hotel refused to admit the forty colored delegates who were in attendance. Instead of removing the banquet to any one of several other first class hotels which have never drawn the color line, a separate banquet for the colored delegates was given in the dining-room of the Y.W.C.A.
+
+At New Orleans the annual convention of the National Conference of Social Work met. At first all the sectional meetings were arranged in white hotels which would not admit Negroes even to attend the meetings. When the conference threatened to withdraw on this account other meeting places were hastily arranged. At the evening mass meeting five rows of seats for Negroes were *roped off* in the gallery. Only two Negroes attended. At one of the meetings when a Negro arose to speak, Miss Jean Gordon, a leading progressive southern white woman, withdrew: “I’m not going to stay and listen to a nigger speak,” she said. Governor-elect Parker of Louisiana, who represents the best white people of the state and has just beaten the “ring”, made a speech filled with reactionary sentiment and invective against Negroes. Finally when the conference was compelled to ask pledges to cover a deficit, a Newark Negro rose and pledged $50, “despite the insults we have endured, because we do not believe that the attitude of the city is the attitude of the conference.”
+
+Now what shall we do in such cases? Shall we be silent? The white press is unanimously silent. Is this the best method? Will silence improve matters at future conferences? Does it show greater love for one’s fellowman to ignore his sins or to point them out?
+
+<!-- Similar articles start here -->
+<div  class="clear-wrap"></div>
+
+#### Related Articles
+
+* [The Next Step (1913)](/Volumes/06/02/next_step.html)
+* [The Non-Partisan Conference (1932)](/Volumes/39/02/nonpartisan_conference.html)
+* [The N.A.A.C.P. and Race Segregation (1934)](/Volumes/41/02/naacp_and_race_segregation.html)
+* [The Social Equality of Whites and Blacks (1920)](/Volumes/21/01/social_equality_of_blacks_and_whites.html)
+* [White Co-Workers (1920)](/Volumes/20/01/white_coworkers.html)
+
+<!-- Similar articles end here -->

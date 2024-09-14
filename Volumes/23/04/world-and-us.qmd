@@ -1,0 +1,53 @@
+---
+title: 'The World and Us'
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
+date: Feb. 1921
+categories: 
+  - ""
+citation: 
+  type: article-journal
+  container-title: The Crisis
+  volume: 23
+  issue: 4
+  page: 151
+google-scholar: true
+
+format:
+  html:
+    toc: false
+    appendix-cite-as: display
+---
+
+Esthonia has nationalized the holdings of her great land holders and is beginning to distribute her farm lands to farmers. The United States is increasing tenancy and land monopoly. What with this, and our host of political prisoners, our mobs and lynching, our curb of free speech, our color caste, our unemployment and mock of democracy, we bid fair to lead the world—backwards.
+
+---
+
+The Disarmament Conference has succeeded in limited expenditure for big battleships chiefly because these ships are of doubtful future efficiency and cost more than governments can easily raise by taxation. The conference has not decreased preparation for war, it has not freed China and its guarantee of the islands in the Pacific is a sleight-of-hand performance to conceal the end of a yellow-white alliance. Thus the color-line is drawn stronger and war is no less a prospective method of human culture.
+
+---
+
+Ireland faces the question: is a half loaf better than war? Probably it is, but those who stand on principle have a right to be heard. Civilization advances with half loaves usually, but the goal remains the whole loaf.
+
+---
+
+Some Republican politicians are aghast at the appearance of the bloc in Congress—that is, the little group which refuses to vote by parties. The bloc is the hope of democracy. Future legislatures will more and more consist of little coalescing and dividing groups and not of two or three main parties. In the millennium, legislatures will consist of individuals.
+
+---
+
+Two men sit high before the world today---Eugene Debs and Abdul Baha. One is free of chains which should never have bound him—the other of Life which he tried to free of race and national prejudice.
+
+<!-- Similar articles start here -->
+<div  class="clear-wrap"></div>
+
+#### Related Articles
+
+* [War (1927)](/Volumes/33/04/war.html)
+* [Amity (1921)](/Volumes/22/03/amity.html)
+* [Resolutions of the Washington Conference (1917)](/Volumes/14/02/resolutions.html)
+* [The League of Nations (1919)](/Volumes/19/01/league.html)
+* [Listen, Japan and China (1933)](/Volumes/40/01/listen_japan_and_china.html)
+
+<!-- Similar articles end here -->

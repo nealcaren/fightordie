@@ -37,13 +37,13 @@ ______
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
 
+#### Related Articles
+
+* [Sketches from Abroad (1924)](/Volumes/27/05/sketches.html)
 * [I Go A-Talking (1913)](/Volumes/06/03/i_go_a_talking.html)
+* [The History of Haiti (1920)](/Volumes/20/05/history-of-haiti.html)
 * [The Princess of the Hither Isles (1913)](/Volumes/06/06/princess_of_hither_isles.html)
-* [The Story of Africa (1914)](/Volumes/08/05/story_of_africa.html)
-* [Haiti (1920)](/Volumes/19/06/haiti.html)
-* [Westward Ho (1934)](/Volumes/41/05/westward_ho.html)
+* [Easter-Emancipation 1863-1913 (1913)](/Volumes/05/06/easter-emancipation.html)
 
 <!-- Similar articles end here -->

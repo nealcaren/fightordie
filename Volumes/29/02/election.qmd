@@ -1,0 +1,63 @@
+---
+title: 'The Election'
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
+date: December 1924
+categories: 
+  - ""
+citation: 
+  type: article-journal
+  container-title: The Crisis
+  volume: 291
+  issue: 29
+  page: 55-56
+google-scholar: true
+
+format:
+  html:
+    toc: false
+    appendix-cite-as: display
+---
+
+# The Election
+
+Looking back on the election what have Negro Americans gained and lost?
+
+## Gains
+
+1. For the first time in the history of the black voter, black folk have been prominent in the councils of each party organization and have voted for each party in large numbers; and they have done this without meeting to any extent the accusation of being "traitors" to their race.
+
+2. Two Negroes have made the race for Congress. Roberts, a New York Republican, polled 36,000 out of 82,000 votes cast; Watkins, a Chicago Progressive, polled a large vote. In Illinois a Municipal Judge and a State Senator were elected.
+
+3. In Texas the Negro voted almost solidly against the Ku Klux Klan and helped elect Ma Ferguson governor on the Democratic ticket. In Maryland Negroes defeated for Congress two Klan sympathizers and elected a Republican and a Democrat in their places. In New York, black Harlem went Democratic by 10,000 majority to reward Governor Al. Smith, and in the same breath elected a colored Republican to the State Assembly.
+
+4. The "Solid South" stands out alone, without a single buttressing state, as a political "No man's land" and home of "rotten boroughs" where political appeal is impossible. Never before has southern oligarchy stood so naked to the public gaze.
+
+## Losses
+
+1. The Ku Klux Klan, supporting Republican candidates, won notable triumphs in Indiana, Kansas, Oklahoma, and Colorado and suffered defeat only in Texas where the Republicans were defeated.
+
+2. Bascom Slemp, "lily white" leader of Virginia and private secretary and political adviser of the President, has gained a rare personal triumph.
+
+Such are the gains and losses. What of the future? We cast November 4th over two million votes. Of the 15 million votes cast for Coolidge probably a million came from Negroes. They are a last pathetic appeal for justice in the face of unparalleled flouting of black men by this administration. The party is now in triumphant power. Will it pass the Dyer Anti-Lynching bill? Will it stop segregation in Washington departments? Will it attack peonage and seek to enforce the 14th and 15th amendments? If it does none of these things it will lose more and more of its black voters as years go.
+
+Of the other million Negro votes, at least 500,000 were part of the 5 million that went for LaFollette. This was a splendid and far-reaching gesture. The Third Party has come to stay and the Negro recognizes its fine platform and finer leaders.
+
+Probably nearly half a million Negro votes went to Democrats to reward the Northern Democrats and those of the border states.
+
+Thus we have an election in which Negroes voted with greater intelligence and finer discrimination than ever before.
+
+<!-- Similar articles start here -->
+<div  class="clear-wrap"></div>
+
+#### Related Articles
+
+* [Political Straws (1923)](/Volumes/26/03/political_straws.html)
+* [The Republican Party (1918)](/Volumes/15/06/republican_party.html)
+* [The Election (1910)](/Volumes/01/02/election.html)
+* [The Negro Voter (1928)](/Volumes/35/08/negro_voter.html)
+* [Political Rebirth and the Office Seeker (1921)](/Volumes/21/03/political-rebirth.html)
+
+<!-- Similar articles end here -->

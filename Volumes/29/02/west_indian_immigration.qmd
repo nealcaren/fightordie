@@ -1,0 +1,40 @@
+---
+title: 'West Indian Immigration'
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
+date: December 1924
+categories: 
+  - ""
+citation: 
+  type: article-journal
+  container-title: The Crisis
+  volume: 291
+  issue: 29
+  page: 57
+google-scholar: true
+
+format:
+  html:
+    toc: false
+    appendix-cite-as: display
+---
+
+
+The Nordic champions undoubtedly put one over on us in the recent immigration bill. If our West Indian friends had watched more carefully and warned us, we might have been able to take some effective step. As it was, by the simple device of discriminating between self-governing and crown colonies in the British empire, a device whose significance at the time escaped us, immigration to the United States from the West Indies has practically been barred.
+
+This is unfortunate, because the United States would be a better and finer country if in its future development a larger strain of the Latin and Negro peoples went into its national veins and a smaller strain of English, Scandinavian and German blood. This does not mean that in any blood there is innate superiority or inferiority. There are superior strains among all peoples, black as well as white, and misfortune comes only when inferior strains of one race are admitted and superior strains of others are barred.
+
+<!-- Similar articles start here -->
+<div  class="clear-wrap"></div>
+
+#### Related Articles
+
+* [The Rise of the West Indian (1920)](/Volumes/20/05/rise_of_the_west_indian.html)
+* [Pan-Africa and New Racial Philosophy (1933)](/Volumes/40/11/panafrica_and_new_racial_philosophy.html)
+* [Correspondence (1926)](/Volumes/31/05/correspondence.html)
+* [Resolutions of the Washington Conference (1917)](/Volumes/14/02/resolutions.html)
+* [Color Caste in the United States (1933)](/Volumes/40/03/color_caste_in_the_united_states.html)
+
+<!-- Similar articles end here -->

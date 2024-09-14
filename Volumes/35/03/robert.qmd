@@ -33,13 +33,13 @@ It is the punishment of the South that its Robert Lees and Jefferson Davises wil
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
+
+#### Related Articles
 
 * [Lee (1912)](/Volumes/03/05/lee.html)
-* [Remember (1920)](/Volumes/19/06/remember.html)
 * [Emancipation (1913)](/Volumes/05/03/emancipation.html)
 * [Tillman (1918)](/Volumes/16/04/tillman.html)
-* [Social Equality (1916)](/Volumes/12/01/social_equality.html)
+* [Remember (1920)](/Volumes/19/06/remember.html)
+* [In Georgia (1920)](/Volumes/20/03/in-georgia.html)
 
 <!-- Similar articles end here -->

@@ -56,13 +56,13 @@ every member in every branch get his shoulder to the wheel.
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
 
-* [A Philosophy in Time of War (1918)](/Volumes/16/04/philosophy_in_time_of_war.html)
-* [Let us Reason Together (1919)](/Volumes/18/05/let_us_reason_together.html)
+#### Related Articles
+
 * [Counsels of Despair (1934)](/Volumes/41/06/counsels_of_despair.html)
-* [Thirteen (1918)](/Volumes/15/03/thirteen.html)
-* [Peace (1933)](/Volumes/40/12/peace.html)
+* [Let us Reason Together (1919)](/Volumes/18/05/let_us_reason_together.html)
+* [A Philosophy in Time of War (1918)](/Volumes/16/04/philosophy_in_time_of_war.html)
+* [Progress (1920)](/Volumes/21/01/progress.html)
+* [Returning Soldiers (1919)](/Volumes/18/01/returning_soldiers.html)
 
 <!-- Similar articles end here -->

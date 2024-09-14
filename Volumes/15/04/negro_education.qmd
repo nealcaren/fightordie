@@ -105,13 +105,13 @@ Here, then, is the weakness and sinister danger of Mr. Jones' report. It calls f
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
+
+#### Related Articles
 
 * [Schools (1917)](/Volumes/13/03/schools.html)
-* [Philanthropy and Self Help (1918)](/Volumes/16/03/philanthropy_and_self_help.html)
 * [Education (1911)](/Volumes/01/04/education.html)
 * [Education (1930)](/Volumes/37/02/education.html)
-* [The Negro Public School (1916)](/Volumes/11/05/negro_public_school.html)
+* [Philanthropy and Self Help (1918)](/Volumes/16/03/philanthropy_and_self_help.html)
+* [Employment (1932)](/Volumes/39/09/employment.html)
 
 <!-- Similar articles end here -->

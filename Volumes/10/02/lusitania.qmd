@@ -51,13 +51,13 @@ are victims; we are not murderers, we are lynched!
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
 
-* [Lynching (1914)](/Volumes/07/05/lynching.html)
-* [Preparedness (1915)](/Volumes/11/05/preparedness.html)
-* [Awake America (1917)](/Volumes/14/05/awake_america.html)
+#### Related Articles
+
+* [Murder (1914)](/Volumes/09/02/murder.html)
 * [Triumph (1911)](/Volumes/02/05/triumph.html)
-* [Crime (1920)](/Volumes/19/04/crime.html)
+* [The Massacre in East St. Louis (1917)](/Volumes/14/05/massacre_of_east_st_louis.html)
+* [Lynching (1914)](/Volumes/07/05/lynching.html)
+* [Crime and Lynching (1912)](/Volumes/03/03/crime_and_lynching.html)
 
 <!-- Similar articles end here -->

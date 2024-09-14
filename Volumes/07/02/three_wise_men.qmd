@@ -72,13 +72,13 @@ SELAH!
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
 
-* [Joseph Pulitzer (1911)](/Volumes/03/02/joseph_pulitzer.html)
+#### Related Articles
+
 * [Easter-Emancipation 1863-1913 (1913)](/Volumes/05/06/easter-emancipation.html)
-* [The Christmas Prayers of God (1914)](/Volumes/09/02/christmas_prayers_of_god.html)
-* [Curtains of Pain (1917)](/Volumes/13/04/curtains_of_pain.html)
-* [The Burden of Black Women (1914)](/Volumes/09/01/burden_of_black_women.html)
+* [Chamounix (1921)](/Volumes/23/02/chamounix.html)
+* [Unrest (1920)](/Volumes/19/05/unrest.html)
+* [The Second Coming (1917)](/Volumes/15/02/second_coming.html)
+* [Joseph Pulitzer (1911)](/Volumes/03/02/joseph_pulitzer.html)
 
 <!-- Similar articles end here -->

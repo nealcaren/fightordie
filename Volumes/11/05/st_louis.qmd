@@ -38,13 +38,13 @@ The *Post Dispatch* said in a closing editorial:
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
+
+#### Related Articles
 
 * [East St. Louis (1917)](/Volumes/14/05/east_st_louis.html)
 * [Resolutions of the Washington Conference (1917)](/Volumes/14/02/resolutions.html)
-* [Separation (1911)](/Volumes/01/04/separation.html)
 * [Social Equality (1916)](/Volumes/12/01/social_equality.html)
-* [Segregation (1934)](/Volumes/41/01/segregation.html)
+* [Separation (1911)](/Volumes/01/04/separation.html)
+* [Amity (1921)](/Volumes/22/03/amity.html)
 
 <!-- Similar articles end here -->

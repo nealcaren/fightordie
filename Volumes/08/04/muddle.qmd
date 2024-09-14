@@ -122,13 +122,13 @@ more mischief-making combination?
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
+
+#### Related Articles
 
 * [Muddle (1916)](/Volumes/13/02/muddle.html)
+* [The Name Negro (1928)](/Volumes/35/03/name_negro.html)
 * [The Negro Citizen (1929)](/Volumes/36/05/negro_citizen.html)
 * [Toward a New Racial Philosophy (1933)](/Volumes/40/01/toward_a_new_racial_philosophy.html)
-* [The Name Negro (1928)](/Volumes/35/03/name_negro.html)
-* [Inter-Racial Comity (1922)](/Volumes/22/01/inter-racial_comity.html)
+* [Unity (1924)](/Volumes/28/03/unity.html)
 
 <!-- Similar articles end here -->

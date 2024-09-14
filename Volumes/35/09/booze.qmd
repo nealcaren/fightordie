@@ -1,0 +1,37 @@
+---
+title: 'Booze'
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
+date: Sep. 1928
+categories: 
+  - ""
+citation: 
+  type: article-journal
+  container-title: The Crisis
+  volume: 35
+  issue: 9
+  page: 312
+google-scholar: true
+
+format:
+  html:
+    toc: false
+    appendix-cite-as: display
+---
+
+What intrigues us about Mary of the Unfortunate Name is not the fact that she is colored and the daughter of the late Isaiah Montgomery; or even that she is a machine politician of what is to us the most offensive sort; but what really interests us is the inner workings of the minds of those distinguished white ladies who called the late conference of the Republican Committee Women in Washington. They were, many of them well-bred and all of them well-gowned. Most of them belonged to Christian churches. Yet, jointly and severally, they did a disgustingly mean thing. They invited Mrs. Booze to entertainment and luncheon and then sneaked off when her back was turned and lunched without her. In all this, Mrs.  Booze comes out decidedly in the better position. These Republican women acted like cads; the Negro woman swallowed the insult, explained it away and remained---a Republican.
+
+<!-- Similar articles start here -->
+<div  class="clear-wrap"></div>
+
+#### Related Articles
+
+* [The Woman Voter (1921)](/Volumes/21/05/woman_voter.html)
+* [A Matter of Manners (1920)](/Volumes/19/04/matter-of-manners.html)
+* [A Matter of Manners (1933)](/Volumes/40/12/matter_of_manners.html)
+* [The Negro Party (1916)](/Volumes/12/06/negro_party.html)
+* [Pettiness (1920)](/Volumes/20/04/pettiness.html)
+
+<!-- Similar articles end here -->

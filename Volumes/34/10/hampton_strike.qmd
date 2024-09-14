@@ -33,13 +33,13 @@ At this rate, what will the next generation be? What kind of crawling cowards ar
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
+
+#### Related Articles
 
 * [Hampton (1918)](/Volumes/15/01/hampton.html)
-* [Social Equality (1916)](/Volumes/12/01/social_equality.html)
-* [American Legion, Again (1920)](/Volumes/19/03/american_legion_again.html)
-* [A Crusade (1914)](/Volumes/07/05/crusades.html)
+* [Radicals (1919)](/Volumes/19/02/radicals.html)
+* [Loyalty (1917)](/Volumes/14/01/loyalty.html)
 * [Light (1912)](/Volumes/03/04/light.html)
+* [Black and White Workers (1928)](/Volumes/35/03/black_and_white_workers.html)
 
 <!-- Similar articles end here -->

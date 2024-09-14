@@ -39,13 +39,13 @@ What more fitting center then than London for the coming together of the first w
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
+
+#### Related Articles
 
 * [My Mission (1919)](/Volumes/18/01/my_mission.html)
 * [Visitors (1928)](/Volumes/35/07/visitors.html)
-* [The South (1917)](/Volumes/13/06/south.html)
-* [Refinement and Love (1916)](/Volumes/13/02/refinement_and_love.html)
+* [The New Crisis (1925)](/Volumes/30/01/new_crisis.html)
 * [The Crisis (1910)](/Volumes/01/01/TheCrisis.html)
+* [The South (1917)](/Volumes/13/06/south.html)
 
 <!-- Similar articles end here -->

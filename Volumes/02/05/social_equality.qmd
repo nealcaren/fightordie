@@ -29,13 +29,13 @@ A colored physician of Kansas City has made a speech at a large meeting in Denve
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
 
-* [''Social Equality'' (1911)](/Volumes/01/03/social_equality.html)
+#### Related Articles
+
 * [Social Equality (1919)](/Volumes/19/01/social_equality.html)
-* [''Social Equality'' (1911)](/Volumes/03/01/social_equality.html)
-* [Of Problems (1921)](/Volumes/22/04/problems.html)
+* ['Social Equality' (1911)](/Volumes/01/03/social_equality.html)
+* ['Social Equality' (1911)](/Volumes/03/01/social_equality.html)
 * [The Social Equality of Whites and Blacks (1920)](/Volumes/21/01/social_equality_of_blacks_and_whites.html)
+* [Social Equality (1916)](/Volumes/12/01/social_equality.html)
 
 <!-- Similar articles end here -->

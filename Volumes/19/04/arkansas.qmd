@@ -32,13 +32,13 @@ This in Arkansas, in the Year of Grace 1919, and of the Independence of the Unit
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
+
+#### Related Articles
 
 * [Information Wanted (1920)](/Volumes/19/05/information_wanted.html)
-* [Flood (1927)](/Volumes/34/05/flood.html)
 * [The Negro Citizen (1929)](/Volumes/36/05/negro_citizen.html)
-* [Knowledge (1911)](/Volumes/02/06/knowledge.html)
 * [Death Rates (1927)](/Volumes/34/08/death_rates.html)
+* [Our Economic Peril (1930)](/Volumes/37/03/our_economic_peril.html)
+* [Knowledge (1911)](/Volumes/02/06/knowledge.html)
 
 <!-- Similar articles end here -->

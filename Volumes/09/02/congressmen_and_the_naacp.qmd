@@ -64,13 +64,13 @@ Finally, a few, but a very few people, perceive that the fight that this Associa
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
 
+#### Related Articles
+
+* [Presidential Candidates (1920)](/Volumes/20/02/presidential-candidates.html)
 * [Muddle (1916)](/Volumes/13/02/muddle.html)
-* [The Next Step (1913)](/Volumes/06/02/next_step.html)
-* [N.A.A.C.P. (1910)](/Volumes/01/02/NAACP.html)
 * [Presidential Candidates (1916)](/Volumes/13/01/presidential_candidates.html)
 * [An Open Letter to Woodrow Wilson (1913)](/Volumes/05/05/open_letter.html)
+* [The Next Step (1913)](/Volumes/06/02/next_step.html)
 
 <!-- Similar articles end here -->

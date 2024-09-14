@@ -1,4 +1,3 @@
-
 ---
 title: '''Ashamed'''
 author:
@@ -37,13 +36,13 @@ Not so, O Blind Man. He bitterly resents your treatment of Negro blood. The prou
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
+
+#### Related Articles
 
 * [On Being Ashamed of Oneself (1933)](/Volumes/40/09/on_being_ashamed.html)
+* [Precept and Practice (1910)](/Volumes/01/02/precept_and_practice.html)
+* [Race Pride (1920)](/Volumes/19/03/race_pride.html)
 * [Separation (1911)](/Volumes/01/04/separation.html)
-* [Jim Crow (1919)](/Volumes/17/03/jim_crow.html)
-* [Correspondence (1926)](/Volumes/31/05/correspondence.html)
-* [The Immediate Program of the  American Negro (1915)](/Volumes/09/06/immediate_program.html)
+* [Social Equality (1916)](/Volumes/12/01/social_equality.html)
 
 <!-- Similar articles end here -->

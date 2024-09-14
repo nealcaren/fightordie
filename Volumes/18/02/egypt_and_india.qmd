@@ -29,13 +29,13 @@ We of America fight the great fight of Peace---we agitate, we petition, we expos
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
+
+#### Related Articles
 
 * [Pan-Africa and New Racial Philosophy (1933)](/Volumes/40/11/panafrica_and_new_racial_philosophy.html)
 * [India (1930)](/Volumes/37/08/india.html)
-* [The Strength of Segregation (1913)](/Volumes/07/03/strength_of_segregation.html)
 * [The Durbar (1912)](/Volumes/03/04/durbar.html)
-* [Listen, Japan and China (1933)](/Volumes/40/01/listen_japan_and_china.html)
+* [The Strength of Segregation (1913)](/Volumes/07/03/strength_of_segregation.html)
+* [Resistance (1914)](/Volumes/07/04/resistance.html)
 
 <!-- Similar articles end here -->

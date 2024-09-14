@@ -87,13 +87,13 @@ This meeting tonight is a tribute to Richard Harrison---a tribute belated and ar
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
 
+#### Related Articles
+
+* [Precept and Practice (1910)](/Volumes/01/02/precept_and_practice.html)
+* [DePriest (1929)](/Volumes/36/02/depriest.html)
 * [The Chicago Debate (1929)](/Volumes/36/05/chicago_debate.html)
-* [The Younger Literary Movement (1924)](/Volumes/27/04/younger_movement.html)
-* [The Fruit of the Tree (1913)](/Volumes/06/05/fruit_of_tree.html)
 * [The Negro Politician (1928)](/Volumes/35/05/negro_politician.html)
-* [Light (1912)](/Volumes/03/04/light.html)
+* [Our Special Grievances (1918)](/Volumes/16/05/our_special_greivances.html)
 
 <!-- Similar articles end here -->

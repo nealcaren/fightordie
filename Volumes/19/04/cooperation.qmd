@@ -41,12 +41,12 @@ Don't be afraid. Try the whole coöperative program. Write us.
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
 
+#### Related Articles
+
+* [Coöperation (1922)](/Volumes/23/03/cooperation.html)
 * [Co-Operation (1918)](/Volumes/15/01/cooperation.html)
 * [More Suggestions (1917)](/Volumes/14/05/more_suggestions.html)
-* [Investments (1921)](/Volumes/22/05/investments.html)
 * [Our Economic Future (1928)](/Volumes/35/05/our_economic_future.html)
 * [The Strength of Segregation (1913)](/Volumes/07/03/strength_of_segregation.html)
 

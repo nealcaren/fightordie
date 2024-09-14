@@ -1,0 +1,43 @@
+---
+title: 'McSwiney'
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
+date: December 1920
+categories: 
+  - ""
+citation: 
+  type: article-journal
+  container-title: The Crisis
+  volume: 21
+  issue: 2
+  page: 57
+google-scholar: true
+
+format:
+  html:
+    toc: false
+    appendix-cite-as: display
+---
+
+
+
+The veriest coward may die for a cause in the frenzy of battle with court martial and disgrace behind him and flaming medals in front. A brave man may rush to his death at sudden call in time of peace. But the bravest of the brave is he who without hurt or hate simply lies still and for the sake of Right dies by inches through endless days. No cause with such martyrs can ever die.
+
+::: {.column-margin}
+This editorial is about the Irish Republican [Terence MacSwiney](https://en.wikipedia.org/wiki/Terence_MacSwiney) who died during the 1920 Cork hunger strike.
+:::
+
+<!-- Similar articles start here -->
+<div  class="clear-wrap"></div>
+
+#### Related Articles
+
+* [About Pugilists (1921)](/Volumes/22/05/about_pugilists.html)
+* [Ireland (1916)](/Volumes/12/04/ireland.html)
+* [Thirteen (1918)](/Volumes/15/03/thirteen.html)
+* [Heroes (1919)](/Volumes/19/01/heroes.html)
+* [Bleeding Ireland (1921)](/Volumes/21/05/bleeding-ireland.html)
+
+<!-- Similar articles end here -->

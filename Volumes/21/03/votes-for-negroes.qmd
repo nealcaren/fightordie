@@ -1,0 +1,55 @@
+---
+title: 'Votes for Negroes'
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
+date: January 1921
+categories: 
+  - ""
+citation: 
+  type: article-journal
+  container-title: The Crisis
+  volume: 21
+  issue: 3
+  page: 103-104
+google-scholar: true
+
+format:
+  html:
+    toc: false
+    appendix-cite-as: display
+---
+
+The astonishing thing about the Bourbon South is its intellectual bankruptcy when it comes to the Negro. It continually assumes that the Negro is a fool. Some Negroes are fools but the proportion among them is steadily decreasing, while that among the Bourbons seems to increase. When the average white Southerner faces the problem of racial contact he has absolutely nothing to offer except what he offered in 1861---namely:
+
+The Will of God.
+
+Force and Bloodshed, and
+
+"The best friend in the world to the Negro is the southern white man---the only one who truly loves him!"
+
+We quote from our ever-delightful friend, the editor of the Macon, Ga., *Telegraph*.
+
+The tragedy of the situation is that this man believes what he says. He knows absolutely just the "place" for which God made "niggers;" but to support this sincere belief he spreads falsehoods. He says that the woman suffrage party by its secret machinations "probably" caused the bloodshed in the Florida elections! He threatens murder for black men who want to vote and almost weeps over the misguided Negroes who have left the Empire State of lynching and gone to Chicago.
+
+There seems to be in this man's mind absolutely no conception of the tremendous, increasing, unswerving development of the Negro. To him all aspiration, unrest and complaints of black folk, are conspiracies of whites. For the blacks he has no program, no vision, except that they stay where they have always been, growing more content with "Jim Crow" cars, lynching and disfranchisement.
+
+It is inconceivable to the mentality of this section of the white South that such a program is absolutely impossible. That if, in the end, the price we must pay for aspiration to modern manhood is death, and death in the most horrible form of public torture and burning like that in Florida---if to live we must die, then the South will have us to kill. Any man who does not prefer death to slavery is not worth freedom.
+
+The enemy of those liberal-minded white Southerners who truly desire a more decent South and a more human program of Negro uplift will not be found in the Negro radical nearly as much as in the supporters of the Macon *Telegraph* and their set. The black man must vote. Every Southerner with brains knows this. The Negro is awaiting his enfranchisement with greater patience than the South has any right to expect. But he will not wait forever. If he sees gathering signs of sanity---a willingness to let the intelligent and thrifty vote, an honest effort to establish law and order and overthrow the rule of the mob, a desire to substitute honest industrial conditions in place of the organized and entrenched theft of black wealth upon which southern industry is today based---such a program, tardy and slow and inadequate though it be, may count on the infinite patience and long suffering of Ethiopia.
+
+But a plan of intransigentism built on absolute faith in the eternal stupidity and cowardice of Negroes, perpetual disfranchisement and the threat of mob law to uphold it---is there any man of intelligence and conscience who dares in the year of Christ, 1921, to lay down such a program for 12 million human beings who are more intelligent than the Bulgarians, wealthier than the Russians, physically stronger than the Italians, and cleaner in body and mind than the whole peasantry of Europe?
+
+<!-- Similar articles start here -->
+<div  class="clear-wrap"></div>
+
+#### Related Articles
+
+* [Light (1912)](/Volumes/03/04/light.html)
+* [Loyalty (1917)](/Volumes/14/01/loyalty.html)
+* [The Macon Telegraph (1920)](/Volumes/19/03/macon_telegraph.html)
+* [Heroes (1919)](/Volumes/19/01/heroes.html)
+* [In Georgia (1920)](/Volumes/20/03/in-georgia.html)
+
+<!-- Similar articles end here -->

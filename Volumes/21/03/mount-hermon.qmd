@@ -1,0 +1,81 @@
+---
+title: 'Mount Hermon'
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
+date: January 1921
+categories: 
+  - ""
+citation: 
+  type: article-journal
+  container-title: The Crisis
+  volume: 21
+  issue: 3
+  page: 102-103
+google-scholar: true
+
+format:
+  html:
+    toc: false
+    appendix-cite-as: display
+---
+We have just learned from a curious source of the excellent educational opportunities of American Negroes and the rich endowments of Negro colleges. Our informant is none other than the distinguished evangelist's son, William R. Moody, President of Mt. Hermon School at East Northfield, Mass. Writes Mr. Moody July 30, 1920, (the italics are ours):
+
+"Yours of the 28th just at hand in respect to the son of the late Bishop Alexander Walters. While we always have a few colored boys in the school at Mount Hermon, *we do not encourage* their making application. There are, as you know, *many richly endowed* and well equipped schools for the colored race throughout the South. Racial needs have been a study in these schools, and the curriculum is *especially adapted* to these needs. It hardly seems to us advisable for a young person to come to a school like Mount Hermon or Northfield where the expense to us must of necessity be more than it is in a southern school, and where the acceptance of a colored boy would mean the exclusion of some white boy for whom no adequate provision is made elsewhere. Of course there are exceptions. But with Fisk and Atlanta doing admirable work in academic work, while Hampton, Tuskegee and Calhoun are doing good work in elementary education and industrial courses, *we do not think we ought to encourage colored boys to come to Mount Hermon*, when it means that some white boy who is now applying would have to be refused, who could not go to these schools which have been so munificently provided."
+
+This is true philanthropy and our hearts bleed at the spectacle of the poor white boy begging a chance while the idle and impudent Negro lads toast their heels in the munificence and wealth of Fisk, Hampton and Atlanta. Truth, however, compels us to append these figures:
+
+Per capita expenditure for Negro education:
+
+<p><div class="container">
+<div class="item">
+<div class="description">Per year in South Carolina</div><div class="dots"></div>
+<div class="amount">$1.44</div>
+</div>
+<div class="item">
+<div class="description">For white education</div><div class="dots"></div>
+<div class="amount">10.00</div>
+</div>
+</div></p>
+
+
+Average annual salaries of teachers in Alabama:
+
+<p><div class="container">
+<div class="item">
+<div class="description">Colored teachers</div><div class="dots"></div>
+<div class="amount">$158.73</div>
+</div>
+<div class="item">
+<div class="description">White teachers</div><div class="dots"></div>
+<div class="amount">355.53</div>
+</div>
+</div></p>
+
+
+<p><div class="container">
+<div class="item">
+<div class="description">Colored public high schools in the South</div><div class="dots"></div>
+<div class="amount">64</div>
+</div>
+<div class="item">
+<div class="description">White public high schools in the South</div><div class="dots"></div>
+<div class="amount">3,025</div>
+</div>
+</div></p>
+
+And finally as to Negro colleges there are in all 33 schools of which only 3 rank as "colleges", 15 as "colleges and high schools" and the rest as giving some college subjects. Of these only 10 have total incomes of over $20,000 a year as against one hundred and ten millions of annual income to white colleges. Alas! the poor white boy!
+
+<!-- Similar articles start here -->
+<div  class="clear-wrap"></div>
+
+#### Related Articles
+
+* [Education (1911)](/Volumes/01/04/education.html)
+* [Schools (1917)](/Volumes/13/03/schools.html)
+* [Light (1912)](/Volumes/03/04/light.html)
+* [The Negro Public School (1916)](/Volumes/11/05/negro_public_school.html)
+* [Employment (1932)](/Volumes/39/09/employment.html)
+
+<!-- Similar articles end here -->

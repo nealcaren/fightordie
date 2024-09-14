@@ -1,0 +1,61 @@
+---
+title: 'The History of Haiti'
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
+date: September. 1920
+categories: 
+  - ""
+citation: 
+  type: article-journal
+  container-title: The Crisis
+  volume: 20
+  issue: 5
+  page: 216--217
+google-scholar: true
+
+format:
+  html:
+    toc: false
+    appendix-cite-as: display
+---
+
+# The History of Haiti
+
+Haiti, one of the most beautiful islands in the world, was discovered by Christopher Columbus, December 6, 1492. The Spaniards enslaved and killed the Indian inhabitants until in 1511 only 14,000 of the original million were left. French pirates began to frequent the island in the seventeenth century and in 1663 the French annexed the eastern part and since then the island has been divided into Spanish and French halves, the former known as Santo Domingo and the latter as Haiti. African slaves were introduced and for a while cruelty, murder and desperate revolts took place all over the island.
+
+Later, in Haiti, a more liberal policy encouraged trade; war was over and capital and slaves poured in. Sugar, coffee, chocolate, indigo, dyes, and spices were raised. There were large numbers of mulattoes, many of whom were educated in France, and many masters married Negro women who had inherited large properties, just as in the United States to-day white men are marrying eagerly the landed Indian women in the West. When white immigration increased in 1749, however, prejudice arose against these mulattoes and severe laws were passed depriving them of civil rights, entrance into the professions, and the right to hold office; severe edicts were enforced as to clothing, names, and social intercourse. Finally, after 1777, mulattoes were forbidden to come to France.
+
+When the French Revolution broke out, the Haitians managed to send two delegates to Paris. Nevertheless the planters maintained the upper hand, and one of the colored delegates, Ogé, on returning, started a small rebellion. He and his companions were killed with great brutality. This led the French government to grant full civil rights to free Negroes. Immediately planters and free Negroes flew to arms against each other and then, suddenly, August 22, 1791, the black slaves, of whom there were four hundred and fifty-two thousand, arose in revolt to help the free Negroes.
+
+For many years runaway slaves had hidden in the mountains under their own chiefs. One of the earliest of these chiefs was Polydor, in 1724, who was succeeded by Macandal. The great chief of these runaways or "Maroons" at the time of the slave revolt was Jean François, who was soon succeeded by Biassou.
+
+Pierre Dominic Toussaint, known as Toussaint L'Ouverture, joined these Maroon bands, where he was called "the doctor of the armies of the king", and soon became chief aid to Jean François and Biassou. Upon their deaths Toussaint rose to the chief command. He acquired complete control over the blacks, not only in military matters, but in politics and social organization: "the soldiers regarded him as a superior being, and the farmers prostrated themselves before him. Dessalines did not dare to look in his face, and all the world trembled before his generals."
+
+The revolt once started, blacks and mulattoes murdered whites without mercy and the whites retaliated. Commissioners were sent from France, who asked simply civil rights for freemen, and not emancipation. Indeed that was all that Toussaint himself had as yet demanded. The planters intrigued with the British and, thus, together with the beheading of the king (an impious act in the eyes of Negroes), induced Toussaint to join the Spaniards. In 1793 British troops were landed and the French commissioners in desperation declared the slaves emancipated. This at once won back Toussaint from the Spaniards. He became supreme in the north, while Rigaud, leader of the mulattoes, held the south and the west. By 1798 the British, having lost most of their forces by yellow fever, surrendered Mole St. Nicholas to Toussaint and departed. Rigaud finally left for France, and Toussaint in 1800 was master of Haiti. He promulgated a constitution under which Haiti was to be a self-governing colony; all men were equal before the law, and trade was practically free. Toussaint was to be president for life, with the power to name his successor.
+
+Napoleon Bonaparte, master of France, had at this time dreams of a great American empire, and replied to Toussaint’s new government by sending twenty-five thousand men under his brother-in-law to subdue the presumptuous Negroes. A preliminary step to his campaign was the despatch of the Mulatto Rigaud, whose French supporters were friendly with the Negroes, but who was most feared by the Negroes. He and Toussaint finally offered to yield, the invaders advanced, and within six months Toussaint and his forces had been ruthlessly crushed, betrayed, imprisoned, and sent to France. He was imprisoned at Fort Joux and died, April 7, 1803, after studied humiliations, at fifty-eight.
+
+Then perished the greatest of American Negroes and one of the great men of all time, the age of his survival. A French priest said, "God in his own right hand did not grasp within a purer soul."
+
+The treacherous killing of Toussaint did not conquer Haiti. In 1802 and 1803 some forty thousand French soldiers died of war and fever. A new colored leader, Dessalines, arose and all the eight thousand remaining French surrendered to the blockading British fleet.
+
+Thus in 1801 Haiti became a free and independent nation; but the inhabitants were, it must be remembered, chiefly illiterate slaves without capital or experience. They began a long struggle to secure their independence and achieve prosperity. Dessalines became the first national leader and was succeeded in 1806 by Petion and Christophe. The latter had been among the Haitian soldiers who helped the Americans against the British at the siege of Savannah, while the former was a staunch and effective ally of the South American revolutionists. Petion died in 1818 and Christophe the following year. They were succeeded by Boyer who became ruler not only of Haiti but of Santo Domingo from 1822 to 1843. He gained recognition for Haiti from France, United States and Great Britain and arranged a concordat with the Pope. He finally resigned in 1843.
+
+The subsequent history of Haiti since 1843 has been the struggle of a small divided country to maintain political independence. The rich resources of the country called for foreign capital, but outside capital meant political influence from abroad, which the little nation rightly feared. Within, the old antagonism of the freedman and the slave settled into a color line between the mulatto and the black, which for a time meant the difference between educated liberalism and reactionary ignorance. This difference has largely disappeared, but some vestiges of the color line remain. The result has been reaction and savagery under Soulouque, Dominique, and Nord Alexis, and decided advance under presidents like Nissage-Saget, Solomon, Légitime, and Hyppolite.
+
+In political life Haiti is still in the sixteenth century; but in economic life, she has succeeded in placing on their own little farms the happiest and most contented peasantry in the world, after raising them from a veritable hell of slavery. If modern capitalistic greed can be restrained from interference until the best elements of Haiti secure permanent political leadership the triumph of the nation will be complete.
+
+<!-- Similar articles start here -->
+<div  class="clear-wrap"></div>
+
+#### Related Articles
+
+* [Violence (1934)](/Volumes/41/05/violence.html)
+* [An Amazing Island (1915)](/Volumes/10/02/amazing_island.html)
+* [The Rise of the West Indian (1920)](/Volumes/20/05/rise_of_the_west_indian.html)
+* [The Future of Africa (1919)](/Volumes/17/03/future-of-africa.html)
+* [Hawaii (1932)](/Volumes/39/03/hawaii.html)
+
+<!-- Similar articles end here -->

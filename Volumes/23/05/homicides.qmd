@@ -35,13 +35,13 @@ In other words, a fact which is to the shame of the white race and pitiable for 
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
 
-* [Murder (1926)](/Volumes/32/03/murder.html)
+#### Related Articles
+
 * [Murder (1914)](/Volumes/09/02/murder.html)
-* [Death Rates (1927)](/Volumes/34/08/death_rates.html)
+* [Murder (1926)](/Volumes/32/03/murder.html)
 * [Crime (1926)](/Volumes/32/01/crime.html)
 * [The Old Story (1911)](/Volumes/01/03/old_story.html)
+* [Death Rates (1927)](/Volumes/34/08/death_rates.html)
 
 <!-- Similar articles end here -->

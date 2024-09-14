@@ -28,13 +28,13 @@ We trust that the colored people of the United States are watching with bated br
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
 
+#### Related Articles
+
+* [The Durbar (1912)](/Volumes/03/04/durbar.html)
 * [Gandhi and India (1921)](/Volumes/23/05/india_and_gandhi.html)
 * [Egypt and India (1919)](/Volumes/18/02/egypt_and_india.html)
-* [A Statement (1919)](/Volumes/19/01/statement.html)
-* [Listen, Japan and China (1933)](/Volumes/40/01/listen_japan_and_china.html)
-* [The Durbar (1912)](/Volumes/03/04/durbar.html)
+* [Resistance (1914)](/Volumes/07/04/resistance.html)
+* [The Crisis (1910)](/Volumes/01/01/TheCrisis.html)
 
 <!-- Similar articles end here -->

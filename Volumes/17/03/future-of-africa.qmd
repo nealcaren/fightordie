@@ -1,0 +1,76 @@
+---
+title: 'The Future of Africa'
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
+date: Jan. 1919
+categories: 
+  - ""
+citation: 
+  type: article-journal
+  container-title: The Crisis
+  volume: 17
+  issue: 3
+  page: 119-121
+google-scholar: true
+
+format:
+  html:
+    toc: false
+    appendix-cite-as: display
+---
+
+In the early days of the European War Dr. W. E. Burghardt Du Bois wrote an article for the *Atlantic Monthly* on “The African Roots of War.” Of the many discussions of the cause of the great conflict none was more timely or important. In the article in question the writer points out that today, as so often in the past, the wealth of Africa leads to a common lust for conquest and exploitation of the native population. This was displayed in its most barbarous form in the old days of the Belgium Congo Free State and in the recent days of the German colonies. But none of the colonial powers are without guilt since all look upon the natives, not as people to be educated and encouraged to self-development, but as ignorant laborers to be used for the production of wealth which the European appropriates later to spend in his own land. This exploitation carries with it intense race prejudice and results increasingly in confining the black man to those places where life, for climatic, historical and political reasons, is most difficult to live and most easily dominated by Europe for Europe’s gain.
+
+This is the picture of Africa today, but now, with the end of the war, we look to the picture of the Africa of the future. This future is being widely discussed and will be one of the most important of the problems to be decided at the Peace Conference. The N.A.A.C.P. stands on the following platform drawn up by Dr. Du Bois:
+
+1. The barter of colonies without regard to the wishes or welfare of the inhabitants or the welfare of the world in general is a custom to which this war should put an end, since it is a fruitful cause of dissension among nations, a danger to the status of civilized labor, a temptation to unbridled exploitation, and an excuse for unspeakable atrocities committed against natives.
+
+2. It is clear that at least one of Germany’s specific objects in the present war was the extension of her African colonies at the expense of France and Portugal.
+
+3. As a result of the war, the German colonies in Africa have been seized by the Allies, and the question of their disposition must come before the Peace Conference. Responsible English statesmen have announced that their return to Germany is unthinkable.
+
+4. However, to take German Africa from one imperial master, even though a bad one, and hand it over to another, even though a better one, would inevitably arouse a suspicion of selfish aims on the part of the Allies and would leave after the war the grave questions of future colonial possessions and government.
+
+5. While the principle of self-determination which has been recognized as fundamental by the Allies cannot be wholly applied to semi-civilized peoples, yet, as the English Prime Minister has acknowledged, it can be partially applied.
+
+6. The public opinion which in the case of the former German colonies should have the decisive voice is composed of:
+   (a) The Chiefs and intelligent Negroes among the twelve and one-half million natives of German Africa, especially those trained in the government and mission schools.
+   (b) The twelve million civilized Negroes of the United States.
+   (c) Educated persons of Negro descent in South America and the West Indies.
+   (d) The independent Negro governments of Abyssinia, Liberia, and Haiti.
+   (e) The educated classes among the Negroes of French West Africa and Equatorial Africa and in British Uganda, Nigeria, Basutoland, Nyassaland, Swaziland, Sierra Leone, Gold Coast, Gambia and Bechuanaland, and the four and one-half millions of colored people in the Union of South Africa.
+
+   These classes comprise today the thinking classes of the future Negro world and their wish should have weight in the future disposition of the German colonies.
+
+
+7. The first step toward ascertaining the desires, aspirations and grievances of these people should be the calling together of a Pan-African Congress, to meet in Paris sometime during the sessions of the Peace Conference.
+
+8. If the world after the war decided to reconstruct Africa in accordance with the wishes of the Negro race and the best interests of civilization, the process might be carried out as follows: The former German colonies, with one million square miles and twelve and one-half millions of inhabitants, could be internationalized. To this could be added by negotiation the 800,000 square miles and nine million inhabitants of Portuguese Africa. It is not impossible that Belgium could be persuaded to add to such a state the 900,000 square miles and nine million natives of the Congo, making an international Africa, with over two and one-half million square miles of land and over twenty million people.
+
+9. This re-organized Africa could be under the guidance of organized civilization. The Governing International Commission should represent, not simply governments, but modern culture---science, commerce, social reform, and religious philanthropy.
+
+10. With these two principles the practical policies to be followed out in the government of the new states should involve an education built upon the present government, religion and customary law of the natives. There should be no violent tampering with the curiously efficient African institutions of local self-government through the family and the tribe; there should be no attempt at sudden “conversion” by religious propaganda. Obviously deleterious customs and unsanitary usages must gradually be abolished and careful religious teaching given, but the general government set up from without must follow the example of the best colonial administrators and build on recognized established foundations rather than from entirely new and theoretical plans.
+
+11. The chief effort to modernize Africa should be through schools. Within ten years twenty million black children ought to be in school. Within a generation young Africa should know the essential outlines of modern culture and groups of bright African students should be going to the world’s great universities. From the beginning the actual general government should use both colored and white officials and natives should be gradually worked in. Taxation and industry could follow the newer ideals of industrial democracy, avoiding private land monopoly and poverty, promoting co-operation in production and the socialization of income.
+
+12. Is such a state possible? Those who believe in men; who know what black men have done in human history; who have taken pains to follow even superficially the story of the rise of the Negro in Africa, the West Indies, and the Americas of our day, know that the widespread modern contempt of Negroes rests upon no scientific foundation worth a moment’s attention. It is nothing more than a vicious habit of mind. It could as easily be overthrown as our belief in war, as our international hatreds, as our old conception of the status of women, as our fear of educating the masses, and as our belief in the necessity of poverty. We can, if we will, inaugurate on the Dark Continent a last great crusade for humanity. With Africa redeemed, Asia would be safe and Europe indeed triumphant.
+
+
+The N.A.A.C.P. has under way plans for a *Pan-African Congress*, to be held in Paris this winter. Dr. Du Bois sailed on the *Orizaba*, December 1, with a number of distinguished newspaper men, to represent the Association and <span class="crisis-title">The Crisis</span> at Paris and to summon the Pan-African Congress. His departure was a hasty one and details of the plans for the Congress are not yet in form for publication, but he will at once proceed to gather together his committee on the other side, as the Tercentenary Committee has been formed on this side of the water. The Congress will have his admirable statement as a basis for discussion and action. It will meet during the sessions of the Peace Conference.
+
+*The meeting at Carnegie Hall, New York City, on Monday evening, January 6*---the date of our annual meeting---*will institute the Pan-African Movement in the United States.* This will be one of the most important meetings the Association has ever held. The speakers are not yet announced; but they will represent colored and white leaders of liberal thought.
+
+<!-- Similar articles start here -->
+<div  class="clear-wrap"></div>
+
+#### Related Articles
+
+* [Helping Africa (1924)](/Volumes/28/03/helping_africa.html)
+* [Reconstruction and Africa (1919)](/Volumes/17/04/reconstruction_and_africa.html)
+* [Kenya (1924)](/Volumes/27/04/kenya.html)
+* [Labor Omnia Vincit (1919)](/Volumes/18/05/labor_omnia_vincit.html)
+* [Africa (1919)](/Volumes/17/04/africa.html)
+
+<!-- Similar articles end here -->

@@ -31,13 +31,13 @@ Where are they going? Uptown. Up to the wealthy and exclusive and socially selec
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
 
-* [The Church and the Negro (1913)](/Volumes/06/06/church_negro.html)
+#### Related Articles
+
 * [The Church (1916)](/Volumes/11/06/church.html)
+* [Steal (1920)](/Volumes/20/06/steal.html)
 * [The Negro Church (1912)](/Volumes/04/01/negro_church.html)
 * [Crime (1918)](/Volumes/15/05/crime.html)
-* [Darrow (1928)](/Volumes/35/06/darrow.html)
+* [The Church and the Negro (1913)](/Volumes/06/06/church_negro.html)
 
 <!-- Similar articles end here -->

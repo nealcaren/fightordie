@@ -41,13 +41,13 @@ schools of the South have the poorest houses and equipment, the most poorly paid
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
+
+#### Related Articles
 
 * [Education (1911)](/Volumes/01/04/education.html)
 * [Education (1915)](/Volumes/10/03/education.html)
-* [Segregation (1910)](/Volumes/01/01/Segregation.html)
-* [Schools (1917)](/Volumes/13/03/schools.html)
 * [Negro Education (1918)](/Volumes/15/04/negro_education.html)
+* [Segregation (1910)](/Volumes/01/01/Segregation.html)
+* [Reconstruction (1919)](/Volumes/18/03/reconstruction.html)
 
 <!-- Similar articles end here -->

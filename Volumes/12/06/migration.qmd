@@ -34,13 +34,13 @@ The colored people of the North on the other hand, should welcome their escaping
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
+
+#### Related Articles
 
 * [The Migration (1917)](/Volumes/14/01/migration.html)
 * [Separation (1911)](/Volumes/01/04/separation.html)
-* [The Migration of Negroes (1917)](/Volumes/14/02/migration_of_negroes.html)
-* [Pan-Africa and New Racial Philosophy (1933)](/Volumes/40/11/panafrica_and_new_racial_philosophy.html)
 * [Light (1912)](/Volumes/03/04/light.html)
+* [Pan-Africa and New Racial Philosophy (1933)](/Volumes/40/11/panafrica_and_new_racial_philosophy.html)
+* [Blessed Discrimination (1913)](/Volumes/05/04/blesseddiscrimination.html)
 
 <!-- Similar articles end here -->

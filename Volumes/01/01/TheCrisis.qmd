@@ -25,7 +25,7 @@ format:
 
 The object of this publication is to set forth those facts and arguments which show the danger of race prejudice, particularly as manifested to-day toward colored people. It takes its name from the fact that the editors believe that this is a critical time in the history of the advancement of men. Catholicity and tolerance, reason and forbearance can to-day make the world-old dream of human brotherhood approach realization; while bigotry and prejudice, emphasized race consciousness and force can repeat the awful his tory of the contact of nations and groups in the past. We strive for this higher and broader vision of Peace and Good Will.     
 
-The policy of <span class = "small-caps">The Crisis</span> will be simple and well defined:       
+The policy of <span class="crisis-title">The Crisis</span> will be simple and well defined:       
 
 It will first and foremost be a newspaper: it will record important happenings and movements in the world which bear on the great problem of inter-racial relations, and especially those which affect the Negro-American.     
 
@@ -37,13 +37,13 @@ Finally, its editorial page will stand for the rights of men, irrespective of co
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
 
-* [Prejudice (1927)](/Volumes/34/09/prejudice.html)
+#### Related Articles
+
 * [The New Crisis (1925)](/Volumes/30/01/new_crisis.html)
-* [Our Special Grievances (1918)](/Volumes/16/05/our_special_greivances.html)
 * [Radicals (1919)](/Volumes/19/02/radicals.html)
+* [A Statement (1919)](/Volumes/19/01/statement.html)
+* [Our Special Grievances (1918)](/Volumes/16/05/our_special_greivances.html)
 * [The Truth (1912)](/Volumes/05/02/truth.html)
 
 <!-- Similar articles end here -->

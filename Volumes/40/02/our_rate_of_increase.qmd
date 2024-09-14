@@ -41,13 +41,13 @@ It is however clear that our birth rate is falling, just as the birth rate of al
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
+
+#### Related Articles
 
 * [The Census (1911)](/Volumes/03/01/census.html)
 * [Death Rates (1927)](/Volumes/34/08/death_rates.html)
+* [Our Health (1933)](/Volumes/40/02/our_health.html)
+* [The Higher Friction (1927)](/Volumes/34/02/higher_friction.html)
 * [Our Economic Peril (1930)](/Volumes/37/03/our_economic_peril.html)
-* [The Rise of the West Indian (1920)](/Volumes/20/05/rise_of_the_west_indian.html)
-* [Education (1915)](/Volumes/10/03/education.html)
 
 <!-- Similar articles end here -->

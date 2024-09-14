@@ -1,0 +1,42 @@
+---
+title: 'Progress'
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
+date: November 1920
+categories: 
+  - ""
+citation: 
+  type: article-journal
+  container-title: The Crisis
+  volume: 21
+  issue: 1
+  page: 5-6
+google-scholar: true
+
+format:
+  html:
+    toc: false
+    appendix-cite-as: display
+---
+
+
+The progress of the colored American in the last five years has been the most marvelous of any period since emancipation. Visits and investigations North, East, South and West show an activity, a persistence and an accomplishment which is astounding. New ownership of land, new and beautiful homes, new business enterprises, larger amounts of capital seeking investment, new appreciation of and joining with labor unions, new kinds of better paid work and a larger number of children pressing into the schools is the almost universal story.
+
+But above all comes the New Spirit: from a bewildered, almost listless, creeping sense of impotence and despair have come a new vigor, hopefulness and feeling of power. We are no longer depending upon our friends; we are depending upon ourselves. If mobs attack us we are prepared to defend ourselves and we are going to defend ourselves as Washington and Chicago know. But far from seeking to arouse the mob spirit we are organizing for social uplift in every possible way and seeking alliance with the great national agencies.
+
+The secret of our new progress and success lies largely in our new self-discovery. There are still a few of us who are running away to avoid each other with the vague feeling that we shall thus lose ourselves in the world and be free. But the mass of black folks have made the Great Discovery: they have discovered each other. They have come to know what fine, lovable companionship and inspiration can be had in their own race. They are happily glad, almost at times mad, with the joy of the new discovery. It frees and heartens them, makes them self confident and human. The tide of the New Day rises with majestic force, but does it yet fully feel and recognize the Industrial Revolution that is sweeping the earth?
+
+<!-- Similar articles start here -->
+<div  class="clear-wrap"></div>
+
+#### Related Articles
+
+* [The Present (1917)](/Volumes/14/04/present.html)
+* [Our Economic Peril (1930)](/Volumes/37/03/our_economic_peril.html)
+* [Unity (1924)](/Volumes/28/03/unity.html)
+* [Light (1912)](/Volumes/03/04/light.html)
+* [College Education (1914)](/Volumes/08/03/college_education.html)
+
+<!-- Similar articles end here -->

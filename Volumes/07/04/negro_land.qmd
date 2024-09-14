@@ -91,12 +91,12 @@ leading us out of the wilderness in these last ten years.
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
+
+#### Related Articles
 
 * [The White Primary (1911)](/Volumes/01/05/white_primary.html)
-* [An Open Letter (1915)](/Volumes/10/03/an_open_letter.html)
 * [Disenfranchisement (1925)](/Volumes/30/02/disenfranchisement.html)
+* [An Open Letter (1915)](/Volumes/10/03/an_open_letter.html)
 * [Education (1930)](/Volumes/37/02/education.html)
 * [The Negro Citizen (1929)](/Volumes/36/05/negro_citizen.html)
 

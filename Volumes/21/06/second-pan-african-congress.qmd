@@ -1,0 +1,48 @@
+---
+title: 'The Second Pan-African Congress'
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
+date: April 1921
+categories: 
+  - ""
+citation: 
+  type: article-journal
+  container-title: The Crisis
+  volume: 21
+  issue: 6
+  page: 248
+google-scholar: true
+
+format:
+  html:
+    toc: false
+    appendix-cite-as: display
+---
+
+According to the decision made by the members of the Permanent Committee of the first Pan-African Congress, which was held in Paris February 19-21, 1919, a second Pan-African Congress is to meet in Paris during the first week in September, 1921.
+
+We are asked occasionally why the Congress should be held in Europe rather than in the United States. We would answer that question by calling the attention of our readers to the map below, which shows the relative distribution of the dark peoples of the world (indicated by the straight, black lines), and also the relative facility of means of transportation. It is very much easier for Africa, the West Indies, South America and the United States to get to Europe, than it is for all first three named to get to us. Also the well-known friendliness and cordiality of the French toward the Negro visitor is to be considered.
+
+<figure>
+![](images/negro-world.png "Map showing the relative distribution of dark peoples of the world and primary transportation routes to Europe."){width=100%}
+<figcaption>
+The Negro World and Steamship Communication
+</figcaption>
+</figure>
+
+<span class="crisis-title">The Crisis</span> will issue between now and September several bulletins on the Pan-African Congress. Send us the names of persons and organizations interested.
+
+<!-- Similar articles start here -->
+<div  class="clear-wrap"></div>
+
+#### Related Articles
+
+* [The Pan-African Congresses: The Story of a Growing Movement (1927)](/Volumes/34/08/panafrican_congresses.html)
+* [Memorandum to M. Diagne and Others on a Pan-African Congress to be held in Paris in February, 1919 (1919)](/Volumes/17/05/memorandum_to_m_diagne_and_others_on_a_panafrican_congress.html)
+* [Pan-Africa (1921)](/Volumes/21/03/pan-africa.html)
+* [Manifesto to the League of Nations (1921)](/Volumes/23/01/manifesto.html)
+* [Travel (1926)](/Volumes/33/02/travel.html)
+
+<!-- Similar articles end here -->

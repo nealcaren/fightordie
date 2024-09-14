@@ -1,0 +1,61 @@
+---
+title: 'Reduced Representation in Congress'
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
+date: February 1921
+categories: 
+  - ""
+citation: 
+  type: article-journal
+  container-title: The Crisis
+  volume: 21
+  issue: 4
+  page: 149-150
+google-scholar: true
+
+format:
+  html:
+    toc: false
+    appendix-cite-as: display
+---
+
+Friends of Democracy and especially friends of over ten million disfranchised persons---white and black---in the South, are called upon today for clear thinking and a knowledge of the facts.
+
+This nation is putting a *premium* upon oligarchy and a *penalty* upon democracy.
+
+The states *can* and *do* control the conditions under which a citizen may or may not vote. By the 15th and 19th Amendments there are only two checks on their power: They cannot legally disfranchise men for *race* or *sex*. They cannot say that a Negro or a woman cannot vote.
+
+But---and this fact is often slurred or forgotten---the states *can* and legally *do* restrict the suffrage for *other* reasons, such as length of residence, previous registration, ability to read and write, possession of property, etc.
+
+Moreover, states can easily disfranchise a whole group by choosing certain characteristics or disabilities of the group: Negroes as a mass are poor and ignorant; a property and literacy qualification will therefore disfranchise a large number of them; women are occupied in homes for the most part and not in the so-called "gainful occupations." A restriction of voting to those in such occupations would be undoubtedly legal and would disfranchise 75% of the women.
+
+Hitherto democracy in the United States has assumed that self-interest would keep the number of voters *as large as possible* in the various states. This assumption has *failed* in two respects: It has kept *women* from voting for more than a century and it has kept *Negroes* in the South from voting during the better part of a generation.
+
+This in itself is bad enough, but the situation is worse when we consider that *we have made it distinctly to the advantage of oligarchical rule to disfranchise just as many voters as possible* and to do this by legal enactment or by force or public opinion, by economic pressure or by sneering at the efficacy of democratic government. How far this has gone an article in this number of <span class="crisis-title">The Crisis</span> shows.
+
+We have at present only *one* legal remedy and that lies in the Fourteenth Amendment. Many persons, and especially Negroes, assume that the enforcement of the section of the second section of the 14th Amendment would make the disfranchisement of Negroes legal. *This is absolutely untrue.* As long as the 15th Amendment stands, it is absolutely illegal to disfranchise a person because of "race, color or previous condition of servitude." But it is absolutely legal to disfranchise persons for any number of other reasons. Indeed, a state might legally disfranchise a person for having red hair.
+
+But here the 14th Amendment steps in and says: "But when the right to vote at any election ... is denied to any of the male inhabitants of such state (being 21 years of age and citizens of the United States) or in any way abridged ... the basis of representation therein shall be reduced in ... proportion ..." In other words, if for any *legal* reason a state disfranchises its citizens then the representation of that state in Congress must be proportionately reduced.
+
+The Constitution does not attempt to say that the state may not have perfectly good moral ground for such disfranchisement. In sheer self defense it may be proper, temporarily, for a state to disfranchise the ignorant. It might even defend itself, under a just economic system, in disfranchising the poor. But whatever its motives or justification *a state can disfranchise its citizens for any reason except race and sex.* But if it *does* it is liable to have its representation in Congress reduced, and indeed if it believes in democratic government it ought to be willing and eager for such reduction.
+
+By assenting to such reduction it simply says to its fellow citizens throughout the United States: "We, the voters of South Carolina, do not wish to wield any more political power, man for man, than you voters of North Dakota; and therefore because we have disfranchised most of our adult citizens on account of our wretched public school system and unjust industrial organization, we ask to have our political power curtailed until we can educate our citizens and make a more decent distribution of wealth."
+
+But if this assent is due from South Carolina, how much more is a demand called for from the disfranchised Negroes? They have simply to choose between two alternatives: *to be temporarily unrepresented in Congress or to be perpetually represented by their active and militant enemies.* If they are unrepresented, this lack of representation is not and cannot be on account of their race and color so long as the 15th Amendment stands. It is simply on account of other qualifications or on account of the unfair administration of the law. If the other qualifications are *reasonable* it is only a matter of time when Negroes will meet them and have their representation restored automatically. If they are disfranchised by *unreasonable* qualifications or by the *unfair administration of the law,* they can continue to attack these in the courts and before the public opinion of the nation and the world, *and during this fight their enemies will be disarmed of their undue political power and influence.* In such case they cannot in the long run fail to triumph.
+
+There is absolutely no valid argument against this policy or cause for hesitation. The overwhelming political power of the South, whereby 10,000 voters in Mississippi wield as much political power as 97,000 voters in Indiana, must be changed. The legal remedy is at hand and involves no jot or tittle of surrender of any right or hope of the American Negro. To hesitate is to give to that section of the United States where mobs, lynching, ignorance and murder flourish, *four times* the political power exercised by the intelligence, thrift, and law-abiding devotion to democracy in the rest of the land.
+
+<!-- Similar articles start here -->
+<div  class="clear-wrap"></div>
+
+#### Related Articles
+
+* [Southern Representatives (1920)](/Volumes/19/06/southern_representatives.html)
+* [Political Rebirth and the Office Seeker (1921)](/Volumes/21/03/political-rebirth.html)
+* [The Truth (1911)](/Volumes/01/03/truth.html)
+* [Disenfranchisement (1925)](/Volumes/30/02/disenfranchisement.html)
+* [The White Primary (1911)](/Volumes/01/05/white_primary.html)
+
+<!-- Similar articles end here -->

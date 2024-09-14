@@ -1,0 +1,37 @@
+---
+title: Flipper
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
+date: September 1922
+categories: 
+  - ""
+citation: 
+  type: article-journal
+  container-title: The Crisis
+  volume: 24
+  issue: 5
+  page: 202
+google-scholar: true
+
+format:
+  html:
+    toc: false
+    appendix-cite-as: display
+---
+
+In 1882 the Army got rid of a colored lieutenant, H.O. Flipper, by accusing him of irregularities in his accounts. From that time until this those who have known the facts have been convinced that Mr. Flipper was the victim of injustice and prejudice. For over thirty years, Mr. Flipper has asked for justice and at the same time pursued his work as a useful American citizen until he now occupies a position of trust under the Secretary of the Interior. An exhaustive brief has been prepared and the matter laid before Congress in the shape of a petition for redress of grievances and the restoration of Mr. Flipper to a proper rank in the army. We trust that belated justice may be done in this well-known case.
+
+<!-- Similar articles start here -->
+<div  class="clear-wrap"></div>
+
+#### Related Articles
+
+* [Justice (1917)](/Volumes/14/03/justice.html)
+* [Allies (1911)](/Volumes/02/03/allies.html)
+* [Officers (1917)](/Volumes/14/02/officers.html)
+* [Our Special Grievances (1918)](/Volumes/16/05/our_special_greivances.html)
+* [The Truth (1911)](/Volumes/01/06/truth.html)
+
+<!-- Similar articles end here -->

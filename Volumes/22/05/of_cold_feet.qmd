@@ -29,13 +29,13 @@ But when we asked for volunteers to protest a libellous film play, five promised
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
+
+#### Related Articles
 
 * [Thirteen (1918)](/Volumes/15/03/thirteen.html)
-* [Radicals (1919)](/Volumes/19/02/radicals.html)
 * [A Quarter Million (1921)](/Volumes/21/05/a_quarter_million.html)
-* [A Crusade (1914)](/Volumes/07/05/crusades.html)
-* [Publicity (1922)](/Volumes/24/01/publicity.html)
+* [Heroes (1919)](/Volumes/19/01/heroes.html)
+* [Our Special Grievances (1918)](/Volumes/16/05/our_special_greivances.html)
+* [Radicals (1919)](/Volumes/19/02/radicals.html)
 
 <!-- Similar articles end here -->

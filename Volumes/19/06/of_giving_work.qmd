@@ -1,0 +1,59 @@
+---
+title: 'Of Giving Work'
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
+date: Apr. 1920
+categories: 
+  - ""
+citation: 
+  type: article-journal
+  container-title: The Crisis
+  volume: 19
+  issue: 6
+  page: 301
+google-scholar: true
+
+format:
+  html:
+    toc: false
+    appendix-cite-as: display
+---
+
+"We give you people work and if we didn't, how would you live?"
+
+The speaker was a southern white man. He was of the genus called "good". He had come down from the Big House to advise these Negroes, in the forlorn little church which crouched on the creek. He didn't come to learn, but to teach. The result was that he did not learn, and he saw only that blank, impervious gaze which colored people know how to assume; and that dark wall of absolute silence which they have a habit of putting up instead of applause. He felt awkward, but he repeated what he had said, because he could not think of anything else to say:
+
+"We give you people work, and if we didn't, how would you live?"
+
+And then the old and rather ragged black man arose in the back of the church and came slowly forward and as he came, he said:
+
+"And we gives you homes; and we gives you cotton; and we makes your land worth money; and we waits on you and gets your meals and cleans up your dirt. And if we didn't do all those things for you, how would you live?"
+
+The white man choked and got red, but the old black man went on talking:
+
+"And what's more: we gives you a heap more than you gives us and we're getting mighty tired of the bargain---"
+
+"I think we ought to give you fair wages," stammered the white man.
+
+"And that ain't all," continued the old black man, "we ought to have something to say about your wages. Because if what *you* gives us gives *you* a right to say what we ought to get, then what *we* gives you gives *us* a right to say what *you* ought to get; and we're going to take that right *some day*."
+
+The white man blustered:
+
+"That's Bolshevism!" he shouted.
+
+And then church broke up.
+
+<!-- Similar articles start here -->
+<div  class="clear-wrap"></div>
+
+#### Related Articles
+
+* [Precept and Practice (1910)](/Volumes/01/02/precept_and_practice.html)
+* [The Simple Way (1913)](/Volumes/07/01/simple_way.html)
+* ['Social Equality' (1911)](/Volumes/03/01/social_equality.html)
+* [Light (1912)](/Volumes/03/04/light.html)
+* [The Fruit of the Tree (1913)](/Volumes/06/05/fruit_of_tree.html)
+
+<!-- Similar articles end here -->

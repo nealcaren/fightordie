@@ -59,13 +59,13 @@ We are reminding our readers of all this not to revive forgotten rancor but for 
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
+
+#### Related Articles
 
 * [Marcus Garvey (1921)](/Volumes/21/03/marcus_garvey.html)
-* [Socialism and the Negro (1921)](/Volumes/22/06/socialism_and_the_negro.html)
 * [A Lunatic or a Traitor (1924)](/Volumes/28/01/lunatic_or_a_traitor.html)
-* [Our Economic Peril (1930)](/Volumes/37/03/our_economic_peril.html)
+* [Augustus G. Dill (1928)](/Volumes/35/03/dill.html)
+* [Marcus Garvey (1920)](/Volumes/21/02/garvey.html)
 * [Radicals (1919)](/Volumes/19/02/radicals.html)
 
 <!-- Similar articles end here -->

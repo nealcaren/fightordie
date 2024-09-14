@@ -60,13 +60,13 @@ These things are true, fellow-Americans; therefore, let us, with one accord, att
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
 
+#### Related Articles
+
+* [Thrift (1921)](/Volumes/21/03/thrift.html)
 * [Philanthropy and Self Help (1918)](/Volumes/16/03/philanthropy_and_self_help.html)
 * [White Charity (1922)](/Volumes/24/02/whitecharity.html)
 * [Our Economic Future (1928)](/Volumes/35/05/our_economic_future.html)
 * [The Right to Work (1933)](/Volumes/40/04/right_to_work.html)
-* [School (1918)](/Volumes/16/06/school.html)
 
 <!-- Similar articles end here -->

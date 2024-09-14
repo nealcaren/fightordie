@@ -89,13 +89,13 @@ Gentle Reader, which of these three examples shall my friend of Harlem follow? W
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
 
-* [Mob Tactics (1927)](/Volumes/34/06/mob_tactics.html)
-* [Lynchings and Mobs (1921)](/Volumes/22/04/lynchings.html)
+#### Related Articles
+
+* [A Soldier (1920)](/Volumes/19/05/a_soldier.html)
 * [Crime (1920)](/Volumes/19/04/crime.html)
-* [Coffeeville, Kanasas (1927)](/Volumes/34/05/coffeville_kansas.html)
+* [Mob Tactics (1927)](/Volumes/34/06/mob_tactics.html)
 * [Bleeding Ireland (1921)](/Volumes/21/05/bleeding-ireland.html)
+* [Lynchings and Mobs (1921)](/Volumes/22/04/lynchings.html)
 
 <!-- Similar articles end here -->

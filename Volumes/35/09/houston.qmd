@@ -1,0 +1,41 @@
+---
+title: 'Houston'
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
+date: Sep. 1928
+categories: 
+  - ""
+citation: 
+  type: article-journal
+  container-title: The Crisis
+  volume: 35
+  issue: 9
+  page: 312
+google-scholar: true
+
+format:
+  html:
+    toc: false
+    appendix-cite-as: display
+---
+
+If the Democratic party was openly and thoughtfully planning to alienate the intelligent Negro vote in the North, they certainly were eminently successful. They opened their convention with an atrocious lynching. They segregated their black visitors back of a wire cage. They nominated for Vice President (an office which, since the Civil War, has made its incumbent President in four cases) a typical Arkansas bourbon. Even the nomination of Alfred Smith does not relieve the situation. Smith is an excellent administrator and his attitude on liquor is at least honest, while Hoover's is not; but so far as we can learn Alfred Smith has seldom been aware of the black citizens of the state of New York. He has given 250,000 Negroes of the state only one major appointment and has shown for black people not the slightest personal interest or appreciation. He has consistently vetoed every bill and movement which Negroes advocated.
+
+The Catholic church, to which Smith belongs, knows no color line in all the world *except* in the United States; but here it is "Jim-Crow" from top to bottom in church attendance, in education, in philanthropy, in missionary endeavor.
+
+Finally, whatever Smith and his entourage might be inclined to do to attract Negro support, they are absolutely estopped from doing by their corrupt bargain with the solid South and their craven fear of the "liberal" South. Black voters of the North who support Smith should first vote for him and then commit suicide.
+
+<!-- Similar articles start here -->
+<div  class="clear-wrap"></div>
+
+#### Related Articles
+
+* [The Election (1928)](/Volumes/35/12/election.html)
+* [On the Fence (1928)](/Volumes/35/11/on_the_fence.html)
+* [The Presidential Campaign (1916)](/Volumes/12/06/presidential_campaign.html)
+* [Political Rebirth and the Office Seeker (1921)](/Volumes/21/03/political-rebirth.html)
+* [The Negro in Politics (1929)](/Volumes/36/11/negro_in_politics.html)
+
+<!-- Similar articles end here -->

@@ -2,5 +2,6 @@
     "ipynb.experimental.pasteImages.enabled": true,
     "cSpell.ignoreWords": [
         "desease"
-    ]
+    ],
+    "CodeGPT.apiKey": "Ollama"
 }

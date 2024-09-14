@@ -54,8 +54,8 @@ Branches of St. Mark's Church have grown up in Brooklyn, in Harlem, in the Bronx
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
+
+#### Related Articles
 
 * [The Methodist Church, North (1911)](/Volumes/01/05/methodist_church_north.html)
 * [Jesus Christ in Baltimore (1911)](/Volumes/01/03/baltimore.html)

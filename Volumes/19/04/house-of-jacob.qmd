@@ -82,13 +82,13 @@ What are YOU going to do about it?
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
 
+#### Related Articles
+
+* [Remember (1920)](/Volumes/19/06/remember.html)
 * [Southern Civilization (1916)](/Volumes/13/01/southern_civilization.html)
 * [Civilization in the South (1917)](/Volumes/13/05/civilization_in_south.html)
-* [Remember (1920)](/Volumes/19/06/remember.html)
 * [The Truth (1911)](/Volumes/01/03/truth.html)
-* [The Newest South (1913)](/Volumes/06/03/newest_south.html)
+* [Southern Representatives (1920)](/Volumes/19/06/southern_representatives.html)
 
 <!-- Similar articles end here -->

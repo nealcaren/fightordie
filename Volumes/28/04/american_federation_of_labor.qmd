@@ -42,13 +42,13 @@ The National Association for the Advancement of Colored People stands ready to t
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
+
+#### Related Articles
 
 * [The Negro and Labor (1922)](/Volumes/25/06/negro_and_labor.html)
 * [Black and White Workers (1928)](/Volumes/35/03/black_and_white_workers.html)
-* [The A.F. of L. (1933)](/Volumes/40/12/af_of_l.html)
-* [Organized Labor (1912)](/Volumes/04/03/organized_labor.html)
 * [Our Economic Peril (1930)](/Volumes/37/03/our_economic_peril.html)
+* [The A.F. of L. (1933)](/Volumes/40/12/af_of_l.html)
+* [Eugene Debs (1926)](/Volumes/33/02/debs.html)
 
 <!-- Similar articles end here -->

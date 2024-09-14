@@ -1,0 +1,38 @@
+---
+title: 'Pan-Africa'
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
+date: January 1921
+categories: 
+  - ""
+citation: 
+  type: article-journal
+  container-title: The Crisis
+  volume: 21
+  issue: 3
+  page: 101  
+google-scholar: true
+
+format:
+  html:
+    toc: false
+    appendix-cite-as: display
+---
+
+
+The Second Pan-African Conference under the Presidency of Blaise Diagne, Deputy from Senegal to the Parliament of France and Commissioner of African French Troops in the late war, has been called by the executive committee through its secretary, W.E.B. Du Bois, to meet in Paris, in the early fall of 1921. All Negro governments and groups and all Negro organizations interested in the peoples of African descent will be invited to participate. Governments with colonies in Africa will be invited to send official spokesmen. The N. A. A. C. P. financed the first Congress and will underwrite the call for the second. Its official connection will thereupon cease and the Pan-African Congress will, it is hoped, become thereafter a permanent, self-supporting body. Further information can be had at the office of <span class="crisis-title">The Crisis</span>, from which official invitations will soon issue.
+
+<!-- Similar articles start here -->
+<div  class="clear-wrap"></div>
+
+#### Related Articles
+
+* [The Pan-African Congresses: The Story of a Growing Movement (1927)](/Volumes/34/08/panafrican_congresses.html)
+* [Memorandum to M. Diagne and Others on a Pan-African Congress to be held in Paris in February, 1919 (1919)](/Volumes/17/05/memorandum_to_m_diagne_and_others_on_a_panafrican_congress.html)
+* [The Second Pan-African Congress (1921)](/Volumes/21/06/second-pan-african-congress.html)
+* [Manifesto to the League of Nations (1921)](/Volumes/23/01/manifesto.html)
+* [Robert R. Moton (1919)](/Volumes/18/01/robert_moton.html)
+
+<!-- Similar articles end here -->

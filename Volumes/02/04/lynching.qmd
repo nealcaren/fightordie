@@ -31,13 +31,13 @@ The result is mob and murder. The result is barbarism and cruelty. The result is
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
+
+#### Related Articles
 
 * [Lynching (1927)](/Volumes/33/04/lynching.html)
 * [Lynching (1926)](/Volumes/32/01/lynching.html)
-* [Lynching (1914)](/Volumes/07/05/lynching.html)
-* [Causes of Lynching (1931)](/Volumes/38/04/causes_of_lynching.html)
 * [Crime and Lynching (1912)](/Volumes/03/03/crime_and_lynching.html)
+* [Causes of Lynching (1931)](/Volumes/38/04/causes_of_lynching.html)
+* [Anti-Lynching Legislation (1922)](/Volumes/22/01/anti-lynching_legislation.html)
 
 <!-- Similar articles end here -->

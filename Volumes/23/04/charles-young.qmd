@@ -1,0 +1,45 @@
+---
+title: 'Charles Young'
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
+date: Feb. 1921
+categories: 
+  - ""
+citation: 
+  type: article-journal
+  container-title: The Crisis
+  volume: 23
+  issue: 4
+  page: 151
+google-scholar: true
+
+format:
+  html:
+    toc: false
+    appendix-cite-as: display
+---
+
+The life of Charles Young was a triumph of tragedy. No one ever knew the truth about the Hell he went through at West Point. He seldom even mentioned it. The pain was too great. Few knew what faced him always in his army life. It was not enough for him to do well--he must always do better; and so much and so conspicuously better, as to disarm the scoundrels that ever taunted him. He lived in the army surrounded by insult and intrigue and yet he set his teeth and kept his soul serene and triumphed.
+
+He was one of the few men I know who literally turned the other cheek with Jesus Christ. He was laughed at for it and his own people chided him bitterly, yet he persisted. When a white Southern pigmy at West Point protested at taking food from a dish passed first to Young, Young passed it to him first and afterward to himself. When officers of inferior rank refused to salute a "nigger", he saluted them. Seldom did he lose his temper, seldom complain.
+
+With his own people he was always the genial, hearty, half-boyish friend. He kissed the girls, slapped the boys on the back, threw his arms about his friends, scattered his money in charity; only now and then behind the Veil did his nearest comrades see the Hurt and Pain graven on his heart; and when it appeared he promptly drowned it in his music—his beloved music, which always poured from his quick, nervous fingers, to caress and bathe his soul.
+
+Steadily, unswervingly he did his duty. And Duty to him, as to few modern men, was spelled in capitals. It was his lode-star, his soul; and neither force nor reason swerved him from it. His second going to Africa, after a terrible attack of black water fever, was suicide. He knew it. His wife knew it. His friends knew it. He had been sent to *Africa* because the Army considered his blood pressure too high to let him go to *Europe*! They sent him there to die. They sent him there because he was one of the very best officers in the service and if he had gone to Europe he could not have been denied the stars of a General. They could not stand a black American General. Therefore they sent him to the fever coast of Africa. They ordered him to make roads back in the haunted jungle. He knew what they wanted and intended. He could have escaped it by accepting his retirement from active service, refusing his call to active duty and then he could have lounged and lived at leisure on his retirement pay. But Africa needed him. He did not yell and collect money and advertise great schemes and parade in crimson---he just went quietly, ignoring appeal and protest.
+
+He is dead. But the heart of the Great Black Race, the Ancient of Days--the Undying and Eternal---rises and salutes his shining memory: Well done! Charles Young, Soldier and Man and unswerving Friend.
+
+<!-- Similar articles start here -->
+<div  class="clear-wrap"></div>
+
+#### Related Articles
+
+* [Thirteen (1918)](/Volumes/15/03/thirteen.html)
+* [Heroes (1919)](/Volumes/19/01/heroes.html)
+* [Tillman (1918)](/Volumes/16/04/tillman.html)
+* [William Monroe Trotter (1934)](/Volumes/41/05/trotter.html)
+* [The White Church (1917)](/Volumes/14/01/white_church.html)
+
+<!-- Similar articles end here -->

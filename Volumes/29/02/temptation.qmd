@@ -1,0 +1,73 @@
+---
+title: 'The Temptation in the Wilderness'
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
+date: December 1924
+categories: 
+  - ""
+citation: 
+  type: article-journal
+  container-title: The Crisis
+  volume: 291
+  issue: 29
+  page: 58
+google-scholar: true
+
+format:
+  html:
+    toc: false
+    appendix-cite-as: display
+---
+
+There was a man standing in the Wilderness. He was black and thin; his clothes were shabby but his eyes burned toward heaven.
+
+*Then was Jesus led up of the Spirit into the wilderness to be tempted of the devil.*
+
+O wide was the wilderness and tangled --- dark and full of sounds and silences. He could not understand it --- he could not see it --- he could not. It was full of beasts, of ugly thoughts, of awful memories. In his hand he was holding a book --- he was filled with the Word of God --- yet the Word was silence to him. He was twenty years young and the Wilderness stretched from his High Hill of Graduation down yonder to the low gates where one might see the Valley of the Shadow of Death.
+
+*And when he had fasted forty days and forty nights, he was afterward an hungered.*
+
+*And when the tempter came to him he said, If thou be the Son of God, command that these stones be made bread.*
+
+Bread? Bread and butter! Yes, he must earn it. The days of the years of his childhood were past. He must turn stones into bread --- not into great cathedrals, into tall temples, into bridges that fly from cloud to cloud --- but bread, bread alone --- but Life, Joy, the Right to think and do and be. And then the vision came --- work and home and wife and child --- one woman --- young and beautiful; in silk and jewels; with fingers as soft as her voice. He smiled at the devil wanly:
+
+*But he answered and said, It is written, Man shall not live by bread alone, but by every word that proceedeth out of the mouth of God.*
+
+Ten years with slow and stately tread pass by. The black man grows and his work grows. The half-filled, ever hungry soul unmarried. The devil is a long, lean man, tailored and groomed:
+
+*And the devil, taking him up into a high mountain, showed unto him all the kingdoms of the world in a moment of time.*
+
+*And the devil said unto him, All this power will I give thee, and the glory of them: for that is delivered unto me; and to whomsoever I will I give it.*
+
+*If thou therefore wilt worship me, all shall be thine.*
+
+The Kingdoms of the world! The glory of them; like a thread of silver Piccadilly melts into the Strand; like a thread of gold, the Champs Elysées slip to the Bois; Broadway thunders through its canons; the Prado burns and sings. Above them tower Milan, Woolworth, Taj Mahal, Alhambra and the Opera. North is pine and ice and fur; west is orange and gold; east is oak and silver; south is palm and sea and fire. All amidst them are jewels and silk, color and curve, music and dance, dream and tale, knowledge and cunning. Ah, the Kingdoms of the World.
+
+And suddenly the glory faded. And suddenly all was dirt and pain and blood; and hate and horror. Which was God and who and what and why? The devil spread his hands. “I am God” he said.
+
+*And Jesus answered and said unto him, Get thee behind me, Satan:*
+
+*Then the devil taketh him up into the holy city, and setteth him on a pinnacle of the temple.*
+
+*And saith unto him, If thou be the Son of God, cast thyself down: for it is written, He shall give his angels charge concerning thee; and in their hands they shall bear thee up, lest at any time thou dash thy foot against a stone.*
+
+The black man was forty and older and thinner. He stared into the Valley of the Shadow of Death. Was he really one of the sons of God? Did his father’s angels have charge over him?
+
+Miracles? Were not they the answer? Must not God himself and his angels come more quickly to earth, to settle this awful problem of color and race? How simple. Sow to work. Call God. Come down as a mighty prophet, revealing seer, sacrificing saviour. And yet---was it fair to call a busy God, to tempt him from His own work? Perhaps he too was being crucified? He stared at the devil. The devil was a priest in robe and mitre chanting long prayers.
+
+*Jesus said unto him, It is written again, Thou shalt not tempt the Lord thy God.*
+
+<!-- Similar articles start here -->
+<div  class="clear-wrap"></div>
+
+#### Related Articles
+
+* [Curtains of Pain (1917)](/Volumes/13/04/curtains_of_pain.html)
+* [The Gospel According to Mary Brown (1919)](/Volumes/19/02/gospel.html)
+* [Charles Young (1921)](/Volumes/23/04/charles-young.html)
+* [Easter-Emancipation 1863-1913 (1913)](/Volumes/05/06/easter-emancipation.html)
+* [For What (1919)](/Volumes/17/06/for_what.html)
+
+<!-- Similar articles end here -->

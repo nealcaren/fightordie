@@ -127,13 +127,13 @@ In four of the states mentioned, 229,619 people voted in the regular election, w
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
+
+#### Related Articles
 
 * [The Alleged Failure of Democracy (1914)](/Volumes/09/03/alleged_failure.html)
 * [The Possibility of Democracy (1928)](/Volumes/35/09/possiblity_of_democracy_i.html)
-* [The League of Nations (1919)](/Volumes/19/01/league.html)
-* [A Philosophy in Time of War (1918)](/Volumes/16/04/philosophy_in_time_of_war.html)
 * [Close Ranks (1918)](/Volumes/16/03/close_ranks.html)
+* [A Philosophy in Time of War (1918)](/Volumes/16/04/philosophy_in_time_of_war.html)
+* [The League of Nations (1919)](/Volumes/19/01/league.html)
 
 <!-- Similar articles end here -->

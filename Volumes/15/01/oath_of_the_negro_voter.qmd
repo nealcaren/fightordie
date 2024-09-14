@@ -41,20 +41,17 @@ I will have firm faith in Democracy, despite its mistakes and inefficiency, know
 
 In order to accomplish the above ends I hereby entrust the National Association for the Advancement of Colored People and its local branches with the investigation and co-operation necessary to the listing of suitable candidates for my franchise at each election.
 
-Persons minded to sign the above oath will send their names to the Editor of <span class = "small-caps">The Crisis</span>.
-
-__________
-*Citation:* Du Bois, W.E.B. 1918. "The Oath of the Negro Voter." *The Crisis*. 15(1):7.
+Persons minded to sign the above oath will send their names to the Editor of <span class="crisis-title">The Crisis</span>.
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
+
+#### Related Articles
 
 * [Votes (1919)](/Volumes/19/02/votes.html)
 * [The Strategy of the Negro Voter (1933)](/Volumes/40/06/strategy_of_the_negro_voter.html)
-* [Votes for Women (1918)](/Volumes/15/01/votes_for_women.html)
+* [Radicals and the Negro (1925)](/Volumes/29/05/radicals_and_the_negro.html)
+* [Political Rebirth and the Office Seeker (1921)](/Volumes/21/03/political-rebirth.html)
 * [The Negro in Politics (1929)](/Volumes/36/11/negro_in_politics.html)
-* [Politics (1912)](/Volumes/04/04/politics.html)
 
 <!-- Similar articles end here -->

@@ -366,13 +366,13 @@ And what of the Federal Government?
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
+
+#### Related Articles
 
 * [A Crusade (1914)](/Volumes/07/05/crusades.html)
 * [St. Louis (1916)](/Volumes/11/05/st_louis.html)
-* [The Black Man in the Revolution of 1914-1918 (1919)](/Volumes/17/05/the_black_man_in_the_revolution_of_1914_1918.html)
-* [Awake America (1917)](/Volumes/14/05/awake_america.html)
-* [The Next Step (1913)](/Volumes/06/02/next_step.html)
+* [Memphis or East St. Louis? (1917)](/Volumes/14/03/memphis_or_east_st_louis.html)
+* [Peonage (1916)](/Volumes/11/06/peonage.html)
+* [The Challenge of Detroit (1925)](/Volumes/31/01/challenge_of_detroit.html)
 
 <!-- Similar articles end here -->

@@ -37,13 +37,13 @@ Of course, the scientific result will be small. For many years these young stude
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
 
-* [The Unfortunate South (1920)](/Volumes/19/04/unfortunate_south.html)
+#### Related Articles
+
 * [The Newer South (1926)](/Volumes/31/04/newer_south.html)
-* [Separation (1911)](/Volumes/01/04/separation.html)
+* [The Liberal South (1921)](/Volumes/21/06/liberal-south.html)
+* [The Unfortunate South (1920)](/Volumes/19/04/unfortunate_south.html)
+* [Votes for Negroes (1921)](/Volumes/21/03/votes-for-negroes.html)
 * [Education (1911)](/Volumes/01/04/education.html)
-* [Social Equality (1916)](/Volumes/12/01/social_equality.html)
 
 <!-- Similar articles end here -->

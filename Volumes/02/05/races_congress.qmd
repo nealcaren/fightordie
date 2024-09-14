@@ -118,13 +118,13 @@ It is finally asked to establish an international institution whose object shall
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
 
-* [The World in Council (1911)](/Volumes/02/05/world.html)
+#### Related Articles
+
 * [The Races in Conference (1910)](/Volumes/01/02/races_in_conference.html)
-* [Credit (1915)](/Volumes/10/01/credit.html)
+* [The World in Council (1911)](/Volumes/02/05/world.html)
 * [The Congressmen and the NAACP (1914)](/Volumes/09/02/congressmen_and_the_naacp.html)
+* [Credit (1915)](/Volumes/10/01/credit.html)
 * [Inter-Racial Comity (1922)](/Volumes/22/01/inter-racial_comity.html)
 
 <!-- Similar articles end here -->

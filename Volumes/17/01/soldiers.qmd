@@ -37,13 +37,13 @@ It is natural to remember that Captain Roy Nash, formerly secretary of the N.A.A
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
 
-* [The Present (1917)](/Volumes/14/04/present.html)
+#### Related Articles
+
 * [Officers (1917)](/Volumes/14/02/officers.html)
 * [Soldiers (1920)](/Volumes/20/03/soldiers.html)
-* [Baker (1917)](/Volumes/15/02/baker.html)
-* [Haiti (1921)](/Volumes/22/06/haiti.html)
+* [Help Us to Help (1918)](/Volumes/16/04/help_us.html)
+* [The Present (1917)](/Volumes/14/04/present.html)
+* [The Negro Soldier (1919)](/Volumes/19/02/negro_soldier.html)
 
 <!-- Similar articles end here -->

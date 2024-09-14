@@ -49,13 +49,13 @@ Loving cups and travelling bags are very little things, but they mean a lot to t
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
+
+#### Related Articles
 
 * [A Quarter Million (1921)](/Volumes/21/05/a_quarter_million.html)
+* [Progress (1920)](/Volumes/21/01/progress.html)
 * [Credit (1915)](/Volumes/10/01/credit.html)
-* [Muddle (1916)](/Volumes/13/02/muddle.html)
-* [An Open Letter to Robert Russa Moton (1916)](/Volumes/12/03/open_letter.html)
-* [A Question of Policy and The Philosophy of Mr. Dole (1914)](/Volumes/08/01/question_of_policy.html)
+* [Our Special Grievances (1918)](/Volumes/16/05/our_special_greivances.html)
+* [The Dunbar National Bank (1928)](/Volumes/35/11/dunbar_national_bank.html)
 
 <!-- Similar articles end here -->

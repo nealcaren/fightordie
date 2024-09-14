@@ -80,13 +80,13 @@ Give us the camp!
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
 
+#### Related Articles
+
+* [In Georgia (1920)](/Volumes/20/03/in-georgia.html)
 * [Officers (1917)](/Volumes/14/02/officers.html)
+* [A Statement (1919)](/Volumes/19/01/statement.html)
 * [The "Jim Crow" Argument (1913)](/Volumes/05/06/jim_crow_argument.html)
-* [Jim Crow (1919)](/Volumes/17/03/jim_crow.html)
-* [The Newer South (1926)](/Volumes/31/04/newer_south.html)
-* [The Proper Way (1913)](/Volumes/05/05/proper_way.html)
+* [Blessed Discrimination (1913)](/Volumes/05/04/blesseddiscrimination.html)
 
 <!-- Similar articles end here -->

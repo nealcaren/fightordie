@@ -1,0 +1,41 @@
+---
+title: 'Science'
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
+date: Feb. 1927
+categories: 
+  - ""
+citation: 
+  type: article-journal
+  container-title: The Crisis
+  volume: 33
+  issue: 4
+  page: 179
+google-scholar: true
+
+format:
+  html:
+    toc: false
+    appendix-cite-as: display
+---
+
+
+
+Dr. N.M. Hirsh, "former Fellow of the National Research Council", has made an astounding discovery. By testing 5,500 New England school children he finds that Negroes and Portuguese have the least intelligence. And then he adds blithely, "The children tested were all attending public schools in four factory towns of Massachusetts, *with the exception of 449 Negro children from Tennessee!*"
+
+One-fourth of the Negroes of Tennessee are illiterate and the State spends less than five dollars a head each year in training colored children. Massachusetts spends seven times this amount on her children, but the poor Portuguese who are recent immigrants have had scant chance to take advantage of it. As a scientist, Mr. Hirsh deserves to be classed with Frederick L. Hoffman.
+
+<!-- Similar articles start here -->
+<div  class="clear-wrap"></div>
+
+#### Related Articles
+
+* [Education (1911)](/Volumes/01/04/education.html)
+* [Education (1911)](/Volumes/02/02/education.html)
+* [Race Intelligence (1920)](/Volumes/20/03/race_intelligence.html)
+* [Employment (1932)](/Volumes/39/09/employment.html)
+* [Education (1915)](/Volumes/10/03/education.html)
+
+<!-- Similar articles end here -->

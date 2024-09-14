@@ -20,7 +20,7 @@ format:
     appendix-cite-as: display
 ---
 
-The invitation given me to contribute an article to the Woman Suffrage Number of <span class = "small-caps">The Crisis</span>, and in it refer to the part that my father, William Lloyd Garrison played in the movement, brings to mind the fact that there are many people who are ignorant of the close relation that existed between the anti-slavery agitation and the one for "woman's rights," in both of which my father bore his share of the burdens. The very first lesson that I learned was one of sympathy for the poor little slave child who was torn away from its mother's arms, and the second was the need of the help of women in the struggle to free the cruelly oppressed colored people from bondage.
+The invitation given me to contribute an article to the Woman Suffrage Number of <span class="crisis-title">The Crisis</span>, and in it refer to the part that my father, William Lloyd Garrison played in the movement, brings to mind the fact that there are many people who are ignorant of the close relation that existed between the anti-slavery agitation and the one for "woman's rights," in both of which my father bore his share of the burdens. The very first lesson that I learned was one of sympathy for the poor little slave child who was torn away from its mother's arms, and the second was the need of the help of women in the struggle to free the cruelly oppressed colored people from bondage.
 
 At that time custom did not permit women to address audiences of both men and women; the only exception being that of the Society of Friends. Thus, when two women who had an intimate knowledge of the horrors of slavery desired to speak in churches, in order to reach a larger number of people and win adherents to the abolition cause, they were sternly rebuked for their temerity. These women were Sarah and Angelina Grimké, daughters of a distinguished judge of Charleston, S. C., both remarkably gifted speakers and able writers on this all-absorbing topic. Thereupon, the General Association of Massachusetts, having the Orthodox Congregational Churches under its care, issued in July, 1837, a pastoral letter. Its aim was to close the doors of churches to anti-slavery lecturers, and to diminish the audiences of the Grimké sisters, who during the month of June had aroused intense interest in Eastern Massachusetts by their eloquent appeals on behalf of the slaves. Attention was called to dangers now seeming "to threaten the female character with widespread and permanent injury." The New Testament clearly defines "the appropriate duties and influences of women." "The power of woman is in her dependence. … When she assumes the place and tone of man as a public reformer our care and protection of her seem unnecessary; we put ourselves in self-defense against her; she yields the power which God has given for her protection and her character becomes unnatural." The conduct of those, the letter continued, is sadly mistaken "who encourage females to bear an obstrusive and ostentatious part in measures of reform, and countenance any of that sex who so far forget themselves as to itinerate in the character of public lecturers and preachers."
 
@@ -38,13 +38,13 @@ In conclusion, let me again quote my father's words: "The people may err---they 
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
+
+#### Related Articles
 
 * [Two Suffrage Movements (1912)](/Volumes/04/05/two_suffrage_movements.html)
-* [The Justice of Woman Suffrage (1912)](/Volumes/04/05/justice_of_woman_suffrage.html)
 * [The Risk of Woman Suffrage (1915)](/Volumes/11/01/risk_of_woman_suffrage.html)
-* [Woman''s Suffrage (1913)](/Volumes/06/01/womans_suffrage.html)
-* [Woman Suffrage (1915)](/Volumes/09/06/womansuffrage.html)
+* [Woman's Suffrage (1913)](/Volumes/06/01/womans_suffrage.html)
+* [The Justice of Woman Suffrage (1912)](/Volumes/04/05/justice_of_woman_suffrage.html)
+* [Woman Suffrage (1915)](/Volumes/11/01/woman_suffrage.html)
 
 <!-- Similar articles end here -->

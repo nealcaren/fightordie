@@ -23,7 +23,7 @@ format:
 ---
 
 
-In its endeavor to avoid any injustice toward Marcus Garvey and his followers, <span class = "small-caps">The Crisis</span>  has almost leaned backward. Notwithstanding his wanton squandering of hundreds of thousands of dollars we have refused to assume that he was a common thief. In spite of his monumental and persistent lying we have discussed only the larger and truer aspects of his propaganda. We have refrained from all comment on his trial and conviction for fraud. We have done this too in spite of his personal vituperation of the editor of <span class = "small-caps">The Crisis</span>  and persistent and unremitting repetition of falsehood after falsehood as to the editor's beliefs and acts and as to the program of the N.A.A.C.P.
+In its endeavor to avoid any injustice toward Marcus Garvey and his followers, <span class="crisis-title">The Crisis</span>  has almost leaned backward. Notwithstanding his wanton squandering of hundreds of thousands of dollars we have refused to assume that he was a common thief. In spite of his monumental and persistent lying we have discussed only the larger and truer aspects of his propaganda. We have refrained from all comment on his trial and conviction for fraud. We have done this too in spite of his personal vituperation of the editor of <span class="crisis-title">The Crisis</span>  and persistent and unremitting repetition of falsehood after falsehood as to the editor's beliefs and acts and as to the program of the N.A.A.C.P.
 
 In the face, however, of the unbelievable depths of debasement and humiliation to which this demagog has descended in order to keep himself out of jail, it is our duty to say openly and clearly:
 
@@ -33,7 +33,7 @@ That no person of Negro descent can ever hope to become an American citizen.
 
 That forcible separation of the races and the banishment of Negroes to Africa is the only solution of the Negro problem.
 
- That race war is sure to follow any attempt to realize the program of the N. A. A.C. P.
+ That race war is sure to follow any attempt to realize the program of the N.A.A.C.P.
 
  We would have refused to believe that any man of Negro descent could have fathered such a propaganda if the evidence did not lie before us in black and white signed by this man. Here is a letter and part of a symposium sent to one of the most prominent business men of America and turned over to us; we select but a few phrases; the italics are ours:
 
@@ -64,13 +64,13 @@ The American Negroes have endured this wretch all too long with fine restraint a
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
+
+#### Related Articles
 
 * [Marcus Garvey and the NAACP (1928)](/Volumes/35/02/marcus_garvey.html)
-* [We Come of Age (1915)](/Volumes/11/01/we_come_of_age.html)
-* [A Statement (1919)](/Volumes/19/01/statement.html)
-* [An Open Letter to Robert Russa Moton (1916)](/Volumes/12/03/open_letter.html)
-* [Our Special Grievances (1918)](/Volumes/16/05/our_special_greivances.html)
+* [Marcus Garvey (1921)](/Volumes/21/03/marcus_garvey.html)
+* [Radicals (1919)](/Volumes/19/02/radicals.html)
+* [Augustus G. Dill (1928)](/Volumes/35/03/dill.html)
+* [Heroes (1919)](/Volumes/19/01/heroes.html)
 
 <!-- Similar articles end here -->

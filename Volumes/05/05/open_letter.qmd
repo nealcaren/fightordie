@@ -64,13 +64,13 @@ Respectfully yours,
 
 <!-- Similar articles start here -->
 <div  class="clear-wrap"></div>
-<hr>
-#### Related Articles:
 
-* [Education (1913)](/Volumes/06/02/democrats.html)
-* [Presidential Candidates (1916)](/Volumes/13/01/presidential_candidates.html)
-* [The South in the Saddle (1914)](/Volumes/07/04/south_in_saddle.html)
-* [The Congressmen and the NAACP (1914)](/Volumes/09/02/congressmen_and_the_naacp.html)
+#### Related Articles
+
 * [The Election (1912)](/Volumes/05/02/the_election.html)
+* [Presidential Candidates (1916)](/Volumes/13/01/presidential_candidates.html)
+* [Political Rebirth and the Office Seeker (1921)](/Volumes/21/03/political-rebirth.html)
+* [The President (1915)](/Volumes/09/04/president.html)
+* [The South in the Saddle (1914)](/Volumes/07/04/south_in_saddle.html)
 
 <!-- Similar articles end here -->
