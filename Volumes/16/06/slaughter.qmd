@@ -1,6 +1,6 @@
-
 ---
 title: 'The Slaughter of the Innocents'
+description: "W.E.B. Du Bois in The Crisis (1918) condemns Black infant mortality, urging public-health, nutrition, and racial-justice reforms."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 Again the rolling of the years brings us to the annual Children's Number. Attention has been called this year especially to the child and the United States Government has been spreading widely the gospel of the preservation of child life. The death of some ten million men who would have been fathers of unborn children has made the world think of the horrors of peace as well as the horrors of war. And the greatest of the horrors of peace is the unnecessary and persistent slaughter of little children. It is a crime of every civilization and of every race, but we Negroes are among the guiltiest, among us from two hundred to five hundred of every thousand of our babies born die before they reach one year of age. We have pleaded poverty, prejudice and slavery as excuse, but the time is come not to excuse but to combat with our own available weapons this murder.
 

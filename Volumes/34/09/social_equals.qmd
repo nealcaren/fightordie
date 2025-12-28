@@ -1,6 +1,6 @@
-
 ---
 title: 'Social Equals'
+description: "In 1927 The Crisis, W.E.B. Du Bois critiques racial etiquette: a Black doctor's refused fee reveals persistent Southern prejudice and barriers to social equality."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 This is a typical Negro American story which my friend told me the other night. He is a law examiner in one of the departments in Washington. Recently, together with three other professional men, he made a trip to the biennial meeting of a colored fraternity in Detroit. They took the "Red Arrow" all Pullman train out of Washington. As they were talking in the smoking room, a porter came in.
 

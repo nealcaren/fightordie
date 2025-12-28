@@ -1,5 +1,6 @@
 ---
 title: 'Fifteen Years'
+description: "In 1924 W.E.B. Du Bois urges readers to fund The Crisis, arguing that sustaining the magazine is vital to race, truth, democracy, and reform."
 author:
   - name:
       given: W.E.B.

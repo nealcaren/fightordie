@@ -1,5 +1,6 @@
 ---
 title: 'The Link Between'
+description: "W.E.B. Du Bois in The Crisis (1921) praises Natalie Curtis Burlin’s music work as bridging race divides, advancing cultural understanding and democracy."
 author:
   - name:
       given: W.E.B.

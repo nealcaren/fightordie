@@ -1,6 +1,6 @@
-
 ---
 title: 'Grand Jury Adjourns: Laurens County Fails to Indict Dendy Lynchers'
+description: "W.E.B. Du Bois in The Crisis (1934) exposes how Laurens County's grand jury shields a white mob in the Norris Dendy lynching, revealing racial injustice and impunity."
 author: Boardman, Helen
 date: May 1934
 categories: 
@@ -18,9 +18,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
-
 
 After the lynching of Norris Dendy on the Fourth of July, 1933, two detectives came to Clinton, South Carolina. Within an hour of their arrival the interested citizens knew that they were the state investigators from Columbia who were working on the Dendy lynching case. Not a move they made went unnoticed and unreported. Persons whom they interviewed knew well that no privacy attended their utterances; and when such persons were colored, no overt threat was needed to make them guard their words with the utmost discretion. After the investigators had made their report, Governor Blackwood stated his belief that Norris Dendy had been murdered (not lynched) by persons unknown; and added that the state would endeavor to find and prosecute the criminals.
 

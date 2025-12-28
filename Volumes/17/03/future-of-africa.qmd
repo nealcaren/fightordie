@@ -1,5 +1,6 @@
 ---
 title: 'The Future of Africa'
+description: "1919: W.E.B. Du Bois in The Crisis urges ending colonial exploitation and racial prejudice, calling for Pan-African self-rule, education, and labor reform."
 author:
   - name:
       given: W.E.B.

@@ -1,0 +1,46 @@
+---
+title: 'A Letter'
+description: "W.E.B. Du Bois in The Crisis (1921) condemns the YWCA's dismissal of Mrs. Talbert, exposing racial insult, institutional injustice, and calling for apology."
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
+date: April 1921
+categories: 
+  - ""
+citation: 
+  type: article-journal
+  container-title: The Crisis
+  volume: 21
+  issue: 6
+  page: 246-247
+google-scholar: true
+
+format:
+  html:
+    toc: false
+    appendix-cite-as: display
+---
+
+Mrs. Paul Gaston Darrot,</br>
+National Board, Y.W.C.A.
+
+My Dear Madam:
+
+I have your letter of January 22. I regret to say that I am leaving town for a few days but I shall be glad to have an interview with you any time after I return, February 6.
+
+Meantime I beg to say that no one realizes more than I do the difficulties before a national organization like the Young Women's Christian Association. I am aware that in the past they have done a great deal of very excellent work in the treatment of colored people and I am ready at all times to give such publicity as I can to their efforts.
+
+At the same time I must say frankly that I have been especially pained and disgusted at the official attitude toward Mrs. Talbert. Mrs. Talbert is, by reason of her presidency of the colored women's clubs, the foremost woman in America of Negro descent. She is a woman of unblemished character and of excellent presence. Apparently without any attempt to find out the truth concerning her standing and creditability your board took absolutely at its face value a report from Paris, which, to say the least, was neither complete nor frank, and made a public announcement which practically branded Mrs. Talbert as an ill-bred liar.
+
+When the board found that this first account was not true it sent out a second explanation which still put the blame on Mrs. Talbert; and now in its third attempt to excuse the inexcusable it comes out with vague generalities and is not yet frank enough to say that the Paris Y.W.C.A. did an unpardonable act and lied about it and that the Y.W.C.A. owes Mrs. Talbert an apology.
+
+We colored people would not be so resentful at this particular incident if we had not seen similar methods of procedure in dozens of cases during a hundred years. A colored person is insulted and resents the insult. Immediately, without any attempt to find out the exact truth, white apologists hasten to say, *first*, he was not insulted; *secondly*, he was impudent; *thirdly*, his attitude represents the impossible demand of colored people who do not realize the difficulties of the race problem.
+
+As I have said, in literally hundreds of cases has this procedure been followed and usually no attempt is made to get at the original facts of the case. Granting freely that there are times when insults should be ignored or swallowed and that under some circumstances they must even be expected, surely the Y.W.C.A. does not mean to suggest that always and everywhere we must take the treatment that anybody chooses to give. Surely sometimes protest is a duty and always the truth is worth knowing. By sheer accident in this case there happened to be a white woman whose word even your board apparently did not dare to dispute and who was willing to help us bring out the truth.
+
+No Negro is minimizing in the slightest degree the difficulties of racial contact nor is supposing that the Y.W.C.A. has super-human knowledge or power but we do assume that the Y.W.C.A. does not stand for deliberate and unnecessary insult of colored women of ability and breeding, and we have a right to expect that when unfortunately such an occurrence does take place, the one responsible for it should be punished and the proper apology made to the victim. I am wondering whether your board has either the Christianity or womanhood to do these things in this case.
+
+I am, Madam,  
+Very respectfully yours,  
+(Signed) W. E. B. DuBois.

@@ -1,6 +1,6 @@
-
 ---
 title: 'Southern Civilization'
+description: "In 1916 The Crisis, W.E.B. Du Bois condemns Southern oligarchy for lynching, disfranchisement, and opposing national suffrage to preserve white supremacy."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 The new Encyclopedia Britannica has listed the States of the Union
 according to the number of sets of that monumental work which have been
@@ -64,8 +62,8 @@ home and not agitate for the "Impossible."
 
 * [The Newest South (1913)](/Volumes/06/03/newest_south.html)
 * [Slavery (1922)](/Volumes/24/01/slavery.html)
+* [Slavery (1922)](/Volumes/22/01/slavery.html)
 * [In Georgia (1920)](/Volumes/20/03/in-georgia.html)
 * [Brothers, Come North (1920)](/Volumes/19/03/brothers_come_north.html)
-* [The Newer South (1926)](/Volumes/31/04/newer_south.html)
 
 <!-- Similar articles end here -->

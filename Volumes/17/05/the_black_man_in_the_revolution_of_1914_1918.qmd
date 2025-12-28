@@ -1,5 +1,6 @@
 ---
 title: 'The Black Man in the Revolution of 1914-1918'
+description: "W.E.B. Du Bois in The Crisis (1919) documents Black soldiers' valor in WWI, French praise, and persistent U.S. racial discrimination threatening democracy."
 author:
   - name:
       given: W.E.B.
@@ -20,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 ## I 
 

@@ -1,6 +1,6 @@
-
 ---
 title: 'The Second Coming'
+description: "W.E.B. Du Bois in The Crisis (1917) uses a prophetic allegory to expose white racial fear and envision Black emergence and social change."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 Three bishops sat in San Francisco, New Orleans and New York, peering gloomily into three flickering fires which cast and recast shuddering shadows on book-lined walls. Three letters lay in their laps and said:
 

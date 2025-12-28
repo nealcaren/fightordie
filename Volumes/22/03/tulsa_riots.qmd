@@ -1,5 +1,6 @@
 ---
 title: 'Tulsa Riots'
+description: "W.E.B. Du Bois in The Crisis (1921) documents the Tulsa race riot: white mob violence, mass displacement, and peonage driving terror."
 author: National Association for the Advancement of Colored People
 date: Jan. 1921
 categories: 
@@ -17,7 +18,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 Within six hours of the time, on June 1, when the New York *Evening Post* called up the National Office on the telephone to ask whether anything had been heard of race trouble in Tulsa, Okla., a representative was on the way to the battle-scarred city to investigate for the Association. Meanwhile reports continued to come in which showed that one of the most serious race riots in the country's history was in progress, lasting until June 2. The newspapers reported that practically the entire colored residence section of Tulsa was in flames, that shooting was going on and that motor cars and airplanes were being used by white people in the battle. 
 

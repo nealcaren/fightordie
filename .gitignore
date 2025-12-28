@@ -148,3 +148,4 @@ local/
 /chromadb
 *.sqlite3
 chromadb/chroma.sqlite3
+chromadb/chroma.sqlite3

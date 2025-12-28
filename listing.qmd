@@ -1,5 +1,6 @@
 ---
 title: "Articles"
+description: "Browse the complete collection of W.E.B. Du Bois's articles and editorials from The Crisis magazine (1910-1934). Search and filter over 600 digitized pieces covering civil rights, race relations, politics, and social justice."
 listing: 
   contents: Volumes
   type: table

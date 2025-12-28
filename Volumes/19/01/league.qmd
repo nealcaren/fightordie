@@ -1,6 +1,6 @@
-
 ---
 title: 'The League of Nations'
+description: "In 1919 W.E.B. Du Bois in The Crisis urges pragmatic support for the League of Nations to secure peace and advance racial democracy against imperialism."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 The colored folk want the League of Nations. The proposed League is not the best conceivable---indeed, in some respects it is the worst. But the worst International is better than the present anarchy in international relations. This anarchy has just cost civilization two hundred thousand millions of dollars, eight million corpses, twenty million maimed pieces of men and untold and unmeasurable waste, destruction, sorrow, misery and crime.
 

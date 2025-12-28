@@ -1,6 +1,6 @@
-
 ---
 title: 'The Cause of Lynching'
+description: "In 1914 W.E.B. Du Bois in The Crisis argues lynching enforces racial control, falsely justified as crime suppression and undermines justice."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 It is exceedingly difficult to get at the real cause of lynching but <span class="crisis-title">The Crisis</span> is more and more convinced that the real cause is seldom the one In the barbaric Oklahoma case of the lynching of a woman, the press despatches made it a quarrel in a "redlight" district, but two private letters in our hands from apparently trustworthy persons declare that it was the case of a seventeen-year-old girl defending her own honor.
 

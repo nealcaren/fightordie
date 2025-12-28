@@ -1,5 +1,6 @@
 ---
 title: '''Social Equality'''
+description: "W.E.B. Du Bois in The Crisis (1911) reframes social equality, listing disenfranchisement, school denial, labor discrimination and lynching as racial injustices"
 author:
   - name:
       given: W.E.B.
@@ -20,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 At last we have a definition of the very elusive phrase "Social Equality" as applied to the Negro problem. In stating their grievances colored people have recently specified these points:
 

@@ -1,6 +1,6 @@
-
 ---
 title: 'Pechstein and Pecksniff'
+description: "W.E.B. Du Bois in The Crisis (1929) condemns calls for segregated schools, arguing segregation undermines democracy, education and fosters racial caste."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 Dr. R.L.A. Pechstein of the University of Cincinnati last February made a Report at the National Society of College Teachers meeting in Cleveland. His thesis was that the "Segregation of Negro and white children in separate schools accomplished far more for the black race than can be gained in mixed classes." 
 

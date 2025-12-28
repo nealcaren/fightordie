@@ -1,6 +1,6 @@
-
 ---
 title: 'Pink Franklin'
+description: "W.E.B. Du Bois in The Crisis (1911) lambastes racial injustice in Pink Franklin's commuted sentence, exposing Southern law bowed to mob prejudice."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 The commutation of the death sentence of Pink Franklin, of South Carolina, to imprisonment for life is the latest step in an astounding American tragedy, but not, please God! the last.
 

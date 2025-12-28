@@ -1,6 +1,6 @@
-
 ---
 title: 'Florida'
+description: "W.E.B. Du Bois in The Crisis (1923) advises Black migrants against emigrating to Liberia without capital, skills, and health, stressing labor realities."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 > I am writing to you to-day to 
 ask you for some information 

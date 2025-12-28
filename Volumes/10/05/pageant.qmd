@@ -1,6 +1,6 @@
-
 ---
 title: 'A Pageant'
+description: "In 1915 W.E.B. Du Bois in The Crisis launches the Horizon Guild to stage pageants of Negro history, advancing race pride, democracy, and cultural education."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 In 1913 and since there have been several celebrations of the Fiftieth
 Anniversary of the Emancipation Proclamation. The Emancipation

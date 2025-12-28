@@ -1,6 +1,6 @@
-
 ---
 title: 'Another Open Letter to Woodrow Wilson'
+description: "W.E.B. Du Bois in The Crisis (1913) denounces federal segregation, warns Wilson this assault on race, democracy, and votes will cost political support."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 Sir: On the occasion of your inauguration as President of the United States, <span class="crisis-title">The Crisis</span> took the liberty of addressing to you an open letter. <span class="crisis-title">The Crisis</span> spoke for no inconsiderable part of ten millions of human beings, American born, American citizens. <span class="crisis-title">The Crisis</span> said in that letter, among other things: 
 

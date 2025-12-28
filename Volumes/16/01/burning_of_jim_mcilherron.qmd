@@ -1,6 +1,6 @@
-
 ---
 title: 'The Burning of Jim Mc Ilherron: An N.A.A.C.P. Investigation'
+description: "In a 1918 Crisis piece, W.E.B. Du Bois documents the lynching of Jim McIlherron, exposing racial violence and the failure of justice in the South."
 author: White, Walter F.
 date: May 1918
 categories: 
@@ -18,7 +18,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 ![](../../../Images/our_foes.png)
 

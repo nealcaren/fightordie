@@ -1,6 +1,6 @@
-
 ---
 title: 'The Campaign of 1928'
+description: "W.E.B. Du Bois in The Crisis (1928) condemns both parties' betrayal of Black voters and urges a Third Party for racial justice, labor rights and democracy."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 For the American Negro this has without doubt been the most humiliating presidential campaign through which he has passed. The agreement and accord of the two leading parties in regard to him has at last become perfect and complete. 
 

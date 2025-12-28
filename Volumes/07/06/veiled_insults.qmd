@@ -1,6 +1,6 @@
-
 ---
 title: 'Veiled Insults'
+description: "In 1914 W.E.B. Du Bois in The Crisis exposes refusal to capitalize Negro as a racial insult, critiquing supposed egalitarian rhetoric."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 We have spoken before of the custom in the United States of refusing to capitalize the word "Negro."
 

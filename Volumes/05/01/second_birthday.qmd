@@ -1,6 +1,6 @@
-
 ---
 title: 'The Second Birthday'
+description: "In 1912 W.E.B. Du Bois argues in The Crisis that a Black press is vital for race publicity and democracy, urging support despite financial struggle."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 It is natural that there should be many misapprehensions concerning the origin of <span class="crisis-title">The Crisis</span> as well as its object. Every man with a cause longs to voice his belief. Most men, however, like the editor of this magazine, are held back by a very genuine doubt as to whether the public will recognize any worth in the proposed message. They know---or they think they know---that when the message is voiced, and the world realizes its full import, it will welcome and help actively in its spread. 
 

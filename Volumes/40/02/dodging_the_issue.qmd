@@ -1,6 +1,6 @@
-
 ---
 title: 'Dodging the Issue'
+description: "W.E.B. Du Bois in The Crisis (1933) attacks calls for nonresistance, blaming Southern mob violence and economic power for racial injustice."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 The  only comment which the Atlanta Commission on Interracial Cooperation has on the tragedy of the share-croppers of Alabama is a quotation from a Negro newspaper against "militant resistance":
 

@@ -1,6 +1,6 @@
-
 ---
 title: 'Promoting Race Prejudice'
+description: "1917: W.E.B. Du Bois in The Crisis exposes everyday race prejudice—petty slurs, institutional exclusions and government racial categories undermining democracy"
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 Race prejudice is not so much a matter of startling deeds as of petty insinuations. The New York Community Chorus, for instance, has sent broadcast a statement which says that "the chorus has sung every week since its organization, June 9, 1916, and has invited everybody freely to sing with it,"—to which the editor of <span class="crisis-title">The Crisis</span> was forced to reply that the colored people of New York had not been invited nor, indeed, allowed to sing with this chorus.
 

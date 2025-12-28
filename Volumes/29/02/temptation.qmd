@@ -1,5 +1,6 @@
 ---
 title: 'The Temptation in the Wilderness'
+description: "W.E.B. Du Bois in The Crisis (1924) frames a Black man's wilderness temptations as a moral struggle over bread, labor, power, race and spiritual dignity."
 author:
   - name:
       given: W.E.B.

@@ -1,6 +1,6 @@
-
 ---
 title: 'The Higher Friction'
+description: "W.E.B. Du Bois in The Crisis (1927) argues racial friction moves up to higher stakes—voting, education, lynching, housing—measuring uneven Black progress."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 Let us take courage from certain present aspects of the Negro problem. Friction there has always been between black and white since 1619. Friction there will probably be still in 2019. But the friction rises in the scale; it touches, decade by decade, higher levels---higher interests, higher sensibilities, even while the lower friction persists. To illustrate our meaning consider this table.
 

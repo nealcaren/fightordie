@@ -1,6 +1,6 @@
-
 ---
 title: 'Again, Pullman Porters'
+description: "W.E.B. Du Bois in The Crisis (1926) condemns Pullman’s suppression of Black porters' labor rights and urges resistance to servile, racialized work."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 As a class Pullman porters are gentlemen in the best sense of that overworked word. They are courteous, silent and of infinite patience. Nowhere in the traveling world can one find a set of public servants who do their work so thoroughly and so well.
 

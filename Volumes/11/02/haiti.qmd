@@ -1,6 +1,6 @@
-
 ---
 title: 'Haiti'
+description: "In a 1915 essay in The Crisis W.E.B. Du Bois exposes U.S. intervention in Haiti as racial domination, linking State Dept. policy to lynching and white supremacy."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 At first, inquiries at the White House concerning the intentions of the United States in Haiti were appeased by reference to the proclamation of the southern-born admiral, who is now ruling that island as conqueror. This proclamation contains certain smooth
 promises of benevolent guardianship in Haiti with no intention to

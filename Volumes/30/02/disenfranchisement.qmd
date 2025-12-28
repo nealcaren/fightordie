@@ -1,6 +1,6 @@
-
 ---
 title: 'Disenfranchisement'
+description: "In a 1925 essay for The Crisis, W.E.B. Du Bois documents how literacy tests, poll taxes and the White Primary disenfranchise Black voters and hollow democracy."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 How is the Negro disenfranchised? The process is so complicated that few Negroes themselves know definitely. Beginning with 1890 laws have been passed in various Southern states which today disfranchise approximately four million Negroes 21 years of age and over, over half of whom can read and write and who own property which runs into the hundreds of millions. The restrictions by which these have been accomplished are eight in number:
 1. Illiteracy: The voter must be able to read and write.

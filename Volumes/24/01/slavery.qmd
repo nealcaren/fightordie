@@ -1,6 +1,6 @@
-
 ---
 title: 'Slavery'
+description: "W.E.B. Du Bois in The Crisis (1922) exposes continuing slavery and racial injustice in the Southern courts, profiteering elites, and church complicity."
 author:
   - name:
       given: W.E.B.
@@ -22,9 +22,6 @@ format:
     appendix-cite-as: display
 ---
 
-
-
-
 Slavery still exists in the United States. In the courts of Carolina, Georgia, Alabama, Mississippi, Louisiana, Arkansas and Texas, human beings are daily sold into slavery to men like the murderer Williams of Jasper County, Georgia.
 
 Throughout the South---but especially in the Mississippi and Red River bottoms, from Memphis south; in middle and south Georgia and Ala­bama; and in the Brazos bottoms of Texas---Negroes are held today in as complete and awful and soul destroying slavery as they were in 1860. Their overseers ride with guns and whips; their women are prostitutes to white owners and drivers; their children are trained in ignorance, im­morality and crime.
@@ -40,10 +37,10 @@ Amen! And the Negro stands ready to recognize and appreciate every act of Justic
 
 #### Related Articles
 
+* [Slavery (1922)](/Volumes/22/01/slavery.html)
 * [Signs from the South (1919)](/Volumes/18/05/signs_from_south.html)
 * [Anarchism (1912)](/Volumes/04/04/anarchism.html)
 * [In Georgia (1920)](/Volumes/20/03/in-georgia.html)
 * [The White Primary (1911)](/Volumes/01/05/white_primary.html)
-* [Votes for Negroes (1921)](/Volumes/21/03/votes-for-negroes.html)
 
 <!-- Similar articles end here -->

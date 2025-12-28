@@ -1,6 +1,6 @@
-
 ---
 title: 'The White Church'
+description: "In The Crisis 1917, W.E.B. Du Bois condemns the white church's moral failure on race and calls Christian leaders to confront injustice and industrial theft."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 Several white ministers of New York City have recently been assailing the Negro "invasion of Harlem." The 
 color question," they say, "is a great  menace to us." 

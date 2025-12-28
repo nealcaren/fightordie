@@ -1,5 +1,6 @@
 ---
 title: 'Houston and East St. Louis'
+description: "In 1918 The Crisis, W.E.B. Du Bois documents racial massacres in Houston and East St. Louis, exposing deadly injustice and unequal legal treatment."
 author:
   - name:
       given: W.E.B.
@@ -20,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 | HOUSTON                                                                              | EAST ST. LOUIS                                |
 |--------------------------------------------------------------------------------------|-----------------------------------------------|

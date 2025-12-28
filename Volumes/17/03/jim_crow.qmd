@@ -1,5 +1,6 @@
 ---
 title: 'Jim Crow'
+description: "In The Crisis (1919) W.E.B. Du Bois analyzes Jim Crow's paradox: segregation undermines rights yet spurs Black institutions, urging race unity and prudence."
 author:
   - name:
       given: W.E.B.
@@ -20,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 We  colored folk stand at the parting of ways, and we must take counsel. The objection to segregation and "Jim-Crowism" was in other days the fact that compelling Ne­groes to associate only with Negroes meant to exclude them from contact with the best culture of the day. How could we learn manners or get knowledge if the heritage of the past was locked away from us?
 

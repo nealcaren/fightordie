@@ -1,6 +1,6 @@
-
 ---
 title: 'Real Estate in New York'
+description: "In 1914 The Crisis, W.E.B. Du Bois urges Black New Yorkers to hold strategic property and mobilize institutions to thwart racist real-estate displacement."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 If the Negroes are to keep what little they have gained in the right to occupy decent dwelling places on the island of Manhattan, they would better be up and doing.
 

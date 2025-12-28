@@ -1,6 +1,6 @@
-
 ---
 title: 'Anarchism'
+description: "W.E.B. Du Bois argues in The Crisis (1912) that extortion by Southern officials manufactures Black crime, exposing white supremacy and harm to the poor."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 <span class="crisis-title">The Crisis</span> has continually insisted that peonage, false arrest and
 injustice in the Southern courts were responsible for the mass of

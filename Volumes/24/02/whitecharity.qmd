@@ -1,6 +1,6 @@
-
 ---
 title: 'White Charity'
+description: "In 1922 W.E.B. Du Bois in The Crisis critiques white charity for Black communities, urging reparative accountability for race, labor and true freedom."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 Throughout the United States are numberless charities---schools, homes, hospitals and orphanages,---supported wholly or in part by white donors for the benefit of Negroes. As the Negroes have accumulated more means and become more self-assertive, the tendency has been for white givers to reduce their gifts or discontinue their interest entirely, putting many worthy and useful, indeed indispensable, institutions in grave distress.
 

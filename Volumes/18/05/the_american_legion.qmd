@@ -1,5 +1,6 @@
 ---
 title: 'The American Legion'
+description: "W.E.B. Du Bois in The Crisis (1919) condemns the American Legion's racial exclusion of Black veterans and urges organized resistance to defend democracy."
 author:
   - name:
       given: W.E.B.
@@ -20,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 The American Legion is composed, as President Wilson tells us, of "the men who have served in the Army, Navy and Marine Corps, and who are now banding together to preserve the splendid traditions of that service."
 

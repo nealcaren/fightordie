@@ -1,6 +1,6 @@
-
 ---
 title: 'The Negro Public School'
+description: "In The Crisis (1916), W.E.B. Du Bois attacks racialized public education, arguing vocational training enforces caste and undermines democracy."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 A phrase in the December <span class="crisis-title">Crisis</span> has led to some inquiry as to what we mean by the "decline" of the Negro public school. Perhaps our meaning can best be illustrated by two or three references. The *Christian Herald,* for instance, says: "It was early recognized by those responsible for the education of the Negro that an education which would fit him to associate with the whites on equal terms was an education which would only disappoint him and which would leave him unfitted for anything. The main effort, therefore, was put upon the development of schools that should give to the Negro an education that would fit him for the occupations and manner of living which he could expect to follow. This meant vocational training."
 

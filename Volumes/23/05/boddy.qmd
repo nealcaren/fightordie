@@ -1,6 +1,6 @@
-
 ---
 title: 'Boddy'
+description: "W.E.B. Du Bois in The Crisis (1921) indicts society for producing a young Black murderer—race, policing, war training and failed education at fault."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 What more pathetic, baffling, and heartrending case can one conceive? Here is a boy of nineteen—too young even to have begun to live. He is comely, straight, quick of brain, and 
 with lightning speed of hands. He can read and write. He has spent two years in the high school. And yet he stands today a murderer, frank and red-handed. 

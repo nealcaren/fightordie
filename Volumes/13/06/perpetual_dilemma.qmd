@@ -1,6 +1,6 @@
-
 ---
 title: 'The Perpetual Dilemma'
+description: "In 1917 The Crisis, W.E.B. Du Bois urges Black Americans to accept a separate officer training camp to secure military leadership and racial progress."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 We Negroes ever face it.
 

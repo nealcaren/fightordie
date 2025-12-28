@@ -1,6 +1,6 @@
-
 ---
 title: 'In God''s Gardens'
+description: "W.E.B. Du Bois, in The Crisis (1912), argues for North–South unity and an interracial future, urging democracy beyond fear and prejudice."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 <div class="poem">
 <p class = "verse">O mist-blown Lily of the north,

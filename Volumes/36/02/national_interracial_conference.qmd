@@ -1,6 +1,6 @@
-
 ---
 title: 'The National Interracial Conference'
+description: "In 1929 W.E.B. Du Bois in The Crisis calls for coordinated interracial study and annual conferences to address race, education, health, labor, and suffrage."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 For a long time national plans have been developing for a National Interracial Conference to meet at Washington, D. C. Sixteen national organizations combined to sponsor this meeting. These organizations were as follows: 
 

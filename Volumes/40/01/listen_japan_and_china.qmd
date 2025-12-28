@@ -1,6 +1,6 @@
-
 ---
 title: 'Listen, Japan and China'
+description: "W.E.B. Du Bois in The Crisis (1933) urges China and Japan to unite against Western imperialism, claim racial leadership, and defend Asia."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 Colossi of Asia and leaders of all colored mankind: for God's sake stop fighting and get together. Compose your quarrels on any reasonable basis. Unite in self-defense and assume that leadership of distracted mankind to which your four hundred millions of people entitle you.
 

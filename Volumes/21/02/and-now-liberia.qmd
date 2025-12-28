@@ -1,5 +1,6 @@
 ---
 title: 'And Now Liberia'
+description: "In 1920 The Crisis, W.E.B. Du Bois denounces Wilson Plan as financial imperialism, rigid US terms and white control threaten Liberian sovereignty and democracy."
 author:
   - name:
       given: W.E.B.
@@ -20,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 The Wilson Plan of assisting Liberia has been finally revealed in detail. Its terms, which include a loan of five million dollars, are found to be disastrously rigid. Worley, a white Virginian, as General Receiver, is the one prominent figure and would be the real ruler of Liberia under this plan, together with his band of white pensioners. He and our Secretary of Legation, Bundy, sought to force the plan through, but President King called an extra session of the Legislature to consider amendments. While the Legislature was in session a cablegram was received from the United States, saying that no amendments to the Plan would be accepted and that the Plan must be signed as submitted by them, "or the friendly interest which has heretofore existed would become lessened."
 

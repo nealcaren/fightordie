@@ -1,6 +1,6 @@
-
 ---
 title: 'The Tragedy of ''Jim Crow'''
+description: "W.E.B. Du Bois in The Crisis (1923) condemns rising Northern 'Jim Crow' school segregation, defends Black teachers, and urges democratic, educational reform."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 There is developing within the Negro race a situation bordering on tragedy in regard to the "Jim Crow" movement now growing and spreading in the North. The tragedy has been with us before but it has been more or less dormant and unspoken. To-day it is flaring to red flame and we must sit down and reason together.
 

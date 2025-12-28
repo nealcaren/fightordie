@@ -1,6 +1,6 @@
-
 ---
 title: 'A Third Party'
+description: "W.E.B. Du Bois, The Crisis (1928), argues the Solid South makes third-party success impossible, tying race, democracy, and labor to electoral power."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 The political theory of the Third Party in a Republican form of Government is that when the two chief parties cease to stand for distinct policies and principles, one of them will disappear, or the two will coalesce, and that a Third Party will arise and become one of the main contenders for the popular vote. In this way, it is assumed that there will always be a real difference of aim and principle between the main political parties. It was thus that the Republican Party arose and triumphed in the election of Abraham Lincoln. In this way the English Liberal Party displaced the Whigs, and the Labor Party now bids fair to displace the Liberals.
 

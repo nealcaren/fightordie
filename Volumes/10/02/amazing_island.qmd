@@ -1,6 +1,6 @@
-
 ---
 title: 'An Amazing Island'
+description: "W.E.B. Du Bois in The Crisis (1915) celebrates Jamaica's post-color-line society while exposing severe labor exploitation and endemic poverty."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 AN AMAZING ISLAND
 
@@ -44,6 +43,6 @@ ______
 * [I Go A-Talking (1913)](/Volumes/06/03/i_go_a_talking.html)
 * [The History of Haiti (1920)](/Volumes/20/05/history-of-haiti.html)
 * [The Princess of the Hither Isles (1913)](/Volumes/06/06/princess_of_hither_isles.html)
-* [Easter-Emancipation 1863-1913 (1913)](/Volumes/05/06/easter-emancipation.html)
+* [7000 (1922)](/Volumes/22/01/7000.html)
 
 <!-- Similar articles end here -->

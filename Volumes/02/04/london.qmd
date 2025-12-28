@@ -1,6 +1,6 @@
-
 ---
 title: 'London'
+description: "W.E.B. Du Bois in The Crisis (1911) depicts London as imperial capital where racial empire and rising colored peoples foreshadow a global race conference."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 There is in the world no city like London. Nor is its distinction merely a matter of size. To be sure, it is a vast aggregation of men---it gives the visitor a curious sense of endlessness by its very disorganization, by the fact that one can find center after center of busy running life stretching away mile after mile and yet all is London. London has no beauty that will compare it to Paris, no blare and flare like New York.
 
@@ -44,8 +43,8 @@ What more fitting center then than London for the coming together of the first w
 
 * [My Mission (1919)](/Volumes/18/01/my_mission.html)
 * [Visitors (1928)](/Volumes/35/07/visitors.html)
-* [The New Crisis (1925)](/Volumes/30/01/new_crisis.html)
 * [The Crisis (1910)](/Volumes/01/01/TheCrisis.html)
 * [The South (1917)](/Volumes/13/06/south.html)
+* [Travel (1926)](/Volumes/33/02/travel.html)
 
 <!-- Similar articles end here -->

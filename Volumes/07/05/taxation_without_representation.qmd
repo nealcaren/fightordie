@@ -1,6 +1,6 @@
-
 ---
 title: 'Taxation without Representation'
+description: "W.E.B. Du Bois in The Crisis (1914) exposes how Black Memphis taxpayers fund education, parks, and infrastructure yet lack representation and democratic rights."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 Negroes form 40 per cent. of the population of Memphis, Tenn. The city laid the following taxes during the year 1912:
 
@@ -83,6 +81,6 @@ Taxation without representation is tyranny.
 * [Politics and Power (1921)](/Volumes/23/04/politics-and-power.html)
 * [Education (1930)](/Volumes/37/02/education.html)
 * [The Negro and the Land (1914)](/Volumes/07/04/negro_land.html)
-* [Muddle (1914)](/Volumes/08/04/muddle.html)
+* [Disenfranchisement (1925)](/Volumes/30/02/disenfranchisement.html)
 
 <!-- Similar articles end here -->

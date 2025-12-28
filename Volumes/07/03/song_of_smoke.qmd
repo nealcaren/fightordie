@@ -1,6 +1,6 @@
-
 ---
 title: 'The Song of the Smoke'
+description: "In a 1914 poem for The Crisis, W.E.B. Du Bois makes 'smoke' a black emblem of industrial labor, exposing race, toil, and modernity's moral costs."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 <div class="poem">
 <p class = "verse">I am the smoke king,</p>

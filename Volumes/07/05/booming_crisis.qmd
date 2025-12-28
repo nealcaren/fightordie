@@ -1,6 +1,6 @@
-
 ---
 title: 'Booming The Crisis'
+description: "W.E.B. Du Bois in The Crisis (1914) defends The Crisis's independence, rebukes the Washington Bee, critiques race weeklies' facts and urges principled advocacy."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 The Washington *Bee,* a weekly colored periodical has been stirred to its
 vitals by the fear that the money collected in Washington and elsewhere

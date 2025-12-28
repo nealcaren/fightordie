@@ -1,6 +1,6 @@
-
 ---
 title: 'Close Ranks'
+description: "W.E.B. Du Bois in The Crisis (1918) calls on Black Americans to close ranks, set aside grievances, and defend democracy against German militarism."
 author:
   - name:
       given: W.E.B.
@@ -21,9 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
-
 
 This is The Crisis of the world.
 

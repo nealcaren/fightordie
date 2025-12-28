@@ -1,6 +1,6 @@
-
 ---
 title: 'The Next Step'
+description: "W.E.B. Du Bois in The Crisis (1913) urges lasting NAACP organization to track and defeat anti-Black intermarriage bill sponsors at primaries."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 The vicious attempts to degrade colored women in Washington, Iowa,
 Kansas, Michigan, Wisconsin, Ohio, Pennsylvania, New York and the

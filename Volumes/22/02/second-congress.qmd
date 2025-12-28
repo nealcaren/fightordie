@@ -1,0 +1,58 @@
+---
+title: 'The Second Pan-African Congress'
+description: "W.E.B. Du Bois in The Crisis (1921) urges Pan-African unity and fundraising for the Second Pan-African Congress, mobilizing Black organizations worldwide."
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
+date: Jun. 1921
+categories: 
+  - ""
+citation: 
+  type: article-journal
+  container-title: The Crisis
+  volume: 22
+  issue: 2
+  page: 57
+google-scholar: true
+
+format:
+  html:
+    toc: false
+    appendix-cite-as: display
+---
+
+It is expected that at the second Pan-African Congress there will be delegates from the United States, the English and French West Indies, Guiana, Cuba, English and French West Africa, the Congo, Haiti, Liberia, Portuguese Africa, Abyssinia and Egypt.
+
+Among the organizations represented will be the A.M.E. and Baptist churches, the Odd Fellows and Masons, the Greek letter fraternities, etc., in the United States; the National Congress of British West Africa, the South Africa Native Congress, the African Political Organization, *L'Union Congolaise*, and others.
+
+In order to attend the Congress it will be necessary to sail from the United States sometime during the third week in August, when it will be easy to secure passage as travel is then light; it will be possible to return the first week in September, but as travel is then very heavy, it would be better to plan for later in the month. Steamship passage will cost from $125 to $400 for each person, each way.
+
+Delegates must represent some organization. This is easily arranged especially if the delegate is willing to defray his own expenses.
+
+The question of financing the work and expense necessary to the calling of the Congress is now pressing. The N.A.A.C.P. has underwritten this project to the extent of $2,500. We do not want, however, to take this money from the overburdened treasury, but to raise it as a special fund. The following voluntary subscriptions have already been received.
+
+|   |     |
+| ------------------------ | -------: |
+| Tercentenary fund[^1]       | $225.00  |
+| Bishop John Hurst        | 100.00   |
+| Rev. H. C. Bishop        | 25.00    |
+| John E. Milholland       | 15.00    |
+|                          | $365.00  |
+
+ <span class="crisis-title">The Crisis</span> is seeking 100 persons or clubs who will each donate $25 for Pan-Africa. May we hear from our readers immediately?
+
+[^1]:Contributed for the Tercentenary which was given up on account of the War. Contributors who object to this use of the money may have their contributions refunded.
+
+<!-- Similar articles start here -->
+<div  class="clear-wrap"></div>
+
+#### Related Articles
+
+* [The Second Pan-African Congress (1921)](/Volumes/21/06/second-pan-african-congress.html)
+* [Pan-Africa (1921)](/Volumes/21/03/pan-africa.html)
+* [The Pan-African Congresses: The Story of a Growing Movement (1927)](/Volumes/34/08/panafrican_congresses.html)
+* [Manifesto to the League of Nations (1921)](/Volumes/23/01/manifesto.html)
+* [Memorandum to M. Diagne and Others on a Pan-African Congress to be held in Paris in February, 1919 (1919)](/Volumes/17/05/memorandum_to_m_diagne_and_others_on_a_panafrican_congress.html)
+
+<!-- Similar articles end here -->

@@ -1,5 +1,6 @@
 ---
 title: "Article Map"
+description: "Interactive visualization mapping W.E.B. Du Bois's articles from The Crisis magazine, exploring themes, topics, and connections across his 24 years as editor."
 format: 
   html:
     code-fold: true

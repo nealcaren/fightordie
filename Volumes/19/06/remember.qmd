@@ -1,6 +1,6 @@
-
 ---
 title: 'Remember'
+description: "In The Crisis (1920), W.E.B. Du Bois warns that the South's fragile power relies on racial disfranchisement and urges federal defense of democracy."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 The foundations of the present political South are built upon sand.
 It requires only a resolute executive in the White House and a free

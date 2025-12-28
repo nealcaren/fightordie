@@ -1,6 +1,6 @@
-
 ---
 title: 'Murder Will Out'
+description: "In 1920 in The Crisis, W.E.B. Du Bois exposes how Southern race and class power undermine labor and democracy, exploiting both Black and white workers."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 Slowly, too slowly, and yet with inevitable sureness the meaning of the
 South in American civilization is becoming clear to the blindest. T.W.
@@ -59,6 +57,6 @@ finds the South its finest, freest dwelling place.
 * [Prejudice (1911)](/Volumes/02/01/prejudice.html)
 * [Southern Civilization (1916)](/Volumes/13/01/southern_civilization.html)
 * [Black and White Workers (1928)](/Volumes/35/03/black_and_white_workers.html)
-* [To the American Federation of Labor (1924)](/Volumes/28/04/american_federation_of_labor.html)
+* [Loyalty (1917)](/Volumes/14/01/loyalty.html)
 
 <!-- Similar articles end here -->

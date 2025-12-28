@@ -1,6 +1,6 @@
-
 ---
 title: 'Too Rich to be a Nigger'
+description: "In 1933 W.E.B. Du Bois in The Crisis documents how white backlash to Black education and prosperity culminated in lynching, exposing racial terror."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 Forty-odd years ago, when stalwart Young Dendy and slim Martha Duckett were married, their fortune consisted of youth, health and intelligence. They went to housekeeping with cheerful enthusiasm in a one-roomed cabin. Today they live in a spacious home; but the South has robbed them of their gay enthusiasm.
 

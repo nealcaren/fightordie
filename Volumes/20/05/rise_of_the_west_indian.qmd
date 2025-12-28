@@ -1,6 +1,6 @@
-
 ---
 title: 'The Rise of the West Indian'
+description: "1920: W.E.B. Du Bois in The Crisis shows how rising West Indian migration creates new Black political consciousness, labor demands, and race solidarity."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 In 1880 there were 14,017 foreign born Negroes in the United States. This number increased slowly to 19,979 in 1890 and 20,336 in 1900. Then sudvdenly it doubled in a single decade to 40,339 in 1910 and in the last decade they have been arriving at the rate of over 5,000 a year. At present there are probably more than 100,000 foreign born Negroes in the United States, two-thirds of whom are from the West Indies and adjacent parts of South America.
 

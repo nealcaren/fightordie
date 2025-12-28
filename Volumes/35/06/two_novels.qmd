@@ -1,6 +1,6 @@
-
 ---
 title: 'Two Novels'
+description: "The Crisis (1928): W.E.B. Du Bois lauds Nella Larsen's Quicksand as thoughtful race fiction and denounces Claude McKay's Home to Harlem for prurience."
 author:
   - name:
       given: W.E.B.
@@ -22,8 +22,7 @@ format:
     appendix-cite-as: display
 ---
 
-
- *Nella Larsen "Quicksand" (Knopf) Claude McKay "Home to Harlem" (Harper and Brothers)*
+*Nella Larsen "Quicksand" (Knopf) Claude McKay "Home to Harlem" (Harper and Brothers)*
 
 I have just read the last two novels of Negro America. The one I liked; the other I distinctly did not. I think that Mrs. Imes, writing under the pen name of Nella Larsen, has done a fine, thoughtful and courageous piece of work in her novel. It is, on the whole, the best piece of fiction that Negro America has produced since the heyday of Chesnutt, and stands easily with Jessie Fauset's "There is Confusion," in its subtle comprehension of the curious cross currents that swirl about the black American. 
 

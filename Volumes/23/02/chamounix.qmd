@@ -1,5 +1,6 @@
 ---
 title: 'Chamounix'
+description: "In 1921 W.E.B. Du Bois in The Crisis meditates on Chamounix and Mont Blanc, making mountain and mist into spiritual forces that renew human wonder."
 author:
   - name:
       given: W.E.B.

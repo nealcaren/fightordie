@@ -1,6 +1,6 @@
-
 ---
 title: 'The "Jim Crow" Argument'
+description: "In 1913 The Crisis, W.E.B. Du Bois condemns Jim Crow segregation as a racial tyranny that destroys democracy and insists on social equality."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 The chairman of the committee in the Missouri legislature which is
 engineering the "Jim Crow" car bill has

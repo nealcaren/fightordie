@@ -1,6 +1,6 @@
-
 ---
 title: 'Russia, 1926'
+description: "W.E.B. Du Bois in The Crisis (1926) documents Soviet schools, labor, and mass democracy from Moscow, arguing Russia's revolution reshapes his politics."
 author:
   - name:
       given: W.E.B.
@@ -22,7 +22,6 @@ format:
     appendix-cite-as: display
 ---
 
-
 I am writing this in Russia. I am sitting in Revolution Square opposite the Second House of the Moscow Soviets and in a hotel run by the Soviet Government. Yonder the sun pours into my window over the domes and eagles and pointed towers of the Kremlin. Here is the old Chinese wall of the inner city; there is the gilded glory of the Cathedral of Christ, the Savior. Thro' yonder gate on the vast Red Square, Lenin sleeps his last sleep, with long lines of people peering each day into his dead and speaking face. Around me roars a city of two millions---Holy Moscow.
 
 I have been in Russia something less than two months. I did not see the Russia of war and blood and rapine. I know nothing of political prisoners, secret police and underground propaganda. My knowledge of the Russian language is sketchy and of this vast land, the largest single country on earth, I have traveled over only a small, a very small part.
@@ -43,7 +42,7 @@ I stand in astonishment and wonder at the revelation of Russia that has come to 
 * [Ten Years (1927)](/Volumes/34/10/ten_years.html)
 * [The Negro and Communism (1931)](/Volumes/38/09/negro_and_communism.html)
 * [The Negro and Radical Thought (1921)](/Volumes/22/03/negro_and_radical_thought.html)
-* [Prejudice (1927)](/Volumes/34/09/prejudice.html)
 * [Curtains of Pain (1917)](/Volumes/13/04/curtains_of_pain.html)
+* [The South (1917)](/Volumes/13/06/south.html)
 
 <!-- Similar articles end here -->

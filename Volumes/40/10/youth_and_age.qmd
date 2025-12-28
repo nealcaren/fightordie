@@ -1,5 +1,6 @@
 ---
 title: 'Youth and Age at Amenia'
+description: "W.E.B. Du Bois in The Crisis (1933) reports the Amenia Conference urging youth–age dialogue to make race, labor, education central to democratic economic reform"
 author:
   - name:
       given: W.E.B.
@@ -20,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 I was the great Jew, Benjamin Disraeli, who said: "Youth is a blunder; manhood a struggle; old age a regret." And so with blunder and regret and perhaps something of struggle, we came together last month in the second Amenia Conference.
 

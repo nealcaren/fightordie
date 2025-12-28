@@ -1,5 +1,6 @@
 ---
 title: 'Investments'
+description: "W.E.B. Du Bois in The Crisis (1921) warns Black investors to safeguard race capital—demand honesty, responsibility, feasibility and capable leadership."
 author:
   - name:
       given: W.E.B.
@@ -20,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 Colored folk in larger and larger numbers are investing their savings and so far as possible investing in such ways as will best serve the race. This is a most encouraging symptom and one has but to visit the Tidewater of Virginia, or Gary, Indiana, or a dozen other centers to see what Negro capital is doing for the Negro.
 

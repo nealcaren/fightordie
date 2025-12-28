@@ -1,6 +1,6 @@
-
 ---
 title: 'The Inevitable'
+description: "W.E.B. Du Bois in The Crisis (1910) denounces racial 'inevitability'—arguing that treating people by skin color is criminal injustice and social danger."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 In the argument of the prejudiced there is a certain usual ending: "But this is inevitable." For instance, a crime is committed by you. I am lynched. "It is inevitable," cries the bystander, "they were both Negroes." A brown man is admitted to a theatre, misbehaves and is ejected.
 

@@ -1,6 +1,6 @@
-
 ---
 title: 'The Elections'
+description: "In 1915 W.E.B. Du Bois in The Crisis shows how Black voter education determined woman suffrage outcomes and challenged Republican race politics."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 In the general results of last month's elections there is not much to interest the American Negro but there are several significant points. First, the Vote for Woman Suffrage: There is no doubt of the decisive part which the Negro vote played in New Jersey and in Pennsylvania. In New Jersey, as the Philadelphia *North American* says: "The Negro vote defeated the Woman Suffrage amendment in New Jersey. This assertion is made without qualification by suffrage workers and others who have studied the returns of last Tuesday's balloting." On the other hand, in Pennsylvania with its 50,000 Negro voters the woman's cause must have gained a very large proportion of this vote. What made the difference between New Jersey and Pennsylvania? The answer is simple. Pennsylvania took special pains to educate Negro voters on Woman Suffrage. New Jersey did practically nothing. What other result could you expect?
 

@@ -1,6 +1,6 @@
-
 ---
 title: 'Forward Backward'
+description: "W.E.B. Du Bois in The Crisis (1911) critiques how the 'Negro question' stalls democracy and reform—exposing suffrage and moral hypocrisy."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 The nemesis of every forward movement in the United States is the Negro question. 
 
@@ -52,8 +50,8 @@ Of all recent forward movements the Socialists have rung truest on the race ques
 
 * [Woman Suffrage (1915)](/Volumes/11/01/woman_suffrage.html)
 * [President Harding and Social Equality (1921)](/Volumes/23/02/president-harding.html)
+* [A Statement (1919)](/Volumes/19/01/statement.html)
 * [The Justice of Woman Suffrage (1912)](/Volumes/04/05/justice_of_woman_suffrage.html)
 * [Agility (1915)](/Volumes/09/03/agility.html)
-* [Sex Equality (1920)](/Volumes/19/03/sex_equality.html)
 
 <!-- Similar articles end here -->

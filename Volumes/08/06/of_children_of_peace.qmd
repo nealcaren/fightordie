@@ -1,6 +1,6 @@
-
 ---
 title: 'Of the Children of Peace'
+description: "1914: W.E.B. Du Bois in The Crisis condemns war as organized murder, urging mothers and children to demand peace and end death and hunger."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 Come, all my father's children, and sit beside my knee, here with this
 child of mine, and listen:

@@ -1,6 +1,6 @@
-
 ---
 title: 'Coöperation'
+description: "In The Crisis (1920), W.E.B. Du Bois urges Black cooperative stores—profit-sharing by purchase—to protect Black labor and resist corporate trusts."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 Several coöperative efforts are starting among colored people. Probably today, there are fifty or more local efforts. Most of them are sporadic, and will fail. Some few are the efforts of individuals who use the magic word coöperation for stores in which there is not a trace of the coöperation principle.
 
@@ -47,7 +46,7 @@ Don't be afraid. Try the whole coöperative program. Write us.
 * [Coöperation (1922)](/Volumes/23/03/cooperation.html)
 * [Co-Operation (1918)](/Volumes/15/01/cooperation.html)
 * [More Suggestions (1917)](/Volumes/14/05/more_suggestions.html)
+* [Investments (1921)](/Volumes/22/05/investments.html)
 * [Our Economic Future (1928)](/Volumes/35/05/our_economic_future.html)
-* [The Strength of Segregation (1913)](/Volumes/07/03/strength_of_segregation.html)
 
 <!-- Similar articles end here -->

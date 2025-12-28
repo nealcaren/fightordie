@@ -1,6 +1,6 @@
-
 ---
 title: 'Let us Reason Together'
+description: "In 1919 The Crisis, W.E.B. Du Bois urges Black self-defense against lynching while warning against vengeful violence to uphold law, honor, and democracy."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 Brothers we are on the Great Deep. We have cast off on the vast voyage which will lead to Freedom or Death.
 

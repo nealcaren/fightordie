@@ -1,6 +1,6 @@
-
 ---
 title: 'Civilization in the South'
+description: "W.E.B. Du Bois in The Crisis (1917) condemns Southern culture as entwined with lynching, racist labor hierarchies, and anti-democratic barbarism."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 An interesting exchange of letters has appeared in the New York *Nation* in which a Canadian has taken the South severely to task for lynching and for its pretended excuses for lynching. A Texan has hotly replied that the culture of the South must not be accused of dishonesty nor made responsible for southern barbarities. To which the Canadian replies: "If editors, preachers, lawyers, teachers, indeed, all the professional classes, and all business men of consequence, are as genuinely indignant as your correspondent supposes, the influence of these persons must be painfully small. And unfortunately it is the common man who counts. It is he who determines the selection of a governor. It is he whose pressure upon the administration decides whether or not the majesty of the law shall be protected. It is he who pours petroleum upon the body of an unpopular Negro. And the whole point of my contention was that the common man of Georgia or Texas has a very different feeling towards the lyncher from that of common men elsewhere."
 

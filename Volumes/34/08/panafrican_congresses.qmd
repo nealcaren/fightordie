@@ -1,6 +1,6 @@
-
 ---
 title: 'The Pan-African Congresses: The Story of a Growing Movement'
+description: "In 1927 W.E.B. Du Bois in The Crisis reports the Fourth Pan-African Congress, urging African self-rule, education, land rights, labor and racial democracy."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 The *first Pan-African Congress* was held February 19-21, *1919*, in the Grand Hotel, Paris. The executive committee consisted of M. Blaise Diagne, President; Dr. W. E. B. Du Bois, Secretary; Mrs. Ida Gibbs Hunt and Mr. M. E. F. Fredericks. Fifty-seven delegates representing fifteen countries were present and among the speakers were members of the French Parliament, the President of Liberia, a former Secretary of State of Portugal and several other distinguished persons.
 
@@ -155,6 +153,6 @@ A committee to call a Fifth Pan-African Congress and to present to it a plan of 
 * [Memorandum to M. Diagne and Others on a Pan-African Congress to be held in Paris in February, 1919 (1919)](/Volumes/17/05/memorandum_to_m_diagne_and_others_on_a_panafrican_congress.html)
 * [The Second Pan-African Congress (1921)](/Volumes/21/06/second-pan-african-congress.html)
 * [Manifesto to the League of Nations (1921)](/Volumes/23/01/manifesto.html)
-* [Pan-Africa (1921)](/Volumes/21/05/pan-africa.html)
+* [The Second Pan-African Congress (1921)](/Volumes/22/02/second-congress.html)
 
 <!-- Similar articles end here -->

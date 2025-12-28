@@ -1,6 +1,6 @@
-
 ---
 title: 'Signs from the South'
+description: "W.E.B. Du Bois in The Crisis (1919) documents Southern racial violence against Black churches and schools and argues true democracy must include Black citizens."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 There are signs---faint and few, but hopeful---that the South is slowly learning the inevitable lesson that no true democracy can be confined to a sex or a race and live.
 
@@ -47,6 +45,6 @@ is not a friend of mine and of law and order can do it.
 * [In Georgia (1920)](/Volumes/20/03/in-georgia.html)
 * [Scottsboro (1933)](/Volumes/40/05/scottsboro.html)
 * [Deception (1916)](/Volumes/12/02/deception.html)
-* [Slavery (1922)](/Volumes/24/01/slavery.html)
+* [Crime (1921)](/Volumes/22/02/crime.html)
 
 <!-- Similar articles end here -->

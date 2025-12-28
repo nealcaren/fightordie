@@ -1,6 +1,6 @@
-
 ---
 title: 'Our Own Consent'
+description: "In 1913 W.E.B. Du Bois in The Crisis argues that collective protest against Jim Crow and disfranchisement can force America to face racial injustice."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 We should remember that in these days great groups of men are not long oppressed but by their own consent. Oppression costs the oppressor too much if the oppressed stand up and protest. The protest need not be merely physical---the throwing of stones and bullets---if it is mental and spiritual, if it expresses itself in silent, persistent dissatisfaction, the cost to the oppressor is terrific.
 

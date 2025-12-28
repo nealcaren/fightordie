@@ -1,6 +1,6 @@
-
 ---
 title: 'Curtains of Pain'
+description: "In The Crisis (1917), W.E.B. Du Bois portrays pain's 'Curtains' as a crucible of shared humanity and healing that dissolves race and fosters brotherhood."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 Above the Hill where St. John's Divine Cathedral raises its bald and mighty arch, hang the Curtains of Pain, grey and purplish as they sweep the Hill, but glowing above with rare and tender radiance save where the massive shadow falls athwart—the shadow from the Valley of the Shadow.
 

@@ -1,6 +1,6 @@
-
 ---
 title: 'Robert R. Moton'
+description: "W.E.B. Du Bois in The Crisis (1919) criticizes R.R. Moton for sidelining Black troops, abandoning Pan-African work, and enabling racial deference."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 Neither R. R. Moton nor W. E. B. Du Bois had the slightest idea that the other was planning to sail for France, December 1, until they met in Washington on a quest for passports, November 30. They sailed together on the Orizaba and frankly discussed their agreements and disagreements. When they reached France, each went about his own business. 
 

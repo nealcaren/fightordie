@@ -1,6 +1,6 @@
-
 ---
 title: 'Lynchings and Mobs'
+description: "W.E.B. Du Bois in The Crisis (1921) warns that segregating high schools undermines democracy, fosters racial hatred, and weakens education."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 > We anticipate agitation looking towards the establishment of separate High Schools in Indianapolis. In order to discuss the matter intelligently, we are asking you to be so kind as to give us the benefit of your observation, experience and judgment.
 

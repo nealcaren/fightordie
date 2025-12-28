@@ -1,6 +1,6 @@
-
 ---
 title: 'Disenfranchisement'
+description: "W.E.B. Du Bois argues in The Crisis (1926) that Southern disenfranchisement of Black voters undermines democracy and fuels white supremacy."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 Every once in a while the Bourbon South, forgetting that the world has moved, tries its old game of winning by lying. Recently Southern governors have united in protesting that the Negroes of their states are not disfranchised. They can vote, says McRae of Arkansas, "but not many of them do it." "They disfranchise themselves," says Parker of Louisiana. "They do not comply" with the election laws' of the state, says Whitfield of Mississippi. They vote "as often as the whites," says Peay of Tennessee. Their disfranchisement is "self-imposed," says Fields of Kentucky. And so the governors of Georgia, Florida, Virginia, the Carolinas and Texas declare that honest to God they have not nullified the 14th and 15th amendments. 
 

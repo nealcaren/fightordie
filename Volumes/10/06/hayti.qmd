@@ -1,6 +1,6 @@
-
 ---
 title: 'Hayti'
+description: "In 1915 The Crisis W.E.B. Du Bois condemns U.S. intervention in Hayti as racist imperialism, calling citizens to protest and defend sovereignty."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 The United States has violated the independence of a sister state. With absolutely no adequate excuse she has made a white American Admiral sole and irresponsible dictator of Hayti. The anarchy in Hayti is no worse than the anarchy in the United States at the time of our Civil War, and not as great as the anarchy today in Europe. The lynching and murder in Port-au-Prince is no worse than, if as bad as, the lynching in Georgia. Hayti can, and will, work out destiny and is more civilized today than Texas. 
 

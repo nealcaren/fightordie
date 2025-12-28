@@ -1,5 +1,6 @@
 ---
 title: 'Of Boards'
+description: "W.E.B. Du Bois in The Crisis (1921) argues that boards shape democratic action, praising NAACP leaders while exposing race, gender, and leadership tensions."
 author:
   - name:
       given: W.E.B.
@@ -20,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 Graceful interlude at Detroit was the quite unexpected presentation of a loving cup to Miss Ovington, Chairman of the Board, and of a travelling bag to the Secretary, Mr. Johnson, as a token of appreciation by the Branches of their work for the Association.
 

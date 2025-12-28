@@ -1,6 +1,6 @@
-
 ---
 title: 'Radicals and the Negro'
+description: "1925: W.E.B. Du Bois argues in The Crisis that radicals must include Black emancipation—voting, education, labor and anti-lynching—to defend American democracy."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 Most Americans having secured the right to vote, the principle of free public schools, the right to trial by jury and the right to travel without insult are proceeding to use these foundation rights for the purpose of accomplishing economic freedom, more effective education, the abolition of crime and like reforms. Among such liberal and radical thinkers any reference to the right to vote, the abolition of lynching or admission to the public schools sounds archaic. It brings to them no recognition of the fact that these demands should be part of a radical program because their own program for white people has swept so far beyond these initial demands that these demands are no longer "radical"---they are almost reactionary.
 

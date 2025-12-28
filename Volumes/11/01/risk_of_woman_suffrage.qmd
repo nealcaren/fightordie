@@ -1,6 +1,6 @@
-
 ---
 title: 'The Risk of Woman Suffrage'
+description: "W.E.B. Du Bois in The Crisis (1915) warns that woman suffrage threatens social harmony and family roles, arguing gender differences shape politics."
 author: Miller, Kelly
 date: May 1915
 categories: 
@@ -18,9 +18,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
-
 
 The August number of <span class="crisis-title">The Crisis</span> contained an interesting symposium on woman suffrage. The symposium was unusual, in that it involved only one side of a disputed issue. The contributors represent some of the ablest and most thoughtful names among us. They presented, presumably, the best possible putting of the cause espoused. The public, however, should not be misled to suppose that they represent the general attitude of the colored race on that question. Despite the ardent advocacy and plausible pleas of the propagandists, I am wholly unable to see wherein the experiment of woman suffrage promises any genuine advantage to social wellbeing.
 

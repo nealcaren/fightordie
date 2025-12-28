@@ -1,6 +1,6 @@
-
 ---
 title: 'Houston'
+description: "W.E.B. Du Bois in The Crisis (1917) exposes racial injustice in Houston, documenting how disarmed Black soldiers fought back and demanding military justice."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 It is difficult for one of Negro blood to write of Houston. Is not the ink within the very wells crimsoned with the blood of black martyrs? Do they not cry unavenged, saying:---Always WE pay; always WE die; always, whether right or wrong, it is SO MANY NEGROES killed, so many NEGROES wounded. But here, at last, at Houston is a change. Here, at last, white folk died. Innocent, adventitious strangers, perhaps, as innocent as the thousands of Negroes done to death in the last two centuries. Our hands tremble to rise and exult, our lips strive to cry.
 

@@ -1,6 +1,6 @@
-
 ---
 title: 'A Pilgrimage To The Negro Schools'
+description: "In 1929 W.E.B. Du Bois profiles Negro schools, lauds student vitality, critiques institutional shortcomings and Jim Crow in The Crisis."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 These are snapshots, and  they have the validity and weakness of snapshots. I got mere glimpses of these various institutions, and from the glimpses came impressions and judgments. In some cases these impressions are doubtless right, in others, just as surely they are quite wrong. I give them, therefore, not as final judgments, but simply for what they are worth, and | shall be glad to know of any mistakes I may have made. 
 

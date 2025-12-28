@@ -1,6 +1,6 @@
-
 ---
 title: 'American Legion, Again'
+description: "In 1920 The Crisis, W.E.B. Du Bois urges Black veterans to join the American Legion, fight racial exclusion, and defend democracy."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 The American Legion is a national organization destined to be one of the most powerful instruments of public opinion and action in the United States. It is absolutely necessary that Negro soldiers join it and maintain their membership and sit in its councils. 
 

@@ -1,6 +1,6 @@
-
 ---
 title: 'The Burden of Black Women'
+description: "W.E.B. Du Bois in The Crisis (1914) condemns white supremacy's burden on Black women, exposing racial and gender injustice."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 <div class="poem">
 <p class = "verse">Dark daughter of the lotus leaves that watch the Southern sea,</p>

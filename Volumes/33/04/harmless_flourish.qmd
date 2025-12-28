@@ -1,5 +1,6 @@
 ---
 title: '"Harmless Flourish"'
+description: "W.E.B. Du Bois in The Crisis (1927) condemns Georgia disfranchisement and unequal voting power as drivers of graft, corruption, and broken democracy."
 author:
   - name:
       given: W.E.B.

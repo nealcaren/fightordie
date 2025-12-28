@@ -1,6 +1,6 @@
-
 ---
 title: 'A Question of Policy and The Philosophy of Mr. Dole'
+description: "1914 The Crisis: W.E.B. Du Bois rejects conciliatory friends whose silence enables lynching and racial injustice, demanding Black democracy and voting rights."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 ## A Question of Policy
 

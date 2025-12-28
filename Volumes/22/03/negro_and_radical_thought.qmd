@@ -1,5 +1,6 @@
 ---
 title: 'The Negro and Radical Thought'
+description: "1921: W.E.B. Du Bois in The Crisis urges Negro emancipation and labor solidarity at home, warning against uncritical embrace of Russian socialism."
 author:
   - name:
       given: W.E.B.
@@ -20,9 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
-
 
 Mr. Claude McKay, one of the editors of *The Liberator* and a Negro poet of distinction, writes us as follows: 
 

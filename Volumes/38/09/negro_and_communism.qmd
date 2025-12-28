@@ -1,5 +1,6 @@
 ---
 title: 'The Negro and Communism'
+description: "W.E.B. Du Bois in The Crisis (1931) critiques Communist tactics in Scottsboro, defends NAACP leadership, and urges legal, labor, and democratic reform."
 author:
   - name:
       given: W.E.B.
@@ -20,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 The Scottsboro, Alabama, cases have brought squarely before the American Negro the question of his attitude toward Communism.
 

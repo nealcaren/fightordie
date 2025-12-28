@@ -1,6 +1,6 @@
-
 ---
 title: 'Migration'
+description: "W.E.B. Du Bois in The Crisis (1914) warns Oklahoma’s migration to Africa is dangerous: Africa needs capital and skilled leadership, not untrained labor."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 The Oklahoma movement for migration to Africa is a poorly conceived idea and we warn our readers against it. Migration to-day is a serious matter and should be planned and financed on a large scale. It is foolish for individuals with small sums of money and no knowledge of the country to go to Africa. Africa needs capital, not labor; it needs technical knowledge and executive ability and not small farmers.
 

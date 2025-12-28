@@ -1,6 +1,6 @@
-
 ---
 title: 'The Third Battle of Bull Run'
+description: "Du Bois argues in The Crisis (1912) that the third battle at Manassas is for Black education and democracy, funding a school as resistance."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 It is just south of Manassas where Beauregard had his supplies, and east of the first two battlefields, with their ghastly relics and calm and guardian mountains.
 
@@ -72,9 +70,9 @@ And so on till we sleep; in our ears the soft low panting of the engine catching
 #### Related Articles
 
 * [Attention (1918)](/Volumes/15/06/attention.html)
-* [To the Rescue (1916)](/Volumes/12/01/rescue.html)
 * [Girls (1921)](/Volumes/22/05/girls.html)
 * [The South (1917)](/Volumes/13/06/south.html)
 * [Of the Children of Peace (1914)](/Volumes/08/06/of_children_of_peace.html)
+* [The Quadroon (1911)](/Volumes/03/01/quadroon.html)
 
 <!-- Similar articles end here -->

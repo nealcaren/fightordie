@@ -1,6 +1,6 @@
-
 ---
 title: 'The Lynching Industry'
+description: "In 1915 The Crisis, W.E.B. Du Bois documents the 1914 lynching industry, exposing racial violence and the hypocrisy undermining American democracy."
 author:
   - name:
       given: W.E.B.
@@ -23,8 +23,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 <span class="crisis-title">The Crisis</span> is interested to report that the standard American industry
 of lynching colored men has flourished during the year 1914. There is,

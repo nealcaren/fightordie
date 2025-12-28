@@ -1,6 +1,6 @@
-
 ---
 title: 'Allies'
+description: "In 1911 W.E.B. Du Bois in The Crisis critiques U.S. racial injustice, showing hypocrisy when others gain rights abroad while Black citizens are denied democracy"
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 Occasionally we find in
 the columns of a national press, which as a rule regards the wrongs of colored citizens as "stale news" not worth printing, some really splendid argument in support

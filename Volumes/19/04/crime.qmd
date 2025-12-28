@@ -1,6 +1,6 @@
-
 ---
 title: 'Crime'
+description: "In 1920 The Crisis, W.E.B. Du Bois argues racial injustice, poverty, and lack of education foster Black crime—and condemns collective punishment."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 We are not for a moment denying the existence of a criminal class among Negroes, who are guilty of deeds of violence. Every race in the world has such groups. No human efforts have yet been able wholly to rid society of crime. But if of all groups, the American Negro is to be singled out and punished **as a group** for the detestable deeds of its criminals, then this country is staging a race war of the bitterest kind, when the wronged and the innocent fight in desperate defense against the mob and murderer.
 
@@ -50,10 +49,10 @@ What, now, is the attitude of the white South toward Negro crime? First and fore
 
 #### Related Articles
 
+* [Crime (1921)](/Volumes/22/02/crime.html)
 * [Courts and Jails (1932)](/Volumes/39/04/courts_and_jails.html)
 * [The Old Story (1911)](/Volumes/01/03/old_story.html)
 * [Triumph (1911)](/Volumes/02/05/triumph.html)
 * [Mob Tactics (1927)](/Volumes/34/06/mob_tactics.html)
-* [Logic (1913)](/Volumes/06/02/logic.html)
 
 <!-- Similar articles end here -->

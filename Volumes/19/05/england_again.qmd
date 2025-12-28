@@ -1,5 +1,6 @@
 ---
 title: 'England, Again'
+description: "W.E.B. Du Bois in The Crisis (1920) condemns British imperialism and land theft, exposing racial hypocrisy and the betrayal of democratic ideals."
 author:
   - name:
       given: W.E.B.
@@ -20,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 Two criticisms have been made of the editorial on England in the January number of <span style="font-variant:small-caps;">The Crisis</span>. One writer reminds us of the great work of emancipation and the suppression of the slave trade, started by England early in the nineteenth century. The other, would not have us forget the hostile attitude of Irish Americans toward Negroes.
 

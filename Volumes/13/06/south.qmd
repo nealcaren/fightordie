@@ -1,6 +1,6 @@
-
 ---
 title: 'The South'
+description: "W.E.B. Du Bois in The Crisis (1917) chronicles Southern industrial growth, Black labor and migration, and the racial violence shaping a new, fragile order."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 One feels the ground swell and the restless, persistent motion; little new sky-scrapers rise suddenly like warts in little cities; "Suburban developments" crown bare hills; men are beginning to hurry around; and through all and with all are nervous black folk, working, saving, migrating, protesting, or sullenly viewing the land with great, sad eyes, or swaggering bravado. An empire is building here but the building stones are yet as unshaped and bloody as ever went to the making of any cruel and short-lived garden of Babylon.
 

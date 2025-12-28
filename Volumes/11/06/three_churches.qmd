@@ -1,6 +1,6 @@
-
 ---
 title: 'Three Churches'
+description: "In 1916 W.E.B. Du Bois in The Crisis documents how three Negro churches advance education, social uplift, and community democracy through institution-building."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 Nothing will better illustrate the exact work of the Negro church in America than three notable examples: the Dixwell Avenue Congregational Church of New Haven, Conn.; the St. John's A.M.E. Church of Norfolk, Va., and the St. Mark's M.E. Church of New York City.
 

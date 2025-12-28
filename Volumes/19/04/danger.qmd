@@ -1,6 +1,6 @@
-
 ---
 title: 'Danger'
+description: "W.E.B. Du Bois in The Crisis (1920) warns that a bill making 'racial' appeals unmailable would silence Black voices and endanger democracy."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 *The Sterling Bill (S 3,317) has passed the Senate and is before the House. The Graham Bill, (H.R. 11,430), has been favorably reported by the House Committee. Both bills are before the Committee on Rules, and before this reaches our readers, may be before the House. Section 6 of the Graham Bill is as follows:*
 

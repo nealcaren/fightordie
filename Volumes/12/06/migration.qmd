@@ -1,6 +1,6 @@
-
 ---
 title: 'Migration'
+description: "In 1916 W.E.B. Du Bois in The Crisis urges Black southerners to migrate North to escape lynching, gain education and labor opportunities."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 It has long been the custom of colored leaders to advise the colored people to stay in the South. This has been supplemented by the startling information on the part of southern whites
 that they are the "best friends of the colored people," etc.

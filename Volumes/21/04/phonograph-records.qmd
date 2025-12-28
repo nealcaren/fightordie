@@ -1,5 +1,6 @@
 ---
 title: 'Phonograph Records'
+description: "In 1921's The Crisis, W.E.B. Du Bois condemns phonograph firms' racial exclusion of Black musicians and urges a Black-owned recording industry."
 author:
   - name:
       given: W.E.B.

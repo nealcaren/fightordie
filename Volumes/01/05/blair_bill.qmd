@@ -1,6 +1,6 @@
-
 ---
 title: 'The Blair Bill'
+description: "In 1911 W.E.B. Du Bois in The Crisis urges revival of the Blair Bill, arguing federal education aid is essential for democracy and racial justice."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 There is living to-day in the city of Washington a white-haired man of towering physique who was born in New Hampshire in 1834. He was admitted to the bar in 1859 and became a Lieutenant-Colonel in the Civil War. On December 6, 1875, he was elected a representative in the United States Congress, and from June, 1879, to March, 1891, was United States Senator from New Hampshire; and his name is Blair.
 

@@ -1,5 +1,6 @@
 ---
 title: 'Pettiness'
+description: "In a 1920 The Crisis piece, W.E.B. Du Bois condemns petty social squabbles among Black college women in Harlem and warns they undermine community and progress."
 author:
   - name:
       given: W.E.B.
@@ -20,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 "God save us from petty things!" prayed the Wise Man. Once upon a time some of our girls planned a party in honor of Kate. They asked for a list of her friends. Among others Kate suggested Jane. But Mrs. Smith, at whose home the party was to be held, was not "friendly" with Jane and moreover Jane and Sallie who were also invited, did not agree. Mary was asked and telephoned that she would bring her friend Paula along. But Alice thereupon announced that she would not come if Paula came. Rose and Sarah are "not speaking" and so Sarah could not be asked and for similar reasons Berenice vetoed Flora. And so forth.
 

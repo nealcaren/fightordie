@@ -1,6 +1,6 @@
-
 ---
 title: 'The Methodist Church, North'
+description: "In The Crisis 1911, W.E.B. Du Bois condemns the Methodist Church, North for sidelining Black leadership and trading racial justice for reunion with the South."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 In 1844 the general conference of the Methodist Church sitting in New York City, by a vote of 110 to 68, suspended from his functions Bishop Andrew who had come into possession of slaves through marriage.
 

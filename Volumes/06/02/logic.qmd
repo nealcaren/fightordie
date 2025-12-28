@@ -1,6 +1,6 @@
-
 ---
 title: 'Logic'
+description: "In 1913 W.E.B. Du Bois in The Crisis argues race prejudice inevitably leads to disenfranchisement, lynching, and attacks on Black property and education."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 The logical end of hatred is murder. Race prejudice is traditional hatred of human beings. Its end is lynching, war and extermination.
 
@@ -63,8 +62,8 @@ What lies beyond if the nation allows this last attack to succeed?
 
 * [Crime (1920)](/Volumes/19/04/crime.html)
 * [A Statement (1919)](/Volumes/19/01/statement.html)
+* [Crime (1921)](/Volumes/22/02/crime.html)
 * [Heroes (1919)](/Volumes/19/01/heroes.html)
 * [N.A.A.C.P. (1910)](/Volumes/01/02/NAACP.html)
-* [Thirteen (1918)](/Volumes/15/03/thirteen.html)
 
 <!-- Similar articles end here -->

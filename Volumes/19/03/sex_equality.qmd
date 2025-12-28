@@ -1,6 +1,6 @@
-
 ---
 title: 'Sex Equality'
+description: "In 1920 The Crisis, W.E.B. Du Bois denounces AG Palmer for calling interracial marriage \"sex equality,\" exposes hypocrisy and defends Black rights to marry."
 author:
   - name:
       given: W.E.B.
@@ -21,9 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
-
 
 The Department of Justice has discovered a new crime,---"Sex Equality." This is not, as one might presume, equality of men and women, but it is the impudence of a man of Negro descent asserting his right to marry any human being who wants to marry him. With bated breath, Mr. Palmer (who has no power to prevent or punish lynching and who permits peonage to flourish untouched in Arkansas) tells an astonished Senate of this new sign of "Red" propaganda among blacks. Nonsense! Mr. Palmer is mistaken in assuming that it took a world war to make the Negro conscious of such an elementary right. No Negro with any sense has ever denied his right to marry another human being, for the simple reason that such denial would be frank admission of his own inferiority. For a man to stand up and say: I am not physically or morally or mentally fit to marry this woman, who wishes to marry me, would be a horrible admission. No healthy, decent man,---white, black, red, or blue---could for a moment admit so monstrous a fact.
 

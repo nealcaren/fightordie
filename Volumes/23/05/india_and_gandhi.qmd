@@ -1,6 +1,6 @@
-
 ---
 title: 'Gandhi and India'
+description: "W.E.B. Du Bois in The Crisis (1921) profiles Gandhi as a moral leader whose nonviolent non-cooperation advances India’s anti-colonial struggle for Swaraj."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 India has been called a land of saints, the home of religions, and, living up to her well earned reputation, she produces in our own time a man who from sheer impeccability of character, and extraordinary personality, and from loftiness and originality of doctrine and ideas, takes rank at once among the great men of the world whose mark is high enough to make for them a permanent niche in the repository of the benefactors of mankind. 
 

@@ -1,5 +1,6 @@
 ---
 title: 'Charles Young'
+description: "In The Crisis (1921) W.E.B. Du Bois honors soldier Charles Young, chronicling racist Army injustice that sacrificed his career and life for duty and race."
 author:
   - name:
       given: W.E.B.

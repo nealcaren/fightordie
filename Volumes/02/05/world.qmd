@@ -1,6 +1,6 @@
-
 ---
 title: 'The World in Council'
+description: "In 1911 W.E.B. Du Bois in The Crisis praises the First Universal Races Congress as a moral victory for race equality and condemns U.S. racial policy."
 author:
   - name:
       given: W.E.B.
@@ -21,9 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
-
 
 The greatest event of the twentieth century so far was the First Universal Races Congress. It was more significant than the Russian-Japanese war, the Hague Conference or the rise of Socialism. It was significant not on account of the size of its meetings, well attended as they were; not on account of the weight of its utterances, weighty as they were; not on account of the publicity it received or the influence it spread.
 

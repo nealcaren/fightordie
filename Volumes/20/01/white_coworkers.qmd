@@ -1,6 +1,6 @@
-
 ---
 title: 'White Co-Workers'
+description: "In 1920 W.E.B. Du Bois in The Crisis defends interracial NAACP leadership, arguing cooperation with whites advances racial justice and American democracy."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 There is one charge against the N.A.A.C.P. which is made, now openly and now by veiled innuendo, which it is necessary to answer plainly. It is said that this Association is not a Negro association, but is conducted by white people and that, therefore, it cannot effectively serve the cause of Negro freedom. The veiled assumption is that the efforts of the Negroes in the Association are controlled and largely nullified by whites.
 

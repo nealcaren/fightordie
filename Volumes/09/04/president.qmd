@@ -1,5 +1,6 @@
 ---
 title: 'The President'
+description: "W.E.B. Du Bois in The Crisis (1915) sharply criticizes President Wilson's insincere, Jim-Crow-promoting stance that betrays race and democracy."
 author:
   - name:
       given: W.E.B.
@@ -7,7 +8,6 @@ author:
 date: Feb. 1915
 categories: 
   - "Woodrow Wilson"
-  - 
 citation: 
   type: article-journal
   container-title: The Crisis
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 It is difficult to see how any clear-minded American can longer doubt the
 insincerity of President Wilson so far as the American Negro is
@@ -65,6 +63,6 @@ most grievous disappointments that a disappointed people must bear.
 * [Presidential Candidates (1916)](/Volumes/13/01/presidential_candidates.html)
 * [An Open Letter to Woodrow Wilson (1913)](/Volumes/05/05/open_letter.html)
 * [Another Open Letter to Woodrow Wilson (1913)](/Volumes/06/05/open_letter.html)
-* [Mr. Taft (1911)](/Volumes/02/06/taft.html)
+* [The President (1922)](/Volumes/22/01/president.html)
 
 <!-- Similar articles end here -->

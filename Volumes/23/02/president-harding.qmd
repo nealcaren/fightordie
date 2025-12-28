@@ -1,5 +1,6 @@
 ---
 title: 'President Harding and Social Equality'
+description: "W.E.B. Du Bois in The Crisis (1921) condemns Harding's attack on social equality, defends racial equality, education and democracy; warns against segregation."
 author:
   - name:
       given: W.E.B.
@@ -108,8 +109,8 @@ And then, God help us all!
 
 * [Social Equality (1919)](/Volumes/19/01/social_equality.html)
 * [Our Program (1930)](/Volumes/37/05/our_program.html)
+* [The President (1922)](/Volumes/22/01/president.html)
 * [Social Equality (1916)](/Volumes/12/01/social_equality.html)
 * [William Monroe Trotter (1914)](/Volumes/09/02/trotter.html)
-* [Education (1913)](/Volumes/06/02/democrats.html)
 
 <!-- Similar articles end here -->

@@ -1,6 +1,6 @@
-
 ---
 title: 'A Moral Void'
+description: "W.E.B. Du Bois in The Crisis (1917) condemns Southern moral failure as governors ignore anti-Black lynching, praising Ohio's pursuit of justice."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 There can be no doubt bit that the South is lacking in certain moral stamina which must be found among successful, forward-striving people. Recently, for instance, the press of the country went wild over the brave action of Governor Stanley of Kentucky. What then? This same Governor Stanley is apparently going to allow the rescued victim of that mob to be lynched by court under forms of law. There would seem to be no reasonable doubt but that Lube Martin killed Guthrie Diuguid in self-defense after Diuguid had followed him for a year and sworn to kill him. 
 

@@ -1,6 +1,6 @@
-
 ---
 title: 'Christianity Rampant'
+description: "W.E.B. Du Bois argues in The Crisis (1911) that practical Christianity masks imperial cruelty; he links church complicity to wars, conquest, and racial justice."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 How long is practical Christianity going to be able to survive its own hypocrisy? How long is the world going to be able to profess a system of unselfish ethics, of lofty ideal, which it does not pretend to practice? If the augurs of Rome laughed at each other as they passed, how long at the present rate will Christian ministers be able to keep straight faces?
 

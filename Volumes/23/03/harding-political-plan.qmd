@@ -1,5 +1,6 @@
 ---
 title: 'The Harding Political Plan'
+description: "1922 W.E.B. Du Bois in The Crisis condemns Harding's plan to impose white rule and split Black votes, urging voters to protect race, democracy and the Dyer bill."
 author:
   - name:
       given: W.E.B.
@@ -45,9 +46,9 @@ Therefore to our muttons, for the Congressional elections of 1922 approach and w
 #### Related Articles
 
 * [Presidential Candidates (1920)](/Volumes/20/02/presidential-candidates.html)
+* [The President (1922)](/Volumes/22/01/president.html)
 * [Political Rebirth and the Office Seeker (1921)](/Volumes/21/03/political-rebirth.html)
 * [The Negro in Politics (1929)](/Volumes/36/11/negro_in_politics.html)
 * [Political Straws (1923)](/Volumes/26/03/political_straws.html)
-* [An Open Letter to Woodrow Wilson (1913)](/Volumes/05/05/open_letter.html)
 
 <!-- Similar articles end here -->

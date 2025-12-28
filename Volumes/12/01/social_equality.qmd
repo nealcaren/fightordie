@@ -1,6 +1,6 @@
-
 ---
 title: Social Equality
+description: "W.E.B. Du Bois in The Crisis (1916) condemns white Southern efforts to re-enslave and argues education and interracial contact are vital for race equality."
 author:
   - name:
       given: W.E.B.
@@ -22,7 +22,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 The Southern white man who writes the *Outlook* editorials on the Negro said recently: "The social intimacy (or so-called social equality that some disloyal Negroes have craved and the sort of politics that created the evils of the Reconstruction era, have been the two main causes of the race complication." This is as flat a falsehood as could easily be told. The cause of the difficulties in Reconstruction was the determination of the white South to re-enslave Negroes, and the determination of the Negroes to be really free.
 

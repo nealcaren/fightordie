@@ -1,6 +1,6 @@
-
 ---
 title: 'Mr. Taft'
+description: "1911: W.E.B. Du Bois in The Crisis condemns Taft's race policies, rejecting Southern guardianship over Black education, voting rights and justice."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 Mr. William Taft, President of these United States, shows a marvelous facility for getting on the right track and saying the wrong thing. The most glaring example of this is, of course, the tariff, but his attitude toward the American Negro is a . fatal second. Not only is Mr. Taft *particeps minims* with the late Mr. Roosevelt in the crime of Brownsville, but he added to that the Taft Doctrine of recognizing race prejudice, instead of fitness, in Federal appointments. On top of this, and in the face of a record of murder, lynching and burning in this country which has appalled the civilized world and loosened the tongue of many a man long since dumb on the race problem, in spite of this, Mr. Taft has blandly informed a deputation of colored men that any action on his part is quite outside his power, if not his interest.
 
@@ -54,7 +52,7 @@ And we further declare that a man who in the light of the history of this land c
 * [The Election (1912)](/Volumes/05/02/the_election.html)
 * [The Flag (1911)](/Volumes/02/03/flag.html)
 * [Mr. Roosevelt (1912)](/Volumes/04/05/mr_roosevelt.html)
+* [The President (1922)](/Volumes/22/01/president.html)
 * [The President (1915)](/Volumes/09/04/president.html)
-* [William Monroe Trotter (1914)](/Volumes/09/02/trotter.html)
 
 <!-- Similar articles end here -->

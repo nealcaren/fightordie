@@ -1,6 +1,6 @@
-
 ---
 title: 'The Unfortunate South'
+description: "In 1920 W.E.B. Du Bois, in The Crisis, excoriates the white South's racial blindness—blaming Black people for social ills and stifling culture."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 Mankind at best is poor, ignorant, and disappointing. He falls so far below his own ideals that he easily loses faith in himself when he looks squarely into his own eyes. This is a universal truth; but the white South is curiously blinded from seeing it. To it, it is not mankind, but Negro mankind that is poor, ignorant, disappointing, and criminal. There is no use trying to uplift Negroes. Whatever good one may learn and hear of them, is vastly overbalanced by the bad one may learn. If the whites, too, are disappointing, this is because of the presence of the blacks, etc.
 

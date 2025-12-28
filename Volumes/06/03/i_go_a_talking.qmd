@@ -1,6 +1,6 @@
-
 ---
 title: 'I Go A-Talking'
+description: "W.E.B. Du Bois in The Crisis (1913) chronicles a 7,000-mile tour, documenting Black communities, exposing Jim Crow segregation, and urging racial uplift."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 I have made a great journey to three of the four corners of this Western world, over a distance of 7,000 miles, and through thirty States; and I am overwhelmed almost to
 silence over the things I have seen, the persons I have known and the forces I have felt.
@@ -98,10 +97,10 @@ All this by way of preface. In later numbers of <span class="crisis-title">The 
 
 #### Related Articles
 
+* [7000 (1922)](/Volumes/22/01/7000.html)
 * [Westward Ho (1934)](/Volumes/41/05/westward_ho.html)
 * [The South (1917)](/Volumes/13/06/south.html)
 * [Progress (1920)](/Volumes/21/01/progress.html)
-* [The Migration of Negroes (1917)](/Volumes/14/02/migration_of_negroes.html)
-* [Chamounix (1921)](/Volumes/23/02/chamounix.html)
+* [Hail Columbia (1913)](/Volumes/05/06/hail_columbia.html)
 
 <!-- Similar articles end here -->

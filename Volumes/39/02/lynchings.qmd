@@ -1,6 +1,6 @@
-
 ---
 title: 'Lynchings'
+description: "W.E.B. Du Bois in The Crisis (1932) exposes lynching as racial caste violence that thrives on denied education, economic oppression, and lack of human rights."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 There have been this year thirteen or more persons lynched. I say thirteen "or more." It may have been fifteen or eighteen, but I am taking the reports of Tuskegee, which are usually just below the truth. This means that once a month in the United States mobs have seized prisoners, who in every case but one were black, and have murdered them without any attempt to find out whether they were guilty or not.
 

@@ -1,6 +1,6 @@
-
 ---
 title: 'Patient Asses'
+description: "In The Crisis (1930), W.E.B. Du Bois condemns Jan Smuts' racial caste in South Africa, urging Pan‑African solidarity against disfranchisement."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 I met my friend one morning on Seventh Avenue as we were hurrying opposite ways to our work. She asked:
 
@@ -83,6 +82,6 @@ _____________
 * [Light (1912)](/Volumes/03/04/light.html)
 * [Muddle (1916)](/Volumes/13/02/muddle.html)
 * [Pan-Africa (1921)](/Volumes/21/03/pan-africa.html)
-* [Social Equality (1916)](/Volumes/12/01/social_equality.html)
+* [Precept and Practice (1910)](/Volumes/01/02/precept_and_practice.html)
 
 <!-- Similar articles end here -->

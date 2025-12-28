@@ -1,5 +1,6 @@
 ---
 title: 'The Lynching Bill'
+description: "In The Crisis (1921), W.E.B. Du Bois condemns lynching as wholesale murder, urging federal action to defend law, democracy, and Black lives."
 author:
   - name:
       given: W.E.B.
@@ -20,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 Those persons who see technical difficulties and constitutional questions in any effort to stop lynching simply do not realize the enormity of this evil.
 

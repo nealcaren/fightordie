@@ -1,6 +1,6 @@
-
 ---
 title: 'The Black Man and the Wounded World'
+description: "W.E.B. Du Bois, The Crisis (1924), argues income-seeking elites, backed by propaganda and law, sustain racial imperialism and deny labor, democracy, education."
 author:
   - name:
       given: W.E.B.

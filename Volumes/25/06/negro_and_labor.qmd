@@ -1,6 +1,6 @@
-
 ---
 title: 'The Negro and Labor'
+description: "W.E.B. Du Bois in The Crisis (1922) exposes how race and labor intersect: white workers, employers, and imperialism pit Black labor against democracy and rights."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 The usual American attitude toward Negroes in industrial countries like this is two-fold. On the one hand, the white laboring man excludes the Negro from work just as far as possible, particularly in the skilled trades; this is because, as he says, the Negro will work for lower wages and does not deserve the consideration of white labor. The employer, on the other hand, will employ Negroes when he can get them more cheaply than white men, but he considers them less efficient and their presence raises problems. They are, nevertheless, always a possible substitute when white labor becomes too exorbitant in its demands. 
 

@@ -1,6 +1,6 @@
-
 ---
 title: 'The Flood, the Red Cross and the National Guard'
+description: "W.E.B. Du Bois in The Crisis (1928) exposes how Red Cross relief and the Mississippi National Guard coerced Black refugees into labor and racial oppression."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 There were four refugee camps at Vicksburg: Camp Hayes, Camp Juarez, Camp Louisiana and Camp Fort Hill. The lovely hills of the National Park, where once the Confederate and Union armies were camped, made an ideal location high above the muddy River and the little town of Vicksburg.
 

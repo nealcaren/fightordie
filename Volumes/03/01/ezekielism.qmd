@@ -1,6 +1,6 @@
-
 ---
 title: '''Ezekielism'''
+description: "W.E.B. Du Bois, in The Crisis (1911), exposes 'Ezekielism': the prejudiced habit of imputing a group’s flaws to individuals, harming Black life and democracy."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 We offer no apology for coining a new long needed English word. We simply pause to acknowledge our indebtedness to Miss Pratt and Miss Ovington and to recommend our readers to know the former's stories and to commit to memory the last chapter of "Half-a-Man."
 
@@ -68,6 +66,6 @@ Then I know that he has a case of "Ezekielism" and I go.
 * [The Crisis (1910)](/Volumes/01/01/TheCrisis.html)
 * [Curtains of Pain (1917)](/Volumes/13/04/curtains_of_pain.html)
 * [Counsels of Despair (1934)](/Volumes/41/06/counsels_of_despair.html)
-* [Let us Reason Together (1919)](/Volumes/18/05/let_us_reason_together.html)
+* [Browsing Reader - The American Race Problem (1927)](/Volumes/34/07/browsing_reader.html)
 
 <!-- Similar articles end here -->

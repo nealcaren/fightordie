@@ -1,6 +1,6 @@
-
 ---
 title: 'Lynching'
+description: "In 1914 The Crisis, W.E.B. Du Bois exposes how suppressed reporting masks lynching's rise, documenting race-based violence and challenging ineffective reforms."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 We do not blame the people of the United States for being ashamed of lynching, but we have serious doubts if recent methods of curing the evil are going to be really efficacious. We do not refer now to the unjust and dangerous hastening of the trials of accused persons, nor even to the proposed lessening of the penalty for mob murder; but rather to an attempt, deliberate or unintentional, to suppress the truth concerning the present extent of lynching in this land.
 

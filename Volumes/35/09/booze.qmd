@@ -1,5 +1,6 @@
 ---
 title: 'Booze'
+description: "W.E.B. Du Bois exposes white hypocrisy in Republican politics, revealing how race and gender shape democracy in The Crisis, 1928, Booze."
 author:
   - name:
       given: W.E.B.

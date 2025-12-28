@@ -1,5 +1,6 @@
 ---
 title: 'The Liberal South'
+description: "In 1921 The Crisis W.E.B. Du Bois challenges the liberal South and urges white leaders to secure Black rights: vote, end Jim‑Crow travel, education, lynching."
 author:
   - name:
       given: W.E.B.
@@ -20,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 The white Executive Secretary of the Mississippi Welfare League, J.C. Wilson, writes thus to Moorfield Storey:
 
@@ -66,6 +66,6 @@ Here is your chance, Gentlemen. Will you take it?
 * [The Macon Telegraph (1920)](/Volumes/19/03/macon_telegraph.html)
 * [A Statement (1919)](/Volumes/19/01/statement.html)
 * [Light (1912)](/Volumes/03/04/light.html)
-* [Dodging the Issue (1933)](/Volumes/40/02/dodging_the_issue.html)
+* [The Rising Truth (1921)](/Volumes/22/02/rising-truth.html)
 
 <!-- Similar articles end here -->

@@ -1,6 +1,6 @@
-
 ---
 title: 'The Possibility of Democracy in America'
+description: "W.E.B. Du Bois, in The Crisis (1928), argues that American democracy is endangered as Black disfranchisement and white oligarchy reshape voting."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 For several years after the World War I used to talk concerning the results of the War, and to say that notwithstanding the slaughter and the upheaval that always accompany war we were going to have in the world an extension of democracy as a result of the fighting; that the democracy which formerly had ruled in restricted fields - in the election of officials, in the so-called political world - we were going to see extended into industry, so that in regard to work and wages and income, we were going to have democratic control. But I write today to apologize and change my thesis. I was wrong in what I was predicting. I see today without any doubt that instead of the great question of democracy being an extension of democratic control into further territory, the problem that faces us in America and faces the world is the question as to whether we can keep the territory which we thought democracy had already conquered; that, as a matter of fact, in every single culture country there is today a fight to retain democracy, and that reaction and oligarchy are beginning to hold up their heads in the world and to triumph. Moreover, here in the United States, here where we have essayed the greatest experiment in democracy, we have perhaps the greatest failure.
 

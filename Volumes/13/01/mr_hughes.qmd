@@ -1,6 +1,6 @@
-
 ---
 title: 'Mr. Hughes'
+description: "W.E.B. Du Bois in The Crisis (1916) warns Republican promises won't buy Black votes; demands specific racial and democratic commitments from Hughes."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 We are sorry that Mr. Charles Evans Hughes has not found opportunity to answer the courteous and pertinent letter printed on page 16 and sent him nearly a month ago. 
 

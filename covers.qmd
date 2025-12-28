@@ -1,5 +1,6 @@
 ---
 title: 'Covers'
+description: "View covers from The Crisis magazine spanning 1910-1934, featuring iconic artwork and photography that defined the visual identity of the NAACP's official journal during the Harlem Renaissance era."
 ---
 
 ## 1910s

@@ -1,5 +1,6 @@
 ---
 title: 'Southern Representatives'
+description: "In 1920 The Crisis, W.E.B. Du Bois urges Republicans to cut Southern representation to punish Jim Crow disenfranchisement and defend Black voting."
 author:
   - name:
       given: W.E.B.
@@ -20,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 The conditions under which a person is allowed to vote under our government, is left in the hands of the states, with only two limitations:
 

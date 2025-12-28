@@ -1,5 +1,6 @@
 ---
 title: 'The World and Us'
+description: "W.E.B. Du Bois in The Crisis (1922) argues war-driven unemployment, imperialism, and racist labor exclusion undermine democracy and global disarmament."
 author:
   - name:
       given: W.E.B.
@@ -20,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 ## Unemployment
 

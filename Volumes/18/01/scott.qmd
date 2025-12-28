@@ -1,6 +1,6 @@
-
 ---
 title: 'To Mr. Emmett Scott'
+description: "W.E.B. Du Bois in The Crisis (1919) demands that Emmett Scott answer why Black soldiers faced mistreatment in France, exposing racial failures in the military."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 The Negro world and you will bear us witness that The Crisis and its Editor has given you loyal and unselfish co-operation, even at the cost of suspicion and criticism. We have done this, **first**, because the war demanded, and had a right to demand, an unswerving loyalty and unity on the part of the Nation and its constituent groups; and, **secondly**, because we believed that you were doing all that was possible under very difficult circumstances. A visit to Europe has, however, revealed to the Editor a state of affairs in regard to Negro troops which is simply astounding! Some of these facts we are publishing this month and others we shall reveal later. Meantime, we are withholding judgment in your case and simply asking you publicly three questions:
 

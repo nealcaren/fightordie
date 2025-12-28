@@ -1,6 +1,6 @@
-
 ---
 title: 'Wallace Battle, the Episcopal Church and Mississippi: A Story of Suppressed Truth'
+description: "1927: W.E.B. Du Bois in The Crisis exposes Episcopal Church suppression of news about a Mississippi school's murder, indicting racial injustice and betrayal of education"
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 May 20, 1925, was commencement day at Okolona Institute. This is a colored school, supported by the Episcopal Church, in northeastern Mississippi, in and near a small Mississippi town of four thousand inhabitants. The plant is valued at about a quarter of a million dollars and the school has been established twenty-five years. The Governor of the state, H. L. Whitfield, was expected to speak on this occasion. The Episcopal Bishop of Mississippi was to be present and many white and colored notables. 
 

@@ -1,6 +1,6 @@
-
 ---
 title: 'Ireland'
+description: "In a 1916 The Crisis piece, W.E.B. Du Bois urges Black solidarity with Ireland, condemning English oppression and historic racialized labor conflict."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 Few colored people know or realize what Ireland has suffered at the hands of England. On the other hand, the open dislike of Irish and colored people in the United States has given the Irish cause little or no sympathy so far as Negroes are concerned.
 

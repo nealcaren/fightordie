@@ -1,6 +1,6 @@
-
 ---
 title: 'Races'
+description: "In The Crisis (1911), W.E.B. Du Bois argues modern science exposes race myths, urging education and civic reform to erase supposed racial hierarchies."
 author:
   - name:
       given: W.E.B.
@@ -21,9 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
-
 
 If Americans who have long since said the last word con­cerning the races of men and their proper relations will read the papers laid before the First Universal Races Congress, they will realize that America is fifty years behind the scientific world in its racial philosophy.
 

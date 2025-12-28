@@ -1,6 +1,6 @@
-
 ---
 title: 'Deception'
+description: "W.E.B. Du Bois in The Crisis (1916) exposes how the southern press racially deceives readers, false-equating North and South and blocking justice."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 One of the unforgivable things about the southern white press is the
 way in which it deliberately deceives its readers as to the attitude of civilized communities toward Negroes. Even

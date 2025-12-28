@@ -1,6 +1,6 @@
-
 ---
 title: 'The Truth'
+description: "W.E.B. Du Bois, in The Crisis (1911), exposes Southern lies about Black suffrage, documenting racial disfranchisement and threats to democracy."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 To the honest seeker for light the puzzling thing about the Southern situation is the absolutely contradictory statements that are often
 made concerning conditions. For instance, the New York *Evening Post* is taken to task by the Norfolk (Ya.) *Landmark* for assuming that Southern colored men are largely disfranchised. The Virginia paper says "No Negro in Virginia can be kept from voting, provided he measures up to the same requirements for the exercising of that right that the white man must. The laws of the State will protect him in the right should election officials deny it him. That Negroes in this State may freely qualify to vote is fully attested by the fact that thousands of them do vote." Again, the New Orleans Picayune declares with regard to the complaint of disfranchisement. "The arrant and absolute falsity of the specification in regard to the ballot is seen in the fact that every legal bar to the exercise of the ballot applies to whites and Negroes alike. Every elector (voter) must either be able to read and write or, in case of illiteracy, he must pay taxes on ordinary assessable property of the minimum value of $300. These laws are strictly in accordance with the requirements of the Constitution of the United States, and have been so pronounced by the courts."

@@ -1,6 +1,6 @@
-
 ---
 title: 'The Durbar'
+description: "W.E.B. Du Bois, The Crisis (1912), argues the Indian Durbar yields real concessions won by sustained agitation—education, autonomy, and inclusion—unlike mere honors."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 The greatest concession wrung from an arrogant modern nation by a dark-skinned people has just been gained by the Indians from the English. The Durbar was not simply a ceremonial---it was a concession. For a long time England has been trying to conciliate India by social deference to her princes. Few of the great drawing rooms of London have not been graced in recent years by these Eastern potentates, and every public honor has been shown them. All this is an old method with rulers. Even with the American Negro the experiment is continually tried locally and nationally of extravagantly honoring leaders who can be depended on to do the tyrant's will unquestioningly.
 

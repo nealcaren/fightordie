@@ -1,6 +1,6 @@
-
 ---
 title: 'Hail, Columbia!'
+description: "W.E.B. Du Bois in The Crisis (1911) rebukes America's leaders for silence as lynchmob violence, racial prejudice and lawlessness imperil democracy."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 American civilization moves steadily and graciously forward. Consider this gem from a New York morning paper: 
 > Fifth Avenue, near 114th Street, was well filled with men and women as well as crowds of children at play, about 10 o'clock last night, when a young girl accosted another of about her age, and as the latter suddenly darted off along 114th Street started in pursuit shouting: 'Stop her! She's a thief!'   

@@ -1,5 +1,6 @@
 ---
 title: 'West Indian Immigration'
+description: "In The Crisis (1924), W.E.B. Du Bois critiques an immigration bill that bars West Indian migrants, arguing U.S. democracy and racial balance suffer."
 author:
   - name:
       given: W.E.B.
@@ -20,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 The Nordic champions undoubtedly put one over on us in the recent immigration bill. If our West Indian friends had watched more carefully and warned us, we might have been able to take some effective step. As it was, by the simple device of discriminating between self-governing and crown colonies in the British empire, a device whose significance at the time escaped us, immigration to the United States from the West Indies has practically been barred.
 

@@ -1,6 +1,6 @@
-
 ---
 title: 'Our Book Shelf'
+description: "W.E.B. Du Bois in The Crisis (1925) reviews Johnson’s Negro Spirituals and Woofter’s racial study, praising musical heritage and calling for racial fairness."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 <h2>The Book of American Negro Spirituals</h2> 
 

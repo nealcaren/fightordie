@@ -1,6 +1,6 @@
-
 ---
 title: 'The Princess of the Hither Isles'
+description: "In a 1913 fable in The Crisis, W.E.B. Du Bois condemns racial exclusion and imperial greed, showing how white supremacy dehumanizes and destroys."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 Her soul was very beautiful, wherefore she kept it veiled in lightly
 laced Humility, and Fear, out of which peered anxiously ever and anon
@@ -195,6 +193,6 @@ And the Princess leapt.
 * [The Burden of Black Women (1914)](/Volumes/09/01/burden_of_black_women.html)
 * [The Gospel According to Mary Brown (1919)](/Volumes/19/02/gospel.html)
 * [The Quadroon (1911)](/Volumes/03/01/quadroon.html)
-* [Steve (1919)](/Volumes/17/02/steve.html)
+* [A Mild Suggestion (1912)](/Volumes/03/03/mild_suggestion.html)
 
 <!-- Similar articles end here -->

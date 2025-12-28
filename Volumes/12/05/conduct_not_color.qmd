@@ -1,6 +1,6 @@
-
 ---
 title: 'Conduct, Not Color'
+description: "In a 1916 article in The Crisis, W.E.B. Du Bois argues race, not just conduct, shapes Black advancement and exposes limits of color-blind claims."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 A number of papers have been repeating a recent dictum that it is conduct, not color, that counts in the advance  of the Negro race. We wish this were the truth; but it is not the truth and those who say it know that it is not the truth. Conduct counts, but color counts more. It is this that constitutes the Negro problem.
 

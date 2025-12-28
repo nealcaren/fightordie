@@ -1,6 +1,6 @@
-
 ---
 title: 'The True Brownies'
+description: "In 1919 W.E.B. Du Bois in The Crisis announces The Brownies' Book to educate Black children in racial pride, history, and universal brotherhood."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 The Children's <span class = "small-caps"> Crisis</span> has been published annually for nine years and is easily the most popular number of the year---that is, it makes the widest appeal to our readers. This is as it should be. Of course, we are and must be interested in our children above all else, if we love our race and humanity.
 

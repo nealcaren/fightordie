@@ -1,6 +1,6 @@
-
 ---
 title: 'The Boycott'
+description: "1930: W.E.B. Du Bois in The Crisis urges Black consumers to use boycotts as an economic weapon against racial discrimination and labor exclusion."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 Side by side with consumers' cooperation, and of greater initial importance because it can so easily be put into force, stands the boycott as a weapon which American Negroes can use for their economic defense. Boycotting consists of concerted refusal to trade with a particular store or firm until it meets a group's wishes in respect to treatment, conditions of work, personnel, prices, etc. In America, it has to be used with care and under careful legal advice because merchants and manufacturers have so hedged themselves about with laws that boycotters may find themselves open to prosecution for interfering with the firm's profits!
 

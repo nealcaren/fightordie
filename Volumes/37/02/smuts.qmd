@@ -1,6 +1,6 @@
-
 ---
 title: 'Smuts'
+description: "W.E.B. Du Bois in The Crisis (1930) exposes Jan Smuts' white-supremacist vision, arguing it denies Black education, labor, and democratic rights."
 author:
   - name:
       given: W.E.B.
@@ -21,9 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
-
 
 Jan Smuts, former Prime Minister of the Union of South Africa, has been traveling in England and is now in the United States. He is a man whom many regard as a great international statesman, but for us American Negroes, he has one intolerable defect which we more clearly than other peoples can see will forever keep him from true greatness.
 

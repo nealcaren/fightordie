@@ -1,6 +1,6 @@
-
 ---
 title: 'Again Howard'
+description: "In 1932 W.E.B. Du Bois in The Crisis denounces sabotage of Howard's finances by trustees and white real-estate interests, urging reform in Black education."
 author:
   - name:
       given: W.E.B.
@@ -21,9 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
-
 
 We trust that none of the friends of Negro education will be disconcerted at the smoke-screen now being industriously spread over the situation at Howard University. Despite widespread and anonymous accusations printed in the Negro and white press, neither the ability nor integrity of the president of Howard University is at all in question. The real question is the conduct of the office of the secretary-treasurer and the plans of the Washington Real Estate Trust. Despite three years' effort, Dr. Mordecai Johnson has not been able to get a modern budget system established at Howard University. His every effort in this line has been balked and sabotaged, and it is as true today as it was when he came to the presidency, that, the trustees do not know and do not attempt to find out just what the income of Howard University is, and exactly how it is spent.
 

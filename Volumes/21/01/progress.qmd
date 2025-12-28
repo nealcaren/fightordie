@@ -1,5 +1,6 @@
 ---
 title: 'Progress'
+description: "In The Crisis (1920) W.E.B. Du Bois says Black selfhood, education, labor organizing and business enterprise fueled rapid racial progress since emancipation."
 author:
   - name:
       given: W.E.B.
@@ -20,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 The progress of the colored American in the last five years has been the most marvelous of any period since emancipation. Visits and investigations North, East, South and West show an activity, a persistence and an accomplishment which is astounding. New ownership of land, new and beautiful homes, new business enterprises, larger amounts of capital seeking investment, new appreciation of and joining with labor unions, new kinds of better paid work and a larger number of children pressing into the schools is the almost universal story.
 

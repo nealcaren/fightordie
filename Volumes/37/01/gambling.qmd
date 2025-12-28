@@ -1,6 +1,6 @@
-
 ---
 title: 'Gambling'
+description: "In The Crisis (1930), W.E.B. Du Bois condemns Wall Street's loaded-dice gambling, arguing it destroyed credit, labor and faith in American capitalism."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 As compared with crap-shooting, always supposed to be the peculiar diversion of Negroes, nine-tenths of the operations of the Wall Street Stock Exchange favors craps, by every consideration of morals and social welfare. Unless the dice are loaded, crap-shooting is a game of pure chance, and the utmost that can happen is the transfer of actual wealth from one gambler to another. But in Wall Street, we have something much more complicated and much less defensible.
 
@@ -57,7 +56,7 @@ The end is not yet. The President may repudiate all his individualism and deny t
 * [Investments (1921)](/Volumes/22/05/investments.html)
 * [Our Economic Future (1928)](/Volumes/35/05/our_economic_future.html)
 * [Our Economic Peril (1930)](/Volumes/37/03/our_economic_peril.html)
+* [The Second Birthday (1912)](/Volumes/05/01/second_birthday.html)
 * [Sunny Florida (1928)](/Volumes/35/06/sunny_florida.html)
-* [Real Estate in New York (1914)](/Volumes/08/03/real_estate_in_new_york.html)
 
 <!-- Similar articles end here -->

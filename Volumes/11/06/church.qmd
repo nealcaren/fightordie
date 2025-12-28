@@ -1,6 +1,6 @@
-
 ---
 title: 'The Church'
+description: "W.E.B. Du Bois in The Crisis (1916) criticizes the white church's hypocrisy and urges the Black church to lead democratic social uplift."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 This is a critical day for the Christian church. The white church of Christ finds itself in a position which gives the lie to many of its finest professions. It is a church of
 Peace; and its followers are at war. It is a church of the Masses in

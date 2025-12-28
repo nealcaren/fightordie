@@ -1,6 +1,6 @@
-
 ---
 title: 'Blessed Discrimination'
+description: "1913: W.E.B. Du Bois in The Crisis argues that racial discrimination cripples education, business and health — it harms Black progress, not aids it."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 A good friend sends us this word:
 > As an optimist of <span class="crisis-title">The Crisis</span> persuasion, I find myself more or less frequently engaged in arguments on the eternal race question. Here is an argument I am often called upon to meet: "Jim Crow" laws make us save money; discrimination makes us appreciate and patronize our own; segregation gives our business men a chance; separate schools give our girls and boys something to work for. Possibly there are many doubtful minds who would be benefited by a word from you on this subject through the columns of <span class="crisis-title">The Crisis</span>.

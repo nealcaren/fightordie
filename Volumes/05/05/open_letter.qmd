@@ -1,6 +1,6 @@
-
 ---
 title: 'An Open Letter to Woodrow Wilson'
+description: "In 1913 W.E.B. Du Bois in The Crisis urges Woodrow Wilson to defend Black civil rights—voting, education, labor access—and end lynching to save democracy."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 SIR:
 

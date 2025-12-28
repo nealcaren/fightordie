@@ -1,6 +1,6 @@
-
 ---
 title: 'Tenements'
+description: "W.E.B. Du Bois in The Crisis (1916) exposes philanthropic tenement plans as racial segregation, urging democracy, fair sites, and transparency."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 We sincerely trust that individuals and organizations friendly to the
 Negro are not going to be led into segregation schemes and ghetto plans

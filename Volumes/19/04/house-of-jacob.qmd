@@ -1,6 +1,6 @@
-
 ---
 title: 'The House of Jacob'
+description: "W.E.B. Du Bois in The Crisis (1920) denounces Southern racial lawlessness—lynching, disfranchisement, failing schools and child labor that betray democracy."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 Where is the chief seat of lawlessness in this land?
 

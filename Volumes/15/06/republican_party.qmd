@@ -1,6 +1,6 @@
-
 ---
 title: 'The Republican Party'
+description: "In The Crisis (1918), W.E.B. Du Bois condemns the Republican Party as anti-Black and reactionary, exposing racial exclusion in party politics."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 If any Negro has a lingering hope that the Republican Party has learned anything recently let him straightway give it up. The Republican National Committee at St. Louis deliberately defeated Perry Howard, a Mississippi Negro, for a place among its members and elected a Negro-hating "Lily White" sent there by a convention which the committee itself acknowledged was illegal.
 

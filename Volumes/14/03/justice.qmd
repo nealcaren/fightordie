@@ -1,6 +1,6 @@
-
 ---
 title: 'Justice'
+description: "In 1917 The Crisis, W.E.B. Du Bois condemns the Justice Department's racial hypocrisy, ignoring lynching and disfranchisement while policing alleged German plots."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 A gentleman, unnamed, but with a card that assured us that he represented the Department of Justice at Washington, has called upon <span class="crisis-title">The Crisis</span>. He said he was looking for "two German girls" said to be employed here, and he incidentally read us a lecture on loyalty and told us that the visit was "confidential." 
 

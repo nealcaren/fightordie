@@ -1,6 +1,6 @@
-
 ---
 title: 'Marxism and The Negro Problem'
+description: "W.E.B. Du Bois in The Crisis (1933) argues Marxism explains class exploitation but must be adapted to U.S. race and labor realities to protect Black democracy."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 Karl Marx was a Jew born at Treves, Germany, in March, 1818. He came of an educated family and studied at the Universities of Bonn and Berlin, planning first to become a lawyer, and then to teach philosophy.
 

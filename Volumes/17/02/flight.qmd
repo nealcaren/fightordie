@@ -1,5 +1,6 @@
 ---
 title: 'The Flight into Egypt'
+description: "In 1919 The Crisis, W.E.B. Du Bois reimagines the Holy Family as Black refugees, exposing racial oppression and the quest for freedom."
 author:
   - name:
       given: W.E.B.

@@ -1,5 +1,6 @@
 ---
 title: 'Politics and Power'
+description: "1921: W.E.B. Du Bois in The Crisis exposes how disfranchisement and racist tax and school policies in Mississippi deny Black education, democracy, and services."
 author:
   - name:
       given: W.E.B.
@@ -48,6 +49,6 @@ This is the cost of disfranchisement in Mississippi.
 * [The Cost of Education (1911)](/Volumes/03/02/cost_of_education.html)
 * [Education (1911)](/Volumes/01/04/education.html)
 * [Employment (1932)](/Volumes/39/09/employment.html)
-* [Public Schools (1916)](/Volumes/12/01/public_schools.html)
+* [The White Primary (1911)](/Volumes/01/05/white_primary.html)
 
 <!-- Similar articles end here -->

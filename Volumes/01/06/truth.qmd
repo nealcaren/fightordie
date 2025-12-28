@@ -1,6 +1,6 @@
-
 ---
 title: 'The Truth'
+description: "In 1911 W.E.B. Du Bois in The Crisis urges telling the full truth about race and Southern injustice, warning that silence fuels oppression."
 author:
   - name:
       given: W.E.B.
@@ -22,8 +22,6 @@ format:
     appendix-cite-as: display
 ---
 
-
-
 There is to-day a tendency among colored people and among their earnest friends to tell the half-truth concerning the situation of the colored people and to condemn those who seek to tell the whole truth. Such people rightly herald the recent peonage decision of the Supreme Court, they commend the saving of Pink Franklin's life, they point to many other instances of help and good will on the part of Southern whites.
 
 These things are true and deserve wide currency; to conceal or neglect them would be wrong. But they are not the whole truth, and when by silence or intimation the world is given to believe by such well-meaning persons that they are the whole truth, a great and dangerous injustice is perpetrated. With the peonage decision we must not forget the shame of the Berea decision; with the saving of one life we cannot forget the widespread and crying injustice of Southern courts and methods of punishment; with the fact of the rise here and there of Southern white friends of the black men. it is a dangerous falsehood to overlook the tireless and daily assault of enemies of humanity like Judge Harris Dickson.
@@ -37,10 +35,10 @@ There are friends of black folk in this land. There is continual advance in huma
 
 #### Related Articles
 
+* [The Rising Truth (1921)](/Volumes/22/02/rising-truth.html)
 * [The Truth (1912)](/Volumes/05/02/truth.html)
 * [Pink Franklin (1911)](/Volumes/01/04/pink.html)
 * [A Statement (1919)](/Volumes/19/01/statement.html)
 * [The Liberal South (1921)](/Volumes/21/06/liberal-south.html)
-* [Peonage (1927)](/Volumes/34/09/peonage.html)
 
 <!-- Similar articles end here -->

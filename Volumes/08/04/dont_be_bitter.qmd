@@ -1,6 +1,6 @@
-
 ---
 title: 'Don''t Be Bitter'
+description: "1914: W.E.B. Du Bois in The Crisis rejects pleas to 'not be bitter,' arguing Black Americans' calm demands for voting rights, racial justice, and dignity."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 Is it not singular that so many white folk in advising black folk---and the ancient industry of advising blacks is booming just now---are careful to say, first and last: "Don't be bitter!" Why is there this insistence on the necessity of a sweet and even temper as an asset in life? Manifestly it is because most Americans who know or who begin faintly to realize the difficulties, complications and insults of a dark man's life today cannot imagine themselves suffering such wrongs without resorting to dynamite or suicide.
 

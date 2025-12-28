@@ -1,6 +1,6 @@
-
 ---
 title: 'We Should Worry'
+description: "W.E.B. Du Bois in The Crisis (1917) warns white leaders: Black military service or mass industrial migration will boost Black labor power and curb lynching"
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 The American Negro more unanimously than any other American group has offered his services in this war as officer and soldier. He has done this earnestly and unselfishly, overlooking his just resentment and grievous wrongs. 
 
@@ -70,7 +68,7 @@ Take your choice, gentlemen.
 * [Loyalty (1917)](/Volumes/14/01/loyalty.html)
 * [Votes for Negroes (1921)](/Volumes/21/03/votes-for-negroes.html)
 * [Officers (1917)](/Volumes/14/02/officers.html)
+* [The President (1922)](/Volumes/22/01/president.html)
 * [Our Special Grievances (1918)](/Volumes/16/05/our_special_greivances.html)
-* [The Reward (1918)](/Volumes/16/05/reward.html)
 
 <!-- Similar articles end here -->

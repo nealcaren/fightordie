@@ -1,5 +1,6 @@
 ---
 title: 'Byrnes'
+description: "W.E.B. Du Bois in The Crisis (1919) condemns Rep. Byrnes for defending disenfranchisement and white supremacist violence, urging legal action"
 author: Du Bois, W.E.B.
 date: Apr. 1919
 categories: 
@@ -17,7 +18,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 You have, perhaps, noticed our double-page advertisement in the *Congressional Record,* due to the kindness of our good friend James Francis Byrnes, of South Carolina. Congressman Byrnes is from the Second District and a confrère of the late Congressman James W. Ragsdale, who died suddenly during the Washington riots.
 

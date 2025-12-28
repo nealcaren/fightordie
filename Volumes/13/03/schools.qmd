@@ -1,6 +1,6 @@
-
 ---
 title: 'Schools'
+description: "W.E.B. Du Bois in The Crisis (1917) defends Black secondary and higher schools, denouncing philanthropic gatekeeping that threatens Black education."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 What is to become of the secondary and higher Negro schools that are
 not smiled upon by the ring of rich

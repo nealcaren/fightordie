@@ -1,6 +1,6 @@
-
 ---
 title: 'An Old Folks'' Home'
+description: "W.E.B. Du Bois in The Crisis (1915) documents Black-led charity: race-based philanthropy and old-folks' homes sustaining elders while urging public support."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 It is noticeable that the number of colored people asking charity in hard times like the present is much less than the great poverty of the race would lead one to expect. The reason for this is the large amount of unrecorded and personal charity that takes place inside the race lines: the cheerful helping of neighbors, the adoption of children and the care of the old. In the latter work Negro charity has become institutional and the old folks' home is perhaps the most characteristic Negro charity.
 

@@ -1,6 +1,6 @@
-
 ---
 title: 'The Vigilance Committee: A Call To Arms'
+description: "W.E.B. Du Bois in The Crisis (1913) urges federating local vigilance committees into NAACP branches to combat racial discrimination via law, education, and civic action."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 There is scarcely a community in the United States where a group of colored people live that has not its vigilance committee. Sometimes this committee is organized and has a name indicating its function. Sometimes it is organized for other purposes and becomes a vigilance committee on occasion. In other cases the committee has no regular organization or membership; it springs into being on occasion, but consists of approximately the same group of persons from year to year.
 

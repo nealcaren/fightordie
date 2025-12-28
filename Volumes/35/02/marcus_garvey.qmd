@@ -1,6 +1,6 @@
-
 ---
 title: 'Marcus Garvey and the NAACP'
+description: "W.E.B. Du Bois, in The Crisis (1928), clears up Garvey–NAACP myths, records their clashes, and urges a truthful pursuit of Black democracy."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 Many persons are under the impression that the N.A.A.C.P. has been the persistent enemy of Marcus Garvey. This is due to repeated accusations published in the *Negro World* without the slightest basis of fact. For the sake of the truth, it may be well to recall certain matters of clear record.
 

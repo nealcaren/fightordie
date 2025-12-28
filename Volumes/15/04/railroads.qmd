@@ -1,6 +1,6 @@
-
 ---
 title: 'The Railroads'
+description: "In 1918 The Crisis, W.E.B. Du Bois argues federal control of railroads can end Jim Crow, open union jobs to Black workers, and strengthen Black democracy."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 The Railroads.
 

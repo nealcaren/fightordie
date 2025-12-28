@@ -1,6 +1,6 @@
-
 ---
 title: 'The Races in Congress'
+description: "In 1911 W.E.B. Du Bois in The Crisis reports on the First Universal Races Congress, urging education, interracial understanding, and global action on race."
 author:
   - name:
       given: W.E.B.
@@ -22,10 +22,7 @@ format:
     appendix-cite-as: display
 ---
 
-
-
-
- ## I.---What Was the Races Congress? 
+## I.---What Was the Races Congress? 
 
 Several years ago at Eisenach, Germany, Dr. Felix Adler suggested a congress of the races of the world. No attempt was made to follow up this idea for several years; then the Ethical Culture Society permitted one of its best organizers, Gustave Spiller, to devote two years to the organizing of such a congress. It was planned to hold the congress in the summer of 1911. Extraordinary difficulties faced the organizer. He had' no funds; he had no special clientele to appeal to, and he was embarking upon what large numbers of practical people thought a fanciful, if not an impossible, attempt. Then, too, other people feared and opposed it for political and social reasons. Nevertheless, Mr. Spiller went to work.
 

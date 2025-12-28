@@ -1,5 +1,6 @@
 ---
 title: 'The War History'
+description: "In 1919 The Crisis, W.E.B. Du Bois urges readers to preserve records documenting Black soldiers' labor, service, and race relations in WWI."
 author:
   - name:
       given: W.E.B.
@@ -20,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 We are happy to announce that <span class="crisis-title">The Crisis'</span> "History of the Negro in the Revolution of 1914-1918" is progressing favorably. Two volumes are already planned. The first will be a popular narrative history, well illustrated, by Dr. DuBois, to be issued next spring; supporting this will be a volume of war documents, edited by Edward C. Williams, Librarian of Howard University and formerly Librarian of Western Reserve University, to follow in 1921. 
 

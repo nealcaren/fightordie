@@ -1,0 +1,42 @@
+---
+title: 'Crime'
+description: "W.E.B. Du Bois in The Crisis (1921) rejects the myth of Negro crime, cites poverty, ignorance, unjust courts, and urges reforms in labor, schools, justice."
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
+date: Jun. 1921
+categories: 
+  - ""
+citation: 
+  type: article-journal
+  container-title: The Crisis
+  volume: 22
+  issue: 2
+  page: 57
+google-scholar: true
+
+format:
+  html:
+    toc: false
+    appendix-cite-as: display
+---
+
+If once, then a thousand times white Southerners fling at us: why do you not denounce Negro crime as well as white lynching?
+
+Because there is no "Negro" crime. There is crime committed by Negroes and by white men; by Southerners and Northerners; by yellow and red, Englishmen, Frenchmen, Germans and Russians; and against this frightful failure of civilization and religion, of culture, humanity and decency, we continually inveigh. We hate delinquency, cruelty and outrage with perfect hatred; and when it is done by blacks, the hurt and shame go deeper than in any other case, not only because we know that innocent blacks will suffer more than the guilty, but because our ideals for Negroes are high.
+
+We welcome and follow with passionate haste any act or law that will prevent crime. But will lynching do it? Only beasts like Tillman say that. Will savage 75 year sentences and loathsome jails and dungeons do it? They haven't. On the other hand, what causes crime---Negro and white? Every school boy knows: poverty, ignorance, ill-health, unjust courts, unintelligent sentences, unspeakable jails. Who can remedy these and prevent crime? Can we blacks secure better wages in labor, can we abolish child labor and protect mothers, can we secure decent schools, can we protect health, elect good judges and officials? We can at least try, and through the N.A.A.C.P. and <span class="crisis-title">The Crisis</span> we *are* trying day in and day out to do this.
+
+<!-- Similar articles start here -->
+<div  class="clear-wrap"></div>
+
+#### Related Articles
+
+* [Crime (1920)](/Volumes/19/04/crime.html)
+* [Crime and Lynching (1912)](/Volumes/03/03/crime_and_lynching.html)
+* [Lynching (1927)](/Volumes/33/04/lynching.html)
+* [Causes of Lynching (1931)](/Volumes/38/04/causes_of_lynching.html)
+* [Mob Tactics (1927)](/Volumes/34/06/mob_tactics.html)
+
+<!-- Similar articles end here -->

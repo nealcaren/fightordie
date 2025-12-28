@@ -1,6 +1,6 @@
-
 ---
 title: 'Dives, Mob, and Scab'
+description: "W.E.B. Du Bois in The Crisis (1920) indicts industrialists and racist labor practices for driving Black workers to scab, lynching, and class conflict."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 He sat in a massive arm-chair, before a carved mahogany desk. Beneath him lay a Turkish rug, and behind him, through the window, one saw his steel mills, minting millions. 
 

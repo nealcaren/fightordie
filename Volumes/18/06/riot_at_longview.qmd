@@ -1,6 +1,6 @@
-
 ---
 title: 'The Riot at Longview, Texas'
+description: "In a 1919 The Crisis article, W.E.B. Du Bois documents the Longview, Texas race riot, exposing white violence and Black self-defense amid lawlessness."
 author: National Association for the Advancement of Colored People
 date: Apr. 1919
 categories: 
@@ -18,7 +18,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 Comparatively few people know of the race riot which was a precursor of the more serious outbreaks in Washington, Chicago and Knoxville. Last June, at Longview, in the state of Texas of ill-fame, a colored man, Lemuel Walters, was arrested and jailed on the charge of having been found in a white woman's room. On the 22nd of June, Professor Jones, one of the leading colored citizens of Longview, stopped at the jail to deliver the colored papers, for which he was agent, and was told by three colored and one white inmate that Walters had been spirited away by a mob of white men. Subsequently the *Longview Leader* spoke of an unidentified Negro who had been found shot to death near the railroad. This Negro, Professor Jones believed to have been Lemuel Walters.
 

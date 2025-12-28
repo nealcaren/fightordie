@@ -1,6 +1,6 @@
-
 ---
 title: 'Mencken'
+description: "W.E.B. Du Bois in The Crisis (1927) rebuts Mencken, arguing racial bias and white readership limit Black artists' themes while the Renaissance endures."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 Many colored people have undertaken to answer Mr. Mencken's remarks about Negro artists. Most of them apparently make the mistake of questioning his attitude rather than his facts. There can be no question of H. L. Mencken's attitude toward Negroes. It is calmly and judiciously fair. He neither loves nor hates them. He has a predilection for men. 
 

@@ -1,6 +1,6 @@
-
 ---
 title: 'Hawaii'
+description: "W.E.B. Du Bois in The Crisis (1932) warns that economic exploitation, racial law bias, and U.S. military power threaten democracy and race relations in Hawaii."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 The assault on a white woman in Hawaii brings this whole volcanic structure to the world's notice. Hawaii is a volcano and a series of volcanoes in more senses of the word than one. It is near the exact center of the Pacific Ocean. It was settled in prehistoric times by dark Mongolians with many evidences of a strong Negro strain. It was discovered by Captain James Cook in 1778. A company of missionaries landed there in 1820 and in 1823 came the great revival when the Queen and one-fifth of the population were converted to Christianity.
 

@@ -1,6 +1,6 @@
-
 ---
 title: 'The Dunbar National Bank'
+description: "W.E.B. Du Bois, in The Crisis (1928), argues the Dunbar National Bank could democratize capital and empower Black leaders to advance racial democracy via credit."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 The establishment of the Dunbar National Bank in New York City, may be simply another bank; but it might prove to be an epoch making event for the darker races of the world. Here is a bank with over a million dollars of capital and surplus, with a colored and white directorate and a colored and white personnel. Even though white business men and capital predominate in numbers and authority, yet the possibilities of such an organization are tremendous.
 

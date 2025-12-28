@@ -1,6 +1,6 @@
-
 ---
 title: 'Senators'' Records'
+description: "In 1914 W.E.B. Du Bois in The Crisis exposes Senate suffrage debates invoking race, naming senators who backed disfranchisement and threatened democracy."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 During the debate in the Senate of the United States on the joint
 resolution proposing to amend the Constitution by extending the suffrage

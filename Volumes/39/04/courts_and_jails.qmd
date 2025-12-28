@@ -1,6 +1,6 @@
-
 ---
 title: 'Courts and Jails'
+description: "In The Crisis (1932), W.E.B. Du Bois condemns Black churches' and charities' neglect of incarcerated Black people and exposes race-based injustice in courts."
 author:
   - name:
       given: W.E.B.
@@ -22,7 +22,6 @@ format:
     appendix-cite-as: display
 ---
 
-
 It is to the disgrace of the American Negro, and particularly of his religious and philanthropic organizations, that they continually and systematically neglect Negroes who have been arrested, or who are accused of crime, or who have been convicted and incarcerated.
 
 One can easily realize the reason for this: ever since Emancipation and even before, accused and taunted with being criminals, the emancipated and rising Negro has tried desperately to disassociate himself from his own criminal class. He has been all too eager to class criminals as outcasts, and to condemn every Negro who has the misfortune to be arrested or accused. He has joined with the bloodhounds in anathematizing every Negro in jail, and has called High Heaven to witness that he has absolutely no sympathy and no known connection with any black man who has committed crime.
@@ -41,7 +40,7 @@ For a race which boasts its Christianity, and for a Church which squanders its m
 * [Crime (1920)](/Volumes/19/04/crime.html)
 * [The Old Story (1911)](/Volumes/01/03/old_story.html)
 * [Martyrs (1920)](/Volumes/21/02/martyrs.html)
+* [Crime (1921)](/Volumes/22/02/crime.html)
 * [Anarchism (1912)](/Volumes/04/04/anarchism.html)
-* [Logic (1914)](/Volumes/09/03/logic.html)
 
 <!-- Similar articles end here -->

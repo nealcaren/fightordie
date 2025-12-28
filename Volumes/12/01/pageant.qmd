@@ -1,6 +1,6 @@
-
 ---
 title: 'The Pageant'
+description: "W.E.B. Du Bois in The Crisis (1916) depicts a 1,250‑person Pageant marking the AME Church centennial and asserting Black civic pride."
 author:
   - name:
       given: W.E.B.
@@ -22,8 +22,6 @@ format:
     appendix-cite-as: display
 ---
 
-
-
 One hundred years ago, in 1816, the first General Conference of the African Methodist Episcopal church met in Philadelphia. The first movement toward the founding of this church took place in 1787 when Richard Allen and Absalom Jones, resenting the treatment they had received in the white Methodist church, withdrew. Jones became the first colored Episcopal priest in America and Allen founded the African Methodist Episcopal church. It was not, however, until a generation later that there were enough churches and conferences to call a General Conference of this church. It is fitting that its Centennial Conference should be celebrated in some striking manner and the General Conference Committee has asked the Horizon Guild to present again the Pageant, the "Star of Ethiopia."
 
 This pageant has been given in New York and in Washington with striking success. It is planned to make it even more successful in Philadelphia. Twelve hundred and fifty actors and singers are to be used and the pageant will be presented three nights, Tuesday, Thursday and Saturday, May 16, 18 and 20, at the great Convention Hall which seats 15,000 people. There can be no doubt that this will be a notable occasion.
@@ -33,7 +31,7 @@ This pageant has been given in New York and in Washington with striking success.
 
 #### Related Articles
 
-* [The Pageant (1916)](/Volumes/12/01/pageant.html)
+* [The Pageant (1916)](/Volumes/12/01/negro_college.html)
 * [The National Interracial Conference (1929)](/Volumes/36/02/national_interracial_conference.html)
 * [Missionaries (1929)](/Volumes/36/05/missionaries.html)
 * [The Methodist Church, North (1911)](/Volumes/01/05/methodist_church_north.html)

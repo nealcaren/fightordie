@@ -1,6 +1,6 @@
-
 ---
 title: 'Logic'
+description: "In The Crisis 1914, W.E.B. Du Bois condemns arrests of unemployed Black men as racist labor exploitation that criminalizes race and undermines democracy."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 One of the interesting ways of settling the race problem comes to the
 fore in this period of unemployment among the poor. In Waterloo, Ky.,

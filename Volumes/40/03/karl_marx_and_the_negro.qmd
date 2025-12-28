@@ -1,6 +1,6 @@
-
 ---
 title: 'Karl Marx and the Negro'
+description: "In 1933 W.E.B. Du Bois in The Crisis argues Karl Marx grasped labor and opposed slavery, and his theory sheds light on the Black struggle for democracy."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 Without doubt the greatest
 figure in the science of modern

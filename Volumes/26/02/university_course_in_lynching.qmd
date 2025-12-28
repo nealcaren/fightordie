@@ -1,6 +1,6 @@
-
 ---
 title: 'A University Course in Lynching'
+description: "In 1923 W.E.B. Du Bois in The Crisis condemns university 'courses' that normalize lynching, exposing racial injustice and corruption of American education."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 We are glad to note that the University of Missouri has opened a course in Applied Lynching. Many of our American Universities have long defended the institution, but they have not been frank or brave enough actually to arrange a mob murder so that the students could see it in detail.
 

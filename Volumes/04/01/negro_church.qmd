@@ -1,6 +1,6 @@
-
 ---
 title: 'The Negro Church'
+description: "Du Bois in The Crisis (1912) analyzes the Negro church’s leadership, arguing for honest, educated ministers and active programs in education and social uplift."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 It happens that during this month, in the North, West and South, there
 are meeting the ruling Methodist ecclesiastical bodies representing a

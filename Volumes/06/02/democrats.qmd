@@ -1,6 +1,6 @@
-
 ---
 title: 'Education'
+description: "W.E.B. Du Bois in The Crisis (1913) warns democracy is at risk unless lynching, disfranchisement and racial discrimination are confronted."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 The Democratic party has been in power three months and the colored population is still free. Only one Negro official has been summarily, and rather rudely, dismissed from office and no "Jim Crow" legislation seems in immediate sight. 
 

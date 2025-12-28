@@ -1,6 +1,6 @@
-
 ---
 title: 'The Truth'
+description: "In 1912 W.E.B. Du Bois (The Crisis) demands a Renaissance of truth, exposing press silences and misrepresentations of Black life, race, and democracy."
 author:
   - name:
       given: W.E.B.
@@ -22,8 +22,6 @@ format:
     appendix-cite-as: display
 ---
 
-
-
 That this nation and this world needs is a Renaissance of reverence for the truth. If <span class="crisis-title">The Crisis</span> stands for one thing above others, it is emphasis of this fact, and it is here that we have to differ with some of our best friends. We are here to tell the essential facts about the condition of the Negro in the United States. Not all the facts, of course—one can never tell everything about anything. Human communication must always involve some selection and emphasis. Nevertheless. in such selection and emphasis there can be two attitudes as different as the poles. One attitude assumes that the truth ought to be as one person or race wants it and then proceeds to make the facts prove this thesis. The other attitude strives without undue assumption of any kind to show the true implication of the existing facts. The first attitude is that of nearly all the organs of public opinion in the
 United States on the Negro problem. They have assumed, and for the most part firmly believe, that the Negro is an undesirable race destined to eventual extinction of some kind. Every essential fact and situation is therefore colored and grouped to support this thesis, and when stubborn facts appear that simply will not support this thesis there is almost complete silence.
 
@@ -42,9 +40,9 @@ True it is that this high duty cannot always be followed. True it is that often 
 #### Related Articles
 
 * [A Statement (1919)](/Volumes/19/01/statement.html)
+* [The Rising Truth (1921)](/Volumes/22/02/rising-truth.html)
 * [Conduct, Not Color (1916)](/Volumes/12/05/conduct_not_color.html)
 * [Radicals (1919)](/Volumes/19/02/radicals.html)
 * [The Crisis (1910)](/Volumes/01/01/TheCrisis.html)
-* [Our Book Shelf (1926)](/Volumes/31/03/book_shelf.html)
 
 <!-- Similar articles end here -->

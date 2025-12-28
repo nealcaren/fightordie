@@ -1,6 +1,6 @@
-
 ---
 title: 'Our Health'
+description: "In 1933 W.E.B. Du Bois in The Crisis links poverty and racial discrimination to high Black death rates and urges income, public health, and anti-segregation action."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 Our death rate is without the slightest doubt a death rate due to poverty and discrimination.
 

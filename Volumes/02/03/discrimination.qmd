@@ -1,6 +1,6 @@
-
 ---
 title: 'Discrimination'
+description: "In 1911 W.E.B. Du Bois in The Crisis condemns race-based segregation as dehumanizing, a caste undermining democracy, education, and civil life."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 Northern paper defends race discrimination in this wise:
 

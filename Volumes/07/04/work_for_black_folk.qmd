@@ -1,6 +1,6 @@
-
 ---
 title: 'Work for Black Folk in 1914'
+description: "In 1914 W.E.B. Du Bois in The Crisis urges a bold program to defend Black property, labor, education, civil rights, and democracy from racial oppression."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 American citizens of Negro descent and their friends have much to do in 1914, if they are to stem the rising tide of racial proscription.
 

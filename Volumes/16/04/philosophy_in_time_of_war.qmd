@@ -1,6 +1,6 @@
-
 ---
 title: 'A Philosophy in Time of War'
+description: "In a 1918 Crisis essay, W.E.B. Du Bois urges Black Americans to fight for democracy abroad while demanding justice, citizenship, and racial equality at home."
 author:
   - name:
       given: W.E.B.
@@ -21,9 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
-
 
 FIRST, This is Our Country:
 

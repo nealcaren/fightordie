@@ -1,5 +1,6 @@
 ---
 title: 'Science'
+description: "In 1927 The Crisis, W.E.B. Du Bois exposes scientific racism in Hirsh's tests, showing biased sampling and unequal education drive alleged race differences."
 author:
   - name:
       given: W.E.B.
@@ -20,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 Dr. N.M. Hirsh, "former Fellow of the National Research Council", has made an astounding discovery. By testing 5,500 New England school children he finds that Negroes and Portuguese have the least intelligence. And then he adds blithely, "The children tested were all attending public schools in four factory towns of Massachusetts, *with the exception of 449 Negro children from Tennessee!*"
 

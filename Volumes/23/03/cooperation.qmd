@@ -1,5 +1,6 @@
 ---
 title: 'Coöperation'
+description: "W.E.B. Du Bois in The Crisis (1922) defends cooperative labor among Black Americans, warns of frauds, and showcases successful racial-economic organizing."
 author:
   - name:
       given: W.E.B.

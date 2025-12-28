@@ -1,5 +1,6 @@
 ---
 title: 'The Sermon in the Cradle'
+description: "In a 1921 Crisis essay, W.E.B. Du Bois reimagines Christ born in Benin, affirming Black dignity, faith, and hope as resistance to racial oppression."
 author:
   - name:
       given: W.E.B.

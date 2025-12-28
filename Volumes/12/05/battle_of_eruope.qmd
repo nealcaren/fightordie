@@ -1,6 +1,6 @@
-
 ---
 title: 'The Battle of Europe'
+description: "1916 — In The Crisis W.E.B. Du Bois argues WWI exposes Western civilization's brutality, prompting racial pride, democratic change, and cultural renewal."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 The war is still with us, has almost become a commonplace, and yet there is no thinking man who does not send his mind two years back and remember the assurance with which he said in those bewildering, tumultuous days of August, 1914, "This cannot last, we are too civilized." 
 

@@ -1,6 +1,6 @@
-
 ---
 title: 'The Colored Magazine in America'
+description: "W.E.B. Du Bois charts the history of Black magazines and their struggles for voice, press power, and race advocacy in The Crisis (1912)."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 The first colored magazine in America seems to have been *The African Methodist Episcopal Church Magazine*, edited by Dr. Hogarth, general book steward, and published in Brooklyn, in October, 1841. This magazine was in a sense the ancestor of <span class="crisis-title">The Crisis</span>. Its editor seems to have been a native of Haiti, although little is known of his life and work. The prospectus of the magazine says: "In embarking upon this laudable enterprise it becomes our duty, in the onset, to inform our friends that such a work cannot be concluded with dignity and honor to our people unless it meets with ample supply of pecuniary and intellectual means. A fear of failure in obtaining these important contingencies had, in a great measure, prevented our brethren in their deliberations from coming to any conclusions on this important subject. But, judging from the present aspect of things, that the times have greatly changed in our favor as a people, light has burst forth upon us, intelligence in a great measure is taking the place of ignorance, especially among the younger portions of our people, opening the avenues to proper Christian feeling and benevolence---our brethren, from those important considerations, came to the conclusion, at our last New York annual conference, held in June, in the city of Brooklyn, to order such a work and lay it before the public for their patronage." This magazine lasted two or three years. Its publication was then stopped.
 

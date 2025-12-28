@@ -1,6 +1,6 @@
-
 ---
 title: 'Augustus G. Dill'
+description: "W.E.B. Du Bois discusses Augustus G. Dill's withdrawal as The Crisis' business manager, highlighting labor, sacrifice, and leadership challenges in 1928."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 It is with deep regret that <span class="crisis-title">The Crisis</span> announces the withdrawal with this issue of Mr. Augustus G. Dill as Business Manager. For nearly fifteen years Mr. Dill has given us loyal and efficient service. He was by nature and training the sensitive artist and musician rather than the business man and it was with hesitation that I asked him to leave his chosen vocation of teaching at Atlanta University and throw in his lot with a cause of precarious prospects. He came to The Crisis at a sacrifice and the multitudinous and often petty details of a business office in a cold and selfish city made hard demands upon his time and strength. He stuck to his job and saw its success and growth. He leaves it today with the good wishes of all his fellow workers who will always remain his sympathetic and admiring friends.
 

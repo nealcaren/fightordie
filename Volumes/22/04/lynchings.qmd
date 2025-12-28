@@ -1,6 +1,6 @@
-
 ---
 title: 'Lynchings and Mobs'
+description: "W.E.B. Du Bois in The Crisis (1921) exposes how southern police, courts and press enforce racial terror—lynching, mob rule, and denial of justice."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 You are frightened? Thieves, hold-ups and crime? But the police and the courts are with you. Public opinion is behind you; your neighbor's arm is ready to help.
 

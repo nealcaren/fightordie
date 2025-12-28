@@ -1,6 +1,6 @@
-
 ---
 title: 'Education'
+description: "W.E.B. Du Bois in The Crisis (1930) denounces racial inequity in schooling, details funding disparities, and urges federal aid requiring nondiscrimination."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 Suppose that a Congressman is interested in the American Negro, realizing that the oppression of any group of twelve million people in America is dangerous to the whole country. Suppose he wants to do something to help the Negroes? What would be the most obvious thing that he could do?
 

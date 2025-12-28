@@ -1,6 +1,6 @@
-
 ---
 title: 'Resistance'
+description: "W.E.B. Du Bois in The Crisis (1914) argues Hindu and Chinese resistance to white oppression reveals racial injustice and undermines the oppressor's power."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 The Hindus in Natal and the Chinese in Panama are resisting white oppression. It is a good sign, not simply for colored folk, but for white folk. Bad as oppression is for the oppressed, it is worse for the oppressor. For the sake of both it should cease.
 

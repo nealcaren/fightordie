@@ -1,6 +1,6 @@
-
 ---
 title: 'Race Pride'
+description: "In 1920 The Crisis, W.E.B. Du Bois challenges race pride, arguing whites must choose segregation or true democracy and justice for all races."
 author:
   - name:
       given: W.E.B.
@@ -21,9 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
-
 
 Our friends are hard---very hard---to please. Only yesterday they were preaching fm! "Race Pride." "Go to!" they said, and be PROUD of your race. If we hesitated or sought to explain---"Away," they yelled; "Ashamed-of Yourself and Want-to-be-White!" Of course, the Amazing Major is still at it, but do you notice that others say less,---because they see that bullheaded worship of any "race," as such, may lead and does lead to curious complications?
 

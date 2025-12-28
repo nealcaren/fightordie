@@ -1,6 +1,6 @@
-
 ---
 title: 'Reconstruction and Africa'
+description: "W.E.B. Du Bois in The Crisis (1919) exposes European colonial greed and hypocrisy, urging African self-rule and protection of native labor, culture and rights."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 The suggestion has been made that these colonies which Germany has lost should not be handed over to any other nation of Europe but should, under the guidance of organized civilization, be brought to a point of development which shall finally result in an autonomous state. This plan has met with much criticism and ridicule. Let the natives develop along their own lines and they will "go back," has been the cry. Back to what, in Heaven's name?
 

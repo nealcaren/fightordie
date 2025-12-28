@@ -1,6 +1,6 @@
-
 ---
 title: 'The House of the Black Burghardts'
+description: "W.E.B. Du Bois reflects in The Crisis (1928) on the House of the Black Burghardts, memory, and Black family roots in rural New England amid loss and longing."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 If one slings out the Northern neck of Manhattan and flies to the left of the silver Sound, one swoops in time into the Golden River; and dodging on this sinuously, now right, now left, one comes after a hundred miles of lake, hill and mountain, in the Old Bay State. Then at the foot of the high Metacomet that takes a solemn decision: left is sweet, old Sheffield; but pass it stolidly by and slip gently right into tiny South Egremont which always seems to. There—where right again and slope the Egremont Plain and the House of the Black Burghardts.
 

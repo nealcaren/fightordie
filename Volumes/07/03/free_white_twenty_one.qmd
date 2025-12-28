@@ -1,6 +1,6 @@
-
 ---
 title: 'Free, White and Twenty One'
+description: "In 1914 The Crisis, W.E.B. Du Bois urges \"free, white and twenty-one\" citizens to join the NAACP, arguing race prejudice endangers democracy and labor."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 We will suppose, dear reader, that you are "Free, white and twenty-one;" that you are reasonably patriotic and would rather the world grew
 better than worse.

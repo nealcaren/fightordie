@@ -1,6 +1,6 @@
-
 ---
 title: 'Homes'
+description: "Du Bois, The Crisis, 1912: Homes exposes housing discrimination against Black families and condemns biased real estate, unlike other Crisis pieces."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 The injustice toward colored people who want decent living conditions is almost unbelievable unless one comes face to face with the facts. The New York *Times*, which spares few opportunities to treat black folk unjustly, says in an editorial:
 

@@ -1,6 +1,6 @@
-
 ---
 title: 'England'
+description: "In The Crisis (1920), W.E.B. Du Bois condemns English imperialism, exposing racial injustice and economic plunder and urging independence and self-rule."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 I was reared in an atmosphere of admiration---almost of veneration---for England. The New England of my birth and day was English in its soul: its speech was more English than American; its history was an extension of English history; its law was English tradition; its town government was of English ancestry. Our reverence for England was increased rather than diminished by distance and lack of actual contact and also, I regret to remember, by the then current dislike of the Irish. 
 

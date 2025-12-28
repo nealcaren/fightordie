@@ -1,6 +1,6 @@
-
 ---
 title: 'Little Portraits of Africa'
+description: "In 1924 The Crisis, W.E.B. Du Bois celebrates Africa's landscape, people, and spiritual culture and critiques the heavy cost of colonial civilizing labor."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 ## The Place, The People
 

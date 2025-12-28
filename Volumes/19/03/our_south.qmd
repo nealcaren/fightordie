@@ -1,6 +1,6 @@
-
 ---
 title: '"Our" South'
+description: "W.E.B. Du Bois in The Crisis (1920) exposes the white South's property myth that denies Black labor rights, education, and a democratic voice."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 One of the surprising self-deceptions of the white Southerners is illustrated by this story of the war: Because of its large Negro working population, a government shipbuilding yard was brought to Wilmington, N.C., during the late war. The city congratulated itself, but balked finally at providing Negro workingmen with adequate housing. At a public meeting they lauded the whites and their enterprise to the skies, but complained to the government agents of the "burden" of the Negro---the black half of their population, said one pompous orator, was a "liability and not an asset."
 

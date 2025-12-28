@@ -1,6 +1,6 @@
-
 ---
 title: 'Co-Operation'
+description: "1918: W.E.B. Du Bois in The Crisis advocates cooperative economics as Black labor's path to industrial emancipation and racial economic empowerment."
 author:
   - name:
       given: W.E.B.
@@ -22,7 +22,6 @@ format:
     appendix-cite-as: display
 ---
 
-
 <span class="crisis-title">The Crisis</span> has now for several months been developing a program looking toward an economic forward movement among the Negroes of the United States. The matter has been developed slowly in order to have as large a number of people as possible understand just what it is that <span class="crisis-title">The Crisis</span> has in mind. 
 
 The first duty of a modern citizen is to earn a living; but earning a living today is a complicated thing and it would be a great mistake for Negroes to try the old, individualistic laissez-faire method. 
@@ -41,9 +40,9 @@ This is the movement which <span class="crisis-title">The Crisis</span> wishes 
 #### Related Articles
 
 * [More Suggestions (1917)](/Volumes/14/05/more_suggestions.html)
-* [The Present (1917)](/Volumes/14/04/present.html)
 * [Eugene Debs (1926)](/Volumes/33/02/debs.html)
 * [Our Economic Peril (1930)](/Volumes/37/03/our_economic_peril.html)
 * [Our Class Struggle (1933)](/Volumes/40/07/our_class_struggle.html)
+* [The Right to Work (1933)](/Volumes/40/04/right_to_work.html)
 
 <!-- Similar articles end here -->

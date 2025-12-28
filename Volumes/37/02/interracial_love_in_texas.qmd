@@ -1,6 +1,6 @@
-
 ---
 title: 'Interracial Love in Texas'
+description: "In a 1930 The Crisis piece, W.E.B. Du Bois counters a Texas editorial, arguing interracial cooperation will drive social equality, race relations, and marriages."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 The Houston, Texas *Post-Dispatch* says in a recent editorial:
 

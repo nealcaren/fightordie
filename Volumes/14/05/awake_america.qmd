@@ -1,6 +1,6 @@
-
 ---
 title: 'Awake America'
+description: "W.E.B. Du Bois in The Crisis (1917) urges America to end lynching, disenfranchisement and Jim Crow at home to honestly defend democracy abroad."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 Let us enter this war for Liberty with clean hands. May no blood-smeared garments bind our feet when we rise to make the world safe for Democracy. The New Freedom cannot survive if it means Waco, Memphis and East St. Louis. We cannot lynch 2,867 untried black men and women in thirty-one years and pose successfully as leaders of civilization. Rather let us bow our shamed heads and in sack cloth and ashes declare that when in awful war we raise our weapons against the enemies of mankind, so, too, and in that same hour here at home we raise our hands to Heaven and pledge our sacred honor to make our own America a real land of the free:
 <ul style="list-style: none;">
@@ -45,8 +44,8 @@ In five wars and now the sixth we black men have fought for your freedom and hon
 
 * [Free, White and Twenty One (1914)](/Volumes/07/03/free_white_twenty_one.html)
 * [Anti-Lynching Legislation (1922)](/Volumes/22/01/anti-lynching_legislation.html)
+* [Crime (1921)](/Volumes/22/02/crime.html)
 * [Freedom of Speech (1930)](/Volumes/37/08/freedom.html)
-* [Lynching (1911)](/Volumes/02/04/lynching.html)
 * [Thirteen (1918)](/Volumes/15/03/thirteen.html)
 
 <!-- Similar articles end here -->

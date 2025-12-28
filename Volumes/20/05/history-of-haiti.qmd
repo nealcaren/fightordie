@@ -1,5 +1,6 @@
 ---
 title: 'The History of Haiti'
+description: "In The Crisis (1920), W.E.B. Du Bois traces Haiti’s revolutionary struggle, showing how race, Black labor, and foreign capital shaped its path to democracy."
 author:
   - name:
       given: W.E.B.
@@ -54,8 +55,8 @@ In political life Haiti is still in the sixteenth century; but in economic life,
 
 * [Violence (1934)](/Volumes/41/05/violence.html)
 * [An Amazing Island (1915)](/Volumes/10/02/amazing_island.html)
+* [Lusitania (1915)](/Volumes/10/02/lusitania.html)
 * [The Rise of the West Indian (1920)](/Volumes/20/05/rise_of_the_west_indian.html)
 * [The Future of Africa (1919)](/Volumes/17/03/future-of-africa.html)
-* [Hawaii (1932)](/Volumes/39/03/hawaii.html)
 
 <!-- Similar articles end here -->

@@ -1,6 +1,6 @@
-
 ---
 title: 'Leadership'
+description: "W.E.B. Du Bois in The Crisis (1920) condemns imperialist leadership - England and Wilson - for betraying democracy, racial justice, and labor in the League."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 Many a good cause has been killed by suspected leadership. For a thousand years, the world had dreamed of a Nation of Nations. Ever since the fall of Imperial Rome, the need of a united world organization of culture has been felt. The greatest thinkers, the greatest leaders, have dreamed and sung and prophesied of this Empire of All.
 

@@ -1,6 +1,6 @@
-
 ---
 title: 'Vital Statistics'
+description: "W.E.B. Du Bois debunks a white-supremacist claim about Black mortality in The Crisis (1912), documenting declining Negro death rates with census data."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 Every once in a while some social student turns his attention to the Negro problem and announces that he proposes to study it---for a few days. In such cases <span class="crisis-title">The Crisis</span> is accustomed to suggest literature and other matter with the idea, not of influencing the student's conclusions, but of impressing the size of the undertaking to which he so lightly turns. In some cases this does good. In the case of Mr. Charles Stelzle it did no good. Mr. Stelzle, who is "Executive Secretary of the Home Missions Council," announced his intention last year of looking black men over. This year, in the midst of a busy life, he has thrown off an essay which has been published from New York to California, in which he calmly announces "that the death rate among Negroes is increasing, whereas it is decreasing among whites." This extraordinary statement has been strewn over the United States and it is a flat and glaring falsehood. 
 

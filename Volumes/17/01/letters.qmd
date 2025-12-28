@@ -1,6 +1,6 @@
-
 ---
 title: 'Letters'
+description: "In 1919 The Crisis, W.E.B. Du Bois urges southern white women to challenge disfranchisement, Jim Crow, lynching, and racial inequality in education and labor."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 Letters
 
@@ -51,7 +50,7 @@ It will be a glad day for America when southern white women recognize their clea
 * [Education (1913)](/Volumes/06/02/democrats.html)
 * [The Liberal South (1921)](/Volumes/21/06/liberal-south.html)
 * [In Georgia (1920)](/Volumes/20/03/in-georgia.html)
+* [The President (1922)](/Volumes/22/01/president.html)
 * [Another Open Letter to Woodrow Wilson (1913)](/Volumes/06/05/open_letter.html)
-* [Light (1912)](/Volumes/03/04/light.html)
 
 <!-- Similar articles end here -->

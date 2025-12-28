@@ -1,6 +1,6 @@
-
 ---
 title: 'Memphis or East St. Louis?'
+description: "1917: W.E.B. Du Bois in The Crisis links lynching, forced labor and union discrimination to Black migration, urging education and federal protection."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 We seem to hear four voices screaming above the mobs of Memphis and East St. Louis---Why will Negroes be Scabs, Why will Negroes Stay in the South, How Can We Stop Negro Migration, Where Can Negroes Be Treated Justly?
 

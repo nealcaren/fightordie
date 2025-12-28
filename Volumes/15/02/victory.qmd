@@ -1,6 +1,6 @@
-
 ---
 title: 'Victory'
+description: "In 1917 W.E.B. Du Bois in The Crisis celebrates a Supreme Court victory against segregation, calling it a milestone for civil rights and democracy."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 > Minneapolis Branch and friends of the Northwest join in grateful thanks and congratulations to you, Storey, Spingarn, Villard, and army of leaders, and friends who secured the splendid victory in Segregation fight. It is the most consoling and inspiring news received within a quarter century.    
 > &nbsp;     

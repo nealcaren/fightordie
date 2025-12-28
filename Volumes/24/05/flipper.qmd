@@ -1,5 +1,6 @@
 ---
 title: Flipper
+description: "W.E.B. Du Bois in The Crisis (1922) documents racial injustice in Lt. H.O. Flipper's 1882 dismissal and calls for congressional redress and rank restoration."
 author:
   - name:
       given: W.E.B.

@@ -1,6 +1,6 @@
-
 ---
 title: 'Negro Writers'
+description: "W.E.B. Du Bois in The Crisis (1920) calls for promoting Negro writers, arguing a literary renaissance is vital to race, education, and economic justice."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 Since its founding, <span class="crisis-title">The Crisis</span> has been eager to discover ability among Negroes, especially in literature and art. It remembers with no little pride its covers by Richard Brown, William Scott, William Farrow, and Laura Wheeler; and its cartoons by Lorenzo Harris and Albert Smith; it helped to discover the poetry of Roscoe Jamison, Georgia Johnson, Fenton Johnson, Lucian Watkins, and Otto Bohanan; and the prose of Jessie Fauset and Mary Effie Lee. Indeed, <span class="crisis-title">The Crisis</span> has always preferred the strong matter of unknown names, to the platitudes of well-known writers; and by its Education and Children numbers, it has shown faith in the young.
 

@@ -1,6 +1,6 @@
-
 ---
 title: 'Helping Africa'
+description: "In 1924 The Crisis, W.E.B. Du Bois critiques paternalism toward Africa, arguing Africans claim land, self-determination, and resist colonial control."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 There is one thought in our will to help Africa that continually recurs. We think again and again of going over there and taking charge and helping people to do things better, leading them as we are overfond of saying, "from darkness into light." Let us curb this custom of thinking with one or two after-thoughts.
 

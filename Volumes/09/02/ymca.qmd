@@ -1,6 +1,6 @@
-
 ---
 title: 'Y.M.C.A'
+description: "W.E.B. Du Bois in The Crisis (1914) praises Black YMCAs' growth but condemns YMCA racial segregation as unchristian, unjust, and dangerous to race justice."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 We gave last month considerable space to the wonderful work of the colored Y.M.C.A. It is an extraordinary growth and the colored secretaries like Mr. Hunton and Mr. Mooreland, and white philanthropists like Julius Rosenwald, together with the governing heads of the whole movement deserve undoubtedly great credit. At the same time it must be remembered that directly in questions of this sort lurk the most baffling difficulties of our race problem.
 

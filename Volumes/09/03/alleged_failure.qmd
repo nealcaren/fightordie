@@ -1,6 +1,6 @@
-
 ---
 title: 'The Alleged Failure of Democracy'
+description: "In 1914 W.E.B. Du Bois in The Crisis argues Reconstruction's alleged failure is a fiction: Black enfranchisement built public education and advanced democracy."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 The following editorial on "The Alleged Failure of Democracy" was written by the editor of The Crisis and printed in the Boston *Sunday Globe*:
 

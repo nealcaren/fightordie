@@ -1,6 +1,6 @@
-
 ---
 title: 'The Black Mother'
+description: "In The Crisis (1912), W.E.B. Du Bois condemns the 'mammy' myth, urging respect for Black motherhood, economic justice, and dignity in domestic labor."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 The people of America, and especially the people of the Southern States,	have felt so
 keen an appreciation of the qualities of motherhood in the Negro that they have proposed erecting a statue in the National Capital to the black	mammy. The black nurse of slavery days may receive the tribute of enduring bronze from the master class.

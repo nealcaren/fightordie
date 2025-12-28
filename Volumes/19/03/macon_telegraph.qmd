@@ -1,6 +1,6 @@
-
 ---
 title: 'The Macon Telegraph'
+description: "In 1920 W.E.B. Du Bois in The Crisis rebukes the Macon Telegraph, arguing racial injustice—lynching, disfranchisement, unequal education—drives Southern unrest."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 The Macon, Georgia, *Daily Telegraph*, a widely-read white publication, has often done <span class="crisis-title">The Crisis</span> the honor of quoting and criticizing its words. Some of these remarks we have from time to time reprinted, but they have hardly seemed to call for an answer. Usually they answered themselves. Last September, however, the *Telegraph* published a leading editorial, a column and a half long, which illustrates so well the deliberate misunderstanding of the aspirations of the Negro by the White South that it deserves a reply. 
 
@@ -52,9 +50,9 @@ Finally, we would welcome a monthly edited by R. R. Moton on the lines suggested
 #### Related Articles
 
 * [The Liberal South (1921)](/Volumes/21/06/liberal-south.html)
+* [The Rising Truth (1921)](/Volumes/22/02/rising-truth.html)
 * [Votes for Negroes (1921)](/Volumes/21/03/votes-for-negroes.html)
 * [Light (1912)](/Volumes/03/04/light.html)
 * [Radicals (1919)](/Volumes/19/02/radicals.html)
-* [Southern Papers (1911)](/Volumes/01/04/southern_papers.html)
 
 <!-- Similar articles end here -->

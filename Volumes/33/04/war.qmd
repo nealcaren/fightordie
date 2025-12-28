@@ -1,5 +1,6 @@
 ---
 title: 'War'
+description: "W.E.B. Du Bois in The Crisis (1927) condemns imperialist profiteering and urges pacifists to resist war with Mexico to defend human life."
 author:
   - name:
       given: W.E.B.
@@ -20,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 The land hogs and war profiteers are pushing us into war with Mexico just as fast as they can, with the help of a President who is the tool of Big Business and of a Secretary of State who is a misfortune. We are meddling in Nicaragua and sending there a man trained to drill midshipmen and steer ships and shoot guns, whom we install as dictator without the grace of God. Now is the time for pacifists to act. Now and not later. Now is the time to say to America that not a gallon of oil nor a foot of land is worth the murder of a single human being, whether from Mexico or black or white America. Diaz and rich Americans cheated Mexico of her wealth while her people slept and we are asked to enforce these disgraceful contracts with blood and filth and war. Let us resolve never to do it. Let us face death, jail and poverty before war with Mexico on any pretext. We have stolen enough from that poor land.
 

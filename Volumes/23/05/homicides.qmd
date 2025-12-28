@@ -1,6 +1,6 @@
-
 ---
 title: 'Homicides'
+description: "In 1921 The Crisis, W.E.B. Du Bois denounces racist propaganda that twists homicide statistics to blame Black people while Black lives are murdered."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 There is a species of propaganda going on against the Negro which is so subtle that most people do not notice it. For instance, *The Spectator*, an insurance magazine periodical, records from year to year all homicides,---that is all persons killed in the United States by criminal violence. It notes that for every million of population in 31 cities there are 85 homicides and that the rate is increasing. 
 

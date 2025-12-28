@@ -1,6 +1,6 @@
-
 ---
 title: 'Radicals'
+description: "In 1919 The Crisis, W.E.B. Du Bois condemns Southern oligarchy's campaign to silence Black critics, warning it threatens race equality and free speech."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 Southerners in Congress with the aid of the Attorney General are seeking some way to stop outspoken criticism by Negroes of the southern oligarchy. They are cloaking their indefensible tyranny by assertions that a new and wild radicalism among Negroes is creating a danger of race conflict. Some Negro journals are already hastening to cover, by asserting their loyalty and disowning the new radicals. This is dangerous business. <span class="crisis-title">The Crisis</span> holds no brief for the: *Messenger*, the *Negro World*, and other periodicals, but they have a right to speak. 
 

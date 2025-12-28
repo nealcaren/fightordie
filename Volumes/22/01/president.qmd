@@ -1,0 +1,48 @@
+---
+title: 'The President'
+description: "In 1922's The Crisis, W.E.B. Du Bois denounces Republican race patronage and urges anti-lynching, labor and education reforms to defend democracy."
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
+date: May 1922
+categories: 
+  - ""
+citation: 
+  type: article-journal
+  container-title: The Crisis
+  volume: 22
+  issue: 1
+  page: 7-8
+google-scholar: true
+
+format:
+  html:
+    toc: false
+    appendix-cite-as: display
+---
+
+The bourbons have put the question up to Mr. Harding sooner than we had anticipated. The issue is clearly drawn: 500 clerks in the Bureau of the Registry of the Treasury do not want as chief any person of Negro descent. They refuse to consider any man or woman, however educated, gifted or fitted for the place, if his or her grandmother was of African descent. They do not object to any ignorant scoundrel, if only he be “white”! Can you conceive such a stand? How will Mr. Harding meet it?
+
+Meantime, how are we meeting it? Not in the wisest way. In the first place, our politicians have not learned much in the last decade. We had hoped that the intelligent conduct of the  Negro voter during the war and in the last campaign, added to the great critical problems facing our race, would lead to a dignified plan of action in conduct and demand after the new President’s accession.
+
+Such a plan would have included a clear statement to the administration that the Negro expects action and not blarney from the Republican party, and that unless the party in possession of all three branches of government takes steps legally to stop lynching, to abolish inter-state “Jim-Crow” travel, to aid common school education and to emancipate our brothers in Haiti and Liberia---that unless Republicans do these things or make earnest effort to begin their doing, the Negro vote will go to the Labor or Socialist parties in the very near future.
+
+In addition to this, it is proper for colored leaders in the Republican campaign to suggest certain colored men whose fitness and character entitle them to consideration for appointment to office. First and foremost among such recommendations should have been Dr. George E. Haynes, the trained colored student whose scientific work in the Department of Labor has already been so notable. He should have been given more money, scope and power. Instead of this, politicians have already succeeded in getting the Secretary of Labor to promise to oust Haynes forthwith so as to open a few clerkships for “the boys”!
+
+Amid all this the President’s message comes as a clear voice. Against lynching there is the strongest pronouncement ever made by a President; and the general tone on race matters is finer than Roosevelt’s vague generalities and Wilson’s stentorian silences.
+
+Let us respond with an unselfishness so patent and a breadth of vision so evident that the silly protesters against race ability will be shamed to silence.
+
+<!-- Similar articles start here -->
+<div  class="clear-wrap"></div>
+
+#### Related Articles
+
+* [The Presidential Campaign (1916)](/Volumes/12/06/presidential_campaign.html)
+* [Presidential Candidates (1920)](/Volumes/20/02/presidential-candidates.html)
+* [The President (1915)](/Volumes/09/04/president.html)
+* [An Open Letter to Woodrow Wilson (1913)](/Volumes/05/05/open_letter.html)
+* [The Harding Political Plan (1922)](/Volumes/23/03/harding-political-plan.html)
+
+<!-- Similar articles end here -->

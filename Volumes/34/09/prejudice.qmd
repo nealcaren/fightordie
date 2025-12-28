@@ -1,6 +1,6 @@
-
 ---
 title: 'Prejudice'
+description: "W.E.B. Du Bois in The Crisis (1927) argues that racial prejudice, rooted in slavery and segregation, produces reciprocal distrust and harm."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 We have received from Mrs. Helen D. Pecu of Vashon Islands, Washington, the following letter:
 

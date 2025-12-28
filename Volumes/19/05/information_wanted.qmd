@@ -1,6 +1,6 @@
-
 ---
 title: 'Information Wanted'
+description: "W.E.B. Du Bois in The Crisis (1920) demands to know if Black leaders aided Arkansas' racial injustice—probing race, justice, and leadership betrayal."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 Last summer, Negro farmers in Arkansas organized the "Progressive
 Farmers and Household Union of America," to better their condition.

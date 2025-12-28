@@ -1,6 +1,6 @@
-
 ---
 title: 'Peace'
+description: "In a 1933 essay for The Crisis, W.E.B. Du Bois argues war propaganda and racial fear sustain militarism, urging pacifists to attack race prejudice and arms."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 To one who does not comprehend the reasons, the present attitude of the civilized world toward peace would be incomprehensible. Here is a world which is literally wasting most of its taxes on war; preparing incredible machines for murder, arson and theft.
 

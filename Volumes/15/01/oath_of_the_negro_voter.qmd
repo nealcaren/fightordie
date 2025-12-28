@@ -1,6 +1,6 @@
-
 ---
 title: 'The Oath of the Negro Voter'
+description: "In 1918 W.E.B. Du Bois in The Crisis calls Black voters to protect the ballot, demand enfranchisement, justice, and democratic reform via the NAACP."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 As one of the Earth's Disowned I swear to hold my Ballot as the sacred pawn of Liberty for all mankind and for my prisoned race.
 

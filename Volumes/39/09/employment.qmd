@@ -1,6 +1,6 @@
-
 ---
 title: 'Employment'
+description: "In The Crisis (1932), W.E.B. Du Bois argues segregated schools and narrow college curricula block Black graduates' employment and hinder race and democracy."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 Our educational problem has two difficulties: first, the great mass of Negroes are not receiving proper and adequate common school training. It means today that we are educating an aristocracy of learning, but we are not using it or allowing it to be used to educate the masses of the people.
 

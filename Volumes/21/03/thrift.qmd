@@ -1,5 +1,6 @@
 ---
 title: 'Thrift'
+description: "1921: W.E.B. Du Bois in The Crisis urges Black thrift and democratic control of capital—saving, investment, and education as keys to racial and economic freedom"
 author:
   - name:
       given: W.E.B.

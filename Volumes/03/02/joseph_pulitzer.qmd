@@ -1,5 +1,6 @@
 ---
 title: 'Joseph Pulitzer'
+description: "W.E.B. Du Bois in The Crisis (1911) analyzes Joseph Pulitzer, noting the New York World's fair treatment of Black Americans amid harsh press rivalries."
 author:
   - name:
       given: W.E.B.
@@ -20,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 [The blind editor of the New York World died October 29, 1911, murmuring in German, "Leise, ganz leise!" His paper always treated  black folk fairly, in market contrast to most New York dailies.]
 

@@ -1,6 +1,6 @@
-
 ---
 title: 'Education'
+description: "In The Crisis (1911), W.E.B. Du Bois argues that education and philanthropy must restrain profit-driven business to preserve labor and democracy."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 The talented, systematic, hard-headed youth of our nation are put into business. We tell them that the object of business is to make money. Our dull, soft-headed, unsystematic youth we let stray into philanthropy to work for the good of men. Then we wonder at our inability to stop stealing. This is the great American paradox.
 

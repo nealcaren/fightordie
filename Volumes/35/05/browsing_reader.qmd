@@ -1,6 +1,6 @@
-
 ---
 title: 'The Browsing Reader'
+description: "W.E.B. Du Bois, in The Crisis (1928), critiques Ebony and Topaz as a sprawling Collectanea, arguing that focused booklets would better advance race and culture."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 "Ebony and Topaz," a "Collectanea" edited by C. S. Johnson and published by the Urban League contains so much work and of such uneven quality, that it is difficult to judge or characterize it. It is a sort of big scrap book, quite without unity, even of race, and containing stories, poems, essays, plays, translations, biographies, reprints, drawings, etc. Some bits are lovely, some mediocre and others make any judgment doubtful. If the whole thing had been split up into a half dozen little booklets, each with its artistic unity and clear spiritual message, the net result would surely have been greater and more valuable. 
 

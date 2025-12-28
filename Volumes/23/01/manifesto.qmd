@@ -1,5 +1,6 @@
 ---
 title: 'Manifesto to the League of Nations'
+description: "W.E.B. Du Bois in The Crisis 1921 asks the League of Nations to affirm racial equality, study Negro labor, and appoint Black members to Mandates Commission."
 author:
   - name:
       given: W.E.B.
@@ -48,7 +49,7 @@ Geneva, September 15, 1921<br>
 * [The Second Pan-African Congress (1921)](/Volumes/21/06/second-pan-african-congress.html)
 * [Memorandum to M. Diagne and Others on a Pan-African Congress to be held in Paris in February, 1919 (1919)](/Volumes/17/05/memorandum_to_m_diagne_and_others_on_a_panafrican_congress.html)
 * [The Pan-African Congresses: The Story of a Growing Movement (1927)](/Volumes/34/08/panafrican_congresses.html)
+* [The Second Pan-African Congress (1921)](/Volumes/22/02/second-congress.html)
 * [Pan-Africa (1921)](/Volumes/21/03/pan-africa.html)
-* [Resolutions of the Washington Conference (1917)](/Volumes/14/02/resolutions.html)
 
 <!-- Similar articles end here -->

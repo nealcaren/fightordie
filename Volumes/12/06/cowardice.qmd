@@ -1,5 +1,6 @@
 ---
 title: 'Cowardice'
+description: "In 1916 The Crisis, W.E.B. Du Bois condemns Black passivity before lynching, urges armed self‑defense to confront racial terror and save democracy."
 author:
   - name:
       given: W.E.B.
@@ -20,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 No colored man can read an account of the recent lynching at Gainesville, Fla., without being ashamed of his people.
 
@@ -45,8 +45,8 @@ It may be a good thing to forget and forgive; but it is altogether too easy a tr
 
 * [Mob Tactics (1927)](/Volumes/34/06/mob_tactics.html)
 * [The Old Story (1911)](/Volumes/01/03/old_story.html)
+* [Crime (1921)](/Volumes/22/02/crime.html)
 * [Crime (1920)](/Volumes/19/04/crime.html)
 * [Heroes (1919)](/Volumes/19/01/heroes.html)
-* [Officers (1917)](/Volumes/14/02/officers.html)
 
 <!-- Similar articles end here -->

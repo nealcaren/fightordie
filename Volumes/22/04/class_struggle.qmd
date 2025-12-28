@@ -1,6 +1,6 @@
-
 ---
 title: 'The Class Struggle'
+description: "W.E.B. Du Bois in The Crisis (1921) rejects revolution; argues Black race needs economic democracy—banks, capital and education to secure labor rights."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 The N.A.A.C.P. hag been accused of not being a "revolutionary" body. This is quite true. We do not believe in revolution. We expect revolutionary changes in many parts of this life and this world, but we expect these changes to come mainly through reason, human sympathy and the education of children, and not by murder. We know that there have been times when organized murder seemed the only way out of wrong, but we believe those times have been very few, the cost of the remedy excessive, the results as terrible as beneficent, and we gravely doubt if in the future there will be any real recurrent necessity for such upheaval.
 
@@ -47,7 +46,7 @@ Whether this is a program of socialism or capitalism does not concern us. It is 
 * [Hopkinsville, Chicago and Idlewild (1921)](/Volumes/22/04/hopkinsville.html)
 * [Forward (1920)](/Volumes/20/05/forward.html)
 * [Let us Reason Together (1919)](/Volumes/18/05/let_us_reason_together.html)
-* [Join or Die (1914)](/Volumes/07/03/fightordie.html)
 * [Boddy (1921)](/Volumes/23/05/boddy.html)
+* [Our Own Consent (1913)](/Volumes/05/03/our_own_consent.html)
 
 <!-- Similar articles end here -->

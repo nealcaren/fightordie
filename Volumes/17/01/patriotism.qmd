@@ -1,6 +1,6 @@
-
 ---
 title: 'Patriotism'
+description: "W.E.B. Du Bois in The Crisis (1919) argues WWI forged a new patriotism—Americans now fight for democracy, justice, and labor rights."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 Curious, indeed, has been the transformation in the souls of most Americans during this war. Before the war nobody loved America. The very phrase seemed maudlin and unintelligent. We loved Justice and Freedom; we sought reform and uplift in politics, health protection; a nobler and less class distinction race hatred; art, we hoped for universal education; but our country? We scarcely had a country—we willed a whole world. And yet, beneath all this, logically we did love our country because we deemed it capable of realizing our dreams and inspiring the greater world. Else one would no longer have dreamed or worked here. We would have sought a Land of Promise. But did American Socialists emigrate to Germany? No, German Socialists came to America, and worked and believed that here the injustices of private wealth could best and most quickly be remedied. But again Reactionists found here no Utopia but at least a sanctuary and though which they could not find in Russia, Mexico, or the West Indies, or for Did Negroes leave America because Africa? No, they became insulted at the mere suggestion. Despite horror-stories, they believed it eventually possible to realize here in America all their highest hopes and aspirations. So with every man who has toiled in this land for higher and better things—even those who longed for the Peace of God, which in these heavy days passed understanding—not all loved but what passionately not America, and loved America might be the Real America, as we sometimes said.
 

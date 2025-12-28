@@ -1,6 +1,6 @@
-
 ---
 title: 'Crime'
+description: "W.E.B. Du Bois argues in The Crisis (1926) that racist myths of Black criminality are false; crime stems from poverty, ignorance, and state oppression, not race."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 The junior organizations of the Ku Klux Klan are receiving thousands of copies of "Educational Studies Number 10" which concerns "the Negro and his relation to America." This pamphlet is arranged without the slightest regard for Truth. It asserts, for instance: "The Negro is constantly increasing in criminality." As a matter of fact, between 1910 and 1923 the number of Negroes committed for crime decreased over 26 per cent.
 

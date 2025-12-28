@@ -1,6 +1,6 @@
-
 ---
 title: 'The Black Bastille'
+description: "In 1917 in The Crisis, W.E.B. Du Bois condemns America's 'Black Bastille' of racial prejudice that undermines democracy and demands its abolition."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 There is in Paris a place where once a notorious prison stood---the Bastille. For many years from the beginning of its erection in 1369, it lowered, a stronghold of cruelty and despotism. But on one marvelous fourteenth of July, 1789, it was stormed by a furious and desperate populace, and not a stone is left to indicate what once had been. Instead, now on that spot, a lofty column, the Column of July, rears skyward its slender, beautiful length, a carven oriflamme of that liberty, fraternity and equality which is in verity the pride of France.
 

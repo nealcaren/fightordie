@@ -1,6 +1,6 @@
-
 ---
 title: 'The Episcopal Church'
+description: "In 1913 W.E.B. Du Bois in The Crisis condemns the Episcopal Church's role in slavery, racial hypocrisy, and refusal to support Black education and rights."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 In the red blood-guiltiness of the Christian church in America toward black folk the Episcopal Church has undoubtedly larger share any other group. It was the Episcopal Church that for 250 years made itself the center and bulwark of man stealing and chattel slavery. It was the Episcopal Church that deliberately closed its doors in the face of the praying slave; it was the Episcopal Church that refused after the war to educate the freedmen, and is still refusing, and it is only on the rostrum of the Episcopal Church that such reactionary heathenism could find welcome expression as was uttered by the bishops of Georgia and Tennessee at the last general convention.
 

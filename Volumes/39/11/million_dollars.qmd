@@ -1,6 +1,6 @@
-
 ---
 title: 'If I Had a Million Dollars: A Review of the Phelps Stokes Fund'
+description: "W.E.B. Du Bois in The Crisis (1932) faults the Phelps Stokes Fund for favoring surveys and white education over Black scholarships and leadership"
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 If someone should give you a million dollars to spend in the settlement of the Negro problem over a period of twenty years, how would you spend it? 
 
@@ -91,7 +89,7 @@ Notwithstanding this criticism, we thank the Phelps Stokes Fund for its work, an
 * [Investments (1921)](/Volumes/22/05/investments.html)
 * [Negro Education (1918)](/Volumes/15/04/negro_education.html)
 * [Education (1930)](/Volumes/37/02/education.html)
-* [Woofterism (1931)](/Volumes/38/03/woofterism.html)
 * [Thrift (1921)](/Volumes/21/03/thrift.html)
+* [Philanthropy and Self Help (1918)](/Volumes/16/03/philanthropy_and_self_help.html)
 
 <!-- Similar articles end here -->

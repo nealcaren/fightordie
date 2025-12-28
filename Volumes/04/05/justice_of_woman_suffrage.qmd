@@ -1,6 +1,6 @@
-
 ---
 title: 'The Justice of Woman Suffrage'
+description: "Du Bois argues in The Crisis (1912) that denying women suffrage harms democracy and racial justice, urging equal political rights for women."
 author: Terrell, Mary Church
 date: Mar. 1912
 categories: 
@@ -19,7 +19,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 It is difficult to believe that any individual in the United States with one drop of African blood in his veins can oppose woman suffrage. It is queer and curious enough to hear an intelligent colored woman argue against granting suffrage to her sex, but for an intelligent colored man to oppose woman suffrage is the most preposterous and ridiculous thing in the world. What could be more absurd than to see one group of human beings who are denied rights which they are trying to secure for themselves working to prevent another group from obtaining the same rights? For the very arguments which are advanced against granting the right of suffrage to women are offered by those who have disfranchised colored men.
 

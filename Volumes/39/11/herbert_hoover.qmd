@@ -1,6 +1,6 @@
-
 ---
 title: 'Herbert Hoover'
+description: "W.E.B. Du Bois in The Crisis (1932) indicts Herbert Hoover for 'Lily-White' politics, race-based appointments, and policies that crush Black labor and democracy"
 author:
   - name:
       given: W.E.B.
@@ -22,8 +22,7 @@ format:
     appendix-cite-as: display
 ---
 
-
- The indictment which Americans of Negro descent have against Herbert Hoover is long, and to my mind, unanswerable. The chief counts are the following:
+The indictment which Americans of Negro descent have against Herbert Hoover is long, and to my mind, unanswerable. The chief counts are the following:
 
 ## Lily-White-ism
 

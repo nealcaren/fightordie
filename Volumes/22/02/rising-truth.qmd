@@ -1,0 +1,94 @@
+---
+title: 'The Rising Truth'
+description: "W.E.B. Du Bois in The Crisis (1921) exposes southern racial terror and white hypocrisy and insists education and the ballot are crucial for democracy."
+author:
+  - name:
+      given: W.E.B.
+      family: Du Bois
+date: Jun. 1921
+categories: 
+  - ""
+citation: 
+  type: article-journal
+  container-title: The Crisis
+  volume: 22
+  issue: 2
+  page: 53-55
+google-scholar: true
+
+format:
+  html:
+    toc: false
+    appendix-cite-as: display
+---
+
+Since the founding of <span class="crisis-title">The Crisis</span> one of the criticisms against it which has been hardest to bear has been that of deliberately exaggerating the mistreatment of Negroes, suppressing the favorable truth and seeking to foment race trouble. While the Nashville *Banner*, the Macon *Telegraph*, the Columbia *State*, and men like Weatherford, Bolton Smith and Brough have deliberately spread this false impression, we who sit and see and hear the truth know that far from exaggerating we were more often consciously suppressing and concealing the horrors of southern oppression. Month after month we go through the sordid and horrifying details---the letters, the newspapers, the personal visits and appeals---and say in despair: if we publish all this---if we unveil the whole truth, we will defeat our own cause because the public will not believe it, and our own dark readers will shrink from our pages. And so we have fed the world the atrocities we knew of in carefully regulated doses, often incurring the censure of members of our own race, who knew of particular incidents, for our failure to mention them.
+
+But once in a while, thank God, the sickening shame becomes too much even for the shame-haunted digestions of white bourbons. The shrill cry of Governor Dorsey’s revelations corroborates every word <span class="crisis-title">The Crisis</span> ever wrote, every leaflet the N.A.A.C.P. ever printed: insult, intimidation, stealing, maltreating men and women, illegal arrest and imprisonment, outrageous public officials, almost unbelievable personal cruelty, lynching, torture, murder and deliberate slavery.
+
+This is not a <span class="crisis-title">Crisis</span> revelation. It is worse even than the horrible tales we have sometimes published, and it is given to the press by the white governor of a southern state! Take but a few details, each from a different Georgia county:
+
+
+> Negroes have been called from their homes, shots fired, threats made to do them physical injury if they had not left by night.    
+> 
+> ---
+> 
+> The Sheriff's letter bears the seal of the Ku Klux Klan.
+>   
+> ---
+> 
+> A Negro was killed without excuse, it is said, by a deputy officer in this county in the latter part of 1920.
+> 
+> ---
+> 
+> Two of his daughters started to him. A man kicked one girl in the stomach. The other reached her father and began to wipe the blood from his face. The three were quickly overpowered. The third daughter and the son were caught. All were locked in jail. The girl who was kicked was ill at the time. The blow made her deathly sick. She lay in jail moaning and begging that something be done for her and her father, who was bleeding badly from his wounds. The Sheriff locked them in and left them without medical attention and ignorant of the charge against them.
+> > 
+> ---
+> 
+> The man's smaller children and his wife were in his home while he was in jail. A mob led by the town marshal went to the house, kicked the door and demanded admittance, then shot up the house and went away. This was night.
+> 
+> ---
+> 
+> Next morning the woman and her children fled from her home, never to return.
+> 
+> ---
+> 
+> The education of his children and the success of his thrift seem to be the sole offense of the Negro.
+> 
+> ---
+> 
+> A Negro complained in a peonage case. At the trial in Atlanta he appeared as a witness. Fearing to return to the county he went elsewhere to live. The son of his former employer discovered where he was living, obtained a warrant for his arrest, and brought him back. He disappeared. A boy fishing found a skull in the stream.
+> 
+> ---
+> 
+> No Negroes remain in this county.
+
+Governor Dorsey, who bravely and openly discloses the truth, is not a member of that professional guild of southern white "Friends of the Negro". Ex-Governor Brough of Arkansas is the type of man who belonged to that spotless tribe and when conditions similar to those in Georgia began to be unearthed there, instead of standing up to his previous professions and pronouncements like a man, he staged riot and murder, brought in United States soldiers and Mississippi slave-drivers to harry and kill the Negroes, advertised in the Press and bulldozed the courts, and was determined to execute twenty-four innocent victims and send dozens more to life imprisonment, because they dared to take a stand against human slavery and organized theft.
+
+Georgia stands naked and ashamed because one man dared tell the truth; but be not deceived. Georgia is no exception. Conditions in the county districts and villages of Mississippi are far worse than in Georgia. Conditions in certain districts of Alabama, Louisiana, Arkansas and Texas are equally as bad, and Florida and South Carolina follow fast behind. This hell of the black South concealed back of the display and apparent peace of the large towns and cities, is no revelation to nine out of ten Southerners; but a conspiracy of silence keeps it out of the newspapers and when <span class="crisis-title">The Crisis</span> speaks, its word is discounted as a radical fairy tale.
+
+Even the Christian church has helped and enthroned this universal lie. The white Arkansas *Methodist* says:
+
+> For months we have purposed writing in advocacy of giving the Negro a "square deal," and have been deterred by a realization that any admission of unfair dealing would be interpreted to admit far more than would be intended and thus encourage unwarranted hopes or presumption.
+
+Can you imagine such smug hypocrisy in the face of murder, outrage and slavery, on the part of a paper which carries in capitals *on the same page*:
+
+> THE HAUGHTY PEOPLE OF THE EARTH DO LANGUISH. THE EARTH ALSO IS DEFILED UNDER THE INHABITANTS THEREOF; BECAUSE THEY HAVE TRANSGRESSED THE LAWS, CHANGED THE ORDINANCE, BROKEN THE EVERLASTING COVENANT. THEREFORE HATH THE CURSE DEVOURED THE EARTH, AND THEY THAT DWELL THEREIN ARE DESOLATE.
+
+What can be done to remedy this southern situation---this sore whose filth for fifty years has defiled this nation and made its name a hissing in the ears of the world?
+
+First of all, will not this revelation, with its damning proof of truth, drive from its lethargy and drowsy excuses the conscience of this land? Will not Americans at last face their real, their greatest social problem? More than that, will not the white South stand up, throw off its silly provincialism, welcome the aid of every serious soul, north, south, white, black, native, foreign, and marshall the forces of righteousness against the mob and the murderer? Will not the South cease to sneer at and traduce those Negroes who refuse to submit to slavery and outrage, and spew out the dangerous black lickspittles who crawl and deceive?
+
+Governor Dorsey advises certain measures of reform; some of them like education, publicity and change of venue are splendid; others like financial penalties and state police are but palliative; below all these and fundamental is the Right to Vote. So long as the Negro is disfranchised, sheriff, judges and local officials, the mob and the murderer, will spurn their rights. Let us face the truth: Education and the Ballot are the first steps to decency and civilization and the South must and will acknowledge it.
+<!-- Similar articles start here -->
+<div  class="clear-wrap"></div>
+
+#### Related Articles
+
+* [A Statement (1919)](/Volumes/19/01/statement.html)
+* [The Macon Telegraph (1920)](/Volumes/19/03/macon_telegraph.html)
+* [The Liberal South (1921)](/Volumes/21/06/liberal-south.html)
+* [The Truth (1912)](/Volumes/05/02/truth.html)
+* [Heroes (1919)](/Volumes/19/01/heroes.html)
+
+<!-- Similar articles end here -->

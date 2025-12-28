@@ -1,6 +1,6 @@
-
 ---
 title: 'That Capital ''N'''
+description: "W.E.B. Du Bois in The Crisis (1916) argues that capitalizing Negro affirms racial dignity and rejects a legacy of slavery and editorial bias."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 From time to time persons write us for a brief statement of the reasons for capitalizing the word *Negro*.
 

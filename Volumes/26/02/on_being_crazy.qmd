@@ -1,6 +1,6 @@
-
 ---
 title: 'On Being Crazy'
+description: "In 1923 W.E.B. Du Bois in The Crisis exposes everyday racial exclusion as irrational cruelty, using vignettes to critique white prejudice."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 It was one o'clock and I was hungry. I walked into a restaurant, seated myself and reached for the bill-of-fare. My table companion rose.
 

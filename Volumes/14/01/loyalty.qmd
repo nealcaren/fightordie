@@ -1,6 +1,6 @@
-
 ---
 title: 'Loyalty'
+description: "W.E.B. Du Bois in The Crisis (1917) rebukes Southern claims of Black disloyalty, defending Black patriotism, migration, and claims to democracy."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 Nothing better illustrates the attitude of the Bourbon South than the recent tales about German propaganda among Negroes.
 

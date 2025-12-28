@@ -1,6 +1,6 @@
-
 ---
 title: 'Segregation'
+description: "W.E.B. Du Bois in The Crisis (1934) argues voluntary Black self-organization counters racial discrimination and advances economic, educational and labor justice."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 The thinking colored people of the United States must stop being stampeded by the word segregation. The opposition to racial segregation is not or should not be any distaste or unwillingness of colored people to work with each other, to cooperate with each other, to live with each other. The opposition to segregation is an opposition to discrimination. The experience in the United States has been that usually when there is racial segregation, there is also racial discrimination.
 

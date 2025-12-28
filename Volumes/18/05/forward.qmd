@@ -1,6 +1,6 @@
-
 ---
 title: 'Forward'
+description: "In a 1919 Crisis Forward, W.E.B. Du Bois urges Black readers to study labor struggles, public-utility ownership, and global fights for democracy and worker rule."
 author:
   - name:
       given: W.E.B.
@@ -22,8 +22,7 @@ format:
     appendix-cite-as: display
 ---
 
-
- We black folk easily drift into intellectual provincialism. We know our problem and tend to radical thought in its solution, but do we strive to know the problems of other forward forging groups whose difficulties are inevitably intertwined with ours?
+We black folk easily drift into intellectual provincialism. We know our problem and tend to radical thought in its solution, but do we strive to know the problems of other forward forging groups whose difficulties are inevitably intertwined with ours?
 
 Here, for instance, is the question of the ownership of public utilities---the railroads, the telegraph and telephone and the street cars---utilities used largely, if not primarily, by the working class, and businesses which have yielded immense fortunes to private owners in the past.
 

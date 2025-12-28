@@ -1,6 +1,6 @@
-
 ---
 title: 'The White Christ'
+description: "W.E.B. Du Bois in The Crisis (1915) criticizes white Christianity's wartime hypocrisy and praises the democratic, inclusive Negro church."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 It seems fair to judge the christianity of white folk by two present day developments: the World War and "Billy" Sunday. As to the widespread and costly murder that is being waged today by the children of the Prince of Peace comment is quite unnecessary. It simply spells the failure of christianity. As to "Billy" Sunday there is room for opinions. Personally we do not object to him; he is quite natural under the circumstances and a fit expression of his day. He is nearly the same thing as the whirling dervish, the snake dancer and devotee of "Mumbo Jumbo." Such methods of appealing to primitive passions and emotions have been usual in the history of the world. Today they are joined, in the case of Mr. Sunday, to picturesque abuse of the English language, unusual contortions and a curious moral obtuseness which allows Mr. Sunday to appropriate a whole speech belonging to Robert Ingersol and use it as his own. The result has been a large number of converts and widespread demand for Mr. Sunday's services. All this seems necessary. Evidently Mr. Sunday's methods are the only ones that appeal to white Christians. Reason does not appeal. Suffering and poverty does not appeal. The lynching and burning of human beings and torturing of women has no affect. But the contortions of Mr. Sunday bring people down the "saw-dust" trail. 
 

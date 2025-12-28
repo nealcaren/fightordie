@@ -1,6 +1,6 @@
-
 ---
 title: 'A Lunatic or a Traitor'
+description: "W.E.B. Du Bois in The Crisis (1924) condemns Marcus Garvey as a dangerous traitor or lunatic who undermines race progress and Black democracy."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 In its endeavor to avoid any injustice toward Marcus Garvey and his followers, <span class="crisis-title">The Crisis</span>  has almost leaned backward. Notwithstanding his wanton squandering of hundreds of thousands of dollars we have refused to assume that he was a common thief. In spite of his monumental and persistent lying we have discussed only the larger and truer aspects of his propaganda. We have refrained from all comment on his trial and conviction for fraud. We have done this too in spite of his personal vituperation of the editor of <span class="crisis-title">The Crisis</span>  and persistent and unremitting repetition of falsehood after falsehood as to the editor's beliefs and acts and as to the program of the N.A.A.C.P.
 

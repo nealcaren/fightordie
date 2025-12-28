@@ -1,6 +1,6 @@
-
 ---
 title: 'Missionaries'
+description: "W.E.B. Du Bois in The Crisis (1929) exposes racial discrimination in U.S. missionary societies, blocking Black missionaries to Africa."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 There is a curious attitude on the part of religion in the United States and Europe toward American Negro missionaries. It is a little difficult to get at all the facts, but a questionnaire sent out among various missionary organizations reveals the following apparent situation:
 

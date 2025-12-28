@@ -1,5 +1,6 @@
 ---
 title: 'Houston'
+description: "W.E.B. Du Bois, writing for The Crisis (1928), shows the Democratic Party weaponizing race to suppress Black voters, exposing Jim-Crow politics and corruption."
 author:
   - name:
       given: W.E.B.

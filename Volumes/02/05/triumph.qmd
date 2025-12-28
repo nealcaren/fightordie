@@ -1,6 +1,6 @@
-
 ---
 title: 'Triumph'
+description: "In a 1911 Crisis piece, W.E.B. Du Bois condemns lynching and white‑supremacist mob violence, urging Black resistance for justice and democracy."
 author:
   - name:
       given: W.E.B.
@@ -21,9 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
-
 
 Let the eagle scream! Again the burden of upholding the best traditions of Anglo-Saxon civilization has fallen on the sturdy shoulders of the American republic. Once more a howling mob of the best citizens in a foremost State of the Union has vindicated the self-evident superiority of the white race. The case was perfectly clear; it was not that murder had been done, for we Americans are not squeamish at mere murder. Off and on we do more of that kind of thing than most folk. Moreover, there was not much of a murder---only the crazed act of a drunken man quite unpremeditated. The point is he was black.
 
@@ -53,9 +50,9 @@ But let every black American gird up his loins. The great day is coming. We have
 #### Related Articles
 
 * [Crime (1920)](/Volumes/19/04/crime.html)
+* [Crime (1921)](/Volumes/22/02/crime.html)
 * [The Old Story (1911)](/Volumes/01/03/old_story.html)
 * [Murder (1914)](/Volumes/09/02/murder.html)
 * [Courts and Jails (1932)](/Volumes/39/04/courts_and_jails.html)
-* [Lynching (1911)](/Volumes/02/04/lynching.html)
 
 <!-- Similar articles end here -->

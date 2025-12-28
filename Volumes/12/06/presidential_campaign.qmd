@@ -1,6 +1,6 @@
-
 ---
 title: 'The Presidential Campaign'
+description: "In The Crisis 1916, W.E.B. Du Bois condemns Democratic betrayal of Black voters and warns Republicans like Hughes will offer neglect, not justice."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 The Negro voter enters the present campaign with no
 enthusiasm. Four years ago the intelligent Negro voter tried a great and
@@ -56,7 +54,7 @@ the third party is at least temporarily thrown away.
 * [Mr. Hughes (1916)](/Volumes/13/01/mr_hughes.html)
 * [The Negro in Politics (1929)](/Volumes/36/11/negro_in_politics.html)
 * [The Election (1912)](/Volumes/05/02/the_election.html)
+* [The President (1922)](/Volumes/22/01/president.html)
 * [Presidential Candidates (1916)](/Volumes/13/01/presidential_candidates.html)
-* [The Election (1928)](/Volumes/35/12/election.html)
 
 <!-- Similar articles end here -->

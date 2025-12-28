@@ -1,6 +1,6 @@
-
 ---
 title: 'A New Party'
+description: "In 1930 W.E.B. Du Bois in The Crisis urges a new labor party to expand public ownership, social welfare, restore Black voting rights and curb imperialism."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 The League for Independent Political Action, which has headquarters at 347 Madison Avenue, New York, is an association of individuals, committed personally and as a group, to the development of a new political party, based on the principle of increasing democratic social control as distinguished from the present policies of the Republican and Democratic parties. This League is going to gather information; make research; distribute literature; form local clubs; and eventually it will nominate and ask support for its candidates. 
 

@@ -1,6 +1,6 @@
-
 ---
 title: 'Our Book Shelf'
+description: "W.E.B. Du Bois in The Crisis (1926) lauds Alain Locke's The New Negro as a racial renaissance—propaganda for life and liberty, warning art must serve struggle."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 <h2><em>The New Negro</em>, edited by Alain Locke. Albert and Charles Boni, New York, 1925. 446 pages.</h2>
 

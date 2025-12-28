@@ -1,6 +1,6 @@
-
 ---
 title: 'The Prize Fighter'
+description: "W.E.B. Du Bois in The Crisis (1914) argues press outrage over Jack Johnson reveals white racist backlash—sporting morality masks racial hypocrisy."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 Boxing is an ancient sport. It is mentioned in Homer's Iliad and Virgil's
 Aeneid and was a recognized branch of the celebrated Olympic games.

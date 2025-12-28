@@ -1,5 +1,6 @@
 ---
 title: 'Optimism'
+description: "In 1927 W.E.B. Du Bois in The Crisis rejects naive optimism, celebrates Black self-assertion in race, education, labor, arts, and legal progress."
 author:
   - name:
       given: W.E.B.
@@ -20,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 Nothing is more dangerous than unintelligent optimism, childish faith in the triumph of good, the "God's-in-His-heaven" attitude assumed because one is too lazy to be worried. On the other hand, the worst moral dyspepsia must face facts; and looking back on the history of the Negro race in America for the last few years one cannot help feeling a sense of tremendous encouragement.
 

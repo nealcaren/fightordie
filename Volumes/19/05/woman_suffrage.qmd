@@ -1,6 +1,6 @@
-
 ---
 title: 'Woman Suffrage'
+description: "In The Crisis (1920), W.E.B. Du Bois urges Black women to organize, study laws, register, and prepare for suffrage to defend democracy and race rights."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 Thirty-one states, with a population of 681,325 colored women, 21 years of age and over, in 1910, and at least 750,000 today, have ratified the proposed Woman Suffrage Amendment:
 

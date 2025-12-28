@@ -1,6 +1,6 @@
-
 ---
 title: 'Brother Baptis'' on Woman Suffrage'
+description: "W.E.B. Du Bois argues in The Crisis (1912) that Black women and voters unite for suffrage and democracy, exposing how racism and sexism oppress both."
 author: Jonas, Rosalie
 date: Mar. 1912
 categories: 
@@ -18,7 +18,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 When hit come ter de question er de female vote,       
 De ladies an' de cullud folks is in de same boat.      

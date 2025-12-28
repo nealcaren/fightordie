@@ -1,6 +1,6 @@
-
 ---
 title: 'Social Equality'
+description: "W.E.B. Du Bois in The Crisis 1922 argues for social equality for Black Americans, condemning racial contempt and urging refusal to return hatred."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 Do I want Social Equality? Certainly I do. Every normal decent human being wants to associate with his fellowmen on terms of equality. We like to be invited out. We want people to want us. We are unhappy if we are ostracised and ignored and despised and forgotten. Booker T. Washington wanted social equality and got it. R.R. Moton accepts it whenever and wherever it is offered. I, he, they, everybody wants men to want us.
 

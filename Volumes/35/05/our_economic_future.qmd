@@ -1,6 +1,6 @@
-
 ---
 title: 'Our Economic Future'
+description: "Du Bois argues in The Crisis (1928) that Black labor power relies on cooperative manufacturing and consumer co-ops, challenging white-dominated markets."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 There can be no doubt but what the whole economic future of the Negro in America is ready for new thought and new planning. All the old slogans and old advice are worthless. To ask an individual colored man today to go into the grocery business or to open a drygoods shop or to sell meat, shoes, candy, books, cigars, clothes or fruit is competition with the Chain Store, is to ask him to commit slow but almost inevitable economic suicide, unless he has some unusual local or personal advantage. 
 

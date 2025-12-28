@@ -1,5 +1,6 @@
 ---
 title: 'Every Four Years'
+description: "In The Crisis (1920), W.E.B. Du Bois denounces the Republican Party for buying Southern delegates, betraying Black leaders and enabling disfranchisement."
 author:
   - name:
       given: W.E.B.
@@ -20,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 Every four years the disgrace of the buying up of certain delegates for the Republican convention is repeated in the Southern South. In South Carolina, Georgia, Florida, Alabama, Mississippi, Louisiana, and Texas, there are a few professional grafters, black and white, who assume to represent the “Republican Party.” They are for sale to the highest bidder. Republican candidates begin their campaign by sending men into the South to buy the support of these men, and the whole Negro race is blamed for this recurring disgrace. But whose is the fault? The fault lies at the doors of the National Republican Party. Not only is the party and its candidates willing and eager to buy up this support, but they have repeatedly refused support or countenance to the better class of colored leaders, who seek to oust these thieves. They give recognition and offices to the “Lily Whites” wherever possible, thus carrying out a policy, begun by Theodore Roosevelt and brought to its highest fruition by William H. Taft.
 

@@ -1,6 +1,6 @@
-
 ---
 title: 'Darrow'
+description: "W.E.B. Du Bois, in *The Crisis* (1928), honors Clarence Darrow’s defense of labor and Black rights, and attacks ministers who favor creed over deeds."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 Nothing more unfortunate has happened in the recent history of the Negro
 race than the attitude of black ministers in Washington toward Clarence

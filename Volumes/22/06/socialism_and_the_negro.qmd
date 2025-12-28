@@ -1,6 +1,6 @@
-
 ---
 title: 'Socialism and the Negro'
+description: "In The Crisis (1921), W.E.B. Du Bois critiques socialism's promise for Black labor, urging cautious, evolutionary reform amid race and imperialism."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 We have an interesting letter from John H. Owens of Washington, which we would like to publish in full but can only note certain extracts. Mr. Owens says, in answer to the editorial in the July <span class="crisis-title">Crisis</span> on "[The Negro and Radical Thought](../03/negro_and_radical_thought.html)":
 

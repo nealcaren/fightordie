@@ -1,6 +1,6 @@
-
 ---
 title: 'Advertising'
+description: "1922: W.E.B. Du Bois in The Crisis argues modern advertising can mobilize indifferent white readers to expose lynching, advancing racial justice and democracy."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 Most colored folk do not yet quite understand modern advertising. They still think of advertising as a species of bribery, hush-money or charity given to newspapers to secure their support or reward their faithfulness or pay their debts.
 

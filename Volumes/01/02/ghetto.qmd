@@ -1,6 +1,6 @@
-
 ---
 title: 'The Ghetto'
+description: "In The Crisis (1910) W.E.B. Du Bois denounces the ghetto and racial segregation as undemocratic, urging education and interracial association."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 It is curious how old ideas recur and ancient ones persist. In earliest times the easiest way to prevent trouble was to separate the combatants---put space between them, herd them in separate sections and territories. So long as the world was wide this was feasible and often effective. As the world grows narrower, it is not so easy and as it grows more civilized it is less advisable. For after all culture is the meeting and learning of men.
 

@@ -1,6 +1,6 @@
-
 ---
 title: 'The Present'
+description: "In 1917 The Crisis, W.E.B. Du Bois urges the American Negro to fight in war and seize industrial, labor and civic openings to build a colorless democracy."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 We are facing a new world. Never again are we going to cope with the same conditions and the same social forces that we have faced in the last half-century. There will be in the world the same human beings, but new forces have been loosed and a new situation has arisen. It is the business of the American Negro not to sit idly by and see this rearrangement of the world, hoping that something will come out of it of good for him. It is rather his business actually to put himself into the turmoil and work effectively for a new democracy that shall know no color.
 

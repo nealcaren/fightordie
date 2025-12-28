@@ -1,6 +1,6 @@
-
 ---
 title: 'Does Organization Pay?'
+description: "W.E.B. Du Bois in The Crisis (1914) urges Black unity and NAACP membership, arguing organized action is essential to secure racial rights and democracy."
 author:
   - name:
       given: W.E.B.
@@ -21,6 +21,7 @@ format:
     toc: false
     appendix-cite-as: display
 ---
+
 ﻿
 
 The colored Americans have not yet realized the strength or efficiency of organization. They continually complain of inability to co-operate, of disintegrating tendencies, of ineffective beginnings of union. 

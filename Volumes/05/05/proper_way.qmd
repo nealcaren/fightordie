@@ -1,6 +1,6 @@
-
 ---
 title: 'The Proper Way'
+description: "W.E.B. Du Bois in The Crisis (1913) urges constant agitation against disfranchisement, Jim Crow, and lynching to defend Black democracy."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 The editor of the Cleveland *Gazette* names three main points of attack for any national association which aims to help colored people:
 

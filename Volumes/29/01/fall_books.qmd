@@ -1,6 +1,6 @@
-
 ---
 title: 'Fall Books'
+description: "W.E.B. Du Bois in The Crisis (1924) reviews fall books, indicting the Southern oligarchy, lynching, and disfranchisement while championing race, democracy, and education"
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 Walter White has written in "The Fire in the Flint" a good, stirring story and a strong bit of propaganda against the white Klansman and the black pussyfoot. White knows his Georgia from A to Z. There is not a single incident or a single character in the book which has not its prototype in real life today. All Mr. White's white people are not villains nor are all his Negroes saints, but one gets a thrilling sense of the devilish tangle that involves good and evil in the southern South.
 

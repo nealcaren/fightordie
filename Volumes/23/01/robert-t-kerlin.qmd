@@ -1,5 +1,6 @@
 ---
 title: 'Robert T. Kerlin'
+description: "In 1921 The Crisis, W.E.B. Du Bois lauds Robert Kerlin's courage defending Elaine victims, denouncing Southern race injustice and VMI's academic dismissal."
 author:
   - name:
       given: W.E.B.

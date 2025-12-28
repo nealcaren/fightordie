@@ -1,5 +1,6 @@
 ---
 title: 'Of Cold Feet'
+description: "W.E.B. Du Bois in The Crisis (1921) condemns patriotic bluster and cowardly refusal to protest a libelous film, a moral critique of civic duty and race."
 author:
   - name:
       given: W.E.B.
@@ -35,7 +36,7 @@ But when we asked for volunteers to protest a libellous film play, five promised
 * [Thirteen (1918)](/Volumes/15/03/thirteen.html)
 * [A Quarter Million (1921)](/Volumes/21/05/a_quarter_million.html)
 * [Heroes (1919)](/Volumes/19/01/heroes.html)
+* [The Rising Truth (1921)](/Volumes/22/02/rising-truth.html)
 * [Our Special Grievances (1918)](/Volumes/16/05/our_special_greivances.html)
-* [Radicals (1919)](/Volumes/19/02/radicals.html)
 
 <!-- Similar articles end here -->

@@ -1,6 +1,6 @@
-
 ---
 title: 'Colored Chicago'
+description: "1915 W.E.B. Du Bois in The Crisis profiles Chicago's 50,000 Black residents, their labor, housing, schools, institutions, and racial barriers to advancement."
 author:
   - name:
       given: W.E.B.

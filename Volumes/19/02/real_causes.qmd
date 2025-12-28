@@ -1,5 +1,6 @@
 ---
 title: 'The Real Causes of Two Race Riots'
+description: "In a 1919 Crisis piece, W.E.B. Du Bois argues race riots stem from Southern peonage, labor exploitation, and white mob violence undermining democracy."
 author: National Association for the Advancement of Colored People
 date: Jun. 1919
 categories: 
@@ -17,7 +18,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 ## Arkansas
 
@@ -109,8 +109,8 @@ Both Brown, who was lynched, and the woman who accused him belonged to the under
 
 * [Information Wanted (1920)](/Volumes/19/05/information_wanted.html)
 * [Flood (1927)](/Volumes/34/05/flood.html)
+* [Slavery (1922)](/Volumes/22/01/slavery.html)
 * [Slavery (1922)](/Volumes/24/01/slavery.html)
 * [Arkansas (1920)](/Volumes/19/04/arkansas.html)
-* [The Negro and the Land (1914)](/Volumes/07/04/negro_land.html)
 
 <!-- Similar articles end here -->

@@ -1,6 +1,6 @@
-
 ---
 title: 'The Grandfather Clause'
+description: "In The Crisis (1915), W.E.B. Du Bois exposes the Grandfather Clause as a racist tool undermining Black democracy, education, and labor rights."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 The white southern oligarchy is laughing silently behind its hand.
 Two decades' years ago it faced a dilemma. A wretched Negro public

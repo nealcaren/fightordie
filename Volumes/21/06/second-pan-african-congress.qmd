@@ -1,5 +1,6 @@
 ---
 title: 'The Second Pan-African Congress'
+description: "W.E.B. Du Bois in The Crisis (1921) announces the Second Pan-African Congress in Paris, arguing logistics and anti-colonial solidarity unite Black communities."
 author:
   - name:
       given: W.E.B.
@@ -43,6 +44,6 @@ The Negro World and Steamship Communication
 * [Memorandum to M. Diagne and Others on a Pan-African Congress to be held in Paris in February, 1919 (1919)](/Volumes/17/05/memorandum_to_m_diagne_and_others_on_a_panafrican_congress.html)
 * [Pan-Africa (1921)](/Volumes/21/03/pan-africa.html)
 * [Manifesto to the League of Nations (1921)](/Volumes/23/01/manifesto.html)
-* [Travel (1926)](/Volumes/33/02/travel.html)
+* [The Second Pan-African Congress (1921)](/Volumes/22/02/second-congress.html)
 
 <!-- Similar articles end here -->

@@ -1,9 +1,15 @@
 project:
   type: website
+  output-dir: docs
+
+execute:
+  freeze: auto
 
 website:
   title: "Dare You Fight"
-  navbar:  
+  description: "A comprehensive digital archive of W.E.B. Du Bois's writings from The Crisis magazine (1910-1934), featuring over 600 articles and editorials on civil rights, race relations, and social justice in early 20th century America."
+  site-url: https://www.dareyoufight.org
+  navbar:
     logo: Images/logo.png
     href: https://www.dareyoufight.org
     right:
@@ -16,6 +22,12 @@ website:
       - map.qmd
       - covers.qmd
       - credits.qmd
+  open-graph:
+    locale: en_US
+    site-name: "Dare You Fight"
+  twitter-card:
+    creator: "@nealcaren"
+    card-style: summary_large_image
 
 format:
   html:
@@ -24,5 +36,34 @@ format:
     toc: true
     fontsize: 1.25em
     mainfont: 'Roboto'
+    link-external-newwindow: true
+    link-external-icon: true
+    anchor-sections: true
+    include-in-header:
+      - text: |
+          <script type="application/ld+json">
+          {
+            "@context": "https://schema.org",
+            "@type": "DigitalDocument",
+            "name": "Dare You Fight: W.E.B. Du Bois in The Crisis",
+            "description": "Digital archive of W.E.B. Du Bois's writings from The Crisis magazine (1910-1934)",
+            "url": "https://www.dareyoufight.org",
+            "author": {
+              "@type": "Person",
+              "name": "W.E.B. Du Bois",
+              "sameAs": "https://en.wikipedia.org/wiki/W._E._B._Du_Bois"
+            },
+            "publisher": {
+              "@type": "Organization",
+              "name": "Dare You Fight"
+            },
+            "about": {
+              "@type": "Thing",
+              "name": "Civil Rights Movement"
+            },
+            "inLanguage": "en-US",
+            "isAccessibleForFree": true
+          }
+          </script>
 
 

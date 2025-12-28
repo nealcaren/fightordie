@@ -1,6 +1,6 @@
-
 ---
 title: 'A Quarter Million'
+description: "In 1921 W.E.B. Du Bois urges readers in The Crisis to join the NAACP's 250,000-member drive to defend Black freedom, democracy, and civil rights."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 Year before last the N.A.A.C.P. counted 90,000 members; last year because of the assault on our secretary in Texas and the post-war slump in all united effort we had about 88,000 members. This year, recovered and alive, with a new secretary and new assistants, with our hands so full of work and the field so ripe for harvest that we scarcely know where to begin, we are launching a spring drive. We are going to find 250,000 red-blooded black and white men and women who believe in freedom and in the methods which we have proven worth fighting with.
 

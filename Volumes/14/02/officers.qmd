@@ -1,6 +1,6 @@
-
 ---
 title: 'Officers'
+description: "W.E.B. Du Bois in The Crisis (1917) demands Negro officers and separate training camps to combat military racism and defend Black citizenship."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 Give us Negro officers for Negro troops. This is the slogan and let no specious argument turn us from it. Liars tell us that only white men can lead black men, and they tell us this in the face of the record of Sonni Ali, Touissaint L'Ouverture, General Dodd, Charles Young, and Frank Dennison. Give us Negro officers for Negro troops. 
 

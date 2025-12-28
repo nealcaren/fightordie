@@ -1,6 +1,6 @@
-
 ---
 title: 'Causes of Lynching'
+description: "W.E.B. Du Bois in The Crisis (1931) links lynching to ignorance, economic exploitation, political exclusion, religious intolerance, and sexual prejudice."
 author:
   - name:
       given: W.E.B.
@@ -21,9 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
-
 
 We have nothing but praise for the Southern Commission on the study of lynching. It has eleven members: the white members are: George F. Milton, Dr. W. J. McGlothlin, W. P. King, Julian Harris, Dr. Edward W. Odum, and Alexander Spence. The colored members are: Dr. R. R. Moton, Dr. John Hope, Dr. Charles S. Johnson, President B. F. Hubert and Professor John Work.
 

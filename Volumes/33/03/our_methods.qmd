@@ -1,6 +1,6 @@
-
 ---
 title: 'Our Methods'
+description: "In The Crisis (1927) W.E.B. Du Bois defends NAACP methods, arguing organized protest and legal action advance racial justice, democracy, and labor rights."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 Some assiduous friends have recalled the remark of a white secretary when he left the N.A.A.C.P. voicing serious doubts as to our methods. There has long been and long will be controversy over the stand which the N.A.A.C.P. has taken. There are those who still believe that our rights as American citizens can be won by cajoling and kow-towing and by the various methods of the so called "white-folks nigger."
 

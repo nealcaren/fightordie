@@ -1,6 +1,6 @@
-
 ---
 title: 'The Three Wise Men'
+description: "In his 1913 essay for The Crisis, W.E.B. Du Bois frames a Christmas parable that reclaims spiritual birth and uplifts the lowly, centering Black ministry."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 The comet was blazing down from the sky on the midnight before Christmas. Three songs were dying away in the East: one from the rich and ornate chapel of the great cathedral on the hills beyond 110th Street—a song of beauty and exquisite finish but coldly and formally sung. Another, a chant from the dim synagogue on the lower East Side—heavy with droning and passionate; the last from West 53d Street—a minor wail of utter melody. The songs had died away and the three priests, looking at the midnight sky, saw the comet at the same moment. The priest in the ornate chapel, gowned in his silken vestments, paused and stared wonderingly at the star; it seemed drawing near to him and guiding him. Almost before he knew it he had thrown a rich fur cloak about himself and was whirling downtown in a taxicab, watching the star with fascinated gaze. The rabbi on the lower East Side no sooner saw that blaze in the heavens than a low cry of joy left his lips and he followed swiftly, boarding a passing Grand Street car and changing up Broadway; he hung on the footboard to watch unmindful of the gibes at his white beard and Jewish gabardine. The old black preacher of 53d Street, with sad and wrinkled face, looked at the moving star thoughtfully and walked slowly with it. So the three men threaded the maize of the Christmas-mad streets, neither looking on the surging crowds nor listening to the shouts of the people, but seeing only the star. The "honk, honk" of the priest's taxicab warned the black priest scarcely too soon, and he staggered with difficulty aside as it whizzed by and made the motorman of the car, which bore the Jew, swear at the carelessness of the chauffeur. One flew, the other whirred swiftly and the third walked slowly; yet because of their differing ways they all came to the steps of the great apartment house at the same moment, and they bowed gravely to each other, yet not without curiosity, as each ascended the steps. The porter was strangely deferential and they rose swiftly to the seventh floor, where a wide hall door flew silently open.
 

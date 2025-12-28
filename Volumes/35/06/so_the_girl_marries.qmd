@@ -1,6 +1,6 @@
-
 ---
 title: 'So the Girl Marries'
+description: "W.E.B. Du Bois in The Crisis (1928) frames his daughter's wedding as a symbolic assertion of Black education, tradition, and racial progress."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 The problem of marriage among our present American Negroes, is a difficult one. On the one hand go conflicting philosophies: should we black folk breed children or commit biological suicide? On the other, should we seek larger sex freedom or closer conventional rules? Should we guide and mate our children like the French or leave the whole matter of sex intermingling to the chance of the street, like Americans? These are puzzling questions and all the more so because we do not often honestly face them. 
 

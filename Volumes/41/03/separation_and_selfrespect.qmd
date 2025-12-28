@@ -1,6 +1,6 @@
-
 ---
 title: 'Separation and Self-Respect'
+description: "W.E.B. Du Bois in The Crisis (1934) argues segregation harms race and democracy, urging Black self-organization, pride, and fight for quality education."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 That we continually face in this problem of race segregation in the United States is a paradox like this:
 

@@ -1,6 +1,6 @@
-
 ---
 title: 'William Monroe Trotter'
+description: "1934 The Crisis: W.E.B. Du Bois eulogizes Monroe Trotter, lauds his fight against racial segregation, and warns that organized civil-rights unity can prevail."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 Monroe Trotter was a man of heroic proportions, and probably one of the most selfless of Negro leaders during all our American history. His father was Recorder of Deeds for the District of Columbia, at the time when Recorders were paid by fees; and as a result, he retired from office with a small fortune, which he husbanded carefully. Thus, his son was born in comfortable circumstances, and with his talent for business, and his wide acquaintanceship with the best class of young Massachusetts men in his day, might easily have accumulated wealth. 
 

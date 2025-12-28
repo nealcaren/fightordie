@@ -1,5 +1,6 @@
 ---
 title: 'Ferdinand Q. Morton'
+description: "W.E.B. Du Bois in The Crisis (1925) profiles Ferdinand Q. Morton, a Tammany leader using party politics to secure Black representation and jobs."
 author:
   - name:
       given: W.E.B.

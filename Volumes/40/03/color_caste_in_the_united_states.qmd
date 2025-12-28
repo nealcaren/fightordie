@@ -1,6 +1,6 @@
-
 ---
 title: 'Color Caste in the United States'
+description: "In The Crisis (1933) W.E.B. Du Bois exposes the U.S. color caste that denies Black rights in marriage, labor, education and democracy."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 There are a large number of well meaning citizens of this country who are under the impression that the main lines of the American Negro problem are settled, and that while there is a deal more advance to be made, nevertheless, the average Negro, who is not too impatient, should be willing from now on to proceed toward his ultimate goal by quiet progress and unemotional appeal.
 
@@ -79,6 +77,6 @@ This, then, is the situation, and the question is, what are modern, educated peo
 * [Correspondence (1926)](/Volumes/31/05/correspondence.html)
 * [Intermarriage (1913)](/Volumes/05/04/intermarriage.html)
 * [Pan-Africa and New Racial Philosophy (1933)](/Volumes/40/11/panafrica_and_new_racial_philosophy.html)
-* [Unity (1924)](/Volumes/28/03/unity.html)
+* [History of Segregation Philosophy (1934)](/Volumes/41/03/history_of_segregation_philosophy.html)
 
 <!-- Similar articles end here -->

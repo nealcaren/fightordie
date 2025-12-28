@@ -1,5 +1,6 @@
 ---
 title: 'Presidential Candidates'
+description: "1920: W.E.B. Du Bois in The Crisis catalogs 17 presidential candidates' stances on lynching, Jim Crow, schools and voting—exposing political silence."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +22,6 @@ format:
     appendix-cite-as: display
 ---
 
-
 We have asked 17 men mentioned for the presidency what their attitude is on:
 
 1. Lynching
@@ -41,10 +41,10 @@ Senator Harding replied that he would stand on the party platform, and General W
 
 #### Related Articles
 
+* [The President (1922)](/Volumes/22/01/president.html)
 * [Mr. Roosevelt (1912)](/Volumes/04/05/mr_roosevelt.html)
 * [The Harding Political Plan (1922)](/Volumes/23/03/harding-political-plan.html)
 * [The Congressmen and the NAACP (1914)](/Volumes/09/02/congressmen_and_the_naacp.html)
 * [Allies (1911)](/Volumes/02/03/allies.html)
-* [Muddle (1916)](/Volumes/13/02/muddle.html)
 
 <!-- Similar articles end here -->

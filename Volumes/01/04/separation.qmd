@@ -1,5 +1,6 @@
 ---
 title: 'Separation'
+description: "In The Crisis (1911) W.E.B. Du Bois argues race-based separation betrays democracy, forcing Black subordination in education, law, and public life."
 author:
   - name:
       given: W.E.B.
@@ -20,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 It is a cruel mental strain to which honest colored men are being put to-day, particularly in the South. They want to come to terms with their neighbors. They are being urged to do this---urged by black leaders and white and by strong public opinion. The South sometimes is represented as aggressively friendly. They are seeking piteously, therefore,
 to agree wjth the dominant race and yet preserve something of their self-respect. It is very difficult. Take, for instance, the letter of an honest colored man in the New Orleans *Times-Democrat*. He says:

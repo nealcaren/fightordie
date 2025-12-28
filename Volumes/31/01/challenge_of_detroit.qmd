@@ -1,6 +1,6 @@
-
 ---
 title: 'The Challenge of Detroit'
+description: "In The Crisis (1925), W.E.B. Du Bois decries Detroit's racial housing violence, exposing how migration, prejudice, and real estate power threaten democracy."
 author:
   - name:
       given: W.E.B.
@@ -22,7 +22,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 In Detroit, Michigan, a black man has shot into a mob which was threatening him, his family, his friends and his home in order to make him move out of the neighborhood. He killed one man and wounded another.
 

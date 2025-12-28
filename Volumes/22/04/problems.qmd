@@ -1,6 +1,6 @@
-
 ---
 title: 'Of Problems'
+description: "W.E.B. Du Bois in The Crisis (1921) criticizes racial double standards that deny Black social equality, voting rights and self‑defense."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 Why is it that nothing is said of social equality save in the case of Negroes? The nation is mute as to Irishmen, Italians, Poles and Armenians. One may dine with Chinese, Japanese or East Indians. But Negroes? Social Equality!
 

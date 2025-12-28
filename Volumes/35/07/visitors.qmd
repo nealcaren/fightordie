@@ -1,6 +1,6 @@
-
 ---
 title: 'Visitors'
+description: "W.E.B. Du Bois analyzes how modern visitors disrupt labor in The Crisis (1928), urging respectful scheduling to balance work and human connection in democracy."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 To the hard worker in a great modern city the problem of the casual
 visitor is baffling. No one needs visitors more than he: he needs the
@@ -163,6 +161,6 @@ a Veil. From all Eternity I am sentenced to toil---and to love it.
 * [The Browsing Reader (1928)](/Volumes/35/05/browsing_reader.html)
 * [A Pilgrimage To The Negro Schools (1929)](/Volumes/36/02/a_pilgrimage_to_negro_schools.html)
 * [London (1911)](/Volumes/02/04/london.html)
-* [Prejudice (1927)](/Volumes/34/09/prejudice.html)
+* [Criteria of Negro Art (1926)](/Volumes/32/06/criteria_of_negro_art.html)
 
 <!-- Similar articles end here -->

@@ -1,6 +1,6 @@
-
 ---
 title: 'Education'
+description: "In The Crisis (1913), W.E.B. Du Bois urges Americans to confront the race problem through education and hard knowledge, not cowardly denial."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 Some folks are mental ostriches. We are not referring to their intellectual digestions, although there we realize is room for a whole. We are referring now to the method of mind that is able to persuade itself that the unseen is non-existent. An astounding number of people rushing through earth's deserts escape the evil that haunts them by sticking their heads in a hole in the ground and saying insistingly: "I don't believe it, and even if it is true I won't regard it."
 

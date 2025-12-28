@@ -1,6 +1,6 @@
-
 ---
 title: 'Chicago'
+description: "W.E.B. Du Bois in The Crisis (1927) condemns Chicago Democrats' anti-Black campaign, showing race-driven tactics that coerced Black votes and weakened democracy."
 author:
   - name:
       given: W.E.B.
@@ -21,9 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
-
 
 The late Chicago election was a serious misfortune. The Democratic mayor had previously made overtures to colored people. He had even spoken at the annual N.A.A.C.P. Conference. Thompson, the Republican, is a well-known demagogue, who represents open house to gamblers, bootleggers and prostitutes. Wise white Americans would have advised colored people in a campaign of this sort to vote for the Democrats. If they had been permitted, many far-sighted Negroes would have taken this advice. Indeed the most astute Negro politician in Chicago fought Thompson to the last in the Republican Primary and lost his city patronage when Thompson won.
 

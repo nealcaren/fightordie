@@ -1,6 +1,6 @@
-
 ---
 title: 'Crime and Lynching'
+description: "W.E.B. Du Bois argues in The Crisis (1912) that lynching provokes crime; stop lynching to stop crime, a humane critique grounded in Florida and vagrancy abuses."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 A favorite argument with shallow thinkers is: Stop
 crime and lynching will cease. Such a statement is both historically and logically false. Historically, lynching leads to lynching, burning to burning; and lynching for great crimes to lynching for trivial offenses. Moreover, lynching as practised today in the Uited States is not the result of crime---it is a cause of crime, on account of the flagrant, awful injustice it inflicts in so many cases on innocent men. Take, for instance, the story of the lynching in Florida, as told by Governor Gilchrist. He says, in answer to a correspondent:
@@ -53,8 +51,8 @@ Can we stop this by lynching? No. The first step toward stopping crime is to sto
 
 * [Lynching (1927)](/Volumes/33/04/lynching.html)
 * [Lynching (1914)](/Volumes/07/05/lynching.html)
+* [Crime (1921)](/Volumes/22/02/crime.html)
 * [Lynching (1926)](/Volumes/32/01/lynching.html)
 * [Lynching (1928)](/Volumes/35/09/lynching.html)
-* [Causes of Lynching (1931)](/Volumes/38/04/causes_of_lynching.html)
 
 <!-- Similar articles end here -->

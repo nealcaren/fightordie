@@ -1,6 +1,6 @@
-
 ---
 title: 'Intermarriage'
+description: "In 1916 W.E.B. Du Bois in The Crisis condemns anti-intermarriage laws as racial injustice, exposing how courts use law to ruin a mixed-race girl's life."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 There are those who from time to time suggest that the National
 Association for the Advancement of Colored People and <span class="crisis-title">The Crisis</span> go far afield in opposing laws to prohibit

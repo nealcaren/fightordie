@@ -1,6 +1,6 @@
-
 ---
 title: 'Precept and Practice'
+description: "In 1910 The Crisis, W.E.B. Du Bois condemns liberal hypocrisy as theatergoers applaud racial heroism yet permit restaurant discrimination."
 author:
   - name:
       given: W.E.B.
@@ -23,7 +23,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 A large audience was leaving New York's finest theatre. The play had been upon the Negro question, and one couple had been especially thrilled by the fine heroism of the white man, who, finding that he had a few drops of colored blood, allied himself with the despised race. "How magnificent," they were saying, "to dedicate oneself to the cause of the oppressed!"
 

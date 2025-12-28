@@ -1,6 +1,6 @@
-
 ---
 title: 'Shillady and Texas'
+description: "W.E.B. Du Bois in The Crisis (1919) castigates Texas for lynching, disenfranchisement, and racial violence that deny Blacks land, education, and democracy"
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 There was once a man who said that if he owned Hell and Texas, he would prefer to rent out Texas and live in Hell. He may have exaggerated, but he had some supporting facts: Texas was settled by white Southerners in order to extend slave territory; it was forcibly stolen from Mexico in 1837, largely because Mexico tried to abolish slavery in 1829. Thereupon Texas became a center of the African slave trade and the "most shameful violations" of United States slave trade laws were perpetrated through Texas. During the years of Texan independence slaves were rushed in at the rate of 15,000 or more a year and the annexation of Texas and the Mexican War were movements to extend Negro slavery.
 
@@ -48,8 +47,8 @@ This is Texas. This is the dominant white South. This is the answer of the Cowar
 
 * [Prejudice (1911)](/Volumes/02/01/prejudice.html)
 * [Slavery (1922)](/Volumes/24/01/slavery.html)
+* [Slavery (1922)](/Volumes/22/01/slavery.html)
 * [Houston (1917)](/Volumes/14/06/houston.html)
 * [Murder Will Out (1920)](/Volumes/20/05/murder_will_out.html)
-* [Carrizal (1916)](/Volumes/12/04/carrizal.html)
 
 <!-- Similar articles end here -->

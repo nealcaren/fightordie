@@ -1,6 +1,6 @@
-
 ---
 title: 'Carrizal'
+description: "In The Crisis (1916), W.E.B. Du Bois condemns U.S. racism: Carrizal's Black soldiers' sacrifice exposes hypocrisy—honored in death, denied rights in life."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 Carrizal was a glory and a blunder, a joke and a crucifixion; a blunder
 on the part of a President who sent an army on a fool's errand and on

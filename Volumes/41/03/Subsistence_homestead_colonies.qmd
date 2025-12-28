@@ -1,6 +1,6 @@
-
 ---
 title: 'Subsistence Homestead Colonies'
+description: "W.E.B. Du Bois argues in The Crisis (1934) that subsistence homestead colonies can empower Black workers, countering racial labor inequality."
 author:
   - name:
       given: W.E.B.
@@ -21,10 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
-
-
 
 The difficulty with the modern wage contract is that the contracting parties, the worker and the employer, do not meet with equal power to negotiate. The wage earner must accept in most cases any wage offer because otherwise he will starve to death; and since the employer's profit depends on the amount that he can save from wages, he is tempted to reduce the wage as nearly as possible to the bare necessities for keeping the worker alive.
 

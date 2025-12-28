@@ -1,6 +1,6 @@
-
 ---
 title: 'The New Crisis'
+description: "In 1925 W.E.B. Du Bois in The Crisis calls for renewed focus on race, labor, political independence, education, art and international peace."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 We have assumed, with the Spring, with the beginning  of our 30th semi-annual volume, with our 175th number and with the closing of a fateful quarter century, something of a new dress and a certain renewal of spirit.
 

@@ -1,6 +1,6 @@
-
 ---
 title: 'The Ballot'
+description: "In The Crisis (1919), W.E.B. Du Bois demands the ballot for Black WWI veterans, arguing democracy and education must end race-based disenfranchisement."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 We hail as prophetic the swan-song of Senator Thomas William Hardwick, of Georgia. He entered Congress in 1903, on a platform calling for the repeal of the Fifteenth Amendment. He leaves the Senate in 1919, at the special request of President Wilson, on account of his disloyalty,---not simply to his party leader and his country, but to the foundation principles of democratic government.
 

@@ -1,6 +1,6 @@
-
 ---
 title: 'The Tuskegee Hospital'
+description: "W.E.B. Du Bois (1923, The Crisis) condemns Tuskegee Hospital's racial segregation and political control, arguing it endangers Black veterans' health and dignity."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 We have strong reasons for 
 believing that the following 

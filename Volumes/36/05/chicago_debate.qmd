@@ -1,6 +1,6 @@
-
 ---
 title: 'The Chicago Debate'
+description: "In 1929 W.E.B. Du Bois in The Crisis rebukes racialist arguments, defending cultural equality and arguing social equality is civilized and inevitable."
 author:
   - name:
       given: W.E.B.
@@ -21,9 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
-
 
 There was held in the Coliseum in Chicago in March a debate between Lothrop Stoddard and the Editor of <span class="crisis-title">The Crisis</span> on the question "Should the Negro be Encouraged to Seek Cultural Equality?" The debate was notable; first, because of the popular interest which it aroused. Every one of the four thousand seats was taken and several hundred persons were unable to gain entrance. Probably one-third or more of the audience was white. Secondly, one noted the apparent disinclination of Mr. Stoddard frankly to state his position. This is symptomatic of a widespread change in the attitude of white Americans. It is becoming more and more difficult for them to state frankly the case against the Negro. The reason for this is that the main facts upon which they have been relying are no longer plausible and the thesis without them is barbarous, unscientific and unchristian.
 

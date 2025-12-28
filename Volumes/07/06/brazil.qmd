@@ -1,6 +1,6 @@
-
 ---
 title: 'Brazil'
+description: "In 1914 in The Crisis, W.E.B. Du Bois rebukes Roosevelt, defending Brazil's racial fusion and warning U.S. racism fuels poverty, lynching, and undermines democracy."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 As a magnificent essay in valiant timidity we recommend Mr. Theodore Roosevelt's "Brazil and the Negro" in the <i>Outlook</i>. The story which he has to tell is simple: There are in Brazil 8,300,000 Negroes and mulattoes; 3,700,000 Indian and mixed Indian-whites and 8,000,000 persons of European descent. All these elements are fusing into one light mulatto race. 
 

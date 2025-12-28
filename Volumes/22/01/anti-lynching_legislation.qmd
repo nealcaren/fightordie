@@ -1,6 +1,6 @@
-
 ---
 title: 'Anti-Lynching Legislation'
+description: "In 1922 in The Crisis, W.E.B. Du Bois defends the NAACP’s focused anti-lynching campaign, warning that splitting efforts harms race justice and freedom."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 During the last five years the N.A.A.C.P. has carried on a campaign against lynching, conducted in accordance with the most approved methods of public­ity. This campaign has been financed by philanthropists North and South, and black and white, and by wide-spread popular subscription. We have never heard any serious criticism of our campaign save, naturally, from those who oppose any effort to defend and emancipate black folk.
 

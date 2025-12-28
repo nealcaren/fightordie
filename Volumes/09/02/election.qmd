@@ -1,6 +1,6 @@
-
 ---
 title: 'The Election'
+description: "In 1914 W.E.B. Du Bois in The Crisis criticizes parties for ignoring 500,000 Black voters, arguing race and democracy force political reckoning."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 The chief matter of comfort to colored folk in the late election is the more evenly balanced power of the two great parties resulting from it. Neither Republicans nor Democrats can afford to defy 500,000 Negro voters in the next two years. The Republicans have disfranchised them in party councils and the Democrats have segregated them. With such a record both parties must do a lot of explaining.
 

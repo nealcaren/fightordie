@@ -1,6 +1,6 @@
-
 ---
 title: 'Naval Ruler'
+description: "In 1917 W.E.B. Du Bois in The Crisis criticizes military imperialism: naval officers govern colonies without training in democratic governance or social needs."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 When the United States takes possession of foreign territory it sends to govern it a naval officer. But, naval officers are not trained to govern. They are trained to fight! They have made no study of social organization, of human development, of industrial organization; if they are not quite unsympathetic, it is no fault of their training or of the traditions of their caste; yet, today they are well-nigh absolute masters in Nicaragua, San Domingo, Hayti and the erstwhile Danish West Indies. It would be impossible to conceive a more dangerous or foolhardy experiment.
 

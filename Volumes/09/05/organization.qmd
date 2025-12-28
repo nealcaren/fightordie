@@ -1,6 +1,6 @@
-
 ---
 title: 'Organization'
+description: "W.E.B. Du Bois in The Crisis 1915 urges Black Americans to emulate Jewish organization, arguing race uplift needs education, charity and civic unity."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 If the Negroes of the United States want to know what organization is and what it can accomplish along racial lines they should buy the American Jewish Year Book. This publication has courteously been sent to this office and a glance at its pages is most informing.
 

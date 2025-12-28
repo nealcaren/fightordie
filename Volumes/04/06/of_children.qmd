@@ -1,6 +1,6 @@
-
 ---
 title: 'Of Children'
+description: "W.E.B. Du Bois in The Crisis (1912) argues that children symbolize democracy’s future and moral responsibility, urging society to protect and nurture youth."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 This is the Children's Number, and as it has grown and developed in the
 editor's hesitating hands, it has in some way come to seem a typical

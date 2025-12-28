@@ -1,5 +1,6 @@
 ---
 title: 'The World and Us'
+description: "W.E.B. Du Bois argues in The Crisis (1921) that U.S. race caste, lynching, land monopoly and suppression of speech are pushing American democracy backward."
 author:
   - name:
       given: W.E.B.

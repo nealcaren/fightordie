@@ -1,6 +1,6 @@
-
 ---
 title: 'Blaine of Maine'
+description: "In a 1932 piece for The Crisis, W.E.B. Du Bois condemns revisionist Civil War myths, defending truth on slavery, Reconstruction, race and democracy."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 The semi-secret and persistent propaganda on the history and meaning of the Civil War still keeps up to an astonishing degree. No book or article can get even a respectful hearing among the leading reviewers of the nation unless it subscribes fully to this thesis:
 1. The cause of the Civil War was not slavery.

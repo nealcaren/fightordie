@@ -1,6 +1,6 @@
-
 ---
 title: 'Preparedness'
+description: "W.E.B. Du Bois in The Crisis (1915) argues that true national preparedness requires ending lynching and securing racial justice under law."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 In the presence of a world gone stark mad it seems of little use to talk of anything but war. Yet we wonder if a voice out of the South may not possibly call our war-mad President back to the kind of preparedness that some of us expected of him when he took the presidential chair.
 

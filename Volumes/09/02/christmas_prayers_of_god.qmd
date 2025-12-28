@@ -1,6 +1,6 @@
-
 ---
 title: 'The Christmas Prayers of God'
+description: "In a 1914 piece in The Crisis, W.E.B. Du Bois condemns war, imperial exploitation, racial violence and lynching, pleading to God for justice and mercy."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 <div class="poem">
 <p class = "verse">Name of God&rsquo;s Name!  

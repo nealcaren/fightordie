@@ -1,6 +1,6 @@
-
 ---
 title: 'Travel'
+description: "Traveling in 1926, W.E.B. Du Bois in The Crisis reports firsthand Russian and European journeys, arguing race and democracy are global issues."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 It was a brilliant idea when the Walker Manufacturing Company conceived the free trip around the world method of advertising. They have sent now for the third year groups of from four to six popular persons traveling over Europe and Asia and in so doing they have impressed upon certain of our leading citizens the fact that problems of race and color are problems of the world and not simply of the United States.
 

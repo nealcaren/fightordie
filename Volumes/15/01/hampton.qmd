@@ -1,6 +1,6 @@
-
 ---
 title: 'Hampton'
+description: "W.E.B. Du Bois in The Crisis (1918) criticizes Hampton Institute for curtailing Black education, burying talent, and excluding Black governance."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 The death of Hollis Burke Frissell, principal of Hampton Institute, brings that institution and its work prominently before the public. It is, therefore, peculiarly fitting that the following correspondence should be made public: 
 

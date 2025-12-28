@@ -1,6 +1,6 @@
-
 ---
 title: 'Again, Social Equality'
+description: "In the 1920 issue of The Crisis, W.E.B. Du Bois satirically exposes white hypocrisy that blocks Black social equality, voting rights, and true civic inclusion."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 Mr. Paleface entered his parlor mincingly,---"My dear man," he said, expressively. 
 

@@ -1,5 +1,6 @@
 ---
 title: 'Credits'
+description: "Acknowledgments and credits for the Dare You Fight digital archive project, recognizing contributors who have helped digitize and preserve W.E.B. Du Bois's writings from The Crisis magazine."
 ---
 
 

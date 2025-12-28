@@ -1,6 +1,6 @@
-
 ---
 title: 'The Election'
+description: "W.E.B. Du Bois in The Crisis (1928) condemns the white primary, praises Oscar DePriest, and urges democracy against corrupt political machines."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 Herbert Hoover and our only hope lies in the smashed and riven "white primary" of the lower South and the faint but heartening promise of the Socialist Third Party. 
 

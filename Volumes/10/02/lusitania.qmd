@@ -1,6 +1,6 @@
-
 ---
 title: 'Lusitania'
+description: "In a 1915 essay for The Crisis, W.E.B. Du Bois condemns World War I as the unveiling of Western racial and imperial hypocrisy, affirming Black moral vindication."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 The last horror of a horrible war is come! It puts a period to what we
 have already said: European civilization has failed. Its failure did not
@@ -54,10 +52,10 @@ are victims; we are not murderers, we are lynched!
 
 #### Related Articles
 
+* [Crime (1921)](/Volumes/22/02/crime.html)
 * [Murder (1914)](/Volumes/09/02/murder.html)
 * [Triumph (1911)](/Volumes/02/05/triumph.html)
 * [The Massacre in East St. Louis (1917)](/Volumes/14/05/massacre_of_east_st_louis.html)
 * [Lynching (1914)](/Volumes/07/05/lynching.html)
-* [Crime and Lynching (1912)](/Volumes/03/03/crime_and_lynching.html)
 
 <!-- Similar articles end here -->

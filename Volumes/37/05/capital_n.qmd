@@ -1,6 +1,6 @@
-
 ---
 title: 'The Capital N'
+description: "W.E.B. Du Bois in The Crisis (1930) argues that capitalizing Negro affirms racial self-respect and records a press shift tied to civil-rights advocacy."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 Recently and with a certain suddenness, the periodical press of the United States has decided to capitalize the word Negro.
 

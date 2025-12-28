@@ -1,6 +1,6 @@
-
 ---
 title: 'Promotion of Prejudice'
+description: "In 1911 W.E.B. Du Bois in The Crisis exposes syndicated racist editorials that manufacture race prejudice across North and South and threaten democracy."
 author:
   - name:
       given: W.E.B.
@@ -21,9 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
-
 
 Complacent people sit before
 race prejudice with folded hands. How unfortunate, they say, but how unchangeable! Then they select the appropriate adverbs "always" and "never" to show the impossibility of great change in. such human attitudes within any reasonable time.
@@ -74,6 +71,6 @@ Who is doing this philanthropic work? Who is paying for it? Is it our patriotic 
 * [A Statement (1919)](/Volumes/19/01/statement.html)
 * [Southern Papers (1911)](/Volumes/01/04/southern_papers.html)
 * [Blessed Discrimination (1913)](/Volumes/05/04/blesseddiscrimination.html)
-* ['Social Equality' (1911)](/Volumes/01/03/social_equality.html)
+* [The Rising Truth (1921)](/Volumes/22/02/rising-truth.html)
 
 <!-- Similar articles end here -->

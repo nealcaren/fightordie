@@ -1,5 +1,6 @@
 ---
 title: 'The Shambles of South Carolina'
+description: "W.E.B. Du Bois in The Crisis (1926) exposes lynching, Klan violence and legal failure in South Carolina, arguing racial terror corrodes democracy."
 author: White, Walter
 date: Jun. 1926
 categories: 
@@ -17,7 +18,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 Four men went down the darkened corridor of the Aiken, S. C., jail towards the cell where slept a colored woman. Through the brick and steel structure, there had grown all night a sense of impending terror. Here and there, prisoners unable to sleep with the shadow over them, moved restlessly about their cells, sensing vaguely the form of Tragedy standing nearby. 
 

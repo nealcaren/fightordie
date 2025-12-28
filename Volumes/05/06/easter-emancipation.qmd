@@ -1,6 +1,6 @@
-
 ---
 title: 'Easter-Emancipation 1863-1913'
+description: "In a 1913 poem for The Crisis, W.E.B. Du Bois mourns Black sacrifice since 1863 and affirms hard-won freedom, memory, and the cost of race and liberation."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 <div class="poem">
 <p class = "verse">I am dead;

@@ -1,5 +1,6 @@
 ---
 title: 'Jesus Christ in Georgia'
+description: "W.E.B. Du Bois, in The Crisis (1911), exposes how convict labor and mob violence reveal white supremacy, morally indicting racism and offering redemption."
 author:
   - name:
       given: W.E.B.
@@ -20,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 ![](../../../Images/03_02_jcg-2.jpg)  
 

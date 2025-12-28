@@ -1,6 +1,6 @@
-
 ---
 title: 'To The World'
+description: "W.E.B. Du Bois in The Crisis (1921) demands racial equality, self-government, education and labor rights, condemning colonialism and economic injustice."
 author:
   - name:
       given: W.E.B.

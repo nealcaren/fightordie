@@ -1,6 +1,6 @@
-
 ---
 title: 'The Congressmen and the NAACP'
+description: "W.E.B. Du Bois in The Crisis (1914) exposes congressmen's evasions on race, lynching, segregation and intermarriage, urging NAACP political accountability."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 Mr. Peter Ten Eyke, representative from the 28th district, New York, writes: "It is my advice to you to drop agitating the things which you have outlined in your letter until such time as you find that the wild rumors are liable to become a reality." This, of course, he says "in all sympathy with your race," and it expresses exactly the attitude which the National Association for the Advancement of Colored People is fighting and which its questionnaire addressed to congressional candidates seems to prove is the right fight for us to make.
 

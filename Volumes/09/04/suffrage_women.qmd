@@ -1,5 +1,6 @@
 ---
 title: 'Suffrage and Women'
+description: "In 1915 W.E.B. Du Bois in The Crisis warns that suffrage allies use racist, nativist calculations that endanger democracy and the women's movement."
 author:
   - name:
       given: W.E.B.
@@ -20,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 The woman suffrage movement this year needs special protection against
 its fool friends. One friend of suffrage has issued a circular asking if

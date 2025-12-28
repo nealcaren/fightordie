@@ -1,6 +1,6 @@
-
 ---
 title: 'Dr. Du Bois Resigns'
+description: "W.E.B. Du Bois resigns (1934). In The Crisis he accuses NAACP leadership of failing Black people on race, organization, and economic strategy, urging reform."
 author: National Association for the Advancement of Colored People
 date: Aug. 1934
 categories: 
@@ -19,8 +19,7 @@ format:
     appendix-cite-as: display
 ---
 
-
- **The full text of his letter and the resolution of the N.A.A.C.P. Board accepting his resignation**
+**The full text of his letter and the resolution of the N.A.A.C.P. Board accepting his resignation**
 
 The Board of Directors of the National Association for the Advancement of Colored people at the June meeting took no action upon the resignation of Dr. Du Bois, tendered as of June 11, but named a committee to confer with Dr. Du Bois and see if some satisfactory settlement of differences could not be arranged.
 

@@ -1,6 +1,6 @@
-
 ---
 title: 'Lynching'
+description: "W.E.B. Du Bois in The Crisis (1927) denounces 1926’s surge in lynching, arguing failed local justice demands federal action to protect Black life and democracy."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 There were thirty-four lynchings in the United States in 1926, nearly twice as many as in 1925.
 

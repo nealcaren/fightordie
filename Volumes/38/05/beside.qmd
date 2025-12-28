@@ -1,6 +1,6 @@
-
 ---
 title: 'Beside the Still Water'
+description: "In The Crisis (1931) W.E.B. Du Bois condemns theatrical racism, lauds Richard B. Harrison and urges American theatre to honestly portray race."
 author:
   - name:
       given: W.E.B.
@@ -22,7 +22,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 *This is the speech made by the Editor of The Crisis when the Lieutenant Governor of the State of New York bestowed the 17th Spingarn Medal on Richard B. Harrison.*
 
@@ -90,10 +89,10 @@ This meeting tonight is a tribute to Richard Harrison---a tribute belated and ar
 
 #### Related Articles
 
-* [Precept and Practice (1910)](/Volumes/01/02/precept_and_practice.html)
 * [DePriest (1929)](/Volumes/36/02/depriest.html)
-* [The Chicago Debate (1929)](/Volumes/36/05/chicago_debate.html)
-* [The Negro Politician (1928)](/Volumes/35/05/negro_politician.html)
 * [Our Special Grievances (1918)](/Volumes/16/05/our_special_greivances.html)
+* [A Crusade (1914)](/Volumes/07/05/crusades.html)
+* [Negro Art (1922)](/Volumes/23/03/negro-art.html)
+* [Negro Writers (1920)](/Volumes/19/06/negro_writers.html)
 
 <!-- Similar articles end here -->

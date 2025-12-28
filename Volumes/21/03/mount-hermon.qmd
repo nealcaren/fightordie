@@ -1,5 +1,6 @@
 ---
 title: 'Mount Hermon'
+description: "In 1921 The Crisis, W.E.B. Du Bois condemns racial inequality in education, exposing philanthropy's excuses and stark funding gaps for Black schools."
 author:
   - name:
       given: W.E.B.
@@ -20,6 +21,7 @@ format:
     toc: false
     appendix-cite-as: display
 ---
+
 We have just learned from a curious source of the excellent educational opportunities of American Negroes and the rich endowments of Negro colleges. Our informant is none other than the distinguished evangelist's son, William R. Moody, President of Mt. Hermon School at East Northfield, Mass. Writes Mr. Moody July 30, 1920, (the italics are ours):
 
 "Yours of the 28th just at hand in respect to the son of the late Bishop Alexander Walters. While we always have a few colored boys in the school at Mount Hermon, *we do not encourage* their making application. There are, as you know, *many richly endowed* and well equipped schools for the colored race throughout the South. Racial needs have been a study in these schools, and the curriculum is *especially adapted* to these needs. It hardly seems to us advisable for a young person to come to a school like Mount Hermon or Northfield where the expense to us must of necessity be more than it is in a southern school, and where the acceptance of a colored boy would mean the exclusion of some white boy for whom no adequate provision is made elsewhere. Of course there are exceptions. But with Fisk and Atlanta doing admirable work in academic work, while Hampton, Tuskegee and Calhoun are doing good work in elementary education and industrial courses, *we do not think we ought to encourage colored boys to come to Mount Hermon*, when it means that some white boy who is now applying would have to be refused, who could not go to these schools which have been so munificently provided."

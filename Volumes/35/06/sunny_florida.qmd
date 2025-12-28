@@ -1,6 +1,6 @@
-
 ---
 title: 'Sunny Florida'
+description: "W.E.B. Du Bois argues in The Crisis (1928) that Florida's so-called boom rests on racial exploitation, police brutality, and corrupted democracy."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 There is probably no modern play-ground whose social foundation is more
 utterly false and criminal than Florida. Before the boom, Florida was a
@@ -92,7 +90,7 @@ import liquor in the city of Miami, and that Quigg is a very rich man.
 * [Our Economic Peril (1930)](/Volumes/37/03/our_economic_peril.html)
 * [Southern Papers (1911)](/Volumes/01/04/southern_papers.html)
 * [Signs from the South (1919)](/Volumes/18/05/signs_from_south.html)
+* [Slavery (1922)](/Volumes/22/01/slavery.html)
 * [Slavery (1922)](/Volumes/24/01/slavery.html)
-* [Black and White Workers (1928)](/Volumes/35/03/black_and_white_workers.html)
 
 <!-- Similar articles end here -->

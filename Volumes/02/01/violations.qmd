@@ -1,5 +1,6 @@
 ---
 title: 'Violations of Property Rights'
+description: "In a 1911 essay in The Crisis, W.E.B. Du Bois shows how race prejudice, municipal policy, wage bias and mob/legal violence violate Black property rights."
 author:
   - name:
       given: W.E.B.
@@ -20,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 Few people who argue about the race problem know how that problem changes. Within the last twenty years this change has been so great that many fail to realize it, or if they do realize it more or less vaguely, they are puzzled at its new outcroppings. It seems to them as though this human difficulty was continually developing new and unexpected centers of trouble. As a matter of fact, however, what we have to-day might easily have been foreseen twenty years ago. We are having a change in the problem, but the change is logical and represents a more or less regular development.
 

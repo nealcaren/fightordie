@@ -1,6 +1,6 @@
-
 ---
 title: 'Negro Education'
+description: "W.E.B. Du Bois in The Crisis (1918) blasts Jones' effort to confine Negro education to industrial labor, demanding college access, representation and reform."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 The casual reader has greeted this study[^fn1] 
 of Negro education with pleasure. It is the first attempt to cover the field of secondary and higher education among colored Americans with anything like completeness. It is published with the sanction and prestige of the United States government and has many excellent points as, for instance, full statistics on such matters as.the public expenditure for Negro school systems, the amount of philanthropy given private schools, Negro property, etc.; there is excellent and continued insistence upon the poor support which the colored public schools are receiving today. The need of continued philanthropic aid to private schools is emphasized and there are several good maps. Despite, then, some evidently careless proofreading (pages 59, 129, 157), the ordinary reader unacquainted with the tremendous ramifications of the Negro problem will hail this report with unstinted praise. 

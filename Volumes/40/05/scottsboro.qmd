@@ -1,6 +1,6 @@
-
 ---
 title: 'Scottsboro'
+description: "In 1933 The Crisis, W.E.B. Du Bois condemns Scottsboro as proof that racial disfranchisement destroys justice and demands Black political voice."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 Scottsboro is the perfect fruit of a generation of organized lying concerning conditions in the South.
 

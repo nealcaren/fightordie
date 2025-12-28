@@ -1,6 +1,6 @@
-
 ---
 title: 'The Strength of Segregation'
+description: "In 1913 The Crisis, W.E.B. Du Bois warns segregation will forge Black racial unity and strength, undermining white supremacy and reshaping American democracy."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 When the American people in their carelessness and impudence have finally succeeded in welding 10,000,000 American Negroes into one great self-conscious and self-acting mass they will realize their mistake.
 

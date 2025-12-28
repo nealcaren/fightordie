@@ -1,6 +1,6 @@
-
 ---
 title: 'The Name Negro'
+description: "W.E.B. Du Bois, in The Crisis (1928), argues that naming cannot erase racism; the real work is affirming Black humanity and democracy, not changing labels."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 > South Bend, Ind.
 >  

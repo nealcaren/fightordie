@@ -1,6 +1,6 @@
-
 ---
 title: 'Advice'
+description: "1910: W.E.B. Du Bois in The Crisis condemns silence on lynching, exposing racial prejudice that silences Black grievance and undermines justice."
 author:
   - name:
       given: W.E.B.
@@ -22,8 +22,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 There is a matter which calls for a solemn editorial in a metropolitan newspaper, namely, the pre-emptying of seats on suburban trains. The *New York Times* says:
 

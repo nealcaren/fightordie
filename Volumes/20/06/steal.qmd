@@ -1,5 +1,6 @@
 ---
 title: 'Steal'
+description: "W.E.B. Du Bois in The Crisis (1920) condemns white churches' hypocrisy as they abandon labor and racial justice, siding with steel interests against unions."
 author:
   - name:
       given: W.E.B.

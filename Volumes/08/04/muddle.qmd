@@ -1,6 +1,6 @@
-
 ---
 title: 'Muddle'
+description: "W.E.B. Du Bois in The Crisis (1914) condemns northern reformers' cowardice and southern segregation, urging race-aware social reform and democracy."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 The Negro problem is undoubtedly reaching a degree of spiritual
 complication which makes the onlooker hesitate between tears and

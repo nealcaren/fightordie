@@ -1,6 +1,6 @@
-
 ---
 title: 'A Matter of Manners'
+description: "In a 1920 essay in The Crisis, W.E.B. Du Bois argues that perceptions of Black manners provoke racial violence and lynching, exposing systemic injustice."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 At the time of the Chicago riots, Medill McCormack, United States Congressman from Illinois, was reported as follows in an interview:
 

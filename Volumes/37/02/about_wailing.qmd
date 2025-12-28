@@ -1,6 +1,6 @@
-
 ---
 title: 'About Wailing'
+description: "W.E.B. Du Bois in The Crisis (1930) defends continued 'wailing'—documenting racial injustice, disfranchisement, poverty, and exclusion despite surface progress."
 author:
   - name:
       given: W.E.B.
@@ -22,7 +22,6 @@ format:
     appendix-cite-as: display
 ---
 
-
 George Jean Nathan last fall told the readers of the *American Mercury* reasons that made him tired of wails from Negroes. His argument was that lynching has decreased; that a Negro can live his private life as he pleases; that he has freedom in sex, gambling and drinking; that he plays on college athletic teams; that he acts on the stage; intermarries sometimes with whites; sings; publishes recognized books; has big churches; holds public office; shines in the prize ring and at the Bar; is entering the movies; owns land and property; has an increasing number of colleges and college students and less illiteracy; sees the whites getting glory from featuring him; and commits fewer suicides than other folk.
 
 All this is encouraging but it is more encouraging to Mr. Nathan than it is to us. As showing progress, it is astonishing; as absolute accomplishment and reasonable goal-reaching, it is nothing to be satisfied about.
@@ -40,10 +39,10 @@ In fact, we have a feeling that in times past we have already rather overdone th
 
 #### Related Articles
 
+* [Crime (1921)](/Volumes/22/02/crime.html)
 * [Causes of Lynching (1931)](/Volumes/38/04/causes_of_lynching.html)
 * [The Task (1920)](/Volumes/20/04/task.html)
 * [The Immediate Program of the  American Negro (1915)](/Volumes/09/06/immediate_program.html)
 * [Progress (1920)](/Volumes/21/01/progress.html)
-* [The Fruit of the Tree (1913)](/Volumes/06/05/fruit_of_tree.html)
 
 <!-- Similar articles end here -->

@@ -1,6 +1,6 @@
-
 ---
 title: 'The Fruit of the Tree'
+description: "W.E.B. Du Bois in The Crisis (1913) condemns rhetoric of Black subservience as causing disenfranchisement, segregation and lynching, and calls for resistance."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 Let no one for a moment mistake that the present increased attack on the
 Negro along all lines is but the legitimate fruit of that long campaign

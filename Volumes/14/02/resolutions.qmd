@@ -1,6 +1,6 @@
-
 ---
 title: 'Resolutions of the Washington Conference'
+description: "W.E.B. Du Bois in The Crisis (1917) urges Black Americans to join the war effort and demands race justice: voting, education, end to lynching and Jim Crow."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 The representatives of Negro organizations embracing many millions of men, together with their friends and fellow workers of other races, deem it fitting at this critical time in the history of our country and the world to express the attitude and aspirations which they think fitting for the twelve million Americans of Negro descent and for many other millions resident in America, in Africa, and in the islands of the sea.
 
@@ -62,6 +60,6 @@ In earnest confirmation of this thought and action, we call on the twelve millio
 * [The Present (1917)](/Volumes/14/04/present.html)
 * [The Immediate Program of the  American Negro (1915)](/Volumes/09/06/immediate_program.html)
 * [The Crisis (1910)](/Volumes/01/01/TheCrisis.html)
-* [The Strength of Segregation (1913)](/Volumes/07/03/strength_of_segregation.html)
+* [Inter-Racial Comity (1922)](/Volumes/22/01/inter-racial_comity.html)
 
 <!-- Similar articles end here -->

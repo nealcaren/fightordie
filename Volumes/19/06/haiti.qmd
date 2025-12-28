@@ -1,6 +1,6 @@
-
 ---
 title: 'Haiti'
+description: "In 1920 The Crisis, W.E.B. Du Bois condemns the U.S. occupation of Haiti as illegal racist repression that kills and deposes officials, denying Haitian democracy."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 The United States is at war with Haiti. Congress has never
 sanctioned this war. Josephus Daniels has illegally and unjustly

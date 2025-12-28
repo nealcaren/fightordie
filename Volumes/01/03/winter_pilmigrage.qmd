@@ -1,14 +1,13 @@
-
 ---
 title: 'A Winter Pilgrimage'
+description: "In a 1911 Crisis piece, W.E.B. Du Bois shows how local race, education and labor dynamics shape democracy—rising Black ambition meets entrenched color-line."
 author:
   - name:
       given: W.E.B.
       family: Du Bois
 date: Jan. 1911
-categories: 
+categories:
   - Travel
-  - 
 citation: 
   type: article-journal
   container-title: The Crisis
@@ -22,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 The race problem is not one problem. It differs not only in time, but in place. Therefore I always go to different groups of colored people in this land with much of interest and curiosity, knowing that each will present its peculiar phase of relationship between the white and colored group. 
 

@@ -1,6 +1,6 @@
-
 ---
 title: 'Slavery'
+description: "In 1913 The Crisis, W.E.B. Du Bois condemns South African slavery and disfranchisement, showing how race and labor deny democracy and human life."
 author:
   - name:
       given: W.E.B.
@@ -22,7 +22,6 @@ format:
     appendix-cite-as: display
 ---
 
-
 The civilization of South Africa, by means of theft, disfranchisement and slavery, goes on apace. Recently the better-paid white workingmen who have long been attempting to climb to affluence and democracy on the necks of black slaves have been led to strike. London papers thus detail their reasons:
 
 > The mining of gold in South Africa produces an appalling death roll.    
@@ -42,7 +41,7 @@ If this is true of South African white men, with a vote and a voice and high wag
 #### Related Articles
 
 * [Dives, Mob, and Scab (1920)](/Volumes/19/05/dives.html)
-* [Slavery (1922)](/Volumes/24/01/slavery.html)
+* [Slavery (1922)](/Volumes/22/01/slavery.html)
 * [Black and White Workers (1928)](/Volumes/35/03/black_and_white_workers.html)
 * [Knowledge (1911)](/Volumes/02/06/knowledge.html)
 * [Labor Omnia Vincit (1919)](/Volumes/18/05/labor_omnia_vincit.html)

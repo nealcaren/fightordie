@@ -1,6 +1,6 @@
-
 ---
 title: 'The Possibility of Democracy'
+description: "W.E.B. Du Bois, in The Crisis (1928), argues democracy rests on broad citizen participation, condemning racial disfranchisement and illiteracy as threats."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 *This article was originally prepared for the Stock-Taking and Fact-Finding Conference which met in Durham, North Carolina, in December, 1927. With some additions and revisions it was delivered again before the opening meeting of the 19th Annual N.A.A.C.P. Conference at Los Angeles in June, 1928. It appears in print for the first time and will be published in two parts.*
 

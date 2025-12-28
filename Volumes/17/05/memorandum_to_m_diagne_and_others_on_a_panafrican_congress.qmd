@@ -1,5 +1,6 @@
 ---
 title: 'Memorandum to M. Diagne and Others on a Pan-African Congress to be held in Paris in February, 1919'
+description: "In 1919 W.E.B. Du Bois in The Crisis proposes a Paris Pan-African Congress to demand race rights, education, land and political voice for Black peoples."
 author:
   - name:
       given: W.E.B.
@@ -20,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 Gentlemen:
 
@@ -112,6 +111,6 @@ This plan was acceptable not only to the representatives of the various Negro pe
 * [Pan-Africa (1921)](/Volumes/21/03/pan-africa.html)
 * [The Second Pan-African Congress (1921)](/Volumes/21/06/second-pan-african-congress.html)
 * [Manifesto to the League of Nations (1921)](/Volumes/23/01/manifesto.html)
-* [Resolutions of the Washington Conference (1917)](/Volumes/14/02/resolutions.html)
+* [The Second Pan-African Congress (1921)](/Volumes/22/02/second-congress.html)
 
 <!-- Similar articles end here -->

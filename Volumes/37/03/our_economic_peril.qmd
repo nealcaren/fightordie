@@ -1,6 +1,6 @@
-
 ---
 title: 'Our Economic Peril'
+description: "W.E.B. Du Bois in The Crisis (1930) warns that racial exclusion and failing charity deepen Black economic peril, urging co‑ops and labor organizing."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 Fortunately, the attention of thinkers, black and white, is being drawn to the economic crisis which faces the American Negro. Norman Thomas, the white leader of American Socialists, writing in the *New Leader*, said recently:
 

@@ -1,5 +1,6 @@
 ---
 title: "About"
+description: "Learn about this digital anthology of W.E.B. Du Bois's writings from The Crisis (1910-1934), including his editorials, political commentary, and cultural analysis from the NAACP's official journal."
 ---
 
 

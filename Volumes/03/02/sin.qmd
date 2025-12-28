@@ -1,6 +1,6 @@
-
 ---
 title: 'The Sin Against the Holy Ghost'
+description: "W.E.B. Du Bois, in The Crisis (1911), argues deceit for political gain is the unforgivable sin, corroding Black humanity, race dignity, and democracy."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 "He doesn't really believe what he says---he wants the same things that you want, but you see he has to talk this way." 
 

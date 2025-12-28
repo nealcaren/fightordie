@@ -1,6 +1,6 @@
-
 ---
 title: 'The Burning at Dyersburg: An N.A.A.C.P. Investigation'
+description: "W.E.B. Du Bois in The Crisis (1918) exposes the NAACP's investigation of Lation Scott's brutal burning, revealing racial terror and community complicity."
 author: N.A.A.C.P.
 date: Feb. 1918
 categories: 
@@ -18,7 +18,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 Sunday, December 2, 1917, immediately after the adjournment of church services, a human being was tortured and burned at the stake in the heart of the town of Dyersburg, Tenn. The victim was a Negro man, thirty years old, who was accused of criminal assault on a white woman of the county.
 

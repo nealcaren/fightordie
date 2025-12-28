@@ -1,6 +1,6 @@
-
 ---
 title: 'Consolation'
+description: "In a 1916 essay in The Crisis, W.E.B. Du Bois exposes how gendered discrimination in medicine reveals racial hypocrisy and entrenched white supremacy."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 Colored folk can always get a dubious sort of consolation in knowing that they have not always had a monopoly of the attentions of the discourteous and the cruel. At a recent dinner given to the oldest woman doctor in the United States, Dr. Anna Manning Comfort told of the indignities which she suffered at Bellevue Hospital in 1865 for the unforgivable crime of being female: 
 

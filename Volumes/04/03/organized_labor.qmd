@@ -1,6 +1,6 @@
-
 ---
 title: 'Organized Labor'
+description: "W.E.B. Du Bois, in The Crisis (1912), shows organized labor excluding Black workers and white-supremacist union tactics, urging labor to serve humanity."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 <span class="crisis-title">The Crisis</span> believes in organized labor. It realizes that the standard of living among' workers has been raised in the last half century through the efforts and sacrifice of laborers banded together in unions, and that all American labor to-day, white, black and yellow, benefits from this great movement. 
 

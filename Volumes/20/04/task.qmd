@@ -1,5 +1,6 @@
 ---
 title: 'The Task'
+description: "W.E.B. Du Bois in The Crisis (1920) says Shillady’s resignation exposes entrenched white opposition and limits NAACP methods, urging national action on race."
 author:
   - name:
       given: W.E.B.
@@ -20,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 There is one sentence in the resignation of Mr. Shillady, our former secretary, which has arrested the attention of us all. He says:
 

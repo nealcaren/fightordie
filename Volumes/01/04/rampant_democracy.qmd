@@ -1,6 +1,6 @@
-
 ---
 title: 'Rampant Democracy'
+description: "W.E.B. Du Bois in The Crisis (1911) exposes how democracy masks racial and class segregation in education, mocking calls for separate schools."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 There is an artist in New York who rose from the humblest circumstances and now lives in a suburb of the city. In his rise he has evidently learned the essentials of democracy, for his wife in an interview says that they want separate Negro schools in that suburb. They need to have them, but a very foolish law interfered, she laments: 
 

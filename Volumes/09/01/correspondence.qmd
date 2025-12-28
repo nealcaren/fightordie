@@ -1,6 +1,6 @@
-
 ---
 title: 'A Correspondence'
+description: "In 1914 W.E.B. Du Bois in The Crisis condemns the General Federation's racial exclusion of Black women's clubs, defending black women's self‑respect."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 The General Federation of (white) Women's Clubs sent a representative to
 the meeting of the National Association of Colored Women at Wilberforce, and the magazine of the General Federation published an

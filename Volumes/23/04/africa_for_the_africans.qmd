@@ -1,6 +1,6 @@
-
 ---
 title: 'Africa for the Africans'
+description: "W.E.B. Du Bois (1921, The Crisis) argues Africa must be governed for Africans, critiques colonial labor limits and urges self-rule over racial paternalism."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 The Associated Press in a Paris dispatch, put into the mouth of the editor a statement that a colored Americans could not withstand the African climate, could not oust the Europeans, and did not desire to do so.
 

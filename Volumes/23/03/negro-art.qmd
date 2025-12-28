@@ -1,5 +1,6 @@
 ---
 title: 'Negro Art'
+description: "W.E.B. Du Bois in The Crisis (1922) argues Black art asserts the Negro race’s role as interpreter of beauty, demanding recognition and overturning racial myths."
 author:
   - name:
       given: W.E.B.

@@ -1,6 +1,6 @@
-
 ---
 title: 'Aiken'
+description: "W.E.B. Du Bois in The Crisis (1927) condemns Aiken's lynchocracy: Klan rule, racial violence, and democratic failure with officials complicit."
 author:
   - name:
       given: W.E.B.
@@ -21,9 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
-
 
 Does America thoroughly realize Aiken? Citizens declared by South Carolina courts of law to be either entirely innocent of crime or of unproven guilt have been openly murdered by persons well-known to the public. The authorities so far have refused to indict or arrest these murderers or to make any real inquiry into their guilt. These red-handed assassins walk the streets of Aiken today free, impudent and unafraid. And the city of Aiken is advertised in the public press as an "attractive" winter resort!
 

@@ -1,6 +1,6 @@
-
 ---
 title: 'Amity'
+description: "In 1921 The Crisis, W.E.B. Du Bois argues interracial amity and frank dialogue will heal race injustice and strengthen American democracy."
 author:
   - name:
       given: W.E.B.
@@ -22,8 +22,6 @@ format:
     appendix-cite-as: display
 ---
 
-
-
 A convention of colored and white people took place in Washington, D.C., in May, which deserves thought. The programs carried these words: 
 
 > Half a century ago in America slavery was abolished.     <p> Now there has arisen need for another great effort.    <p>Correction of the present wrong requires no army, for the field of action is the hearts of our citizens. The instrument to be used is kindness; the ammunition, understanding of all by all. The actor in this engagement for right is every inhabitant of these United States.    <p>The great work we have to do and for which this convention is called is the establishment of amity between the white and colored people of our land.    <p> When we have put our own house in order, then we may be trusted to carry the message of universal peace to all mankind.
@@ -40,7 +38,7 @@ Some folks seem to think that because <span class="crisis-title">The Crisis</sp
 * [The Present (1917)](/Volumes/14/04/present.html)
 * [Our Special Grievances (1918)](/Volumes/16/05/our_special_greivances.html)
 * [Resolutions of the Washington Conference (1917)](/Volumes/14/02/resolutions.html)
+* [Inter-Racial Comity (1922)](/Volumes/22/01/inter-racial_comity.html)
 * [An Open Letter to Woodrow Wilson (1913)](/Volumes/05/05/open_letter.html)
-* [Victory (1917)](/Volumes/15/02/victory.html)
 
 <!-- Similar articles end here -->

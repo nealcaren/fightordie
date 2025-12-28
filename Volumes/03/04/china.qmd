@@ -1,6 +1,6 @@
-
 ---
 title: 'China'
+description: "Du Bois argues in The Crisis (1912) that China's revolution reveals humane modernity and fights white supremacy, challenging Crisis-era racial narratives."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 To most folk the wonder of the Chinese revolution is not in the revolution but in the fact that Chinamen show themselves so human. There was a time when everything bizarre, curious and topsyturvy was quite as a matter of course attributed to China. When it came to rational modern thought we calmly omitted China. Histories of the world omitted China; if a Chinaman invented compass or movable type or gunpowder we promptly "forgot it" and named only their European inventors. In short, we regarded China as a sort of different and quite inconsequential planet.
 

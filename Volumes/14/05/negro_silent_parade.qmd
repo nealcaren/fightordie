@@ -1,6 +1,6 @@
-
 ---
 title: 'The Negro Silent Parade'
+description: "W.E.B. Du Bois in The Crisis (1917) documents the Negro Silent Parade, a mass silent protest against race riots, lynching, and injustice."
 author: National Association for the Advancement of Colored People
 date: Mar. 1917
 categories: 
@@ -18,7 +18,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 On the afternoon of Saturday July 28, a vast body of Negroes marched through the streets of New York in silent protest against the recent race riots and outrages. The *New York American* says:
 

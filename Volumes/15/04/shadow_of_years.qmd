@@ -1,6 +1,6 @@
-
 ---
 title: 'The Shadow of Years'
+description: "In a 1918 Crisis memoir, W.E.B. Du Bois traces how education, race, and work shaped his life—from youthful promise to leadership and resolute racial advocacy."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 The most disquieting sign of my mounting years is a certain garrulity about myself, quite foreign to my young days. I find a growing tendency to fix innocent listeners with my stern eye, despite their all too evident longing to escape, and to tell them what life has meant to me. In this case I have been most easily persuaded that <span style="small-caps">Crisis</span> readers are more than anxious to know about me, simply because I am having a birthday. *Selah!* 
 
@@ -95,10 +93,10 @@ Last year, I looked death in the face and found its lineaments not unkind. But i
 
 #### Related Articles
 
+* [The Rising Truth (1921)](/Volumes/22/02/rising-truth.html)
 * [The New Crisis (1925)](/Volumes/30/01/new_crisis.html)
 * [Pity the Poor Author (1920)](/Volumes/21/01/pity-the-poor-author.html)
 * [Fifteen Years (1924)](/Volumes/29/02/fifteen_years.html)
 * [We Come of Age (1915)](/Volumes/11/01/we_come_of_age.html)
-* [A Question of Policy and The Philosophy of Mr. Dole (1914)](/Volumes/08/01/question_of_policy.html)
 
 <!-- Similar articles end here -->

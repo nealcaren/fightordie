@@ -1,6 +1,6 @@
-
 ---
 title: 'The Newer South'
+description: "In The Crisis (1926), W.E.B. Du Bois critiques the New South's Jim Crow, lynching, and educational neglect while urging white Southerners to join racial justice."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 The New South of Henry Grady had nothing new for the Negro. And since that time thoughtful Negroes have received professions of friendship on the part of the white South with much salt. Nor can they be blamed for this: lynching, "Jim-Crow" cars, poor schools, segregation and insult form a difficult atmosphere in which to breathe the air of freedom, friendship and hope. But there can be no doubt but that the white South is changing; there is nothing revolutionary as yet, but leaven is working. Today as never before since 1863 there can be found in the white South a few intelligent and determined people who are willing to recognize black men as men---not as Super-men nor as morons, but as men. This group is not large; in no community is it in majority; only here and there is it self-conscious and vocal. But it exists and it is slowly growing in numbers and courage.
 

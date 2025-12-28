@@ -1,5 +1,6 @@
 ---
 title: 'Mr. Howard'
+description: "In The Crisis (1922), W.E.B. Du Bois urges Perry Howard and Black officials to reject token roles, defend anti-lynching reform, and uphold race dignity."
 author:
   - name:
       given: W.E.B.
@@ -38,6 +39,6 @@ And this makes us all the more insistent that both Mr. Howard and Mr. Henry Linc
 * [Again Howard (1932)](/Volumes/39/04/again_howard.html)
 * [Credit (1915)](/Volumes/10/01/credit.html)
 * [A Momentous Proposal (1918)](/Volumes/16/05/momentous_proposal.html)
-* [Flipper (1922)](/Volumes/24/05/flipper.html)
+* [Houston (1928)](/Volumes/35/09/houston.html)
 
 <!-- Similar articles end here -->

@@ -1,6 +1,6 @@
-
 ---
 title: 'The Cost of Education'
+description: "W.E.B. Du Bois shows how Black taxpayers subsidize white schooling and underfunded colored schools, exposing race and education injustice in The Crisis (1911)."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 A favorite argument in the South is that the white people "pay for" the education of colored children. For instance, an alderman in Lexington, Ky., argues this way, in answer to a complaint about poor colored schools:
 

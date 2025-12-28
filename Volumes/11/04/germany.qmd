@@ -1,6 +1,6 @@
-
 ---
 title: 'Germany'
+description: "In 1916 W.E.B. Du Bois in The Crisis condemns Germany's colonial racism, documenting massacres like the Herero slaughter and contrasting French comradeship."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 Someone writes to ask what the effect on the Negro will be if Germany should triumph in the present war. We do not for a moment pretend that the German people are ogres and the Allies saints, but we confess that based on unchallenged records there can be no doubt that Germany's attitude toward colored races is indefensible.
 

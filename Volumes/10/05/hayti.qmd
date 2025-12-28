@@ -1,6 +1,6 @@
-
 ---
 title: 'Hayti'
+description: "In 1915 W.E.B. Du Bois in The Crisis urges America to save Hayti, defend Black sovereignty and democracy, and oppose imperialist graft."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 Let us save Hayti. Hayti is a noble nation. It is a nation that has given the world one of its greatest names---Toussaint L'Ouverture. It is a nation that made slaves free. It is a nation that dared and dares to fight for freedom. This is no time or place for us American Negroes who seldom have had courage to fight, to point scornful fingers at our brothers.
 

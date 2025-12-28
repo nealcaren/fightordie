@@ -1,6 +1,6 @@
-
 ---
 title: 'Woman Suffrage'
+description: "W.E.B. Du Bois in The Crisis (1915) rebukes anti-suffrage claims and affirms that women's labor, equality, and democratic rights require the vote."
 author:
   - name:
       given: W.E.B.
@@ -21,8 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
-
 
 This month 200,000 Negro voters will be called upon to vote on the
 question of giving the right of suffrage to women. <span style="font-variant:small-caps;">The

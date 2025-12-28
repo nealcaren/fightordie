@@ -1,6 +1,6 @@
-
 ---
 title: 'The Drive'
+description: "In a 1922 The Crisis piece, W.E.B. Du Bois urges Black Americans to back the NAACP, fight lynching and Jim Crow at home, and defend democracy."
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 Again the pendulum has swung: it is no longer a question of educating the Negro to his just demands as an American citizen. He has ceased to be beguiled by the silly philosophy that a voteless, spineless suppliant who owns a three-story brick house is going to command anybody's respect.
 

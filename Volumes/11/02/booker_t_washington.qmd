@@ -1,6 +1,6 @@
-
 ---
 title: 'Booker T. Washington'
+description: "W.E.B. Du Bois in The Crisis (1915) praises Booker T. Washington's gains in Black education but faults him for aiding disfranchisement and color caste"
 author:
   - name:
       given: W.E.B.
@@ -21,7 +21,6 @@ format:
     toc: false
     appendix-cite-as: display
 ---
-
 
 <!--![Booker T. Washington](https://upload.wikimedia.org/wikipedia/commons/1/1b/Booker_T_Washington_retouched_flattened-crop.jpg)-->
 
