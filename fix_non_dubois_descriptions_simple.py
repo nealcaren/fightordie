@@ -93,8 +93,7 @@ Description:"""
     try:
         response = client.chat.completions.create(
             model="gpt-5-mini",
-            messages=[{"role": "user", "content": prompt}],
-            max_completion_tokens=2000
+            messages=[{"role": "user", "content": prompt}]
         )
 
         description = response.choices[0].message.content
