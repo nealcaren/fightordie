@@ -1,0 +1,20 @@
+---
+title: "Texas"
+description: "Articles about Texas from The Crisis (1910-1934)"
+listing:
+  contents: "../../Volumes/**/*.qmd"
+  type: table
+  sort: "date"
+  date-format: "YYYY (MMM)"
+  page-size: 50
+  fields: [date, title, description]
+  filter-ui: true
+  include:
+    places: "Texas"
+---
+
+## Texas (12 articles)
+
+Articles from *The Crisis* that focus on Texas.
+
+Use the search box below to find specific articles.

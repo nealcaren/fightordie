@@ -8,10 +8,15 @@ format:
 
 Explore W.E.B. Du Bois's 600+ articles from *The Crisis* magazine organized by topic, time period, or volume.
 
-::: {.callout-note}
-## Coming Soon: Browse by Topic
-Once articles are categorized, you'll be able to browse by topics like [Lynching & Racial Violence](browse/lynching.qmd), [Education](browse/education.qmd), [Voting Rights](browse/voting-rights.qmd), and more. See [CATEGORIES.md](../CATEGORIES.md) for the full taxonomy.
-:::
+## Browse by Topic
+
+All 708 articles have been indexed with structured metadata using Library Science principles. Browse by:
+
+- **[Subjects](browse/subjects/)** - 28 major topics including Lynching, Voting Rights, Pan-Africanism, Educational Inequality
+- **[People](browse/people/)** - 18 historical figures including Woodrow Wilson, Booker T. Washington, Marcus Garvey
+- **[Places](browse/places/)** - 30 locations including Haiti, Chicago, Atlanta, Africa
+
+[**→ Full Browse Index**](browse/index.qmd)
 
 ## By Decade
 

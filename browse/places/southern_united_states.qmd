@@ -1,0 +1,20 @@
+---
+title: "Southern United States"
+description: "Articles about Southern United States from The Crisis (1910-1934)"
+listing:
+  contents: "../../Volumes/**/*.qmd"
+  type: table
+  sort: "date"
+  date-format: "YYYY (MMM)"
+  page-size: 50
+  fields: [date, title, description]
+  filter-ui: true
+  include:
+    places: "Southern United States"
+---
+
+## Southern United States (162 articles)
+
+Articles from *The Crisis* that focus on Southern United States.
+
+Use the search box below to find specific articles.

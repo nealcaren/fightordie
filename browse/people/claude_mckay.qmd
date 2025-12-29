@@ -1,0 +1,20 @@
+---
+title: "Claude McKay"
+description: "Articles discussing Claude McKay from The Crisis (1910-1934)"
+listing:
+  contents: "../../Volumes/**/*.qmd"
+  type: table
+  sort: "date"
+  date-format: "YYYY (MMM)"
+  page-size: 50
+  fields: [date, title, description]
+  filter-ui: true
+  include:
+    people: "Claude McKay"
+---
+
+## Claude McKay (5 articles)
+
+Articles from *The Crisis* that substantially discuss Claude McKay.
+
+Use the search box below to find specific articles.

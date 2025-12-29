@@ -1,0 +1,20 @@
+---
+title: "Pan-Africanism"
+description: "Du Bois's vision of global Black solidarity, including coverage of Pan-African Congresses and anti-colonial movements."
+listing:
+  contents: "../../Volumes/**/*.qmd"
+  type: table
+  sort: "date"
+  date-format: "YYYY (MMM)"
+  page-size: 50
+  fields: [date, title, description]
+  filter-ui: true
+  include:
+    subjects: "Pan-Africanism"
+---
+
+## Pan-Africanism (16 articles)
+
+Du Bois's vision of global Black solidarity, including coverage of Pan-African Congresses and anti-colonial movements.
+
+Use the search box below to find specific articles on this topic.

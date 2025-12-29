@@ -1,0 +1,20 @@
+---
+title: "Africa"
+description: "Articles about Africa from The Crisis (1910-1934)"
+listing:
+  contents: "../../Volumes/**/*.qmd"
+  type: table
+  sort: "date"
+  date-format: "YYYY (MMM)"
+  page-size: 50
+  fields: [date, title, description]
+  filter-ui: true
+  include:
+    places: "Africa"
+---
+
+## Africa (43 articles)
+
+Articles from *The Crisis* that focus on Africa.
+
+Use the search box below to find specific articles.

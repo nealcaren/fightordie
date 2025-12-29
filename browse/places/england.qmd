@@ -1,0 +1,20 @@
+---
+title: "England"
+description: "Articles about England from The Crisis (1910-1934)"
+listing:
+  contents: "../../Volumes/**/*.qmd"
+  type: table
+  sort: "date"
+  date-format: "YYYY (MMM)"
+  page-size: 50
+  fields: [date, title, description]
+  filter-ui: true
+  include:
+    places: "England"
+---
+
+## England (11 articles)
+
+Articles from *The Crisis* that focus on England.
+
+Use the search box below to find specific articles.

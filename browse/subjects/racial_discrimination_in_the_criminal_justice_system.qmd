@@ -1,0 +1,20 @@
+---
+title: "Racial discrimination in the criminal justice system"
+description: "Articles on Racial discrimination in the criminal justice system from The Crisis (1910-1934)"
+listing:
+  contents: "../../Volumes/**/*.qmd"
+  type: table
+  sort: "date"
+  date-format: "YYYY (MMM)"
+  page-size: 50
+  fields: [date, title, description]
+  filter-ui: true
+  include:
+    subjects: "Racial discrimination in the criminal justice system"
+---
+
+## Racial discrimination in the criminal justice system (5 articles)
+
+Articles on Racial discrimination in the criminal justice system from The Crisis (1910-1934)
+
+Use the search box below to find specific articles on this topic.

@@ -1,0 +1,20 @@
+---
+title: "James K. Vardaman"
+description: "Articles discussing James K. Vardaman from The Crisis (1910-1934)"
+listing:
+  contents: "../../Volumes/**/*.qmd"
+  type: table
+  sort: "date"
+  date-format: "YYYY (MMM)"
+  page-size: 50
+  fields: [date, title, description]
+  filter-ui: true
+  include:
+    people: "James K. Vardaman"
+---
+
+## James K. Vardaman (8 articles)
+
+Articles from *The Crisis* that substantially discuss James K. Vardaman.
+
+Use the search box below to find specific articles.

@@ -1,0 +1,20 @@
+---
+title: "Marcus Garvey"
+description: "Articles discussing Marcus Garvey from The Crisis (1910-1934)"
+listing:
+  contents: "../../Volumes/**/*.qmd"
+  type: table
+  sort: "date"
+  date-format: "YYYY (MMM)"
+  page-size: 50
+  fields: [date, title, description]
+  filter-ui: true
+  include:
+    people: "Marcus Garvey"
+---
+
+## Marcus Garvey (7 articles)
+
+Articles from *The Crisis* that substantially discuss Marcus Garvey.
+
+Use the search box below to find specific articles.

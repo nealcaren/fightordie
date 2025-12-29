@@ -1,0 +1,158 @@
+---
+title: "Browse the Archive"
+description: "Explore W.E.B. Du Bois's writings from The Crisis by subject, person, place, decade, or year"
+format:
+  html:
+    toc: true
+---
+
+Explore W.E.B. Du Bois's 600+ articles from *The Crisis* magazine organized by topic, person, place, time period, or volume.
+
+## By Subject
+
+Browse articles by major themes in Du Bois's writings:
+
+:::: {.columns}
+::: {.column width="50%"}
+**Civil Rights & Racial Violence**
+
+- [Lynching](subjects/lynching.html) (72 articles)
+- [Anti-lynching legislation](subjects/anti_lynching_legislation.html) (12 articles)
+- [Voting rights](subjects/voting_rights.html) (16 articles)
+- [Disenfranchisement](subjects/disfranchisement_voting_rights.html) (15 articles)
+- [Jim Crow laws](subjects/jim_crow_laws.html) (15 articles)
+- [Residential segregation](subjects/residential_segregation.html) (10 articles)
+
+**Political & Social Issues**
+
+- [Women's suffrage](subjects/womens_suffrage.html) (16 articles)
+- [Interracial marriage](subjects/interracial_marriage.html) (7 articles)
+- [White supremacy](subjects/white_supremacy.html) (9 articles)
+:::
+
+::: {.column width="50%"}
+**Education & Culture**
+
+- [Educational inequality](subjects/educational_inequality.html) (18 articles)
+- [Pan-Africanism](subjects/panafrican ism.html) (16 articles)
+
+**Military & War**
+
+- [African American military service (World War I)](subjects/african_american_military_service_world_war_i.html) (9 articles)
+- [Military discrimination](subjects/military_discrimination_against_african_americans.html) (5 articles)
+
+[View all subject browse pages →](subjects/)
+:::
+::::
+
+## By People
+
+Browse articles discussing specific historical figures:
+
+::::: {.columns}
+:::: {.column width="50%"}
+**U.S. Presidents & Politicians**
+
+- [Woodrow Wilson](people/woodrow_wilson.html) (34 articles)
+- [Theodore Roosevelt](people/theodore_roosevelt.html) (14 articles)
+- [Herbert Hoover](people/herbert_hoover.html) (12 articles)
+- [Warren G. Harding](people/warren_g_harding.html) (8 articles)
+- [William H. Taft](people/william_h_taft.html) (7 articles)
+
+**Racist Politicians**
+
+- [James K. Vardaman](people/james_k_vardaman.html) (8 articles)
+- [Benjamin R. Tillman](people/benjamin_r_tillman.html) (6 articles)
+::::
+
+:::: {.column width="50%"}
+**Black Leaders & Intellectuals**
+
+- [Booker T. Washington](people/booker_t_washington.html) (17 articles)
+- [Marcus Garvey](people/marcus_garvey.html) (7 articles)
+- [Robert R. Moton](people/robert_r_moton.html) (7 articles)
+- [Frederick Douglass](people/frederick_douglass.html) (6 articles)
+- [James Weldon Johnson](people/james_weldon_johnson.html) (5 articles)
+- [Joel E. Spingarn](people/joel_e_spingarn.html) (5 articles)
+- [Claude McKay](people/claude_mckay.html) (5 articles)
+
+[View all people browse pages →](people/)
+::::
+:::::
+
+## By Place
+
+Browse articles by geographic focus:
+
+:::::: {.columns}
+::::: {.column width="50%"}
+**United States - National & Regional**
+
+- [United States](places/united_states.html) (286 articles)
+- [Southern United States](places/southern_united_states.html) (162 articles)
+- [Northern United States](places/northern_united_states.html) (21 articles)
+- [Washington, D.C.](places/washington_dc.html) (60 articles)
+
+**U.S. States**
+
+- [Mississippi](places/mississippi.html) (36 articles)
+- [Georgia](places/georgia.html) (15 articles)
+- [South Carolina](places/south_carolina.html) (16 articles)
+- [Alabama](places/alabama.html) (13 articles)
+- [Virginia](places/virginia.html) (11 articles)
+- [Texas](places/texas.html) (12 articles)
+:::::
+
+::::: {.column width="50%"}
+**U.S. Cities**
+
+- [Chicago, Illinois](places/chicago_illinois.html) (36 articles)
+- [Atlanta, Georgia](places/atlanta_georgia.html) (26 articles)
+- [New York, New York](places/new_york_new_york.html) (20 articles)
+- [Philadelphia, Pennsylvania](places/philadelphia_pennsylvania.html) (18 articles)
+- [Memphis, Tennessee](places/memphis_tennessee.html) (12 articles)
+
+**International**
+
+- [Africa](places/africa.html) (43 articles)
+- [Haiti](places/haiti.html) (20 articles)
+- [Europe](places/europe.html) (18 articles)
+- [Liberia](places/liberia.html) (15 articles)
+- [India](places/india.html) (11 articles)
+- [Paris, France](places/paris_france.html) (12 articles)
+
+[View all place browse pages →](places/)
+:::::
+::::::
+
+## By Decade
+
+:::::: {.grid}
+::::: {.g-col-12 .g-col-md-6}
+### [1910s: The Founding Years](1910s.html)
+The Crisis is launched. Du Bois establishes his voice on segregation, voting rights, and the NAACP's mission during a period of intense racial violence and World War I.
+
+**Key themes:** Founding the NAACP, anti-lynching campaigns, WWI and the Great Migration
+:::::
+
+::::: {.g-col-12 .g-col-md-6}
+### 1920s: Post-War & Renaissance
+The Jazz Age and Harlem Renaissance. Du Bois writes on the "New Negro," Pan-Africanism, and the contradictions of American democracy.
+
+**Key themes:** Pan-African Congresses, Harlem Renaissance, Marcus Garvey, political disillusionment
+:::::
+
+::::: {.g-col-12 .g-col-md-6}
+### 1930-1934: Depression Era
+Du Bois's final years at The Crisis. Economic crisis reshapes debates over segregation, self-help, and the role of organized labor.
+
+**Key themes:** Great Depression, economic justice, debates on segregation
+:::::
+::::::
+
+## Other Ways to Explore
+
+- **[All Articles (Chronological)](../listing.html)** - Complete listing with search
+- **[By Volume & Issue](volumes.html)** - Browse by original publication
+- **[Article Map](../map.html)** - Geographic visualization
+- **[Magazine Covers](../covers.html)** - Visual history of The Crisis

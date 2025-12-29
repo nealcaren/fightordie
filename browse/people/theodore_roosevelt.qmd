@@ -1,0 +1,20 @@
+---
+title: "Theodore Roosevelt"
+description: "Articles discussing Theodore Roosevelt from The Crisis (1910-1934)"
+listing:
+  contents: "../../Volumes/**/*.qmd"
+  type: table
+  sort: "date"
+  date-format: "YYYY (MMM)"
+  page-size: 50
+  fields: [date, title, description]
+  filter-ui: true
+  include:
+    people: "Theodore Roosevelt"
+---
+
+## Theodore Roosevelt (14 articles)
+
+Articles from *The Crisis* that substantially discuss Theodore Roosevelt.
+
+Use the search box below to find specific articles.

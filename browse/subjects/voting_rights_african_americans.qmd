@@ -1,0 +1,20 @@
+---
+title: "Voting rights (African Americans)"
+description: "Articles on Voting rights (African Americans) from The Crisis (1910-1934)"
+listing:
+  contents: "../../Volumes/**/*.qmd"
+  type: table
+  sort: "date"
+  date-format: "YYYY (MMM)"
+  page-size: 50
+  fields: [date, title, description]
+  filter-ui: true
+  include:
+    subjects: "Voting rights (African Americans)"
+---
+
+## Voting rights (African Americans) (11 articles)
+
+Articles on Voting rights (African Americans) from The Crisis (1910-1934)
+
+Use the search box below to find specific articles on this topic.

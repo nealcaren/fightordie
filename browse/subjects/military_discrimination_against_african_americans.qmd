@@ -1,0 +1,20 @@
+---
+title: "Military discrimination against African Americans"
+description: "Articles on Military discrimination against African Americans from The Crisis (1910-1934)"
+listing:
+  contents: "../../Volumes/**/*.qmd"
+  type: table
+  sort: "date"
+  date-format: "YYYY (MMM)"
+  page-size: 50
+  fields: [date, title, description]
+  filter-ui: true
+  include:
+    subjects: "Military discrimination against African Americans"
+---
+
+## Military discrimination against African Americans (5 articles)
+
+Articles on Military discrimination against African Americans from The Crisis (1910-1934)
+
+Use the search box below to find specific articles on this topic.

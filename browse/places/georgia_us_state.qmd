@@ -1,0 +1,20 @@
+---
+title: "Georgia (U.S. state)"
+description: "Articles about Georgia (U.S. state) from The Crisis (1910-1934)"
+listing:
+  contents: "../../Volumes/**/*.qmd"
+  type: table
+  sort: "date"
+  date-format: "YYYY (MMM)"
+  page-size: 50
+  fields: [date, title, description]
+  filter-ui: true
+  include:
+    places: "Georgia (U.S. state)"
+---
+
+## Georgia (U.S. state) (10 articles)
+
+Articles from *The Crisis* that focus on Georgia (U.S. state).
+
+Use the search box below to find specific articles.

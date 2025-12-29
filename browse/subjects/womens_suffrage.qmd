@@ -1,0 +1,20 @@
+---
+title: "Women's suffrage"
+description: "Du Bois was an early supporter of women's suffrage, connecting it to Black liberation."
+listing:
+  contents: "../../Volumes/**/*.qmd"
+  type: table
+  sort: "date"
+  date-format: "YYYY (MMM)"
+  page-size: 50
+  fields: [date, title, description]
+  filter-ui: true
+  include:
+    subjects: "Women's suffrage"
+---
+
+## Women's suffrage (16 articles)
+
+Du Bois was an early supporter of women's suffrage, connecting it to Black liberation.
+
+Use the search box below to find specific articles on this topic.

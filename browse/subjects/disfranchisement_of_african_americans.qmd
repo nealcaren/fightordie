@@ -1,0 +1,20 @@
+---
+title: "Disfranchisement of African Americans"
+description: "Articles on Disfranchisement of African Americans from The Crisis (1910-1934)"
+listing:
+  contents: "../../Volumes/**/*.qmd"
+  type: table
+  sort: "date"
+  date-format: "YYYY (MMM)"
+  page-size: 50
+  fields: [date, title, description]
+  filter-ui: true
+  include:
+    subjects: "Disfranchisement of African Americans"
+---
+
+## Disfranchisement of African Americans (5 articles)
+
+Articles on Disfranchisement of African Americans from The Crisis (1910-1934)
+
+Use the search box below to find specific articles on this topic.

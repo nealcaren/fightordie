@@ -1,0 +1,20 @@
+---
+title: "Jesus Christ"
+description: "Articles discussing Jesus Christ from The Crisis (1910-1934)"
+listing:
+  contents: "../../Volumes/**/*.qmd"
+  type: table
+  sort: "date"
+  date-format: "YYYY (MMM)"
+  page-size: 50
+  fields: [date, title, description]
+  filter-ui: true
+  include:
+    people: "Jesus Christ"
+---
+
+## Jesus Christ (7 articles)
+
+Articles from *The Crisis* that substantially discuss Jesus Christ.
+
+Use the search box below to find specific articles.

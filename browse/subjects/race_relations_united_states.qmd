@@ -1,0 +1,20 @@
+---
+title: "Race relations — United States"
+description: "Articles on Race relations — United States from The Crisis (1910-1934)"
+listing:
+  contents: "../../Volumes/**/*.qmd"
+  type: table
+  sort: "date"
+  date-format: "YYYY (MMM)"
+  page-size: 50
+  fields: [date, title, description]
+  filter-ui: true
+  include:
+    subjects: "Race relations — United States"
+---
+
+## Race relations — United States (6 articles)
+
+Articles on Race relations — United States from The Crisis (1910-1934)
+
+Use the search box below to find specific articles on this topic.

@@ -1,0 +1,20 @@
+---
+title: "Northern United States"
+description: "Articles about Northern United States from The Crisis (1910-1934)"
+listing:
+  contents: "../../Volumes/**/*.qmd"
+  type: table
+  sort: "date"
+  date-format: "YYYY (MMM)"
+  page-size: 50
+  fields: [date, title, description]
+  filter-ui: true
+  include:
+    places: "Northern United States"
+---
+
+## Northern United States (21 articles)
+
+Articles from *The Crisis* that focus on Northern United States.
+
+Use the search box below to find specific articles.

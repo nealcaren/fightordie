@@ -1,0 +1,20 @@
+---
+title: "Educational inequality"
+description: "Du Bois championed liberal arts education and documented systematic inequality in Southern schools."
+listing:
+  contents: "../../Volumes/**/*.qmd"
+  type: table
+  sort: "date"
+  date-format: "YYYY (MMM)"
+  page-size: 50
+  fields: [date, title, description]
+  filter-ui: true
+  include:
+    subjects: "Educational inequality"
+---
+
+## Educational inequality (18 articles)
+
+Du Bois championed liberal arts education and documented systematic inequality in Southern schools.
+
+Use the search box below to find specific articles on this topic.

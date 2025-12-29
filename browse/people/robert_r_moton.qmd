@@ -1,0 +1,20 @@
+---
+title: "Robert R. Moton"
+description: "Articles discussing Robert R. Moton from The Crisis (1910-1934)"
+listing:
+  contents: "../../Volumes/**/*.qmd"
+  type: table
+  sort: "date"
+  date-format: "YYYY (MMM)"
+  page-size: 50
+  fields: [date, title, description]
+  filter-ui: true
+  include:
+    people: "Robert R. Moton"
+---
+
+## Robert R. Moton (7 articles)
+
+Articles from *The Crisis* that substantially discuss Robert R. Moton.
+
+Use the search box below to find specific articles.

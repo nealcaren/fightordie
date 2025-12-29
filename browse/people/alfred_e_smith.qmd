@@ -1,0 +1,20 @@
+---
+title: "Alfred E. Smith"
+description: "Articles discussing Alfred E. Smith from The Crisis (1910-1934)"
+listing:
+  contents: "../../Volumes/**/*.qmd"
+  type: table
+  sort: "date"
+  date-format: "YYYY (MMM)"
+  page-size: 50
+  fields: [date, title, description]
+  filter-ui: true
+  include:
+    people: "Alfred E. Smith"
+---
+
+## Alfred E. Smith (6 articles)
+
+Articles from *The Crisis* that substantially discuss Alfred E. Smith.
+
+Use the search box below to find specific articles.

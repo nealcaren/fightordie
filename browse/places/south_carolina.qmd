@@ -1,0 +1,20 @@
+---
+title: "South Carolina"
+description: "Articles about South Carolina from The Crisis (1910-1934)"
+listing:
+  contents: "../../Volumes/**/*.qmd"
+  type: table
+  sort: "date"
+  date-format: "YYYY (MMM)"
+  page-size: 50
+  fields: [date, title, description]
+  filter-ui: true
+  include:
+    places: "South Carolina"
+---
+
+## South Carolina (16 articles)
+
+Articles from *The Crisis* that focus on South Carolina.
+
+Use the search box below to find specific articles.
