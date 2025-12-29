@@ -6,8 +6,20 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jan. 1914
-categories: 
-  - ""
+categories: []
+subjects:
+  - Industrial labor and exploitation
+  - Race and labor
+  - Symbolism in African American literature
+  - Urban industrialization and modernity
+  - Black identity and representation
+people:
+  - W. E. B. Du Bois
+places:
+  - United States
+organizations:
+  - The Crisis
+  - Horizon (periodical)
 citation: 
   type: article-journal
   container-title: The Crisis

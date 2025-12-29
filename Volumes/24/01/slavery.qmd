@@ -6,8 +6,22 @@ author:
       given: W.E.B.
       family: Du Bois
 date: May 1922
-categories: 
-  - ""
+categories: []
+subjects:
+  - Judicially enforced peonage and sale of Black persons
+  - Peonage and forced labor in the Jim Crow South
+  - Sexual exploitation of Black women by white owners and drivers
+  - Economic profiteering of Southern elites from forced Black labor
+  - Religious complicity of Southern white churches
+places:
+  - Georgia (state)
+  - Mississippi (state)
+  - Texas (state)
+  - Alabama (state)
+organizations:
+  - Atlanta Committee on Church Cooperation
+  - The Atlanta Georgian (newspaper)
+  - Southern white churches
 citation: 
   type: article-journal
   container-title: The Crisis

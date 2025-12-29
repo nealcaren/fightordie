@@ -6,8 +6,25 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1915
-categories: 
-  - ""
+categories: []
+subjects:
+  - Christianity — hypocrisy in wartime
+  - Evangelical revivalism — Billy Sunday
+  - African American churches — democracy and inclusivity
+  - Race and religion — critique of white Christian racism
+people:
+  - W. E. B. Du Bois
+  - William A. "Billy" Sunday
+  - Robert G. Ingersoll
+  - Jesus Christ
+places:
+  - West Africa
+  - United States
+organizations:
+  - White Protestant churches (United States)
+  - African American churches (Negro church)
+events:
+  - World War I (1914-1918)
 citation: 
   type: article-journal
   container-title: The Crisis

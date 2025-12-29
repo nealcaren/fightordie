@@ -6,8 +6,19 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Apr. 1912
-categories: 
-  - ""
+categories: []
+subjects:
+  - Race relations—United States—Reconciliation
+  - North–South relations (United States)
+  - Interracial cooperation and unity
+  - Democracy—Racial equality
+  - Racial prejudice and fear
+places:
+  - United States
+  - Northern United States
+  - Southern United States
+organizations:
+  - The Crisis (magazine)
 citation: 
   type: article-journal
   container-title: The Crisis

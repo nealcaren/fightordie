@@ -6,8 +6,21 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Apr. 1914
-categories: 
-  - ""
+categories: []
+subjects:
+  - Capitalization of "Negro" (orthographic racial discrimination)
+  - Language and race
+  - Symbolic discrimination
+  - Race relations — United States
+  - Critique of egalitarian rhetoric
+people:
+  - W. E. B. Du Bois
+places:
+  - Kansas City, Missouri
+  - United States
+organizations:
+  - Kansas City Journal
+  - The Crisis (magazine)
 citation: 
   type: article-journal
   container-title: The Crisis

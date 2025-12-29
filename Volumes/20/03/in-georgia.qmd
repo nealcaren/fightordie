@@ -6,8 +6,24 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jul. 1920
-categories: 
-  - ""
+categories: []
+subjects:
+  - Voting rights (African Americans)
+  - Anti-lynching legislation
+  - Free, compulsory common school education
+  - Jim Crow laws (racial segregation in public transportation)
+  - Labor conditions and wages for Black workers
+people:
+  - W.E.B. Du Bois
+places:
+  - Atlanta, Georgia
+  - Southern United States
+organizations:
+  - National Association for the Advancement of Colored People (NAACP)
+  - NAACP, Atlanta Branch
+  - The Crisis (magazine)
+events:
+  - NAACP Eleventh Annual Conference (1920)
 citation: 
   type: article-journal
   container-title: The Crisis

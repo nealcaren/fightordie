@@ -6,8 +6,26 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1920
-categories: 
-  - ""
+categories: []
+subjects:
+  - Disfranchisement (voting rights)
+  - Jim Crow laws (segregation)
+  - Lynching
+  - Black electoral strategy (congressional voting)
+people:
+  - W. E. B. Du Bois
+  - Woodrow Wilson
+  - James M. Cox
+places:
+  - Southern United States (Solid South)
+  - United States
+organizations:
+  - Republican Party
+  - Democratic Party
+  - Socialist Party (United States)
+  - Farmer-Labor Party
+events:
+  - United States Presidential Election (1920)
 citation: 
   type: article-journal
   container-title: The Crisis

@@ -6,8 +6,21 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1916
-categories: 
-  - ""
+categories: []
+subjects:
+  - Public education — African Americans
+  - Vocational education — African Americans
+  - Educational inequality (African Americans)
+  - Racial segregation in schooling
+  - Democracy and education (United States)
+places:
+  - Rock Hill, South Carolina
+  - Charleston, South Carolina
+  - United States
+organizations:
+  - Christian Herald
+  - Charleston News and Courier
+  - Public school systems (United States)
 citation: 
   type: article-journal
   container-title: The Crisis

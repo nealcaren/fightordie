@@ -6,8 +6,26 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Oct. 1920
-categories: 
-  - ""
+categories: []
+subjects:
+  - Labor organizing and strikes
+  - Churches — social responsibility (religious hypocrisy)
+  - Strikebreaking (use of African American workers)
+  - Employment discrimination against African Americans
+  - Disfranchisement of African Americans
+people:
+  - W. E. B. Du Bois
+  - Elbert H. Gary
+places:
+  - Pennsylvania
+  - Ohio
+  - Southern United States
+organizations:
+  - Interchurch World Movement
+  - United States Steel Corporation
+  - Southern Baptist Convention
+events:
+  - Great Steel Strike (1919)
 citation: 
   type: article-journal
   container-title: The Crisis

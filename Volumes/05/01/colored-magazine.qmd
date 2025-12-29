@@ -6,8 +6,24 @@ author:
       given: W.E.B.
       family: Du Bois
 date: May 1912
-categories: 
-  - ""
+categories: []
+subjects:
+  - History of African American magazines
+  - Black press and race advocacy
+  - African American religious periodicals (A.M.E. publications)
+  - Economics and circulation of Black periodicals
+people:
+  - W. E. B. Du Bois
+  - Dr. Hogarth
+  - Bishop B. T. Tanner
+  - Dr. R. C. Ransom
+  - Colonel William H. Dupree
+places:
+  - Brooklyn, New York
+  - Boston, Massachusetts
+organizations:
+  - The Crisis
+  - A. M. E. Church Review (Quarterly)
 citation: 
   type: article-journal
   container-title: The Crisis

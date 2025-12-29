@@ -6,8 +6,22 @@ author:
       given: W.E.B.
       family: Du Bois
 date: May 1928
-categories: 
-  - ""
+categories: []
+subjects:
+  - Economic discrimination — African Americans
+  - Racial exclusion by trade unions
+  - Chain-store consolidation and impact on small Black businesses
+  - Banking and credit access — Negro banks
+  - Cooperative manufacturing and consumer cooperatives
+people:
+  - W. E. B. Du Bois
+  - Chain-store managers (white management)
+places:
+  - Memphis, Tennessee
+  - United States
+organizations:
+  - Trade unions
+  - Chain-store corporations
 citation: 
   type: article-journal
   container-title: The Crisis

@@ -6,8 +6,20 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1921
-categories: 
-  - ""
+categories: []
+subjects:
+  - NAACP membership drives
+  - African American civil rights
+  - Civil rights fundraising
+  - Grassroots organizing and recruitment
+  - Freedom and democracy advocacy
+places:
+  - Texas (United States)
+organizations:
+  - National Association for the Advancement of Colored People (NAACP)
+  - The Crisis (magazine)
+events:
+  - NAACP 250,000 membership drive (1921)
 citation: 
   type: article-journal
   container-title: The Crisis

@@ -6,8 +6,22 @@ author:
       given: W.E.B.
       family: Du Bois
 date: May 1925
-categories: 
-  - ""
+categories: []
+subjects:
+  - Labor movement and interracial cooperation
+  - African American political independence (party affiliation and voting rights)
+  - Race prejudice and civil rights advocacy
+  - Negro education and educational development
+  - African American art and cultural expression
+  - International peace and racial internationalism
+places:
+  - Philadelphia, Pennsylvania
+  - United States
+organizations:
+  - National Association for the Advancement of Colored People (NAACP)
+  - American Federation of Labor
+  - Republican Party (United States)
+  - The Crisis (magazine)
 citation: 
   type: article-journal
   container-title: The Crisis

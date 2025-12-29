@@ -6,8 +6,24 @@ author:
       given: W.E.B.
       family: Du Bois
 date: May 1916
-categories: 
-  - ""
+categories: []
+subjects:
+  - Lynching
+  - Disfranchisement (voting rights) and disfranchisement practices in the South
+  - Women's suffrage — opposition by Southern suffragists to a national amendment
+  - Southern oligarchy and white supremacy (Jim Crow political control)
+people:
+  - Laura Clay
+  - Kate Gordon
+  - Hugh M. Dorsey
+places:
+  - American South
+  - Georgia (U.S.)
+  - South Carolina (U.S.)
+organizations:
+  - Macon Telegraph
+  - The New Republic
+  - Suffrage convention (Atlantic City)
 citation: 
   type: article-journal
   container-title: The Crisis

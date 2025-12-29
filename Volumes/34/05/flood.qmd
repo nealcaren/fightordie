@@ -6,8 +6,27 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jul. 1927
-categories: 
-  - ""
+categories: []
+subjects:
+  - Lynching
+  - Racial terror and mob violence
+  - Discriminatory disaster relief
+  - Peonage and compulsory labor contracts
+  - Internal displacement and Black refugee migration
+people:
+  - Calvin Coolidge
+  - Herbert Hoover
+  - W. E. B. Du Bois
+places:
+  - Mississippi
+  - Louisiana
+  - Arkansas
+  - Memphis, Tennessee
+  - Chicago, Illinois
+organizations:
+  - American Red Cross
+events:
+  - Great Mississippi Flood (1927)
 citation: 
   type: article-journal
   container-title: The Crisis

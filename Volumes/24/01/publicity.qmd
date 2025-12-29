@@ -6,8 +6,20 @@ author:
       given: W.E.B.
       family: Du Bois
 date: May 1922
-categories: 
-  - ""
+categories: []
+subjects:
+  - Economic transparency (public disclosure of individual income)
+  - Income taxation and public reporting
+  - Corporate ownership and control disclosure
+  - Occupational transparency and public records
+  - Publicity as an instrument of social reform
+people:
+  - W. E. B. Du Bois
+places:
+  - United States
+organizations:
+  - National Association for the Advancement of Colored People (NAACP)
+  - The Crisis (magazine)
 citation: 
   type: article-journal
   container-title: The Crisis

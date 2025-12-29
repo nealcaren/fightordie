@@ -6,8 +6,23 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Aug. 1933
-categories: 
-  - ""
+categories: []
+subjects:
+  - Negro colleges (higher education for African Americans; HBCUs)
+  - Educational inequality and school segregation
+  - Employment discrimination and labor opportunities
+  - Racial segregation and social ostracism
+  - Political disenfranchisement and democratic rights
+people:
+  - W. E. B. Du Bois
+  - Abraham Flexner
+places:
+  - United States
+  - Nashville, Tennessee
+organizations:
+  - Fisk University
+  - Howard University
+  - The Crisis (magazine)
 citation: 
   type: article-journal
   container-title: The Crisis

@@ -6,8 +6,22 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jan. 1924
-categories: 
-  - ""
+categories: []
+subjects:
+  - Racial imperialism and colonialism
+  - Educational inequality and denial of education
+  - Political disenfranchisement / the right of challenge (democracy, voting rights)
+  - Labor discrimination and economic exploitation
+  - Racial propaganda and legal discrimination (Jim Crow)
+people:
+  - W. E. B. Du Bois
+places:
+  - United States
+  - Africa
+organizations:
+  - The Crisis (magazine)
+events:
+  - World War I (1914–1918)
 citation: 
   type: article-journal
   container-title: The Crisis

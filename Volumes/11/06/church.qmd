@@ -6,8 +6,24 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Apr. 1916
-categories: 
-  - ""
+categories: []
+subjects:
+  - White church hypocrisy
+  - African American church leadership
+  - Denominationalism and sectarian conflict
+  - Social uplift and democratic reform through the church
+  - Race and religion in the United States
+people:
+  - W. E. B. Du Bois
+  - Jesus Christ
+places:
+  - United States
+  - Southern United States
+organizations:
+  - Baptist churches (African American)
+  - African Methodist Episcopal Church
+  - Colored Methodist Episcopal Church
+  - Methodist Episcopal Church
 citation: 
   type: article-journal
   container-title: The Crisis

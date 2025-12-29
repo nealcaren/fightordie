@@ -6,8 +6,21 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Apr. 1920
-categories: 
-  - ""
+categories: []
+subjects:
+  - Persecution of Black educators
+  - African American public school administration
+  - Intra-racial political conflict (African American community)
+  - Disfranchisement and political gossip — Washington, D.C.
+people:
+  - Roscoe Conkling Bruce
+  - Booker T. Washington
+  - W. E. B. Du Bois
+places:
+  - Washington, D.C.
+organizations:
+  - The Crisis
+  - District of Columbia Public Schools
 citation: 
   type: article-journal
   container-title: The Crisis

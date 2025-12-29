@@ -6,8 +6,21 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Apr. 1912
-categories: 
-  - ""
+categories: []
+subjects:
+  - African American mortality — United States
+  - United States Census — mortality statistics (1890–1908)
+  - Racial demography — statistical analysis
+  - Debunking white-supremacist statistical claims
+people:
+  - Charles Stelzle
+  - W. E. B. Du Bois
+places:
+  - United States
+organizations:
+  - Home Missions Council
+  - United States Census
+  - The Crisis (magazine)
 citation: 
   type: article-journal
   container-title: The Crisis

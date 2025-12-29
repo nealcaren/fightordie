@@ -6,8 +6,27 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1919
-categories: 
-  - ""
+categories: []
+subjects:
+  - Pan-Africanism
+  - Colonialism (Africa and former German colonies)
+  - Political rights and international representation for Black peoples
+  - Education reform for Black children
+  - Native land and natural resource rights
+people:
+  - W. E. B. Du Bois
+  - Blaise Diagne
+places:
+  - Paris, France
+  - Ethiopia (Abyssinia)
+  - Liberia
+  - Haiti
+organizations:
+  - Pan-African Congress (proposed)
+  - League of Nations
+events:
+  - Pan-African Congress (1919)
+  - Paris Peace Conference (1919)
 citation: 
   type: article-journal
   container-title: The Crisis

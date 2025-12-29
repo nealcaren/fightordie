@@ -6,8 +6,26 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1951
-categories: 
-  - ""
+categories: []
+subjects:
+  - African American journalism
+  - Editorial independence (press)
+  - NAACP periodical publishing
+  - Advocacy journalism and factual reportage
+people:
+  - Du Bois, W. E. B.
+  - William English Walling
+  - Robert N. Wood
+  - Mary Maclean
+places:
+  - New York, New York
+  - Atlanta, Georgia
+organizations:
+  - National Association for the Advancement of Colored People (NAACP)
+  - The Crisis (magazine)
+  - Fisk University
+events:
+  - Founding of The Crisis (1910)
 citation: 
   type: article-journal
   container-title: The Crisis

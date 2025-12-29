@@ -6,8 +6,21 @@ author:
       given: W.E.B.
       family: Du Bois
 date: May 1911
-categories: 
-  - ""
+categories: []
+subjects:
+  - Christianity and imperialism
+  - Missionary activity in Muslim lands
+  - Religious hypocrisy in Christianity
+  - European colonialism and conquest
+  - Italian colonialism
+places:
+  - Tripoli, Libya
+  - Ottoman Empire (Turkey)
+  - Italy
+organizations:
+  - Christian Church (institution)
+events:
+  - Italian conquest of Tripoli (1911)
 citation: 
   type: article-journal
   container-title: The Crisis

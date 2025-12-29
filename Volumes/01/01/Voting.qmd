@@ -6,8 +6,19 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Nov. 1910
-categories: 
-  - Voting
+categories:
+  - Votingsubjects:
+  - Voting rights
+  - Disfranchisement
+  - Political independence (voter decision-making)
+  - African American civic participation
+  - Party affiliation
+places:
+  - United States
+organizations:
+  - Republican Party (United States)
+  - Democratic Party (United States)
+  - Socialist Party of America
 citation: 
   type: article-journal
   container-title: The Crisis

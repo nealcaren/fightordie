@@ -6,8 +6,18 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jun. 1913
-categories: 
-  - ""
+categories: []
+subjects:
+  - Education — African Americans
+  - Race relations — United States
+  - Segregation (Jim Crow) — Southern United States
+  - Racism — Denial and avoidance
+  - Social reform — Methods
+places:
+  - Southern United States
+  - Northern United States
+organizations:
+  - The Crisis (magazine)
 citation: 
   type: article-journal
   container-title: The Crisis

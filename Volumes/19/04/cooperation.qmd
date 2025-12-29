@@ -6,8 +6,19 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1920
-categories: 
-  - ""
+categories: []
+subjects:
+  - Consumer cooperatives (cooperative stores)
+  - Black economic self-help
+  - Cooperative profit-sharing (pro rata dividends by purchases)
+  - Corporate trusts and chain grocery stores (anti-competitive practices)
+  - Race loyalty in business
+places:
+  - United States
+organizations:
+  - Cooperative associations (consumer cooperatives)
+  - Corporate trusts (large retail chains)
+  - The Crisis (magazine)
 citation: 
   type: article-journal
   container-title: The Crisis

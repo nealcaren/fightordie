@@ -6,8 +6,24 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1915
-categories: 
-  - ""
+categories: []
+subjects:
+  - Racial uplift and community organization (African Americans)
+  - Jewish communal organization in the United States
+  - Philanthropy and mutual aid societies
+  - Voluntary associations and secret/semi-secret orders
+  - Comparative models of ethnic self-help and emulation
+people:
+  - W.E.B. Du Bois
+  - Maurice de Hirsch (Baron de Hirsch)
+places:
+  - United States
+  - Romania
+organizations:
+  - American Jewish Year Book
+  - American Jewish Committee
+  - Jewish Publication Society
+  - Baron De Hirsch Fund
 citation: 
   type: article-journal
   container-title: The Crisis

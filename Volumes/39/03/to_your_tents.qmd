@@ -6,8 +6,20 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1932
-categories: 
-  - ""
+categories: []
+subjects:
+  - Black economic self-help
+  - Racial economy and intra-racial trade
+  - Vocational and industrial education for African Americans
+  - Black-owned business development and retail cooperatives
+  - Capital formation and reinvestment within the African American community
+places:
+  - United States
+  - West Indies
+organizations:
+  - C.M.A. stores (Black retail cooperative example)
+  - Colleges (Black higher-education institutions)
+  - Industrial schools (Black vocational schools)
 citation: 
   type: article-journal
   container-title: The Crisis

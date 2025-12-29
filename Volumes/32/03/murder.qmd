@@ -6,8 +6,18 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jan. 1926
-categories: 
-  - ""
+categories: []
+subjects:
+  - Lynching—United States
+  - Homicide—United States (murder rates)
+  - Racial violence—United States
+  - Militarism and violence
+  - Anti-immigrant violence—United States
+places:
+  - United States
+  - Southern United States
+  - Chicago, Illinois
+  - Memphis, Tennessee
 citation: 
   type: article-journal
   container-title: The Crisis

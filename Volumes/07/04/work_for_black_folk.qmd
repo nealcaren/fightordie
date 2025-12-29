@@ -6,8 +6,23 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1914
-categories: 
-  - ""
+categories: []
+subjects:
+  - Residential segregation and property rights
+  - Racial discrimination in employment and labor unions
+  - Educational inequality; segregation and industrial schooling
+  - Disfranchisement and voting rights
+  - Public accommodations discrimination and civil service exclusion
+  - Social equality and marriage rights
+people:
+  - W. E. B. Du Bois
+  - Supervisor Guy (Charleston)
+places:
+  - Southern United States
+  - Charleston, South Carolina
+organizations:
+  - Labor unions (trade unions)
+  - Young Men's Christian Association (YMCA)
 citation: 
   type: article-journal
   container-title: The Crisis

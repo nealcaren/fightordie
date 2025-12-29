@@ -6,8 +6,20 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1928
-categories: 
-  - ""
+categories: []
+subjects:
+  - Periodical business management
+  - Editorial leadership in the African American press
+  - Professional sacrifice and career change of African American educators
+  - Employment and administrative challenges in nonprofit publishing
+people:
+  - Augustus G. Dill
+  - W. E. B. Du Bois
+places:
+  - Atlanta, Georgia
+organizations:
+  - The Crisis (magazine)
+  - Atlanta University
 citation: 
   type: article-journal
   container-title: The Crisis

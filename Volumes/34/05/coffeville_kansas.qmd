@@ -6,8 +6,25 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jul. 1927
-categories: 
-  - ""
+categories: []
+subjects:
+  - Lynching and mob violence
+  - False rape accusations against African Americans
+  - Armed self-defense by African Americans
+  - Legal failures and impunity in racial violence
+  - Race riots and property damage
+people:
+  - W. E. B. Du Bois
+  - Anderson
+  - Ford
+places:
+  - Coffeeville, Kansas
+organizations:
+  - Kansas National Guard
+  - Coffeeville Daily Journal
+  - The Crisis
+events:
+  - Coffeeville race riot and lynch mob (1927)
 citation: 
   type: article-journal
   container-title: The Crisis

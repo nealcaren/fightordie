@@ -6,8 +6,21 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1911
-categories: 
-  - ""
+categories: []
+subjects:
+  - British imperialism
+  - Race relations in Britain
+  - Colonial subjects in metropolitan centers
+  - Imperial pageantry and ceremonial representation
+  - Pan-racial / international racial conferences
+places:
+  - London
+  - India
+  - Egypt
+  - South Africa
+organizations:
+  - British Empire
+  - British monarchy
 citation: 
   type: article-journal
   container-title: The Crisis

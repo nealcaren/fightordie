@@ -6,8 +6,18 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1911
-categories: 
-  - ""
+categories: []
+subjects:
+  - Race relations—United States
+  - Racial etiquette and codes of courtesy
+  - African Americans—Dignity and social status
+  - Social customs—Southern United States
+  - Public opinion—Influence on social behavior
+places:
+  - Southern United States
+  - United States
+organizations:
+  - The Crisis (magazine)
 citation: 
   type: article-journal
   container-title: The Crisis

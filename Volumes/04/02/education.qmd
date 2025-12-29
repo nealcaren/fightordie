@@ -6,8 +6,22 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jun. 1912
-categories: 
-  - ""
+categories: []
+subjects:
+  - African American education
+  - Vocational education
+  - Higher education — African Americans
+  - Educational philosophy
+  - Education and democracy
+people:
+  - W. E. B. Du Bois
+places:
+  - Indianapolis, Indiana
+  - Washington, D.C.
+organizations:
+  - Indianapolis Star (newspaper)
+  - Indianapolis Public Schools
+  - District of Columbia Public Schools
 citation: 
   type: article-journal
   container-title: The Crisis

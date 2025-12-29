@@ -6,8 +6,26 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Apr. 1913
-categories: 
-  - ""
+categories: []
+subjects:
+  - Women's suffrage
+  - Race and women's suffrage
+  - White supremacy
+  - Gendered violence and sexual harassment at public demonstrations
+  - Police complicity in mob violence
+people:
+  - W. E. B. Du Bois
+  - Ida Husted Harper
+places:
+  - Washington, D.C.
+  - Pennsylvania Avenue (Washington, D.C.)
+  - Fort Myer, Virginia
+organizations:
+  - Women's suffrage movement
+  - Washington, D.C., police
+  - United States Army (Fort Myer cavalry)
+events:
+  - Woman Suffrage Procession (Washington, D.C., 1913)
 citation: 
   type: article-journal
   container-title: The Crisis

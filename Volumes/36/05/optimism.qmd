@@ -6,8 +6,20 @@ author:
       given: W.E.B.
       family: Du Bois
 date: May 1929
-categories: 
-  - ""
+categories: []
+subjects:
+  - Legal defense of African Americans
+  - Harlem Renaissance (African American artistic renaissance)
+  - Historically Black colleges and universities — governance and institutional autonomy
+  - African American labor organizing and skilled artisans
+  - African American middle-class formation and household economics
+  - Racial self-assertion and cultural self-representation
+people:
+  - Du Bois, W. E. B. (W.E.B. Du Bois)
+places:
+  - United States
+organizations:
+  - The Crisis (journal)
 citation: 
   type: article-journal
   container-title: The Crisis

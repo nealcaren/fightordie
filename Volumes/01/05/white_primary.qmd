@@ -6,8 +6,24 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1911
-categories: 
-  - ""
+categories: []
+subjects:
+  - White primaries (electoral exclusion)
+  - African American disenfranchisement (Southern states)
+  - Southern Democratic Party control of nominations and elections
+  - Party rules and machine control of registration and ballots
+people:
+  - W. E. B. Du Bois
+  - LeRoy Percy (U.S. Senator, Mississippi)
+  - Hoke Smith
+  - Professor Macy (Iowa)
+places:
+  - Mississippi
+  - Georgia
+  - South Carolina
+organizations:
+  - Democratic Party (Southern Democratic Party)
+  - The Atlanta Constitution
 citation: 
   type: article-journal
   container-title: The Crisis

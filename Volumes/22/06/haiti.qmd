@@ -6,8 +6,26 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Apr. 1921
-categories: 
-  - ""
+categories: []
+subjects:
+  - U.S. military occupation of Haiti
+  - United States imperialism (foreign policy)
+  - Haitian sovereignty and self-government
+  - Political advocacy and public correspondence to legislators
+people:
+  - W. E. B. Du Bois
+  - Joseph Medill McCormick
+  - Philander C. Knox
+  - Miles Poindexter
+places:
+  - Haiti
+  - Washington, D.C.
+organizations:
+  - National Association for the Advancement of Colored People (NAACP)
+  - United States Senate
+events:
+  - United States occupation of Haiti (1915–1934)
+  - U.S. Senate investigation of Haiti (1921)
 citation: 
   type: article-journal
   container-title: The Crisis

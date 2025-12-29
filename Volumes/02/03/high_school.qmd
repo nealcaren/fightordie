@@ -6,8 +6,22 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jan. 1911
-categories: 
-  - ""
+categories: []
+subjects:
+  - Educational inequality
+  - Segregated secondary education for African Americans
+  - African American civic organizing and self-help
+  - Residential segregation and neighborhood opposition
+  - Voting rights and political influence
+people:
+  - Charles H. Dodge
+  - W. E. B. Du Bois
+places:
+  - St. Louis, Missouri
+organizations:
+  - St. Louis Board of Education
+events:
+  - Opening/establishment of the new St. Louis Colored High School (1910–1911)
 citation: 
   type: article-journal
   container-title: The Crisis

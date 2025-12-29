@@ -6,8 +6,22 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1918
-categories: 
-  - ""
+categories: []
+subjects:
+  - Food conservation (wartime)
+  - Nutrition and public health
+  - Dietary habits of African Americans
+  - Thrift and domestic economy
+  - Racial uplift through health and efficiency
+people:
+  - W. E. B. Du Bois
+places:
+  - Southern United States
+  - United States
+organizations:
+  - The Crisis (magazine)
+events:
+  - World War I (1914–1918)
 citation: 
   type: article-journal
   container-title: The Crisis

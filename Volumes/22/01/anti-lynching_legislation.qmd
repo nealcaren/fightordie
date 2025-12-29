@@ -6,8 +6,25 @@ author:
       given: W.E.B.
       family: Du Bois
 date: May 1922
-categories: 
-  - ""
+categories: []
+subjects:
+  - Anti-lynching legislation
+  - Lynching — statistics and investigation
+  - Civil rights litigation and legal defense
+  - Publicity campaigns and mass mobilization
+people:
+  - W. E. B. Du Bois
+places:
+  - Duluth, Minnesota
+  - New York City, New York
+  - Kentucky
+organizations:
+  - National Association for the Advancement of Colored People (NAACP)
+  - The Crisis (magazine)
+  - United States Congress
+events:
+  - Duluth lynchings (1920)
+  - National Conference on Lynching (New York, 1919)
 citation: 
   type: article-journal
   container-title: The Crisis

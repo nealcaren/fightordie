@@ -6,8 +6,18 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1917
-categories: 
-  - ""
+categories: []
+subjects:
+  - Suffering and empathy (shared human experience)
+  - Interracial brotherhood and solidarity
+  - Pain as equalizer dissolving racial distinctions
+  - Religious and spiritual imagery in social critique
+  - Compassionate care and sympathetic response in illness
+  - Social healing and reconciliation
+places:
+  - Cathedral of St. John the Divine (New York, NY)
+organizations:
+  - The Crisis (magazine)
 citation: 
   type: article-journal
   container-title: The Crisis

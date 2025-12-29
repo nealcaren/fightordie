@@ -9,8 +9,24 @@ author:
       given: Martha
       family: Gruening
 date: Mar. 1917
-categories: 
-  - ""
+categories: []
+subjects:
+  - Race riots and mob violence against African Americans
+  - Labor disputes and strikebreaking in industry
+  - Racially-motivated property destruction and forced displacement
+  - Failures of law enforcement and civil protections
+people:
+  - W. E. Burghardt Du Bois
+  - Martha Gruening
+places:
+  - East St. Louis, Illinois
+organizations:
+  - National Association for the Advancement of Colored People (NAACP)
+  - Armour & Co.
+  - Swift & Co.
+  - White labor unions (East St. Louis packing plants)
+events:
+  - East St. Louis Race Riot (1917)
 citation: 
   type: article-journal
   container-title: The Crisis

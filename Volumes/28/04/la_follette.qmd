@@ -6,8 +6,21 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1924
-categories: 
-  - ""
+categories: []
+subjects:
+  - Racial discrimination (color prejudice)
+  - Ku Klux Klan and racial/religious violence
+  - Progressive Party platform (1924 La Follette program)
+  - Public ownership and economic reform (nationalization; taxation of wealth; public control of credit)
+  - Labor rights and child labor abolition
+people:
+  - Robert M. La Follette, Sr.
+  - W. E. B. Du Bois
+places:
+  - United States
+organizations:
+  - Ku Klux Klan
+  - Progressive Party (La Follette 1924 campaign)
 citation: 
   type: article-journal
   container-title: The Crisis

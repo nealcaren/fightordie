@@ -6,8 +6,24 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jan. 1912
-categories: 
-  - ""
+categories: []
+subjects:
+  - Racial exclusion in labor unions
+  - Labor solidarity and racial divisions
+  - Discriminatory union admission policies
+  - Strike-related displacement of Black workers
+  - Labor movement and social justice
+people:
+  - W. E. B. Du Bois
+places:
+  - New York, New York
+  - Northern United States
+  - Southern United States
+  - United States
+organizations:
+  - American Federation of Labor
+  - Printers' union
+  - The Crisis (magazine)
 citation: 
   type: article-journal
   container-title: The Crisis

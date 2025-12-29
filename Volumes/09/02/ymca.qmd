@@ -6,8 +6,23 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jun. 1914
-categories: 
-  - ""
+categories: []
+subjects:
+  - Segregation in religious and social organizations
+  - Colored (Black) Y.M.C.A. movement and African American voluntary institutions
+  - Christian ethics and race relations
+  - Philanthropy and race (e.g., Julius Rosenwald)
+people:
+  - W. E. B. Du Bois
+  - Julius Rosenwald
+places:
+  - New York City
+  - Chicago, Illinois
+  - Washington, D.C.
+  - Philadelphia, Pennsylvania
+organizations:
+  - Young Men's Christian Association (Y.M.C.A.)
+  - Colored Y.M.C.A. (Black YMCA movement)
 citation: 
   type: article-journal
   container-title: The Crisis

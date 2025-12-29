@@ -6,8 +6,27 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1920
-categories: 
-  - ""
+categories: []
+subjects:
+  - Racial violence and lynching
+  - Black agricultural organizing
+  - Criminal justice — fair trial and extradition
+  - Black leadership accountability
+people:
+  - Robert L. Hill
+  - Bishop J. M. Conner
+  - J. M. Cox
+  - Joseph A. Booker
+  - Governor Henry J. Allen
+places:
+  - Phillips County, Arkansas
+  - Helena, Arkansas
+  - Kansas
+organizations:
+  - Progressive Farmers and Household Union of America
+  - NAACP
+events:
+  - Elaine Massacre (1919)
 citation: 
   type: article-journal
   container-title: The Crisis

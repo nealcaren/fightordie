@@ -6,8 +6,23 @@ author:
       given: W.E.B.
       family: Du Bois
 date: May 1933
-categories: 
-  - ""
+categories: []
+subjects:
+  - Marxism
+  - Class struggle and economic exploitation
+  - Race and class relations in the United States
+  - Labor rights and industrial organization
+  - Black democracy and political rights
+people:
+  - Karl Marx
+  - W. E. B. Du Bois
+places:
+  - United States
+  - Russia
+organizations:
+  - The Crisis (magazine)
+events:
+  - Russian Revolution (1917)
 citation: 
   type: article-journal
   container-title: The Crisis

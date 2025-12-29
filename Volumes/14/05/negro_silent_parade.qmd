@@ -3,8 +3,26 @@ title: 'The Negro Silent Parade'
 description: "W.E.B. Du Bois in The Crisis (1917) documents the Negro Silent Parade, a mass silent protest against race riots, lynching, and injustice."
 author: National Association for the Advancement of Colored People
 date: Mar. 1917
-categories: 
-  - ""
+categories: []
+subjects:
+  - Lynching
+  - Race riots and mass racial violence
+  - Disfranchisement and voting rights
+  - Jim Crow segregation
+people:
+  - W.E.B. Du Bois
+places:
+  - New York City (New York)
+  - East St. Louis (Illinois)
+  - Waco (Texas)
+  - Memphis (Tennessee)
+organizations:
+  - The Crisis
+  - The New York Times
+  - New York American
+events:
+  - Negro Silent Parade (1917)
+  - East St. Louis Race Riot (1917)
 citation: 
   type: article-journal
   container-title: The Crisis

@@ -6,8 +6,17 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1914
-categories: 
-  - ""
+categories: []
+subjects:
+  - Racial prejudice — origins and education
+  - Racial antagonism as alleged self‑defense
+  - Scientific racism and claims about racial ability and health
+  - Racial socialization of children and childhood intergroup contact
+  - Race and democracy; effects on education and human uplift
+  - Comparative ethnic/racial antagonism (e.g., Balkans vs. American plantations)
+places:
+  - Balkans
+  - Virginia (United States)
 citation: 
   type: article-journal
   container-title: The Crisis

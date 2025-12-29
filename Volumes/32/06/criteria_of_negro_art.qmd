@@ -6,8 +6,25 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Apr. 1926
-categories: 
-  - ""
+categories: []
+subjects:
+  - African American art — aesthetic criteria and criticism
+  - Art and social justice / art as a force for democracy
+  - Cultural autonomy and white gatekeeping in the arts
+  - Race and democracy; the role of art in citizenship and rights
+  - Racial uplift and cultural nationalism
+people:
+  - W. E. B. Du Bois
+  - Sir Walter Scott
+places:
+  - Chicago, Illinois
+  - United States
+  - Scotland
+organizations:
+  - National Association for the Advancement of Colored People (NAACP)
+  - The Crisis (magazine)
+events:
+  - NAACP National Conference, Chicago (1926)
 citation: 
   type: article-journal
   container-title: The Crisis

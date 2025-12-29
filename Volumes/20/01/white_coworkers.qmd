@@ -6,8 +6,25 @@ author:
       given: W.E.B.
       family: Du Bois
 date: May 1920
-categories: 
-  - ""
+categories: []
+subjects:
+  - Interracial cooperation in civil rights
+  - Organization and interracial leadership of the NAACP
+  - Anti-lynching campaigns and lynching prevention
+  - Voting rights and disfranchisement (grandfather-clause litigation)
+  - Segregation (Jim Crow laws)
+people:
+  - W. E. B. Du Bois
+  - Joel E. Spingarn
+places:
+  - United States
+  - New York (state)
+  - Michigan (state)
+organizations:
+  - National Association for the Advancement of Colored People (NAACP)
+  - The Crisis (magazine)
+events:
+  - Pan-African Congress (1919)
 citation: 
   type: article-journal
   container-title: The Crisis

@@ -6,8 +6,23 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jun. 1921
-categories: 
-  - ""
+categories: []
+subjects:
+  - Representation of African Americans in art
+  - Artistic truth versus propaganda
+  - African American drama and theater
+  - Racial stereotyping and caricature in literature and theater
+  - Critical reception of Black portrayals in mainstream drama
+people:
+  - W. E. B. Du Bois
+  - Edward Sheldon
+  - Ridgely Torrence
+  - Eugene O'Neill
+  - Thomas Dixon Jr.
+places:
+  - United States
+organizations:
+  - The Crisis
 citation: 
   type: article-journal
   container-title: The Crisis

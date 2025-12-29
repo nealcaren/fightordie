@@ -6,8 +6,24 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jan. 1923
-categories: 
-  - ""
+categories: []
+subjects:
+  - Anti-lynching legislation
+  - Lynching
+  - African American political mobilization
+  - Republican Party politics (United States)
+people:
+  - James Weldon Johnson
+  - Knute Nelson
+places:
+  - United States
+  - Washington, D.C.
+organizations:
+  - National Association for the Advancement of Colored People (NAACP)
+  - Republican Party (United States)
+  - United States Senate
+events:
+  - Dyer Anti-Lynching Bill campaign (1921–1922)
 citation: 
   type: article-journal
   container-title: The Crisis

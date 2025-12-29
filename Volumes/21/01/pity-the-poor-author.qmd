@@ -6,8 +6,19 @@ author:
       given: W.E.B.
       family: Du Bois
 date: November 1920
-categories: 
-  - ""
+categories: []
+subjects:
+  - Author compensation and royalties
+  - Economics of publishing and book distribution
+  - Professional dignity of writers
+  - Requests for free books / charity appeals for publications
+  - Social expectations of gifting and patronage in literary culture
+people:
+  - W. E. B. Du Bois
+places:
+  - United States
+organizations:
+  - The Crisis (magazine)
 citation: 
   type: article-journal
   container-title: The Crisis

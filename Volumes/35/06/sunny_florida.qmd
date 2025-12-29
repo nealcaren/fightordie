@@ -6,8 +6,25 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jun. 1928
-categories: 
-  - ""
+categories: []
+subjects:
+  - Police brutality and extrajudicial killings
+  - Racialized labor exploitation during the Florida land/fruit boom
+  - Racial segregation, disfranchisement, and political powerlessness of Black workers
+  - Corruption and impunity in law enforcement
+people:
+  - W. E. B. Du Bois
+  - H. L. Quigg
+  - Tibbits (Police sergeant/lieutenant)
+  - H. Kier
+places:
+  - Miami, Florida
+  - Florida
+organizations:
+  - City of Miami Police Department
+  - Dade County Grand Jury
+events:
+  - Murder trial and acquittal of H. L. Quigg (1928)
 citation: 
   type: article-journal
   container-title: The Crisis

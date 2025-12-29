@@ -6,8 +6,26 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1920
-categories: 
-  - ""
+categories: []
+subjects:
+  - British imperialism (colonialism)
+  - Land dispossession in Africa
+  - Racial hypocrisy in imperial policy
+  - Abolitionism and emancipation (English abolitionists)
+people:
+  - Sir Leander Starr Jameson
+  - Thomas Clarkson
+  - William Wilberforce
+  - Granville Sharp
+  - John Boyle O'Reilly
+  - Daniel O'Connell
+places:
+  - England
+  - Ireland
+  - Matabeleland
+organizations:
+  - British Aborigines Protection Society
+  - The Crisis
 citation: 
   type: article-journal
   container-title: The Crisis

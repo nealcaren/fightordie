@@ -6,8 +6,24 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jun. 1921
-categories: 
-  - ""
+categories: []
+subjects:
+  - Pan-Africanism
+  - Fundraising for international conferences
+  - Black transnational organizing (African diaspora networks)
+  - Role of Black churches and fraternal and mutual aid organizations in political mobilization
+people:
+  - W. E. B. Du Bois
+  - Bishop John Hurst
+  - John E. Milholland
+places:
+  - United States
+  - West Africa
+organizations:
+  - National Association for the Advancement of Colored People (NAACP)
+  - The Crisis (magazine)
+events:
+  - Second Pan-African Congress (1921)
 citation: 
   type: article-journal
   container-title: The Crisis

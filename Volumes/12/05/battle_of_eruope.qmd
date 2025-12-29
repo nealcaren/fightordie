@@ -6,8 +6,19 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1916
-categories: 
-  - ""
+categories: []
+subjects:
+  - Critique of Western civilization
+  - Racial pride and cultural nationalism
+  - Pan‑Africanism and African cultural heritage
+  - Social and political change — decline of monarchies; rise of socialism
+  - Women's emancipation (European)
+places:
+  - Europe
+  - Africa
+  - United States
+events:
+  - World War I (1914–1918)
 citation: 
   type: article-journal
   container-title: The Crisis

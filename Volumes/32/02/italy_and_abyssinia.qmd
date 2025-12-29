@@ -6,8 +6,27 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jun. 1926
-categories: 
-  - ""
+categories: []
+subjects:
+  - Italian imperialism in Africa
+  - Colonialism in Abyssinia (Ethiopia)
+  - Economic exploitation of colonies
+  - Racial hypocrisy in imperial policy
+  - International treaties and secret diplomacy
+people:
+  - Benito Mussolini
+  - Menelik II
+  - Empress Taitu (Taitu Betul)
+  - Ras Tafari Makonnen (Haile Selassie)
+places:
+  - Abyssinia (Ethiopia)
+  - Italy
+  - United Kingdom (British Empire)
+organizations:
+  - League of Nations
+  - Soviet Russia
+events:
+  - Battle of Adwa (Adua) (1896)
 citation: 
   type: article-journal
   container-title: The Crisis

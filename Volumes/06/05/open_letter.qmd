@@ -6,8 +6,26 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Nov. 1913
-categories: 
-  - ""
+categories: []
+subjects:
+  - Segregation of African American federal employees
+  - Disfranchisement and voting rights (African Americans)
+  - Removal and denial of Black federal appointments
+  - Racial discrimination in federal policy under the Wilson administration
+people:
+  - Woodrow Wilson
+  - W. E. B. Du Bois
+  - Albert S. Burleson
+  - James K. Vardaman
+  - Benjamin R. Tillman
+places:
+  - Washington, D.C.
+  - United States
+organizations:
+  - The Crisis (magazine)
+  - United States federal government
+  - United States Post Office Department
+  - United States Department of the Treasury
 citation: 
   type: article-journal
   container-title: The Crisis

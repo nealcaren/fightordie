@@ -6,8 +6,23 @@ author:
       given: W.E.B.
       family: Du Bois
 date: May 1917
-categories: 
-  - ""
+categories: []
+subjects:
+  - White primaries
+  - African American voting rights
+  - Women's suffrage (primary elections)
+  - Public school funding (African American schools)
+  - Municipal civic reform and street improvements
+people:
+  - W.E.B. Du Bois
+places:
+  - Columbia (South Carolina)
+  - Atlanta (Georgia)
+  - Arkansas
+organizations:
+  - National Association for the Advancement of Colored People (NAACP)
+  - Democratic Party (United States)
+  - Republican Party (United States)
 citation: 
   type: article-journal
   container-title: The Crisis

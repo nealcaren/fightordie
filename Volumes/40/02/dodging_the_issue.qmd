@@ -6,8 +6,23 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1933
-categories: 
-  - ""
+categories: []
+subjects:
+  - Lynching and mob violence
+  - Sharecropping and tenant farming (Alabama)
+  - Nonresistance and criticism of anti-militancy appeals
+  - Law‑enforcement complicity in racial violence (sheriffs and posses)
+  - Anti‑Communist accusations used as a pretext to suppress Black resistance
+people:
+  - W. E. B. Du Bois
+  - Negro leaders (Alabama) — interviewed representatives quoted in the article
+places:
+  - Alabama
+  - Atlanta, Georgia
+organizations:
+  - Atlanta Commission on Interracial Cooperation
+events:
+  - Atlanta race riot (1906)
 citation: 
   type: article-journal
   container-title: The Crisis

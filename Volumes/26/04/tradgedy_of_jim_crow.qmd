@@ -6,8 +6,23 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1923
-categories: 
-  - ""
+categories: []
+subjects:
+  - Northern school segregation (Jim Crow school segregation)
+  - Educational inequality in public schools
+  - Employment discrimination against Black teachers
+  - Great Migration and urban concentration of Negro population
+people:
+  - W. E. B. Du Bois
+  - Richard Humphreys
+  - Leslie Pinckney Hill
+  - Fannie Jackson Coppin
+places:
+  - Philadelphia, Pennsylvania
+  - Cheyney, Pennsylvania (Cheyney State Normal School)
+organizations:
+  - National Association for the Advancement of Colored People (NAACP)
+  - The Crisis (magazine)
 citation: 
   type: article-journal
   container-title: The Crisis

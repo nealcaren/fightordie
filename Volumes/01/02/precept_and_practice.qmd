@@ -6,10 +6,20 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Dec. 1910
-categories: 
+categories:
   - Discrimination
   - White hipocrisy
-
+subjects:
+  - Public accommodations—Discrimination (restaurants)
+  - Race relations—Social behavior
+  - Color prejudice (colorism)
+  - Hypocrisy in racial attitudes
+  - Representation of race in theatre
+  - Urban social segregation
+places:
+  - New York City (New York)
+organizations:
+  - The Crisis (magazine)
 citation: 
   type: article-journal
   container-title: The Crisis

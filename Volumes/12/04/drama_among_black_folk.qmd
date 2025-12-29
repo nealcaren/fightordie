@@ -6,8 +6,26 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1916
-categories: 
-  - ""
+categories: []
+subjects:
+  - Black pageantry and folk drama
+  - Black theater and performance
+  - Minstrelsy and its transformation
+  - Ethiopianism / African heritage in Black arts
+  - Religious revival ("Shout") as dramatic tradition
+  - Arts funding and financial neglect of Black cultural production
+people:
+  - W.E.B. Du Bois
+  - Ira Aldridge
+places:
+  - New York City
+  - Washington, D.C.
+  - Philadelphia, Pennsylvania
+  - Africa
+  - Ethiopia
+organizations:
+  - The Star of Ethiopia (pageant)
+  - The Crisis
 citation: 
   type: article-journal
   container-title: The Crisis

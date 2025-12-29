@@ -6,8 +6,24 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jun. 1917
-categories: 
-  - ""
+categories: []
+subjects:
+  - Military discrimination against African Americans
+  - Segregated military training camps (separate camps for Black soldiers)
+  - African American military officers (demand for Negro officers)
+  - Civil rights advocacy by the NAACP
+people:
+  - W. E. B. Du Bois
+  - Joel E. Spingarn
+  - Mary White Ovington
+places:
+  - Plattsburg, New York
+organizations:
+  - National Association for the Advancement of Colored People (NAACP)
+  - The Crisis (magazine)
+  - United States Army General Staff
+events:
+  - World War I (1914-1918)
 citation: 
   type: article-journal
   container-title: The Crisis

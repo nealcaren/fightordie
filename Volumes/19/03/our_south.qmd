@@ -6,8 +6,21 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jan. 1920
-categories: 
-  - ""
+categories: []
+subjects:
+  - Racialized property ideology (claim that "all property is white property")
+  - Black labor and employment rights (access to work and workplace accommodations)
+  - Educational inequality and denial of public education
+  - Residential segregation and housing discrimination
+  - Political disenfranchisement and denial of democratic voice
+places:
+  - Wilmington, North Carolina
+  - Southern United States
+organizations:
+  - United States government
+  - The Crisis
+events:
+  - World War I (1914–1918)
 citation: 
   type: article-journal
   container-title: The Crisis

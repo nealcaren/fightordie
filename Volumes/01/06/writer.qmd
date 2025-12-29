@@ -6,8 +6,24 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Apr. 1911
-categories: 
-  - ""
+categories: []
+subjects:
+  - African American literature
+  - African American women writers
+  - Writer development and mentorship
+  - Education and cultural advancement of African Americans
+people:
+  - Frances Watkins Harper
+  - Phillis Wheatley
+  - David Walker
+  - William Wells Brown
+  - Paul Laurence Dunbar
+  - Charles W. Chesnutt
+  - William Stanley Braithwaite
+places:
+  - Baltimore, Maryland
+organizations:
+  - The Crisis (magazine)
 citation: 
   type: article-journal
   container-title: The Crisis

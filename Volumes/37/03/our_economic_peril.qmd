@@ -6,8 +6,26 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1930
-categories: 
-  - ""
+categories: []
+subjects:
+  - Racial employment discrimination
+  - Labor organizing and union exclusion
+  - Consumers' cooperatives (co‑ops) and cooperative economics
+  - Jim Crow segregation (racial segregation in public life)
+  - Philanthropy and corporate employment practices
+people:
+  - W. E. B. Du Bois
+  - Norman Thomas
+  - George S. Schuyler
+places:
+  - New York, New York
+  - Memphis, Tennessee
+  - Philadelphia, Pennsylvania
+  - Bluefield, West Virginia
+organizations:
+  - The Crisis (magazine)
+  - Upholsterers' Union (union local, New York)
+  - Trade unions (labor organizations)
 citation: 
   type: article-journal
   container-title: The Crisis

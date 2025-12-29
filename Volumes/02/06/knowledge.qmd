@@ -6,8 +6,23 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Apr. 1911
-categories: 
-  - ""
+categories: []
+subjects:
+  - Southern racial ideology and stereotyping of African Americans
+  - African American suicide rates (historical statistics)
+  - Mental and nervous disease mortality among African Americans
+  - Use of U.S. Census statistics in racial argumentation
+  - Race and public-health disparities
+people:
+  - W. E. B. Du Bois
+  - George W. Donaghey
+places:
+  - Arkansas
+  - Mississippi
+  - United States
+organizations:
+  - United States Census
+  - National Negro Business League
 citation: 
   type: article-journal
   container-title: The Crisis

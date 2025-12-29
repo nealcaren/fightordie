@@ -6,8 +6,26 @@ author:
       given: W.E.B.
       family: Du Bois
 date: December 1920
-categories: 
-  - ""
+categories: []
+subjects:
+  - [Racialized political campaigning]
+  - [Race and ancestry controversies]
+  - [League of Nations debate]
+  - [Labor and third-party politics]
+people:
+  - [Warren G. Harding]
+  - [Woodrow Wilson]
+  - [Pat Harrison]
+places:
+  - [United States]
+  - [Ohio]
+  - [Mississippi]
+organizations:
+  - [Republican Party]
+  - [Democratic Party]
+  - [League of Nations]
+events:
+  - [Presidential Election (1920)]
 citation: 
   type: article-journal
   container-title: The Crisis

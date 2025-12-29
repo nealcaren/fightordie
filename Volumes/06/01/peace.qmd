@@ -6,8 +6,27 @@ author:
       given: W.E.B.
       family: Du Bois
 date: May 1913
-categories: 
-  - ""
+categories: []
+subjects:
+  - Peace movement (United States)
+  - Colonialism and imperialism
+  - Racialized hierarchy of "civilized" vs. "non‑civilized" peoples
+  - Militarism and colonial warfare
+  - International arbitration and international law
+people:
+  - Du Bois, W. E. B.
+places:
+  - St. Louis, Missouri
+  - New York, New York
+  - Africa
+  - Asia
+organizations:
+  - New York Peace Society
+  - American peace societies / American peace movement
+  - The Crisis (magazine)
+events:
+  - Balkan Wars (1912–1913)
+  - Peace congress / meeting of peace societies (St. Louis, 1913)
 citation: 
   type: article-journal
   container-title: The Crisis

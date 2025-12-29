@@ -6,8 +6,21 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1921
-categories: 
-  - ""
+categories: []
+subjects:
+  - British imperialism in Ireland
+  - Irish independence movement
+  - Race riots (United States)
+  - Racial exclusion in labor unions
+  - Divide-and-rule tactics
+places:
+  - Ireland
+  - United States
+  - England
+organizations:
+  - American Federation of Labor
+events:
+  - Irish War of Independence (1919-1921)
 citation: 
   type: article-journal
   container-title: The Crisis

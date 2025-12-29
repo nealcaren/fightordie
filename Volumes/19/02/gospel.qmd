@@ -6,8 +6,20 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jun. 1919
-categories: 
-  - ""
+categories: []
+subjects:
+  - Lynching and racial violence
+  - Christianity and social justice in African American communities
+  - Agricultural labor (cotton plantation labor)
+  - African American motherhood and maternal experience
+  - Racial injustice and oppression
+people:
+  - W. E. B. Du Bois
+  - Mary Brown (fictional protagonist)
+  - Joshua (Mary Brown's son, fictional character)
+places:
+  - Southern United States
+  - Rural plantation (Southern United States)
 citation: 
   type: article-journal
   container-title: The Crisis

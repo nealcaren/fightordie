@@ -6,8 +6,26 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1921
-categories: 
-  - ""
+categories: []
+subjects:
+  - Ethnomusicology and folk music collection
+  - Preservation of Native American art and music
+  - African and African American folk music and folklore
+  - Interracial cultural exchange and interpretation
+people:
+  - Natalie Curtis Burlin
+  - Theodore Roosevelt
+  - Kamba Simango
+  - Madikane Cele
+places:
+  - New York City (New York, USA)
+  - Indian Reservations (United States)
+  - France
+  - Portuguese East Africa
+  - Zululand (South Africa region)
+organizations:
+  - Hampton Institute
+  - The Crisis
 citation: 
   type: article-journal
   container-title: The Crisis

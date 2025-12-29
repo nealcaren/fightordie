@@ -6,8 +6,24 @@ author:
       given: W.E.B.
       family: Du Bois
 date: December 1920
-categories: 
-  - ""
+categories: []
+subjects:
+  - Black nationalism
+  - Pan-Africanism
+  - Race pride
+  - Black economic development (Black business enterprises)
+  - West Indian migration to the United States
+people:
+  - Marcus Garvey
+  - Marclam Taylor
+places:
+  - St. Ann's Bay, Jamaica
+  - Kingston, Jamaica
+  - Harlem (New York, N.Y.)
+organizations:
+  - Negro Improvement Society
+  - Black Star Line
+  - Negro Factories Corporation
 citation: 
   type: article-journal
   container-title: The Crisis

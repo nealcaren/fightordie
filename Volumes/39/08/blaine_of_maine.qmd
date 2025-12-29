@@ -6,8 +6,25 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Aug. 1932
-categories: 
-  - ""
+categories: []
+subjects:
+  - Civil War revisionism and historical memory
+  - Slavery (institution and historiography)
+  - Reconstruction and Black enfranchisement (voting rights)
+people:
+  - Charles Edward Russell
+  - William Archibald Dunning
+  - Andrew Johnson
+  - Frederick Douglass
+places:
+  - United States
+  - American South
+organizations:
+  - Columbia University
+  - Johns Hopkins University
+events:
+  - American Civil War (1861-1865)
+  - Reconstruction (1865-1877)
 citation: 
   type: article-journal
   container-title: The Crisis

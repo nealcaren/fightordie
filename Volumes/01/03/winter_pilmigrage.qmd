@@ -7,7 +7,19 @@ author:
       family: Du Bois
 date: Jan. 1911
 categories:
-  - Travel
+  - Travelsubjects:
+  - Public accommodations discrimination (theatres, restaurants, hotels)
+  - Higher education and racial integration (college students, faculty influence)
+  - Civic recognition and political inclusion of African Americans
+  - Black economic advancement and community institution-building (churches, local businesses)
+  - Regional variations in race relations within Northern cities
+places:
+  - Toledo, Ohio
+  - Cleveland, Ohio
+  - Oberlin, Ohio
+organizations:
+  - Oberlin College
+  - African American churches
 citation: 
   type: article-journal
   container-title: The Crisis

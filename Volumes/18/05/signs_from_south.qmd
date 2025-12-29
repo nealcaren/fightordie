@@ -6,8 +6,23 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1919
-categories: 
-  - ""
+categories: []
+subjects:
+  - Arson attacks on Black churches and schools
+  - Lynching and mob violence
+  - Prosecution of lynchers
+  - Democracy and Black citizenship
+  - Law enforcement protection of Black prisoners
+people:
+  - W. E. B. Du Bois
+  - Sheriff Alexander
+  - Williams (prisoner)
+places:
+  - Putnam County, Georgia
+  - Washington County, Mississippi
+  - Alabama (state)
+organizations:
+  - The Crisis (magazine)
 citation: 
   type: article-journal
   container-title: The Crisis

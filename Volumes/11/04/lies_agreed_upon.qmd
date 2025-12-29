@@ -6,8 +6,24 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1916
-categories: 
-  - ""
+categories: []
+subjects:
+  - Historical erasure of Black achievement
+  - Racial prejudice in historiography
+  - Contributions of African and nonwhite civilizations to world civilization
+  - Cultural misattribution and appropriation
+people:
+  - W. E. B. Du Bois
+  - E. S. Cox
+  - Samuel Coleridge-Taylor
+places:
+  - Africa
+  - Egypt
+  - Ethiopia (Abyssinia)
+organizations:
+  - The Crisis (magazine)
+  - Current Literature (magazine)
+  - Vanderbilt University
 citation: 
   type: article-journal
   container-title: The Crisis

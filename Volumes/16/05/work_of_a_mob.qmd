@@ -3,8 +3,24 @@ title: 'The Work of a Mob'
 description: "In The Crisis (1918) W.E.B. Du Bois documents brutal lynchings in Georgia, exposing racial terror and its assault on Black democracy and life."
 author: White, Walter F.
 date: Mar. 1918
-categories: 
-  - ""
+categories: []
+subjects:
+  - Lynching
+  - Racial violence and terror
+  - Convict leasing and peonage (forced labor)
+  - NAACP investigations and anti-lynching advocacy
+people:
+  - Walter F. White
+  - Hampton Smith
+  - Sidney Johnson
+  - Woodrow Wilson
+places:
+  - Brooks County, Georgia
+  - Lowndes County, Georgia
+  - Georgia (state)
+organizations:
+  - National Association for the Advancement of Colored People (NAACP)
+  - The Crisis
 citation: 
   type: article-journal
   container-title: The Crisis

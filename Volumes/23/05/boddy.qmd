@@ -6,8 +6,23 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1921
-categories: 
-  - ""
+categories: []
+subjects:
+  - Police brutality
+  - Death penalty (capital punishment)
+  - Prison conditions (penal system)
+  - Educational inequality — secondary education
+  - Military training (United States Army)
+  - Lynching
+people:
+  - Boddy
+  - W. E. B. Du Bois
+places:
+  - Harlem (New York, New York)
+  - United States
+organizations:
+  - United States Army
+  - New York City Police Department
 citation: 
   type: article-journal
   container-title: The Crisis

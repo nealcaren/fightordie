@@ -6,8 +6,19 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1917
-categories: 
-  - ""
+categories: []
+subjects:
+  - African American economic cooperation
+  - Cooperative distribution and retail cooperatives
+  - African American–owned businesses
+  - Employment and job creation for African Americans
+  - Urban African American communities
+places:
+  - New York, New York
+  - United States
+organizations:
+  - Young Men's Christian Association (YMCA)
+  - Young Women's Christian Association (YWCA)
 citation: 
   type: article-journal
   container-title: The Crisis

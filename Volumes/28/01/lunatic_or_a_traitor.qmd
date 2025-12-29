@@ -6,8 +6,24 @@ author:
       given: W.E.B.
       family: Du Bois
 date: May 1924
-categories: 
-  - ""
+categories: []
+subjects:
+  - Garveyism
+  - Back-to-Africa movement (deportation/colonization proposals)
+  - Racial separatism
+  - Intra-racial leadership conflicts (Black leadership disputes)
+  - Political demagoguery and propaganda in Black politics
+people:
+  - Marcus Garvey
+  - W. E. B. Du Bois
+places:
+  - United States
+  - Liberia
+  - Africa
+organizations:
+  - Universal Negro Improvement Association (UNIA)
+  - National Association for the Advancement of Colored People (NAACP)
+  - The Crisis
 citation: 
   type: article-journal
   container-title: The Crisis

@@ -6,8 +6,22 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Apr. 1919
-categories: 
-  - ""
+categories: []
+subjects:
+  - Lynching and racial terror
+  - Disfranchisement and voting rights suppression
+  - Educational inequality for African Americans
+  - Jim Crow laws and racially segregated travel
+  - Black land ownership and agrarian property rights
+people:
+  - Mr. Shillady
+  - Norris Wright Cuney
+places:
+  - Texas
+  - Mexico
+organizations:
+  - National Association for the Advancement of Colored People (NAACP)
+  - The Crisis (magazine)
 citation: 
   type: article-journal
   container-title: The Crisis

@@ -6,8 +6,24 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1918
-categories: 
-  - ""
+categories: []
+subjects:
+  - Lynching
+  - Public transportation discrimination
+  - Racial discrimination in relief and aid
+  - African American participation in World War I
+  - Federal and state government responsibility for civil rights
+people:
+  - W.E.B. Du Bois
+places:
+  - Washington, D.C.
+  - United States
+organizations:
+  - The Crisis
+  - Black press (United States)
+  - United States federal government
+events:
+  - World War I (1914-1918)
 citation: 
   type: article-journal
   container-title: The Crisis

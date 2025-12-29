@@ -6,8 +6,23 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1928
-categories: 
-  - ""
+categories: []
+subjects:
+  - Black nationalism and Pan-Africanism (Marcus Garvey movement)
+  - Black economic enterprises and the Black Star Line
+  - Intra‑racial conflict and organizational disputes within the African American community
+  - African American press and propaganda (Negro World accusations)
+people:
+  - Marcus Garvey
+  - W. E. B. Du Bois
+  - Moorfield Storey
+places:
+  - United States
+organizations:
+  - National Association for the Advancement of Colored People (NAACP)
+  - Universal Negro Improvement Association (UNIA)
+events:
+  - Deportation of Marcus Garvey (1927)
 citation: 
   type: article-journal
   container-title: The Crisis

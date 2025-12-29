@@ -6,8 +6,19 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jun. 1934
-categories: 
-  - ""
+categories: []
+subjects:
+  - Racial segregation (Jim Crow laws)
+  - Anti-segregation campaigns
+  - Negro education and racial uplift
+  - Interracial contact and race relations
+people:
+  - Du Bois, W. E. B. (William Edward Burghardt)
+places:
+  - Atlanta, Georgia
+organizations:
+  - Atlanta University
+  - The Crisis (magazine)
 citation: 
   type: article-journal
   container-title: The Crisis

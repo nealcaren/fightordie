@@ -6,8 +6,19 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1925
-categories: 
-  - ""
+categories: []
+subjects:
+  - Voting rights (African Americans)
+  - Disenfranchisement and electoral corruption
+  - Lynching / anti-lynching
+  - Segregated public education
+  - Jim Crow laws (racial segregation in public accommodations)
+places:
+  - United States
+  - Southern United States
+  - New York City (New York)
+organizations:
+  - The Crisis (NAACP magazine)
 citation: 
   type: article-journal
   container-title: The Crisis

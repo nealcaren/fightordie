@@ -6,8 +6,19 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1918
-categories: 
-  - ""
+categories: []
+subjects:
+  - Racial discrimination in religious institutions
+  - Methodist reunification (Methodist Episcopal Church and Methodist Episcopal Church, South)
+  - Expulsion of Black church members
+  - Religious hypocrisy and moral critique of Christian leadership
+places:
+  - United States
+  - Southern United States
+organizations:
+  - Methodist Episcopal Church
+  - Methodist Episcopal Church, South
+  - Zion's Herald
 citation: 
   type: article-journal
   container-title: The Crisis

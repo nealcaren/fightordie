@@ -6,8 +6,26 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Apr. 1919
-categories: 
-  - ""
+categories: []
+subjects:
+  - African American children's literature
+  - Children's magazines (African American)
+  - Racial socialization of children
+  - Racial pride and identity (African Americans)
+  - Impact of racial violence on children
+people:
+  - W.E.B. Du Bois
+  - Augustus Granville Dill
+places:
+  - Gainesville, Florida
+  - Houston, Texas
+organizations:
+  - The Crisis (magazine)
+  - The Brownies' Book (children's magazine)
+events:
+  - Leo Frank lynching (1915)
+  - Gainesville, Florida lynching (1916)
+  - Houston riot and subsequent courts-martial (1917–1918)
 citation: 
   type: article-journal
   container-title: The Crisis

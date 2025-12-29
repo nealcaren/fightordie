@@ -6,8 +6,22 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1927
-categories: 
-  - ""
+categories: []
+subjects:
+  - Scientific racism
+  - Race and intelligence testing
+  - Educational inequality and funding disparities
+  - Sampling bias in social-science research
+  - Immigrant education and assimilation
+people:
+  - N. M. Hirsh
+  - Frederick L. Hoffman
+places:
+  - Massachusetts (United States)
+  - Tennessee (United States)
+organizations:
+  - National Research Council
+  - Massachusetts public schools
 citation: 
   type: article-journal
   container-title: The Crisis

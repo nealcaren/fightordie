@@ -6,8 +6,26 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jun. 1917
-categories: 
-  - ""
+categories: []
+subjects:
+  - Great Migration (African American labor migration)
+  - Lynching and mob violence
+  - Disfranchisement (voting rights restrictions)
+  - Agricultural crisis — boll weevil and flooding
+  - Northern industrial labor demand (immigration cutoff)
+people:
+  - W. E. B. Du Bois
+  - Representative, U.S. Department of Labor (unnamed)
+places:
+  - Southern United States
+  - Alabama
+  - Georgia
+  - Mississippi
+  - Chicago, Illinois
+organizations:
+  - National Association for the Advancement of Colored People (NAACP)
+  - The Crisis (journal)
+  - U.S. Department of Labor
 citation: 
   type: article-journal
   container-title: The Crisis

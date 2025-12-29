@@ -6,8 +6,25 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1919
-categories: 
-  - ""
+categories: []
+subjects:
+  - European colonialism in Africa
+  - Colonial economic exploitation (ivory, diamonds, copper, rubber)
+  - Exploitation and protection of native labor
+  - African self-rule and self-determination (Pan-Africanism)
+  - Cultural preservation of indigenous African customs and arts
+places:
+  - Africa
+  - Europe
+  - Germany
+  - Belgium
+organizations:
+  - German colonial administration
+  - Belgian colonial administration
+  - British colonial administration
+  - French colonial administration
+events:
+  - World War I (1914–1918)
 citation: 
   type: article-journal
   container-title: The Crisis

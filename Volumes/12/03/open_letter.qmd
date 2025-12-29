@@ -6,8 +6,24 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1916
-categories: 
-  - ""
+categories: []
+subjects:
+  - Voting rights
+  - Equal educational opportunity
+  - Jim Crow laws (racial segregation)
+  - Equality before the law
+  - Accommodationist strategies (vocational training and conciliation with the white South)
+people:
+  - Robert Russa Moton
+  - W. E. B. Du Bois
+  - Booker T. Washington
+places:
+  - Tuskegee, Alabama
+  - St. Louis, Missouri
+  - Rochester, New York
+organizations:
+  - Tuskegee Institute
+  - The Crisis (magazine)
 citation: 
   type: article-journal
   container-title: The Crisis

@@ -6,8 +6,24 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1921
-categories: 
-  - ""
+categories: []
+subjects:
+  - Educational inequality — racial disparities in public school funding
+  - Federal aid to education — Smith-Towner Education Bill provisions and conditional funding
+  - Lynching
+  - Peonage (debt servitude) and labor exploitation
+  - State control of education / constitutional exemptions permitting discrimination
+people:
+  - W.E.B. Du Bois
+places:
+  - Southern United States
+  - United States
+organizations:
+  - U.S. Congress
+  - Phelps-Stokes Fund
+  - The Crisis (magazine)
+events:
+  - Smith-Towner Education Bill (1921)
 citation: 
   type: article-journal
   container-title: The Crisis

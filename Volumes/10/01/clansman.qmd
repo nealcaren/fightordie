@@ -6,8 +6,26 @@ author:
       given: W.E.B.
       family: Du Bois
 date: May 1913
-categories: 
-  - ""
+categories: []
+subjects:
+  - Reconstruction revisionism and historical falsification
+  - Racist propaganda in literature and motion pictures
+  - Film censorship (motion picture censorship)
+  - Incitement to racial violence / public disorder
+  - NAACP civil rights advocacy and legal action
+  - Voting rights (context of Reconstruction)
+people:
+  - W.E.B. Du Bois
+  - Thomas Dixon Jr.
+  - Frederick C. Howe
+  - Thaddeus Stevens
+places:
+  - Los Angeles, California
+  - New York, New York
+organizations:
+  - National Association for the Advancement of Colored People (NAACP)
+  - National Board of Censors
+  - The Crisis (magazine)
 citation: 
   type: article-journal
   container-title: The Crisis

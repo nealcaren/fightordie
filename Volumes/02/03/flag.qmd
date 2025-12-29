@@ -6,8 +6,24 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jan. 1911
-categories: 
-  - ""
+categories: []
+subjects:
+  - Lynching
+  - Anti-lynching legislation
+  - States' rights (doctrine and legal defense of local jurisdiction)
+  - Federal protection of civil rights (federal enforcement against racial terror)
+  - Citizenship and nationality (treatment of British subjects vs American citizens)
+people:
+  - W. E. B. Du Bois
+  - William H. Taft
+places:
+  - United States
+  - United Kingdom
+  - Kentucky
+  - Florida
+  - Georgia
+organizations:
+  - National Association for the Advancement of Colored People (NAACP)
 citation: 
   type: article-journal
   container-title: The Crisis

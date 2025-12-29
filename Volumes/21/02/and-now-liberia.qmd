@@ -6,8 +6,26 @@ author:
       given: W.E.B.
       family: Du Bois
 date: December 1920
-categories: 
-  - ""
+categories: []
+subjects:
+  - Financial imperialism
+  - U.S. intervention in Liberian affairs
+  - Sovereignty of Liberia
+  - Debt diplomacy and rigid loan terms
+  - White administrative control of African governments
+people:
+  - W. E. B. Du Bois
+  - Worley
+  - Bundy
+  - Charles D. B. King
+  - Woodrow Wilson
+places:
+  - Liberia
+  - United States
+organizations:
+  - United States government
+  - Government of Liberia
+  - United States Legation in Liberia
 citation: 
   type: article-journal
   container-title: The Crisis

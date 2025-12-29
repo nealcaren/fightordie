@@ -6,9 +6,20 @@ author:
       given: W.E.B.
       family: Du Bois
 date: May 1913
-categories: 
-  - "Woman Suffrage"
-  - "Racial Prejudice"
+categories:
+  - Woman Suffrage
+  - Racial Prejudicesubjects:
+  - Women's suffrage
+  - Voting rights — African American women
+  - Color line (racial exclusion in political movements)
+  - Racial equality and civil rights (race‑blind democracy)
+people:
+  - W.E.B. Du Bois
+places:
+  - Washington, D.C.
+  - St. Louis, Missouri
+organizations:
+  - The Crisis (magazine)
 citation: 
   type: article-journal
   container-title: The Crisis

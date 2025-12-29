@@ -6,8 +6,27 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jun. 1911
-categories: 
-  - ""
+categories: []
+subjects:
+  - Disfranchisement (voter suppression)
+  - African American electoral participation and political leverage
+  - Lynching
+  - Political party positions on race (Socialist and Democratic parties)
+people:
+  - W. E. B. Du Bois
+  - William H. Taft
+  - Cuvillier
+places:
+  - Maryland
+  - Harlem (New York, NY)
+  - Mississippi
+  - Massachusetts
+organizations:
+  - Democratic Party
+  - Socialist Party
+events:
+  - Maryland Digges amendment vote (1911)
+  - United States Presidential Election (1912)
 citation: 
   type: article-journal
   container-title: The Crisis

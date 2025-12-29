@@ -6,8 +6,19 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Apr. 1932
-categories: 
-  - ""
+categories: []
+subjects:
+  - Public disclosure of private income
+  - Property ownership disclosure (real estate, stocks, bonds)
+  - Tax policy; elimination of tax exemptions and publicity of taxes paid
+  - Labor registration and workforce data systems
+  - Democratic accountability through fiscal transparency
+people:
+  - W. E. B. Du Bois
+places:
+  - United States
+organizations:
+  - The Crisis (magazine)
 citation: 
   type: article-journal
   container-title: The Crisis

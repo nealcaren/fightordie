@@ -3,8 +3,20 @@ title: 'An Open Letter'
 description: "W.E.B. Du Bois in The Crisis (1915) charges Southern race policy with lynching, disenfranchisement, schooling and labor exclusion and demands organized justice."
 author: Storey, Moorfield
 date: Jun. 1915
-categories: 
-  - ""
+categories: []
+subjects:
+  - Lynching
+  - Voting rights; disenfranchisement
+  - Educational inequality
+  - Labor exclusion and economic discrimination
+  - Jim Crow laws; racial segregation
+  - Civil rights advocacy / organized justice
+places:
+  - Southern United States
+  - Florida
+  - United States
+events:
+  - American Civil War (1861-1865)
 citation: 
   type: article-journal
   container-title: The Crisis

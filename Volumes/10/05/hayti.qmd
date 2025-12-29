@@ -6,8 +6,23 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1915
-categories: 
-  - ""
+categories: []
+subjects:
+  - Haitian sovereignty and independence
+  - U.S. imperialism / interventionism in the Caribbean
+  - Political corruption and graft in Haiti
+  - Haitian peasantry and land tenure
+  - Pan-Africanism / Black international solidarity
+  - Proposed U.S. diplomatic/administrative commissions for Haiti
+people:
+  - W. E. B. Du Bois
+  - Toussaint L'Ouverture
+places:
+  - Haiti
+  - United States
+organizations:
+  - United States federal government
+  - Haitian Commission (proposed U.S. commission to Haiti)
 citation: 
   type: article-journal
   container-title: The Crisis

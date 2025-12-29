@@ -6,8 +6,26 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1915
-categories: 
-  - ""
+categories: []
+subjects:
+  - Lynching (United States)
+  - Racial violence against African Americans
+  - Extrajudicial killings and mob violence
+  - Civil rights — United States
+  - Anti-lynching advocacy and public accountability
+people:
+  - W.E.B. Du Bois
+  - Dickerson (Okla.) [lynching victim listed]
+  - Romeo (La.) [lynching victim listed]
+places:
+  - Mississippi
+  - Louisiana
+  - Kentucky
+  - United States
+organizations:
+  - The Crisis (magazine)
+  - Tuskegee Institute
+  - Chicago Tribune
 citation: 
   type: article-journal
   container-title: The Crisis

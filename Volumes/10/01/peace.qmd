@@ -6,8 +6,26 @@ author:
       given: W.E.B.
       family: Du Bois
 date: May 1915
-categories: 
-  - ""
+categories: []
+subjects:
+  - Race prejudice as a root cause of international war
+  - Colonial rule and imperialism
+  - White supremacy in international relations
+  - Peace movements — critique for ignoring race
+  - Racial discrimination in diplomatic and arbitration practices
+people:
+  - W.E.B. Du Bois
+places:
+  - Europe
+  - Netherlands
+  - Munich, Germany
+  - Japan
+organizations:
+  - Holland Peace Movement
+  - American Truth Society (Munich)
+  - The Crisis
+events:
+  - World War I (1914–1918)
 citation: 
   type: article-journal
   container-title: The Crisis

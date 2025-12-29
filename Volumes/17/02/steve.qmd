@@ -6,8 +6,19 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jun. 1919
-categories: 
-  - ""
+categories: []
+subjects:
+  - Political allegory
+  - Russian Revolution (as symbolic theme)
+  - Emigration and return (Russian émigrés)
+  - Loyalty and sacrifice
+  - Mourning and grief
+  - Animal symbolism / animals in literature
+places:
+  - Russia
+  - Russian steppes
+events:
+  - Russian Revolution (1917)
 citation: 
   type: article-journal
   container-title: The Crisis

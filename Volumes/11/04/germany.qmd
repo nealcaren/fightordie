@@ -6,8 +6,26 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1916
-categories: 
-  - ""
+categories: []
+subjects:
+  - German colonialism
+  - Herero and Namaqua genocide
+  - Racism in colonial policy
+  - African soldiers in World War I
+  - Franco‑African military relations
+people:
+  - W. E. B. Du Bois
+  - Lothar von Trotha
+  - Lewis R. Freeman
+places:
+  - German South West Africa (present‑day Namibia)
+  - Germany
+  - France
+organizations:
+  - The Crisis (NAACP)
+  - The Nation (magazine)
+events:
+  - Herero and Namaqua genocide (1904–1908)
 citation: 
   type: article-journal
   container-title: The Crisis

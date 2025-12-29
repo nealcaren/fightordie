@@ -6,8 +6,21 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Apr. 1933
-categories: 
-  - ""
+categories: []
+subjects:
+  - Right to work (employment access for Black Americans)
+  - Cooperative economics — Black consumer‑producer cooperatives
+  - Industrialization — mechanization and labor displacement
+  - Race and labor relations (United States)
+  - Socialism and communism — race and labor policy (United States)
+people:
+  - W. E. B. Du Bois
+places:
+  - United States
+organizations:
+  - Socialist Party of America
+  - Communist Party USA
+  - Brook Farm (utopian communal experiment)
 citation: 
   type: article-journal
   container-title: The Crisis

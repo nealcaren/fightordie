@@ -6,8 +6,20 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jan. 1924
-categories: 
-  - ""
+categories: []
+subjects:
+  - Colonialism (Africa)
+  - African self-determination and nationalism
+  - Land rights and territorial sovereignty (Africa)
+  - Racial paternalism toward Africa
+  - Anti-imperialism / anti-colonial resistance
+people:
+  - W. E. B. Du Bois
+places:
+  - Africa
+  - Liberia
+organizations:
+  - The Crisis (magazine)
 citation: 
   type: article-journal
   container-title: The Crisis

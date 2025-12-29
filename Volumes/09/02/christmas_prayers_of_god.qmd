@@ -6,8 +6,20 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jun. 1914
-categories: 
-  - ""
+categories: []
+subjects:
+  - War and militarism
+  - Colonialism and imperial exploitation
+  - Lynching and racial violence
+  - Extraction of rubber, diamonds, cocoa and gold (colonial resource exploitation)
+  - Religion, prayer and theodicy
+people:
+  - God
+  - Jesus Christ
+  - Allah
+  - Elohim
+places:
+  - Africa
 citation: 
   type: article-journal
   container-title: The Crisis

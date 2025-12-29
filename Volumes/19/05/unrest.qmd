@@ -6,8 +6,18 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1920
-categories: 
-  - ""
+categories: []
+subjects:
+  - Racial violence
+  - Race relations in the United States
+  - Social unrest
+  - Political protest (United States)
+  - Religious imagery in African American literature
+  - African American poetry
+people:
+  - W. E. B. Du Bois
+organizations:
+  - The Crisis (NAACP magazine)
 citation: 
   type: article-journal
   container-title: The Crisis

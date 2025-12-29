@@ -6,8 +6,20 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jan. 1918
-categories: 
-  - ""
+categories: []
+subjects:
+  - Primary education — Curriculum (reading, writing, arithmetic)
+  - Vocational education — Opposition in primary/elementary schools
+  - Public education policy — Federal/national aid for common schools
+  - Compulsory schooling — Education through age 14
+  - African American education — access and advocacy
+people:
+  - W.E.B. Du Bois
+places:
+  - United States
+organizations:
+  - The Crisis (magazine)
+  - Common schools (United States)
 citation: 
   type: article-journal
   container-title: The Crisis

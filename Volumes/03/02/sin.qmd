@@ -6,8 +6,19 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jun. 1911
-categories: 
-  - ""
+categories: []
+subjects:
+  - Lynching
+  - Disfranchisement (African Americans)
+  - Political deception and moral responsibility
+  - Accommodationist politics (African American leaders)
+  - Democracy and public trust
+people:
+  - Du Bois, W. E. B.
+  - Benjamin R. Tillman
+places:
+  - United States
+  - Southern United States
 citation: 
   type: article-journal
   container-title: The Crisis

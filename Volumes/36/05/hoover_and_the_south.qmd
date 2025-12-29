@@ -6,8 +6,25 @@ author:
       given: W.E.B.
       family: Du Bois
 date: May 1929
-categories: 
-  - ""
+categories: []
+subjects:
+  - Lily-white movement in the Southern Republican Party (Southern Republican reorganization)
+  - Black suffrage and voting rights
+  - White supremacy and racial exclusion in Southern politics
+  - Solid South Democratic resistance to Black political power
+  - Federal patronage and party-building in the South
+people:
+  - Herbert Hoover
+  - Perry Howard
+  - Ben Davis
+  - Robert R. Church
+places:
+  - Mississippi
+  - Georgia
+  - Tennessee
+organizations:
+  - Republican Party (United States)
+  - Democratic Party (United States)
 citation: 
   type: article-journal
   container-title: The Crisis

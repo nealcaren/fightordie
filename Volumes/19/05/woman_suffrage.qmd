@@ -6,8 +6,18 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1920
-categories: 
-  - ""
+categories: []
+subjects:
+  - Women's suffrage
+  - Voter registration
+  - Civic and political education
+  - African American women's political participation
+  - Women's study clubs
+  - Political corruption and bribery
+places:
+  - United States
+organizations:
+  - The Crisis
 citation: 
   type: article-journal
   container-title: The Crisis

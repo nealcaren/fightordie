@@ -6,8 +6,20 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jan. 1913
-categories: 
-  - ""
+categories: []
+subjects:
+  - Disfranchisement of African Americans (voting rights)
+  - Educational inequality for Black children (limited vocational/servant training)
+  - Land ownership and economic exploitation (land monopoly, peonage, labor legislation)
+  - Racial segregation and social barriers (Jim Crow; residential/social segregation)
+  - Lynching, mob violence, and racial terrorism
+people:
+  - Abraham Lincoln
+places:
+  - United States
+  - Southern United States
+events:
+  - Emancipation Proclamation (1863)
 citation: 
   type: article-journal
   container-title: The Crisis

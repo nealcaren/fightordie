@@ -6,8 +6,22 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Sep. 1932
-categories: 
-  - ""
+categories: []
+subjects:
+  - Educational inequality
+  - School segregation (racially segregated public schools)
+  - Higher education curriculum reform (college curricula for Negro students)
+  - Employment discrimination against African American graduates
+  - Vocational and professional training for African Americans
+people:
+  - W. E. B. Du Bois
+places:
+  - Northern United States
+  - Southern United States
+organizations:
+  - Historically Black colleges and universities (HBCUs)
+  - Predominantly white colleges and universities
+  - Public school systems (United States)
 citation: 
   type: article-journal
   container-title: The Crisis

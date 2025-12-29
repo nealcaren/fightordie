@@ -6,8 +6,23 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Apr. 1914
-categories: 
-  - ""
+categories: []
+subjects:
+  - African American civil rights organizing
+  - National Association for the Advancement of Colored People — membership campaigns
+  - Racial solidarity and collective action
+  - Disfranchisement and voting rights
+  - Jim Crow laws and segregation
+people:
+  - W. E. B. Du Bois
+  - Clarence Poe
+  - Harry C. Smith
+places:
+  - North Carolina
+  - Cleveland, Ohio
+organizations:
+  - National Association for the Advancement of Colored People (NAACP)
+  - The Crisis (magazine)
 citation: 
   type: article-journal
   container-title: The Crisis

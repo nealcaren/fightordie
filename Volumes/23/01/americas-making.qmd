@@ -6,8 +6,24 @@ author:
       given: W.E.B.
       family: Du Bois
 date: November 1921
-categories: 
-  - ""
+categories: []
+subjects:
+  - Civic pageants and public exhibitions
+  - African American contributions to American culture and labor
+  - Immigrant contributions to American society and labor
+  - Negro music festivals and large-scale choral performances
+people:
+  - W.E.B. Du Bois
+  - James Weldon Johnson
+  - Eugene Kinckle Jones
+places:
+  - New York (New York)
+  - United States
+organizations:
+  - New York State Board of Education
+  - City of New York
+events:
+  - America's Making pageant and exhibit (1921)
 citation: 
   type: article-journal
   container-title: The Crisis

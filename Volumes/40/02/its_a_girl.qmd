@@ -6,8 +6,21 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1933
-categories: 
-  - ""
+categories: []
+subjects:
+  - Sexism and gender roles
+  - Women's suffrage
+  - Educational inequality (girls and boys)
+  - Labor and wage inequality (women)
+  - Domestic labor and child-rearing and socialization
+people:
+  - W. E. B. Du Bois
+places:
+  - Egypt
+  - India
+  - West Africa
+organizations:
+  - The Crisis
 citation: 
   type: article-journal
   container-title: The Crisis

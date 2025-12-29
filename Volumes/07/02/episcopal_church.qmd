@@ -6,8 +6,24 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jun. 1913
-categories: 
-  - ""
+categories: []
+subjects:
+  - Religious institutions and racism (Episcopal Church)
+  - Church complicity in slavery
+  - Voting rights — Fifteenth Amendment and Reconstruction ballot
+  - Educational inequality — Negro education after the Civil War
+  - Racial hypocrisy and segregation in American churches
+people:
+  - W. E. B. Du Bois
+  - William T. Harris (U.S. Commissioner of Education)
+  - Thomas F. Gailor (Bishop of Tennessee)
+places:
+  - New York City, New York (Cathedral of St. John the Divine)
+  - Atlanta, Georgia (Atlanta University conference)
+  - Southern United States
+organizations:
+  - The Episcopal Church (United States)
+  - Atlanta University
 citation: 
   type: article-journal
   container-title: The Crisis

@@ -6,8 +6,24 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1934
-categories: 
-  - ""
+categories: []
+subjects:
+  - Residential segregation (forced ghettoization)
+  - Jim Crow laws — public transportation segregation
+  - Employment discrimination in railroads ("Full Crew" bills)
+  - NAACP civil-rights litigation and organizational strategy
+people:
+  - W. E. B. Du Bois
+  - William M. Trotter
+places:
+  - Kansas City, Missouri
+  - New York, New York
+  - United States
+organizations:
+  - National Association for the Advancement of Colored People (NAACP)
+  - The Crisis (magazine)
+events:
+  - Preliminary National Negro Convention (New York, May 31–June 1, 1909)
 citation: 
   type: article-journal
   container-title: The Crisis

@@ -6,8 +6,22 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1928
-categories: 
-  - ""
+categories: []
+subjects:
+  - Race relations — United States
+  - Abolition of the color line
+  - Intermarriage / Anti-miscegenation laws — United States
+  - Public accommodations — racial exclusion (restaurants) — United States
+  - Social equality and equal social rights for African Americans
+people:
+  - W. E. B. Du Bois
+  - Lothrop Stoddard
+places:
+  - United States
+  - Mississippi
+organizations:
+  - The Crisis (magazine)
+  - Ku Klux Klan
 citation: 
   type: article-journal
   container-title: The Crisis

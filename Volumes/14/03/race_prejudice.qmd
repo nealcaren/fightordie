@@ -6,8 +6,25 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jan. 1917
-categories: 
-  - ""
+categories: []
+subjects:
+  - Racial exclusion in cultural institutions
+  - Racial slurs and stereotyping
+  - Military discrimination against Black soldiers
+  - Government racial classification (draft/census categories)
+  - Racial bias in the press and media
+people:
+  - W. E. B. Du Bois
+  - Theodore Roosevelt
+  - George Creel
+  - Mrs. H. M. Godfrey
+places:
+  - New York, New York
+  - Oyster Bay, New York
+organizations:
+  - New York Community Chorus
+  - Official Bulletin (U.S. Committee on Public Information)
+  - The Crisis (magazine)
 citation: 
   type: article-journal
   container-title: The Crisis

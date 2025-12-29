@@ -6,8 +6,19 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1912
-categories: 
-  - ""
+categories: []
+subjects:
+  - Housing discrimination against African Americans
+  - Residential segregation
+  - Racially restrictive covenants (property agreements)
+  - Urban slums and tenement housing
+  - Real estate industry practices (racial exclusion)
+places:
+  - New York City
+  - Fifth Avenue (New York City)
+organizations:
+  - The New York Times
+  - Real estate industry (United States)
 citation: 
   type: article-journal
   container-title: The Crisis

@@ -6,8 +6,27 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1933
-categories: 
-  - ""
+categories: []
+subjects:
+  - Marxism
+  - Slavery and free labor
+  - International labor movement
+  - Abolitionism
+  - Race and labor relations
+people:
+  - Karl Marx
+  - Frederick Douglass
+  - Abraham Lincoln
+places:
+  - United States
+  - District of Columbia (Washington, D.C.)
+  - London, England
+  - Manchester, England
+organizations:
+  - Workingmen's League
+  - German Labor Convention (Philadelphia, 1850)
+events:
+  - American Civil War (1861–1865)
 citation: 
   type: article-journal
   container-title: The Crisis

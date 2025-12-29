@@ -6,8 +6,25 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1915
-categories: 
-  - ""
+categories: []
+subjects:
+  - Military discrimination against African Americans
+  - African American military leadership
+  - United States military and civil service in Liberia
+  - United States military and civil service in Haiti
+  - Awards honoring African American achievement (Spingarn Medal)
+people:
+  - Charles Young
+  - Leonard Wood
+places:
+  - West Point, New York (United States Military Academy)
+  - Liberia
+  - Haiti
+  - Arizona (United States)
+organizations:
+  - United States Army
+  - United States War Department
+  - Liberian Government
 citation: 
   type: article-journal
   container-title: The Crisis

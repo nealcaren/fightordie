@@ -6,8 +6,18 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1917
-categories: 
-  - ""
+categories: []
+subjects:
+  - African American participation in World War I
+  - Military service and patriotism (African Americans)
+  - Industrial and labor opportunities for African Americans
+  - Wartime economic opportunities for African Americans
+  - Civic participation and citizenship duties (African Americans)
+  - Racial equality and colorless democracy
+places:
+  - United States
+events:
+  - World War I (1914–1918; U.S. entry 1917)
 citation: 
   type: article-journal
   container-title: The Crisis

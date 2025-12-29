@@ -1,11 +1,19 @@
 ---
-title: "Articles"
+title: "All Articles"
 description: "Browse the complete collection of W.E.B. Du Bois's articles and editorials from The Crisis magazine (1910-1934). Search and filter over 600 digitized pieces covering civil rights, race relations, politics, and social justice."
-listing: 
+listing:
   contents: Volumes
   type: table
-  sort: "date"
+  sort: "date desc"
+  sort-ui: [date, title, word-count]
   date-format: "YYYY (MMM)"
-  page-size: 20
+  page-size: 25
   fields: [date, title, description, word-count]
+  filter-ui: true
 ---
+
+## Complete Chronological Archive
+
+All 600+ articles by W.E.B. Du Bois from *The Crisis* (1910-1934). Use the search box to find specific topics, people, or events. Click column headers to sort.
+
+**Tip:** For browsing by era or theme, see the [Browse](browse.qmd) page.

@@ -6,8 +6,23 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1914
-categories: 
-  - ""
+categories: []
+subjects:
+  - African American press
+  - Journalistic accuracy and standards
+  - Organizational funding and financial independence
+  - Principled civil-rights advocacy
+  - Editorial quality and English language usage
+people:
+  - W. E. B. Du Bois
+  - Editor, The Washington Bee (unnamed)
+places:
+  - Washington, D.C.
+organizations:
+  - National Association for the Advancement of Colored People (NAACP)
+  - The Crisis (magazine)
+  - The Washington Bee
+  - Afro-American Ledger
 citation: 
   type: article-journal
   container-title: The Crisis

@@ -6,8 +6,21 @@ author:
       given: W.E.B.
       family: Du Bois
 date: December 1924
-categories: 
-  - ""
+categories: []
+subjects:
+  - U.S. immigration restriction policy (1924)
+  - Racial discrimination in immigration policy
+  - West Indian migration to the United States
+  - Colonial status and legal discrimination (self-governing vs. crown colonies)
+  - Race and national composition / democracy and citizenship
+places:
+  - West Indies
+  - United States
+  - British Empire
+organizations:
+  - United States Congress
+events:
+  - Immigration Act of 1924 (Johnson-Reed Act) (1924)
 citation: 
   type: article-journal
   container-title: The Crisis

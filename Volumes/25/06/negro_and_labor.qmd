@@ -6,8 +6,23 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Apr. 1922
-categories: 
-  - ""
+categories: []
+subjects:
+  - Racial exclusion in skilled trades
+  - Labor market discrimination and wage undercutting of Black workers
+  - Trade union exclusion and "scab" labor dynamics
+  - Slavery and its legacy in modern labor systems
+  - Colonialism and imperialism's impact on global labor and commodity production
+people:
+  - W. E. B. Du Bois
+places:
+  - United States
+  - Europe
+  - Africa
+organizations:
+  - Labor movement (trade unions)
+events:
+  - Atlantic slave trade (15th–19th centuries)
 citation: 
   type: article-journal
   container-title: The Crisis

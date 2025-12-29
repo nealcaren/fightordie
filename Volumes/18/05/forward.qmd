@@ -6,8 +6,24 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1919
-categories: 
-  - ""
+categories: []
+subjects:
+  - Public-utility ownership (railroads, telegraph, telephone, streetcars; municipal and national ownership)
+  - Labor movements; worker rule and worker-based suffrage
+  - Agrarian reform and state-run enterprises (Nonpartisan League initiatives)
+  - Anti-colonialism and national liberation movements (India)
+  - Irish independence and British colonial policy
+people:
+  - W. E. B. Du Bois
+  - Bolsheviks (Russian revolutionary movement)
+places:
+  - United States
+  - North Dakota (United States)
+  - Ireland
+  - India
+  - Russia
+organizations:
+  - Nonpartisan League (North Dakota)
 citation: 
   type: article-journal
   container-title: The Crisis

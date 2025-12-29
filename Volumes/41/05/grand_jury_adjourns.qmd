@@ -3,8 +3,25 @@ title: 'Grand Jury Adjourns: Laurens County Fails to Indict Dendy Lynchers'
 description: "W.E.B. Du Bois in The Crisis (1934) exposes how Laurens County's grand jury shields a white mob in the Norris Dendy lynching, revealing racial injustice and impunity."
 author: Boardman, Helen
 date: May 1934
-categories: 
-  - ""
+categories: []
+subjects:
+  - Lynching
+  - Anti-lynching legislation (civil damages)
+  - Police complicity in lynching
+  - Grand jury failure to indict
+people:
+  - Norris Dendy
+  - Robert Dendy
+  - Ibra C. Blackwood
+  - Walter White
+places:
+  - Laurens County, South Carolina
+  - Clinton, South Carolina
+  - Columbia, South Carolina
+organizations:
+  - National Association for the Advancement of Colored People (NAACP)
+events:
+  - Lynching of Norris Dendy (1933)
 citation: 
   type: article-journal
   container-title: The Crisis

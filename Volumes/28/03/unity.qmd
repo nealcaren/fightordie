@@ -6,8 +6,24 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jan. 1924
-categories: 
-  - ""
+categories: []
+subjects:
+  - Civil rights and equal citizenship
+  - Voting rights and political power
+  - White supremacy and racial hierarchy
+  - Intra-racial diversity and disagreement
+  - NAACP advocacy and strategy
+people:
+  - W. E. B. Du Bois
+places:
+  - Philadelphia, Pennsylvania
+  - Southern United States
+  - United States
+organizations:
+  - National Association for the Advancement of Colored People (NAACP)
+  - The Crisis (magazine)
+events:
+  - NAACP national meeting (Philadelphia, 1924)
 citation: 
   type: article-journal
   container-title: The Crisis

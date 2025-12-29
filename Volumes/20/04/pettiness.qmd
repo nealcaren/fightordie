@@ -6,8 +6,22 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1920
-categories: 
-  - ""
+categories: []
+subjects:
+  - Intra-racial social conflict among African Americans
+  - Social relations of Black college women
+  - Community solidarity and cohesion
+  - Social ostracism and exclusion within Black communities
+  - Harlem social life and etiquette
+people:
+  - W. E. B. Du Bois
+  - Kate (anecdotal participant)
+  - Jane (anecdotal participant)
+  - Mrs. Smith (anecdotal host)
+places:
+  - Harlem (New York, NY)
+organizations:
+  - The Crisis (magazine)
 citation: 
   type: article-journal
   container-title: The Crisis

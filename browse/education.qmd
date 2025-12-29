@@ -1,0 +1,47 @@
+---
+title: "Education & Schools"
+description: "W.E.B. Du Bois's writings on Black education, schools, and educational policy from The Crisis (1910-1934)"
+listing:
+  contents: ../../Volumes
+  type: table
+  sort: "date"
+  date-format: "YYYY (MMM)"
+  page-size: 50
+  fields: [date, title, description, categories]
+  filter-ui: true
+  include:
+    categories: "Education & Schools"
+---
+
+## Education as Liberation
+
+For W.E.B. Du Bois, education was central to Black liberation. Throughout his tenure at *The Crisis*, he championed liberal arts education against Booker T. Washington's industrial model, documented inequality in Southern schools, and celebrated Black colleges and universities.
+
+### Key Themes
+
+**The Talented Tenth**
+Du Bois's vision of cultivating Black intellectual leadership through higher education. Articles profiled exceptional students, celebrated college achievements, and defended classical education.
+
+**Public School Inequality**
+Detailed documentation of funding disparities, inferior facilities, and unequal access to education in segregated Southern school systems.
+
+**Historically Black Colleges**
+Celebration and defense of institutions like Howard, Fisk, and Atlanta University. Du Bois chronicled their achievements while advocating for their independence and adequate funding.
+
+**Industrial vs. Liberal Arts**
+Ongoing debate with Booker T. Washington's Tuskegee model. Du Bois argued for intellectual development alongside vocational training.
+
+**Teachers & Educational Leadership**
+Profiles of Black educators, discussions of teacher training, and the importance of Black control over Black education.
+
+### Major Topics
+
+- **Southern Public Schools** - Inequality, funding, segregation
+- **Black Colleges** - Hampton debate, institutional independence, curriculum
+- **Elementary Education** - Rural schools, literacy campaigns, teacher quality
+- **Adult Education** - Night schools, continuing education, literacy
+- **Educational Policy** - Federal aid, state funding, school boards
+
+---
+
+Use the search box below to find articles on specific institutions, educational leaders, or policy debates.

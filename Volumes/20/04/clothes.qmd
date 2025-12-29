@@ -6,8 +6,19 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1920
-categories: 
-  - ""
+categories: []
+subjects:
+  - Public health and sanitation
+  - Racial prejudice and hypocrisy
+  - Laundry work — African Americans
+  - Domestic service and occupational health
+  - Race relations — Southern United States
+people:
+  - W. E. B. Du Bois
+places:
+  - Southern United States
+organizations:
+  - The Crisis (magazine)
 citation: 
   type: article-journal
   container-title: The Crisis

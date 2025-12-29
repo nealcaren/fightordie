@@ -6,8 +6,24 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jun. 1912
-categories: 
-  - ""
+categories: []
+subjects:
+  - Fraternal benefit societies (African American)
+  - Voter education and civic training (African Americans)
+  - Internal democracy and organizational elections
+  - Mutual aid and social insurance (sick and death benefits)
+  - Black leadership selection and accountability
+people:
+  - W. E. B. Du Bois
+  - Peter Ogden
+places:
+  - Atlanta, Georgia
+  - Black Belt (Southern United States)
+  - England
+organizations:
+  - Grand United Order of Odd Fellows
+  - International Order of Odd Fellows
+  - Benevolent and Protective Order of Elks
 citation: 
   type: article-journal
   container-title: The Crisis

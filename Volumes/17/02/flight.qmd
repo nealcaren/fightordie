@@ -6,8 +6,20 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jun. 1919
-categories: 
-  - ""
+categories: []
+subjects:
+  - [Jim Crow laws and racial oppression]
+  - [Great Migration (African American migration to the Northern United States)]
+  - [Economic exploitation and poverty (African Americans)]
+  - [Racialized forced displacement and refugee experience]
+  - [Black reinterpretation of Biblical narratives]
+people:
+  - [Joseph (Biblical figure)]
+  - [Mary (Biblical figure)]
+  - [Jesus Christ]
+places:
+  - [Egypt]
+  - [Northern United States]
 citation: 
   type: article-journal
   container-title: The Crisis

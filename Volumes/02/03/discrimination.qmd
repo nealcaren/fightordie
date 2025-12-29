@@ -6,8 +6,21 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jan. 1911
-categories: 
-  - ""
+categories: []
+subjects:
+  - Jim Crow laws
+  - Racial segregation
+  - Educational segregation
+  - Religious segregation (church segregation)
+  - Race-based caste and dehumanization
+people:
+  - W. E. B. Du Bois
+  - James K. Vardaman
+places:
+  - United States
+  - Mississippi
+organizations:
+  - The Crisis
 citation: 
   type: article-journal
   container-title: The Crisis

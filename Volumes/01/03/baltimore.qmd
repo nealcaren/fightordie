@@ -6,9 +6,22 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jan. 1911
-categories: 
+categories:
   - Segregation
-  - Religion
+  - Religionsubjects:
+  - Residential segregation
+  - White flight
+  - Race and religion
+  - Church relocation
+  - Religious institutions — racial exclusion
+people:
+  - W. E. B. Du Bois
+  - Jesus Christ
+places:
+  - Baltimore (Md.)
+organizations:
+  - Christian churches (Baltimore)
+  - Church congregations — white (Baltimore)
 citation: 
   type: article-journal
   container-title: The Crisis

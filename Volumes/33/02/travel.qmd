@@ -6,8 +6,26 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jun. 1926
-categories: 
-  - ""
+categories: []
+subjects:
+  - Race relations — international
+  - Race and democracy — international perspective
+  - Soviet Russia — social and political developments
+  - Travel writing — Europe and Russia
+  - Pan-Africanism — Pan-African Congresses
+people:
+  - W. E. B. Du Bois
+  - John E. Millholland
+places:
+  - Russia
+  - Saint Petersburg (Leningrad)
+  - Moscow
+  - Germany
+organizations:
+  - National Association for the Advancement of Colored People (NAACP)
+  - Walker Manufacturing Company
+  - Circle for Negro War Relief
+  - National Association of Colored Women (NACW)
 citation: 
   type: article-journal
   container-title: The Crisis

@@ -6,8 +6,24 @@ author:
       given: W.E.B.
       family: Du Bois
 date: May 1919
-categories: 
-  - ""
+categories: []
+subjects:
+  - Off-year and local elections
+  - African American political participation and voter education
+  - Racial discrimination in military officer appointments
+  - Electoral accountability of public officials to Black citizens' rights
+people:
+  - William Edward Burghardt Du Bois
+  - Charles Pope Caldwell
+  - Charles Seymour Whitman
+  - Alfred Emanuel Smith
+places:
+  - Second Congressional District (New York)
+  - Flushing, New York
+  - Jamaica, New York
+organizations:
+  - United States Congress
+  - United States Army
 citation: 
   type: article-journal
   container-title: The Crisis

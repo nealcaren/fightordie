@@ -6,8 +6,23 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jul. 1928
-categories: 
-  - ""
+categories: []
+subjects:
+  - Office visitation etiquette
+  - Workplace interruptions and productivity
+  - Editorial deadlines and publication schedules
+  - Urban office labor and need for uninterrupted concentration
+  - Professional courtesy and scheduling
+people:
+  - W.E.B. Du Bois
+  - Miss Blink
+  - Miss Blank
+places:
+  - New York (New York)
+  - Fifth Avenue (New York City)
+  - Seattle (Washington)
+organizations:
+  - The Crisis (magazine)
 citation: 
   type: article-journal
   container-title: The Crisis

@@ -6,8 +6,23 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jan. 1927
-categories: 
-  - ""
+categories: []
+subjects:
+  - Interracial marriage
+  - Anti-miscegenation laws
+  - Illegitimacy and prostitution
+  - Legal protection of Black women and girls
+  - NAACP policy on interracial relations
+people:
+  - W. E. B. Du Bois
+  - Lawton (author in the Independent)
+places:
+  - United States
+  - England
+organizations:
+  - National Association for the Advancement of Colored People (NAACP)
+  - The Crisis (magazine)
+  - The Independent
 citation: 
   type: article-journal
   container-title: The Crisis

@@ -6,8 +6,21 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Apr. 1932
-categories: 
-  - ""
+categories: []
+subjects:
+  - Howard University — governance and finance
+  - Educational finance and budgeting
+  - Real estate influence on Black educational institutions (Washington, D.C.)
+  - Trusteeship accountability in Black higher education
+people:
+  - W. E. B. Du Bois
+  - Mordecai Johnson
+places:
+  - Washington, D.C.
+organizations:
+  - Howard University
+  - Washington Real Estate Trust
+  - General Education Board
 citation: 
   type: article-journal
   container-title: The Crisis

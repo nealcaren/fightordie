@@ -6,8 +6,26 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1911
-categories: 
-  - ""
+categories: []
+subjects:
+  - Federal aid to education
+  - Educational inequality
+  - Racial equality in education
+  - School segregation and "separate" schools
+  - Literacy and common-school education
+people:
+  - W. E. B. Du Bois
+  - Henry William Blair
+places:
+  - Washington, D.C.
+  - New Hampshire
+  - United States
+organizations:
+  - United States Senate
+  - United States Congress
+events:
+  - Introduction of the Blair Bill (1881)
+  - Defeat of the Blair Bill in the United States Senate (1890)
 citation: 
   type: article-journal
   container-title: The Crisis

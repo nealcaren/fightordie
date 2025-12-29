@@ -6,8 +6,24 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1920
-categories: 
-  - ""
+categories: []
+subjects:
+  - Racial discrimination in the criminal justice system
+  - Capital punishment
+  - Self-defense in criminal cases
+  - Civil rights legal-defense fundraising
+  - NAACP legal advocacy
+people:
+  - Edgar Caldwell
+  - Joel E. Spingarn
+  - W. E. B. Du Bois
+places:
+  - Anniston, Alabama
+  - New York City, New York
+organizations:
+  - National Association for the Advancement of Colored People
+  - Supreme Court of the United States
+  - The Crisis (magazine)
 citation: 
   type: article-journal
   container-title: The Crisis

@@ -6,8 +6,20 @@ author:
       given: W.E.B.
       family: Du Bois
 date: December 1921
-categories: 
-  - ""
+categories: []
+subjects:
+  - Nature as spiritual renewal
+  - Alpine landscape (Chamonix and Mont Blanc)
+  - The sublime in travel writing
+  - Contrast between modern politics and the natural world
+people:
+  - W. E. B. Du Bois
+places:
+  - Chamonix, France
+  - Mont Blanc (Alps)
+  - Alps
+organizations:
+  - League of Nations
 citation: 
   type: article-journal
   container-title: The Crisis

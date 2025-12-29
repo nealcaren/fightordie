@@ -6,8 +6,18 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1912
-categories: 
-  - ""
+categories: []
+subjects:
+  - Women's suffrage
+  - African American voting rights
+  - Black women's political participation
+  - Race and electoral politics
+  - Labor and suffrage
+places:
+  - Ohio
+  - Northern United States
+events:
+  - Ohio women's suffrage referendum (1912)
 citation: 
   type: article-journal
   container-title: The Crisis

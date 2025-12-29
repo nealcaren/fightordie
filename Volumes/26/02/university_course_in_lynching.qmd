@@ -6,8 +6,26 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jun. 1923
-categories: 
-  - ""
+categories: []
+subjects:
+  - Lynching
+  - Racial violence and mob murder
+  - Universities — complicity in racial violence
+  - Americanism (national identity and racial exclusion)
+  - Racial injustice in education
+people:
+  - James T. Scott
+  - W. E. B. Du Bois
+places:
+  - Missouri
+  - Georgia
+  - United States
+organizations:
+  - University of Missouri
+  - University of Georgia
+  - The Crisis (magazine)
+events:
+  - Lynching of James T. Scott (1923)
 citation: 
   type: article-journal
   container-title: The Crisis

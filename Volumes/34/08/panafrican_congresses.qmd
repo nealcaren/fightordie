@@ -6,8 +6,27 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Oct. 1927
-categories: 
-  - ""
+categories: []
+subjects:
+  - Pan-Africanism
+  - African self-rule and decolonization
+  - Education for peoples of African descent
+  - Land rights and agrarian reform
+  - Labor rights and racial democracy
+people:
+  - W. E. B. Du Bois
+  - Blaise Diagne
+  - Mrs. A. W. Hunton
+  - Rayford W. Logan
+places:
+  - Paris, France
+  - London, England
+  - New York City, New York
+organizations:
+  - Circle of Peace and Foreign Relations
+  - League of Nations
+events:
+  - Fourth Pan-African Congress (1927)
 citation: 
   type: article-journal
   container-title: The Crisis

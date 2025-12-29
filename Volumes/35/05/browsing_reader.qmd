@@ -6,8 +6,21 @@ author:
       given: W.E.B.
       family: Du Bois
 date: May 1928
-categories: 
-  - ""
+categories: []
+subjects:
+  - African American literary criticism
+  - African American literary anthologies (collectanea)
+  - Publishing practices for Black literature (small booklets vs anthologies)
+  - Cultural representation and artistic unity in Black publications
+  - Editorial selection and standards in race uplift literature
+people:
+  - W. E. B. Du Bois
+  - Charles S. Johnson
+places:
+  - United States
+organizations:
+  - National Urban League
+  - The Crisis (magazine)
 citation: 
   type: article-journal
   container-title: The Crisis

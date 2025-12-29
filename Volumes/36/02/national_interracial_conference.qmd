@@ -6,8 +6,27 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1929
-categories: 
-  - ""
+categories: []
+subjects:
+  - Interracial cooperation and coordinated social research
+  - Race relations in the United States
+  - Educational opportunities for African Americans
+  - Public health and racial disparities
+  - Labor and race relations
+people:
+  - Mordecai W. Johnson
+  - Robert R. Moton
+  - Mary Van Kleeck
+  - George E. Haynes
+  - Charles S. Johnson
+places:
+  - Washington, D.C.
+organizations:
+  - Howard University
+  - Fisk University
+  - Tuskegee Institute
+events:
+  - National Interracial Conference (Washington, D.C., 1928)
 citation: 
   type: article-journal
   container-title: The Crisis

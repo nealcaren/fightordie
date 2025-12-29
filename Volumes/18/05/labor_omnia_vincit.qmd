@@ -6,8 +6,21 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1919
-categories: 
-  - ""
+categories: []
+subjects:
+  - Labor organizing and trade unions (race and exclusion)
+  - Racial discrimination in employment and wages
+  - Lynching and racial violence as labor repression
+  - Industrial democracy and economic justice
+  - Racial equality — political and economic (Equality of Humanity)
+places:
+  - Africa
+  - The Americas
+  - Southern United States
+  - South Seas
+organizations:
+  - Trade unions
+  - Labor movement (United States)
 citation: 
   type: article-journal
   container-title: The Crisis

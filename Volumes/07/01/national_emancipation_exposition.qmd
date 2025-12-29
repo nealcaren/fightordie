@@ -6,8 +6,27 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Nov. 1913
-categories: 
-  - ""
+categories: []
+subjects:
+  - African contributions to world civilization
+  - African metallurgy and ironworking
+  - Ancient Egyptian (Nile Valley) civilization and cultural exchange
+  - Black pageantry and historical/theatrical performance
+  - African and African American religious expression (faith and sorrow songs)
+people:
+  - W. E. B. Du Bois
+  - Charles Burroughs
+  - Daisy Tapley
+  - Marie Stuart Jackson
+  - Augustus G. Dill
+places:
+  - New York City
+  - Africa
+  - Egypt (Nile Valley)
+organizations:
+  - The Crisis (magazine)
+events:
+  - The People of Peoples and Their Gifts to Men pageant (1913)
 citation: 
   type: article-journal
   container-title: The Crisis

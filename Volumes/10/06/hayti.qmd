@@ -6,8 +6,27 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Apr. 1915
-categories: 
-  - ""
+categories: []
+subjects:
+  - United States imperialism
+  - Haitian sovereignty
+  - Racism in United States foreign policy
+  - Lynching
+  - American corporate economic imperialism
+people:
+  - W.E.B. Du Bois
+  - Woodrow Wilson
+places:
+  - Haiti
+  - Port-au-Prince
+  - Môle Saint-Nicolas
+  - United States
+organizations:
+  - The Crisis
+  - United States Navy
+  - American railway corporations
+events:
+  - United States occupation of Haiti (1915)
 citation: 
   type: article-journal
   container-title: The Crisis

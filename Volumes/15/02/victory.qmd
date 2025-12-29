@@ -6,8 +6,25 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jun. 1917
-categories: 
-  - ""
+categories: []
+subjects:
+  - Racial segregation — legal challenges
+  - Civil rights litigation (NAACP legal strategy)
+  - United States Supreme Court decisions — civil rights
+  - African American branch activism (NAACP local branches)
+people:
+  - William Ashbie Hawkins
+  - Moorfield Storey
+places:
+  - Baltimore, Maryland
+  - Minneapolis, Minnesota
+  - Denver, Colorado
+  - Louisville, Kentucky
+  - St. Louis, Missouri
+organizations:
+  - National Association for the Advancement of Colored People (NAACP)
+  - The Crisis (magazine)
+  - United States Supreme Court
 citation: 
   type: article-journal
   container-title: The Crisis

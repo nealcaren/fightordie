@@ -6,8 +6,19 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Apr. 1932
-categories: 
-  - ""
+categories: []
+subjects:
+  - Racial discrimination in courts and sentencing
+  - Conditions of jails and prisons for African Americans
+  - Neglect of incarcerated Black people by African American churches and charities
+  - False accusations, mob justice, and racial scapegoating
+  - Juvenile delinquency and lack of reform for Black youth
+places:
+  - United States
+  - Southern United States
+organizations:
+  - African American churches and religious organizations
+  - African American philanthropic and charitable organizations
 citation: 
   type: article-journal
   container-title: The Crisis

@@ -6,8 +6,22 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jun. 1917
-categories: 
-  - ""
+categories: []
+subjects:
+  - White racial fear and anxiety
+  - Voting rights (African Americans)
+  - Great Migration (African American migration)
+  - Jim Crow laws and segregation
+people:
+  - W.E.B. Du Bois
+  - Fleming (fictional gubernatorial candidate)
+places:
+  - Valdosta, Georgia
+  - San Francisco, California
+  - New Orleans, Louisiana
+  - New York, New York
+organizations:
+  - The Crisis (NAACP publication)
 citation: 
   type: article-journal
   container-title: The Crisis

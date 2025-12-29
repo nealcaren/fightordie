@@ -6,8 +6,24 @@ author:
       given: W.E.B.
       family: Du Bois
 date: December 1920
-categories: 
-  - ""
+categories: []
+subjects:
+  - Lynching and mob violence
+  - Jim Crow laws (racial segregation)
+  - White supremacy and racial ideology
+  - Religious complicity in racial injustice (Southern clergy)
+  - Racial injustice in the legal/judicial system
+people:
+  - W. E. B. Du Bois
+  - Pontius Pilate
+  - Barabbas
+  - Judas Iscariot
+places:
+  - Jackson, Mississippi
+  - Mississippi
+organizations:
+  - The Crisis (magazine)
+  - Southern Christian clergy
 citation: 
   type: article-journal
   container-title: The Crisis

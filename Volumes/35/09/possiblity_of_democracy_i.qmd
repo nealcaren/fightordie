@@ -6,8 +6,25 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Sep. 1928
-categories: 
-  - ""
+categories: []
+subjects:
+  - Voting rights and voter participation
+  - Racial disfranchisement (Southern disfranchisement)
+  - Voter turnout statistics and electoral participation
+  - Literacy and voter education (illiteracy as a barrier to voting)
+  - Democracy and popular control of government
+people:
+  - W.E.B. Du Bois
+places:
+  - United States
+  - Southern United States
+  - Durham, North Carolina
+  - Los Angeles, California
+organizations:
+  - National Association for the Advancement of Colored People (NAACP)
+  - The Crisis (magazine)
+events:
+  - United States Presidential Election (1920)
 citation: 
   type: article-journal
   container-title: The Crisis

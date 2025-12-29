@@ -6,8 +6,21 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jan. 1919
-categories: 
-  - ""
+categories: []
+subjects:
+  - School integration (educational desegregation)
+  - Parents' associations in public schools (community school involvement)
+  - Church-based cooperative economics (church-led co‑ops, housing and purchasing)
+  - Black business development and manufacturing
+  - Black labor organization and wage protection
+people:
+  - W.E.B. Du Bois
+places:
+  - United States
+organizations:
+  - Black churches
+  - Public schools (municipal school systems)
+  - Labor unions (white exclusionary trade unions)
 citation: 
   type: article-journal
   container-title: The Crisis

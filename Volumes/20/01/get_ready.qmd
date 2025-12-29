@@ -6,8 +6,22 @@ author:
       given: W.E.B.
       family: Du Bois
 date: May 1920
-categories: 
-  - ""
+categories: []
+subjects:
+  - Women's suffrage
+  - African American voting rights
+  - Disfranchisement of African Americans
+  - Jim Crow laws
+  - Legal resistance and litigation against disenfranchisement
+people:
+  - W. E. B. Du Bois
+places:
+  - Southern United States
+organizations:
+  - Supreme Court of the United States
+  - The Crisis (magazine)
+events:
+  - World War I (1914-1918)
 citation: 
   type: article-journal
   container-title: The Crisis

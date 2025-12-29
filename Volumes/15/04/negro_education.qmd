@@ -6,8 +6,22 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1918
-categories: 
-  - ""
+categories: []
+subjects:
+  - Higher education access for African Americans
+  - Industrial/manual training versus academic education
+  - Educational inequality and underfunding of Black schools (Southern United States)
+  - Philanthropic support for Negro education
+  - Race relations and "co-operation" between Southern whites and Black private schools
+people:
+  - W.E.B. Du Bois
+  - Jones (author of the U.S. government report on Negro education criticized in the article)
+places:
+  - Southern United States
+  - United States
+organizations:
+  - United States government
+  - Philanthropic foundations supporting Negro education
 citation: 
   type: article-journal
   container-title: The Crisis

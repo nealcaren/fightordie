@@ -6,8 +6,17 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1911
-categories: 
-  - ""
+categories: []
+subjects:
+  - Lynching (United States)
+  - Disfranchisement of African Americans
+  - Mob violence (United States)
+  - Racism — Attitudes toward African Americans
+  - Rule of law and lawlessness (United States)
+places:
+  - United States
+  - Florida
+  - Oklahoma
 citation: 
   type: article-journal
   container-title: The Crisis

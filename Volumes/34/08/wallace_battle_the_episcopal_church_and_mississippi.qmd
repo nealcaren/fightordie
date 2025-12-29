@@ -6,8 +6,27 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Oct. 1927
-categories: 
-  - ""
+categories: []
+subjects:
+  - Extrajudicial killing of African Americans
+  - Suppression of information by religious institutions
+  - Church-sponsored African American education
+  - Judicial failure and impunity under Jim Crow
+  - Racial violence in Mississippi
+people:
+  - Wallace Battle
+  - Ulysses S. Baskin
+  - H. Anderson (and son)
+  - H. L. Whitfield
+places:
+  - Okolona, Mississippi
+  - Mississippi
+organizations:
+  - Episcopal Church
+  - Okolona Institute
+  - Tuskegee Institute
+events:
+  - Murder of Ulysses S. Baskin (May 20, 1925)
 citation: 
   type: article-journal
   container-title: The Crisis

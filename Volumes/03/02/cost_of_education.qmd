@@ -6,8 +6,23 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jun. 1911
-categories: 
-  - ""
+categories: []
+subjects:
+  - Educational inequality
+  - Public school finance
+  - Racial taxation and fiscal burden
+  - Segregated schooling (Jim Crow education)
+people:
+  - W. E. B. Du Bois
+  - Alderman of Lexington, Kentucky (unnamed)
+places:
+  - Lexington, Kentucky
+  - New York City, New York
+  - Southern United States
+organizations:
+  - The Crisis (magazine)
+  - Richmond Times-Despatch (newspaper)
+  - Committee on Congestion of Population (New York)
 citation: 
   type: article-journal
   container-title: The Crisis

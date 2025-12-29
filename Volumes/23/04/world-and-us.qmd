@@ -6,8 +6,23 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1921
-categories: 
-  - ""
+categories: []
+subjects:
+  - Land monopoly and tenancy (land reform)
+  - Lynching and mob violence
+  - Suppression of free speech (censorship, political imprisonment)
+  - Racial caste / color line (racial segregation and international race relations)
+  - Disarmament and militarism
+people:
+  - Eugene V. Debs
+  - Abdu'l-Bahá
+places:
+  - United States
+  - Estonia
+organizations:
+  - United States Congress
+events:
+  - Disarmament Conference (1921)
 citation: 
   type: article-journal
   container-title: The Crisis

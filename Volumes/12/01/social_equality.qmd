@@ -6,9 +6,25 @@ author:
       given: W.E.B.
       family: Du Bois
 date: May 1916
-categories: 
+categories:
   - Social Equality
+  - Booker T. Washingtonsubjects:
+  - Social equality and interracial contact
+  - Education as racial uplift
+  - White Southern resistance to Black freedom (re-enslavement efforts)
+  - Racial segregation and social exclusion (Jim Crow)
+people:
+  - W. E. B. Du Bois
   - Booker T. Washington
+  - Lucius Q. C. Lamar II
+places:
+  - Southern United States
+  - Mississippi
+organizations:
+  - The Outlook (magazine)
+  - United States Supreme Court
+events:
+  - Reconstruction era (1865-1877)
 citation: 
   type: article-journal
   container-title: The Crisis

@@ -7,8 +7,21 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Sep. 1933
-categories: 
-  - ""
+categories: []
+subjects:
+  - Racial pride (Marcus Garveyism)
+  - Internalized racism / self-shame
+  - Racial segregation
+  - Assimilation and passing into mainstream American society
+  - Black economic self-help and labor exclusion
+people:
+  - W.E.B. Du Bois
+  - Marcus Garvey
+  - Alexander DuBois
+places:
+  - United States
+organizations:
+  - The Crisis (magazine)
 citation: 
   type: article-journal
   container-title: The Crisis

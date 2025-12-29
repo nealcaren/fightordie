@@ -6,8 +6,23 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jun. 1911
-categories: 
-  - ""
+categories: []
+subjects:
+  - Lynching
+  - Disfranchisement (voting rights)
+  - Jim Crow laws (racial segregation)
+  - Racial prejudice and race relations
+  - Employment discrimination (African Americans)
+people:
+  - Booker T. Washington
+  - John E. Milholland
+  - W. E. B. Du Bois
+places:
+  - Southern United States
+  - London, England
+organizations:
+  - The Crisis (magazine)
+  - The Outlook (magazine)
 citation: 
   type: article-journal
   container-title: The Crisis

@@ -6,8 +6,26 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jan. 1919
-categories: 
-  - ""
+categories: []
+subjects:
+  - Colonialism and imperialism (Africa)
+  - Pan-Africanism
+  - Self-determination (colonial peoples)
+  - Colonial economic exploitation and forced labor
+  - Racial prejudice and discrimination
+  - Education and native self-development (Africa)
+people:
+  - W. E. Burghardt Du Bois
+places:
+  - Africa
+  - Belgian Congo (Congo Free State)
+  - German colonies in Africa
+organizations:
+  - National Association for the Advancement of Colored People (NAACP)
+  - The Crisis (magazine)
+events:
+  - World War I (1914–1918)
+  - Paris Peace Conference (1919)
 citation: 
   type: article-journal
   container-title: The Crisis

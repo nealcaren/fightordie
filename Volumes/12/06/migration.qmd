@@ -6,8 +6,18 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Apr. 1916
-categories: 
-  - ""
+categories: []
+subjects:
+  - Great Migration (African American migration to Northern United States)
+  - Lynching
+  - Disfranchisement (African Americans)
+  - Educational opportunity (African Americans)
+  - Employment opportunities (African Americans)
+places:
+  - Southern United States
+  - Northern United States
+events:
+  - Great Migration (1910–1970)
 citation: 
   type: article-journal
   container-title: The Crisis

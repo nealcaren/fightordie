@@ -6,8 +6,20 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Apr. 1912
-categories: 
-  - ""
+categories: []
+subjects:
+  - Black domestic service (Southern United States)
+  - Wage labor and labor exploitation in domestic work
+  - Sexual exploitation and lack of protection for Black women in white households
+  - Black migration from South to North (early Great Migration)
+  - Labor reform: wages, hours, and working conditions for domestic servants
+people:
+  - W. E. B. Du Bois
+places:
+  - Southern United States
+  - Northern United States
+organizations:
+  - The Crisis
 citation: 
   type: article-journal
   container-title: The Crisis

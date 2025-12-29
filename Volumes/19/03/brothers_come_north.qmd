@@ -6,8 +6,24 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jan. 1920
-categories: 
-  - ""
+categories: []
+subjects:
+  - Great Migration (African American migration to the Northern United States and labor relocation)
+  - Lynching (racial violence and mob murder in the Southern United States)
+  - Jim Crow laws (racial segregation and caste in the Southern United States)
+  - Voting rights and political participation (Northern ballot access vs Southern disfranchisement)
+people:
+  - W. E. B. Du Bois
+  - Charles Brough
+  - Frank O. Lowden
+places:
+  - Southern United States
+  - Northern United States
+  - Phillips County, Arkansas
+organizations:
+  - University Commission on Southern Race Questions
+events:
+  - Elaine Massacre (Phillips County, Arkansas) (1919)
 citation: 
   type: article-journal
   container-title: The Crisis

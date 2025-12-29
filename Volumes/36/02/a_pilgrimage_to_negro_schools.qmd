@@ -6,8 +6,26 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1929
-categories: 
-  - ""
+categories: []
+subjects:
+  - Historically Black colleges and universities (Negro schools)
+  - School buildings and facilities (campus architecture, dormitories, libraries)
+  - Educational administration and curriculum (school management, teacher training)
+  - Student life and student vitality
+  - Segregation (Jim Crow laws) and its impact on Black education
+people:
+  - W. E. B. Du Bois
+places:
+  - Sedalia, North Carolina
+  - Petersburg, Virginia
+  - Fayetteville, North Carolina
+  - Atlanta, Georgia
+  - Tuskegee, Alabama
+organizations:
+  - Palmer Institute (Palmer Memorial Institute)
+  - Virginia Normal and Collegiate Institute (Petersburg)
+  - Shaw University
+  - Spelman College
 citation: 
   type: article-journal
   container-title: The Crisis

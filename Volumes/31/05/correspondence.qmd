@@ -6,8 +6,20 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1926
-categories: 
-  - ""
+categories: []
+subjects:
+  - Interracial marriage (United States)
+  - Race assimilation
+  - Racial self-respect
+  - Social ostracism and stigma related to race
+people:
+  - W. E. B. Du Bois
+  - Dr. Elizabeth Leonard
+places:
+  - United States
+  - Broken Bow, Nebraska
+organizations:
+  - The Crisis
 citation: 
   type: article-journal
   container-title: The Crisis

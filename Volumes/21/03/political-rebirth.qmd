@@ -6,8 +6,24 @@ author:
       given: W.E.B.
       family: Du Bois
 date: January 1921
-categories: 
-  - ""
+categories: []
+subjects:
+  - Anti-lynching legislation (federal)
+  - Jim Crow laws (interstate transportation)
+  - Voting rights and ballot access
+  - Universal, compulsory education (educational equality)
+  - Peonage and enforcement of the 13th Amendment
+  - Political patronage and office-seeking
+people:
+  - W. E. B. Du Bois
+  - Warren G. Harding
+places:
+  - United States
+  - Haiti
+  - New York (state)
+organizations:
+  - Republican Party (United States)
+  - National City Bank
 citation: 
   type: article-journal
   container-title: The Crisis

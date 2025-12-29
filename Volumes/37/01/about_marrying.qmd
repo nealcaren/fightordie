@@ -6,8 +6,19 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jan. 1930
-categories: 
-  - ""
+categories: []
+subjects:
+  - Interracial marriage
+  - Racial prejudice
+  - Social ostracism
+  - Employment discrimination (race)
+  - Parental and religious opposition to marriage
+people:
+  - W. E. B. Du Bois
+places:
+  - United States
+organizations:
+  - The Crisis (magazine)
 citation: 
   type: article-journal
   container-title: The Crisis

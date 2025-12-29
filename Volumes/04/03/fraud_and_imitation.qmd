@@ -6,8 +6,25 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jan. 1912
-categories: 
-  - ""
+categories: []
+subjects:
+  - African American education (Southern schools and colleges)
+  - Fraudulent educational organizations and fundraising
+  - White patronage and exploitation of Black institutions
+  - Impostors and charlatans within African American communities
+people:
+  - W. E. B. Du Bois
+places:
+  - Atlanta, Georgia
+  - Kansas City, Missouri
+  - Denver, Colorado
+  - St. Paul, Minnesota
+organizations:
+  - National Association of Teachers in Colored Schools
+  - Negro National Educational Congress
+events:
+  - Negro National Educational Congress convention (Denver, 1911)
+  - Proposed Negro National Educational Congress convention (St. Paul, 1912)
 citation: 
   type: article-journal
   container-title: The Crisis

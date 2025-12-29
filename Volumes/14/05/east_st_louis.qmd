@@ -6,8 +6,23 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1917
-categories: 
-  - ""
+categories: []
+subjects:
+  - Race riots and pogroms
+  - Trade union discrimination against African American workers
+  - Great Migration (African American northward migration)
+  - Economic opportunity and labor conditions for African Americans
+people:
+  - W. E. B. Du Bois
+  - Samuel Gompers
+places:
+  - East St. Louis, Illinois
+  - Chester, Pennsylvania
+  - Youngstown, Ohio
+organizations:
+  - American Federation of Labor (AFL)
+events:
+  - East St. Louis Race Riot (1917)
 citation: 
   type: article-journal
   container-title: The Crisis

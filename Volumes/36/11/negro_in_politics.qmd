@@ -6,8 +6,25 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Nov. 1929
-categories: 
-  - ""
+categories: []
+subjects:
+  - African American voting behavior
+  - Racial voting blocs and political pragmatism
+  - Urban Black politics (Harlem)
+  - Political opportunism in electoral politics
+  - Party politics in the American South
+people:
+  - W. E. B. Du Bois
+  - James J. Walker
+  - Fiorello H. La Guardia
+  - Norman Thomas
+places:
+  - Harlem (New York, N.Y.)
+  - American South
+organizations:
+  - Republican National Committee
+  - Republican Party (United States)
+  - Socialist Party of America
 citation: 
   type: article-journal
   container-title: The Crisis

@@ -6,8 +6,27 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1919
-categories: 
-  - ""
+categories: []
+subjects:
+  - African colonial troops in World War I
+  - Recognition of Black soldiers by France
+  - Racial discrimination in the United States and threats to democracy
+  - Naturalization rights and obligations for colonial soldiers
+people:
+  - W. E. B. Du Bois
+  - Robert R. Moton
+  - Blaise Diagne
+places:
+  - France
+  - Senegal
+  - Paris
+organizations:
+  - National Association for the Advancement of Colored People (NAACP)
+  - French Colonial League
+  - Tuskegee Institute
+events:
+  - World War I (1914–1918)
+  - First Battle of the Marne (1914)
 citation: 
   type: article-journal
   container-title: The Crisis

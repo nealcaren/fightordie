@@ -6,8 +6,18 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jan. 1911
-categories: 
-  - ""
+categories: []
+subjects:
+  - Lynching
+  - Vigilantism and mob violence
+  - False accusations against African Americans
+  - Racial prejudice and stereotyping
+  - Pretrial detention and coerced confessions
+places:
+  - New Jersey
+organizations:
+  - National Association for the Advancement of Colored People (NAACP)
+  - The Crisis (magazine)
 citation: 
   type: article-journal
   container-title: The Crisis

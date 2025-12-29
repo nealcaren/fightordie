@@ -6,8 +6,22 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jul. 1920
-categories: 
-  - ""
+categories: []
+subjects:
+  - Classical education (Latin and Greek)
+  - College entrance requirements
+  - Curriculum debates in Black education
+  - Vocational education versus classical curriculum
+  - Access to higher education for African Americans
+people:
+  - W. E. B. Du Bois
+  - Principal, state school for Negroes (unnamed)
+places:
+  - United States
+organizations:
+  - The Crisis
+  - Northern colleges (United States)
+  - State schools for African Americans
 citation: 
   type: article-journal
   container-title: The Crisis

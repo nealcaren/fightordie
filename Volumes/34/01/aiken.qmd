@@ -6,8 +6,24 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1927
-categories: 
-  - ""
+categories: []
+subjects:
+  - Lynching
+  - Racial violence
+  - Law enforcement complicity in racial violence
+  - Ku Klux Klan political dominance
+  - Electoral corruption and voter suppression
+people:
+  - Coleman Livingston Blease
+  - W. E. B. Du Bois
+places:
+  - Aiken, South Carolina
+  - South Carolina
+  - United States
+organizations:
+  - Ku Klux Klan
+  - South Carolina courts of law
+  - United States Senate
 citation: 
   type: article-journal
   container-title: The Crisis

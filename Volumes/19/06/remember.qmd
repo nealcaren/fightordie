@@ -6,8 +6,22 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Apr. 1920
-categories: 
-  - ""
+categories: []
+subjects:
+  - Voting rights and disfranchisement
+  - Federal enforcement of voting rights / defense of democracy
+  - Jim Crow laws and Southern white supremacy
+  - Racial political coalitions (interracial voting alliances)
+  - Congressional representation and franchise legitimacy
+places:
+  - Mississippi
+  - South Carolina
+  - Alabama
+organizations:
+  - United States Congress
+  - Presidency (United States)
+events:
+  - United States Presidential Election (1920)
 citation: 
   type: article-journal
   container-title: The Crisis

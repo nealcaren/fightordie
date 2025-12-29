@@ -6,8 +6,24 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1917
-categories: 
-  - ""
+categories: []
+subjects:
+  - Lynching and mob violence
+  - Disfranchisement (voting rights; race and sex)
+  - Jim Crow laws (segregation in public transportation / "Jim Crow cars")
+  - Residential segregation (ghettoization)
+  - Racial discrimination in employment, civil service, public accommodations, and education
+people:
+  - W. E. B. Du Bois
+places:
+  - East St. Louis, Illinois
+  - Memphis, Tennessee
+  - Waco, Texas
+  - United States
+organizations:
+  - The Crisis
+events:
+  - World War I (1914–1918)
 citation: 
   type: article-journal
   container-title: The Crisis

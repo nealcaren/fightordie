@@ -6,8 +6,22 @@ author:
       given: W.E.B.
       family: Du Bois
 date: November 1920
-categories: 
-  - ""
+categories: []
+subjects:
+  - Racial self-discovery and Black self-reliance
+  - Black economic development and business enterprise
+  - Land ownership and homeownership among Black Americans
+  - Education — increasing school enrollment and access
+  - Labor organizing and participation in trade unions
+  - Self-defense and community protection against racial violence
+people:
+  - W. E. B. Du Bois
+places:
+  - United States
+  - Washington, D.C.
+  - Chicago, Illinois
+organizations:
+  - Trade unions (labor unions)
 citation: 
   type: article-journal
   container-title: The Crisis

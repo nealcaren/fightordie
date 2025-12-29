@@ -6,8 +6,20 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1921
-categories: 
-  - ""
+categories: []
+subjects:
+  - Social equality (race)
+  - Voting rights — African Americans
+  - Right of self‑defense against racial violence
+  - Racial double standards and discrimination
+  - Civil rights activism
+  - Jim Crow segregation and social exclusion
+places:
+  - United States
+  - Southern United States
+  - Northern United States
+organizations:
+  - The Crisis (magazine)
 citation: 
   type: article-journal
   container-title: The Crisis

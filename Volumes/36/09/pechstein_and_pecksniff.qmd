@@ -6,8 +6,27 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Sep. 1929
-categories: 
-  - ""
+categories: []
+subjects:
+  - School segregation
+  - Public education and educational democracy
+  - Educational inequality and claims of mental deficiency
+  - Racial caste and social segregation
+people:
+  - R. L. A. Pechstein
+  - Jennie Porter
+  - W. E. B. Du Bois
+places:
+  - Boston, Massachusetts
+  - New York City, New York
+  - Philadelphia, Pennsylvania
+  - Cleveland, Ohio
+organizations:
+  - University of Cincinnati
+  - National Society of College Teachers
+  - The Crisis (magazine)
+events:
+  - National Society of College Teachers meeting (Cleveland, 1929)
 citation: 
   type: article-journal
   container-title: The Crisis

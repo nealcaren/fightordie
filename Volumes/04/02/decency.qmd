@@ -6,8 +6,24 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jun. 1912
-categories: 
-  - ""
+categories: []
+subjects:
+  - Interracial marriage
+  - German colonialism
+  - White supremacy
+  - Legal protection of women of color
+  - Racialized sexual exploitation
+people:
+  - W. E. B. Du Bois
+places:
+  - Germany
+  - German colonies
+  - Southern United States
+organizations:
+  - Reichstag (German Empire)
+  - Christian churches—Southern United States
+events:
+  - German Reichstag passage of colonial interracial marriage law (1912)
 citation: 
   type: article-journal
   container-title: The Crisis

@@ -6,8 +6,23 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1917
-categories: 
-  - ""
+categories: []
+subjects:
+  - Lynching
+  - White supremacist ideology
+  - Racial division of labor
+  - Mob violence and lawlessness
+  - Southern culture and civilization
+people:
+  - W. E. B. Du Bois
+  - Crawford (named as a lynching victim in cited letters)
+places:
+  - Southern United States
+  - Georgia
+  - Texas
+  - New Kent County, Virginia
+organizations:
+  - The Crisis
 citation: 
   type: article-journal
   container-title: The Crisis

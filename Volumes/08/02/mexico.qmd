@@ -6,8 +6,22 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jun. 1914
-categories: 
-  - ""
+categories: []
+subjects:
+  - U.S. imperialism and colonialism
+  - Racialized imperialism / racialized military intervention
+  - Exploitation of colonized and peon labor
+  - Racism and racial hierarchy
+  - Critique of American democracy and civilization hypocrisy
+places:
+  - Mexico
+  - Cuba
+  - Philippines
+  - United States
+  - American South
+organizations:
+  - The Crisis (NAACP)
+  - United States government
 citation: 
   type: article-journal
   container-title: The Crisis

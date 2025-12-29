@@ -6,8 +6,23 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jun. 1921
-categories: 
-  - ""
+categories: []
+subjects:
+  - Myth of Negro criminality
+  - Lynching
+  - Criminal justice reform
+  - Poverty and crime
+  - Educational reform
+  - Labor conditions and child labor
+people:
+  - W. E. B. Du Bois
+  - Benjamin R. Tillman
+places:
+  - Southern United States
+  - United States
+organizations:
+  - NAACP (National Association for the Advancement of Colored People)
+  - The Crisis (magazine)
 citation: 
   type: article-journal
   container-title: The Crisis

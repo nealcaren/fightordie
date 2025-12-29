@@ -6,8 +6,25 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1913
-categories: 
-  - ""
+categories: []
+subjects:
+  - Federal civil service — racial segregation
+  - Jim Crow laws
+  - Voting rights — African Americans
+  - Lynching
+  - African American political activism
+people:
+  - W. E. B. Du Bois
+  - Albert S. Burleson
+  - Woodrow Wilson
+  - William H. Taft
+places:
+  - Southern United States
+  - Washington, D.C.
+organizations:
+  - United States Post Office Department
+  - Railway Mail (periodical)
+  - Democratic Party (United States)
 citation: 
   type: article-journal
   container-title: The Crisis

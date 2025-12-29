@@ -6,8 +6,22 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1914
-categories: 
-  - ""
+categories: []
+subjects:
+  - Lynching
+  - Mob violence against African Americans
+  - Press coverage of lynching
+  - Anti-lynching reform and legislation
+  - Statistical reporting of lynching
+people:
+  - W. E. B. Du Bois
+  - Booker T. Washington
+places:
+  - United States
+  - Chicago, Illinois
+organizations:
+  - The Crisis (magazine)
+  - Chicago Tribune
 citation: 
   type: article-journal
   container-title: The Crisis

@@ -6,8 +6,22 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Apr. 1919
-categories: 
-  - ""
+categories: []
+subjects:
+  - African American social life
+  - African American cultural expression (music, dance, dress)
+  - Race pride and racial representation
+  - African American fraternal organizations
+  - Social dancing and public balls
+places:
+  - Atlantic City, New Jersey
+  - Newark, New Jersey
+  - Philadelphia, Pennsylvania
+organizations:
+  - Knights of Pythias (Pythians)
+  - Improved Benevolent and Protective Order of Elks of the World (Elks)
+  - National Medical Association
+  - Sigma Pi Phi (the Boulé)
 citation: 
   type: article-journal
   container-title: The Crisis

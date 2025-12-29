@@ -6,8 +6,18 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1927
-categories: 
-  - ""
+categories: []
+subjects:
+  - African American cultural renaissance (Harlem Renaissance)
+  - African American education (secondary and higher education)
+  - Civil rights and legal defense of African Americans
+  - African American economic advancement and middle class
+  - Racial self-assertion and self-representation
+  - Lynching and mob violence
+places:
+  - United States
+organizations:
+  - Labor movement (United States)
 citation: 
   type: article-journal
   container-title: The Crisis

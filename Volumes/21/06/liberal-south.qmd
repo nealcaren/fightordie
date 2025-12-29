@@ -6,8 +6,23 @@ author:
       given: W.E.B.
       family: Du Bois
 date: April 1921
-categories: 
-  - ""
+categories: []
+subjects:
+  - Voting rights
+  - Lynching
+  - Segregation in transportation (Jim Crow travel)
+  - Interracial committees and interracial cooperation (Southern United States)
+people:
+  - W. E. B. Du Bois
+  - J. C. Wilson
+  - Josiah Morse
+  - Moorfield Storey
+places:
+  - Mississippi
+  - South Carolina
+organizations:
+  - Mississippi Welfare League
+  - Inter-racial Committee (Southern United States)
 citation: 
   type: article-journal
   container-title: The Crisis

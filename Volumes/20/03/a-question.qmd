@@ -6,8 +6,26 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jul. 1920
-categories: 
-  - ""
+categories: []
+subjects:
+  - Segregation — Public accommodations (Hotels)
+  - Racial exclusion — Conferences and professional meetings
+  - Civil rights activism — Public exposure of discrimination
+  - Newspapers — Silence on racial discrimination
+people:
+  - Jean Gordon
+  - John M. Parker
+places:
+  - Cleveland, Ohio
+  - New Orleans, Louisiana
+  - Newark, New Jersey
+organizations:
+  - Young Women's Christian Association (Y.W.C.A.)
+  - National Conference of Social Work
+  - Hotel Statler
+events:
+  - Y.W.C.A. National Convention (Cleveland, 1920)
+  - National Conference of Social Work (New Orleans, 1920)
 citation: 
   type: article-journal
   container-title: The Crisis

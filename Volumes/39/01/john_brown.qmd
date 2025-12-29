@@ -6,8 +6,27 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jan. 1932
-categories: 
-  - ""
+categories: []
+subjects:
+  - Confederate monuments and Lost Cause ideology
+  - Racialized public memory and denial of Black resistance
+  - African American soldiers in the American Civil War
+  - John Brown's raid and Black participation
+people:
+  - John Brown
+  - Heyward Shepherd
+  - Henry T. McDonald
+  - George F. Bragg, Jr.
+places:
+  - Harpers Ferry, West Virginia
+  - Baltimore, Maryland
+  - Haiti
+organizations:
+  - United Daughters of the Confederacy
+  - Sons of Confederate Veterans
+  - Storer College
+events:
+  - John Brown's raid (1859)
 citation: 
   type: article-journal
   container-title: The Crisis

@@ -6,8 +6,24 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Apr. 1918
-categories: 
-  - ""
+categories: []
+subjects:
+  - Republican Party — racial exclusion (Lily-White movement)
+  - African American political participation — candidate suppression
+  - Party nominations and intra-party exclusion
+  - Race and party politics — Republican National Committee actions
+people:
+  - Perry Howard
+  - Reedy C. Ransom
+  - Will H. Hays
+places:
+  - St. Louis, Missouri
+  - Mississippi
+  - New York City, New York
+organizations:
+  - Republican Party (United States)
+  - Republican National Committee
+  - Lily-White faction (Republican Party)
 citation: 
   type: article-journal
   container-title: The Crisis

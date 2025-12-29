@@ -6,8 +6,19 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jun. 1916
-categories: 
-  - ""
+categories: []
+subjects:
+  - Political education (African Americans)
+  - Voter education and responsibility
+  - African Americans — Political participation
+  - NAACP — Political role
+  - Civic duty and democratic participation
+people:
+  - Du Bois, W. E. B.
+places:
+  - United States
+organizations:
+  - National Association for the Advancement of Colored People (NAACP)
 citation: 
   type: article-journal
   container-title: The Crisis

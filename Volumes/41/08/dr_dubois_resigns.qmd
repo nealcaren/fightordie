@@ -3,8 +3,25 @@ title: 'Dr. Du Bois Resigns'
 description: "W.E.B. Du Bois resigns (1934). In The Crisis he accuses NAACP leadership of failing Black people on race, organization, and economic strategy, urging reform."
 author: National Association for the Advancement of Colored People
 date: Aug. 1934
-categories: 
-  - ""
+categories: []
+subjects:
+  - NAACP governance and internal dissent
+  - Military discrimination and segregation (Black officers' camps)
+  - Segregation in federal medical facilities (Tuskegee Veterans' Hospital)
+  - Suppression of internal criticism / censorship in civil rights press
+  - Economic strategy for Black advancement
+people:
+  - W.E.B. Du Bois
+places:
+  - Des Moines, Iowa
+  - Tuskegee, Alabama
+organizations:
+  - National Association for the Advancement of Colored People (NAACP)
+  - The Crisis (magazine)
+  - Tuskegee Veterans' Hospital
+events:
+  - Resignation of W.E.B. Du Bois from NAACP (1934)
+  - World War I (1914-1918)
 citation: 
   type: article-journal
   container-title: The Crisis

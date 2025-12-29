@@ -6,8 +6,25 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Apr. 1916
-categories: 
-  - ""
+categories: []
+subjects:
+  - African American churches — social services and community development
+  - Religious education — Sunday schools and youth programs (Cradle Roll)
+  - Community institution-building for education (lectures, scholarships, industrial classes)
+  - Abolitionist activity and Underground Railroad (historical role)
+people:
+  - Simeon S. Jocelyn
+  - J. W. C. Pennington
+  - Edward F. Goin
+  - E. H. Hunter
+places:
+  - New Haven, Connecticut
+  - Norfolk, Virginia
+  - New York, New York
+organizations:
+  - Dixwell Avenue Congregational Church
+  - St. John's A.M.E. Church (Norfolk)
+  - St. Mark's M.E. Church (New York)
 citation: 
   type: article-journal
   container-title: The Crisis

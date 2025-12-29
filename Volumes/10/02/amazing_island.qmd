@@ -6,8 +6,22 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jun. 1915
-categories: 
-  - ""
+categories: []
+subjects:
+  - Race relations in Jamaica (color line and social integration)
+  - Labor exploitation and low-wage rural labor
+  - Rural poverty and subsistence wages in Jamaica
+  - Plantation/export economy and agricultural commodities
+  - British colonialism and its economic legacy
+people:
+  - Du Bois, W. E. B.
+places:
+  - Jamaica
+  - Montego Bay (Jamaica)
+  - Spanishtown (Jamaica)
+organizations:
+  - British colonial administration (Jamaica)
+  - The Crisis (magazine)
 citation: 
   type: article-journal
   container-title: The Crisis

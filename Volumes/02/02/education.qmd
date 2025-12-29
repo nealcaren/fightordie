@@ -6,8 +6,23 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jun. 1911
-categories: 
-  - ""
+categories: []
+subjects:
+  - Educational inequality
+  - Racial inequality in education
+  - Federal aid to common schools
+  - School funding disparities in the Southern United States
+people:
+  - W. E. B. Du Bois
+  - Superintendent of Education, Southern States (unnamed)
+places:
+  - Birmingham, Alabama
+  - Alabama
+  - Southern United States
+  - United States
+organizations:
+  - Birmingham Age-Herald
+  - United States federal government
 citation: 
   type: article-journal
   container-title: The Crisis

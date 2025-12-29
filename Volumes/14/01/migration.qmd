@@ -6,8 +6,21 @@ author:
       given: W.E.B.
       family: Du Bois
 date: May 1917
-categories: 
-  - ""
+categories: []
+subjects:
+  - Great Migration (African American labor migration)
+  - Northern industrial labor demand (World War I era)
+  - Lynching and racial violence against African Americans
+  - Jim Crow laws and Southern racial oppression
+  - Southern white press and political opposition to Black migration
+places:
+  - Southern United States
+  - Northern United States
+  - Europe
+organizations:
+  - The Crisis
+events:
+  - World War I (1914-1918)
 citation: 
   type: article-journal
   container-title: The Crisis

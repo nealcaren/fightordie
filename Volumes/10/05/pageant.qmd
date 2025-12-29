@@ -6,8 +6,23 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1915
-categories: 
-  - ""
+categories: []
+subjects:
+  - Historical pageantry (African American pageants)
+  - Commemoration of Emancipation and Reconstruction amendments
+  - African American theater and dramatic arts
+  - Race pride and cultural uplift
+people:
+  - W. E. B. Du Bois
+places:
+  - Washington, D.C.
+  - New York (State)
+organizations:
+  - Horizon Guild
+  - The Crisis (magazine)
+events:
+  - 50th Anniversary of the Emancipation Proclamation (1913)
+  - The Jewel of Ethiopia pageant in Washington, D.C. (1915)
 citation: 
   type: article-journal
   container-title: The Crisis

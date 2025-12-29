@@ -6,8 +6,20 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jun. 1926
-categories: 
-  - ""
+categories: []
+subjects:
+  - Labor organizing
+  - Interracial labor solidarity
+  - Race and class relations
+  - Emancipation of laboring classes
+  - Industrial imperialism
+people:
+  - Eugene V. Debs
+  - W. E. B. Du Bois
+places:
+  - United States
+organizations:
+  - Labor movement (United States)
 citation: 
   type: article-journal
   container-title: The Crisis

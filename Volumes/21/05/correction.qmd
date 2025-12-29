@@ -6,8 +6,18 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1921
-categories: 
-  - ""
+categories: []
+subjects:
+  - Marcus Garvey movement (Garveyism)
+  - Black enterprise (Black business and economic self-help)
+  - Black-operated steamship lines (Black Star Line)
+  - Editorial correction / journalistic accuracy
+people:
+  - Marcus Garvey
+  - W. E. B. Du Bois
+organizations:
+  - Black Star Line Steamship Corporation
+  - The Crisis (magazine)
 citation: 
   type: article-journal
   container-title: The Crisis

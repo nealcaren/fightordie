@@ -6,8 +6,24 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1921
-categories: 
-  - ""
+categories: []
+subjects:
+  - Women's suffrage
+  - African American women — suffrage and voting rights
+  - Voter suppression — registration obstruction and disenfranchisement
+  - Race and gender in political participation
+  - African American leadership debates over suffrage
+people:
+  - W. E. B. Du Bois
+  - James B. Dudley
+places:
+  - Greensboro, North Carolina
+  - Georgia
+  - Louisiana
+organizations:
+  - The Crisis (magazine)
+events:
+  - United States Presidential Election (1920)
 citation: 
   type: article-journal
   container-title: The Crisis

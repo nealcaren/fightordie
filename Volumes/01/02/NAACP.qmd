@@ -6,9 +6,19 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Dec. 1910
-categories: 
+categories:
   - NAACP
-  - Tactics
+  - Tacticssubjects:
+  - Racial prejudice and discrimination
+  - Civil rights advocacy and organizing
+  - Public education via print and lectures
+  - Sociological investigation of race relations
+  - Relief and social welfare for African Americans
+places:
+  - United States
+organizations:
+  - National Association for the Advancement of Colored People (NAACP)
+  - The Crisis (magazine)
 citation: 
   type: article-journal
   container-title: The Crisis

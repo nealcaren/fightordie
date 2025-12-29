@@ -6,8 +6,21 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Sep. 1927
-categories: 
-  - ""
+categories: []
+subjects:
+  - Racial prejudice and discrimination
+  - African American education — higher and professional training
+  - Race and democratic institutions in the United States
+  - Assessment of African American cultural and artistic achievement
+  - Scholarly bias and academic treatments of the "Negro problem"
+people:
+  - E. B. Reuter
+  - W. E. B. Du Bois
+places:
+  - United States
+organizations:
+  - The Crisis (NAACP)
+  - American academia
 citation: 
   type: article-journal
   container-title: The Crisis

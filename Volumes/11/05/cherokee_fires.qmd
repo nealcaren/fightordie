@@ -3,8 +3,27 @@ title: 'The Cherokee Fires: An N.A.A.C.P. Investigation'
 description: "W.E.B. Du Bois in The Crisis (1916) exposes arson and terror in Cherokee as an NAACP probe showing racial violence and labor-driven dispossession."
 author: Nash, Royal Freeman
 date: Mar. 1916
-categories: 
-  - ""
+categories: []
+subjects:
+  - Racial arson and terror against Black communities
+  - Racially-motivated dispossession of Black property
+  - Anti-Black expulsions and pogroms
+  - Labor competition and tenant-farmer conflict
+  - Civil rights investigations by the NAACP
+people:
+  - W. E. B. Du Bois
+  - Gus Coggins
+  - Otto Sherman
+  - Guy Stringer
+places:
+  - Cherokee County, Georgia
+  - Canton, Georgia
+  - Forsyth County, Georgia
+organizations:
+  - National Association for the Advancement of Colored People (NAACP)
+  - The Crisis (magazine)
+events:
+  - Forsyth County racial expulsion (1912)
 citation: 
   type: article-journal
   container-title: The Crisis

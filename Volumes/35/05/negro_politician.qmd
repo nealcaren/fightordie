@@ -6,8 +6,26 @@ author:
       given: W.E.B.
       family: Du Bois
 date: May 1928
-categories: 
-  - ""
+categories: []
+subjects:
+  - Municipal machine politics and graft
+  - Voting rights and political representation of African Americans
+  - Jim Crow laws and racial segregation
+  - African American electoral strategy and political alliances
+people:
+  - William Hale Thompson
+  - Herbert Hoover
+  - Alfred E. Smith
+  - Charles S. Deneen
+places:
+  - Chicago, Illinois
+  - New York City, New York
+  - Philadelphia, Pennsylvania
+organizations:
+  - Tammany Hall
+  - Democratic Party (United States)
+events:
+  - United States Presidential Election (1928)
 citation: 
   type: article-journal
   container-title: The Crisis

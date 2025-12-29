@@ -6,8 +6,21 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1917
-categories: 
-  - ""
+categories: []
+subjects:
+  - Racism — United States
+  - Jim Crow laws
+  - Civil rights — United States
+  - Democracy — United States
+  - Abolitionist movement
+people:
+  - W. E. B. Du Bois
+places:
+  - Paris, France
+  - United States
+  - Washington, D.C., United States
+events:
+  - Storming of the Bastille (1789)
 citation: 
   type: article-journal
   container-title: The Crisis

@@ -6,8 +6,20 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1918
-categories: 
-  - ""
+categories: []
+subjects:
+  - Black enfranchisement (voting rights)
+  - Southern white labor politics
+  - White supremacist political leadership
+  - Race relations in the Jim Crow South
+people:
+  - W. E. B. Du Bois
+  - Benjamin R. Tillman
+  - Coleman L. Blease
+  - James K. Vardaman
+places:
+  - South Carolina
+  - Southern United States
 citation: 
   type: article-journal
   container-title: The Crisis

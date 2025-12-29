@@ -6,8 +6,22 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1930
-categories: 
-  - ""
+categories: []
+subjects:
+  - Consumer boycotts
+  - Employment discrimination — retail trade
+  - Discriminatory retail practices (pricing and goods quality)
+  - Retail segregation in Black neighborhoods
+  - Black press activism and consumer campaigns
+places:
+  - Chicago
+  - New York
+  - Philadelphia
+  - Pittsburgh
+  - Indianapolis
+organizations:
+  - Consumers' League
+  - The Chicago Whip
 citation: 
   type: article-journal
   container-title: The Crisis

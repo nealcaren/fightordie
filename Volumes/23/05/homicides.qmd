@@ -6,8 +6,22 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1921
-categories: 
-  - ""
+categories: []
+subjects:
+  - Homicide statistics
+  - Racial violence against African Americans (murders)
+  - Racist propaganda and statistical manipulation
+  - Media bias and press misrepresentation of race
+  - Southern United States racial demography and violence
+people:
+  - W. E. B. Du Bois
+  - Frederick L. Hoffman
+places:
+  - United States
+  - Southern United States
+organizations:
+  - The Spectator
+  - The Crisis
 citation: 
   type: article-journal
   container-title: The Crisis

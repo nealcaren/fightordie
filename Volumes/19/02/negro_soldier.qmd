@@ -6,8 +6,26 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jun. 1919
-categories: 
-  - ""
+categories: []
+subjects:
+  - Military discrimination against African Americans
+  - African American military service in World War I
+  - Segregation in the United States Army
+  - Racial stereotyping and press attacks on Black soldiers
+people:
+  - W.E.B. Du Bois
+  - Secretary of War (United States)
+  - Inspector General (United States Army)
+places:
+  - France
+  - Des Moines, Iowa
+organizations:
+  - The Crisis (magazine)
+  - Harvey's Weekly
+  - United States War Department
+events:
+  - Argonne Offensive (1918)
+  - World War I (1914-1918)
 citation: 
   type: article-journal
   container-title: The Crisis

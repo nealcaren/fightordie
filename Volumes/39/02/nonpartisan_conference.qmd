@@ -6,8 +6,25 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1932
-categories: 
-  - ""
+categories: []
+subjects:
+  - Black political power
+  - Economic emancipation of African Americans
+  - Distribution of national income
+  - State control and democratic direction of industry (public ownership)
+  - Consumer cooperatives
+people:
+  - W. E. B. Du Bois
+  - Oscar De Priest
+  - Kelly Miller
+places:
+  - Washington, D.C.
+  - New York, N.Y.
+organizations:
+  - Non-Partisan Negro Conference
+  - The Crisis
+events:
+  - Non-Partisan Negro Conference (1931)
 citation: 
   type: article-journal
   container-title: The Crisis

@@ -6,9 +6,20 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Nov. 1910
-categories: 
+categories:
   - Housing
-  - Segregation
+  - Segregationsubjects:
+  - Residential segregation
+  - Housing discrimination
+  - Property values and race
+  - Racial prejudice
+  - Race-based municipal ordinances
+places:
+  - Baltimore, Maryland
+  - Druid Hill Avenue (Baltimore)
+  - McCulloh Street (Baltimore)
+organizations:
+  - Baltimore City Council
 citation: 
   type: article-journal
   container-title: The Crisis

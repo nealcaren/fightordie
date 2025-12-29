@@ -6,8 +6,21 @@ author:
       given: W.E.B.
       family: Du Bois
 date: May 1913
-categories: 
-  - ""
+categories: []
+subjects:
+  - Vigilance committees (African American local civic organizations)
+  - Federation of local civil-rights groups into NAACP branches
+  - Legal and legislative advocacy against racial discrimination
+  - Jim Crow laws and color caste
+  - Public advocacy and grassroots organizing (press, petitions, mass meetings)
+people:
+  - W. E. B. Du Bois
+  - Members of local vigilance committees (unnamed activists)
+places:
+  - United States
+  - New York, New York
+organizations:
+  - National Association for the Advancement of Colored People (NAACP)
 citation: 
   type: article-journal
   container-title: The Crisis

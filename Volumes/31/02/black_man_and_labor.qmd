@@ -6,8 +6,25 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jun. 1925
-categories: 
-  - ""
+categories: []
+subjects:
+  - Labor organizing among African Americans
+  - Trade unionism — Pullman porters
+  - Employer anti-union tactics (Pullman Company)
+  - Communism and African Americans
+  - Attitudes toward Soviet industrialization and reforms
+people:
+  - W. E. B. Du Bois
+places:
+  - Chicago, Illinois
+  - Soviet Russia (USSR)
+  - Washington, D.C.
+organizations:
+  - Pullman Company
+  - The Crisis (magazine)
+  - African American Communist organizations
+events:
+  - Chicago meeting of colored Communists (1925)
 citation: 
   type: article-journal
   container-title: The Crisis

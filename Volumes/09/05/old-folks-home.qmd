@@ -6,8 +6,26 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1915
-categories: 
-  - ""
+categories: []
+subjects:
+  - African American eldercare institutions
+  - African American philanthropy and mutual aid
+  - Race-based philanthropy and endowments
+  - Institutional fundraising and support for Black charities
+people:
+  - Eliza Bryant
+  - Primus Mason
+  - Elizabeth C. Carter
+  - W. E. B. Du Bois
+places:
+  - Cleveland, Ohio
+  - Philadelphia, Pennsylvania
+  - Springfield, Massachusetts
+  - New Bedford, Massachusetts
+organizations:
+  - Home for Aged Colored People (Cleveland, Ohio)
+  - Home for Aged and Infirm Colored Persons (Philadelphia, Pennsylvania)
+  - Cleveland Federation for Charity and Philanthropy
 citation: 
   type: article-journal
   container-title: The Crisis

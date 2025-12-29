@@ -6,8 +6,18 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1934
-categories: 
-  - ""
+categories: []
+subjects:
+  - Racial segregation (Jim Crow laws)
+  - Educational inequality — segregated public schooling
+  - Black self-organization and self-help
+  - Race and democracy; civil rights
+places:
+  - South Carolina
+  - Boston, Massachusetts
+  - United States
+organizations:
+  - National Association for the Advancement of Colored People (NAACP)
 citation: 
   type: article-journal
   container-title: The Crisis

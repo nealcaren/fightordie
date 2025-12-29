@@ -6,8 +6,18 @@ author:
       given: W.E.B.
       family: Du Bois
 date: May 1917
-categories: 
-  - ""
+categories: []
+subjects:
+  - Black patriotism and national loyalty
+  - Great Migration (African American migration)
+  - Voting rights and disfranchisement (restoration of the franchise)
+  - Bourbon South / Southern white supremacist reactionaries
+  - Peonage and labor exploitation
+  - Educational inequality and access
+places:
+  - Southern United States
+  - United States
+  - Germany
 citation: 
   type: article-journal
   container-title: The Crisis

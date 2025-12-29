@@ -6,8 +6,19 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Aug. 1930
-categories: 
-  - ""
+categories: []
+subjects:
+  - Freedom of speech (freedom of expression)
+  - Political repression and suppression of dissent
+  - Anti-communist persecution in the United States
+  - Race relations and racial politics in the Southern United States
+  - Mob violence and extrajudicial punishment
+places:
+  - Atlanta, Georgia
+  - Southern United States
+organizations:
+  - Communist Party (United States)
+  - The Crisis (magazine)
 citation: 
   type: article-journal
   container-title: The Crisis

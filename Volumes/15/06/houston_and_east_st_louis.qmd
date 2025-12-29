@@ -6,8 +6,24 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Apr. 1918
-categories: 
-  - ""
+categories: []
+subjects:
+  - Race riots
+  - Lynching
+  - Military justice (courts-martial)
+  - Violence against Black soldiers
+  - Racial disparities in criminal justice
+people:
+  - Corporal Baltimore
+  - Policeman Sparks
+places:
+  - Houston, Texas
+  - East St. Louis, Illinois
+organizations:
+  - United States Army
+events:
+  - Houston Riot (Camp Logan) (1917)
+  - East St. Louis Race Riot (1917)
 citation: 
   type: article-journal
   container-title: The Crisis

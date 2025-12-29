@@ -6,8 +6,26 @@ author:
       given: W.E.B.
       family: Du Bois
 date: May 1914
-categories: 
-  - ""
+categories: []
+subjects:
+  - Racial exclusion in women's organizations
+  - African American women's clubs
+  - Women's club movement (United States)
+  - African American women's activism
+people:
+  - W. E. B. Du Bois
+  - Harriet Bishop Waters
+  - Zona Gale
+places:
+  - Wilberforce, Ohio
+  - New York, New York
+organizations:
+  - General Federation of Women's Clubs
+  - General Federation Magazine
+  - National Association of Colored Women
+  - The Crisis (magazine)
+events:
+  - National Association of Colored Women biennial meeting at Wilberforce (1914)
 citation: 
   type: article-journal
   container-title: The Crisis

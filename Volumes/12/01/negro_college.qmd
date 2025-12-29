@@ -6,8 +6,27 @@ author:
       given: W.E.B.
       family: Du Bois
 date: May 1916
-categories: 
-  - ""
+categories: []
+subjects:
+  - African Methodist Episcopal Church
+  - African American religious history
+  - Pageants — African American
+  - Black cultural nationalism
+  - Centennial celebrations (AME Church)
+people:
+  - W.E.B. Du Bois
+  - Richard Allen
+  - Absalom Jones
+places:
+  - Philadelphia, Pennsylvania
+  - New York, New York
+  - Washington, D.C.
+organizations:
+  - African Methodist Episcopal Church
+  - Horizon Guild
+events:
+  - African Methodist Episcopal Church Centennial General Conference (1916)
+  - Star of Ethiopia pageant (1916)
 citation: 
   type: article-journal
   container-title: The Crisis

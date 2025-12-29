@@ -6,8 +6,26 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jan. 1920
-categories: 
-  - ""
+categories: []
+subjects:
+  - African American veterans
+  - Veterans' organizations membership and exclusion
+  - Racial exclusion in veterans' organizations (American Legion)
+  - Civil rights agitation and protest
+  - Voting rights (disenfranchisement comparison)
+people:
+  - W. E. B. Du Bois
+places:
+  - South Carolina
+  - Alabama
+  - Virginia
+  - Minneapolis, Minnesota
+  - Texas
+organizations:
+  - American Legion
+  - The Crisis
+events:
+  - American Legion National Convention (Minneapolis) (1919)
 citation: 
   type: article-journal
   container-title: The Crisis

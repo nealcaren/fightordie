@@ -6,8 +6,26 @@ author:
       given: W.E.B.
       family: Du Bois
 date: April 1921
-categories: 
-  - ""
+categories: []
+subjects:
+  - Pan-Africanism
+  - Anti-colonialism
+  - Black internationalism
+  - Steamship transportation and communications
+people:
+  - W. E. B. Du Bois
+places:
+  - Paris, France
+  - Europe
+  - Africa
+  - West Indies
+  - United States
+organizations:
+  - Pan-African Congress
+  - The Crisis (magazine)
+events:
+  - First Pan-African Congress (1919)
+  - Second Pan-African Congress (1921)
 citation: 
   type: article-journal
   container-title: The Crisis

@@ -6,8 +6,26 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1921
-categories: 
-  - ""
+categories: []
+subjects:
+  - Socialism -- International aspects
+  - Public ownership of industry
+  - Industrial democracy
+  - Labor movement
+  - Economic policy -- United States
+people:
+  - W. E. B. Du Bois
+places:
+  - Russia
+  - Germany
+  - Czechoslovakia
+  - United States
+  - Japan
+organizations:
+  - The Crisis (Magazine)
+  - Socialist parties and governments
+events:
+  - World War I (1914-1918)
 citation: 
   type: article-journal
   container-title: The Crisis

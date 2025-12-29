@@ -6,8 +6,20 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jun. 1926
-categories: 
-  - ""
+categories: []
+subjects:
+  - Harlem (New York, N.Y.) — social life and culture
+  - Representation of African Americans in literature
+  - Racial stereotyping and caricature in fiction
+  - Black nightlife and cabarets
+  - Literary criticism — artistic merit and truthfulness
+people:
+  - W. E. B. Du Bois
+  - Carl Van Vechten
+places:
+  - Harlem (New York, N.Y.)
+organizations:
+  - The Crisis (NAACP magazine)
 citation: 
   type: article-journal
   container-title: The Crisis

@@ -6,8 +6,23 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1922
-categories: 
-  - ""
+categories: []
+subjects:
+  - Anti-lynching legislation
+  - Lynching
+  - Political advertising and propaganda
+  - Mass media campaigns and press publicity
+  - Race relations — United States
+people:
+  - W. E. B. Du Bois
+  - Leonidas C. Dyer
+places:
+  - United States
+organizations:
+  - National Association for the Advancement of Colored People (NAACP)
+  - The Crisis (magazine)
+events:
+  - Dyer Anti-Lynching Bill Campaign (1921-1922)
 citation: 
   type: article-journal
   container-title: The Crisis

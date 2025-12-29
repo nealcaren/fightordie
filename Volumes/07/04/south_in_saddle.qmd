@@ -6,8 +6,22 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1914
-categories: 
-  - ""
+categories: []
+subjects:
+  - Disfranchisement of African Americans (voting rights)
+  - Congressional apportionment and representation (malapportionment)
+  - Solid South (Southern white political domination)
+  - Racial politics — influence on federal policy
+people:
+  - W.E.B. Du Bois
+  - Woodrow Wilson
+places:
+  - Southern United States
+organizations:
+  - United States Congress
+  - Democratic Party (United States)
+events:
+  - Presidential Election (1912)
 citation: 
   type: article-journal
   container-title: The Crisis

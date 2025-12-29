@@ -6,8 +6,21 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1921
-categories: 
-  - ""
+categories: []
+subjects:
+  - Board governance (nonprofit organizations)
+  - Nonprofit executive leadership
+  - Nonprofit fundraising and accountability
+  - Race and gender in organizational leadership
+people:
+  - W. E. B. Du Bois
+  - Mary White Ovington
+  - James Weldon Johnson
+places:
+  - Detroit, Michigan
+organizations:
+  - National Association for the Advancement of Colored People (NAACP)
+  - The Crisis (magazine)
 citation: 
   type: article-journal
   container-title: The Crisis

@@ -6,8 +6,20 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jun. 1911
-categories: 
-  - ""
+categories: []
+subjects:
+  - Convict leasing (penal labor) in the American South
+  - Lynching and mob violence
+  - White supremacy and racial violence
+  - Christianity and racial justice (religious critique of racism)
+people:
+  - Jesus Christ
+  - W. E. B. Du Bois
+places:
+  - Georgia (U.S. state)
+organizations:
+  - Georgia convict leasing system
+  - The Crisis (magazine)
 citation: 
   type: article-journal
   container-title: The Crisis

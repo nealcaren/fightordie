@@ -6,8 +6,24 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1915
-categories: 
-  - ""
+categories: []
+subjects:
+  - Grandfather clause (voting)
+  - Voting rights — African Americans
+  - Educational inequality — Southern Black public schools
+  - Jim Crow laws and disfranchisement
+  - Labor and political disfranchisement of white and Black workers
+people:
+  - W. E. B. Du Bois
+  - Dred Scott
+places:
+  - Southern United States
+  - United States
+organizations:
+  - Supreme Court of the United States
+  - The Crisis (magazine)
+events:
+  - Guinn v. United States (1915)
 citation: 
   type: article-journal
   container-title: The Crisis

@@ -6,8 +6,21 @@ author:
       given: W.E.B.
       family: Du Bois
 date: May 1916
-categories: 
-  - ""
+categories: []
+subjects:
+  - Public schools — Southern United States — Social aspects
+  - Educational inequality — African Americans
+  - Racial social control through schooling
+  - Education and democracy
+  - Vocational/servant training for African American students
+people:
+  - W. E. B. Du Bois
+places:
+  - Southern United States
+  - Charleston (South Carolina)
+organizations:
+  - The News and Courier (Charleston, South Carolina)
+  - The Crisis (magazine)
 citation: 
   type: article-journal
   container-title: The Crisis

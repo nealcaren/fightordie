@@ -6,8 +6,25 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1928
-categories: 
-  - ""
+categories: []
+subjects:
+  - African American suffrage
+  - Voter turnout and political apathy (United States)
+  - Voter suppression and disfranchisement
+  - Nonpartisan voter mobilization campaigns
+  - Democracy and civic responsibility
+people:
+  - Augustus G. Dill
+  - John Hays Hammond
+  - W. E. B. Du Bois
+places:
+  - United States
+organizations:
+  - National Civic Federation
+  - The Crisis (magazine)
+events:
+  - National Civic Federation get-out-the-vote campaign (1926)
+  - United States federal elections (1922, 1924, 1926)
 citation: 
   type: article-journal
   container-title: The Crisis

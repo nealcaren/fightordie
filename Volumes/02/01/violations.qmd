@@ -6,8 +6,19 @@ author:
       given: W.E.B.
       family: Du Bois
 date: May 1911
-categories: 
-  - ""
+categories: []
+subjects:
+  - Property rights — African Americans
+  - Racial prejudice — social and economic discrimination
+  - Wage discrimination and employment bias
+  - Municipal policies undermining Black property rights
+  - Mob violence and legal impunity (lynching and race riots)
+  - Legacy of slavery and emancipation on labor habits
+  - Labor discipline and work habits of freedmen
+  - Thrift and savings as strategies for economic uplift
+places:
+  - Southern United States
+  - United States
 citation: 
   type: article-journal
   container-title: The Crisis

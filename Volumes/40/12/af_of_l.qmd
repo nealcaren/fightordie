@@ -6,8 +6,22 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Dec. 1933
-categories: 
-  - ""
+categories: []
+subjects:
+  - Racial exclusion in labor unions
+  - Open shop movement
+  - Craft unionism and labor elitism (skilled-worker privilege)
+  - Employer–labor collusion and company-controlled labor peace
+  - National Recovery Administration (NRA) and labor policy
+people:
+  - William Green
+  - Henry Ford
+places:
+  - Cleveland, Ohio
+  - West Virginia
+organizations:
+  - American Federation of Labor (A.F. of L.)
+  - National Recovery Administration (NRA)
 citation: 
   type: article-journal
   container-title: The Crisis

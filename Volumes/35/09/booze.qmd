@@ -6,8 +6,23 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Sep. 1928
-categories: 
-  - ""
+categories: []
+subjects:
+  - Republican Party and African American voters
+  - Social exclusion and racial snubbing in political contexts
+  - African American women and party loyalty
+  - Political machine politics
+people:
+  - Mary Booze
+  - Isaiah T. Montgomery
+  - W. E. B. Du Bois
+places:
+  - Washington, D.C.
+organizations:
+  - Republican Party
+  - The Crisis
+events:
+  - Conference of Republican Committee Women in Washington (1928)
 citation: 
   type: article-journal
   container-title: The Crisis

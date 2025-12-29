@@ -6,8 +6,26 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Aug. 1928
-categories: 
-  - ""
+categories: []
+subjects:
+  - African American suffrage and disenfranchisement
+  - Voter education and mobilization
+  - Electoral strategy of the Negro electorate
+  - Great Migration (Black migration from South to North)
+  - Electoral demographics and voting distribution by state
+people:
+  - W. E. B. Du Bois
+places:
+  - United States
+  - Southern United States
+  - District of Columbia
+  - New York (State)
+organizations:
+  - The Crisis (magazine)
+  - United States Census (1920)
+events:
+  - United States Presidential Election (1928)
+  - United States Presidential Election (1920)
 citation: 
   type: article-journal
   container-title: The Crisis

@@ -6,8 +6,25 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jan. 1926
-categories: 
-  - ""
+categories: []
+subjects:
+  - Labor organizing — Pullman porters
+  - Employer coercion and anti-union tactics (spying, bribery)
+  - African American press and editorial silence
+  - Federal government corruption and misuse of office (Coolidge administration)
+  - Race and employment — use of Filipino labor as intimidation tactic
+people:
+  - W. E. B. Du Bois
+  - Calvin Coolidge
+  - Mark Sullivan
+places:
+  - Chicago, Illinois
+  - Memphis, Tennessee
+  - Miami, Florida
+organizations:
+  - Pullman Company
+  - The Crisis (magazine)
+  - Brooklyn Daily Eagle
 citation: 
   type: article-journal
   container-title: The Crisis

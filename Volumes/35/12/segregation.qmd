@@ -6,8 +6,23 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Dec. 1928
-categories: 
-  - ""
+categories: []
+subjects:
+  - Federal workplace segregation
+  - Employment discrimination in the United States federal civil service
+  - Public accommodations discrimination in government cafeterias and facilities
+  - Civil rights litigation and legal testing of discriminatory practices
+  - Racial barriers to appointment and promotion in federal employment
+people:
+  - W. E. B. Du Bois
+  - Woodrow Wilson
+  - Warren G. Harding
+places:
+  - Washington, D.C.
+organizations:
+  - National Association for the Advancement of Colored People (NAACP)
+  - Library of Congress
+  - United States federal government
 citation: 
   type: article-journal
   container-title: The Crisis

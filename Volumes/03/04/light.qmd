@@ -6,8 +6,23 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1912
-categories: 
-  - ""
+categories: []
+subjects:
+  - Racial stereotyping — "child" Negro myth
+  - African American education and academic study (fellowships for Negro studies)
+  - Philanthropy in Black education (Phelps-Stokes Fund)
+  - Southern race relations and the color line
+people:
+  - W. E. B. Du Bois
+places:
+  - Southern United States
+  - Virginia
+  - Georgia
+organizations:
+  - Phelps-Stokes Fund
+  - University of Virginia
+  - University of Georgia
+  - The Crisis (magazine)
 citation: 
   type: article-journal
   container-title: The Crisis

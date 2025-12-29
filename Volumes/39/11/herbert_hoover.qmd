@@ -6,8 +6,27 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Nov. 1932
-categories: 
-  - ""
+categories: []
+subjects:
+  - Voting rights — disfranchisement
+  - Lily-White movement (Republican Party)
+  - Race-hatred and anti-Black campaigning
+  - Racial patronage and political appointments
+  - Employment discrimination in rail and industrial labor
+people:
+  - Herbert Hoover
+  - W. E. B. Du Bois
+  - William N. Doak
+  - John J. Parker
+places:
+  - Southern United States
+  - West Virginia
+  - North Carolina
+organizations:
+  - Republican Party
+  - Hoover administration
+events:
+  - U.S. Presidential Election (1928)
 citation: 
   type: article-journal
   container-title: The Crisis

@@ -3,8 +3,24 @@ title: 'Houston: An N.A.A.C.P. Investigation'
 description: "W.E.B. Du Bois in The Crisis (1918) links Houston's riot to police brutality and racial injustice, documenting harm and new Black migration"
 author: Gruening, Martha
 date: May 1918
-categories: 
-  - ""
+categories: []
+subjects:
+  - Police brutality
+  - Military discrimination against Black soldiers
+  - Racial riots and mutinies
+  - African American internal migration (Great Migration)
+  - Race relations in Southern cities
+people:
+  - W. E. B. Du Bois
+  - Corporal Baltimore
+places:
+  - Houston, Texas
+  - Camp Logan (Houston, Texas)
+organizations:
+  - National Association for the Advancement of Colored People (NAACP)
+  - United States Army
+events:
+  - Houston Riot (1917)
 citation: 
   type: article-journal
   container-title: The Crisis

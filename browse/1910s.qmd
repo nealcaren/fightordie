@@ -1,0 +1,54 @@
+---
+title: "1910s: The Founding Years"
+description: "W.E.B. Du Bois's writings from The Crisis during the 1910s, covering the NAACP's founding, WWI, and the Great Migration"
+listing:
+  contents: ../../Volumes
+  type: table
+  sort: "date"
+  date-format: "YYYY (MMM)"
+  page-size: 50
+  fields: [date, title, description]
+  filter-ui: true
+  include:
+    date: "[1910-01-01..1919-12-31]"
+---
+
+## The Founding Decade (1910-1919)
+
+W.E.B. Du Bois launched *The Crisis* in November 1910 as the official magazine of the newly formed NAACP. Throughout the 1910s, he used the magazine to document racial violence, advocate for voting rights, and shape a new vision of Black identity and political consciousness.
+
+### Historical Context
+
+**1910-1914: Building the Movement**
+- NAACP founded (1909-1910)
+- Escalating lynching and racial violence
+- Disenfranchisement solidifies across the South
+- Debate over Booker T. Washington's approach
+
+**1915-1919: War and Migration**
+- The Great Migration begins (1915)
+- U.S. enters World War I (1917)
+- East St. Louis race riot (1917)
+- Houston Mutiny and military injustice (1917)
+- "Red Summer" of race riots (1919)
+
+### Major Themes
+
+**Anti-Lynching Campaign**
+Du Bois documented every lynching, pushing for federal legislation and exposing the failure of local justice.
+
+**Voting Rights & Political Power**
+Constant focus on disenfranchisement, voter registration, and the power of the ballot.
+
+**World War I**
+From "Close Ranks" to disillusionment - tracing Du Bois's evolving stance on Black military service and the fight for democracy at home.
+
+**The Great Migration**
+Documenting and analyzing the mass movement of Black southerners to northern cities.
+
+**"New Negro" Identity**
+Laying groundwork for cultural and political transformation of the 1920s.
+
+---
+
+Use the search box below to find specific topics or browse chronologically.

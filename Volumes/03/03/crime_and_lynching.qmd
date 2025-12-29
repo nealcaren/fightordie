@@ -6,8 +6,23 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jan. 1912
-categories: 
-  - ""
+categories: []
+subjects:
+  - Lynching
+  - Vigilante mob violence
+  - Anti-lynching advocacy
+  - Vagrancy laws and abuses
+  - Criminal justice — racial bias
+people:
+  - W. E. B. Du Bois
+  - Albert W. Gilchrist
+places:
+  - Florida
+  - Lake City, Florida
+  - Jacksonville, Florida
+organizations:
+  - The Crisis (magazine)
+  - Office of the Governor of Florida
 citation: 
   type: article-journal
   container-title: The Crisis

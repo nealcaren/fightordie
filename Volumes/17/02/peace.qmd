@@ -6,8 +6,19 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jun. 1919
-categories: 
-  - ""
+categories: []
+subjects:
+  - World War I aftermath
+  - Peace and reconciliation
+  - International democracy and governance
+  - Postwar social reconstruction
+people:
+  - W. E. B. Du Bois
+places:
+  - Europe
+  - United States
+events:
+  - World War I (1914-1918)
 citation: 
   type: article-journal
   container-title: The Crisis

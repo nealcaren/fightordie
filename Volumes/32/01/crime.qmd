@@ -6,8 +6,24 @@ author:
       given: W.E.B.
       family: Du Bois
 date: May 1926
-categories: 
-  - ""
+categories: []
+subjects:
+  - Racial stereotypes of criminality (myths of Black criminality)
+  - Criminal justice discrimination (police and courts)
+  - Convict lease system (Southern prison labor)
+  - Socioeconomic causes of crime (poverty, ignorance)
+  - Prison and jail conditions; disciplinary abuses
+people:
+  - W.E.B. Du Bois
+places:
+  - Alabama
+  - South Carolina
+  - Florida
+  - New York City, New York
+organizations:
+  - Ku Klux Klan
+  - The New York World
+  - South Carolina legislative committee on prisons
 citation: 
   type: article-journal
   container-title: The Crisis

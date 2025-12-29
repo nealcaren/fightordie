@@ -6,8 +6,19 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1915
-categories: 
-  - ""
+categories: []
+subjects:
+  - African American press
+  - Journalism ethics
+  - Public relations of civil rights organizations
+  - NAACP publicity
+people:
+  - W. E. B. Du Bois
+places:
+  - United States
+organizations:
+  - National Association for the Advancement of Colored People
+  - The Crisis (magazine)
 citation: 
   type: article-journal
   container-title: The Crisis

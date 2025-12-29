@@ -6,8 +6,21 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jun. 1914
-categories: 
-  - ""
+categories: []
+subjects:
+  - Homicide — United States
+  - Racially motivated violence
+  - Race prejudice
+  - Urban homicide rates — United States
+  - Southern race relations
+places:
+  - Memphis, Tennessee
+  - Atlanta, Georgia
+  - New York, New York
+  - Chicago, Illinois
+  - United States
+organizations:
+  - The Crisis (magazine)
 citation: 
   type: article-journal
   container-title: The Crisis

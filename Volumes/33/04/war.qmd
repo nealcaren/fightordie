@@ -6,8 +6,21 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1927
-categories: 
-  - ""
+categories: []
+subjects:
+  - U.S. intervention in Latin America
+  - War profiteering
+  - Pacifism and anti-war activism
+  - Economic exploitation of Mexico by foreign interests
+  - Anti-imperialism
+people:
+  - W. E. B. Du Bois
+  - Porfirio Díaz
+places:
+  - Mexico
+  - Nicaragua
+organizations:
+  - United States government
 citation: 
   type: article-journal
   container-title: The Crisis

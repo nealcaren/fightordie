@@ -6,8 +6,22 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1914
-categories: 
-  - ""
+categories: []
+subjects:
+  - Back-to-Africa movement
+  - Black emigration and colonization
+  - African economic development and need for capital
+  - Migration financing and organized planning
+  - Fraudulent emigration schemes and charlatanism
+people:
+  - W. E. B. Du Bois
+  - Unidentified "alleged African chief" (unnamed)
+places:
+  - Oklahoma (state)
+  - Africa (continent)
+  - New York (city)
+organizations:
+  - The Crisis (magazine)
 citation: 
   type: article-journal
   container-title: The Crisis

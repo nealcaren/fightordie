@@ -6,8 +6,26 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1911
-categories: 
-  - ""
+categories: []
+subjects:
+  - School segregation (racial)
+  - Educational inequality
+  - Racial residential segregation
+  - Class-based segregation in education
+  - Anti-Asian segregation in California schools
+people:
+  - W. E. B. Du Bois
+  - Reginald De Courcey
+  - Isaac Baumgarten
+  - Skinny Flynn
+places:
+  - New York (State)
+  - California (State)
+  - Kentucky (State)
+organizations:
+  - The Crisis (magazine)
+  - Catholic Church (parochial schools)
+  - Public school system (United States)
 citation: 
   type: article-journal
   container-title: The Crisis

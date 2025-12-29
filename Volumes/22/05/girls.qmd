@@ -6,8 +6,22 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar.. 1921
-categories: 
-  - ""
+categories: []
+subjects:
+  - Education — African American girls
+  - School discipline — Southern United States
+  - Missionary schools — Southern United States
+  - Interracial educational cooperation
+people:
+  - W. E. B. Du Bois
+places:
+  - Germantown (Philadelphia, Pennsylvania)
+  - Southern United States
+organizations:
+  - Germantown Y.W.C.A.
+  - East Central Field School
+events:
+  - East Central Field School Girls' Conference (1921)
 citation: 
   type: article-journal
   container-title: The Crisis

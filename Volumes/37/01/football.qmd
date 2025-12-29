@@ -6,8 +6,22 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jan. 1930
-categories: 
-  - ""
+categories: []
+subjects:
+  - Racial discrimination in collegiate athletics
+  - Racial prejudice
+  - African American community responses to discrimination
+  - College student activism
+people:
+  - W. E. B. Du Bois
+places:
+  - New York City (New York)
+  - Harlem (New York City)
+  - Georgia (U.S. state)
+organizations:
+  - National Association for the Advancement of Colored People (NAACP)
+  - New York University
+  - The Crisis (magazine)
 citation: 
   type: article-journal
   container-title: The Crisis

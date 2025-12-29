@@ -6,8 +6,24 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jun. 1928
-categories: 
-  - ""
+categories: []
+subjects:
+  - Marriage — African Americans
+  - Education — African Americans
+  - Race relations — United States (color line)
+  - Family life — African Americans
+  - Sexual morality — African Americans
+people:
+  - Du Bois, W. E. B.
+places:
+  - Atlanta (Ga.)
+  - New York (N.Y.)
+  - Atlantic City (N.J.)
+  - Bedale (England)
+organizations:
+  - Atlanta University
+  - Ethical Culture School (New York, N.Y.)
+  - The Crisis
 citation: 
   type: article-journal
   container-title: The Crisis

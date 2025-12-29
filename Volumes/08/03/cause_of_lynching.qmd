@@ -6,8 +6,18 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jan. 1914
-categories: 
-  - ""
+categories: []
+subjects:
+  - Lynching — Causes
+  - Lynching — Social function as racial control
+  - Extrajudicial punishment and mob violence
+  - Criminal justice — Racial discrimination and failure to protect
+  - Press coverage and misinformation in racial violence
+places:
+  - Shreveport, Louisiana
+  - Oklahoma
+organizations:
+  - The Crisis
 citation: 
   type: article-journal
   container-title: The Crisis

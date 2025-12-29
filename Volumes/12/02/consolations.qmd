@@ -6,8 +6,22 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jun. 1916
-categories: 
-  - ""
+categories: []
+subjects:
+  - Gender discrimination in medicine
+  - Professional barriers for women physicians
+  - Racial double standards and chivalry
+  - White supremacy
+  - Racial discrimination against African Americans
+people:
+  - W. E. B. Du Bois
+  - Anna Manning Comfort
+places:
+  - New York City (New York)
+  - United States
+organizations:
+  - Bellevue Hospital (New York City)
+  - The Crisis (magazine)
 citation: 
   type: article-journal
   container-title: The Crisis

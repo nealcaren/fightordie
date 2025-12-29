@@ -3,8 +3,23 @@ title: 'The Burning of Jim Mc Ilherron: An N.A.A.C.P. Investigation'
 description: "In a 1918 Crisis piece, W.E.B. Du Bois documents the lynching of Jim McIlherron, exposing racial violence and the failure of justice in the South."
 author: White, Walter F.
 date: May 1918
-categories: 
-  - ""
+categories: []
+subjects:
+  - Lynching (burning at the stake)
+  - Mob violence and extrajudicial killings
+  - Failure of justice and legal impunity in the Jim Crow South
+  - NAACP anti-lynching investigations
+people:
+  - Jim McIlherron
+  - Walter F. White
+places:
+  - Estill Springs, Tennessee
+  - Franklin County, Tennessee
+organizations:
+  - National Association for the Advancement of Colored People (NAACP)
+  - The Crisis (magazine)
+events:
+  - Burning (lynching) of Jim McIlherron (1918)
 citation: 
   type: article-journal
   container-title: The Crisis

@@ -6,8 +6,24 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jun. 1915
-categories: 
-  - ""
+categories: []
+subjects:
+  - African American historical pageantry
+  - Commemorative Emancipation celebrations
+  - Cultural uplift and race pride through performance
+  - Community organizing for theatrical production
+  - Challenges of staging and rehearsal for mass pageants
+people:
+  - W. E. B. Du Bois
+  - Richard Brown
+places:
+  - New York, New York
+  - Washington, D.C.
+organizations:
+  - The Crisis (magazine)
+events:
+  - New York Emancipation Exposition (1913)
+  - The Star of Ethiopia pageant performances (1913; Washington revival 1915)
 citation: 
   type: article-journal
   container-title: The Crisis

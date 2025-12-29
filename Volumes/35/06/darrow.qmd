@@ -6,8 +6,25 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jun. 1928
-categories: 
-  - ""
+categories: []
+subjects:
+  - Religion and social justice
+  - African American churches — role and criticism
+  - Labor defense and legal advocacy
+  - Disfranchisement of African Americans (voting rights)
+  - Religious freethought and heresy-hunting
+people:
+  - Clarence Darrow
+  - W. E. B. Du Bois
+  - William Lloyd Garrison
+  - Abraham Lincoln
+  - Frederick Douglass
+places:
+  - Washington, D.C.
+  - United States
+organizations:
+  - Negro churches (African American churches)
+  - Christian Church (United States)
 citation: 
   type: article-journal
   container-title: The Crisis

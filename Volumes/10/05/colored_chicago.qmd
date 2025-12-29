@@ -6,8 +6,23 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1915
-categories: 
-  - ""
+categories: []
+subjects:
+  - African American urban population — Chicago (1910s)
+  - Occupational distribution and labor of Black workers (Chicago, 1910)
+  - Education: African American children and Chicago Public Schools (admission, 1873 onward)
+  - Racial segregation and barriers to advancement in Chicago
+  - African American military service: Eighth Regiment (Chicago)
+people:
+  - James A. Johnson (Lt. Col., Eighth Regiment)
+  - O. B. Duncan (Major, Eighth Regiment)
+  - R. R. Jackson (Major, Eighth Regiment)
+  - A. A. Wesley (Major, Eighth Regiment)
+places:
+  - Chicago, Illinois
+organizations:
+  - Eighth Regiment (Illinois National Guard)
+  - Chicago Public Schools
 citation: 
   type: article-journal
   container-title: The Crisis

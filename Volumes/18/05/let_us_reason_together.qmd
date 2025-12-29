@@ -6,8 +6,20 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1919
-categories: 
-  - ""
+categories: []
+subjects:
+  - Lynching
+  - Black self-defense
+  - Mob violence and racial terror
+  - Civil rights — law, order, and justice
+places:
+  - Houston, Texas
+  - East St. Louis, Illinois
+  - Washington, D.C.
+  - Chicago, Illinois
+organizations:
+  - Local police departments
+  - United States (federal government)
 citation: 
   type: article-journal
   container-title: The Crisis

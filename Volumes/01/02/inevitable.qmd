@@ -6,8 +6,18 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Dec. 1910
-categories: 
-  - Discrimination
+categories:
+  - Discriminationsubjects:
+  - Racial discrimination
+  - Racial stereotyping
+  - Lynching—United States
+  - Police misconduct—Race relations
+  - Public accommodations—Race relations
+  - Social injustice—Race relations
+places:
+  - United States
+organizations:
+  - The Crisis (magazine)
 citation: 
   type: article-journal
   container-title: The Crisis

@@ -6,8 +6,25 @@ author:
       given: W.E.B.
       family: Du Bois
 date: May 1911
-categories: 
-  - Social Equality
+categories:
+  - Social Equalitysubjects:
+  - Social equality for African Americans
+  - Education and uplift of African Americans
+  - Race and religion (Southern religious paternalism and hypocrisy)
+  - Jim Crow / color line and racial segregation
+  - Labor, honest work and social uplift
+people:
+  - W. E. B. Du Bois
+  - James K. Vardaman
+  - Benjamin R. Tillman
+places:
+  - Southern United States
+  - Atlanta, Georgia
+organizations:
+  - The Missionary Voice (Southern Methodist periodical)
+  - Methodist Episcopal Church, South
+  - Atlanta University
+  - Paine College
 citation: 
   type: article-journal
   container-title: The Crisis

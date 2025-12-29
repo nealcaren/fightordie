@@ -1,0 +1,42 @@
+---
+title: "Volume & Issue Index"
+description: "Browse W.E.B. Du Bois's articles organized by volume and issue of The Crisis magazine"
+format:
+  html:
+    toc: true
+    toc-depth: 2
+---
+
+*The Crisis* was published monthly from 1910-1934. Browse Du Bois's contributions by volume and issue.
+
+## Volume Organization
+
+Each volume of *The Crisis* typically covered one year, with 6-12 issues per volume.
+
+### Early Years (1910-1914)
+
+- [Volume 1 (Nov 1910 - Oct 1911)](../Volumes/01/) - The founding year
+- [Volume 2 (May 1911 - Apr 1912)](../Volumes/02/) - Establishing the voice
+- [Volume 3 (Nov 1911 - Oct 1912)](../Volumes/03/) - Growing influence
+- [Volume 4 (May 1912 - Apr 1913)](../Volumes/04/)
+- [Volume 5 (Nov 1912 - Oct 1913)](../Volumes/05/)
+- [Volume 6 (May 1913 - Apr 1914)](../Volumes/06/)
+- [Volume 7 (Nov 1913 - Oct 1914)](../Volumes/07/)
+
+### World War I Era (1915-1919)
+
+- [Volume 8-17](../Volumes/) - The Great Migration and WWI
+
+### 1920s: Post-War & Harlem Renaissance
+
+- [Volume 18-35](../Volumes/) - Jazz Age and cultural flowering
+
+### Depression Era (1930-1934)
+
+- [Volume 36-41](../Volumes/) - Economic crisis and Du Bois's final years at The Crisis
+
+## Alternative Views
+
+- [Chronological listing of all articles](../listing.qmd)
+- [Browse by topic](../browse.qmd)
+- [Browse by time period](../browse.qmd#browse-by-time-period)

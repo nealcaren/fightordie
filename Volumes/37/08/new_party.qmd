@@ -6,8 +6,23 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Aug. 1930
-categories: 
-  - ""
+categories: []
+subjects:
+  - Labor Party movement — United States
+  - Public ownership of utilities and coal industry
+  - Social welfare programs — pensions, unemployment insurance, health insurance, child welfare
+  - Taxation for social welfare — income tax, inheritance tax, land value tax
+  - Voting rights restoration — African Americans (disfranchisement)
+  - Anti-imperialism and opposition to colonial domination
+people:
+  - W. E. B. Du Bois
+  - Members, League for Independent Political Action (collective)
+places:
+  - New York, New York
+  - Great Britain
+organizations:
+  - League for Independent Political Action
+  - Labour Party (Great Britain)
 citation: 
   type: article-journal
   container-title: The Crisis

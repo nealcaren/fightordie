@@ -6,8 +6,22 @@ author:
       given: W.E.B.
       family: Du Bois
 date: July 1920
-categories:
-  - ""
+categories: []
+subjects:
+  - Military discrimination
+  - Segregation in the armed forces
+  - African American military service
+  - African American officers
+  - National Guard organization
+people:
+  - W.E.B. Du Bois
+  - Newton D. Baker
+places:
+  - United States
+organizations:
+  - War Department (United States)
+  - United States Army
+  - National Guard (United States)
 citation: 
   type: article-journal
   container-title: The Crisis

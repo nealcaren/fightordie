@@ -6,8 +6,25 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1915
-categories: 
-  - ""
+categories: []
+subjects:
+  - Lynching
+  - Antisemitism
+  - Pardons and commutations
+  - Due process (criminal justice)
+  - Racial prejudice — Southern United States
+people:
+  - Leo Frank
+  - John M. Slaton
+  - W. E. B. Du Bois
+places:
+  - Atlanta, Georgia
+  - Georgia (U.S. state)
+organizations:
+  - Supreme Court of the United States
+  - Supreme Court of Georgia
+events:
+  - Leo Frank case (1915)
 citation: 
   type: article-journal
   container-title: The Crisis

@@ -6,8 +6,21 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1911
-categories: 
-  - ""
+categories: []
+subjects:
+  - Lynching
+  - Mob violence
+  - White supremacy
+  - Racial violence in the United States
+  - African American resistance to racial violence
+people:
+  - W. E. B. Du Bois
+places:
+  - Coatesville, Pennsylvania
+  - Chester County, Pennsylvania
+  - Philadelphia, Pennsylvania
+events:
+  - Coatesville lynching (1911)
 citation: 
   type: article-journal
   container-title: The Crisis

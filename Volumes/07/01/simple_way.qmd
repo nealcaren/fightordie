@@ -6,8 +6,17 @@ author:
       given: W.E.B.
       family: Du Bois
 date: May 1913
-categories: 
-  - ""
+categories: []
+subjects:
+  - Accommodationist/self‑help rhetoric (racial uplift ideology)
+  - Jim Crow segregation (segregated facilities, "Jim Crow" cars)
+  - Disfranchisement and voter suppression
+  - Economic exploitation (starvation wages, peonage)
+  - Black homeownership and residential dispossession
+places:
+  - Southern United States
+  - Boston (Massachusetts)
+  - Galveston (Texas)
 citation: 
   type: article-journal
   container-title: The Crisis

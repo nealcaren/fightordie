@@ -6,8 +6,26 @@ author:
       given: W.E.B.
       family: Du Bois
 date: May 1924
-categories: 
-  - ""
+categories: []
+subjects:
+  - Voting (electoral choice)
+  - Race and politics
+  - Economic inequality
+  - Ku Klux Klan (opposition)
+  - United States occupation of Haiti
+people:
+  - W. E. B. Du Bois
+  - Robert M. La Follette
+  - Burton K. Wheeler
+  - Calvin Coolidge
+  - Charles G. Dawes
+places:
+  - Haiti
+organizations:
+  - Ku Klux Klan
+  - Railroad brotherhoods (anti-Black factions)
+events:
+  - United States presidential election (1924)
 citation: 
   type: article-journal
   container-title: The Crisis

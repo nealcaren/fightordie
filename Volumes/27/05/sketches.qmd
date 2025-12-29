@@ -7,8 +7,24 @@ author:
       given: W.E.B.
       family: Du Bois
 date: March 1924
-categories: 
-  - ""
+categories: []
+subjects:
+  - Colonialism / Imperialism in Africa
+  - Pan-Africanism
+  - Whiteness and racial attitudes in Europe
+  - Racial discrimination in the U.S. diplomatic service
+people:
+  - W. E. B. Du Bois
+  - Jan Smuts
+  - Hunt (American consul of African descent)
+places:
+  - Africa
+  - Canary Islands (Teneriffe / Tenerife)
+  - France — St. Étienne
+  - England
+organizations:
+  - British Imperial Conference
+  - United States Department of State
 citation: 
   type: article-journal
   container-title: The Crisis

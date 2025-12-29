@@ -6,8 +6,25 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1917
-categories: 
-  - ""
+categories: []
+subjects:
+  - Lynching — United States
+  - Race riots — United States
+  - Racial justice and hypocrisy in U.S. foreign policy
+  - Progressive Era politics (United States)
+people:
+  - Theodore Roosevelt
+  - Woodrow Wilson
+places:
+  - East St. Louis, Illinois
+  - Brownsville, Texas
+  - United States
+organizations:
+  - Progressive Party (United States)
+  - Woodrow Wilson administration
+events:
+  - East St. Louis Race Riot (1917)
+  - Brownsville Affair (1906)
 citation: 
   type: article-journal
   container-title: The Crisis

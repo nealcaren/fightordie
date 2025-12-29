@@ -6,8 +6,19 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1933
-categories: 
-  - ""
+categories: []
+subjects:
+  - African American population — United States — 1790-1930
+  - Birth rates and fertility — African Americans — early 20th century
+  - Internal migration (Great Migration) — African Americans
+  - Public health and child welfare — African Americans
+  - Education and socioeconomic status — impact on family formation — African Americans
+places:
+  - United States
+  - Black Belt (Southern United States)
+organizations:
+  - United States Census Bureau
+  - The Crisis (magazine)
 citation: 
   type: article-journal
   container-title: The Crisis

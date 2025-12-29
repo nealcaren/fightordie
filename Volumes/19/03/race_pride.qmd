@@ -6,8 +6,19 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jan. 1920
-categories: 
-  - ""
+categories: []
+subjects:
+  - Race pride
+  - Racial segregation
+  - Self-government and national self-determination
+  - Colonialism and anti-colonial sentiment
+  - Race relations and racial distrust
+places:
+  - Africa
+  - Asia
+  - China
+  - Uganda
+  - England
 citation: 
   type: article-journal
   container-title: The Crisis

@@ -6,8 +6,27 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Sep. 1928
-categories: 
-  - ""
+categories: []
+subjects:
+  - Lynching
+  - Jim Crow laws and segregation
+  - Voter suppression and disfranchisement (African Americans)
+  - Party politics and race (Democratic Party)
+  - Racial discrimination in religion (Catholic Church, United States)
+people:
+  - W. E. B. Du Bois
+  - Alfred E. Smith
+  - Herbert Hoover
+places:
+  - Houston, Texas
+  - New York (State)
+  - Arkansas
+organizations:
+  - Democratic Party (United States)
+  - Catholic Church (United States)
+events:
+  - Democratic National Convention (Houston) (1928)
+  - United States presidential election (1928)
 citation: 
   type: article-journal
   container-title: The Crisis

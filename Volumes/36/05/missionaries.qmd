@@ -6,8 +6,24 @@ author:
       given: W.E.B.
       family: Du Bois
 date: May 1929
-categories: 
-  - ""
+categories: []
+subjects:
+  - Racial discrimination in missionary societies
+  - African American missionaries to Africa
+  - Missionary recruitment and training policies
+  - Race and religion in the United States and Europe
+  - American Protestant mission boards' policy
+people:
+  - W. E. B. Du Bois
+  - Eric North
+places:
+  - Africa
+  - United States
+organizations:
+  - Southern Baptist Convention (Foreign Mission Board)
+  - Sudan Interior Mission
+  - American Bible Society
+  - African Inland Mission
 citation: 
   type: article-journal
   container-title: The Crisis

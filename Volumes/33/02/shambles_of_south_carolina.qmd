@@ -3,8 +3,26 @@ title: 'The Shambles of South Carolina'
 description: "W.E.B. Du Bois in The Crisis (1926) exposes lynching, Klan violence and legal failure in South Carolina, arguing racial terror corrodes democracy."
 author: White, Walter
 date: Jun. 1926
-categories: 
-  - ""
+categories: []
+subjects:
+  - Lynching
+  - Ku Klux Klan violence
+  - Racial terror and mob violence
+  - Criminal justice failure (South Carolina)
+  - Undermining of democratic rights by racial terror
+people:
+  - W. E. B. Du Bois
+  - Bertha Lowman
+  - Demon Lowman
+  - Clarence Lowman
+  - Sam Lowman
+places:
+  - Aiken, South Carolina
+  - Saluda County, South Carolina
+organizations:
+  - Ku Klux Klan
+events:
+  - Lowman family lynching (1925)
 citation: 
   type: article-journal
   container-title: The Crisis

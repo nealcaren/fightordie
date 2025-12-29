@@ -6,8 +6,27 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1924
-categories: 
-  - ""
+categories: []
+subjects:
+  - Political patronage and corruption
+  - Voting rights — African Americans; disfranchisement
+  - Lynching and racial violence
+  - Party politics — African American voters; nonpartisan voting
+  - African American press — partisanship and patronage
+people:
+  - W. E. B. Du Bois
+  - Calvin Coolidge
+  - John W. Davis
+  - Robert M. La Follette
+places:
+  - Southern United States
+organizations:
+  - National Association for the Advancement of Colored People (NAACP)
+  - Republican Party (United States)
+  - Democratic Party (United States)
+  - The Crisis
+events:
+  - United States Presidential Election (1924)
 citation: 
   type: article-journal
   container-title: The Crisis

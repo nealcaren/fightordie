@@ -6,8 +6,27 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jan. 1933
-categories: 
-  - ""
+categories: []
+subjects:
+  - Western imperialism in Asia
+  - Pan-Asianism
+  - Asian anti-colonial unity and solidarity
+  - Criticism of the League of Nations
+  - Racial leadership of non-European peoples
+people:
+  - W. E. B. Du Bois
+  - Henry L. Stimson
+  - Ramsay MacDonald
+places:
+  - China
+  - Japan
+  - Manchuria
+  - Shanghai
+organizations:
+  - League of Nations
+events:
+  - Japanese invasion of Manchuria (1931)
+  - Battle of Shanghai / Shanghai conflict (1932)
 citation: 
   type: article-journal
   container-title: The Crisis

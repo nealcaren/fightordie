@@ -6,8 +6,25 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1927
-categories: 
-  - ""
+categories: []
+subjects:
+  - Labor policy in Soviet Russia
+  - State-directed industry and nationalization
+  - Workers' education and vocational training in Soviet Russia
+  - Dictatorship of the Proletariat (Soviet political theory)
+  - Comparative democracy and capitalism (United States vs. Soviet Russia)
+people:
+  - W. E. B. Du Bois
+  - Bolshevik leadership
+places:
+  - Russia
+  - Moscow
+  - Kiev
+organizations:
+  - Communist Party (Russia)
+  - Soviet government
+events:
+  - Bolshevik Revolution (1917)
 citation: 
   type: article-journal
   container-title: The Crisis

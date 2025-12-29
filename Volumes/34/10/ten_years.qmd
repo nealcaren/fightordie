@@ -6,8 +6,27 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Dec. 1927
-categories: 
-  - ""
+categories: []
+subjects:
+  - Russian Revolution
+  - Tsarist autocracy (Czarist tyranny)
+  - Soviet political system / Soviet democracy
+  - Western press coverage of Soviet Russia (misinformation)
+  - Soviet economic policy and reconstruction
+people:
+  - W. E. B. Du Bois
+  - Nicholas II (Czar of Russia)
+  - Vladimir Lenin
+places:
+  - Russia
+  - United States
+  - Western Europe
+organizations:
+  - Union of Soviet Socialist Republics (USSR)
+  - Russian Imperial Court
+events:
+  - Russian Revolution (1917)
+  - Formation of the Union of Soviet Socialist Republics (1922)
 citation: 
   type: article-journal
   container-title: The Crisis

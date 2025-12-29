@@ -6,8 +6,25 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jun. 1917
-categories: 
-  - ""
+categories: []
+subjects:
+  - African American military service (World War I)
+  - Military segregation and discrimination
+  - Officer training camps for African American officers
+  - Selective Service (World War I draft) fairness
+  - Racial representation in military administration
+people:
+  - Newton Diehl Baker
+  - Woodrow Wilson
+  - W. E. B. Du Bois
+places:
+  - United States
+organizations:
+  - United States Army
+  - United States Department of War
+events:
+  - World War I (1914-1918)
+  - Selective Service (United States draft) (1917)
 citation: 
   type: article-journal
   container-title: The Crisis

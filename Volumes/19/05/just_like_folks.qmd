@@ -6,8 +6,27 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1920
-categories: 
-  - ""
+categories: []
+subjects:
+  - Racial discrimination — United States
+  - African American veterans — treatment and reintegration
+  - Civil liberties (criminalization of dissent) — United States
+  - Labor repression and deportations (postwar Red Scare) — United States
+  - United States foreign policy and the Treaty of Versailles / League of Nations
+people:
+  - W. E. B. Du Bois
+  - Robert Lansing
+places:
+  - United States
+  - Germany
+  - Fiume (Rijeka)
+organizations:
+  - League of Nations
+  - United States Senate
+  - United States Congress
+events:
+  - World War I (1914-1918)
+  - Paris Peace Conference / Treaty of Versailles (1919)
 citation: 
   type: article-journal
   container-title: The Crisis

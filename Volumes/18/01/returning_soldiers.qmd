@@ -6,8 +6,24 @@ author:
       given: W.E.B.
       family: Du Bois
 date: May 1919
-categories: 
-  - ""
+categories: []
+subjects:
+  - Lynching
+  - Disfranchisement (voting rights)
+  - Educational inequality
+  - Economic exploitation and labor discrimination
+  - Racial defamation and segregation
+  - Black veterans — postwar civil rights claims
+places:
+  - France
+  - United States
+  - Washington, D.C.
+  - Southern United States
+organizations:
+  - The Crisis
+  - United States Army
+events:
+  - World War I (1914-1918)
 citation: 
   type: article-journal
   container-title: The Crisis

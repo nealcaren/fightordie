@@ -6,8 +6,22 @@ author:
       given: W.E.B.
       family: Du Bois
 date: February 1921
-categories: 
-  - ""
+categories: []
+subjects:
+  - Racial discrimination in the commercial recording industry
+  - Access of African American musicians to phonograph recording
+  - Development of Black-owned recording businesses
+  - Blues (African American musical genre) in the record market
+  - Representation of Negro music in recorded media
+people:
+  - Roland Hayes
+  - Harry T. Burleigh
+  - R. Nathaniel Dett
+places:
+  - Southern United States
+organizations:
+  - National Association of Negro Musicians
+  - Phonograph companies (commercial record companies)
 citation: 
   type: article-journal
   container-title: The Crisis

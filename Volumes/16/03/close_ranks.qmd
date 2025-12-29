@@ -6,8 +6,23 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jan. 1918
-categories: 
-  - ""
+categories: []
+subjects:
+  - African American military service and patriotism
+  - Race relations during wartime (United States)
+  - Strategic suspension of civil rights grievances during war
+  - German militarism as threat to democracy
+  - Defense of democracy / internationalism
+people:
+  - W. E. B. Du Bois
+places:
+  - United States
+  - Germany
+  - Europe
+organizations:
+  - The Crisis (NAACP magazine)
+events:
+  - World War I (1914-1918)
 citation: 
   type: article-journal
   container-title: The Crisis

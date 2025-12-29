@@ -1,0 +1,46 @@
+---
+title: "Lynching & Racial Violence"
+description: "W.E.B. Du Bois's writings documenting lynching, racial violence, and the anti-lynching campaign from The Crisis (1910-1934)"
+listing:
+  contents: ../../Volumes
+  type: table
+  sort: "date"
+  date-format: "YYYY (MMM)"
+  page-size: 50
+  fields: [date, title, description, categories]
+  filter-ui: true
+  include:
+    categories: "Lynching & Racial Violence"
+---
+
+## The Anti-Lynching Campaign
+
+Between 1910 and 1934, W.E.B. Du Bois used *The Crisis* to wage a relentless campaign against lynching. His writings combined moral outrage, statistical analysis, and detailed documentation of individual cases. Du Bois exposed the lie that lynching was a response to crime, arguing instead that it was a tool of racial terror designed to maintain white supremacy.
+
+### Key Themes
+
+**Documentation & Exposure**
+Du Bois documented nearly every lynching, publishing victims' names, locations, and circumstances. This meticulous record-keeping created an undeniable historical archive.
+
+**The Dyer Anti-Lynching Bill**
+Throughout the early 1920s, Du Bois advocated for federal anti-lynching legislation, particularly the Dyer Bill. He exposed Southern opposition and critiqued Northern political compromise.
+
+**Economic Motives**
+Du Bois demonstrated how lynching served economic interests, suppressing Black labor organizing and eliminating economic competitors.
+
+**Gender & Sexual Violence**
+His writings addressed the myth of the "Black rapist" used to justify lynching, while also documenting violence against Black women.
+
+**Regional Patterns**
+Articles traced lynching's geographic distribution and its relationship to political and economic conditions in different regions.
+
+### Major Events Covered
+
+- **East St. Louis Riot (1917)** - Industrial conflict turned deadly
+- **Red Summer (1919)** - Wave of racial violence across multiple cities
+- **1920s Anti-Lynching Campaigns** - Push for federal legislation
+- **Individual Cases** - Detailed accounts of specific lynchings and their aftermath
+
+---
+
+Use the search box below to find specific cases, locations, or themes within these articles.

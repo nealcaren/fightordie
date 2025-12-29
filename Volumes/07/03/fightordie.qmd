@@ -6,8 +6,19 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jan. 1914
-categories: 
-  - ""
+categories: []
+subjects:
+  - NAACP membership drives
+  - Racial prejudice and racial discrimination
+  - Legal redress (civil rights litigation)
+  - Public protest, organized publicity, and petitions
+people:
+  - W. E. B. Du Bois
+places:
+  - United States
+organizations:
+  - National Association for the Advancement of Colored People (NAACP)
+  - The Crisis (magazine)
 citation: 
   type: article-journal
   container-title: The Crisis

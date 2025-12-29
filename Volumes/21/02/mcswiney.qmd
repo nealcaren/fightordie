@@ -6,8 +6,24 @@ author:
       given: W.E.B.
       family: Du Bois
 date: December 1920
-categories: 
-  - ""
+categories: []
+subjects:
+  - Hunger strikes (political protest)
+  - Political martyrdom
+  - Irish independence movement
+  - Civil disobedience
+  - Democracy and political legitimacy
+people:
+  - Terence MacSwiney
+  - W. E. B. Du Bois
+places:
+  - Cork, Ireland
+  - Ireland
+organizations:
+  - The Crisis (magazine)
+  - Irish Republican movement
+events:
+  - Terence MacSwiney hunger strike (1920)
 citation: 
   type: article-journal
   container-title: The Crisis

@@ -6,8 +6,23 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Nov. 1928
-categories: 
-  - ""
+categories: []
+subjects:
+  - Solid South (Southern political control and disfranchisement)
+  - Electoral College—United States—Presidential elections
+  - Voting rights—Disfranchisement—Southern United States
+  - Jim Crow laws—Southern United States
+  - Third parties—United States—Populist/Socialist/Progressive movements
+people:
+  - Du Bois, W. E. B.
+  - Lincoln, Abraham
+places:
+  - Southern United States (Solid South)
+  - Texas
+  - Oklahoma
+organizations:
+  - Democratic Party (United States)
+  - Republican Party (United States)
 citation: 
   type: article-journal
   container-title: The Crisis

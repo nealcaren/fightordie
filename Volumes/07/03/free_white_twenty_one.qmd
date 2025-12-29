@@ -6,8 +6,19 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jan. 1914
-categories: 
-  - ""
+categories: []
+subjects:
+  - Voting rights and disfranchisement
+  - Racial prejudice and white supremacy
+  - Economic oppression: peonage, rack rent, and low wages
+  - Labor–race relations and competition between white and Black workers
+  - Civil rights organizing and NAACP membership drive
+places:
+  - United States
+  - South Carolina
+  - Illinois
+organizations:
+  - National Association for the Advancement of Colored People (NAACP)
 citation: 
   type: article-journal
   container-title: The Crisis

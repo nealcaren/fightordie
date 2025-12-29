@@ -6,8 +6,22 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1911
-categories: 
-  - ""
+categories: []
+subjects:
+  - Racial equality
+  - Race prejudice and racism
+  - Interracial cooperation
+  - Lynching
+  - International conferences on race
+people:
+  - W. E. B. Du Bois
+places:
+  - United States
+  - London, England
+organizations:
+  - National Association for the Advancement of Colored People
+events:
+  - First Universal Races Congress (1911)
 citation: 
   type: article-journal
   container-title: The Crisis

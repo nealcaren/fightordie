@@ -6,8 +6,23 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1912
-categories: 
-  - ""
+categories: []
+subjects:
+  - Chinese nationalism and revolution
+  - Racism and racial stereotyping of Asians
+  - White supremacy
+  - Non-Western modernity and civilization narratives
+  - International race relations (race and color problem)
+people:
+  - W. E. B. Du Bois
+  - Desperate Desmond Hobson
+places:
+  - China
+  - United States
+organizations:
+  - The Crisis (magazine)
+events:
+  - Xinhai Revolution (1911-1912)
 citation: 
   type: article-journal
   container-title: The Crisis

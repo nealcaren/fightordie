@@ -6,8 +6,23 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1911
-categories: 
-  - Social Equality
+categories:
+  - Social Equalitysubjects:
+  - Social equality
+  - Civil rights
+  - Political rights
+  - Segregation in public accommodations
+  - Accommodationism (racial politics)
+people:
+  - W. E. B. Du Bois
+places:
+  - Kansas City, Missouri
+  - Denver, Colorado
+  - Texas (United States)
+  - The American South
+organizations:
+  - The Crisis (magazine)
+  - Southern white newspapers
 citation: 
   type: article-journal
   container-title: The Crisis

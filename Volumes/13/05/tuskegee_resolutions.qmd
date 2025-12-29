@@ -6,8 +6,23 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1917
-categories: 
-  - ""
+categories: []
+subjects:
+  - Great Migration (African American migration to the Northern United States)
+  - Lynching
+  - Law enforcement and legal injustice (failure to enforce anti-lynching protections)
+  - Accommodationist Negro leadership (Tuskegee ideology and advice to remain in the South)
+people:
+  - W. E. B. Du Bois
+  - Booker T. Washington
+places:
+  - Southern United States
+  - Northern United States
+organizations:
+  - Tuskegee Institute
+  - The Crisis (magazine)
+events:
+  - Tuskegee Conference (1917)
 citation: 
   type: article-journal
   container-title: The Crisis

@@ -6,8 +6,24 @@ author:
       given: W.E.B.
       family: Du Bois
 date: January 1921
-categories: 
-  - ""
+categories: []
+subjects:
+  - Voting rights — African Americans (enfranchisement)
+  - Lynching and racial violence
+  - Jim Crow laws and disfranchisement
+  - White supremacy — Southern United States (Bourbon South)
+  - Great Migration / Black migration to northern cities
+people:
+  - W. E. B. Du Bois
+  - Editor of the Macon Telegraph (unnamed)
+places:
+  - Southern United States
+  - Macon, Georgia
+  - Florida
+  - Chicago, Illinois
+organizations:
+  - The Macon Telegraph (newspaper)
+  - The Crisis (magazine)
 citation: 
   type: article-journal
   container-title: The Crisis

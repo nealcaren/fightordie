@@ -6,8 +6,18 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jan. 1914
-categories: 
-  - ""
+categories: []
+subjects:
+  - Higher education for African Americans
+  - Educational uplift and social mobility
+  - Vocational education versus liberal arts education
+  - Educational inequality and access
+  - Youth training, moral development, and character formation
+  - Labor dignity and preparation for work
+places:
+  - United States
+organizations:
+  - Colleges and universities (United States)
 citation: 
   type: article-journal
   container-title: The Crisis

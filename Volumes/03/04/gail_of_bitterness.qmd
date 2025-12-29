@@ -6,8 +6,20 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1912
-categories: 
-  - ""
+categories: []
+subjects:
+  - Lynching
+  - Anti-lynching advocacy
+  - Minstrelsy and racial caricature
+  - Role of the Black press in exposing racial injustice
+  - Racial antagonism and racial violence
+people:
+  - W. E. B. Du Bois
+places:
+  - United States
+  - Southern United States
+organizations:
+  - The Crisis (magazine)
 citation: 
   type: article-journal
   container-title: The Crisis

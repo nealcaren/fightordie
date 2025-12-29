@@ -6,9 +6,27 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Dec. 1910
-categories: 
+categories:
   - Lynching
-  - Tactics
+  - Tacticssubjects:
+  - Lynching (United States)
+  - Anti-lynching agitation and protest
+  - Racial prejudice and double standards
+  - Press coverage of racial violence
+people:
+  - Jack Johnson
+  - James J. Jeffries
+places:
+  - United States
+  - Texas
+  - Mexico
+  - Vienna, Austria
+organizations:
+  - The New York Times
+  - Associated Press
+  - Die Zeit
+events:
+  - Johnson-Jeffries fight (1910)
 citation: 
   type: article-journal
   container-title: The Crisis

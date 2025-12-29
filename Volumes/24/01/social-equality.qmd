@@ -6,8 +6,20 @@ author:
       given: W.E.B.
       family: Du Bois
 date: May 1922
-categories: 
-  - ""
+categories: []
+subjects:
+  - Social equality — African Americans
+  - Race relations — United States
+  - Racial prejudice and contempt
+  - Racial reconciliation and non‑retaliation
+people:
+  - W. E. B. Du Bois
+  - Booker T. Washington
+  - Robert R. Moton
+places:
+  - United States
+organizations:
+  - The Crisis (magazine)
 citation: 
   type: article-journal
   container-title: The Crisis

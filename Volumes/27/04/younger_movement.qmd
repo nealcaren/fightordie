@@ -6,8 +6,25 @@ author:
       given: W.E.B.
       family: Du Bois and Alan Locke
 date: Feb. 1924
-categories: 
-  - ""
+categories: []
+subjects:
+  - Harlem Renaissance (African American literary movement)
+  - African American modernist literature
+  - Race-conscious (race-minded) fiction
+  - Gender and sexuality in African American literature
+people:
+  - Jean Toomer
+  - Jessie Redmon Fauset
+  - Langston Hughes
+  - Countee Cullen
+  - Claude McKay
+  - Walter Francis White
+places:
+  - Georgia (United States)
+  - New York, New York (United States)
+organizations:
+  - The Crisis (magazine)
+  - Boni & Liveright (publisher)
 citation: 
   type: article-journal
   container-title: The Crisis

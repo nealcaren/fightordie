@@ -6,8 +6,24 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jan. 1930
-categories: 
-  - ""
+categories: []
+subjects:
+  - Lynching
+  - Disfranchisement (voting rights)
+  - Educational inequality — public school funding
+  - Racial segregation — public accommodations (libraries, hospitals, parks)
+  - Economic inequality and wage discrimination
+  - Arts and media representation of African Americans
+people:
+  - George Jean Nathan
+  - Coleman Livingston Blease
+  - James Thomas Heflin
+places:
+  - Southern United States
+  - United States
+organizations:
+  - American Mercury
+  - United States Congress
 citation: 
   type: article-journal
   container-title: The Crisis

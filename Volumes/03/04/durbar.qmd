@@ -6,8 +6,27 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1912
-categories: 
-  - ""
+categories: []
+subjects:
+  - British colonialism in India
+  - Indian nationalism and demand for political autonomy
+  - Popular education initiatives in India
+  - Racial discrimination in military awards
+  - Imperial pageantry and coronation symbolism (Durbar)
+people:
+  - W. E. B. Du Bois
+  - George V
+places:
+  - India
+  - Delhi (India)
+  - Calcutta (India)
+  - London (England)
+organizations:
+  - British monarchy
+  - Indian princely states
+events:
+  - Delhi Durbar (1911)
+  - Transfer of the Indian capital from Calcutta to Delhi (1911)
 citation: 
   type: article-journal
   container-title: The Crisis

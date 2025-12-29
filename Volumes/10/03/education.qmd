@@ -6,8 +6,20 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jan. 1915
-categories: 
-  - ""
+categories: []
+subjects:
+  - Educational inequality for African Americans
+  - Industrial and vocational training (policy and advocacy)
+  - Restriction of liberal/academic education for Black students
+  - Racial discrimination in education (white paternalism/"friend" philanthropy)
+  - Threats to democracy through educational limitations
+people:
+  - W. E. B. Du Bois
+places:
+  - Harlem (New York, NY)
+  - United States
+organizations:
+  - The Crisis (magazine)
 citation: 
   type: article-journal
   container-title: The Crisis

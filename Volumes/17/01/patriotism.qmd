@@ -6,8 +6,18 @@ author:
       given: W.E.B.
       family: Du Bois
 date: May 1919
-categories: 
-  - ""
+categories: []
+subjects:
+  - Patriotism (American national identity)
+  - Democracy and international justice
+  - Labor rights and labor movement
+  - Socialism and political ideology
+  - Emigration, migration, and national belonging
+places:
+  - United States
+  - Germany
+events:
+  - World War I (1914-1918)
 citation: 
   type: article-journal
   container-title: The Crisis

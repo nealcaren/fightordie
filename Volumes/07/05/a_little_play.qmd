@@ -6,8 +6,20 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1914
-categories: 
-  - ""
+categories: []
+subjects:
+  - Racial prejudice
+  - Racial discrimination
+  - Social equality
+  - Interracial marriage
+  - Racial stereotypes
+  - Claims of racial inferiority
+people:
+  - Du Bois, W. E. B. (William Edward Burghardt), 1868-1963
+places:
+  - United States
+organizations:
+  - The Crisis (magazine)
 citation: 
   type: article-journal
   container-title: The Crisis

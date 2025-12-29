@@ -3,8 +3,21 @@ title: 'Some Chicagoans of Note'
 description: "W.E.B. Du Bois in The Crisis (1915) profiles Black Chicago leaders, physicians, politicians, clergy and entrepreneurs, linking race, civic life and business."
 author: Du Bois, W.E.B.
 date: Mar. 1915
-categories: 
-  - ""
+categories: []
+subjects:
+  - African American civic leadership — Chicago
+  - African American military service — 8th Illinois Infantry (Illinois National Guard)
+  - School dental examinations (public school dentistry; public‑health inspections)
+  - African American dentists — professional organization and civic service
+people:
+  - Franklin A. Denison
+  - Charles E. Bentley
+places:
+  - Chicago, Illinois
+organizations:
+  - 8th Illinois Infantry (Illinois National Guard)
+  - Odontographic Society
+  - Chicago College of Dental Surgery
 citation: 
   type: article-journal
   container-title: The Crisis

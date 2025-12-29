@@ -6,8 +6,22 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jun. 1913
-categories: 
-  - ""
+categories: []
+subjects:
+  - Anti-miscegenation legislation
+  - Primary election opposition to racist candidates
+  - NAACP organizational strategy
+  - African American voter mobilization
+  - Race hatred and political agitation
+people:
+  - W. E. B. Du Bois
+places:
+  - United States
+  - District of Columbia
+  - Iowa
+organizations:
+  - National Association for the Advancement of Colored People (NAACP)
+  - The Crisis (magazine)
 citation: 
   type: article-journal
   container-title: The Crisis

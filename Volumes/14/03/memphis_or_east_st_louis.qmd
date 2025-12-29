@@ -6,8 +6,25 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jan. 1917
-categories: 
-  - ""
+categories: []
+subjects:
+  - Lynching and racial mob violence
+  - Forced labor and peonage
+  - Labor union discrimination (craft unions)
+  - Internal Black migration (Great Migration)
+  - Agricultural education for African Americans
+  - Federal protection and anti-lynching policy
+people:
+  - W. E. B. Du Bois
+  - Charles Augustono
+places:
+  - Memphis, Tennessee
+  - East St. Louis, Illinois
+  - Georgia (U.S. state)
+organizations:
+  - Bricklayers, Masons and Plasterers' International Union of America
+  - Colored Workers' Conference (Fort Valley, Georgia)
+  - The Crisis (magazine)
 citation: 
   type: article-journal
   container-title: The Crisis

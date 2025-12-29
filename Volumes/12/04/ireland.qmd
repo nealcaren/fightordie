@@ -6,8 +6,19 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1916
-categories: 
-  - ""
+categories: []
+subjects:
+  - British colonialism in Ireland
+  - Irish–African American race relations
+  - Racialized labor competition in Northern U.S. cities
+  - Black solidarity with Irish independence
+places:
+  - Ireland
+  - England
+  - New York City
+events:
+  - New York Draft Riots (1863)
+  - Easter Rising / Irish Revolt (1916)
 citation: 
   type: article-journal
   container-title: The Crisis

@@ -6,8 +6,17 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1914
-categories: 
-  - ""
+categories: []
+subjects:
+  - Indian resistance in Natal (South Africa)
+  - Chinese resistance in Panama
+  - Colonialism and imperialism
+  - Racial oppression
+  - International racial solidarity
+  - Labor organizing
+places:
+  - Natal (South Africa)
+  - Panama
 citation: 
   type: article-journal
   container-title: The Crisis

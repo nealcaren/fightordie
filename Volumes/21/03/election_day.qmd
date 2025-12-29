@@ -3,8 +3,24 @@ title: 'Election Day in Florida'
 description: "W.E.B. Du Bois in The Crisis (1921) documents Ku Klux violence and voter suppression in Florida, exposing threats to Black democracy."
 author: White, Walter F.
 date: Jan. 1921
-categories: 
-  - ""
+categories: []
+subjects:
+  - Voter suppression
+  - Election-related racial violence
+  - Ku Klux Klan (racial terrorism)
+  - Lynching and extrajudicial killings
+  - White supremacy and racial intimidation
+  - Black education and social advancement
+people:
+  - W. E. B. Du Bois
+places:
+  - Florida
+  - Jacksonville, Florida
+organizations:
+  - Ku Klux Klan
+  - The Crisis (magazine)
+events:
+  - 1920 elections in Florida (1920)
 citation: 
   type: article-journal
   container-title: The Crisis

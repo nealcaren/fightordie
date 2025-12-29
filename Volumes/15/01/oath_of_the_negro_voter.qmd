@@ -6,8 +6,21 @@ author:
       given: W.E.B.
       family: Du Bois
 date: May 1918
-categories: 
-  - ""
+categories: []
+subjects:
+  - Black suffrage and enfranchisement
+  - Ballot protection and voter integrity
+  - Political party evaluation and independent voting
+  - Economic justice and redistribution (land and capital)
+  - NAACP political advocacy and civic organizing
+people:
+  - W.E.B. Du Bois
+  - African American voters (Negro electorate)
+places:
+  - United States
+organizations:
+  - National Association for the Advancement of Colored People (NAACP)
+  - The Crisis (magazine)
 citation: 
   type: article-journal
   container-title: The Crisis

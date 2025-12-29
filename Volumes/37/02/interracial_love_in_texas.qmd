@@ -6,8 +6,25 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1930
-categories: 
-  - ""
+categories: []
+subjects:
+  - Interracial cooperation (Texas)
+  - Race relations
+  - Social equality between races
+  - Interracial marriage
+  - Newspaper editorials on race relations
+people:
+  - W. E. B. Du Bois
+  - R. M. Woods
+places:
+  - Texas
+  - Dallas, Texas
+  - Houston, Texas
+organizations:
+  - Texas Commission on Inter-racial Co-operation
+  - Houston Post-Dispatch
+  - Sam Houston State Teachers' College
+  - The Crisis
 citation: 
   type: article-journal
   container-title: The Crisis

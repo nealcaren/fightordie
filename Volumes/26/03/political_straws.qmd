@@ -6,8 +6,27 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jan. 1923
-categories: 
-  - ""
+categories: []
+subjects:
+  - African American voting behavior
+  - Federal anti-lynching legislation
+  - Jim Crow laws and disfranchisement
+  - Great Migration (Northern migration of African Americans)
+people:
+  - William E. Dever
+  - Arthur C. Lueder
+  - Joseph Medill McCormick
+  - Edward J. Brundage
+places:
+  - Chicago, Illinois
+  - Baltimore, Maryland
+  - Southern United States
+organizations:
+  - Republican Party (United States)
+  - Democratic Party (United States)
+  - Chicago Tribune
+events:
+  - Chicago mayoral election (1923)
 citation: 
   type: article-journal
   container-title: The Crisis

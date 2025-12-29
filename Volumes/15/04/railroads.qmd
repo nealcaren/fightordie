@@ -6,8 +6,22 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1918
-categories: 
-  - ""
+categories: []
+subjects:
+  - Federal ownership of railroads
+  - Segregation in public transportation (Jim Crow laws)
+  - Labor union exclusion of African Americans (railroad unions)
+  - Access to civil service employment for Black workers
+  - Black political mobilization against Southern oligarchy
+places:
+  - United States
+  - Washington, D.C.
+  - Southern United States
+organizations:
+  - Railway unions (conductors', engineers', switchmen's, firemen's unions)
+  - United States government
+events:
+  - United States Railroad Administration — federal takeover of railroads (1917)
 citation: 
   type: article-journal
   container-title: The Crisis

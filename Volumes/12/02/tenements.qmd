@@ -6,8 +6,24 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jun. 1916
-categories: 
-  - ""
+categories: []
+subjects:
+  - Residential segregation
+  - Philanthropic housing initiatives
+  - Urban housing conditions for African Americans
+  - Real estate discrimination and exclusionary practices
+  - Anti-segregation advocacy and transparency in housing
+people:
+  - W.E.B. Du Bois
+places:
+  - New York, New York
+  - Chicago, Illinois
+  - Harlem (New York), New York
+organizations:
+  - Suburban Homes Company
+  - Urban League
+  - Harlem Property Owners' Improvement Corporation
+  - Young Men's Christian Association (Y.M.C.A.) — New York (Colored branch)
 citation: 
   type: article-journal
   container-title: The Crisis

@@ -6,8 +6,23 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jan. 1928
-categories: 
-  - ""
+categories: []
+subjects:
+  - Racial discrimination in disaster relief
+  - Coerced labor of Black flood refugees
+  - Segregation and differential treatment in refugee camps
+  - Complicity of humanitarian organizations (American Red Cross)
+  - Military enforcement and racial coercion by the Mississippi National Guard
+people:
+  - W. E. B. Du Bois
+places:
+  - Vicksburg, Mississippi
+  - Mississippi
+  - Mississippi River
+organizations:
+  - American Red Cross
+  - Mississippi National Guard
+  - The Crisis (NAACP magazine)
 citation: 
   type: article-journal
   container-title: The Crisis

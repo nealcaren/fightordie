@@ -6,8 +6,24 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Dec. 1928
-categories: 
-  - ""
+categories: []
+subjects:
+  - Disfranchisement and voting rights (African Americans)
+  - Racial politics and party alignment (Republican and Democratic Parties)
+  - Lynching and racial violence
+  - Exploitation of Black labor / labor rights (African Americans)
+  - Third-party political movements for racial justice and democracy
+people:
+  - W.E.B. Du Bois
+  - Herbert Hoover
+places:
+  - Southern United States
+  - Northern United States
+organizations:
+  - Republican Party (United States)
+  - Democratic Party (United States)
+events:
+  - United States presidential election (1928)
 citation: 
   type: article-journal
   container-title: The Crisis

@@ -6,8 +6,20 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jan. 1911
-categories: 
-  - ""
+categories: []
+subjects:
+  - Black leadership disputes
+  - Critique of Booker T. Washington
+  - Attribution of motives (envy) in political debate
+  - Race leadership accountability and public criticism
+people:
+  - W. E. B. Du Bois
+  - Booker T. Washington
+places:
+  - United States
+  - Europe
+organizations:
+  - National Association for the Advancement of Colored People (NAACP)
 citation: 
   type: article-journal
   container-title: The Crisis

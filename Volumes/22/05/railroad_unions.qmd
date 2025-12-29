@@ -6,8 +6,18 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1921
-categories: 
-  - ""
+categories: []
+subjects:
+  - Railroad labor unions — exclusion of Black workers (United States)
+  - Employment discrimination — race (United States)
+  - Labor monopolies — exclusionary practices
+  - Economic exploitation of unskilled and common laborers
+  - Labor movement — race relations (United States)
+  - Political consequences of union exclusion for democratic support
+places:
+  - United States
+organizations:
+  - Railroad labor unions (United States)
 citation: 
   type: article-journal
   container-title: The Crisis

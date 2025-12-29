@@ -6,8 +6,26 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Sep. 1931
-categories: 
-  - ""
+categories: []
+subjects:
+  - Communism and African Americans
+  - NAACP legal strategy and leadership
+  - Disfranchisement and Jim Crow laws
+  - Labor, economic reform and the Great Depression
+  - Racial discrimination in the criminal justice system
+people:
+  - W. E. B. Du Bois
+places:
+  - Scottsboro, Alabama
+  - United States
+  - Soviet Union
+organizations:
+  - National Association for the Advancement of Colored People (NAACP)
+  - Communist Party (United States)
+  - Democratic Party (United States)
+events:
+  - Scottsboro trials (1931)
+  - Russian Revolution (1917)
 citation: 
   type: article-journal
   container-title: The Crisis

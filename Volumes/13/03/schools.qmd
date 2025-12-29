@@ -6,8 +6,25 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jan. 1917
-categories: 
-  - ""
+categories: []
+subjects:
+  - Educational inequality
+  - Secondary education for African Americans
+  - Higher education for African Americans
+  - Philanthropic control of Black education
+  - Historically Black colleges and universities
+people:
+  - W. E. B. Du Bois
+  - Thomas Jesse Jones
+places:
+  - Durham, North Carolina
+  - Atlanta, Georgia
+  - Southern United States
+organizations:
+  - General Education Board
+  - National Training School (Durham, North Carolina)
+  - Atlanta University
+  - Fisk University
 citation: 
   type: article-journal
   container-title: The Crisis

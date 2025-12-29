@@ -6,8 +6,27 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jan. 1921
-categories: 
-  - ""
+categories: []
+subjects:
+  - Racist libel in film
+  - Ku Klux Klan glorification in popular culture
+  - NAACP-organized protests against racist representations
+  - Arrests and legal suppression of peaceful demonstrators
+people:
+  - W. E. B. Du Bois
+  - Helen Curtis
+  - Laura Jean Rollock
+  - Katherine Johnson
+  - Edward F. Frazier
+places:
+  - Boston, Massachusetts
+  - New York, New York (Capitol Theatre)
+organizations:
+  - NAACP (National Association for the Advancement of Colored People)
+  - YMCA (Young Men's Christian Association)
+  - Ku Klux Klan
+events:
+  - NAACP protest against The Birth of a Nation; arrests at Capitol Theatre, New York (1920–1921)
 citation: 
   type: article-journal
   container-title: The Crisis

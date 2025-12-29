@@ -6,8 +6,26 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1921
-categories: 
-  - ""
+categories: []
+subjects:
+  - Nonviolent resistance (Satyagraha / non-cooperation)
+  - Indian independence movement (Swaraj)
+  - British colonialism in India
+  - Moral and spiritual leadership in politics
+  - Mass political mobilization and civil disobedience
+people:
+  - Mohandas Karamchand Gandhi
+  - Ben Spoor
+  - Lord Reading
+  - Vladimir Ilyich Lenin
+places:
+  - India
+  - United Kingdom
+organizations:
+  - Indian National Congress
+  - British Labour Party
+events:
+  - Non-Cooperation Movement (1920–1922)
 citation: 
   type: article-journal
   container-title: The Crisis

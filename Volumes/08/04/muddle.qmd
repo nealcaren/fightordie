@@ -6,8 +6,23 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jan. 1914
-categories: 
-  - ""
+categories: []
+subjects:
+  - Racial segregation (public accommodations)
+  - Philanthropy and racial exclusion
+  - Race and social reform
+  - Civil rights advocacy
+  - Access to social services for African Americans
+people:
+  - W.E.B. Du Bois
+places:
+  - Memphis, Tennessee
+  - Southern United States
+organizations:
+  - National Conference of Charities and Correction
+  - Southern Sociological Congress
+  - National Association for the Advancement of Colored People (NAACP)
+  - The Survey
 citation: 
   type: article-journal
   container-title: The Crisis

@@ -6,8 +6,26 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jan. 1911
-categories: 
-  - Disenfranchisement
+categories:
+  - Disenfranchisementsubjects:
+  - Voting rights
+  - Disfranchisement of African Americans
+  - White primary system (voter exclusion)
+  - Jim Crow laws
+  - Newspaper propaganda / Southern political rhetoric
+people:
+  - W. E. B. Du Bois
+  - Benjamin R. Tillman
+  - Oscar W. Underwood
+places:
+  - Virginia
+  - Louisiana
+  - Mississippi
+  - Alabama
+organizations:
+  - The Crisis
+  - New York Evening Post
+  - New Orleans Picayune
 citation: 
   type: article-journal
   container-title: The Crisis

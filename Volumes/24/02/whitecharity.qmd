@@ -6,8 +6,19 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jun. 1922
-categories: 
-  - ""
+categories: []
+subjects:
+  - White philanthropy to African Americans
+  - Reparations for slavery (economic accountability)
+  - Economic exploitation and unpaid labor (legacy of slavery and serfdom)
+  - Social welfare institutions for African Americans (schools, hospitals, orphanages)
+  - Racial self-help and independence (African American self-sufficiency)
+people:
+  - W. E. B. Du Bois
+places:
+  - United States
+organizations:
+  - The Crisis magazine
 citation: 
   type: article-journal
   container-title: The Crisis

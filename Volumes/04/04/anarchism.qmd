@@ -6,8 +6,22 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1912
-categories: 
-  - ""
+categories: []
+subjects:
+  - Debt peonage (peonage and debt servitude)
+  - False arrest and wrongful conviction
+  - Judicial corruption and extortion by local officials
+  - Racialized criminalization of African Americans
+  - White supremacy
+people:
+  - W. E. B. Du Bois
+places:
+  - Southern United States
+  - Alabama
+  - Jefferson County, Alabama
+organizations:
+  - The Crisis (magazine)
+  - Federal grand jury (Jefferson County, Alabama)
 citation: 
   type: article-journal
   container-title: The Crisis

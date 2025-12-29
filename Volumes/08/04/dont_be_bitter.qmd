@@ -6,8 +6,24 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1914
-categories: 
-  - ""
+categories: []
+subjects:
+  - Voting rights (African Americans)
+  - Racial justice and dignity
+  - African American college student activism
+  - Religious missions and race relations
+people:
+  - W. E. B. Du Bois
+  - John R. Mott
+  - William Pickens
+places:
+  - Atlanta, Georgia
+  - United States
+organizations:
+  - Student Volunteer Movement
+  - The Crisis (NAACP journal)
+events:
+  - Colored college students' meeting in Atlanta (1914)
 citation: 
   type: article-journal
   container-title: The Crisis

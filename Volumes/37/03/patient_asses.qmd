@@ -6,8 +6,24 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1930
-categories: 
-  - ""
+categories: []
+subjects:
+  - Pan‑Africanism
+  - Voting rights — South Africa (disfranchisement)
+  - Racial caste system — South Africa
+  - Colonialism — South Africa
+people:
+  - W. E. B. Du Bois
+  - Jan Smuts
+  - Robert R. Moton
+  - J. B. M. Hertzog
+places:
+  - South Africa
+  - New York City
+organizations:
+  - Phelps Stokes Fund
+events:
+  - Jan Smuts Town Hall lecture (1930)
 citation: 
   type: article-journal
   container-title: The Crisis

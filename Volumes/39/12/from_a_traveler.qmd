@@ -6,8 +6,23 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Dec. 1932
-categories: 
-  - ""
+categories: []
+subjects:
+  - Forced labor in Liberia and colonial Africa
+  - Foreign capital and economic imperialism (corporate influence)
+  - Political corruption and graft in Liberia
+  - Colonialism and European racial domination
+  - Racial violence and public humiliation by colonial authorities
+people:
+  - W. E. B. Du Bois
+  - Charles D. B. King
+places:
+  - Liberia
+  - Gold Coast (Accra)
+organizations:
+  - Liberian Government
+  - Liberian Frontier Force
+  - Firestone Tire and Rubber Company
 citation: 
   type: article-journal
   container-title: The Crisis

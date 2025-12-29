@@ -6,8 +6,23 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jun. 1917
-categories: 
-  - ""
+categories: []
+subjects:
+  - Lynching (United States)
+  - African American military service (World War I)
+  - Great Migration — African American industrial migration
+  - Employment discrimination and labor competition
+people:
+  - W. E. B. Du Bois
+places:
+  - United States
+  - Southern United States
+organizations:
+  - Associated Press
+  - United States Army
+events:
+  - World War I (1914-1918)
+  - Reconstruction (1865-1877)
 citation: 
   type: article-journal
   container-title: The Crisis

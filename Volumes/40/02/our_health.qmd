@@ -6,8 +6,23 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1933
-categories: 
-  - ""
+categories: []
+subjects:
+  - Health disparities (African Americans)
+  - Poverty and low wages (African American families)
+  - Racial discrimination in public accommodations and services
+  - Preventive medicine and public health services
+  - Nutrition and household sanitation in crowded housing
+  - Psychological effects of racial discrimination (inferiority complex, stigma)
+people:
+  - W. E. B. Du Bois
+places:
+  - United States
+  - African American urban neighborhoods (United States)
+organizations:
+  - Hospitals
+  - Police departments
+  - Public health agencies
 citation: 
   type: article-journal
   container-title: The Crisis

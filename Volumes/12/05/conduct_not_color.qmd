@@ -6,8 +6,19 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1916
-categories: 
-  - ""
+categories: []
+subjects:
+  - Racial discrimination
+  - Color prejudice / the color line
+  - Social mobility of African Americans
+  - Critique of color-blind ideology
+  - Civil rights rhetoric and public opinion
+people:
+  - W. E. B. Du Bois
+places:
+  - United States
+organizations:
+  - The Crisis
 citation: 
   type: article-journal
   container-title: The Crisis

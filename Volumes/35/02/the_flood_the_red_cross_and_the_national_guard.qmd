@@ -6,8 +6,26 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1928
-categories: 
-  - ""
+categories: []
+subjects:
+  - Flood relief and racial discrimination
+  - Sharecropping and peonage
+  - Racial exploitation of Black labor
+  - National Guard intervention in relief and labor control
+  - Black migration and displacement (Great Migration)
+people:
+  - W. E. B. Du Bois
+  - Herbert Hoover
+places:
+  - Mississippi
+  - Yazoo-Mississippi Delta (Mississippi)
+organizations:
+  - American Red Cross
+  - National Guard (United States)
+  - National Association for the Advancement of Colored People (NAACP)
+events:
+  - Great Mississippi Flood (1927)
+  - Great Migration (1916–1970)
 citation: 
   type: article-journal
   container-title: The Crisis

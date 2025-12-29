@@ -6,8 +6,20 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jun. 1911
-categories: 
-  - ""
+categories: []
+subjects:
+  - Newspaper treatment of African Americans
+  - Press competition and yellow journalism
+  - Journalism ethics and fairness toward African Americans
+  - Representation of African Americans at world's fairs
+people:
+  - Joseph Pulitzer
+  - W. E. B. Du Bois
+places:
+  - New York (N.Y.)
+organizations:
+  - The New York World
+  - New York daily newspapers
 citation: 
   type: article-journal
   container-title: The Crisis

@@ -6,8 +6,23 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jan. 1914
-categories: 
-  - ""
+categories: []
+subjects:
+  - Residential segregation
+  - Housing discrimination (mortgage denial)
+  - Real estate speculation and displacement
+  - Black institutional property ownership
+  - Cooperative/community land acquisition
+people:
+  - W.E.B. Du Bois
+places:
+  - Harlem (Manhattan, New York City)
+  - Manhattan (New York City)
+organizations:
+  - Young Men's Christian Association (YMCA)
+  - Young Women's Christian Association (YWCA)
+  - Colored Music School Settlement
+  - Financial institutions (banks and mortgage lenders)
 citation: 
   type: article-journal
   container-title: The Crisis

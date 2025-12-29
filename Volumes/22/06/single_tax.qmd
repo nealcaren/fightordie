@@ -6,8 +6,21 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Apr. 1921
-categories: 
-  - ""
+categories: []
+subjects:
+  - Single Tax movement (Georgism)
+  - Land monopoly
+  - Land tenure and land reform
+  - Economic inequality
+  - Labor movement
+people:
+  - Henry George
+  - W. E. B. Du Bois
+places:
+  - United States
+organizations:
+  - The Crisis (magazine)
+  - Georgist movement (Single Tax movement)
 citation: 
   type: article-journal
   container-title: The Crisis

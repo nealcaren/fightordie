@@ -6,8 +6,26 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1932
-categories: 
-  - ""
+categories: []
+subjects:
+  - Hospital segregation
+  - Racial discrimination in healthcare
+  - Denial of medical treatment
+  - Jim Crow segregation
+people:
+  - Juliette Derricotte
+  - Ethel B. Gilbert
+  - Elmer S. Imes
+places:
+  - Dalton, Georgia
+  - Whitfield County, Georgia
+  - Chattanooga, Tennessee
+  - Athens, Georgia
+organizations:
+  - Hamilton Memorial Hospital
+  - Fisk University
+  - National Association for the Advancement of Colored People (NAACP)
+  - Commission on Interracial Cooperation
 citation: 
   type: article-journal
   container-title: The Crisis

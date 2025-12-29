@@ -6,8 +6,24 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jan. 1920
-categories: 
-  - ""
+categories: []
+subjects:
+  - British imperialism and colonialism
+  - Land dispossession in Rhodesia (Matabele and Mashona)
+  - Colonial administration and justice for colonized peoples
+  - Economic exploitation and taxation in India
+  - Racial violence and abuses by British authorities
+places:
+  - England (United Kingdom)
+  - Glasgow (Scotland)
+  - Rhodesia (Southern Rhodesia)
+  - India
+  - Paris (France)
+organizations:
+  - British government
+  - British South Africa Company
+events:
+  - Paris Peace Conference (1919)
 citation: 
   type: article-journal
   container-title: The Crisis

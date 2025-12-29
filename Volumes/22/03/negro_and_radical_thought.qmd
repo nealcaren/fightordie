@@ -6,8 +6,26 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jan. 1921
-categories: 
-  - ""
+categories: []
+subjects:
+  - Race and class relations
+  - Labor organizing and strikebreaking
+  - Voting rights and political disenfranchisement
+  - Lynching and racial violence
+  - African American responses to socialism and the Russian Revolution
+people:
+  - W. E. B. Du Bois
+  - Claude McKay
+places:
+  - United States
+  - Russia
+  - Southern United States
+organizations:
+  - National Association for the Advancement of Colored People (NAACP)
+  - The Crisis (magazine)
+  - The Liberator (magazine)
+events:
+  - Russian Revolution (1917)
 citation: 
   type: article-journal
   container-title: The Crisis

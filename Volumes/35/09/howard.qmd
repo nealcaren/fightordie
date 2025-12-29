@@ -6,8 +6,23 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Sep. 1928
-categories: 
-  - ""
+categories: []
+subjects:
+  - Political corruption and graft
+  - Disenfranchisement of African Americans (voting rights)
+  - Bipartisan party politics and office-buying
+  - Threats to democratic processes and electoral manipulation
+people:
+  - Perry Howard
+  - Bascom Slemp
+  - Herbert Hoover
+places:
+  - Southern United States
+  - Virginia
+organizations:
+  - Republican Party
+  - Democratic Party
+  - The Crisis (magazine)
 citation: 
   type: article-journal
   container-title: The Crisis

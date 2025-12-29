@@ -6,8 +6,17 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1934
-categories: 
-  - ""
+categories: []
+subjects:
+  - Subsistence homesteads
+  - Homestead colonies
+  - Wage labor - employer-employee power imbalance
+  - Residential segregation - African Americans
+  - African American land ownership and self-help
+  - Economic independence - African Americans
+places:
+  - United States
+  - Southern United States
 citation: 
   type: article-journal
   container-title: The Crisis

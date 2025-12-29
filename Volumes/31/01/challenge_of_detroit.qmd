@@ -6,8 +6,22 @@ author:
       given: W.E.B.
       family: Du Bois
 date: May 1925
-categories: 
-  - ""
+categories: []
+subjects:
+  - Residential segregation
+  - Housing discrimination
+  - Racial mob violence (white mob attacks on black residents)
+  - Great Migration (Black southern migration to northern cities)
+  - Restrictive real estate practices and mortgage discrimination
+people:
+  - W. E. B. Du Bois
+  - Clarence Kelsey
+places:
+  - Detroit, Michigan
+  - Harlem (New York, New York)
+  - Birmingham, Alabama
+events:
+  - Detroit mob attack and retaliatory shooting (1925)
 citation: 
   type: article-journal
   container-title: The Crisis

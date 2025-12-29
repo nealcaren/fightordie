@@ -6,8 +6,24 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1928
-categories: 
-  - ""
+categories: []
+subjects:
+  - Commemoration of Confederate leaders
+  - Slavery — defense and responsibility for the Civil War
+  - Disfranchisement and voting rights of African Americans
+  - Lynching and mob violence
+  - Educational inequality for African Americans
+people:
+  - Robert E. Lee
+  - Jefferson Davis
+  - Ulysses S. Grant
+places:
+  - Virginia
+  - Southern United States
+organizations:
+  - Confederate States of America
+events:
+  - American Civil War (1861-1865)
 citation: 
   type: article-journal
   container-title: The Crisis

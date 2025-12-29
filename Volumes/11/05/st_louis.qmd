@@ -6,8 +6,21 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1916
-categories: 
-  - ""
+categories: []
+subjects:
+  - Legal segregation (Jim Crow laws)
+  - Residential segregation
+  - African American civic mobilization and voter registration
+  - White paternalism in race relations
+  - Race and municipal politics
+places:
+  - St. Louis, Missouri
+organizations:
+  - St. Louis Post-Dispatch
+  - City Club (St. Louis)
+  - City League (St. Louis)
+events:
+  - St. Louis segregation referendum (February 29, 1916)
 citation: 
   type: article-journal
   container-title: The Crisis

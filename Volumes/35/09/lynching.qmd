@@ -6,8 +6,24 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Sep. 1928
-categories: 
-  - ""
+categories: []
+subjects:
+  - Lynching
+  - White supremacy
+  - State violence
+  - Law-enforcement complicity in racial violence
+  - Anti-lynching campaigns
+people:
+  - W. E. B. Du Bois
+  - Unidentified lynching victim (Florida, 1928)
+places:
+  - Florida
+  - Melbourne, Alabama
+organizations:
+  - National Association for the Advancement of Colored People (NAACP)
+  - The Crisis (magazine)
+events:
+  - Lynching of an unidentified man in Florida (1928)
 citation: 
   type: article-journal
   container-title: The Crisis

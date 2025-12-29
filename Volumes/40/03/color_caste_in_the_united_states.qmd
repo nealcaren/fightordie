@@ -6,8 +6,20 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1933
-categories: 
-  - ""
+categories: []
+subjects:
+  - Anti-miscegenation laws (restrictions on interracial marriage)
+  - Residential segregation (housing discrimination, restrictive covenants, racial zoning)
+  - Educational inequality (segregated schools; unequal resources and administration)
+  - Labor exploitation and peonage (economic discrimination, restricted employment, sharecropping)
+  - Political disenfranchisement (lack of voice in government and taxation; voting exclusion)
+places:
+  - United States
+  - Southern United States
+  - Louisiana
+  - Mississippi
+  - Alabama
+  - Georgia
 citation: 
   type: article-journal
   container-title: The Crisis

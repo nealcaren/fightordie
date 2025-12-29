@@ -6,8 +6,20 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jun. 1933
-categories: 
-  - ""
+categories: []
+subjects:
+  - Voting rights
+  - Electoral strategy (use of balance of power)
+  - White primary litigation
+  - Jury discrimination and reform
+  - Economic justice and labor rights
+places:
+  - United States
+organizations:
+  - The Crisis
+  - Federal courts (United States)
+events:
+  - United States presidential election (1932)
 citation: 
   type: article-journal
   container-title: The Crisis

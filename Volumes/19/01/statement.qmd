@@ -6,8 +6,19 @@ author:
       given: W.E.B.
       family: Du Bois
 date: May 1919
-categories: 
-  - ""
+categories: []
+subjects:
+  - Jim Crow laws
+  - Lynching
+  - Disfranchisement (voting rights)
+  - Mob violence and racial violence
+  - Civil rights organizing (National Association for the Advancement of Colored People)
+people:
+  - W. E. B. Du Bois
+places:
+  - United States
+organizations:
+  - National Association for the Advancement of Colored People
 citation: 
   type: article-journal
   container-title: The Crisis

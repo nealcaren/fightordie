@@ -3,8 +3,19 @@ title: 'The Risk of Woman Suffrage'
 description: "W.E.B. Du Bois in The Crisis (1915) warns that woman suffrage threatens social harmony and family roles, arguing gender differences shape politics."
 author: Miller, Kelly
 date: May 1915
-categories: 
-  - ""
+categories: []
+subjects:
+  - Women's suffrage
+  - Gender roles (family and domestic sphere)
+  - Sex differences in political behavior
+  - Political participation and citizenship
+  - Social harmony and public order
+people:
+  - W. E. B. Du Bois
+places:
+  - United States
+organizations:
+  - The Crisis (magazine)
 citation: 
   type: article-journal
   container-title: The Crisis

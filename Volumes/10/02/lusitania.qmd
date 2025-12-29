@@ -6,8 +6,23 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jun. 1915
-categories: 
-  - ""
+categories: []
+subjects:
+  - World War I (critique)
+  - Imperialism and colonialism
+  - Colonial atrocities
+  - Lynching (United States)
+  - Racial hypocrisy of Western nations
+people:
+  - W. E. B. Du Bois
+places:
+  - United States
+  - Europe
+  - Belgian Congo
+organizations:
+  - The Crisis (magazine)
+events:
+  - World War I (1914–1918)
 citation: 
   type: article-journal
   container-title: The Crisis

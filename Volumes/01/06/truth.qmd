@@ -6,8 +6,20 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Apr. 1911
-categories: 
-  - ""
+categories: []
+subjects:
+  - Peonage (forced labor)
+  - Judicial discrimination in the Southern United States
+  - Jim Crow laws (racial segregation)
+  - Race prejudice and white supremacy
+  - Civil rights advocacy and truth-telling
+people:
+  - Pink Franklin
+  - Judge Harris Dickson
+places:
+  - Southern United States
+organizations:
+  - Supreme Court of the United States
 citation: 
   type: article-journal
   container-title: The Crisis

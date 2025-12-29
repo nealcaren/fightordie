@@ -6,8 +6,24 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Dec. 1927
-categories: 
-  - ""
+categories: []
+subjects:
+  - Student strikes (higher education)
+  - Racial discrimination in education
+  - Student activism and self-expression
+  - College governance (trustees and administration)
+  - College discipline and suspensions
+people:
+  - W. E. B. Du Bois
+places:
+  - Hampton, Virginia
+organizations:
+  - Hampton Institute
+  - Fisk University
+  - Howard University
+  - Shaw University
+events:
+  - Hampton student strike (1927)
 citation: 
   type: article-journal
   container-title: The Crisis

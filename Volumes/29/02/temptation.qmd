@@ -6,8 +6,20 @@ author:
       given: W.E.B.
       family: Du Bois
 date: December 1924
-categories: 
-  - ""
+categories: []
+subjects:
+  - Economic survival and wage labor
+  - Moral and religious temptation (allegory of Christ's temptation)
+  - Race, dignity, and identity of Black men
+  - Urban modernity and worldly power/glory
+  - Family and domestic aspirations (work, home, marriage)
+people:
+  - Jesus Christ
+  - Satan (the Devil)
+places:
+  - London, England (Piccadilly / Strand)
+  - Paris, France (Champs-Élysées / Bois de Boulogne)
+  - New York City, New York (Broadway)
 citation: 
   type: article-journal
   container-title: The Crisis

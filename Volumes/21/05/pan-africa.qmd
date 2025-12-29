@@ -6,8 +6,26 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1921
-categories: 
-  - ""
+categories: []
+subjects:
+  - Pan-Africanism
+  - Colonialism and self-determination
+  - Land rights and agrarian reform
+  - Educational inequality and access for people of African descent
+  - Labor rights and labor reform
+people:
+  - W. E. B. Du Bois
+  - Blaise Diagne
+places:
+  - Paris, France
+  - London, England
+  - British West Africa
+organizations:
+  - Pan-African Congress
+  - The Crisis (magazine)
+events:
+  - Pan-African Conference (London, 1900)
+  - Pan-African Congress (Paris, 1919)
 citation: 
   type: article-journal
   container-title: The Crisis

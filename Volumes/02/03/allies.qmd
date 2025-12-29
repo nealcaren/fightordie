@@ -6,8 +6,23 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jan. 1911
-categories: 
-  - ""
+categories: []
+subjects:
+  - Disfranchisement (voting rights)
+  - Racial discrimination in the U.S. military
+  - Civil rights and equal protection of citizens
+  - U.S. racial hypocrisy (foreign policy/charity abroad vs. domestic injustice)
+people:
+  - W. E. B. Du Bois
+  - William Howard Taft
+  - Col. Garrard
+places:
+  - United States
+  - Mexico
+  - Philadelphia, Pennsylvania
+organizations:
+  - Saturday Evening Post
+  - United States War Department
 citation: 
   type: article-journal
   container-title: The Crisis

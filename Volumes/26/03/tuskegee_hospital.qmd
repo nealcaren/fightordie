@@ -6,8 +6,24 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jan. 1923
-categories: 
-  - ""
+categories: []
+subjects:
+  - Racial segregation in hospitals
+  - Discrimination in veterans' medical care
+  - Civil Service discrimination and examinations
+  - Political patronage and racial control of public institutions
+people:
+  - W. E. B. Du Bois
+  - Dr. Robert R. Moton
+  - Warren G. Harding
+  - Colonel Robert H. Stanley
+places:
+  - Tuskegee, Alabama
+  - Washington, D.C.
+organizations:
+  - Tuskegee Hospital (Tuskegee Institute)
+  - United States Veterans' Bureau
+  - Civil Service Commission
 citation: 
   type: article-journal
   container-title: The Crisis

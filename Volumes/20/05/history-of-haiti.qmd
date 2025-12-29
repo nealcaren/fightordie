@@ -6,8 +6,25 @@ author:
       given: W.E.B.
       family: Du Bois
 date: September. 1920
-categories: 
-  - ""
+categories: []
+subjects:
+  - Haitian Revolution
+  - Slavery — Haiti
+  - Race relations — Haiti (free people of color; mulatto rights)
+  - French colonialism in the Caribbean
+  - Plantation economy — sugar and coffee in Haiti
+people:
+  - Toussaint L'Ouverture
+  - Jean-Jacques Dessalines
+  - Vincent Ogé
+  - François Mackandal
+places:
+  - Haiti
+  - France
+organizations:
+  - Maroons (runaway slave communities in Haiti)
+events:
+  - Haitian slave uprising (August 22, 1791)
 citation: 
   type: article-journal
   container-title: The Crisis

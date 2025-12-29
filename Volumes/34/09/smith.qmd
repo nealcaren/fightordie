@@ -6,9 +6,26 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Nov. 1927
-categories: 
+categories:
   - 1928 Presidential Election
-  - Al Smith
+  - Al Smithsubjects:
+  - Anti-Catholicism in U.S. politics
+  - Race and politics in the Southern United States
+  - Solid South (United States political dominance)
+  - Political realignment and voting behavior
+  - Religious and cultural prejudice in presidential nominations
+people:
+  - Alfred E. Smith
+  - W. E. B. Du Bois
+places:
+  - Southern United States
+  - Northern United States
+organizations:
+  - Democratic Party (United States)
+  - The Crisis (magazine)
+events:
+  - 1928 Democratic National Convention (1928)
+  - 1928 United States presidential election (1928)
 citation: 
   type: article-journal
   container-title: The Crisis

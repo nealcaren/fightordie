@@ -6,8 +6,21 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar.. 1921
-categories: 
-  - ""
+categories: []
+subjects:
+  - Black economic development and race capital preservation
+  - Investment practices and financial advice for African Americans
+  - Financial fraud and predatory schemes targeting Black investors
+  - Savings and banking (postal savings, local savings banks)
+  - Business feasibility and leadership/management evaluation
+places:
+  - Tidewater region, Virginia
+  - Gary, Indiana
+  - Africa
+organizations:
+  - United States Postal Savings System
+  - Local savings banks
+  - Insurance companies
 citation: 
   type: article-journal
   container-title: The Crisis

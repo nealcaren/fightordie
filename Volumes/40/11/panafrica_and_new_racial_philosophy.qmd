@@ -6,8 +6,22 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Oct. 1933
-categories: 
-  - ""
+categories: []
+subjects:
+  - Pan-Africanism
+  - Racial discrimination and color caste
+  - Economic exploitation of Black labor
+  - Racial identity and assimilation of African Americans
+  - International solidarity of peoples of African descent
+people:
+  - W.E.B. Du Bois
+places:
+  - United States
+  - Africa
+  - West Indies
+  - Mexico
+organizations:
+  - The Crisis
 citation: 
   type: article-journal
   container-title: The Crisis

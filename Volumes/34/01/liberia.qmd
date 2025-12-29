@@ -6,8 +6,24 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1927
-categories: 
-  - ""
+categories: []
+subjects:
+  - Liberia — political and economic development
+  - Christian missionary activity and paternalism in Africa
+  - Foreign corporate concessions and rubber industry (Firestone) in Liberia
+  - Corporate power and influence in small states
+  - International arbitration and the League of Nations
+people:
+  - W. E. B. Du Bois
+  - Charles D. B. King
+places:
+  - Liberia
+  - Africa
+  - United States
+organizations:
+  - Firestone Tire and Rubber Company
+  - League of Nations
+  - American and British missionary societies
 citation: 
   type: article-journal
   container-title: The Crisis

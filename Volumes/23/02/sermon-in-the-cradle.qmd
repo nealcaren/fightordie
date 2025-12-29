@@ -6,8 +6,19 @@ author:
       given: W.E.B.
       family: Du Bois
 date: December 1921
-categories: 
-  - ""
+categories: []
+subjects:
+  - British colonialism in Nigeria
+  - Black Christian theology (Afrocentric reinterpretation of the Nativity)
+  - Black dignity and resistance to racial oppression
+  - Pan-Africanism
+  - Race and religion
+people:
+  - Jesus Christ
+  - W.E.B. Du Bois
+places:
+  - Benin (Nigeria)
+  - London, England
 citation: 
   type: article-journal
   container-title: The Crisis

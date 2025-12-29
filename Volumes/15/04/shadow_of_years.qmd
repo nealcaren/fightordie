@@ -6,8 +6,27 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1918
-categories: 
-  - ""
+categories: []
+subjects:
+  - Autobiographical memoirs (African American life)
+  - African American family history and genealogy
+  - Labor transition: rural farming to hired/wage work (Black workers)
+  - Racial identity and the legacy of Emancipation
+people:
+  - W.E.B. Du Bois
+  - Alfred DuBois
+  - Tom Burghardt
+  - Othello (grandfather)
+places:
+  - Great Barrington, Massachusetts
+  - Sheffield (Egremont Plain), Massachusetts
+  - Hudson River (New York region)
+  - South Carolina (state)
+organizations:
+  - The Crisis (NAACP magazine)
+events:
+  - Emancipation Proclamation (1863)
+  - American Revolutionary War (1775–1783)
 citation: 
   type: article-journal
   container-title: The Crisis

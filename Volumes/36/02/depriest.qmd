@@ -6,8 +6,26 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1929
-categories: 
-  - ""
+categories: []
+subjects:
+  - Enforcement of the 13th, 14th, and 15th Amendments
+  - Anti-lynching legislation (Dyer Bill / anti-lynching campaigns)
+  - Jim Crow segregation in interstate commerce
+  - Racial discrimination in the federal civil service
+  - Political compromise and machine politics in Chicago
+people:
+  - Oscar DePriest
+  - W. E. B. Du Bois
+  - Margaret Deland
+places:
+  - Chicago, Illinois
+  - United States
+organizations:
+  - The Crisis
+  - U.S. Congress
+  - Republican Party (United States)
+events:
+  - Election of Oscar DePriest to the U.S. House of Representatives (1928)
 citation: 
   type: article-journal
   container-title: The Crisis

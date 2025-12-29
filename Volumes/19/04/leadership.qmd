@@ -6,8 +6,24 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1920
-categories: 
-  - ""
+categories: []
+subjects:
+  - British imperialism and colonial expansion
+  - League of Nations (international governance)
+  - Racial violence and lynching in the United States
+  - Betrayal of democratic promises by political leaders
+  - Labor rights and union betrayal
+people:
+  - Woodrow Wilson
+  - Samuel Gompers
+places:
+  - United Kingdom
+  - Africa
+  - United States
+organizations:
+  - League of Nations
+  - British Empire
+  - American Federation of Labor
 citation: 
   type: article-journal
   container-title: The Crisis

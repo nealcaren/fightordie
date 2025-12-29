@@ -6,8 +6,25 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Apr. 1920
-categories: 
-  - ""
+categories: []
+subjects:
+  - Disfranchisement of African Americans
+  - Buying of political delegates (Republican conventions)
+  - Lily-White movement (Republican Party)
+  - Failure to enforce the Fourteenth and Fifteenth Amendments
+  - Exclusion and ousting of Black Republican leaders
+people:
+  - R. R. Church
+  - Perry W. Howard
+  - Theodore Roosevelt
+  - William H. Taft
+places:
+  - Southern United States
+  - Tennessee
+  - Mississippi
+organizations:
+  - Republican Party (United States)
+  - Republican National Committee
 citation: 
   type: article-journal
   container-title: The Crisis

@@ -6,8 +6,23 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1923
-categories: 
-  - ""
+categories: []
+subjects:
+  - Emigration to Liberia
+  - Labor migration and employment opportunities in Africa
+  - Colonial rule in Africa (European imperialism)
+  - Migration prerequisites: capital, skills, and health
+  - Liberian immigration and settlement policy
+people:
+  - W. E. B. Du Bois
+places:
+  - Liberia
+  - Africa
+  - Lakeland, Florida
+  - United States
+organizations:
+  - American Colonization Society
+  - Government of Liberia
 citation: 
   type: article-journal
   container-title: The Crisis

@@ -7,8 +7,26 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jan. 1926
-categories: 
-  - ""
+categories: []
+subjects:
+  - African American theatre
+  - Harlem Renaissance (1920s)
+  - Representation of African Americans in drama
+  - Religious influence on African American cultural expression (Baptist and Methodist churches)
+  - Artistic self-determination in African American arts (theatre "by us, for us")
+people:
+  - W. E. B. Du Bois
+  - William Shakespeare
+  - John Millington Synge
+places:
+  - Harlem (New York, N.Y.)
+  - New York City (New York)
+  - Cleveland (Ohio)
+  - Philadelphia (Pennsylvania)
+organizations:
+  - Krigwa Players (Little Negro Theatre)
+  - The Crisis (magazine)
+  - Baptist and Methodist churches
 citation: 
   type: article-journal
   container-title: The Crisis

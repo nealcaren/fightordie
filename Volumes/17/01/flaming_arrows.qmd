@@ -6,8 +6,27 @@ author:
       given: W.E.B.
       family: Du Bois
 date: May 1919
-categories: 
-  - ""
+categories: []
+subjects:
+  - Colonialism and self-determination
+  - U.S. racial hypocrisy and double standards
+  - Jim Crow laws and white supremacy in the American South
+  - Presidential rhetoric on democracy and international justice (Woodrow Wilson)
+  - Race and international justice concerning colonized peoples
+people:
+  - W. E. B. Du Bois
+  - Woodrow Wilson
+  - James K. Vardaman
+places:
+  - Mississippi
+  - Kamerun (Cameroon)
+  - New York City
+organizations:
+  - The Crisis
+  - United States government
+events:
+  - Woodrow Wilson New York speech (1918)
+  - World War I (1914-1918)
 citation: 
   type: article-journal
   container-title: The Crisis

@@ -6,8 +6,19 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jun. 1916
-categories: 
-  - ""
+categories: []
+subjects:
+  - Racial uplift — culture, refinement and service
+  - Armed resistance for emancipation
+  - Self-defense and violent struggle in race relations
+  - African American perspectives on sacrifice and war
+people:
+  - W. E. B. Du Bois
+places:
+  - Oswego, New York
+  - United States
+organizations:
+  - The Crisis (magazine)
 citation: 
   type: article-journal
   container-title: The Crisis

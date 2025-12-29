@@ -6,8 +6,19 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jan. 1913
-categories: 
-  - ""
+categories: []
+subjects:
+  - Disfranchisement (voting rights)
+  - Jim Crow laws (racial segregation and public accommodations)
+  - Civil rights agitation and protest
+  - Racial discrimination (color line)
+  - White supremacy and Southern oligarchy
+  - Northern complicity in racial oppression
+places:
+  - Southern United States
+  - Northern United States
+organizations:
+  - The Crisis (magazine)
 citation: 
   type: article-journal
   container-title: The Crisis

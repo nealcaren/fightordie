@@ -6,8 +6,23 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1920
-categories: 
-  - ""
+categories: []
+subjects:
+  - Postal censorship
+  - Freedom of the press
+  - Anti-lynching activism
+  - Federal legislation restricting mailable "racial appeals"
+  - Race relations (United States)
+people:
+  - W. E. B. Du Bois
+  - Thomas Sterling
+places:
+  - United States
+  - Washington, D.C.
+organizations:
+  - The Crisis (magazine)
+  - United States Congress
+  - United States Post Office Department
 citation: 
   type: article-journal
   container-title: The Crisis

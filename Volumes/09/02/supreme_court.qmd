@@ -6,8 +6,21 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jun. 1914
-categories: 
-  - ""
+categories: []
+subjects:
+  - Grandfather clauses (voting disenfranchisement)
+  - Jim Crow laws — railroad segregation (Jim-Crow car laws)
+  - Peonage and forced labor (plantation peonage)
+  - Civil rights litigation — Supreme Court cases
+  - Racial discrimination in public accommodations and cemeteries
+people:
+  - W. E. B. Du Bois
+places:
+  - Southern United States
+  - United States
+organizations:
+  - National Association for the Advancement of Colored People (NAACP)
+  - Supreme Court of the United States
 citation: 
   type: article-journal
   container-title: The Crisis

@@ -6,8 +6,23 @@ author:
       given: W.E.B.
       family: Du Bois
 date: May 1925
-categories: 
-  - ""
+categories: []
+subjects:
+  - Negro spirituals
+  - African influences on African American music
+  - Folk music preservation and ethnomusicology
+  - Musical arrangement and harmonization of spirituals
+  - Authorship and cultural attribution of African American folk music
+people:
+  - W. E. B. Du Bois
+  - James Weldon Johnson
+  - J. Rosamond Johnson
+  - Lawrence Brown
+places:
+  - Africa
+  - United States
+organizations:
+  - Fisk University
 citation: 
   type: article-journal
   container-title: The Crisis

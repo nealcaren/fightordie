@@ -6,8 +6,24 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jan. 1913
-categories: 
-  - ""
+categories: []
+subjects:
+  - Race relations—Southern United States
+  - Interracial cooperation (Southern sociological conferences)
+  - Lynching
+  - Newspapers and race relations—Southern United States
+people:
+  - W. E. B. Du Bois
+  - Branson Morse
+  - Dillard
+  - Hoke Smith
+  - John Temple Graves
+places:
+  - Southern United States
+  - Atlanta, Georgia
+organizations:
+  - The Crisis
+  - The Atlanta Georgian
 citation: 
   type: article-journal
   container-title: The Crisis

@@ -6,8 +6,24 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1911
-categories: 
-  - ""
+categories: []
+subjects:
+  - Scientific critique of racial hierarchy
+  - Race and education (mass education as reform)
+  - Cultural relativism and civilization change
+  - Social and environmental causes of racial differences
+  - Intergroup prejudice and unfamiliarity
+people:
+  - W. E. B. Du Bois
+  - Participants of the First Universal Races Congress
+places:
+  - United States
+  - London, England
+organizations:
+  - The Crisis
+  - First Universal Races Congress
+events:
+  - First Universal Races Congress (1911)
 citation: 
   type: article-journal
   container-title: The Crisis

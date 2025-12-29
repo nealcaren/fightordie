@@ -6,8 +6,25 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jun. 1914
-categories: 
-  - ""
+categories: []
+subjects:
+  - Segregation (Jim Crow laws; public accommodations)
+  - Voting rights — Fourteenth and Fifteenth Amendments; disenfranchisement
+  - Anti-miscegenation laws / interracial marriage
+  - NAACP political advocacy; candidate questionnaires and electoral accountability
+  - Congressional responses to race; attitudes of members of Congress
+people:
+  - Peter Ten Eyck
+  - George Nicholas (Congressman, Kentucky)
+  - Bathrick (Congressman)
+  - Charles F. Wilcox
+places:
+  - New York (28th Congressional District)
+  - Texas
+  - District of Columbia
+organizations:
+  - National Association for the Advancement of Colored People (NAACP)
+  - United States Congress
 citation: 
   type: article-journal
   container-title: The Crisis

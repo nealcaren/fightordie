@@ -6,8 +6,27 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1913
-categories: 
-  - ""
+categories: []
+subjects:
+  - Voting rights — disfranchisement
+  - Interstate Jim Crow laws (segregation in interstate travel and accommodations)
+  - Lynching — anti-lynching agitation and investigation
+  - Civil rights litigation — Supreme Court strategy
+  - Public protest and publicity campaigns
+people:
+  - W. E. B. Du Bois
+  - William J. Burns
+places:
+  - Coatesville, Pennsylvania
+  - Mississippi (U.S.)
+  - Oklahoma (U.S.)
+organizations:
+  - National Association for the Advancement of Colored People (NAACP)
+  - The Crisis (magazine)
+  - Burns Detective Agency
+  - Cleveland Gazette (newspaper)
+events:
+  - Coatesville lynching (1911)
 citation: 
   type: article-journal
   container-title: The Crisis

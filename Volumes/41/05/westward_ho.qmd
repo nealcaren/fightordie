@@ -6,8 +6,24 @@ author:
       given: W.E.B.
       family: Du Bois
 date: May 1934
-categories: 
-  - ""
+categories: []
+subjects:
+  - Adult education
+  - Adult education — public school programs
+  - Race prejudice and race relations
+  - Segregation — resistance to segregation
+  - Midwestern civic and intellectual life
+people:
+  - W. E. B. Du Bois
+places:
+  - Des Moines, Iowa
+  - Indianapolis, Indiana
+  - Chicago, Illinois
+  - Midwest (United States)
+organizations:
+  - Young Men's Christian Association (Y.M.C.A.)
+  - Public school system
+  - Public libraries
 citation: 
   type: article-journal
   container-title: The Crisis

@@ -6,8 +6,25 @@ author:
       given: W.E.B.
       family: Du Bois
 date: May 1926
-categories: 
-  - ""
+categories: []
+subjects:
+  - Education — Soviet Union (schools, children's colonies, libraries)
+  - Labor and industry — Soviet Russia (factories, workers, labor organizing)
+  - Soviet political institutions (Soviets, mass democracy, workers' councils)
+  - Russian Revolution / Bolshevism — political influence and ideology
+  - Ethnic and racial diversity in Soviet society (Jews, Tatars, Armenians, etc.)
+people:
+  - W. E. B. Du Bois
+  - Vladimir Ilyich Lenin
+places:
+  - Moscow, Russia
+  - Leningrad (Saint Petersburg), Russia
+  - Nizhny Novgorod, Russia
+  - Kiev, Ukraine
+organizations:
+  - Soviet Government
+  - Moscow Soviets (Second House of the Moscow Soviets)
+  - Russian Communist Party (Bolsheviks)
 citation: 
   type: article-journal
   container-title: The Crisis

@@ -6,8 +6,24 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jun. 1919
-categories: 
-  - ""
+categories: []
+subjects:
+  - African American military service (World War I)
+  - Segregation in the armed forces
+  - Jim Crow laws and racial segregation
+  - Racial injustice and American democracy
+  - French reception of Black American troops
+people:
+  - W. E. B. Du Bois
+places:
+  - Domfront, France
+  - Normandy, France
+  - United States
+organizations:
+  - U.S. Army
+  - The Crisis (magazine)
+events:
+  - World War I (1914–1918)
 citation: 
   type: article-journal
   container-title: The Crisis

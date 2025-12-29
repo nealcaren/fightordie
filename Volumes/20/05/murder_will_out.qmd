@@ -6,8 +6,22 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1920
-categories: 
-  - ""
+categories: []
+subjects:
+  - Labor organizing
+  - State repression of labor strikes (martial law)
+  - Racial discrimination in employment
+  - Disfranchisement (voting rights)
+  - Lynching
+people:
+  - W. E. B. Du Bois
+  - T. W. O'Connor
+places:
+  - Southern United States
+  - Galveston, Texas
+organizations:
+  - International Longshoremen's Association
+  - The Crisis (magazine)
 citation: 
   type: article-journal
   container-title: The Crisis

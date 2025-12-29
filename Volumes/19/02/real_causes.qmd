@@ -3,8 +3,23 @@ title: 'The Real Causes of Two Race Riots'
 description: "In a 1919 Crisis piece, W.E.B. Du Bois argues race riots stem from Southern peonage, labor exploitation, and white mob violence undermining democracy."
 author: National Association for the Advancement of Colored People
 date: Jun. 1919
-categories: 
-  - ""
+categories: []
+subjects:
+  - Debt peonage and tenant farming
+  - Sharecropping and plantation commissary exploitation
+  - Convict lease system
+  - African American voting disenfranchisement
+  - Racial violence and white mob violence
+people:
+  - W.E.B. Du Bois
+places:
+  - Phillips County (Arkansas)
+  - Helena (Arkansas)
+  - Arkansas Delta (Delta region of AR/MS/LA/TN)
+organizations:
+  - The Crisis
+events:
+  - Arkansas race riot (1919)
 citation: 
   type: article-journal
   container-title: The Crisis

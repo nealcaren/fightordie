@@ -6,8 +6,22 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1934
-categories: 
-  - ""
+categories: []
+subjects:
+  - Origins of racial segregation in the United States
+  - Labor caste system (indentured servitude vs. racial slavery)
+  - Free Black communities and social status
+  - African American self-organization and institution-building (schools, churches)
+  - Christian churches and emancipation
+places:
+  - New Orleans, Louisiana
+  - Savannah, Georgia
+  - Charleston, South Carolina
+  - Mississippi (State of Mississippi)
+  - New York (State of New York)
+organizations:
+  - Christian church organizations
+  - African American community institutions (Black schools and churches)
 citation: 
   type: article-journal
   container-title: The Crisis

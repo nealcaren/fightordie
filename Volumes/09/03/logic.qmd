@@ -6,8 +6,21 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jan. 1914
-categories: 
-  - ""
+categories: []
+subjects:
+  - Racialized policing
+  - Criminalization of unemployment and poverty
+  - Labor exploitation of African Americans
+  - Jim Crow laws (Southern racial control)
+  - Race and democratic rights
+people:
+  - Du Bois, W. E. B.
+places:
+  - Waterloo, Kentucky
+  - Southern United States
+organizations:
+  - The Crisis (magazine)
+  - Local police departments (Southern United States)
 citation: 
   type: article-journal
   container-title: The Crisis

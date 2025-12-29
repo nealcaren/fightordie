@@ -6,8 +6,26 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1932
-categories: 
-  - ""
+categories: []
+subjects:
+  - Annexation and colonial rule (Hawaii)
+  - Plantation economy and economic exploitation (Hawaii — sugar, pineapple)
+  - U.S. military bases and militarism (Hawaii)
+  - Racially biased sexual violence laws and exploitation (Hawaii)
+  - Race relations and multiracialism (Hawaii)
+people:
+  - W. E. B. Du Bois
+  - Captain James Cook
+places:
+  - Hawaii
+  - Pacific Ocean
+  - United States
+organizations:
+  - United States military
+  - Hawaiian plantation corporations (sugar and pineapple)
+events:
+  - Overthrow of the Hawaiian Kingdom (1893)
+  - Annexation of Hawaii by the United States (1898)
 citation: 
   type: article-journal
   container-title: The Crisis

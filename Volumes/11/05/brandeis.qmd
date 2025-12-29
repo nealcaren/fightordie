@@ -6,8 +6,22 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1916
-categories: 
-  - ""
+categories: []
+subjects:
+  - Supreme Court appointments
+  - African American civil rights
+  - Labor rights and labor advocacy
+  - Antisemitism
+people:
+  - Louis D. Brandeis
+  - John Marshall Harlan
+places:
+  - United States
+  - Washington, D.C.
+organizations:
+  - Supreme Court of the United States
+events:
+  - Nomination of Louis D. Brandeis to the Supreme Court (1916)
 citation: 
   type: article-journal
   container-title: The Crisis

@@ -6,8 +6,21 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jun. 1914
-categories: 
-  - ""
+categories: []
+subjects:
+  - Capitalization of racial names (use of "Negro")
+  - Racial nomenclature and respectful usage
+  - Journalism editorial policy and style
+  - Press standards (Associated Press practice)
+people:
+  - W.E.B. Du Bois
+  - Lester A. Walton
+places:
+  - United States
+organizations:
+  - Associated Press
+  - The Crisis
+  - The New York Age
 citation: 
   type: article-journal
   container-title: The Crisis

@@ -6,8 +6,23 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jan. 1927
-categories: 
-  - ""
+categories: []
+subjects:
+  - League of Nations mandates
+  - Colonial administration and imperialism in Africa
+  - Racial exclusion from international governance
+  - Labor exploitation of colonized and Black workers
+  - International labor regulation and representation
+people:
+  - W. E. B. Du Bois
+places:
+  - Abyssinia (Ethiopia)
+  - Africa
+  - Geneva, Switzerland
+organizations:
+  - League of Nations
+  - Mandates Commission (League of Nations)
+  - International Labour Organization (ILO)
 citation: 
   type: article-journal
   container-title: The Crisis

@@ -6,8 +6,26 @@ author:
       given: W.E.B.
       family: Du Bois
 date: May 1916
-categories: 
-  - ""
+categories: []
+subjects:
+  - Suffrage — African Americans
+  - Republican Party (U.S.) — Relations with African Americans
+  - Political campaigns — Racial appeals and accountability
+  - Civil rights — Political commitments by candidates
+people:
+  - W. E. B. Du Bois
+  - Charles Evans Hughes
+  - Woodrow Wilson
+  - Allan L. Benson
+places:
+  - Nashville, Tennessee
+  - United States
+organizations:
+  - Republican Party (United States)
+  - Republican National Committee
+  - The Crisis (magazine)
+events:
+  - United States presidential election (1916)
 citation: 
   type: article-journal
   container-title: The Crisis

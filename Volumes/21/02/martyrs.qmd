@@ -6,8 +6,23 @@ author:
       given: W.E.B.
       family: Du Bois
 date: December 1920
-categories: 
-  - ""
+categories: []
+subjects:
+  - Racially biased capital punishment
+  - Racial injustice in criminal sentencing
+  - Military discrimination against African American soldiers
+  - Clemency and pardons for African Americans
+people:
+  - W. E. B. Du Bois
+places:
+  - Houston, Texas
+  - Leavenworth, Kansas
+organizations:
+  - United States government
+  - United States Army
+  - United States Penitentiary (Leavenworth)
+events:
+  - Houston Riot (1917)
 citation: 
   type: article-journal
   container-title: The Crisis

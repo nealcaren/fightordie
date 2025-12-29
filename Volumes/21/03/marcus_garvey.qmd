@@ -6,8 +6,21 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jan. 1921
-categories: 
-  - ""
+categories: []
+subjects:
+  - Marcus Garvey's commercial enterprises (Garveyism)
+  - Black economic nationalism and racial commerce
+  - Corporate financial disclosure and transparency
+  - Delaware corporate incorporation law and fees
+  - Business ethics and financial accountability in Black organizations
+people:
+  - Marcus Garvey
+  - W. E. B. Du Bois
+places:
+  - Delaware (United States)
+organizations:
+  - Black Star Line (Black Star Line Steamship Corporation)
+  - Universal Negro Improvement Association (UNIA) / Negro Improvement Association
 citation: 
   type: article-journal
   container-title: The Crisis

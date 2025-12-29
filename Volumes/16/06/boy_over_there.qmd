@@ -6,8 +6,25 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Apr. 1918
-categories: 
-  - ""
+categories: []
+subjects:
+  - African American military service (World War I)
+  - Homefront obligation to soldiers
+  - Race and sacrifice; generational military service
+  - Mourning and commemoration of war dead
+  - Community neglect and moral responsibility toward soldiers
+people:
+  - W. E. B. Du Bois
+  - Alfred (ancestral grandfather figure)
+  - Jacob (ancestral soldier figure)
+places:
+  - United States
+  - Europe
+organizations:
+  - U.S. Army
+  - The Crisis (NAACP)
+events:
+  - World War I (1914–1918)
 citation: 
   type: article-journal
   container-title: The Crisis

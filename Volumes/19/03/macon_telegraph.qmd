@@ -6,8 +6,24 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jan. 1920
-categories: 
-  - ""
+categories: []
+subjects:
+  - Lynching and racial violence
+  - Disfranchisement (voting rights)
+  - Jim Crow laws and segregation (including residential segregation)
+  - Educational inequality (segregated Black schools)
+  - Press/media portrayal of race (criticism of white Southern newspapers)
+people:
+  - W. E. B. Du Bois
+  - Robert R. Moton
+places:
+  - Macon, Georgia
+  - Tuskegee, Alabama
+  - Southern United States
+organizations:
+  - The Crisis
+  - Macon Daily Telegraph
+  - Tuskegee Institute
 citation: 
   type: article-journal
   container-title: The Crisis

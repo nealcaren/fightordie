@@ -3,8 +3,25 @@ title: 'The Riots: An N.A.A.C.P. Investigation'
 description: "W.E.B. Du Bois in The Crisis (1919) reports NAACP probes into race riots, exposing mob violence, press incitement, and Black self-defense."
 author: Johnson, James Weldon
 date: Mar. 1919
-categories: 
-  - ""
+categories: []
+subjects:
+  - Race riots (urban racial violence)
+  - Mob violence against African Americans
+  - Press incitement to racial violence
+  - African American community self-defense
+  - NAACP investigations of racial violence
+people:
+  - W. E. B. Du Bois
+places:
+  - Washington, D.C.
+  - Seventh and T Streets NW (Washington, D.C.)
+  - Fourteenth and U Streets NW (Washington, D.C.)
+organizations:
+  - National Association for the Advancement of Colored People (NAACP)
+  - The Crisis (magazine)
+events:
+  - Washington, D.C. race riot (1919)
+  - Red Summer (1919)
 citation: 
   type: article-journal
   container-title: The Crisis

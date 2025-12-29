@@ -6,8 +6,25 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1927
-categories: 
-  - ""
+categories: []
+subjects:
+  - Disfranchisement — Georgia
+  - Electoral malapportionment and unequal representation
+  - Sale of federal offices; political patronage and graft
+  - Southern overrepresentation and its national consequences
+people:
+  - W. E. B. Du Bois
+  - William J. Harris
+  - Richard P. Ernst
+places:
+  - Georgia (U.S. state)
+  - New York (U.S. state)
+  - Kentucky (U.S. state)
+  - Virginia (U.S. state)
+organizations:
+  - The New York Times
+  - U.S. Congress
+  - The Crisis (magazine)
 citation: 
   type: article-journal
   container-title: The Crisis

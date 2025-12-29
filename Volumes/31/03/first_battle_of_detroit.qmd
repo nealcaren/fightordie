@@ -6,8 +6,24 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jan. 1926
-categories: 
-  - ""
+categories: []
+subjects:
+  - Racial mob violence against African Americans
+  - Racially charged criminal trials of African Americans
+  - NAACP legal defense and organized resistance
+  - White churches' inaction on racial justice
+people:
+  - W. E. B. Du Bois
+  - Clarence Darrow
+  - Walter F. White
+  - Dr. Ossian Sweet
+places:
+  - Detroit, Michigan
+organizations:
+  - National Association for the Advancement of Colored People (NAACP)
+  - Presbyterian ministers of Detroit
+events:
+  - Ossian Sweet trial (1925)
 citation: 
   type: article-journal
   container-title: The Crisis

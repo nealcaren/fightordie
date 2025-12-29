@@ -6,8 +6,21 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1920
-categories: 
-  - ""
+categories: []
+subjects:
+  - West Indian migration to the United States
+  - Black political consciousness and race solidarity
+  - Pan-Africanism ("Africa for the Africans") movement
+  - British colonial policy and co-optation of local elites
+  - Labor migration and labor conditions of West Indian peasants
+places:
+  - United States
+  - West Indies
+  - Jamaica
+  - Haiti
+  - British Guiana
+organizations:
+  - British colonial administration
 citation: 
   type: article-journal
   container-title: The Crisis

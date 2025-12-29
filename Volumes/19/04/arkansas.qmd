@@ -6,8 +6,24 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1920
-categories: 
-  - ""
+categories: []
+subjects:
+  - Life insurance discrimination against African Americans
+  - Surveillance by white investigative bureaus targeting Black leaders
+  - Anti-lynching activism
+  - Voting rights suppression in the Jim Crow South
+  - Racial violence and race riots
+people:
+  - W.E.B. Du Bois
+places:
+  - Phillips County, Arkansas
+  - Arkansas (United States)
+organizations:
+  - Private life insurance companies (United States)
+  - White private investigative bureaus (confidential reports)
+  - The Crisis (magazine)
+events:
+  - Phillips County race riot / Elaine Massacre (1919)
 citation: 
   type: article-journal
   container-title: The Crisis

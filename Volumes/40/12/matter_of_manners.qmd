@@ -6,8 +6,21 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Dec. 1933
-categories: 
-  - ""
+categories: []
+subjects:
+  - African American manners and etiquette
+  - Race relations—Southern United States
+  - Racial discrimination and public insults
+  - Social courtesy, dignity, and self-respect (African Americans)
+  - Southern social customs and white supremacy
+people:
+  - W. E. B. Du Bois
+  - George Washington
+places:
+  - Atlanta, Georgia
+  - Southern United States
+organizations:
+  - The Atlanta Constitution
 citation: 
   type: article-journal
   container-title: The Crisis

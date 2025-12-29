@@ -6,8 +6,22 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Oct. 1927
-categories: 
-  - ""
+categories: []
+subjects:
+  - Publishing discrimination against African American authors
+  - Racial stereotyping and representation of Black people in literature
+  - Harlem Renaissance (African American Renaissance)
+  - Reception of Black artists by white readership
+  - African American music: Spirituals and Blues
+people:
+  - H. L. Mencken
+  - W. E. B. Du Bois
+  - Langston Hughes
+  - Claude McKay
+  - Paul Laurence Dunbar
+  - Booker T. Washington
+places:
+  - United States
 citation: 
   type: article-journal
   container-title: The Crisis

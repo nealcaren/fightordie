@@ -6,8 +6,25 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jun. 1913
-categories: 
-  - ""
+categories: []
+subjects:
+  - African American clergy / Black ministry
+  - Christmas nativity imagery and spiritual birth
+  - Interfaith encounter (Christianity and Judaism)
+  - Urban life and class divisions (New York City)
+  - Racial uplift and dignity of the lowly
+  - Religious parable / moral allegory
+people:
+  - W. E. B. Du Bois
+  - Unnamed black preacher (fictional)
+  - Unnamed wealthy woman (fictional)
+places:
+  - New York City (Manhattan)
+  - Harlem (110th Street area, New York)
+  - Lower East Side (New York)
+  - West 53rd Street (New York)
+organizations:
+  - The Crisis (magazine)
 citation: 
   type: article-journal
   container-title: The Crisis

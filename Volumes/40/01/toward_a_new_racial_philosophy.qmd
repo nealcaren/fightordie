@@ -6,8 +6,22 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jan. 1933
-categories: 
-  - ""
+categories: []
+subjects:
+  - Reevaluation of the "Negro problem" (racial philosophy) in the mid-20th century
+  - Educational opportunities and policy for African Americans (schooling, vocational vs. collegiate training)
+  - Labor and occupational opportunities; industrial displacement and relation to unions/capital
+  - Public health and mortality among African Americans (infant mortality, tuberculosis, pneumonia, syphilis, cancer)
+  - Residential patterns and segregation; urban vs. rural, Northern vs. Southern living choices
+people:
+  - Du Bois, W. E. B. (William Edward Burghardt)
+places:
+  - United States
+  - Southern United States
+  - Northern United States
+organizations:
+  - National Association for the Advancement of Colored People (NAACP)
+  - The Crisis (magazine)
 citation: 
   type: article-journal
   container-title: The Crisis

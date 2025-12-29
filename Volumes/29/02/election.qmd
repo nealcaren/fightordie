@@ -6,8 +6,26 @@ author:
       given: W.E.B.
       family: Du Bois
 date: December 1924
-categories: 
-  - ""
+categories: []
+subjects:
+  - African American voting behavior and political representation
+  - Ku Klux Klan (political influence)
+  - Anti-lynching legislation and federal civil rights enforcement (Dyer Anti-Lynching Bill; enforcement of the 14th and 15th Amendments)
+  - Progressive/Third Party politics (Robert M. La Follette and 1924 campaign)
+people:
+  - Bascom Slemp
+  - Alfred E. Smith
+  - Miriam A. Ferguson ("Ma" Ferguson)
+  - Robert M. La Follette
+places:
+  - Texas
+  - Harlem (New York, NY)
+  - Washington, D.C.
+organizations:
+  - Ku Klux Klan
+  - Republican Party (United States)
+events:
+  - United States Presidential Election (1924)
 citation: 
   type: article-journal
   container-title: The Crisis

@@ -6,8 +6,18 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jun. 1919
-categories: 
-  - ""
+categories: []
+subjects:
+  - Pan-Africanism
+  - Colonialism
+  - Anti-imperialism
+  - Race prejudice
+  - Nonviolent political agitation
+places:
+  - India
+  - Egypt
+  - Calcutta
+  - Cairo
 citation: 
   type: article-journal
   container-title: The Crisis

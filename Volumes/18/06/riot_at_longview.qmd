@@ -3,8 +3,26 @@ title: 'The Riot at Longview, Texas'
 description: "In a 1919 The Crisis article, W.E.B. Du Bois documents the Longview, Texas race riot, exposing white violence and Black self-defense amid lawlessness."
 author: National Association for the Advancement of Colored People
 date: Apr. 1919
-categories: 
-  - ""
+categories: []
+subjects:
+  - Race riots
+  - Lynching
+  - Mob violence
+  - Law enforcement complicity in racial violence
+  - African American self-defense
+people:
+  - Lemuel Walters
+  - Professor Jones
+  - Dr. Davis
+  - Erskine H. Bramlette
+  - Deputy Sheriff Harrison
+  - G. A. Bodenheim
+places:
+  - Longview, Texas
+  - Gregg County, Texas
+organizations:
+  - The Chicago Defender
+  - Longview Leader
 citation: 
   type: article-journal
   container-title: The Crisis

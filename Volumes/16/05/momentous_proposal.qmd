@@ -6,8 +6,25 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1918
-categories: 
-  - ""
+categories: []
+subjects:
+  - African American military service (World War I)
+  - Proposed federal race bureau for addressing Black grievances
+  - NAACP leadership and governance
+  - Editorial independence of The Crisis
+  - African American patriotism and duty in wartime
+people:
+  - W. E. B. Du Bois
+  - Archibald H. Grimke
+  - Charles Young
+places:
+  - Washington, D.C.
+organizations:
+  - National Association for the Advancement of Colored People (NAACP)
+  - The Crisis (magazine)
+  - U.S. Army General Staff
+events:
+  - World War I (1914–1918)
 citation: 
   type: article-journal
   container-title: The Crisis

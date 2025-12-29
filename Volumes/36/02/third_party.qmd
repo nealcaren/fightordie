@@ -6,8 +6,24 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1929
-categories: 
-  - ""
+categories: []
+subjects:
+  - Third Party movements (United States)
+  - Disfranchisement of African Americans
+  - Solid South (Southern political machine)
+  - Electoral College — indirect election of presidents
+  - Plutocracy and protective tariff policy
+people:
+  - W. E. B. Du Bois
+  - Theodore Roosevelt
+places:
+  - Southern United States
+  - United States
+organizations:
+  - Democratic Party (United States)
+  - Socialist Party (United States)
+  - Farmer-Labor Party (United States)
+  - Tammany Hall
 citation: 
   type: article-journal
   container-title: The Crisis

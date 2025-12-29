@@ -6,8 +6,23 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1920
-categories: 
-  - ""
+categories: []
+subjects:
+  - Crime and criminality among African Americans
+  - Racial discrimination in criminal justice
+  - Lynching and collective punishment
+  - Poverty and economic inequality
+  - Educational inequality and access
+  - Penal reform and rehabilitation
+people:
+  - W. E. B. Du Bois
+  - Bishop B. J. Keiley
+places:
+  - Georgia (U.S. state)
+  - Southern United States
+organizations:
+  - The Crisis (magazine)
+  - Savannah Press (Savannah, Georgia newspaper)
 citation: 
   type: article-journal
   container-title: The Crisis

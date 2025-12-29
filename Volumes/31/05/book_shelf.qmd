@@ -6,8 +6,19 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1926
-categories: 
-  - ""
+categories: []
+subjects:
+  - Representation of African Americans in literature
+  - Racial stereotyping in literature
+  - African American social classes (working class; middle class)
+  - Urban African American life — Charleston (S.C.)
+  - White Southern authors' portrayal of Black life
+people:
+  - Heyward, DuBose
+  - Porgy (fictional character)
+  - Du Bois, W. E. B.
+places:
+  - Charleston (S.C.)
 citation: 
   type: article-journal
   container-title: The Crisis

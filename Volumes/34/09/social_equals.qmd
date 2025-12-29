@@ -6,8 +6,20 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Nov. 1927
-categories: 
-  - Social Equality
+categories:
+  - Social Equalitysubjects:
+  - Racial etiquette
+  - Social equality
+  - Southern racial prejudice
+  - Interracial social relations
+  - African American physicians
+people:
+  - W. E. B. Du Bois
+  - Dr. Dumas
+places:
+  - Washington, D.C.
+  - Detroit, Michigan
+  - Southern United States
 citation: 
   type: article-journal
   container-title: The Crisis

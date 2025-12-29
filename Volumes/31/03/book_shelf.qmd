@@ -6,8 +6,26 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jan. 1926
-categories: 
-  - ""
+categories: []
+subjects:
+  - New Negro movement (Harlem Renaissance)
+  - African American literature and criticism
+  - Race consciousness and racial uplift
+  - Cultural nationalism in African American art
+  - Role of art as social/political propaganda
+people:
+  - W. E. B. Du Bois
+  - Alain Locke
+  - Jessie Redmon Fauset
+places:
+  - New York (city)
+  - Los Angeles (city)
+  - Washington, D.C.
+organizations:
+  - The Survey (magazine)
+  - National Association for the Advancement of Colored People (NAACP)
+  - Howard University
+  - Albert and Charles Boni (publisher)
 citation: 
   type: article-journal
   container-title: The Crisis

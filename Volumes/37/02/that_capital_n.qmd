@@ -6,8 +6,22 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1930
-categories: 
-  - ""
+categories: []
+subjects:
+  - Racial terminology — capitalization of "Negro"
+  - Language and racial discrimination
+  - Newspaper editorial policy on racial nomenclature
+  - African American self-designation (Negro; Black; Colored)
+  - Respectful naming practices and editorial ethics
+people:
+  - W. E. B. Du Bois
+  - Antonio M. Roper
+places:
+  - Raleigh, North Carolina
+organizations:
+  - The Raleigh Times
+  - The Crisis (NAACP magazine)
+  - St. Augustine's College
 citation: 
   type: article-journal
   container-title: The Crisis

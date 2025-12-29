@@ -6,8 +6,26 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1911
-categories: 
-  - ""
+categories: []
+subjects:
+  - Racial discrimination in criminal sentencing
+  - Capital punishment and commutation
+  - Racialized self-defense law
+  - Mob influence on justice in the American South
+  - Jim Crow legal system
+people:
+  - Pink Franklin
+  - Martin F. Ansel
+places:
+  - South Carolina
+  - Columbia, South Carolina
+  - United States
+organizations:
+  - Columbia State (newspaper)
+  - Supreme Court of South Carolina
+  - Supreme Court of the United States
+events:
+  - Commutation of Pink Franklin's death sentence (1911)
 citation: 
   type: article-journal
   container-title: The Crisis

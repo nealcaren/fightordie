@@ -6,8 +6,26 @@ author:
       given: W.E.B.
       family: Du Bois
 date: May 1912
-categories: 
-  - ""
+categories: []
+subjects:
+  - African American church leadership and clerical ethics
+  - Clergy education and professional training
+  - Church role in education and social uplift
+  - Church finances, property ownership, and institutional resources
+  - Black middle class organizations and community institutions
+people:
+  - Bishop Paine
+  - Bishop Lee
+  - J. W. White
+  - Bishop J. Albert Johnson
+  - John F. Hurst
+  - Henry L. Phillips
+places:
+  - United States
+  - Philadelphia, Pennsylvania
+organizations:
+  - Methodist ecclesiastical bodies (African American conferences)
+  - Baptist conventions (African American)
 citation: 
   type: article-journal
   container-title: The Crisis

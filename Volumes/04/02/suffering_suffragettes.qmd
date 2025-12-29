@@ -6,9 +6,27 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jun. 1912
-categories: 
-  - "Woman Suffrage"
-  - "Racial Prejudice"
+categories:
+  - Woman Suffrage
+  - Racial Prejudicesubjects:
+  - Women's suffrage
+  - Race and suffrage (racial discrimination within the suffrage movement)
+  - Disfranchisement of African Americans (voting rights; Southern disfranchisement)
+  - Civil and political rights of African American women
+  - Democratic institutions and racial exclusion
+people:
+  - W. E. B. Du Bois
+  - Anna Howard Shaw
+places:
+  - Louisville, Kentucky
+  - Ithaca, New York
+  - Ohio (state)
+  - Southern United States
+organizations:
+  - National American Woman Suffrage Association (NAWSA)
+  - The Crisis (magazine)
+events:
+  - National American Woman Suffrage Association annual convention (Louisville, KY, 1912)
 citation: 
   type: article-journal
   container-title: The Crisis

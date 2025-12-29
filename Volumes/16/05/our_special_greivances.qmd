@@ -6,8 +6,22 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1918
-categories: 
-  - ""
+categories: []
+subjects:
+  - African American military service
+  - Racial discrimination in military service
+  - Civil rights — full manhood rights and voting rights
+  - Wartime patriotism and temporary deferment of grievances
+people:
+  - W. E. B. Du Bois
+places:
+  - United States
+organizations:
+  - National Association for the Advancement of Colored People (NAACP)
+  - The Crisis (magazine)
+  - Negro press (collective editors of leading Black publications)
+events:
+  - World War I (1914–1918)
 citation: 
   type: article-journal
   container-title: The Crisis

@@ -6,8 +6,24 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Oct. 1920
-categories: 
-  - ""
+categories: []
+subjects:
+  - Women's suffrage (United States)
+  - Lynching (United States)
+  - Child labor
+  - Universal education
+  - Racial discrimination — Color Line
+people:
+  - W. E. B. Du Bois
+  - Susan B. Anthony
+  - Frederick Douglass
+places:
+  - United States
+  - Southern United States
+organizations:
+  - The Crisis (magazine)
+events:
+  - Nineteenth Amendment ratification (1920)
 citation: 
   type: article-journal
   container-title: The Crisis

@@ -6,8 +6,21 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jan. 1912
-categories: 
-  - ""
+categories: []
+subjects:
+  - African American education
+  - Industrial education for African Americans
+  - Philanthropy and fundraising for Black schools
+  - Jim Crow segregation
+  - Democracy and civic equality for African Americans
+people:
+  - W. E. B. Du Bois
+  - P. G. T. Beauregard
+places:
+  - Manassas, Virginia
+organizations:
+  - Manassas Industrial School
+  - The Crisis
 citation: 
   type: article-journal
   container-title: The Crisis

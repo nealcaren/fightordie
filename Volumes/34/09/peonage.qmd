@@ -6,8 +6,23 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Nov. 1927
-categories: 
-  - ""
+categories: []
+subjects:
+  - Debt peonage
+  - Enforcement of the 13th, 14th, and 15th Amendments
+  - Disaster relief and flood response
+  - Humanitarian aid accountability (American Red Cross)
+people:
+  - Herbert Hoover
+  - W. E. B. Du Bois
+places:
+  - Mississippi Valley (United States)
+  - Mississippi (United States)
+organizations:
+  - American Red Cross
+  - Hoover administration (United States federal government)
+events:
+  - Great Mississippi Flood (1927)
 citation: 
   type: article-journal
   container-title: The Crisis

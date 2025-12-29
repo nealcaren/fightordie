@@ -6,8 +6,22 @@ author:
       given: W.E.B.
       family: Du Bois
 date: August. 1920
-categories: 
-  - ""
+categories: []
+subjects:
+  - NAACP strategy and tactics (limits of legal/peaceful methods)
+  - Organized white opposition to Black equality
+  - Criminalization of Black people as a means to discredit communities
+  - Federal/national responsibility for resolving race relations
+  - Peonage and economic exploitation of Black workers
+people:
+  - W.E.B. Du Bois
+  - Mr. Shillady (former NAACP secretary)
+places:
+  - Texas
+  - United States
+organizations:
+  - National Association for the Advancement of Colored People (NAACP)
+  - The Crisis (magazine)
 citation: 
   type: article-journal
   container-title: The Crisis

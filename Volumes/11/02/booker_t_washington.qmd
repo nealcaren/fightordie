@@ -6,8 +6,24 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jun. 1915
-categories: 
-  - ""
+categories: []
+subjects:
+  - African American disfranchisement
+  - Voting rights
+  - Racial segregation and color caste
+  - Vocational/industrial education
+  - Historically Black colleges and universities (HBCUs)
+people:
+  - Booker T. Washington
+  - Robert Russa Moton
+  - Frederick Douglass
+places:
+  - Tuskegee, Alabama
+  - Southern United States
+  - Haiti
+organizations:
+  - Tuskegee Institute
+  - Hampton Institute
 citation: 
   type: article-journal
   container-title: The Crisis

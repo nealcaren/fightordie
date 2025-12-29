@@ -6,8 +6,18 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jun. 1923
-categories: 
-  - ""
+categories: []
+subjects:
+  - Segregation—Public accommodations (restaurants, theatres, hotels)
+  - Jim Crow social practices—racial exclusion and etiquette
+  - Everyday racism and demeaning language (racial slurs)
+  - Racial restrictions on travel and lodging (sleeper cars, hotels; Texas)
+  - Social equality—white resistance to integration
+people:
+  - W. E. B. Du Bois
+places:
+  - Texas
+  - American South
 citation: 
   type: article-journal
   container-title: The Crisis

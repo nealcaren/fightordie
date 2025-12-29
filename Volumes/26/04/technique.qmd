@@ -6,8 +6,25 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1923
-categories: 
-  - ""
+categories: []
+subjects:
+  - Educational inequality (racially based)
+  - Racial discrimination in the arts and art institutions
+  - Institutional/elite exclusion of Black talent
+  - Access to study abroad for Black artists
+people:
+  - Augusta Savage
+  - Whitney Warren
+  - Ernest C. Peixotto
+  - Howard Greenley
+places:
+  - Fontainebleau, France
+  - New York City, New York
+  - Florida (U.S. state)
+organizations:
+  - Fontainebleau School of the Fine Arts
+  - Cooper Union (The Cooper Union for the Advancement of Science and Art)
+  - The Crisis (magazine)
 citation: 
   type: article-journal
   container-title: The Crisis

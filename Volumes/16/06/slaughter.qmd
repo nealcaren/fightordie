@@ -6,8 +6,18 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Apr. 1918
-categories: 
-  - ""
+categories: []
+subjects:
+  - African American infant mortality
+  - Child welfare and public health
+  - Maternal and child nutrition
+  - Housing, sanitation, and ventilation
+  - Racial disparities in health
+places:
+  - United States
+organizations:
+  - United States Government
+  - The Crisis
 citation: 
   type: article-journal
   container-title: The Crisis

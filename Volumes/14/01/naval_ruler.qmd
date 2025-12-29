@@ -6,8 +6,24 @@ author:
       given: W.E.B.
       family: Du Bois
 date: May 1917
-categories: 
-  - ""
+categories: []
+subjects:
+  - U.S. imperialism and colonialism
+  - Military governance of occupied territories
+  - Naval administration of colonies
+  - U.S. interventions in Central America and the Caribbean
+  - Administrative training and civil governance
+places:
+  - United States
+  - Nicaragua
+  - Dominican Republic
+  - Haiti
+  - Danish West Indies (U.S. Virgin Islands)
+organizations:
+  - United States Navy
+events:
+  - Transfer of the Danish West Indies to the United States (1917)
+  - U.S. occupation of Haiti (1915–1934)
 citation: 
   type: article-journal
   container-title: The Crisis

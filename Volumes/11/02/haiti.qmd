@@ -6,8 +6,25 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jun. 1915
-categories: 
-  - ""
+categories: []
+subjects:
+  - U.S. imperialism and military intervention in Haiti
+  - State Department foreign policy and racial diplomacy
+  - White supremacy and voter suppression (Caddo Parish)
+  - Lynching and racial violence
+people:
+  - W. E. B. Du Bois
+  - Alvey A. Adee
+  - Ashton Blanchard
+places:
+  - Haiti
+  - Caddo Parish, Louisiana
+  - Washington, D.C.
+organizations:
+  - United States Department of State
+  - Citizens' Committee (Caddo Parish, Louisiana)
+events:
+  - U.S. intervention and occupation of Haiti (1915)
 citation: 
   type: article-journal
   container-title: The Crisis

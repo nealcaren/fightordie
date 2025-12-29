@@ -6,8 +6,23 @@ author:
       given: W.E.B.
       family: Du Bois
 date: July 1925
-categories: 
-  - ""
+categories: []
+subjects:
+  - African American party politics
+  - Party patronage and employment (political jobs)
+  - Machine politics — Tammany Hall
+  - Black political leadership and representation
+  - Northern urban political strategy (New York)
+people:
+  - Ferdinand Q. Morton
+  - Robert N. Wood
+places:
+  - Harlem (New York, N.Y.)
+  - New York (N.Y.)
+  - Mississippi
+organizations:
+  - Tammany Hall (New York Democratic machine)
+  - Democratic Party (United States)
 citation: 
   type: article-journal
   container-title: The Crisis

@@ -6,8 +6,18 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1928
-categories: 
-  - ""
+categories: []
+subjects:
+  - Interracial labor solidarity
+  - Trade union discrimination (race)
+  - Employment discrimination against African Americans
+  - Educational inequality — African Americans
+  - Voting rights — African Americans
+places:
+  - United States
+organizations:
+  - Trade unions (United States)
+  - Private philanthropy (United States)
 citation: 
   type: article-journal
   container-title: The Crisis

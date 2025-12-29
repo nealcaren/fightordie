@@ -5,8 +5,27 @@ author:
   - name:
       family: National Association for the Advancement of Colored People
 date: Mar. 1917
-categories: 
-  - ""
+categories: []
+subjects:
+  - Lynching and attempted lynching
+  - Mob violence and lynch mobs
+  - Judicial intimidation and legal injustice
+  - State intervention and law enforcement response
+people:
+  - Lube Martin
+  - Guthrie Diuguid
+  - J. P. Holt
+  - Judge Charles H. Bush
+  - Governor Augustus O. Stanley
+  - W. E. B. Du Bois
+places:
+  - Murray, Kentucky
+  - Calloway County, Kentucky
+organizations:
+  - National Association for the Advancement of Colored People (NAACP)
+  - The Crisis (magazine)
+events:
+  - Attempted lynching of Lube Martin (1917)
 citation: 
   type: article-journal
   container-title: The Crisis

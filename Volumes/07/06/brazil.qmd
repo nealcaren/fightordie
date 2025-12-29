@@ -6,8 +6,26 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Apr. 1914
-categories: 
-  - ""
+categories: []
+subjects:
+  - Race relations — Brazil
+  - Race relations — United States
+  - Racial intermarriage (miscegenation) — Brazil
+  - Lynching — United States
+  - Racism and democracy — United States
+people:
+  - W. E. B. Du Bois
+  - Theodore Roosevelt
+  - Jean Baptiste de Lacerda
+places:
+  - Brazil
+  - Rio de Janeiro (Brazil)
+  - Bahia (Brazil)
+  - United States
+organizations:
+  - The Crisis
+  - The Outlook (magazine)
+  - National Museum of Brazil (Rio de Janeiro)
 citation: 
   type: article-journal
   container-title: The Crisis

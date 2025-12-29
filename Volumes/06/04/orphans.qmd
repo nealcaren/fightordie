@@ -6,8 +6,21 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1913
-categories: 
-  - ""
+categories: []
+subjects:
+  - Orphanages — administration and management
+  - Child welfare — racial discrimination
+  - Educational staffing — racial bias in teacher selection
+  - Black self-governance of institutions
+  - Philanthropy and endowment of Black institutions
+people:
+  - W. E. B. Du Bois
+  - Superintendent, Colored Orphan Asylum (unnamed)
+places:
+  - New York City, New York
+organizations:
+  - Colored Orphan Asylum (New York)
+  - The Crisis (magazine)
 citation: 
   type: article-journal
   container-title: The Crisis

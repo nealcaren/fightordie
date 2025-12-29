@@ -6,8 +6,20 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Apr. 1920
-categories: 
-  - ""
+categories: []
+subjects:
+  - Voting rights
+  - Jim Crow disenfranchisement
+  - Congressional apportionment and representation penalties (Fourteenth Amendment)
+  - Voter qualification laws (education, property, literacy tests)
+  - Lynching
+places:
+  - Southern United States
+  - Border States (United States)
+organizations:
+  - Republican Party (United States)
+  - United States Congress
+  - Southern state governments
 citation: 
   type: article-journal
   container-title: The Crisis

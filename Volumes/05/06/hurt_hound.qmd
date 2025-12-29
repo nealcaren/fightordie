@@ -6,8 +6,22 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Apr. 1913
-categories: 
-  - ""
+categories: []
+subjects:
+  - Lynching
+  - Jim Crow laws (racial segregation)
+  - Public accommodations discrimination
+  - Psychological effects of racial discrimination
+people:
+  - W. E. B. Du Bois
+  - G. H. Burks
+  - P. A. Nichols
+places:
+  - Paducah, Kentucky
+  - Southern United States
+organizations:
+  - Illinois Central Railroad
+  - Pullman Company
 citation: 
   type: article-journal
   container-title: The Crisis

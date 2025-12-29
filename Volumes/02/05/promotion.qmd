@@ -6,8 +6,23 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1911
-categories: 
-  - ""
+categories: []
+subjects:
+  - Syndicated racist newspaper editorials
+  - Promotion of racial prejudice by the press
+  - African American voting behavior (suffrage)
+  - Political exploitation of race issues
+  - Racial stereotyping in journalism
+people:
+  - W. E. B. Du Bois
+places:
+  - Newburyport, Massachusetts
+  - Nashville, Tennessee
+  - Texas
+organizations:
+  - Newburyport Herald
+  - Nashville Tennessean and American
+  - The Crisis (NAACP magazine)
 citation: 
   type: article-journal
   container-title: The Crisis

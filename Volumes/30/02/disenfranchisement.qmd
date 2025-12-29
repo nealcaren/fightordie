@@ -6,8 +6,22 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jun. 1925
-categories: 
-  - ""
+categories: []
+subjects:
+  - Voter disenfranchisement (African Americans)
+  - White primary (Democratic Party primaries)
+  - Literacy tests (voter qualification)
+  - Poll taxes (voter qualification)
+  - Grandfather clauses (voting exemptions)
+people:
+  - W. E. B. Du Bois
+places:
+  - Mississippi
+  - Louisiana
+  - Atlanta, Georgia
+organizations:
+  - Democratic Party
+  - The Crisis (magazine)
 citation: 
   type: article-journal
   container-title: The Crisis

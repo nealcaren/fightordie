@@ -6,8 +6,18 @@ author:
       given: W.E.B.
       family: Du Bois
 date: May 1914
-categories: 
-  - ""
+categories: []
+subjects:
+  - White supremacy and racial oppression
+  - Sexual exploitation and sexual violence against Black women
+  - Racialized gender oppression (intersection of race and gender)
+  - Imperialism and the ideology of the "White Man's Burden"
+  - Black motherhood, resilience, and resistance
+places:
+  - London (England)
+  - New York (New York, USA)
+  - Ethiopia
+  - Egypt
 citation: 
   type: article-journal
   container-title: The Crisis

@@ -6,8 +6,26 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Nov. 1932
-categories: 
-  - ""
+categories: []
+subjects:
+  - Philanthropy and foundation funding for Black education
+  - Educational research and surveys on African and African American education
+  - Funding of Negro schools and scholarships
+  - Race relations programming and white-directed educational initiatives
+  - Colonial/African education and missionary/white intermediary support
+people:
+  - W.E.B. Du Bois
+  - Booker T. Washington
+places:
+  - United States
+  - Africa
+  - Liberia
+  - New York City (New York)
+organizations:
+  - Phelps Stokes Fund
+  - Hampton Institute
+  - Tuskegee Institute
+  - Howard University
 citation: 
   type: article-journal
   container-title: The Crisis

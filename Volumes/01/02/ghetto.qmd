@@ -6,8 +6,17 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Dec. 1910
-categories: 
-  - Discrimination
+categories:
+  - Discriminationsubjects:
+  - Residential segregation (ghettos)
+  - Racial segregation (Jim Crow laws)
+  - Interracial social integration and association
+  - Educational advancement and social etiquette
+  - Civil rights and democratic equality
+places:
+  - Baltimore, Maryland
+  - Atlanta, Georgia
+  - Europe
 citation: 
   type: article-journal
   container-title: The Crisis

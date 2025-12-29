@@ -3,8 +3,24 @@ title: 'The Burning at Dyersburg: An N.A.A.C.P. Investigation'
 description: "W.E.B. Du Bois in The Crisis (1918) exposes the NAACP's investigation of Lation Scott's brutal burning, revealing racial terror and community complicity."
 author: N.A.A.C.P.
 date: Feb. 1918
-categories: 
-  - ""
+categories: []
+subjects:
+  - Lynching and mob violence
+  - NAACP anti-lynching investigation
+  - Educational inequality (segregated schools, pay disparities)
+  - Racial terror and community complicity
+people:
+  - Lation (Ligon) Scott
+  - W. E. B. Du Bois
+  - Evans Carne (Mayor of Dyersburg)
+places:
+  - Dyersburg, Tennessee
+  - Dyer County, Tennessee
+organizations:
+  - National Association for the Advancement of Colored People (NAACP)
+  - The Crisis (magazine)
+events:
+  - Lynching of Lation (Ligon) Scott (December 2, 1917)
 citation: 
   type: article-journal
   container-title: The Crisis

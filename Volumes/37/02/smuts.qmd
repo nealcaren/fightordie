@@ -6,8 +6,26 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1930
-categories: 
-  - ""
+categories: []
+subjects:
+  - White supremacy
+  - Racial segregation
+  - Voting rights
+  - Educational inequality
+  - Labor discrimination
+  - Pass laws
+people:
+  - Jan Christiaan Smuts
+  - J. B. M. Hertzog
+  - W. E. B. Du Bois
+places:
+  - Union of South Africa
+  - United States
+  - England
+  - Africa
+organizations:
+  - Government of the Union of South Africa
+  - The Crisis (magazine)
 citation: 
   type: article-journal
   container-title: The Crisis

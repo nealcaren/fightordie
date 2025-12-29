@@ -6,8 +6,25 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jan. 1930
-categories: 
-  - ""
+categories: []
+subjects:
+  - Securities speculation and stock-market gambling
+  - Margin trading and futures speculation (speculative credit)
+  - Destruction of credit and financial panic
+  - Impact of financial speculation on labor and wages
+  - Critique of American capitalism and corporate propaganda
+people:
+  - W. E. B. Du Bois
+  - Herbert Hoover
+places:
+  - Wall Street (New York, NY)
+  - United States
+  - Soviet Union
+organizations:
+  - New York Stock Exchange
+  - United States federal government
+events:
+  - Wall Street Crash (1929)
 citation: 
   type: article-journal
   container-title: The Crisis

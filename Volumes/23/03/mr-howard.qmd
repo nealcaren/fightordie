@@ -6,8 +6,23 @@ author:
       given: W.E.B.
       family: Du Bois
 date: January 1922
-categories: 
-  - ""
+categories: []
+subjects:
+  - Anti-lynching legislation
+  - Political patronage and token appointments
+  - African American political leadership
+  - Race dignity and self-respect
+people:
+  - Perry Howard
+  - Henry Lincoln Johnson
+places:
+  - United States
+  - Virginia
+organizations:
+  - United States Department of Justice
+  - Republican Party
+events:
+  - Dyer Anti-Lynching Bill Campaign (1921-1922)
 citation: 
   type: article-journal
   container-title: The Crisis

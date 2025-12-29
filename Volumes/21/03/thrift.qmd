@@ -6,8 +6,23 @@ author:
       given: W.E.B.
       family: Du Bois
 date: January 1921
-categories: 
-  - ""
+categories: []
+subjects:
+  - Thrift and savings (personal and household)
+  - Black economic self-help and cooperative investment
+  - Control and accumulation of capital (democratic ownership)
+  - Racial discrimination in banking and credit access
+  - Black business development and investment
+  - Economic education / financial literacy for African Americans
+people:
+  - W. E. B. Du Bois
+  - Unidentified Texas teacher (correspondent)
+places:
+  - Texas (United States)
+  - Atlanta, Georgia
+  - Harlem (New York City)
+organizations:
+  - The Crisis (magazine)
 citation: 
   type: article-journal
   container-title: The Crisis

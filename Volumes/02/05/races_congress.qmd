@@ -6,8 +6,26 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1911
-categories: 
-  - ""
+categories: []
+subjects:
+  - International race relations
+  - Interracial education and understanding
+  - Colonialism and imperial governance
+  - Racial anthropology (race science)
+  - International peace and goodwill
+people:
+  - Gustave Spiller
+  - Lord Weardale
+  - Dr. Felix Adler
+  - Arthur Balfour
+places:
+  - Eisenach, Germany
+organizations:
+  - Ethical Culture Society
+  - First Universal Races Congress
+  - Permanent Court of Arbitration
+events:
+  - First Universal Races Congress (1911)
 citation: 
   type: article-journal
   container-title: The Crisis

@@ -6,8 +6,23 @@ author:
       given: W.E.B.
       family: Du Bois
 date: May 1915
-categories: 
-  - ""
+categories: []
+subjects:
+  - African American collective action and unity
+  - Federal anti-discriminatory legislation (prevention/opposition)
+  - Civil rights agitation and advocacy (NAACP strategy)
+  - Higher education appropriations (Howard University funding)
+people:
+  - W.E.B. Du Bois
+  - Members of the Sixty-Third United States Congress
+places:
+  - Washington, D.C.
+organizations:
+  - National Association for the Advancement of Colored People (NAACP)
+  - United States Congress (Sixty-Third Congress)
+  - Howard University
+events:
+  - Adjournment of the Sixty-Third United States Congress without enactment of discriminatory legislation (1915)
 citation: 
   type: article-journal
   container-title: The Crisis

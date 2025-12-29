@@ -6,8 +6,22 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1914
-categories: 
-  - ""
+categories: []
+subjects:
+  - Taxation without representation — municipal taxation and African American taxpayers
+  - Municipal political disenfranchisement of African Americans
+  - Educational inequality — underfunding and exclusion from public schools
+  - Segregation in public facilities — parks, libraries, and educational institutions
+  - Tax incidence on tenants — rental burden of property taxes
+people:
+  - W. E. B. Du Bois
+places:
+  - Memphis, Tennessee
+  - American South
+organizations:
+  - City government of Memphis (Tennessee)
+  - Memphis public schools
+  - Cossett Library
 citation: 
   type: article-journal
   container-title: The Crisis

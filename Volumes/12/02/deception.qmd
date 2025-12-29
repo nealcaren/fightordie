@@ -6,8 +6,24 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jun. 1916
-categories: 
-  - ""
+categories: []
+subjects:
+  - Racial propaganda in the southern press
+  - Lynching and mob violence
+  - Comparative race relations — North vs. South
+  - Police protection and law enforcement for African Americans
+  - Black clerical employment in Massachusetts hospitals
+people:
+  - W. E. B. Du Bois
+  - Miss Bosfield
+places:
+  - Boston, Massachusetts
+  - Columbia, South Carolina
+  - Atlanta, Georgia
+  - Massachusetts
+organizations:
+  - The State (Columbia, S.C.)
+  - The Atlanta Constitution
 citation: 
   type: article-journal
   container-title: The Crisis

@@ -6,8 +6,24 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Apr. 1916
-categories: 
-  - ""
+categories: []
+subjects:
+  - Bloc voting — African Americans
+  - Negro political parties — United States (proposed)
+  - Party realignment — United States politics
+  - Disfranchisement and racial segregation in U.S. politics
+people:
+  - W. E. B. Du Bois
+  - Inez Milholland
+  - Robert R. Church, Jr.
+places:
+  - United States
+  - Solid South (Southern United States)
+  - Tennessee
+organizations:
+  - Republican Party (United States)
+  - Democratic Party (United States)
+  - Negro Party (proposed)
 citation: 
   type: article-journal
   container-title: The Crisis

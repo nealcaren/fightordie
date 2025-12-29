@@ -6,8 +6,25 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Apr. 1931
-categories: 
-  - ""
+categories: []
+subjects:
+  - Disenfranchisement (voting rights)
+  - Lynching and mob violence
+  - Educational inequality (segregated and unequal schools)
+  - Peonage (debt peonage and tenant exploitation)
+  - Bias in social‑science research on race
+people:
+  - T. J. Woofter
+  - W. E. B. Du Bois
+  - Edgar Gardner Murphy
+places:
+  - St. Helena Island, South Carolina
+  - Southern United States
+organizations:
+  - Julius Rosenwald Fund
+  - Phelps‑Stokes Fund
+  - The Baltimore Afro‑American (newspaper)
+  - The Crisis (magazine)
 citation: 
   type: article-journal
   container-title: The Crisis

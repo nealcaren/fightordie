@@ -6,8 +6,21 @@ author:
       given: W.E.B.
       family: Du Bois
 date: May 1918
-categories: 
-  - ""
+categories: []
+subjects:
+  - Educational inequality (African American access to advanced study)
+  - Industrial (vocational) education for African Americans
+  - Access to higher education / college preparation barriers
+  - Exclusion of African Americans from institutional governance
+people:
+  - W. E. B. Du Bois
+  - Hollis Burke Frissell
+  - J. E. Davis
+places:
+  - Hampton, Virginia
+organizations:
+  - Hampton Institute
+  - The Crisis
 citation: 
   type: article-journal
   container-title: The Crisis

@@ -6,8 +6,19 @@ author:
       given: W.E.B.
       family: Du Bois
 date: February 1921
-categories: 
-  - ""
+categories: []
+subjects:
+  - Voting rights
+  - Disfranchisement (Southern disfranchisement under Jim Crow)
+  - Apportionment and reduced representation under the Fourteenth Amendment
+  - Jim Crow laws
+  - Women's suffrage
+places:
+  - Southern United States
+  - United States
+organizations:
+  - United States Congress
+  - The Crisis (magazine)
 citation: 
   type: article-journal
   container-title: The Crisis

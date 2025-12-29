@@ -6,8 +6,22 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1913
-categories: 
-  - ""
+categories: []
+subjects:
+  - Disfranchisement — South Africa
+  - Racialized labor exploitation — South African mines
+  - Occupational disease — miner's phthisis (silicosis)
+  - Mining safety and mortality — South Africa
+  - Colonialism and imperial economic exploitation
+people:
+  - W. E. B. Du Bois
+places:
+  - South Africa
+  - London
+  - New York
+organizations:
+  - The Crisis
+  - South African mining industry
 citation: 
   type: article-journal
   container-title: The Crisis

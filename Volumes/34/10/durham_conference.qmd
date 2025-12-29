@@ -6,8 +6,21 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Dec. 1927
-categories: 
-  - ""
+categories: []
+subjects:
+  - Disfranchisement (voting rights)
+  - Educational opportunity (African Americans)
+  - Labor conditions and wages (Black labor)
+  - Black business and financial institutions (banks and insurance)
+  - Public health and crime in African American communities
+people:
+  - Du Bois, W. E. B.
+places:
+  - Durham, North Carolina
+organizations:
+  - The Crisis (magazine)
+events:
+  - Durham Conference (1927)
 citation: 
   type: article-journal
   container-title: The Crisis

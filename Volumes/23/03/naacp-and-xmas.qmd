@@ -6,8 +6,27 @@ author:
       given: W.E.B.
       family: Du Bois
 date: January 1922
-categories: 
-  - ""
+categories: []
+subjects:
+  - Anti-lynching legislation
+  - Ku Klux Klan exposure
+  - Legal defense and relief for victims of racial violence
+  - Fundraising and grassroots financial support for the NAACP
+people:
+  - W. E. B. Du Bois
+  - Warren G. Harding
+places:
+  - Tulsa, Oklahoma
+  - Arkansas
+  - Haiti
+organizations:
+  - National Association for the Advancement of Colored People (NAACP)
+  - The Crisis (magazine)
+  - Supreme Court of the United States
+events:
+  - Tulsa Race Riot (1921)
+  - Arkansas race riots (1919)
+  - Houston Riot (1917)
 citation: 
   type: article-journal
   container-title: The Crisis

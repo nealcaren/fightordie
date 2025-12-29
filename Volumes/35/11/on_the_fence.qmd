@@ -6,8 +6,26 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Nov. 1928
-categories: 
-  - ""
+categories: []
+subjects:
+  - Voter registration and turnout (African Americans)
+  - African American electoral strategy
+  - Color caste (racial exclusion from public office)
+  - Plutocracy and oligarchy (economic control of politics)
+  - Industrial democracy (labor-friendly political representation)
+people:
+  - W. E. B. Du Bois
+  - Herbert Hoover
+  - Alfred E. Smith
+places:
+  - Southern United States
+  - United States
+organizations:
+  - United States Congress
+  - Democratic Party (United States)
+  - Republican Party (United States)
+events:
+  - United States presidential election (1928)
 citation: 
   type: article-journal
   container-title: The Crisis

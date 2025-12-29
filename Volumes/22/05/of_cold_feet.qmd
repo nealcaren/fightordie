@@ -6,8 +6,20 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar.. 1921
-categories: 
-  - ""
+categories: []
+subjects:
+  - Racist libel and stereotyping in film and theater
+  - Civic duty and public protest against racial injustice
+  - Performative patriotism and veterans' organizations
+  - Failure of protest mobilization
+people:
+  - W. E. B. Du Bois
+  - Unnamed American Legion members
+places:
+  - Atlanta, Georgia
+organizations:
+  - American Legion
+  - The Crisis (magazine)
 citation: 
   type: article-journal
   container-title: The Crisis

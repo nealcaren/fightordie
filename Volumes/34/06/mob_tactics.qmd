@@ -6,8 +6,21 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Aug. 1927
-categories: 
-  - ""
+categories: []
+subjects:
+  - Lynching
+  - Mob violence and race riots
+  - Police misconduct and racial discrimination
+  - Black self-defense and firearms
+  - Colonialism and imperial repression
+people:
+  - W. E. B. Du Bois
+places:
+  - United States
+  - England
+organizations:
+  - Local police departments (United States)
+  - State militias (United States)
 citation: 
   type: article-journal
   container-title: The Crisis

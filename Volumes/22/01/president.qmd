@@ -6,8 +6,24 @@ author:
       given: W.E.B.
       family: Du Bois
 date: May 1922
-categories: 
-  - ""
+categories: []
+subjects:
+  - Anti-lynching legislation
+  - Federal employment discrimination — Republican patronage
+  - Interstate Jim Crow travel (segregation in interstate transportation)
+  - Common school education inequality
+  - U.S. policy toward Haiti and Liberia
+people:
+  - Warren G. Harding
+  - George E. Haynes
+places:
+  - United States
+  - Haiti
+  - Liberia
+organizations:
+  - Republican Party (United States)
+  - U.S. Department of Labor
+  - Bureau of the Registry of the Treasury
 citation: 
   type: article-journal
   container-title: The Crisis

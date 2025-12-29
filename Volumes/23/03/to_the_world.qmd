@@ -6,8 +6,23 @@ author:
       given: W.E.B.
       family: Du Bois
 date: January 1922
-categories: 
-  - ""
+categories: []
+subjects:
+  - Unemployment and racial labor exclusion (African Americans)
+  - Militarism and war spending
+  - Disarmament and international trust
+  - Imperialism and colonial aggression in China and East Asia
+  - Racial immigration exclusion (White Australia policy)
+places:
+  - United States
+  - China
+  - Australia
+  - Great Britain
+  - Japan
+organizations:
+  - United States Government
+events:
+  - World War I (1914–1918)
 citation: 
   type: article-journal
   container-title: The Crisis

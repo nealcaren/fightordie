@@ -6,8 +6,21 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1920
-categories: 
-  - ""
+categories: []
+subjects:
+  - Anti-lynching campaigns
+  - Jim Crow laws
+  - Voting rights (African Americans)
+  - NAACP advocacy and fundraising
+  - Racial democracy
+people:
+  - W. E. B. Du Bois
+  - James Weldon Johnson
+places:
+  - Arkansas
+  - United States
+organizations:
+  - National Association for the Advancement of Colored People (NAACP)
 citation: 
   type: article-journal
   container-title: The Crisis

@@ -6,8 +6,25 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jun. 1919
-categories: 
-  - ""
+categories: []
+subjects:
+  - Freedom of speech — African Americans
+  - Censorship of the African American press
+  - Southern white supremacy (Bourbon South)
+  - Racist Southern newspapers and hate propaganda
+  - Black radicalism and protest (postwar 1919)
+people:
+  - W.E.B. Du Bois
+  - James K. Vardaman
+places:
+  - Jackson, Mississippi
+  - Anderson, South Carolina
+  - Southern United States
+organizations:
+  - The Crisis (magazine)
+  - United States Congress
+  - United States Department of Justice
+  - Vardaman's Weekly (periodical)
 citation: 
   type: article-journal
   container-title: The Crisis
