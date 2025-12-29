@@ -1,0 +1,45 @@
+---
+title: "Browse by Place"
+description: "Explore articles by geographic location and region"
+---
+
+## All Place Browse Pages
+
+Browse articles by the geographic locations that are central to Du Bois's writings in *The Crisis* (1910-1934).
+
+- [United States](united_states.html) (286 articles)
+- [Southern United States](southern_united_states.html) (162 articles)
+- [Washington, D.C.](washington_dc.html) (60 articles)
+- [Africa](africa.html) (43 articles)
+- [Mississippi](mississippi.html) (36 articles)
+- [Chicago, Illinois](chicago_illinois.html) (36 articles)
+- [Atlanta, Georgia](atlanta_georgia.html) (26 articles)
+- [Northern United States](northern_united_states.html) (21 articles)
+- [New York, New York](new_york_new_york.html) (20 articles)
+- [Haiti](haiti.html) (20 articles)
+- [Philadelphia, Pennsylvania](philadelphia_pennsylvania.html) (18 articles)
+- [Europe](europe.html) (18 articles)
+- [South Carolina](south_carolina.html) (16 articles)
+- [Georgia](georgia.html) (15 articles)
+- [Liberia](liberia.html) (15 articles)
+- [New York City, New York](new_york_city_new_york.html) (13 articles)
+- [Alabama](alabama.html) (13 articles)
+- [Memphis, Tennessee](memphis_tennessee.html) (12 articles)
+- [Texas](texas.html) (12 articles)
+- [Paris, France](paris_france.html) (12 articles)
+- [India](india.html) (11 articles)
+- [Virginia](virginia.html) (11 articles)
+- [Germany](germany.html) (11 articles)
+- [England](england.html) (11 articles)
+- [France](france.html) (11 articles)
+- [Georgia (U.S. state)](georgia_us_state.html) (10 articles)
+- [New York (State)](new_york_state.html) (10 articles)
+- [London, England](london_england.html) (10 articles)
+- [Houston, Texas](houston_texas.html) (10 articles)
+- [Mexico](mexico.html) (10 articles)
+
+---
+
+**Note:** Only places mentioned in 10 or more articles are listed. The archive references 493+ unique places total.
+
+[← Back to Browse Index](../index.html)

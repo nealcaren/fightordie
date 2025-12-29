@@ -1,0 +1,33 @@
+---
+title: "Browse by People"
+description: "Explore articles discussing specific historical figures and leaders"
+---
+
+## All People Browse Pages
+
+Browse articles by the people substantially discussed in *The Crisis* (1910-1934).
+
+- [Woodrow Wilson](woodrow_wilson.html) (34 articles)
+- [Booker T. Washington](booker_t_washington.html) (17 articles)
+- [Theodore Roosevelt](theodore_roosevelt.html) (14 articles)
+- [Herbert Hoover](herbert_hoover.html) (12 articles)
+- [James K. Vardaman](james_k_vardaman.html) (8 articles)
+- [Warren G. Harding](warren_g_harding.html) (8 articles)
+- [Jesus Christ](jesus_christ.html) (7 articles)
+- [William H. Taft](william_h_taft.html) (7 articles)
+- [Marcus Garvey](marcus_garvey.html) (7 articles)
+- [Robert R. Moton](robert_r_moton.html) (7 articles)
+- [Benjamin R. Tillman](benjamin_r_tillman.html) (6 articles)
+- [Frederick Douglass](frederick_douglass.html) (6 articles)
+- [Alfred E. Smith](alfred_e_smith.html) (6 articles)
+- [William Howard Taft](william_howard_taft.html) (5 articles)
+- [Claude McKay](claude_mckay.html) (5 articles)
+- [Blaise Diagne](blaise_diagne.html) (5 articles)
+- [James Weldon Johnson](james_weldon_johnson.html) (5 articles)
+- [Joel E. Spingarn](joel_e_spingarn.html) (5 articles)
+
+---
+
+**Note:** Only people discussed in 5 or more articles are listed. The archive mentions 620+ unique people total. W.E.B. Du Bois is excluded as the author of most articles.
+
+[← Back to Browse Index](../index.html)

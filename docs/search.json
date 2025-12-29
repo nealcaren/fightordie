@@ -7824,5 +7824,47 @@
     "title": "Index Taxonomy for W.E.B. Du Bois Digital Archive",
     "section": "",
     "text": "Index terms are generated using add_article_index.py:\n# Test on 10 articles\nuv run add_article_index.py --dry-run --limit 10\n\n# Index all articles\nuv run add_article_index.py --workers 10\nThe script uses GPT-5-mini to extract structured index terms from article titles, descriptions, and content previews."
+  },
+  {
+    "objectID": "browse/subjects/index.html",
+    "href": "browse/subjects/index.html",
+    "title": "Browse by Subject",
+    "section": "",
+    "text": "Browse articles by major themes in Du Bois’s writings from The Crisis (1910-1934).\n\nLynching (72 articles)\nEducational inequality (18 articles)\nLynching and mob violence (17 articles)\nWomen’s suffrage (16 articles)\nVoting rights (16 articles)\nPan-Africanism (16 articles)\nJim Crow laws (15 articles)\nDisfranchisement (voting rights) (15 articles)\nAnti-lynching legislation (12 articles)\nVoting rights (African Americans) (11 articles)\nResidential segregation (10 articles)\nLynching and racial violence (10 articles)\nWhite supremacy (9 articles)\nJim Crow laws (racial segregation) (9 articles)\nAfrican American military service (World War I) (9 articles)\nJim Crow laws and racial segregation (8 articles)\nRacial segregation (8 articles)\nInterracial marriage (7 articles)\nLynching (United States) (7 articles)\nRace relations in the United States (7 articles)\nRace relations — United States (6 articles)\nDisfranchisement and voting rights (6 articles)\nDisfranchisement (African Americans) (5 articles)\nAfrican American voting rights (5 articles)\nRacial discrimination in the criminal justice system (5 articles)\nEducational inequality for African Americans (5 articles)\nDisfranchisement of African Americans (5 articles)\nMilitary discrimination against African Americans (5 articles)\n\n\nNote: Only subjects with 5 or more articles are listed. The archive contains 2,750+ unique subjects total.\n← Back to Browse Index"
+  },
+  {
+    "objectID": "browse/subjects/index.html#all-subject-browse-pages",
+    "href": "browse/subjects/index.html#all-subject-browse-pages",
+    "title": "Browse by Subject",
+    "section": "",
+    "text": "Browse articles by major themes in Du Bois’s writings from The Crisis (1910-1934).\n\nLynching (72 articles)\nEducational inequality (18 articles)\nLynching and mob violence (17 articles)\nWomen’s suffrage (16 articles)\nVoting rights (16 articles)\nPan-Africanism (16 articles)\nJim Crow laws (15 articles)\nDisfranchisement (voting rights) (15 articles)\nAnti-lynching legislation (12 articles)\nVoting rights (African Americans) (11 articles)\nResidential segregation (10 articles)\nLynching and racial violence (10 articles)\nWhite supremacy (9 articles)\nJim Crow laws (racial segregation) (9 articles)\nAfrican American military service (World War I) (9 articles)\nJim Crow laws and racial segregation (8 articles)\nRacial segregation (8 articles)\nInterracial marriage (7 articles)\nLynching (United States) (7 articles)\nRace relations in the United States (7 articles)\nRace relations — United States (6 articles)\nDisfranchisement and voting rights (6 articles)\nDisfranchisement (African Americans) (5 articles)\nAfrican American voting rights (5 articles)\nRacial discrimination in the criminal justice system (5 articles)\nEducational inequality for African Americans (5 articles)\nDisfranchisement of African Americans (5 articles)\nMilitary discrimination against African Americans (5 articles)\n\n\nNote: Only subjects with 5 or more articles are listed. The archive contains 2,750+ unique subjects total.\n← Back to Browse Index"
+  },
+  {
+    "objectID": "browse/people/index.html",
+    "href": "browse/people/index.html",
+    "title": "Browse by People",
+    "section": "",
+    "text": "Browse articles by the people substantially discussed in The Crisis (1910-1934).\n\nWoodrow Wilson (34 articles)\nBooker T. Washington (17 articles)\nTheodore Roosevelt (14 articles)\nHerbert Hoover (12 articles)\nJames K. Vardaman (8 articles)\nWarren G. Harding (8 articles)\nJesus Christ (7 articles)\nWilliam H. Taft (7 articles)\nMarcus Garvey (7 articles)\nRobert R. Moton (7 articles)\nBenjamin R. Tillman (6 articles)\nFrederick Douglass (6 articles)\nAlfred E. Smith (6 articles)\nWilliam Howard Taft (5 articles)\nClaude McKay (5 articles)\nBlaise Diagne (5 articles)\nJames Weldon Johnson (5 articles)\nJoel E. Spingarn (5 articles)\n\n\nNote: Only people discussed in 5 or more articles are listed. The archive mentions 620+ unique people total. W.E.B. Du Bois is excluded as the author of most articles.\n← Back to Browse Index"
+  },
+  {
+    "objectID": "browse/people/index.html#all-people-browse-pages",
+    "href": "browse/people/index.html#all-people-browse-pages",
+    "title": "Browse by People",
+    "section": "",
+    "text": "Browse articles by the people substantially discussed in The Crisis (1910-1934).\n\nWoodrow Wilson (34 articles)\nBooker T. Washington (17 articles)\nTheodore Roosevelt (14 articles)\nHerbert Hoover (12 articles)\nJames K. Vardaman (8 articles)\nWarren G. Harding (8 articles)\nJesus Christ (7 articles)\nWilliam H. Taft (7 articles)\nMarcus Garvey (7 articles)\nRobert R. Moton (7 articles)\nBenjamin R. Tillman (6 articles)\nFrederick Douglass (6 articles)\nAlfred E. Smith (6 articles)\nWilliam Howard Taft (5 articles)\nClaude McKay (5 articles)\nBlaise Diagne (5 articles)\nJames Weldon Johnson (5 articles)\nJoel E. Spingarn (5 articles)\n\n\nNote: Only people discussed in 5 or more articles are listed. The archive mentions 620+ unique people total. W.E.B. Du Bois is excluded as the author of most articles.\n← Back to Browse Index"
+  },
+  {
+    "objectID": "browse/places/index.html",
+    "href": "browse/places/index.html",
+    "title": "Browse by Place",
+    "section": "",
+    "text": "Browse articles by the geographic locations that are central to Du Bois’s writings in The Crisis (1910-1934).\n\nUnited States (286 articles)\nSouthern United States (162 articles)\nWashington, D.C. (60 articles)\nAfrica (43 articles)\nMississippi (36 articles)\nChicago, Illinois (36 articles)\nAtlanta, Georgia (26 articles)\nNorthern United States (21 articles)\nNew York, New York (20 articles)\nHaiti (20 articles)\nPhiladelphia, Pennsylvania (18 articles)\nEurope (18 articles)\nSouth Carolina (16 articles)\nGeorgia (15 articles)\nLiberia (15 articles)\nNew York City, New York (13 articles)\nAlabama (13 articles)\nMemphis, Tennessee (12 articles)\nTexas (12 articles)\nParis, France (12 articles)\nIndia (11 articles)\nVirginia (11 articles)\nGermany (11 articles)\nEngland (11 articles)\nFrance (11 articles)\nGeorgia (U.S. state) (10 articles)\nNew York (State) (10 articles)\nLondon, England (10 articles)\nHouston, Texas (10 articles)\nMexico (10 articles)\n\n\nNote: Only places mentioned in 10 or more articles are listed. The archive references 493+ unique places total.\n← Back to Browse Index"
+  },
+  {
+    "objectID": "browse/places/index.html#all-place-browse-pages",
+    "href": "browse/places/index.html#all-place-browse-pages",
+    "title": "Browse by Place",
+    "section": "",
+    "text": "Browse articles by the geographic locations that are central to Du Bois’s writings in The Crisis (1910-1934).\n\nUnited States (286 articles)\nSouthern United States (162 articles)\nWashington, D.C. (60 articles)\nAfrica (43 articles)\nMississippi (36 articles)\nChicago, Illinois (36 articles)\nAtlanta, Georgia (26 articles)\nNorthern United States (21 articles)\nNew York, New York (20 articles)\nHaiti (20 articles)\nPhiladelphia, Pennsylvania (18 articles)\nEurope (18 articles)\nSouth Carolina (16 articles)\nGeorgia (15 articles)\nLiberia (15 articles)\nNew York City, New York (13 articles)\nAlabama (13 articles)\nMemphis, Tennessee (12 articles)\nTexas (12 articles)\nParis, France (12 articles)\nIndia (11 articles)\nVirginia (11 articles)\nGermany (11 articles)\nEngland (11 articles)\nFrance (11 articles)\nGeorgia (U.S. state) (10 articles)\nNew York (State) (10 articles)\nLondon, England (10 articles)\nHouston, Texas (10 articles)\nMexico (10 articles)\n\n\nNote: Only places mentioned in 10 or more articles are listed. The archive references 493+ unique places total.\n← Back to Browse Index"
   }
 ]
