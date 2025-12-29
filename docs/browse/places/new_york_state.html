@@ -6,9 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="description" content="Explore W.E.B. Du Bois’s writings from The Crisis by decade, year, or volume">
+<meta name="description" content="Articles about New York (State) from The Crisis (1910-1934)">
 
-<title>Browse Articles – Dare You Fight</title>
+<title>New York (State) – Dare You Fight</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -24,23 +24,25 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-dc5736eb88acd21df21734731101e0f7.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-listing/list.min.js"></script>
+<script src="../../site_libs/quarto-listing/quarto-listing.js"></script>
+<script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-dc5736eb88acd21df21734731101e0f7.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -68,6 +70,35 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-date','listing-title','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
+      
+      searchColumns: ["listing-date","listing-title","listing-author"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -93,29 +124,58 @@ ul.task-list li input[type="checkbox"] {
 }
 </script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
-<link rel="stylesheet" href="styles.css">
-<meta property="og:title" content="Browse Articles – Dare You Fight">
-<meta property="og:description" content="Explore W.E.B. Du Bois’s writings from The Crisis by decade, year, or volume">
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
+<link rel="stylesheet" href="../../styles.css">
+<meta property="og:title" content="New York (State) – Dare You Fight">
+<meta property="og:description" content="Articles about New York (State) from The Crisis (1910-1934)">
 <meta property="og:site_name" content="Dare You Fight">
 <meta property="og:locale" content="en_US">
-<meta name="twitter:title" content="Browse Articles – Dare You Fight">
-<meta name="twitter:description" content="Explore W.E.B. Du Bois’s writings from The Crisis by decade, year, or volume">
+<meta name="twitter:title" content="New York (State) – Dare You Fight">
+<meta name="twitter:description" content="Articles about New York (State) from The Crisis (1910-1934)">
 <meta name="twitter:creator" content="@nealcaren">
 <meta name="twitter:card" content="summary_large_image">
 </head>
 
-<body class="nav-fixed fullcontent quarto-light">
+<body class="nav-fixed quarto-light">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="./index.html" class="navbar-brand navbar-brand-logo">
-    <img src="./Images/logo.png" alt="" class="navbar-logo">
+    <a href="../../index.html" class="navbar-brand navbar-brand-logo">
+    <img src="../../Images/logo.png" alt="" class="navbar-logo">
     </a>
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">Dare You Fight</span>
     </a>
   </div>
@@ -126,19 +186,19 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./browse.html" aria-current="page"> 
+    <a class="nav-link" href="../../browse.html"> 
 <span class="menu-text">Browse Articles</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./listing.html"> 
+    <a class="nav-link" href="../../listing.html"> 
 <span class="menu-text">All Articles</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./about.html"> 
+    <a class="nav-link" href="../../about.html"> 
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./backround.html"> 
+    <a class="nav-link" href="../../backround.html"> 
 <span class="menu-text">Background</span></a>
   </li>  
   <li class="nav-item dropdown ">
@@ -147,15 +207,15 @@ ul.task-list li input[type="checkbox"] {
     </a>
     <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-more">    
         <li>
-    <a class="dropdown-item" href="./map.html">
+    <a class="dropdown-item" href="../../map.html">
  <span class="dropdown-text">Article Map</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./covers.html">
+    <a class="dropdown-item" href="../../covers.html">
  <span class="dropdown-text">Covers</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./credits.html">
+    <a class="dropdown-item" href="../../credits.html">
  <span class="dropdown-text">Credits</span></a>
   </li>  
     </ul>
@@ -171,18 +231,26 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#new-york-state-10-articles" id="toc-new-york-state-10-articles" class="nav-link active" data-scroll-target="#new-york-state-10-articles">New York (State) (10 articles)</a></li>
+  </ul>
+</nav>
+    </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Browse Articles</h1>
+<h1 class="title">New York (State)</h1>
 </div>
 
 <div>
   <div class="description">
-    Explore W.E.B. Du Bois’s writings from The Crisis by decade, year, or volume
+    Articles about New York (State) from The Crisis (1910-1934)
   </div>
 </div>
 
@@ -199,94 +267,192 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>Explore W.E.B. Du Bois’s 600+ articles from <em>The Crisis</em> magazine organized by topic, time period, or volume.</p>
-<section id="browse-by-topic" class="level2">
-<h2 class="anchored" data-anchor-id="browse-by-topic">Browse by Topic</h2>
-<p>All 708 articles have been indexed with structured metadata using Library Science principles. Browse by:</p>
-<ul>
-<li><strong><a href="browse/subjects/">Subjects</a></strong> - 28 major topics including Lynching, Voting Rights, Pan-Africanism, Educational Inequality</li>
-<li><strong><a href="browse/people/">People</a></strong> - 18 historical figures including Woodrow Wilson, Booker T. Washington, Marcus Garvey</li>
-<li><strong><a href="browse/places/">Places</a></strong> - 30 locations including Haiti, Chicago, Atlanta, Africa</li>
-</ul>
-<p><a href="./browse/index.html"><strong>→ Full Browse Index</strong></a></p>
+<section id="new-york-state-10-articles" class="level2">
+<h2 class="anchored" data-anchor-id="new-york-state-10-articles">New York (State) (10 articles)</h2>
+<p>Articles from <em>The Crisis</em> that focus on New York (State).</p>
+<p>Use the search box below to find specific articles.</p>
+
+
+
 </section>
-<section id="by-decade" class="level2">
-<h2 class="anchored" data-anchor-id="by-decade">By Decade</h2>
-<div class="grid">
-<section id="s-the-founding-years" class="level3 g-col-12 g-col-md-6">
-<h3 class="anchored" data-anchor-id="s-the-founding-years"><a href="./browse/1910s.html">1910s: The Founding Years</a></h3>
-<p>The Crisis is launched. Du Bois establishes his voice on segregation, voting rights, and the NAACP’s mission during a period of intense racial violence and World War I.</p>
-<p><strong>Key themes:</strong> Founding the NAACP, anti-lynching campaigns, WWI and the Great Migration</p>
-</section>
-<section id="s-post-war-renaissance" class="level3 g-col-12 g-col-md-6">
-<h3 class="anchored" data-anchor-id="s-post-war-renaissance"><a href="browse/1920s.qmd">1920s: Post-War &amp; Renaissance</a></h3>
-<p>The Jazz Age and Harlem Renaissance. Du Bois writes on the “New Negro,” Pan-Africanism, and the contradictions of American democracy in an age of cultural flowering.</p>
-<p><strong>Key themes:</strong> Pan-African Congresses, Harlem Renaissance, Marcus Garvey, political disillusionment</p>
-</section>
-<section id="depression-era" class="level3 g-col-12 g-col-md-6">
-<h3 class="anchored" data-anchor-id="depression-era"><a href="browse/1930s.qmd">1930-1934: Depression Era</a></h3>
-<p>Du Bois’s final years at The Crisis. Economic crisis reshapes debates over segregation, self-help, and the role of organized labor.</p>
-<p><strong>Key themes:</strong> Great Depression, economic justice, debates on segregation, Communist Party</p>
-</section>
+
+<div class="quarto-listing quarto-listing-container-table" id="listing-listing">
+<div class="listing-actions-group">
+   <div class="input-group input-group-sm quarto-listing-sort">
+    <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
+    <select id="listing-listing-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
+      <option value="" disabled="" selected="" hidden="">Order By</option>
+      <option value="index" data-direction="asc">Default</option>
+      <option value="listing-date-sort" data-direction="asc">
+        Date - Oldest
+      </option>
+      <option value="listing-date-sort" data-direction="desc">
+        Date - Newest
+      </option>
+      <option value="listing-title-sort" data-direction="asc">
+        Title
+      </option>
+    </select>
+  </div>
+    <div class="input-group input-group-sm quarto-listing-filter">
+      <span class="input-group-text"><i class="bi bi-search"></i></span>
+      <input type="text" class="search form-control" placeholder="Filter">
+    </div>
 </div>
-</section>
-<section id="by-year" class="level2">
-<h2 class="anchored" data-anchor-id="by-year">By Year</h2>
-<details>
-<summary>
-<strong>1910-1914: Early Years</strong>
-</summary>
-<ul>
-<li><a href="browse/1910.qmd">1910</a> - Launch of The Crisis (Nov-Dec)</li>
-<li><a href="browse/1911.qmd">1911</a> - Establishing the voice</li>
-<li><a href="browse/1912.qmd">1912</a> - Growing influence</li>
-<li><a href="browse/1913.qmd">1913</a> - Political battles</li>
-<li><a href="browse/1914.qmd">1914</a> - Eve of World War I</li>
-</ul>
-</details>
-<details>
-<summary>
-<strong>1915-1919: World War I Era</strong>
-</summary>
-<ul>
-<li><a href="browse/1915.qmd">1915</a> - War in Europe begins</li>
-<li><a href="browse/1916.qmd">1916</a> - Presidential politics</li>
-<li><a href="browse/1917.qmd">1917</a> - U.S. enters war, Great Migration, Houston Mutiny</li>
-<li><a href="browse/1918.qmd">1918</a> - War ends, flu pandemic</li>
-<li><a href="browse/1919.qmd">1919</a> - Red Summer of race riots</li>
-</ul>
-</details>
-<details>
-<summary>
-<strong>1920-1929: Jazz Age</strong>
-</summary>
-<ul>
-<li><a href="browse/1920-1924.qmd">1920-1924</a> - Post-war adjustment, Pan-African Congresses</li>
-<li><a href="browse/1925-1929.qmd">1925-1929</a> - Harlem Renaissance peaks</li>
-</ul>
-</details>
-<details>
-<summary>
-<strong>1930-1934: Final Years</strong>
-</summary>
-<ul>
-<li><a href="browse/1930-1934.qmd">1930-1934</a> - Depression, debates on separation vs integration</li>
-</ul>
-</details>
-</section>
-<section id="other-ways-to-explore" class="level2">
-<h2 class="anchored" data-anchor-id="other-ways-to-explore">Other Ways to Explore</h2>
-<ul>
-<li><strong><a href="./listing.html">All Articles (Chronological)</a></strong> - Complete listing with search</li>
-<li><strong><a href="./browse/volumes.html">By Volume &amp; Issue</a></strong> - Browse by original publication</li>
-<li><strong><a href="./map.html">Article Map</a></strong> - Geographic visualization</li>
-<li><strong><a href="./covers.html">Magazine Covers</a></strong> - Visual history of The Crisis</li>
-</ul>
+<table class="quarto-listing-table table">
+<thead>
+<tr>
 
+<th>
+<a class="sort" data-sort="listing-date-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Date</a>
+</th>
 
-</section>
+<th>
+<a class="sort" data-sort="listing-title-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Title</a>
+</th>
 
-</main> <!-- /main -->
+<th>
+Description
+</th>
+
+</tr>
+</thead>
+<tbody class="list">
+
+<tr data-index="0" data-categories="JTVCb2JqZWN0JTIwT2JqZWN0JTVEJTJDQWZyaWNhbiUyMEFtZXJpY2FuJTIwdm90aW5nJTIwYmVoYXZpb3IlMkNQb2xpdGljYWwlMjByZWFsaWdubWVudCUyMG9mJTIwQmxhY2slMjB2b3RlcnMlMkNEZW1vY3JhdGljJTIwUGFydHklMjAlRTIlODAlOTQlMjByYWNlJTIwcG9saWN5JTJDUmVwdWJsaWNhbiUyMFBhcnR5JTIwZmFpbHVyZXMlMjB0byUyMHVwaG9sZCUyMHBsZWRnZXMlMjB0byUyMEFmcmljYW4lMjBBbWVyaWNhbnMlMkNPcHByZXNzaXZlJTIwcmFjZS1iYXNlZCUyMGxlZ2lzbGF0aW9u" data-listing-date-sort="-1864580400000" data-listing-file-modified-sort="1767013993941" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="355" data-listing-title-sort="The Election" data-listing-filename-sort="election.qmd">
+<td>
+<span class="listing-date">1910 (Dec)</span>
+</td>
+<td>
+<a href="../../Volumes/01/02/election.html" class="title listing-title">The Election</a>
+</td>
+<td>
+<span class="listing-description">W.E.B. Du Bois, The Crisis (1910), critiques Black voters’ Democratic shift, urging Democrats to defend racial equality and reject reactionary, oppressive laws.</span>
+</td>
+
+</tr>
+
+<tr data-index="1" data-categories="" data-listing-date-sort="-1859223600000" data-listing-file-modified-sort="1767013957633" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="253" data-listing-title-sort="Rampant Democracy" data-listing-filename-sort="rampant_democracy.qmd">
+<td>
+<span class="listing-date">1911 (Feb)</span>
+</td>
+<td>
+<a href="../../Volumes/01/04/rampant_democracy.html" class="title listing-title">Rampant Democracy</a>
+</td>
+<td>
+<span class="listing-description">W.E.B. Du Bois in The Crisis (1911) exposes how democracy masks racial and class segregation in education, mocking calls for separate schools.</span>
+</td>
+
+</tr>
+
+<tr data-index="2" data-categories="" data-listing-date-sort="-1827687600000" data-listing-file-modified-sort="1767013957525" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1111" data-listing-title-sort="Politics" data-listing-filename-sort="politics.qmd">
+<td>
+<span class="listing-date">1912 (Feb)</span>
+</td>
+<td>
+<a href="../../Volumes/04/04/politics.html" class="title listing-title">Politics</a>
+</td>
+<td>
+<span class="listing-description">W.E.B. Du Bois argues in The Crisis (1912) that Black votes hold the balance of power, urging strategic demands for democracy, justice, and education reforms.</span>
+</td>
+
+</tr>
+
+<tr data-index="3" data-categories="" data-listing-date-sort="-1817233200000" data-listing-file-modified-sort="1767013957551" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="640" data-listing-title-sort="The Election" data-listing-filename-sort="the_election.qmd">
+<td>
+<span class="listing-date">1912 (Jun)</span>
+</td>
+<td>
+<a href="../../Volumes/05/02/the_election.html" class="title listing-title">The Election</a>
+</td>
+<td>
+<span class="listing-description">W.E.B. Du Bois in The Crisis (1912) defends Black support for Wilson, warns of Southern racism and disfranchisement, and urges real justice and democracy.</span>
+</td>
+
+</tr>
+
+<tr data-index="4" data-categories="JTVCb2JqZWN0JTIwT2JqZWN0JTVEJTJDV29tZW4ncyUyMHN1ZmZyYWdlJTJDUmFjZSUyMGFuZCUyMHN1ZmZyYWdlJTJDTmF0aXZpc20lMjBhbmQlMjBpbW1pZ3JhdGlvbiUyMGluJTIwZWxlY3RvcmFsJTIwcG9saXRpY3MlMkNWb3RpbmclMjByaWdodHMlMjBhbmQlMjBkZW1vY3JhY3klMkNVcmJhbiUyMGVsZWN0b3JhbCUyMHBvbGl0aWNzJTIwKE5ldyUyMFlvcmsp" data-listing-date-sort="-1732993200000" data-listing-file-modified-sort="1767013993936" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="114" data-listing-title-sort="Suffrage and Women" data-listing-filename-sort="suffrage_women.qmd">
+<td>
+<span class="listing-date">1915 (Feb)</span>
+</td>
+<td>
+<a href="../../Volumes/09/04/suffrage_women.html" class="title listing-title">Suffrage and Women</a>
+</td>
+<td>
+<span class="listing-description">In 1915 W.E.B. Du Bois in The Crisis warns that suffrage allies use racist, nativist calculations that endanger democracy and the women’s movement.</span>
+</td>
+
+</tr>
+
+<tr data-index="5" data-categories="" data-listing-date-sort="-1730574000000" data-listing-file-modified-sort="1767013957590" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="553" data-listing-title-sort="A Pageant" data-listing-filename-sort="pageant.qmd">
+<td>
+<span class="listing-date">1915 (Mar)</span>
+</td>
+<td>
+<a href="../../Volumes/10/05/pageant.html" class="title listing-title">A Pageant</a>
+</td>
+<td>
+<span class="listing-description">In 1915 W.E.B. Du Bois in The Crisis launches the Horizon Guild to stage pageants of Negro history, advancing race pride, democracy, and cultural education.</span>
+</td>
+
+</tr>
+
+<tr data-index="6" data-categories="" data-listing-date-sort="-1630612800000" data-listing-file-modified-sort="1767013957658" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="629" data-listing-title-sort="Votes for Women" data-listing-filename-sort="votes_for_women.qmd">
+<td>
+<span class="listing-date">1918 (May)</span>
+</td>
+<td>
+<a href="../../Volumes/15/01/votes_for_women.html" class="title listing-title">Votes for Women</a>
+</td>
+<td>
+<span class="listing-description">W.E.B. Du Bois in The Crisis (1918) urges Black voters to back woman suffrage as a moral and democratic defense against racial disfranchisement.</span>
+</td>
+
+</tr>
+
+<tr data-index="7" data-categories="" data-listing-date-sort="-1596398400000" data-listing-file-modified-sort="1767013957599" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="423" data-listing-title-sort="Votes" data-listing-filename-sort="votes.qmd">
+<td>
+<span class="listing-date">1919 (Jun)</span>
+</td>
+<td>
+<a href="../../Volumes/19/02/votes.html" class="title listing-title">Votes</a>
+</td>
+<td>
+<span class="listing-description">In 1919 W.E.B. Du Bois in The Crisis argues Black suffrage is the central racial struggle: Northern voters can restore democracy, end Southern disfranchisement.</span>
+</td>
+
+</tr>
+
+<tr data-index="8" data-categories="" data-listing-date-sort="-1307044800000" data-listing-file-modified-sort="1767013957537" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1385" data-listing-title-sort="The Negro Voter" data-listing-filename-sort="negro_voter.qmd">
+<td>
+<span class="listing-date">1928 (Aug)</span>
+</td>
+<td>
+<a href="../../Volumes/35/08/negro_voter.html" class="title listing-title">The Negro Voter</a>
+</td>
+<td>
+<span class="listing-description">W.E.B. Du Bois in The Crisis (1928) argues the disenfranchised Negro vote can shape democracy when educated, mobilized, and strategically organized.</span>
+</td>
+
+</tr>
+
+<tr data-index="9" data-categories="" data-listing-date-sort="-1304366400000" data-listing-file-modified-sort="1767013957536" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="279" data-listing-title-sort="Houston" data-listing-filename-sort="houston.qmd">
+<td>
+<span class="listing-date">1928 (Sep)</span>
+</td>
+<td>
+<a href="../../Volumes/35/09/houston.html" class="title listing-title">Houston</a>
+</td>
+<td>
+<span class="listing-description">W.E.B. Du Bois, writing for The Crisis (1928), shows the Democratic Party weaponizing race to suppress Black voters, exposing Jim-Crow politics and corruption.</span>
+</td>
+
+</tr>
+
+</tbody>
+</table>
+<div class="listing-no-matching d-none">No matching items</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
