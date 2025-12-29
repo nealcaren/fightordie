@@ -1,33 +1,32 @@
 ---
-title: 'Presidential Candidates'
-description: "NAACP in The Crisis (1916) argues candidates must state positions on lynching, disfranchisement and segregation to guide Black voters."
+title: Presidential Candidates
+description: NAACP in The Crisis (1916) argues candidates must state positions on lynching, disfranchisement and segregation to guide Black voters.
 author: NAACP
 date: May 1916
 categories: []
 subjects:
-  - Lynching (anti-lynching advocacy)
-  - Disfranchisement (African American voting rights)
-  - Segregation (Jim Crow; public accommodations and civil service)
-  - Race prejudice and caste restrictions
+- Lynching
+- Disfranchisement (African American voting rights)
+- Segregation (Jim Crow; public accommodations and civil service)
+- Race prejudice and caste restrictions
 people:
-  - Charles Evans Hughes
-  - Woodrow Wilson
-  - W. E. B. Du Bois
+- Charles Evans Hughes
+- Woodrow Wilson
+- W. E. B. Du Bois
 places:
-  - Southern United States
-  - United States
+- Southern United States
+- United States
 organizations:
-  - Republican Party (United States)
+- Republican Party (United States)
 events:
-  - United States presidential election (1916)
-citation: 
+- United States presidential election (1916)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 13
   issue: 1
   page: 16-17
 google-scholar: true
-
 format:
   html:
     toc: false

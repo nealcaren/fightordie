@@ -1,33 +1,32 @@
 ---
-title: 'The Chicago Debate'
-description: "In 1929 W.E.B. Du Bois in The Crisis rebukes racialist arguments, defending cultural equality and arguing social equality is civilized and inevitable."
+title: The Chicago Debate
+description: In 1929 W.E.B. Du Bois in The Crisis rebukes racialist arguments, defending cultural equality and arguing social equality is civilized and inevitable.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: May 1929
 categories: []
 subjects:
-  - Cultural equality (African Americans)
-  - Social equality and integration
-  - Bi-racialism and segregationist proposals
-  - Scientific racism (Nordicism)
-  - Race relations (United States)
+- Cultural equality (African Americans)
+- Social equality and integration
+- Bi-racialism and segregationist proposals
+- Scientific racism (Nordicism)
+- Race relations
 people:
-  - W. E. B. Du Bois
-  - Lothrop Stoddard
+- W. E. B. Du Bois
+- Lothrop Stoddard
 places:
-  - Chicago, Illinois
+- Chicago, Illinois
 organizations:
-  - The Crisis
-citation: 
+- The Crisis
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 36
   issue: 5
   page: 167
 google-scholar: true
-
 format:
   html:
     toc: false

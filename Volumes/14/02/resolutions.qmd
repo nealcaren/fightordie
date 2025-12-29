@@ -1,39 +1,38 @@
 ---
-title: 'Resolutions of the Washington Conference'
-description: "W.E.B. Du Bois in The Crisis (1917) urges Black Americans to join the war effort and demands race justice: voting, education, end to lynching and Jim Crow."
+title: Resolutions of the Washington Conference
+description: 'W.E.B. Du Bois in The Crisis (1917) urges Black Americans to join the war effort and demands race justice: voting, education, end to lynching and Jim Crow.'
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Jun. 1917
 categories: []
 subjects:
-  - Voting rights
-  - Anti-lynching legislation
-  - Military service — African Americans
-  - Jim Crow laws (racial segregation)
-  - Colonialism and imperialism
+- Voting rights
+- Anti-lynching legislation
+- Military service — African Americans
+- Jim Crow laws
+- Colonialism
 people:
-  - W.E.B. Du Bois
-  - Crispus Attucks
+- W.E.B. Du Bois
+- Crispus Attucks
 places:
-  - United States
-  - France
-  - Africa
+- United States
+- France
+- Africa
 organizations:
-  - Allied Powers (World War I)
-  - United States Army
+- Allied Powers (World War I)
+- United States Army
 events:
-  - Washington Conference (1917)
-  - World War I (1914-1918)
-citation: 
+- Washington Conference (1917)
+- World War I (1914-1918)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 14
   issue: 2
   page: 59-60
 google-scholar: true
-
 format:
   html:
     toc: false

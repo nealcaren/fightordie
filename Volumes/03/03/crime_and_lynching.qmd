@@ -1,36 +1,35 @@
 ---
-title: 'Crime and Lynching'
-description: "W.E.B. Du Bois argues in The Crisis (1912) that lynching provokes crime; stop lynching to stop crime, a humane critique grounded in Florida and vagrancy abuses."
+title: Crime and Lynching
+description: W.E.B. Du Bois argues in The Crisis (1912) that lynching provokes crime; stop lynching to stop crime, a humane critique grounded in Florida and vagrancy abuses.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Jan. 1912
 categories: []
 subjects:
-  - Lynching
-  - Vigilante mob violence
-  - Anti-lynching advocacy
-  - Vagrancy laws and abuses
-  - Criminal justice — racial bias
+- Lynching
+- Vigilante mob violence
+- Anti-lynching legislation
+- Vagrancy laws and abuses
+- Criminal justice — racial bias
 people:
-  - W. E. B. Du Bois
-  - Albert W. Gilchrist
+- W. E. B. Du Bois
+- Albert W. Gilchrist
 places:
-  - Florida
-  - Lake City, Florida
-  - Jacksonville, Florida
+- Florida
+- Lake City, Florida
+- Jacksonville, Florida
 organizations:
-  - The Crisis (magazine)
-  - Office of the Governor of Florida
-citation: 
+- The Crisis (magazine)
+- Office of the Governor of Florida
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 3
   issue: 3
   page: 113-114
 google-scholar: true
-
 format:
   html:
     toc: false

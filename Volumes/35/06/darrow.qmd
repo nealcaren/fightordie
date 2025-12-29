@@ -1,38 +1,37 @@
 ---
-title: 'Darrow'
-description: "W.E.B. Du Bois, in *The Crisis* (1928), honors Clarence Darrow’s defense of labor and Black rights, and attacks ministers who favor creed over deeds."
+title: Darrow
+description: W.E.B. Du Bois, in *The Crisis* (1928), honors Clarence Darrow’s defense of labor and Black rights, and attacks ministers who favor creed over deeds.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Jun. 1928
 categories: []
 subjects:
-  - Religion and social justice
-  - African American churches — role and criticism
-  - Labor defense and legal advocacy
-  - Disfranchisement of African Americans (voting rights)
-  - Religious freethought and heresy-hunting
+- Religion and social justice
+- African American churches — role and criticism
+- Labor defense and legal advocacy
+- Disfranchisement
+- Religious freethought and heresy-hunting
 people:
-  - Clarence Darrow
-  - W. E. B. Du Bois
-  - William Lloyd Garrison
-  - Abraham Lincoln
-  - Frederick Douglass
+- Clarence Darrow
+- W. E. B. Du Bois
+- William Lloyd Garrison
+- Abraham Lincoln
+- Frederick Douglass
 places:
-  - Washington, D.C.
-  - United States
+- Washington, D.C.
+- United States
 organizations:
-  - Negro churches (African American churches)
-  - Christian Church (United States)
-citation: 
+- Negro churches (African American churches)
+- Christian Church (United States)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 35
   issue: 6
   page: 203
 google-scholar: true
-
 format:
   html:
     toc: false

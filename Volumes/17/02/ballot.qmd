@@ -1,38 +1,37 @@
 ---
-title: 'The Ballot'
-description: "In The Crisis (1919), W.E.B. Du Bois demands the ballot for Black WWI veterans, arguing democracy and education must end race-based disenfranchisement."
+title: The Ballot
+description: In The Crisis (1919), W.E.B. Du Bois demands the ballot for Black WWI veterans, arguing democracy and education must end race-based disenfranchisement.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Jun. 1919
 categories: []
 subjects:
-  - Voting rights (African Americans)
-  - Race-based disenfranchisement (Jim Crow laws)
-  - African American military service (World War I)
-  - Literacy tests and voter qualifications
-  - Women's suffrage (comparative argument)
+- Voting rights
+- Race-based disenfranchisement (Jim Crow laws)
+- African American military service (World War I)
+- Literacy tests and voter qualifications
+- Women's suffrage (comparative argument)
 people:
-  - W.E.B. Du Bois
-  - Thomas William Hardwick
-  - Woodrow Wilson
+- W.E.B. Du Bois
+- Thomas William Hardwick
+- Woodrow Wilson
 places:
-  - Georgia (U.S. state)
-  - Southern United States
+- Georgia (U.S. state)
+- Southern United States
 organizations:
-  - The Crisis (magazine)
-  - United States Senate
+- The Crisis (magazine)
+- United States Senate
 events:
-  - World War I (1914–1918)
-citation: 
+- World War I (1914–1918)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 17
   issue: 2
   page: 62
 google-scholar: true
-
 format:
   html:
     toc: false

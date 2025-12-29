@@ -1,108 +1,115 @@
-#!/usr/bin/env python3
-"""
-Analyze index terms across all articles to identify most common
-subjects, people, places, organizations, and events.
-"""
+#!/usr/bin/env -S uv run --quiet --script
+# /// script
+# dependencies = [
+#   "pyyaml",
+# ]
+# ///
+"""Analyze subject terms across all articles to find duplicates and variations."""
 
 import yaml
 import re
 from pathlib import Path
-from collections import Counter
+from collections import defaultdict
 
-VOLUMES_DIR = Path("Volumes")
-
-def parse_frontmatter(file_path):
-    """Extract YAML frontmatter from .qmd file."""
+def parse_qmd_file(file_path):
+    """Parse a .qmd file and extract frontmatter."""
     with open(file_path, 'r', encoding='utf-8') as f:
-        content = f.read()
+        text = f.read()
 
-    match = re.match(r'^---\n(.*?)\n---', content, re.DOTALL)
+    match = re.match(r'^\s*---\n(.*?)\n---\n', text, re.DOTALL)
     if not match:
         return None
 
     try:
-        return yaml.safe_load(match.group(1))
+        frontmatter = yaml.safe_load(match.group(1))
+        return frontmatter
     except:
         return None
 
-def analyze_index_terms():
-    """Analyze all index terms across the corpus."""
-    subjects = Counter()
-    people = Counter()
-    places = Counter()
-    organizations = Counter()
-    events = Counter()
+def main():
+    # Find all .qmd files
+    volumes_dir = Path('Volumes')
+    article_files = list(volumes_dir.glob('**/*.qmd'))
 
-    article_files = list(VOLUMES_DIR.rglob("*.qmd"))
+    # Collect all subject terms
+    all_subjects = []
+    subject_to_files = defaultdict(list)
 
     for file_path in article_files:
-        fm = parse_frontmatter(file_path)
-        if not fm:
+        parsed = parse_qmd_file(file_path)
+        if not parsed:
             continue
 
-        # Count terms from each field
-        if 'subjects' in fm and fm['subjects']:
-            for subject in fm['subjects']:
-                if subject and isinstance(subject, str):
-                    subjects[subject] += 1
+        subjects = parsed.get('subjects', [])
+        if subjects:
+            for subject in subjects:
+                # Skip non-string subjects (structured data)
+                if not isinstance(subject, str):
+                    continue
+                all_subjects.append(subject)
+                subject_to_files[subject].append(str(file_path))
 
-        if 'people' in fm and fm['people']:
-            for person in fm['people']:
-                if person and isinstance(person, str):
-                    people[person] += 1
+    # Get unique subjects and their counts
+    subject_counts = defaultdict(int)
+    for subject in all_subjects:
+        subject_counts[subject] += 1
 
-        if 'places' in fm and fm['places']:
-            for place in fm['places']:
-                if place and isinstance(place, str):
-                    places[place] += 1
+    print(f"Total subject terms: {len(all_subjects)}")
+    print(f"Unique subject terms: {len(subject_counts)}")
+    print("\n" + "="*80)
+    print("ALL UNIQUE SUBJECT TERMS (sorted by frequency)")
+    print("="*80 + "\n")
 
-        if 'organizations' in fm and fm['organizations']:
-            for org in fm['organizations']:
-                if org and isinstance(org, str):
-                    organizations[org] += 1
+    # Sort by count descending
+    for subject, count in sorted(subject_counts.items(), key=lambda x: (-x[1], x[0])):
+        print(f"{count:3d}  {subject}")
 
-        if 'events' in fm and fm['events']:
-            for event in fm['events']:
-                if event and isinstance(event, str):
-                    events[event] += 1
+    print("\n" + "="*80)
+    print("POTENTIAL DUPLICATES (similar terms)")
+    print("="*80 + "\n")
 
-    return {
-        'subjects': subjects,
-        'people': people,
-        'places': places,
-        'organizations': organizations,
-        'events': events
-    }
+    # Group by similarity
+    subjects_lower = {}
+    for subject in subject_counts.keys():
+        lower = subject.lower()
+        if lower not in subjects_lower:
+            subjects_lower[lower] = []
+        subjects_lower[lower].append(subject)
 
-def print_top_terms(counter, label, n=30):
-    """Print top N terms from a counter."""
-    print(f"\n{'='*80}")
-    print(f"TOP {n} {label.upper()}")
-    print(f"{'='*80}")
-    for term, count in counter.most_common(n):
-        print(f"{count:4d}  {term}")
+    # Find groups with multiple variations
+    duplicates_found = False
+    for lower, variations in sorted(subjects_lower.items()):
+        if len(variations) > 1:
+            duplicates_found = True
+            print(f"\nVariations of '{lower}':")
+            for v in variations:
+                print(f"  - {v} ({subject_counts[v]} articles)")
+    
+    if not duplicates_found:
+        print("No exact case-insensitive duplicates found.")
 
-def main():
-    print("Analyzing index terms across all articles...")
-    print(f"Scanning {len(list(VOLUMES_DIR.rglob('*.qmd')))} files")
+    # Look for keyword overlaps
+    print("\n" + "="*80)
+    print("KEYWORD OVERLAP ANALYSIS")
+    print("="*80 + "\n")
 
-    results = analyze_index_terms()
+    keywords = defaultdict(list)
+    for subject in subject_counts.keys():
+        # Split on common separators
+        words = re.split(r'[;,\-\(\):]|\s+and\s+|\s+or\s+|\s+', subject.lower())
+        words = [w.strip() for w in words if w.strip() and len(w.strip()) > 3]
+        for word in words:
+            keywords[word].append(subject)
 
-    print_top_terms(results['subjects'], 'Subjects', 30)
-    print_top_terms(results['people'], 'People', 30)
-    print_top_terms(results['places'], 'Places', 30)
-    print_top_terms(results['organizations'], 'Organizations', 20)
-    print_top_terms(results['events'], 'Events', 20)
+    # Show keywords that appear in many different subjects
+    print("Common keywords across multiple subjects:\n")
+    for keyword, subjects in sorted(keywords.items(), key=lambda x: (-len(x[1]), x[0])):
+        if len(subjects) >= 5:
+            print(f"\n'{keyword}' appears in {len(subjects)} subjects:")
+            for s in sorted(subjects)[:10]:  # Show first 10
+                print(f"  - {s}")
+            if len(subjects) > 10:
+                print(f"  ... and {len(subjects) - 10} more")
 
-    # Summary stats
-    print(f"\n{'='*80}")
-    print("SUMMARY STATISTICS")
-    print(f"{'='*80}")
-    print(f"Unique subjects: {len(results['subjects'])}")
-    print(f"Unique people: {len(results['people'])}")
-    print(f"Unique places: {len(results['places'])}")
-    print(f"Unique organizations: {len(results['organizations'])}")
-    print(f"Unique events: {len(results['events'])}")
-
-if __name__ == "__main__":
+if __name__ == '__main__':
     main()

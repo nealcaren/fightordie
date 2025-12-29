@@ -1,35 +1,34 @@
 ---
-title: 'Economic Disenfranchisement'
-description: "In 1930 W.E.B. Du Bois in The Crisis argues industrial disfranchisement bars Black labor and urges public ownership to secure racial democracy and fair work."
+title: Economic Disenfranchisement
+description: In 1930 W.E.B. Du Bois in The Crisis argues industrial disfranchisement bars Black labor and urges public ownership to secure racial democracy and fair work.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Aug. 1930
 categories: []
 subjects:
-  - Industrial disenfranchisement
-  - Public ownership of utilities
-  - Racial employment discrimination
-  - Industrial democracy; shop committees and collective bargaining
-  - Corporate consolidation and mergers
+- Industrial disenfranchisement
+- Public ownership of utilities
+- Employment discrimination
+- Industrial democracy; shop committees and collective bargaining
+- Corporate consolidation and mergers
 people:
-  - W. E. B. Du Bois
+- W. E. B. Du Bois
 places:
-  - United States
-  - Northern United States
-  - Southern United States
+- United States
+- Northern United States
+- Southern United States
 organizations:
-  - Telephone companies (private utilities)
-  - United States Post Office Department
-citation: 
+- Telephone companies (private utilities)
+- United States Post Office Department
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 37
   issue: 8
   page: 281-282
 google-scholar: true
-
 format:
   html:
     toc: false

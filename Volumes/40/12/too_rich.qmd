@@ -1,36 +1,35 @@
 ---
-title: 'Too Rich to be a Nigger'
-description: "In 1933 W.E.B. Du Bois in The Crisis documents how white backlash to Black education and prosperity culminated in lynching, exposing racial terror."
+title: Too Rich to be a Nigger
+description: In 1933 W.E.B. Du Bois in The Crisis documents how white backlash to Black education and prosperity culminated in lynching, exposing racial terror.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Dec. 1933
 categories: []
 subjects:
-  - Lynching
-  - Educational inequality
-  - School segregation
-  - Black economic advancement
-  - White backlash to Black economic progress
+- Lynching
+- Educational inequality
+- Educational segregation
+- Black economic advancement
+- White backlash to Black economic progress
 people:
-  - Young Dendy
-  - Martha Duckett (Mrs. Dendy)
-  - William Dendy
+- Young Dendy
+- Martha Duckett (Mrs. Dendy)
+- William Dendy
 places:
-  - Clinton, South Carolina
-  - Southern United States
+- Clinton, South Carolina
+- Southern United States
 organizations:
-  - The Crisis
-  - Public schools (Clinton, South Carolina)
-citation: 
+- The Crisis
+- Public schools (Clinton, South Carolina)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 40
   issue: 12
   page: 282-283
 google-scholar: true
-
 format:
   html:
     toc: false

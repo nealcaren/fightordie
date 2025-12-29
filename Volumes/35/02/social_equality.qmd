@@ -1,35 +1,34 @@
 ---
-title: 'Social Equality'
-description: "W.E.B. Du Bois, writing in The Crisis (1928), argues for social equality over color-line policy, urging open interracial contact and equal opportunity."
+title: Social Equality
+description: W.E.B. Du Bois, writing in The Crisis (1928), argues for social equality over color-line policy, urging open interracial contact and equal opportunity.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Feb. 1928
 categories: []
 subjects:
-  - Race relations — United States
-  - Abolition of the color line
-  - Intermarriage / Anti-miscegenation laws — United States
-  - Public accommodations — racial exclusion (restaurants) — United States
-  - Social equality and equal social rights for African Americans
+- Race relations
+- Abolition of the color line
+- Intermarriage / Anti-miscegenation laws — United States
+- Public accommodations — racial exclusion (restaurants) — United States
+- Social equality and equal social rights for African Americans
 people:
-  - W. E. B. Du Bois
-  - Lothrop Stoddard
+- W. E. B. Du Bois
+- Lothrop Stoddard
 places:
-  - United States
-  - Mississippi
+- United States
+- Mississippi
 organizations:
-  - The Crisis (magazine)
-  - Ku Klux Klan
-citation: 
+- The Crisis (magazine)
+- Ku Klux Klan
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 35
   issue: 2
   page: 61-62
 google-scholar: true
-
 format:
   html:
     toc: false

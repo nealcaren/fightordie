@@ -1,35 +1,34 @@
 ---
-title: 'The Hurt Hound'
-description: "W.E.B. Du Bois in The Crisis (1913) condemns racial degradation, arguing racism twists Black dignity so mere decency feels like ecstatic relief."
+title: The Hurt Hound
+description: W.E.B. Du Bois in The Crisis (1913) condemns racial degradation, arguing racism twists Black dignity so mere decency feels like ecstatic relief.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Apr. 1913
 categories: []
 subjects:
-  - Lynching
-  - Jim Crow laws (racial segregation)
-  - Public accommodations discrimination
-  - Psychological effects of racial discrimination
+- Lynching
+- Jim Crow laws
+- Public accommodations discrimination
+- Psychological effects of racial discrimination
 people:
-  - W. E. B. Du Bois
-  - G. H. Burks
-  - P. A. Nichols
+- W. E. B. Du Bois
+- G. H. Burks
+- P. A. Nichols
 places:
-  - Paducah, Kentucky
-  - Southern United States
+- Paducah, Kentucky
+- Southern United States
 organizations:
-  - Illinois Central Railroad
-  - Pullman Company
-citation: 
+- Illinois Central Railroad
+- Pullman Company
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 5
   issue: 6
   page: 290-291
 google-scholar: true
-
 format:
   html:
     toc: false

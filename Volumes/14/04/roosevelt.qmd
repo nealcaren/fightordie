@@ -1,38 +1,37 @@
 ---
-title: 'Roosevelt'
-description: "In 1917 The Crisis, W.E.B. Du Bois praises Theodore Roosevelt's stand against East St. Louis violence and condemns national hypocrisy on lynching and democracy."
+title: Roosevelt
+description: In 1917 The Crisis, W.E.B. Du Bois praises Theodore Roosevelt's stand against East St. Louis violence and condemns national hypocrisy on lynching and democracy.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Feb. 1917
 categories: []
 subjects:
-  - Lynching — United States
-  - Race riots — United States
-  - Racial justice and hypocrisy in U.S. foreign policy
-  - Progressive Era politics (United States)
+- Lynching
+- Race riots — United States
+- Racial justice and hypocrisy in U.S. foreign policy
+- Progressive Era politics (United States)
 people:
-  - Theodore Roosevelt
-  - Woodrow Wilson
+- Theodore Roosevelt
+- Woodrow Wilson
 places:
-  - East St. Louis, Illinois
-  - Brownsville, Texas
-  - United States
+- East St. Louis, Illinois
+- Brownsville, Texas
+- United States
 organizations:
-  - Progressive Party (United States)
-  - Woodrow Wilson administration
+- Progressive Party (United States)
+- Woodrow Wilson administration
 events:
-  - East St. Louis Race Riot (1917)
-  - Brownsville Affair (1906)
-citation: 
+- East St. Louis Race Riot (1917)
+- Brownsville Affair (1906)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 14
   issue: 4
   page: 164
 google-scholar: true
-
 format:
   html:
     toc: false

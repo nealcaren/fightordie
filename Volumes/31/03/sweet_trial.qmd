@@ -1,28 +1,28 @@
 ---
-title: 'The Sweet Trial'
-description: "White, Walter F. in The Crisis (1926) discusses the Sweet trial, defending Black homeowners' right to self-defense and exposing mob racism."
+title: The Sweet Trial
+description: White, Walter F. in The Crisis (1926) discusses the Sweet trial, defending Black homeowners' right to self-defense and exposing mob racism.
 author: White, Walter F.
 date: Jan. 1926
 categories: []
 subjects:
-  - Residential segregation (housing discrimination)
-  - Racial mob violence
-  - Self-defense and property rights
-  - Police and judicial bias against Black citizens
-  - Criminal trials of African Americans
+- Residential segregation
+- Racial mob violence
+- Self-defense and property rights
+- Police and judicial bias against Black citizens
+- Criminal trials of African Americans
 people:
-  - Ossian H. Sweet
-  - Frank Murphy
-  - W. E. B. Du Bois
+- Ossian H. Sweet
+- Frank Murphy
+- W. E. B. Du Bois
 places:
-  - Detroit, Michigan
-  - Garland Avenue (Detroit)
+- Detroit, Michigan
+- Garland Avenue (Detroit)
 organizations:
-  - National Association for the Advancement of Colored People (NAACP)
-  - Recorder's Court of Detroit
+- National Association for the Advancement of Colored People (NAACP)
+- Recorder's Court of Detroit
 events:
-  - The People of the State of Michigan v. Ossian H. Sweet et al. (1925 trial)
-citation: 
+- The People of the State of Michigan v. Ossian H. Sweet et al. (1925 trial)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 31
@@ -30,7 +30,6 @@ citation:
   page: 125-129
 index: Detroit | Sweet, Ossian | White, Walter F.
 google-scholar: true
-
 format:
   html:
     toc: false

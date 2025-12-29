@@ -1,37 +1,36 @@
 ---
-title: 'Patient Asses'
-description: "In The Crisis (1930), W.E.B. Du Bois condemns Jan Smuts' racial caste in South Africa, urging Pan‑African solidarity against disfranchisement."
+title: Patient Asses
+description: In The Crisis (1930), W.E.B. Du Bois condemns Jan Smuts' racial caste in South Africa, urging Pan‑African solidarity against disfranchisement.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Mar. 1930
 categories: []
 subjects:
-  - Pan‑Africanism
-  - Voting rights — South Africa (disfranchisement)
-  - Racial caste system — South Africa
-  - Colonialism — South Africa
+- Pan-Africanism
+- Voting rights — South Africa (disfranchisement)
+- Racial caste system — South Africa
+- Colonialism — South Africa
 people:
-  - W. E. B. Du Bois
-  - Jan Smuts
-  - Robert R. Moton
-  - J. B. M. Hertzog
+- W. E. B. Du Bois
+- Jan Smuts
+- Robert R. Moton
+- J. B. M. Hertzog
 places:
-  - South Africa
-  - New York City
+- South Africa
+- New York City
 organizations:
-  - Phelps Stokes Fund
+- Phelps Stokes Fund
 events:
-  - Jan Smuts Town Hall lecture (1930)
-citation: 
+- Jan Smuts Town Hall lecture (1930)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 37
   issue: 3
   page: 100-101
 google-scholar: true
-
 format:
   html:
     toc: false

@@ -1,39 +1,38 @@
 ---
-title: 'The Negro Politician'
-description: "W.E.B. Du Bois examines how Black voters confront graft and Jim Crow, arguing informed participation is essential to democracy in The Crisis (1928)."
+title: The Negro Politician
+description: W.E.B. Du Bois examines how Black voters confront graft and Jim Crow, arguing informed participation is essential to democracy in The Crisis (1928).
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: May 1928
 categories: []
 subjects:
-  - Municipal machine politics and graft
-  - Voting rights and political representation of African Americans
-  - Jim Crow laws and racial segregation
-  - African American electoral strategy and political alliances
+- Municipal machine politics and graft
+- Voting rights and political representation of African Americans
+- Jim Crow laws
+- African American electoral strategy and political alliances
 people:
-  - William Hale Thompson
-  - Herbert Hoover
-  - Alfred E. Smith
-  - Charles S. Deneen
+- William Hale Thompson
+- Herbert Hoover
+- Alfred E. Smith
+- Charles S. Deneen
 places:
-  - Chicago, Illinois
-  - New York City, New York
-  - Philadelphia, Pennsylvania
+- Chicago, Illinois
+- New York City, New York
+- Philadelphia, Pennsylvania
 organizations:
-  - Tammany Hall
-  - Democratic Party (United States)
+- Tammany Hall
+- Democratic Party (United States)
 events:
-  - United States Presidential Election (1928)
-citation: 
+- United States Presidential Election (1928)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 35
   issue: 5
   page: 168
 google-scholar: true
-
 format:
   html:
     toc: false

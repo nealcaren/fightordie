@@ -1,40 +1,39 @@
 ---
-title: 'Our Methods'
-description: "In The Crisis (1927) W.E.B. Du Bois defends NAACP methods, arguing organized protest and legal action advance racial justice, democracy, and labor rights."
+title: Our Methods
+description: In The Crisis (1927) W.E.B. Du Bois defends NAACP methods, arguing organized protest and legal action advance racial justice, democracy, and labor rights.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Jan. 1927
 categories: []
 subjects:
-  - Anti-lynching activism
-  - Civil rights legal strategy
-  - Race relations in the American South
-  - Organized protest and publicity tactics
+- Anti-lynching legislation
+- Civil rights legal strategy
+- Race relations in the American South
+- Organized protest and publicity tactics
 people:
-  - W. E. B. Du Bois
-  - Walter White
-  - Monroe Trotter
-  - Clarence Darrow
+- W. E. B. Du Bois
+- Walter White
+- Monroe Trotter
+- Clarence Darrow
 places:
-  - Aiken, South Carolina
-  - Atlanta, Georgia
+- Aiken, South Carolina
+- Atlanta, Georgia
 organizations:
-  - NAACP (National Association for the Advancement of Colored People)
-  - The Crisis (magazine)
-  - Equal Rights League
+- NAACP (National Association for the Advancement of Colored People)
+- The Crisis (magazine)
+- Equal Rights League
 events:
-  - Ossian Sweet trial (1925)
-  - East St. Louis Race Riot (1917)
-citation: 
+- Ossian Sweet trial (1925)
+- East St. Louis Race Riot (1917)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 33
   issue: 3
   page: 129-130
 google-scholar: true
-
 format:
   html:
     toc: false

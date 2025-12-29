@@ -1,31 +1,30 @@
 ---
-title: 'Atlanta'
-description: "In The Crisis (1920), W.E.B. Du Bois demands voting rights, an end to lynching and Jim Crow, and equal education, labor, and racial democracy."
+title: Atlanta
+description: In The Crisis (1920), W.E.B. Du Bois demands voting rights, an end to lynching and Jim Crow, and equal education, labor, and racial democracy.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: May. 1920
 categories: []
 subjects:
-  - Voting rights (African Americans)
-  - Anti-lynching advocacy
-  - Jim Crow laws (racial segregation)
-  - Educational equality for African Americans
-  - Labor exploitation and peonage
+- Voting rights
+- Anti-lynching legislation
+- Jim Crow laws
+- Educational equality for African Americans
+- Labor exploitation and peonage
 people:
-  - W. E. B. Du Bois
+- W. E. B. Du Bois
 places:
-  - Atlanta, Georgia
-  - Southern United States
-citation: 
+- Atlanta, Georgia
+- Southern United States
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 20
   issue: 1
   page: 5
 google-scholar: true
-
 format:
   html:
     toc: false

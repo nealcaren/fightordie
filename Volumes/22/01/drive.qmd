@@ -1,35 +1,34 @@
 ---
-title: 'The Drive'
-description: "In a 1922 The Crisis piece, W.E.B. Du Bois urges Black Americans to back the NAACP, fight lynching and Jim Crow at home, and defend democracy."
+title: The Drive
+description: In a 1922 The Crisis piece, W.E.B. Du Bois urges Black Americans to back the NAACP, fight lynching and Jim Crow at home, and defend democracy.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: May 1922
 categories: []
 subjects:
-  - Anti-lynching campaigns and legislation
-  - Jim Crow laws (racial segregation)
-  - Voting rights and African American suffrage
-  - NAACP civil rights advocacy and organizing
-  - Back-to-Africa and emigration schemes
+- Anti-lynching legislation
+- Jim Crow laws
+- Voting rights and African American suffrage
+- NAACP civil rights advocacy and organizing
+- Back-to-Africa and emigration schemes
 people:
-  - W. E. B. Du Bois
+- W. E. B. Du Bois
 places:
-  - New Orleans, Louisiana
-  - Southern United States
-  - Africa
+- New Orleans, Louisiana
+- Southern United States
+- Africa
 organizations:
-  - National Association for the Advancement of Colored People (NAACP)
-  - The Crisis (magazine)
-citation: 
+- National Association for the Advancement of Colored People (NAACP)
+- The Crisis (magazine)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 22
   issue: 1
   page: 8
 google-scholar: true
-
 format:
   html:
     toc: false

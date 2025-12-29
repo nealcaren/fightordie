@@ -1,39 +1,38 @@
 ---
-title: 'Lynching'
-description: "W.E.B. Du Bois in The Crisis (1927) denounces 1926’s surge in lynching, arguing failed local justice demands federal action to protect Black life and democracy."
+title: Lynching
+description: W.E.B. Du Bois in The Crisis (1927) denounces 1926’s surge in lynching, arguing failed local justice demands federal action to protect Black life and democracy.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Feb. 1927
 categories: []
 subjects:
-  - Lynching
-  - Federal anti-lynching legislation
-  - Impunity for mob violence
-  - Local law enforcement failure to prosecute lynching
-  - Federal intervention to protect civil rights and democracy
+- Lynching
+- Anti-lynching legislation
+- Impunity for mob violence
+- Local law enforcement failure to prosecute lynching
+- Federal intervention to protect civil rights and democracy
 people:
-  - W. E. B. Du Bois
-  - William E. Borah
+- W. E. B. Du Bois
+- William E. Borah
 places:
-  - United States
-  - Aiken, South Carolina
-  - Georgia
+- United States
+- Aiken, South Carolina
+- Georgia
 organizations:
-  - United States Congress
-  - Federal government (United States)
+- United States Congress
+- Federal government (United States)
 events:
-  - Dyer Anti-Lynching Bill Campaign (1921-1922)
-  - Lynching wave in the United States (1926)
-citation: 
+- Dyer Anti-Lynching Bill Campaign (1921-1922)
+- Lynching wave in the United States (1926)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 33
   issue: 4
   page: 180-181
 google-scholar: true
-
 format:
   html:
     toc: false

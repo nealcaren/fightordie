@@ -1,36 +1,35 @@
 ---
-title: 'Education'
-description: "W.E.B. Du Bois in The Crisis (1930) denounces racial inequity in schooling, details funding disparities, and urges federal aid requiring nondiscrimination."
+title: Education
+description: W.E.B. Du Bois in The Crisis (1930) denounces racial inequity in schooling, details funding disparities, and urges federal aid requiring nondiscrimination.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Feb. 1930
 categories: []
 subjects:
-  - Racial disparities in public education
-  - School funding disparities (Southern states)
-  - Federal aid to education with nondiscrimination requirement
-  - Segregated schooling (Jim Crow education)
-  - Disfranchisement (voting rights)
+- Racial disparities in public education
+- School funding disparities (Southern states)
+- Federal aid to education with nondiscrimination requirement
+- Educational segregation
+- Disfranchisement
 people:
-  - W.E.B. Du Bois
+- W.E.B. Du Bois
 places:
-  - Georgia
-  - Mississippi
-  - Tunica County, Mississippi
-  - South Carolina
+- Georgia
+- Mississippi
+- Tunica County, Mississippi
+- South Carolina
 organizations:
-  - United States Congress
-  - Federal land-grant and vocational education appropriation programs (Land-Grant funds; Smith-Hughes Act; Smith-Lever Act)
-citation: 
+- United States Congress
+- Federal land-grant and vocational education appropriation programs (Land-Grant funds; Smith-Hughes Act; Smith-Lever Act)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 37
   issue: 2
   page: 65
 google-scholar: true
-
 format:
   html:
     toc: false

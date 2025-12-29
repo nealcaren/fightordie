@@ -1,37 +1,36 @@
 ---
-title: 'Votes for Negroes'
-description: "W.E.B. Du Bois in The Crisis (1921) denounces Bourbon South racism and urges Black enfranchisement as the cornerstone of democracy against lynching."
+title: Votes for Negroes
+description: W.E.B. Du Bois in The Crisis (1921) denounces Bourbon South racism and urges Black enfranchisement as the cornerstone of democracy against lynching.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: January 1921
 categories: []
 subjects:
-  - Voting rights — African Americans (enfranchisement)
-  - Lynching and racial violence
-  - Jim Crow laws and disfranchisement
-  - White supremacy — Southern United States (Bourbon South)
-  - Great Migration / Black migration to northern cities
+- Voting rights — African Americans (enfranchisement)
+- Lynching and mob violence
+- Jim Crow laws and disfranchisement
+- White supremacy — Southern United States (Bourbon South)
+- Great Migration / Black migration to northern cities
 people:
-  - W. E. B. Du Bois
-  - Editor of the Macon Telegraph (unnamed)
+- W. E. B. Du Bois
+- Editor of the Macon Telegraph (unnamed)
 places:
-  - Southern United States
-  - Macon, Georgia
-  - Florida
-  - Chicago, Illinois
+- Southern United States
+- Macon, Georgia
+- Florida
+- Chicago, Illinois
 organizations:
-  - The Macon Telegraph (newspaper)
-  - The Crisis (magazine)
-citation: 
+- The Macon Telegraph (newspaper)
+- The Crisis (magazine)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 21
   issue: 3
   page: 103-104
 google-scholar: true
-
 format:
   html:
     toc: false

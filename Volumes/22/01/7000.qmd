@@ -1,38 +1,37 @@
 ---
 title: '7000'
-description: "In 1922 W.E.B. Du Bois documents a 7,000-mile lecture tour in The Crisis, exposing Jim Crow, lynching, and Black life while urging racial democracy."
+description: In 1922 W.E.B. Du Bois documents a 7,000-mile lecture tour in The Crisis, exposing Jim Crow, lynching, and Black life while urging racial democracy.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: May 1922
 categories: []
 subjects:
-  - Jim Crow laws
-  - Lynching (United States)
-  - Civil rights advocacy
-  - African American life and culture
-  - Public lectures and speaking tours
+- Jim Crow laws
+- Lynching
+- Civil rights advocacy
+- African American life and culture
+- Public lectures and speaking tours
 people:
-  - W. E. B. Du Bois
+- W. E. B. Du Bois
 places:
-  - Fitchburg, Massachusetts
-  - New Orleans, Louisiana
-  - Duluth, Minnesota
-  - Oklahoma (state)
-  - Mississippi River
+- Fitchburg, Massachusetts
+- New Orleans, Louisiana
+- Duluth, Minnesota
+- Oklahoma (state)
+- Mississippi River
 organizations:
-  - The Crisis (magazine)
+- The Crisis (magazine)
 events:
-  - Du Bois 7,000-mile lecture tour (1922)
-citation: 
+- Du Bois 7,000-mile lecture tour (1922)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 22
   issue: 1
   page: 5-6
 google-scholar: true
-
 format:
   html:
     toc: false

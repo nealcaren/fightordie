@@ -1,33 +1,32 @@
 ---
-title: 'The Gall of Bitterness'
-description: "W.E.B. Du Bois argues in The Crisis (Feb. 1912) that bitter truth, not sugarcoated wit, reveals racial antagonism, combats lynching myths, and demands justice."
+title: The Gall of Bitterness
+description: W.E.B. Du Bois argues in The Crisis (Feb. 1912) that bitter truth, not sugarcoated wit, reveals racial antagonism, combats lynching myths, and demands justice.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Feb. 1912
 categories: []
 subjects:
-  - Lynching
-  - Anti-lynching advocacy
-  - Minstrelsy and racial caricature
-  - Role of the Black press in exposing racial injustice
-  - Racial antagonism and racial violence
+- Lynching
+- Anti-lynching legislation
+- Minstrelsy and racial caricature
+- Role of the Black press in exposing racial injustice
+- Racial antagonism and racial violence
 people:
-  - W. E. B. Du Bois
+- W. E. B. Du Bois
 places:
-  - United States
-  - Southern United States
+- United States
+- Southern United States
 organizations:
-  - The Crisis (magazine)
-citation: 
+- The Crisis (magazine)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 3
   issue: 4
   page: 153
 google-scholar: true
-
 format:
   html:
     toc: false

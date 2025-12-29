@@ -1,36 +1,35 @@
 ---
-title: 'The Rising Truth'
-description: "W.E.B. Du Bois in The Crisis (1921) exposes southern racial terror and white hypocrisy and insists education and the ballot are crucial for democracy."
+title: The Rising Truth
+description: W.E.B. Du Bois in The Crisis (1921) exposes southern racial terror and white hypocrisy and insists education and the ballot are crucial for democracy.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Jun. 1921
 categories: []
 subjects:
-  - Racial violence and lynching
-  - Ku Klux Klan violence and terrorism
-  - Voting rights (African Americans)
-  - Educational equality (African Americans)
-  - Jim Crow laws and southern racial oppression
+- Lynching and mob violence
+- Ku Klux Klan violence and terrorism
+- Voting rights
+- Educational inequality
+- Jim Crow laws and southern racial oppression
 people:
-  - W. E. B. Du Bois
-  - Hugh M. Dorsey
+- W. E. B. Du Bois
+- Hugh M. Dorsey
 places:
-  - Georgia (U.S. state)
-  - Southern United States
+- Georgia (U.S. state)
+- Southern United States
 organizations:
-  - National Association for the Advancement of Colored People (NAACP)
-  - The Crisis (magazine)
-  - Ku Klux Klan
-citation: 
+- National Association for the Advancement of Colored People (NAACP)
+- The Crisis (magazine)
+- Ku Klux Klan
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 22
   issue: 2
   page: 53-55
 google-scholar: true
-
 format:
   html:
     toc: false

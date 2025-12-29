@@ -1,36 +1,35 @@
 ---
-title: 'Crime'
-description: "In 1920 The Crisis, W.E.B. Du Bois argues racial injustice, poverty, and lack of education foster Black crime—and condemns collective punishment."
+title: Crime
+description: In 1920 The Crisis, W.E.B. Du Bois argues racial injustice, poverty, and lack of education foster Black crime—and condemns collective punishment.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Feb. 1920
 categories: []
 subjects:
-  - Crime and criminality among African Americans
-  - Racial discrimination in criminal justice
-  - Lynching and collective punishment
-  - Poverty and economic inequality
-  - Educational inequality and access
-  - Penal reform and rehabilitation
+- Crime and criminality among African Americans
+- Racial discrimination in criminal justice
+- Lynching and collective punishment
+- Poverty and economic inequality
+- Educational inequality
+- Penal reform and rehabilitation
 people:
-  - W. E. B. Du Bois
-  - Bishop B. J. Keiley
+- W. E. B. Du Bois
+- Bishop B. J. Keiley
 places:
-  - Georgia (U.S. state)
-  - Southern United States
+- Georgia (U.S. state)
+- Southern United States
 organizations:
-  - The Crisis (magazine)
-  - Savannah Press (Savannah, Georgia newspaper)
-citation: 
+- The Crisis (magazine)
+- Savannah Press (Savannah, Georgia newspaper)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 19
   issue: 4
   page: 172-173
 google-scholar: true
-
 format:
   html:
     toc: false

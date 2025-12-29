@@ -1,37 +1,36 @@
 ---
-title: 'Carrizal'
-description: "In The Crisis (1916), W.E.B. Du Bois condemns U.S. racism: Carrizal's Black soldiers' sacrifice exposes hypocrisy—honored in death, denied rights in life."
+title: Carrizal
+description: 'In The Crisis (1916), W.E.B. Du Bois condemns U.S. racism: Carrizal''s Black soldiers'' sacrifice exposes hypocrisy—honored in death, denied rights in life.'
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Feb. 1916
 categories: []
 subjects:
-  - Military discrimination (African American soldiers)
-  - Jim Crow laws
-  - Lynching
-  - Disfranchisement (African Americans)
+- Military discrimination (African American soldiers)
+- Jim Crow laws
+- Lynching
+- Disfranchisement
 people:
-  - W. E. B. Du Bois
-  - Woodrow Wilson
+- W. E. B. Du Bois
+- Woodrow Wilson
 places:
-  - Carrizal (Chihuahua, Mexico)
-  - Mexico
-  - Texas (United States)
+- Carrizal (Chihuahua, Mexico)
+- Mexico
+- Texas (United States)
 organizations:
-  - United States Army
-  - The Crisis (magazine)
+- United States Army
+- The Crisis (magazine)
 events:
-  - Battle of Carrizal (1916)
-citation: 
+- Battle of Carrizal (1916)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 12
   issue: 4
   page: 165
 google-scholar: true
-
 format:
   html:
     toc: false

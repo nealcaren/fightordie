@@ -1,34 +1,33 @@
 ---
-title: 'Scottsboro'
-description: "W.E.B. Du Bois in The Crisis (1934) condemns Scottsboro trials as racial injustice — Southern courts using law to punish Black lives for profit and prejudice."
+title: Scottsboro
+description: W.E.B. Du Bois in The Crisis (1934) condemns Scottsboro trials as racial injustice — Southern courts using law to punish Black lives for profit and prejudice.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Jan. 1934
 categories: []
 subjects:
-  - Lynching
-  - Racial discrimination in the criminal justice system
-  - Jim Crow laws
-  - Judicial abuse in the Southern United States
+- Lynching
+- Criminal justice discrimination
+- Jim Crow laws
+- Judicial abuse in the Southern United States
 places:
-  - Scottsboro, Alabama
-  - Alabama
-  - Southern United States
+- Scottsboro, Alabama
+- Alabama
+- Southern United States
 organizations:
-  - The Crisis (NAACP)
-  - State of Alabama
+- The Crisis (NAACP)
+- State of Alabama
 events:
-  - Scottsboro Trials (1931–1937)
-citation: 
+- Scottsboro Trials (1931–1937)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 41
   issue: 1
   page: 21
 google-scholar: true
-
 format:
   html:
     toc: false

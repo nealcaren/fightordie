@@ -1,39 +1,38 @@
 ---
-title: 'To the Rescue'
-description: "In The Crisis (1916) W.E.B. Du Bois criticizes U.S. policy as Black troops fight to defend white liberties abroad, urging race-based self-defense and rights."
+title: To the Rescue
+description: In The Crisis (1916) W.E.B. Du Bois criticizes U.S. policy as Black troops fight to defend white liberties abroad, urging race-based self-defense and rights.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: May 1916
 categories: []
 subjects:
-  - African American military service
-  - Military discrimination against African Americans
-  - Armed self-defense (African Americans)
-  - U.S. military intervention in Mexico (1916)
-  - Civil rights of African Americans
+- African American military service
+- Military discrimination
+- Armed self-defense (African Americans)
+- U.S. military intervention in Mexico (1916)
+- Civil rights of African Americans
 people:
-  - W. E. B. Du Bois
-  - Woodrow Wilson
+- W. E. B. Du Bois
+- Woodrow Wilson
 places:
-  - Mexico
-  - United States
-  - Africa
+- Mexico
+- United States
+- Africa
 organizations:
-  - Tenth Cavalry (United States Army)
-  - Twenty-fourth Infantry Regiment (United States Army)
-  - Wilson administration
+- Tenth Cavalry (United States Army)
+- Twenty-fourth Infantry Regiment (United States Army)
+- Wilson administration
 events:
-  - Punitive Expedition into Mexico / Pancho Villa Expedition (1916)
-citation: 
+- Punitive Expedition into Mexico / Pancho Villa Expedition (1916)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 12
   issue: 1
   page: 31
 google-scholar: true
-
 format:
   html:
     toc: false

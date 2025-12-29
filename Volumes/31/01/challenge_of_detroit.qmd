@@ -1,36 +1,34 @@
 ---
-title: 'The Challenge of Detroit'
-description: "In The Crisis (1925), W.E.B. Du Bois decries Detroit's racial housing violence, exposing how migration, prejudice, and real estate power threaten democracy."
+title: The Challenge of Detroit
+description: In The Crisis (1925), W.E.B. Du Bois decries Detroit's racial housing violence, exposing how migration, prejudice, and real estate power threaten democracy.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: May 1925
 categories: []
 subjects:
-  - Residential segregation
-  - Housing discrimination
-  - Racial mob violence (white mob attacks on black residents)
-  - Great Migration (Black southern migration to northern cities)
-  - Restrictive real estate practices and mortgage discrimination
+- Residential segregation
+- Racial mob violence (white mob attacks on black residents)
+- Great Migration (Black southern migration to northern cities)
+- Restrictive real estate practices and mortgage discrimination
 people:
-  - W. E. B. Du Bois
-  - Clarence Kelsey
+- W. E. B. Du Bois
+- Clarence Kelsey
 places:
-  - Detroit, Michigan
-  - Harlem (New York, New York)
-  - Birmingham, Alabama
+- Detroit, Michigan
+- Harlem (New York, New York)
+- Birmingham, Alabama
 events:
-  - Detroit mob attack and retaliatory shooting (1925)
-citation: 
+- Detroit mob attack and retaliatory shooting (1925)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 31
   issue: 1
   page: 7-10
-index:  Detroit | Sweet, Ossian
+index: Detroit | Sweet, Ossian
 google-scholar: true
-
 format:
   html:
     toc: false

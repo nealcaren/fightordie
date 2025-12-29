@@ -1,40 +1,39 @@
 ---
-title: 'Violence'
-description: "W.E.B. Du Bois in The Crisis (1934) warns that violence, given U.S. demographics, would provoke white backlash, justify repression, and imperil Black democracy."
+title: Violence
+description: W.E.B. Du Bois in The Crisis (1934) warns that violence, given U.S. demographics, would provoke white backlash, justify repression, and imperil Black democracy.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: May 1934
 categories: []
 subjects:
-  - Political violence
-  - White backlash and repression
-  - African American civil rights strategy
-  - Comparative revolutions (American Revolution; Haitian Revolution)
-  - Race relations in the United States
+- Political violence
+- White backlash and repression
+- African American civil rights strategy
+- Comparative revolutions (American Revolution; Haitian Revolution)
+- Race relations
 people:
-  - W. E. B. Du Bois
-  - Adolf Hitler
+- W. E. B. Du Bois
+- Adolf Hitler
 places:
-  - United States
-  - Haiti
-  - Great Britain
-  - Germany
-  - Chicago, Illinois
+- United States
+- Haiti
+- Great Britain
+- Germany
+- Chicago, Illinois
 organizations:
-  - The Crisis (NAACP magazine)
+- The Crisis (NAACP magazine)
 events:
-  - American Revolution (1776)
-  - Haitian Revolution (1791–1804)
-citation: 
+- American Revolution (1776)
+- Haitian Revolution (1791–1804)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 41
   issue: 5
   page: 147-148
 google-scholar: true
-
 format:
   html:
     toc: false

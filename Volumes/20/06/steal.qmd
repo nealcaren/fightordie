@@ -1,39 +1,38 @@
 ---
-title: 'Steal'
-description: "W.E.B. Du Bois in The Crisis (1920) condemns white churches' hypocrisy as they abandon labor and racial justice, siding with steel interests against unions."
+title: Steal
+description: W.E.B. Du Bois in The Crisis (1920) condemns white churches' hypocrisy as they abandon labor and racial justice, siding with steel interests against unions.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Oct. 1920
 categories: []
 subjects:
-  - Labor organizing and strikes
-  - Churches — social responsibility (religious hypocrisy)
-  - Strikebreaking (use of African American workers)
-  - Employment discrimination against African Americans
-  - Disfranchisement of African Americans
+- Labor organizing and strikes
+- Churches — social responsibility (religious hypocrisy)
+- Strikebreaking (use of African American workers)
+- Employment discrimination
+- Disfranchisement
 people:
-  - W. E. B. Du Bois
-  - Elbert H. Gary
+- W. E. B. Du Bois
+- Elbert H. Gary
 places:
-  - Pennsylvania
-  - Ohio
-  - Southern United States
+- Pennsylvania
+- Ohio
+- Southern United States
 organizations:
-  - Interchurch World Movement
-  - United States Steel Corporation
-  - Southern Baptist Convention
+- Interchurch World Movement
+- United States Steel Corporation
+- Southern Baptist Convention
 events:
-  - Great Steel Strike (1919)
-citation: 
+- Great Steel Strike (1919)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 20
   issue: 6
   page: 261-262
 google-scholar: true
-
 format:
   html:
     toc: false

@@ -1,37 +1,36 @@
 ---
-title: 'Third Party'
-description: "W.E.B. Du Bois in The Crisis (1929) argues Southern disfranchisement rigs democracy, blocking Third Party politics and sustaining racialized plutocracy."
+title: Third Party
+description: W.E.B. Du Bois in The Crisis (1929) argues Southern disfranchisement rigs democracy, blocking Third Party politics and sustaining racialized plutocracy.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Feb. 1929
 categories: []
 subjects:
-  - Third Party movements (United States)
-  - Disfranchisement of African Americans
-  - Solid South (Southern political machine)
-  - Electoral College — indirect election of presidents
-  - Plutocracy and protective tariff policy
+- Third Party movements (United States)
+- Disfranchisement
+- Solid South (Southern political machine)
+- Electoral College — indirect election of presidents
+- Plutocracy and protective tariff policy
 people:
-  - W. E. B. Du Bois
-  - Theodore Roosevelt
+- W. E. B. Du Bois
+- Theodore Roosevelt
 places:
-  - Southern United States
-  - United States
+- Southern United States
+- United States
 organizations:
-  - Democratic Party (United States)
-  - Socialist Party (United States)
-  - Farmer-Labor Party (United States)
-  - Tammany Hall
-citation: 
+- Democratic Party (United States)
+- Socialist Party (United States)
+- Farmer-Labor Party (United States)
+- Tammany Hall
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 36
   issue: 2
   page: 58
 google-scholar: true
-
 format:
   html:
     toc: false

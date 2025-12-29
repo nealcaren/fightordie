@@ -1,36 +1,35 @@
 ---
-title: 'The Cost of Education'
-description: "W.E.B. Du Bois shows how Black taxpayers subsidize white schooling and underfunded colored schools, exposing race and education injustice in The Crisis (1911)."
+title: The Cost of Education
+description: W.E.B. Du Bois shows how Black taxpayers subsidize white schooling and underfunded colored schools, exposing race and education injustice in The Crisis (1911).
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Jun. 1911
 categories: []
 subjects:
-  - Educational inequality
-  - Public school finance
-  - Racial taxation and fiscal burden
-  - Segregated schooling (Jim Crow education)
+- Educational inequality
+- Public school finance
+- Racial taxation and fiscal burden
+- Educational segregation
 people:
-  - W. E. B. Du Bois
-  - Alderman of Lexington, Kentucky (unnamed)
+- W. E. B. Du Bois
+- Alderman of Lexington, Kentucky (unnamed)
 places:
-  - Lexington, Kentucky
-  - New York City, New York
-  - Southern United States
+- Lexington, Kentucky
+- New York City, New York
+- Southern United States
 organizations:
-  - The Crisis (magazine)
-  - Richmond Times-Despatch (newspaper)
-  - Committee on Congestion of Population (New York)
-citation: 
+- The Crisis (magazine)
+- Richmond Times-Despatch (newspaper)
+- Committee on Congestion of Population (New York)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 3
   issue: 2
   page: 69
 google-scholar: true
-
 format:
   html:
     toc: false

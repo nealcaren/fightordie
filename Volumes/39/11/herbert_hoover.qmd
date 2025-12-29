@@ -1,40 +1,39 @@
 ---
-title: 'Herbert Hoover'
-description: "W.E.B. Du Bois in The Crisis (1932) indicts Herbert Hoover for 'Lily-White' politics, race-based appointments, and policies that crush Black labor and democracy"
+title: Herbert Hoover
+description: W.E.B. Du Bois in The Crisis (1932) indicts Herbert Hoover for 'Lily-White' politics, race-based appointments, and policies that crush Black labor and democracy
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Nov. 1932
 categories: []
 subjects:
-  - Voting rights — disfranchisement
-  - Lily-White movement (Republican Party)
-  - Race-hatred and anti-Black campaigning
-  - Racial patronage and political appointments
-  - Employment discrimination in rail and industrial labor
+- Disfranchisement
+- Lily-White movement (Republican Party)
+- Race-hatred and anti-Black campaigning
+- Racial patronage and political appointments
+- Employment discrimination in rail and industrial labor
 people:
-  - Herbert Hoover
-  - W. E. B. Du Bois
-  - William N. Doak
-  - John J. Parker
+- Herbert Hoover
+- W. E. B. Du Bois
+- William N. Doak
+- John J. Parker
 places:
-  - Southern United States
-  - West Virginia
-  - North Carolina
+- Southern United States
+- West Virginia
+- North Carolina
 organizations:
-  - Republican Party
-  - Hoover administration
+- Republican Party
+- Hoover administration
 events:
-  - U.S. Presidential Election (1928)
-citation: 
+- U.S. Presidential Election (1928)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 39
   issue: 11
   page: 362-363
 google-scholar: true
-
 format:
   html:
     toc: false

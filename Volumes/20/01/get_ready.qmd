@@ -1,35 +1,34 @@
 ---
-title: 'Get Ready'
-description: "W.E.B. Du Bois in The Crisis (1920) calls on Black Americans to prepare, defend voting rights, and legally resist Southern efforts to disfranchise Black women."
+title: Get Ready
+description: W.E.B. Du Bois in The Crisis (1920) calls on Black Americans to prepare, defend voting rights, and legally resist Southern efforts to disfranchise Black women.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: May 1920
 categories: []
 subjects:
-  - Women's suffrage
-  - African American voting rights
-  - Disfranchisement of African Americans
-  - Jim Crow laws
-  - Legal resistance and litigation against disenfranchisement
+- Women's suffrage
+- Voting rights
+- Disfranchisement
+- Jim Crow laws
+- Legal resistance and litigation against disenfranchisement
 people:
-  - W. E. B. Du Bois
+- W. E. B. Du Bois
 places:
-  - Southern United States
+- Southern United States
 organizations:
-  - Supreme Court of the United States
-  - The Crisis (magazine)
+- Supreme Court of the United States
+- The Crisis (magazine)
 events:
-  - World War I (1914-1918)
-citation: 
+- World War I (1914-1918)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 20
   issue: 1
   page: 5--6
 google-scholar: true
-
 format:
   html:
     toc: false

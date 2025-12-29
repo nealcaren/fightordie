@@ -1,38 +1,37 @@
 ---
-title: 'Jim Crow'
-description: "In The Crisis (1919) W.E.B. Du Bois analyzes Jim Crow's paradox: segregation undermines rights yet spurs Black institutions, urging race unity and prudence."
+title: Jim Crow
+description: 'In The Crisis (1919) W.E.B. Du Bois analyzes Jim Crow''s paradox: segregation undermines rights yet spurs Black institutions, urging race unity and prudence.'
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Jan. 1919
 categories: []
 subjects:
-  - Jim Crow laws and racial segregation
-  - Black institutional development (churches, schools, social organizations)
-  - Race relations: integration versus separatism
-  - Educational access and higher education for African Americans
-  - Military service and Black officer training
+- Jim Crow laws
+- Black institutional development (churches, schools, social organizations)
+- Race relations: integration versus separatism
+- Educational access and higher education for African Americans
+- Military service and Black officer training
 people:
-  - W.E.B. Du Bois
+- W.E.B. Du Bois
 places:
-  - Fort Des Moines, Iowa
-  - Northern United States
-  - Southern United States
-  - United States
+- Fort Des Moines, Iowa
+- Northern United States
+- Southern United States
+- United States
 organizations:
-  - United States Army (National Army)
-  - Northern universities
+- United States Army (National Army)
+- Northern universities
 events:
-  - Fort Des Moines officers' training (1917)
-citation: 
+- Fort Des Moines officers' training (1917)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 17
   issue: 3
   page: 112-13
 google-scholar: true
-
 format:
   html:
     toc: false

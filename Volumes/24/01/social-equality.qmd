@@ -1,33 +1,32 @@
 ---
-title: 'Social Equality'
-description: "W.E.B. Du Bois in The Crisis 1922 argues for social equality for Black Americans, condemning racial contempt and urging refusal to return hatred."
+title: Social Equality
+description: W.E.B. Du Bois in The Crisis 1922 argues for social equality for Black Americans, condemning racial contempt and urging refusal to return hatred.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: May 1922
 categories: []
 subjects:
-  - Social equality — African Americans
-  - Race relations — United States
-  - Racial prejudice and contempt
-  - Racial reconciliation and non‑retaliation
+- Social equality — African Americans
+- Race relations
+- Racial prejudice and contempt
+- Racial reconciliation and non‑retaliation
 people:
-  - W. E. B. Du Bois
-  - Booker T. Washington
-  - Robert R. Moton
+- W. E. B. Du Bois
+- Booker T. Washington
+- Robert R. Moton
 places:
-  - United States
+- United States
 organizations:
-  - The Crisis (magazine)
-citation: 
+- The Crisis (magazine)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 24
   issue: 1
   page: 8
 google-scholar: true
-
 format:
   html:
     toc: false

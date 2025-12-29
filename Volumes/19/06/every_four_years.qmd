@@ -1,38 +1,37 @@
 ---
-title: 'Every Four Years'
-description: "In The Crisis (1920), W.E.B. Du Bois denounces the Republican Party for buying Southern delegates, betraying Black leaders and enabling disfranchisement."
+title: Every Four Years
+description: In The Crisis (1920), W.E.B. Du Bois denounces the Republican Party for buying Southern delegates, betraying Black leaders and enabling disfranchisement.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Apr. 1920
 categories: []
 subjects:
-  - Disfranchisement of African Americans
-  - Buying of political delegates (Republican conventions)
-  - Lily-White movement (Republican Party)
-  - Failure to enforce the Fourteenth and Fifteenth Amendments
-  - Exclusion and ousting of Black Republican leaders
+- Disfranchisement
+- Buying of political delegates (Republican conventions)
+- Lily-White movement (Republican Party)
+- Failure to enforce the Fourteenth and Fifteenth Amendments
+- Exclusion and ousting of Black Republican leaders
 people:
-  - R. R. Church
-  - Perry W. Howard
-  - Theodore Roosevelt
-  - William H. Taft
+- R. R. Church
+- Perry W. Howard
+- Theodore Roosevelt
+- William H. Taft
 places:
-  - Southern United States
-  - Tennessee
-  - Mississippi
+- Southern United States
+- Tennessee
+- Mississippi
 organizations:
-  - Republican Party (United States)
-  - Republican National Committee
-citation: 
+- Republican Party (United States)
+- Republican National Committee
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 19
   issue: 6
   page: 297
 google-scholar: true
-
 format:
   html:
     toc: false

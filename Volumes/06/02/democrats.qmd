@@ -1,35 +1,34 @@
 ---
-title: 'Education'
-description: "W.E.B. Du Bois in The Crisis (1913) warns democracy is at risk unless lynching, disfranchisement and racial discrimination are confronted."
+title: Education
+description: W.E.B. Du Bois in The Crisis (1913) warns democracy is at risk unless lynching, disfranchisement and racial discrimination are confronted.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Jun. 1913
 categories: []
 subjects:
-  - Lynching
-  - Disfranchisement (voting rights)
-  - Discrimination in civil rights
-  - Jim Crow laws
-  - Legislation targeting African American women
+- Lynching
+- Disfranchisement
+- Discrimination in civil rights
+- Jim Crow laws
+- Legislation targeting African American women
 people:
-  - W. E. B. Du Bois
-  - Woodrow Wilson
+- W. E. B. Du Bois
+- Woodrow Wilson
 places:
-  - United States
-  - Washington, D.C.
+- United States
+- Washington, D.C.
 organizations:
-  - Democratic Party
-  - The Crisis (magazine)
-citation: 
+- Democratic Party
+- The Crisis (magazine)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 6
   issue: 2
   page: 79
 google-scholar: true
-
 format:
   html:
     toc: false

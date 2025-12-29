@@ -1,31 +1,30 @@
 ---
-title: 'Unrest'
-description: "W.E.B. Du Bois in The Crisis (1920) invokes divine intervention in a poem of social unrest, pleading for clarity amid racial and political turmoil."
+title: Unrest
+description: W.E.B. Du Bois in The Crisis (1920) invokes divine intervention in a poem of social unrest, pleading for clarity amid racial and political turmoil.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Mar. 1920
 categories: []
 subjects:
-  - Racial violence
-  - Race relations in the United States
-  - Social unrest
-  - Political protest (United States)
-  - Religious imagery in African American literature
-  - African American poetry
+- Racial violence
+- Race relations
+- Social unrest
+- Political protest (United States)
+- Religious imagery in African American literature
+- African American poetry
 people:
-  - W. E. B. Du Bois
+- W. E. B. Du Bois
 organizations:
-  - The Crisis (NAACP magazine)
-citation: 
+- The Crisis (NAACP magazine)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 19
   issue: 5
   page: 274
 google-scholar: true
-
 format:
   html:
     toc: false

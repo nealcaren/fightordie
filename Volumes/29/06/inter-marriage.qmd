@@ -1,34 +1,33 @@
 ---
-title: 'Inter-Marriage'
-description: "In 1924 W.E.B. Du Bois in The Crisis denounces KKK-backed anti-miscegenation bills, arguing race laws degrade women, marriage, and democracy."
+title: Inter-Marriage
+description: In 1924 W.E.B. Du Bois in The Crisis denounces KKK-backed anti-miscegenation bills, arguing race laws degrade women, marriage, and democracy.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Apr. 1924
 categories: []
 subjects:
-  - Anti-miscegenation legislation
-  - Interracial marriage
-  - White supremacy and racial hierarchy
-  - Ku Klux Klan political activity
-  - Protection of Black women from sexual exploitation
+- Anti-miscegenation legislation
+- Interracial marriage
+- White supremacy
+- Ku Klux Klan political activity
+- Protection of Black women from sexual exploitation
 places:
-  - Ohio
-  - Iowa
-  - Michigan
-  - Mississippi
-  - Southern United States
+- Ohio
+- Iowa
+- Michigan
+- Mississippi
+- Southern United States
 organizations:
-  - Ku Klux Klan
-citation: 
+- Ku Klux Klan
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 291
   issue: 6
   page: 251
 google-scholar: true
-
 format:
   html:
     toc: false

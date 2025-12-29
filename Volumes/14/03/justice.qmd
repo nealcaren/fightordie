@@ -1,38 +1,37 @@
 ---
-title: 'Justice'
-description: "In 1917 The Crisis, W.E.B. Du Bois condemns the Justice Department's racial hypocrisy, ignoring lynching and disfranchisement while policing alleged German plots."
+title: Justice
+description: In 1917 The Crisis, W.E.B. Du Bois condemns the Justice Department's racial hypocrisy, ignoring lynching and disfranchisement while policing alleged German plots.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Jan. 1917
 categories: []
 subjects:
-  - Lynching
-  - Disfranchisement and voting rights
-  - Federal law enforcement and racial surveillance
-  - Wartime anti-German investigations and loyalty policing
+- Lynching
+- Disfranchisement
+- Federal law enforcement and racial surveillance
+- Wartime anti-German investigations and loyalty policing
 people:
-  - W.E.B. Du Bois
-  - Woodrow Wilson
+- W.E.B. Du Bois
+- Woodrow Wilson
 places:
-  - Washington, D.C.
-  - Waco, Texas
-  - Memphis, Tennessee
+- Washington, D.C.
+- Waco, Texas
+- Memphis, Tennessee
 organizations:
-  - U.S. Department of Justice
-  - The Crisis (NAACP)
+- U.S. Department of Justice
+- The Crisis (NAACP)
 events:
-  - Presidential Election (1916)
-  - World War I (1914-1918)
-citation: 
+- Presidential Election (1916)
+- World War I (1914-1918)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 14
   issue: 3
   page: 112
 google-scholar: true
-
 format:
   html:
     toc: false

@@ -1,32 +1,31 @@
 ---
-title: 'Counsels of Despair'
-description: "In The Crisis (1934) W.E.B. Du Bois rejects counsels of despair, urging race uplift through education, institutions, and strategic anti-segregation action."
+title: Counsels of Despair
+description: In The Crisis (1934) W.E.B. Du Bois rejects counsels of despair, urging race uplift through education, institutions, and strategic anti-segregation action.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Jun. 1934
 categories: []
 subjects:
-  - Racial segregation (Jim Crow laws)
-  - Anti-segregation campaigns
-  - Negro education and racial uplift
-  - Interracial contact and race relations
+- Racial segregation
+- Anti-segregation campaigns
+- Negro education and racial uplift
+- Interracial contact and race relations
 people:
-  - Du Bois, W. E. B. (William Edward Burghardt)
+- Du Bois, W. E. B. (William Edward Burghardt)
 places:
-  - Atlanta, Georgia
+- Atlanta, Georgia
 organizations:
-  - Atlanta University
-  - The Crisis (magazine)
-citation: 
+- Atlanta University
+- The Crisis (magazine)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 41
   issue: 6
   page: 182-184
 google-scholar: true
-
 format:
   html:
     toc: false

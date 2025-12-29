@@ -1,35 +1,34 @@
 ---
-title: 'Murder Will Out'
-description: "In 1920 in The Crisis, W.E.B. Du Bois exposes how Southern race and class power undermine labor and democracy, exploiting both Black and white workers."
+title: Murder Will Out
+description: In 1920 in The Crisis, W.E.B. Du Bois exposes how Southern race and class power undermine labor and democracy, exploiting both Black and white workers.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Mar. 1920
 categories: []
 subjects:
-  - Labor organizing
-  - State repression of labor strikes (martial law)
-  - Racial discrimination in employment
-  - Disfranchisement (voting rights)
-  - Lynching
+- Labor organizing
+- State repression of labor strikes (martial law)
+- Employment discrimination
+- Disfranchisement
+- Lynching
 people:
-  - W. E. B. Du Bois
-  - T. W. O'Connor
+- W. E. B. Du Bois
+- T. W. O'Connor
 places:
-  - Southern United States
-  - Galveston, Texas
+- Southern United States
+- Galveston, Texas
 organizations:
-  - International Longshoremen's Association
-  - The Crisis (magazine)
-citation: 
+- International Longshoremen's Association
+- The Crisis (magazine)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 20
   issue: 5
   page: 215
 google-scholar: true
-
 format:
   html:
     toc: false

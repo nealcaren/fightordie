@@ -1,34 +1,33 @@
 ---
-title: 'The Story of Africa'
-description: "In The Crisis (1914), W.E.B. Du Bois celebrates Africa’s great civilizations and condemns the violence of empire, trade and slavery."
+title: The Story of Africa
+description: In The Crisis (1914), W.E.B. Du Bois celebrates Africa’s great civilizations and condemns the violence of empire, trade and slavery.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Mar. 1914
 categories: []
 subjects:
-  - Ancient African civilizations
-  - Colonialism in Africa
-  - Slavery and the slave trade (Africa)
-  - African trade networks (Indian Ocean and Trans‑Saharan)
-  - Pan‑Africanism
+- Ancient African civilizations
+- Colonialism in Africa
+- Slavery and the slave trade (Africa)
+- African trade networks (Indian Ocean and Trans‑Saharan)
+- Pan-Africanism
 people:
-  - W. E. B. Du Bois
+- W. E. B. Du Bois
 places:
-  - Africa
-  - Songhay Empire (West Africa)
-  - Carthage (North Africa)
-  - Indian Ocean trade region
-  - Mountains of the Moon (Ruwenzori region)
-citation: 
+- Africa
+- Songhay Empire (West Africa)
+- Carthage (North Africa)
+- Indian Ocean trade region
+- Mountains of the Moon (Ruwenzori region)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 8
   issue: 5
   page: 234-235
 google-scholar: true
-
 format:
   html:
     toc: false

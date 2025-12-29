@@ -1,39 +1,38 @@
 ---
-title: 'The Perpetual Dilemma'
-description: "In 1917 The Crisis, W.E.B. Du Bois urges Black Americans to accept a separate officer training camp to secure military leadership and racial progress."
+title: The Perpetual Dilemma
+description: In 1917 The Crisis, W.E.B. Du Bois urges Black Americans to accept a separate officer training camp to secure military leadership and racial progress.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Apr. 1917
 categories: []
 subjects:
-  - Military discrimination against Black Americans
-  - Black officer training (officer candidate camps)
-  - Jim Crow laws and racial segregation
-  - Conscription / draft implications for Black citizens
-  - Black leadership, service, and citizenship claims
+- Military discrimination
+- Black officer training (officer candidate camps)
+- Jim Crow laws
+- Conscription / draft implications for Black citizens
+- Black leadership, service, and citizenship claims
 people:
-  - W. E. B. Du Bois
-  - Joel E. Spingarn
-  - General Leonard Wood
+- W. E. B. Du Bois
+- Joel E. Spingarn
+- General Leonard Wood
 places:
-  - United States
-  - Southern United States
-  - New York (city)
+- United States
+- Southern United States
+- New York (city)
 organizations:
-  - United States Army
-  - NAACP
+- United States Army
+- NAACP
 events:
-  - World War I (1914–1918)
-citation: 
+- World War I (1914–1918)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 13
   issue: 6
   page: 270-271
 google-scholar: true
-
 format:
   html:
     toc: false

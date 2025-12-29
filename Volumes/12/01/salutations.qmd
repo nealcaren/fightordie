@@ -1,34 +1,33 @@
 ---
-title: 'Public Schools'
-description: "In The Crisis 1916, W.E.B. Du Bois charges Southern public schools with shaping Black servants, undermining education, democracy, and racial equality."
+title: Public Schools
+description: In The Crisis 1916, W.E.B. Du Bois charges Southern public schools with shaping Black servants, undermining education, democracy, and racial equality.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: May 1916
 categories: []
 subjects:
-  - Public schools — Southern United States — Social aspects
-  - Educational inequality — African Americans
-  - Racial social control through schooling
-  - Education and democracy
-  - Vocational/servant training for African American students
+- Public schools — Southern United States — Social aspects
+- Educational inequality
+- Racial social control through schooling
+- Education and democracy
+- Vocational/servant training for African American students
 people:
-  - W. E. B. Du Bois
+- W. E. B. Du Bois
 places:
-  - Southern United States
-  - Charleston (South Carolina)
+- Southern United States
+- Charleston (South Carolina)
 organizations:
-  - The News and Courier (Charleston, South Carolina)
-  - The Crisis (magazine)
-citation: 
+- The News and Courier (Charleston, South Carolina)
+- The Crisis (magazine)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 12
   issue: 1
   page: 32
 google-scholar: true
-
 format:
   html:
     toc: false

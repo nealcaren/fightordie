@@ -1,40 +1,39 @@
 ---
-title: 'Political Straws'
-description: "W.E.B. Du Bois in The Crisis (1923) analyzes Black voting strategy—rejecting enemies, backing allies, and demanding racial justice in democracy."
+title: Political Straws
+description: W.E.B. Du Bois in The Crisis (1923) analyzes Black voting strategy—rejecting enemies, backing allies, and demanding racial justice in democracy.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Jan. 1923
 categories: []
 subjects:
-  - African American voting behavior
-  - Federal anti-lynching legislation
-  - Jim Crow laws and disfranchisement
-  - Great Migration (Northern migration of African Americans)
+- African American voting behavior
+- Anti-lynching legislation
+- Jim Crow laws and disfranchisement
+- Great Migration (Northern migration of African Americans)
 people:
-  - William E. Dever
-  - Arthur C. Lueder
-  - Joseph Medill McCormick
-  - Edward J. Brundage
+- William E. Dever
+- Arthur C. Lueder
+- Joseph Medill McCormick
+- Edward J. Brundage
 places:
-  - Chicago, Illinois
-  - Baltimore, Maryland
-  - Southern United States
+- Chicago, Illinois
+- Baltimore, Maryland
+- Southern United States
 organizations:
-  - Republican Party (United States)
-  - Democratic Party (United States)
-  - Chicago Tribune
+- Republican Party (United States)
+- Democratic Party (United States)
+- Chicago Tribune
 events:
-  - Chicago mayoral election (1923)
-citation: 
+- Chicago mayoral election (1923)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 26
   issue: 3
   page: 124-126
 google-scholar: true
-
 format:
   html:
     toc: false

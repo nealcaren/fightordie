@@ -1,38 +1,37 @@
 ---
-title: 'The Last Word in Politics'
-description: "In The Crisis (1912), W.E.B. Du Bois urges Black voters to weigh race and democracy over party promises, endorsing a risky test of Wilson."
+title: The Last Word in Politics
+description: In The Crisis (1912), W.E.B. Du Bois urges Black voters to weigh race and democracy over party promises, endorsing a risky test of Wilson.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: May 1912
 categories: []
 subjects:
-  - Voting rights
-  - Disfranchisement (African Americans)
-  - Race and party politics
-  - Race and democracy
+- Voting rights
+- Disfranchisement
+- Race and party politics
+- Race and democracy
 people:
-  - Theodore Roosevelt
-  - Woodrow Wilson
+- Theodore Roosevelt
+- Woodrow Wilson
 places:
-  - Chicago, Illinois
-  - Southern United States
+- Chicago, Illinois
+- Southern United States
 organizations:
-  - Republican Party (United States)
-  - Progressive Party (United States)
-  - Democratic Party (United States)
+- Republican Party (United States)
+- Progressive Party (United States)
+- Democratic Party (United States)
 events:
-  - United States Presidential Election (1912)
-  - Brownsville Affair (1906)
-citation: 
+- United States Presidential Election (1912)
+- Brownsville Affair (1906)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 5
   issue: 1
   page: 184-186
 google-scholar: true
-
 format:
   html:
     toc: false

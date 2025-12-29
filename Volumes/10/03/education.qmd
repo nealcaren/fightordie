@@ -1,33 +1,32 @@
 ---
-title: 'Education'
-description: "W.E.B. Du Bois in The Crisis (1915) condemns vocational limits on Black education as deliberate attack on race, democracy, and full intellectual development."
+title: Education
+description: W.E.B. Du Bois in The Crisis (1915) condemns vocational limits on Black education as deliberate attack on race, democracy, and full intellectual development.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Jan. 1915
 categories: []
 subjects:
-  - Educational inequality for African Americans
-  - Industrial and vocational training (policy and advocacy)
-  - Restriction of liberal/academic education for Black students
-  - Racial discrimination in education (white paternalism/"friend" philanthropy)
-  - Threats to democracy through educational limitations
+- Educational inequality
+- Industrial and vocational training (policy and advocacy)
+- Restriction of liberal/academic education for Black students
+- Racial discrimination in education (white paternalism/"friend" philanthropy)
+- Threats to democracy through educational limitations
 people:
-  - W. E. B. Du Bois
+- W. E. B. Du Bois
 places:
-  - Harlem (New York, NY)
-  - United States
+- Harlem (New York, NY)
+- United States
 organizations:
-  - The Crisis (magazine)
-citation: 
+- The Crisis (magazine)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 10
   issue: 3
   page: 132-133, 136
 google-scholar: true
-
 format:
   html:
     toc: false

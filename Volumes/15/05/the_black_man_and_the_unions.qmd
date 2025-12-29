@@ -1,36 +1,35 @@
 ---
-title: 'The Black Man and the Unions'
-description: "W.E.B. Du Bois in The Crisis (1918) condemns labor unions' racial exclusion, arguing they betray democracy by denying Black workers fair labor rights."
+title: The Black Man and the Unions
+description: W.E.B. Du Bois in The Crisis (1918) condemns labor unions' racial exclusion, arguing they betray democracy by denying Black workers fair labor rights.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Mar. 1918
 categories: []
 subjects:
-  - Labor unions — Racial discrimination (United States)
-  - African American laborers — Employment discrimination
-  - Collective bargaining and labor rights
-  - Race relations in the Southern United States
+- Labor unions — Racial discrimination (United States)
+- African American laborers — Employment discrimination
+- Collective bargaining and labor rights
+- Race relations
 people:
-  - W. E. B. Du Bois
+- W. E. B. Du Bois
 places:
-  - East St. Louis, Illinois
-  - Southern United States
+- East St. Louis, Illinois
+- Southern United States
 organizations:
-  - American Federation of Labor
-  - International Typographical Union
-  - The Crisis (magazine)
+- American Federation of Labor
+- International Typographical Union
+- The Crisis (magazine)
 events:
-  - East St. Louis Race Riot (1917)
-citation: 
+- East St. Louis Race Riot (1917)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 15
   issue: 5
   page: 214
 google-scholar: true
-
 format:
   html:
     toc: false

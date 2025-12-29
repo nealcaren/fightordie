@@ -1,34 +1,33 @@
 ---
-title: 'Veiled Insults'
-description: "In 1914 W.E.B. Du Bois in The Crisis exposes refusal to capitalize Negro as a racial insult, critiquing supposed egalitarian rhetoric."
+title: Veiled Insults
+description: In 1914 W.E.B. Du Bois in The Crisis exposes refusal to capitalize Negro as a racial insult, critiquing supposed egalitarian rhetoric.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Apr. 1914
 categories: []
 subjects:
-  - Capitalization of "Negro" (orthographic racial discrimination)
-  - Language and race
-  - Symbolic discrimination
-  - Race relations — United States
-  - Critique of egalitarian rhetoric
+- Capitalization of "Negro" (orthographic racial discrimination)
+- Language and race
+- Symbolic discrimination
+- Race relations
+- Critique of egalitarian rhetoric
 people:
-  - W. E. B. Du Bois
+- W. E. B. Du Bois
 places:
-  - Kansas City, Missouri
-  - United States
+- Kansas City, Missouri
+- United States
 organizations:
-  - Kansas City Journal
-  - The Crisis (magazine)
-citation: 
+- Kansas City Journal
+- The Crisis (magazine)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 7
   issue: 6
   page: 287-288
 google-scholar: true
-
 format:
   html:
     toc: false

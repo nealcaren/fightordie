@@ -1,36 +1,35 @@
 ---
-title: 'Houston'
-description: "W.E.B. Du Bois in The Crisis (1917) exposes racial injustice in Houston, documenting how disarmed Black soldiers fought back and demanding military justice."
+title: Houston
+description: W.E.B. Du Bois in The Crisis (1917) exposes racial injustice in Houston, documenting how disarmed Black soldiers fought back and demanding military justice.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Apr. 1917
 categories: []
 subjects:
-  - Racial violence and race riots
-  - Military discrimination against African American soldiers
-  - Disarmament of Black provost guards
-  - Armed resistance by African American soldiers
-  - Military justice and courts-martial
+- Race riots
+- Military discrimination
+- Disarmament of Black provost guards
+- Armed resistance by African American soldiers
+- Military justice and courts-martial
 people:
-  - W. E. B. Du Bois
-  - Acting chaplain (24th Infantry Regiment) (unnamed)
+- W. E. B. Du Bois
+- Acting chaplain (24th Infantry Regiment) (unnamed)
 places:
-  - Houston, Texas
+- Houston, Texas
 organizations:
-  - United States Army
-  - The Crisis (NAACP)
+- United States Army
+- The Crisis (NAACP)
 events:
-  - Houston Riot (1917)
-citation: 
+- Houston Riot (1917)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 14
   issue: 6
   page: 284-285
 google-scholar: true
-
 format:
   html:
     toc: false

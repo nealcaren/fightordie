@@ -1,33 +1,32 @@
 ---
-title: 'Pullman Porters'
-description: "In 1927 The Crisis, W.E.B. Du Bois defends Pullman porters' labor fight, exposes company bribery and racial barriers, urging sustained union struggle."
+title: Pullman Porters
+description: In 1927 The Crisis, W.E.B. Du Bois defends Pullman porters' labor fight, exposes company bribery and racial barriers, urging sustained union struggle.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Dec. 1927
 categories: []
 subjects:
-  - Pullman porters (labor organizing)
-  - Collective bargaining
-  - Trade unionism — African American workers
-  - Racial discrimination in employment
-  - Corporate bribery and corruption
+- Pullman porters (labor organizing)
+- Collective bargaining
+- Trade unionism — African American workers
+- Employment discrimination
+- Corporate bribery and corruption
 people:
-  - W. E. B. Du Bois
+- W. E. B. Du Bois
 places:
-  - United States
+- United States
 organizations:
-  - Pullman Company
-  - Brotherhood of Sleeping Car Porters
-citation: 
+- Pullman Company
+- Brotherhood of Sleeping Car Porters
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 34
   issue: 10
   page: 348
 google-scholar: true
-
 format:
   html:
     toc: false

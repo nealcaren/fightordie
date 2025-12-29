@@ -1,39 +1,38 @@
 ---
-title: 'Prejudice'
-description: "W.E.B. Du Bois in The Crisis (1911) denounces cultivated race prejudice in America and urges citizens to resist lies that undermine democracy."
+title: Prejudice
+description: W.E.B. Du Bois in The Crisis (1911) denounces cultivated race prejudice in America and urges citizens to resist lies that undermine democracy.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: May 1911
 categories: []
 subjects:
-  - Race prejudice and racism (cultivated prejudice)
-  - Military discrimination against African American soldiers
-  - Racial discrimination in medical institutions (exclusion of Black nurses/internees)
-  - Media sensationalism and fabrication of race incidents
+- Race prejudice and racism (cultivated prejudice)
+- Military discrimination
+- Racial discrimination in medical institutions (exclusion of Black nurses/internees)
+- Media sensationalism and fabrication of race incidents
 people:
-  - W.E.B. Du Bois
-  - William H. Taft
+- W.E.B. Du Bois
+- William H. Taft
 places:
-  - Chicago, Illinois
-  - San Antonio, Texas
-  - Boston, Massachusetts
-  - Delaware
+- Chicago, Illinois
+- San Antonio, Texas
+- Boston, Massachusetts
+- Delaware
 organizations:
-  - United States Congress
-  - Boston Floating Hospital
-  - New England Hospital for Women and Children
+- United States Congress
+- Boston Floating Hospital
+- New England Hospital for Women and Children
 events:
-  - Brownsville Affair (1906)
-citation: 
+- Brownsville Affair (1906)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 2
   issue: 1
   page: 19-20
 google-scholar: true
-
 format:
   html:
     toc: false

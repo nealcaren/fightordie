@@ -1,37 +1,36 @@
 ---
-title: 'An Open Letter to Woodrow Wilson'
-description: "In 1913 W.E.B. Du Bois in The Crisis urges Woodrow Wilson to defend Black civil rights—voting, education, labor access—and end lynching to save democracy."
+title: An Open Letter to Woodrow Wilson
+description: In 1913 W.E.B. Du Bois in The Crisis urges Woodrow Wilson to defend Black civil rights—voting, education, labor access—and end lynching to save democracy.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Mar. 1913
 categories: []
 subjects:
-  - Voting rights (African Americans)
-  - Lynching (anti-lynching advocacy)
-  - Educational inequality
-  - Employment discrimination and labor access (African Americans)
-  - Racial segregation (Jim Crow laws)
+- Voting rights
+- Lynching
+- Educational inequality
+- Employment discrimination and labor access (African Americans)
+- Racial segregation
 people:
-  - Woodrow Wilson
-  - W. E. B. Du Bois
-  - Theodore Roosevelt
+- Woodrow Wilson
+- W. E. B. Du Bois
+- Theodore Roosevelt
 places:
-  - United States
-  - Southern United States
-  - Princeton University
+- United States
+- Southern United States
+- Princeton University
 organizations:
-  - Democratic Party (United States)
-  - Presidency of the United States
-citation: 
+- Democratic Party (United States)
+- Presidency of the United States
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 5
   issue: 5
   page: 236-237
 google-scholar: true
-
 format:
   html:
     toc: false

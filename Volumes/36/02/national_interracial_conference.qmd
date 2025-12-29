@@ -1,40 +1,39 @@
 ---
-title: 'The National Interracial Conference'
-description: "In 1929 W.E.B. Du Bois in The Crisis calls for coordinated interracial study and annual conferences to address race, education, health, labor, and suffrage."
+title: The National Interracial Conference
+description: In 1929 W.E.B. Du Bois in The Crisis calls for coordinated interracial study and annual conferences to address race, education, health, labor, and suffrage.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Feb. 1929
 categories: []
 subjects:
-  - Interracial cooperation and coordinated social research
-  - Race relations in the United States
-  - Educational opportunities for African Americans
-  - Public health and racial disparities
-  - Labor and race relations
+- Interracial cooperation and coordinated social research
+- Race relations
+- Educational opportunities for African Americans
+- Public health and racial disparities
+- Labor and race relations
 people:
-  - Mordecai W. Johnson
-  - Robert R. Moton
-  - Mary Van Kleeck
-  - George E. Haynes
-  - Charles S. Johnson
+- Mordecai W. Johnson
+- Robert R. Moton
+- Mary Van Kleeck
+- George E. Haynes
+- Charles S. Johnson
 places:
-  - Washington, D.C.
+- Washington, D.C.
 organizations:
-  - Howard University
-  - Fisk University
-  - Tuskegee Institute
+- Howard University
+- Fisk University
+- Tuskegee Institute
 events:
-  - National Interracial Conference (Washington, D.C., 1928)
-citation: 
+- National Interracial Conference (Washington, D.C., 1928)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 36
   issue: 2
   page: 47, 69-70
 google-scholar: true
-
 format:
   html:
     toc: false

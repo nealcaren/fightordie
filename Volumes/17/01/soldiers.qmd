@@ -1,40 +1,39 @@
 ---
-title: 'Soldiers'
-description: "In 1919 W.E.B. Du Bois in The Crisis documents Black soldiers' valor abroad and demands equal military rank, commissioned officers, and racial justice at home."
+title: Soldiers
+description: In 1919 W.E.B. Du Bois in The Crisis documents Black soldiers' valor abroad and demands equal military rank, commissioned officers, and racial justice at home.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: May 1919
 categories: []
 subjects:
-  - Military discrimination against Black servicemen
-  - Black commissioned officers (military)
-  - African American military service (World War I)
-  - Racial justice at home
+- Military discrimination
+- Black commissioned officers (military)
+- African American military service (World War I)
+- Racial justice at home
 people:
-  - W. E. B. Du Bois
-  - Captain Roy Nash
+- W. E. B. Du Bois
+- Captain Roy Nash
 places:
-  - France
-  - Liberia
-  - Haiti
-  - United States
+- France
+- Liberia
+- Haiti
+- United States
 organizations:
-  - National Association for the Advancement of Colored People (NAACP)
-  - Thirkield Committee
-  - War Service Commission
+- National Association for the Advancement of Colored People (NAACP)
+- Thirkield Committee
+- War Service Commission
 events:
-  - World War I (1914–1918)
-  - Liberty Loan drives (1918–1919)
-citation: 
+- World War I (1914–1918)
+- Liberty Loan drives (1918–1919)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 17
   issue: 1
   page: 8
 google-scholar: true
-
 format:
   html:
     toc: false

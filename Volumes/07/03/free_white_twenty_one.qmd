@@ -1,32 +1,31 @@
 ---
-title: 'Free, White and Twenty One'
-description: "In 1914 The Crisis, W.E.B. Du Bois urges \"free, white and twenty-one\" citizens to join the NAACP, arguing race prejudice endangers democracy and labor."
+title: Free, White and Twenty One
+description: In 1914 The Crisis, W.E.B. Du Bois urges "free, white and twenty-one" citizens to join the NAACP, arguing race prejudice endangers democracy and labor.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Jan. 1914
 categories: []
 subjects:
-  - Voting rights and disfranchisement
-  - Racial prejudice and white supremacy
-  - Economic oppression: peonage, rack rent, and low wages
-  - Labor–race relations and competition between white and Black workers
-  - Civil rights organizing and NAACP membership drive
+- Disfranchisement
+- Racial prejudice and white supremacy
+- Economic oppression: peonage, rack rent, and low wages
+- Labor–race relations and competition between white and Black workers
+- Civil rights organizing and NAACP membership drive
 places:
-  - United States
-  - South Carolina
-  - Illinois
+- United States
+- South Carolina
+- Illinois
 organizations:
-  - National Association for the Advancement of Colored People (NAACP)
-citation: 
+- National Association for the Advancement of Colored People (NAACP)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 7
   issue: 3
   page: 134
 google-scholar: true
-
 format:
   html:
     toc: false

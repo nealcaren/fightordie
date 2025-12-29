@@ -1,37 +1,36 @@
 ---
-title: 'The Newest South'
-description: "In 1913 W.E.B. Du Bois in The Crisis lauds the newest South where interracial leaders openly confront race problems and denounces the old South's racist press."
+title: The Newest South
+description: In 1913 W.E.B. Du Bois in The Crisis lauds the newest South where interracial leaders openly confront race problems and denounces the old South's racist press.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Jan. 1913
 categories: []
 subjects:
-  - Race relations—Southern United States
-  - Interracial cooperation (Southern sociological conferences)
-  - Lynching
-  - Newspapers and race relations—Southern United States
+- Race relations
+- Interracial cooperation (Southern sociological conferences)
+- Lynching
+- Newspapers and race relations—Southern United States
 people:
-  - W. E. B. Du Bois
-  - Branson Morse
-  - Dillard
-  - Hoke Smith
-  - John Temple Graves
+- W. E. B. Du Bois
+- Branson Morse
+- Dillard
+- Hoke Smith
+- John Temple Graves
 places:
-  - Southern United States
-  - Atlanta, Georgia
+- Southern United States
+- Atlanta, Georgia
 organizations:
-  - The Crisis
-  - The Atlanta Georgian
-citation: 
+- The Crisis
+- The Atlanta Georgian
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 6
   issue: 3
   page: 130
 google-scholar: true
-
 format:
   html:
     toc: false

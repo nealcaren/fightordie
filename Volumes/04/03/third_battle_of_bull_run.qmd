@@ -1,34 +1,33 @@
 ---
-title: 'The Third Battle of Bull Run'
-description: "Du Bois argues in The Crisis (1912) that the third battle at Manassas is for Black education and democracy, funding a school as resistance."
+title: The Third Battle of Bull Run
+description: Du Bois argues in The Crisis (1912) that the third battle at Manassas is for Black education and democracy, funding a school as resistance.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Jan. 1912
 categories: []
 subjects:
-  - African American education
-  - Industrial education for African Americans
-  - Philanthropy and fundraising for Black schools
-  - Jim Crow segregation
-  - Democracy and civic equality for African Americans
+- African American education
+- Industrial education for African Americans
+- Philanthropy and fundraising for Black schools
+- Jim Crow laws
+- Democracy and civic equality for African Americans
 people:
-  - W. E. B. Du Bois
-  - P. G. T. Beauregard
+- W. E. B. Du Bois
+- P. G. T. Beauregard
 places:
-  - Manassas, Virginia
+- Manassas, Virginia
 organizations:
-  - Manassas Industrial School
-  - The Crisis
-citation: 
+- Manassas Industrial School
+- The Crisis
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 4
   issue: 3
   page: 132
 google-scholar: true
-
 format:
   html:
     toc: false

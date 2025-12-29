@@ -1,34 +1,33 @@
 ---
-title: 'Preparedness'
-description: "W.E.B. Du Bois in The Crisis (1915) argues that true national preparedness requires ending lynching and securing racial justice under law."
+title: Preparedness
+description: W.E.B. Du Bois in The Crisis (1915) argues that true national preparedness requires ending lynching and securing racial justice under law.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Mar. 1915
 categories: []
 subjects:
-  - Lynching
-  - Anti-lynching campaigns and legislation
-  - Racial justice under law (civil rights protection for African Americans)
-  - U.S. military preparedness and naval expansion
+- Lynching
+- Anti-lynching legislation
+- Racial justice under law (civil rights protection for African Americans)
+- U.S. military preparedness and naval expansion
 people:
-  - W. E. B. Du Bois
-  - Woodrow Wilson
+- W. E. B. Du Bois
+- Woodrow Wilson
 places:
-  - Southern United States
-  - United States
+- Southern United States
+- United States
 organizations:
-  - University Commission of Southern Race Problems
-  - The Crisis
-citation: 
+- University Commission of Southern Race Problems
+- The Crisis
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 11
   issue: 5
   page: 242-243
 google-scholar: true
-
 format:
   html:
     toc: false

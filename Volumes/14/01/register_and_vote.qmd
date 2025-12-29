@@ -1,36 +1,35 @@
 ---
-title: 'Register and Vote'
-description: "W.E.B. Du Bois in The Crisis (1917) urges Black registration and voting to break the white primary, defend democracy, and win schools and civic reforms."
+title: Register and Vote
+description: W.E.B. Du Bois in The Crisis (1917) urges Black registration and voting to break the white primary, defend democracy, and win schools and civic reforms.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: May 1917
 categories: []
 subjects:
-  - White primaries
-  - African American voting rights
-  - Women's suffrage (primary elections)
-  - Public school funding (African American schools)
-  - Municipal civic reform and street improvements
+- White primaries
+- Voting rights
+- Women's suffrage (primary elections)
+- Public school funding (African American schools)
+- Municipal civic reform and street improvements
 people:
-  - W.E.B. Du Bois
+- W.E.B. Du Bois
 places:
-  - Columbia (South Carolina)
-  - Atlanta (Georgia)
-  - Arkansas
+- Columbia (South Carolina)
+- Atlanta (Georgia)
+- Arkansas
 organizations:
-  - National Association for the Advancement of Colored People (NAACP)
-  - Democratic Party (United States)
-  - Republican Party (United States)
-citation: 
+- National Association for the Advancement of Colored People (NAACP)
+- Democratic Party (United States)
+- Republican Party (United States)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 14
   issue: 1
   page: 9-10
 google-scholar: true
-
 format:
   html:
     toc: false

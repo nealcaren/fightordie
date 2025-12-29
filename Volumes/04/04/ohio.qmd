@@ -1,31 +1,30 @@
 ---
-title: 'Ohio'
-description: "W.E.B. Du Bois argues in The Crisis (1912) that Ohio women’s suffrage boosts Black political influence, linking democracy, race and labor to win freedom."
+title: Ohio
+description: W.E.B. Du Bois argues in The Crisis (1912) that Ohio women’s suffrage boosts Black political influence, linking democracy, race and labor to win freedom.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Feb. 1912
 categories: []
 subjects:
-  - Women's suffrage
-  - African American voting rights
-  - Black women's political participation
-  - Race and electoral politics
-  - Labor and suffrage
+- Women's suffrage
+- Voting rights
+- Black women's political participation
+- Race and electoral politics
+- Labor and suffrage
 places:
-  - Ohio
-  - Northern United States
+- Ohio
+- Northern United States
 events:
-  - Ohio women's suffrage referendum (1912)
-citation: 
+- Ohio women's suffrage referendum (1912)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 4
   issue: 4
   page: 181-182
 google-scholar: true
-
 format:
   html:
     toc: false

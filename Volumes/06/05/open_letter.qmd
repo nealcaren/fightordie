@@ -1,39 +1,38 @@
 ---
-title: 'Another Open Letter to Woodrow Wilson'
-description: "W.E.B. Du Bois in The Crisis (1913) denounces federal segregation, warns Wilson this assault on race, democracy, and votes will cost political support."
+title: Another Open Letter to Woodrow Wilson
+description: W.E.B. Du Bois in The Crisis (1913) denounces federal segregation, warns Wilson this assault on race, democracy, and votes will cost political support.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Nov. 1913
 categories: []
 subjects:
-  - Segregation of African American federal employees
-  - Disfranchisement and voting rights (African Americans)
-  - Removal and denial of Black federal appointments
-  - Racial discrimination in federal policy under the Wilson administration
+- Segregation of African American federal employees
+- Disfranchisement
+- Removal and denial of Black federal appointments
+- Racial discrimination in federal policy under the Wilson administration
 people:
-  - Woodrow Wilson
-  - W. E. B. Du Bois
-  - Albert S. Burleson
-  - James K. Vardaman
-  - Benjamin R. Tillman
+- Woodrow Wilson
+- W. E. B. Du Bois
+- Albert S. Burleson
+- James K. Vardaman
+- Benjamin R. Tillman
 places:
-  - Washington, D.C.
-  - United States
+- Washington, D.C.
+- United States
 organizations:
-  - The Crisis (magazine)
-  - United States federal government
-  - United States Post Office Department
-  - United States Department of the Treasury
-citation: 
+- The Crisis (magazine)
+- United States federal government
+- United States Post Office Department
+- United States Department of the Treasury
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 6
   issue: 7
   page: 339-341
 google-scholar: true
-
 format:
   html:
     toc: false

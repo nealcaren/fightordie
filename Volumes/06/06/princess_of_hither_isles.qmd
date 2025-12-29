@@ -1,31 +1,30 @@
 ---
-title: 'The Princess of the Hither Isles'
-description: "In a 1913 fable in The Crisis, W.E.B. Du Bois condemns racial exclusion and imperial greed, showing how white supremacy dehumanizes and destroys."
+title: The Princess of the Hither Isles
+description: In a 1913 fable in The Crisis, W.E.B. Du Bois condemns racial exclusion and imperial greed, showing how white supremacy dehumanizes and destroys.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Apr. 1913
 categories: []
 subjects:
-  - Colonialism / Imperialism
-  - Colonial resource extraction (imperial greed)
-  - White supremacy and racial hierarchy
-  - Racial exclusion and segregation
-  - Racial dehumanization and othering
-  - Literary satire / fiction as social criticism
+- Colonialism
+- Colonial resource extraction (imperial greed)
+- White supremacy
+- Racial exclusion and segregation
+- Racial dehumanization and othering
+- Literary satire / fiction as social criticism
 places:
-  - Hither Isles (fictional)
-  - Yonder Kingdom (fictional)
-  - Empire of the Sun (fictional)
-citation: 
+- Hither Isles (fictional)
+- Yonder Kingdom (fictional)
+- Empire of the Sun (fictional)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 6
   issue: 6
   page: 285-289
 google-scholar: true
-
 format:
   html:
     toc: false

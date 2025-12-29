@@ -1,32 +1,31 @@
 ---
-title: 'Separation'
-description: "In The Crisis (1911) W.E.B. Du Bois argues race-based separation betrays democracy, forcing Black subordination in education, law, and public life."
+title: Separation
+description: In The Crisis (1911) W.E.B. Du Bois argues race-based separation betrays democracy, forcing Black subordination in education, law, and public life.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Feb. 1911
 categories: []
 subjects:
-  - Jim Crow laws and racial segregation
-  - Educational inequality (segregated schools and white superintendence)
-  - Segregation in public accommodations (streetcars, stores)
-  - White supremacy and political subordination
-  - Democracy and civil rights (threats from race-based separation)
+- Jim Crow laws
+- Educational inequality (segregated schools and white superintendence)
+- Segregation in public accommodations (streetcars, stores)
+- White supremacy and political subordination
+- Democracy and civil rights (threats from race-based separation)
 places:
-  - Southern United States
-  - New Orleans, Louisiana
+- Southern United States
+- New Orleans, Louisiana
 organizations:
-  - The Crisis (magazine)
-  - New Orleans Times-Democrat (newspaper)
-citation: 
+- The Crisis (magazine)
+- New Orleans Times-Democrat (newspaper)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 1
   issue: 4
   page: 20-21
 google-scholar: true
-
 format:
   html:
     toc: false

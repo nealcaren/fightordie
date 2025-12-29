@@ -1,37 +1,36 @@
 ---
-title: 'A Soldier'
-description: "1920: W.E.B. Du Bois in The Crisis exposes racial injustice in Edgar Caldwell's death sentence and urges Black donors to fund his legal defense."
+title: A Soldier
+description: '1920: W.E.B. Du Bois in The Crisis exposes racial injustice in Edgar Caldwell''s death sentence and urges Black donors to fund his legal defense.'
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Mar. 1920
 categories: []
 subjects:
-  - Racial discrimination in the criminal justice system
-  - Capital punishment
-  - Self-defense in criminal cases
-  - Civil rights legal-defense fundraising
-  - NAACP legal advocacy
+- Criminal justice discrimination
+- Capital punishment
+- Self-defense in criminal cases
+- Civil rights legal-defense fundraising
+- NAACP legal advocacy
 people:
-  - Edgar Caldwell
-  - Joel E. Spingarn
-  - W. E. B. Du Bois
+- Edgar Caldwell
+- Joel E. Spingarn
+- W. E. B. Du Bois
 places:
-  - Anniston, Alabama
-  - New York City, New York
+- Anniston, Alabama
+- New York City, New York
 organizations:
-  - National Association for the Advancement of Colored People
-  - Supreme Court of the United States
-  - The Crisis (magazine)
-citation: 
+- National Association for the Advancement of Colored People
+- Supreme Court of the United States
+- The Crisis (magazine)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 19
   issue: 5
   page: 233
 google-scholar: true
-
 format:
   html:
     toc: false

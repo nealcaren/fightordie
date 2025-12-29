@@ -1,39 +1,38 @@
 ---
-title: 'Brazil'
-description: "In 1914 in The Crisis, W.E.B. Du Bois rebukes Roosevelt, defending Brazil's racial fusion and warning U.S. racism fuels poverty, lynching, and undermines democracy."
+title: Brazil
+description: In 1914 in The Crisis, W.E.B. Du Bois rebukes Roosevelt, defending Brazil's racial fusion and warning U.S. racism fuels poverty, lynching, and undermines democracy.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Apr. 1914
 categories: []
 subjects:
-  - Race relations — Brazil
-  - Race relations — United States
-  - Racial intermarriage (miscegenation) — Brazil
-  - Lynching — United States
-  - Racism and democracy — United States
+- Race relations — Brazil
+- Race relations
+- Racial intermarriage (miscegenation) — Brazil
+- Lynching
+- Racism and democracy — United States
 people:
-  - W. E. B. Du Bois
-  - Theodore Roosevelt
-  - Jean Baptiste de Lacerda
+- W. E. B. Du Bois
+- Theodore Roosevelt
+- Jean Baptiste de Lacerda
 places:
-  - Brazil
-  - Rio de Janeiro (Brazil)
-  - Bahia (Brazil)
-  - United States
+- Brazil
+- Rio de Janeiro (Brazil)
+- Bahia (Brazil)
+- United States
 organizations:
-  - The Crisis
-  - The Outlook (magazine)
-  - National Museum of Brazil (Rio de Janeiro)
-citation: 
+- The Crisis
+- The Outlook (magazine)
+- National Museum of Brazil (Rio de Janeiro)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 7
   issue: 6
   page: 286-287
 google-scholar: true
-
 format:
   html:
     toc: false

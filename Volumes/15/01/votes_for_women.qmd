@@ -1,34 +1,33 @@
 ---
-title: 'Votes for Women'
-description: "W.E.B. Du Bois in The Crisis (1918) urges Black voters to back woman suffrage as a moral and democratic defense against racial disfranchisement."
+title: Votes for Women
+description: W.E.B. Du Bois in The Crisis (1918) urges Black voters to back woman suffrage as a moral and democratic defense against racial disfranchisement.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: May 1918
 categories: []
 subjects:
-  - Women's suffrage
-  - Voting rights (African Americans)
-  - Racial disfranchisement
-  - Race and gender relations
+- Women's suffrage
+- Voting rights
+- Racial disfranchisement
+- Race and gender relations
 people:
-  - W. E. B. Du Bois
-  - Negro voters (New York State)
+- W. E. B. Du Bois
+- Negro voters (New York State)
 places:
-  - New York (State)
-  - Southern United States
+- New York (State)
+- Southern United States
 organizations:
-  - The Crisis (magazine)
-  - Bourbon Democrats
-citation: 
+- The Crisis (magazine)
+- Bourbon Democrats
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 15
   issue: 1
   page: 8
 google-scholar: true
-
 format:
   html:
     toc: false

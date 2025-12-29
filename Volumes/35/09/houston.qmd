@@ -1,40 +1,39 @@
 ---
-title: 'Houston'
-description: "W.E.B. Du Bois, writing for The Crisis (1928), shows the Democratic Party weaponizing race to suppress Black voters, exposing Jim-Crow politics and corruption."
+title: Houston
+description: W.E.B. Du Bois, writing for The Crisis (1928), shows the Democratic Party weaponizing race to suppress Black voters, exposing Jim-Crow politics and corruption.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Sep. 1928
 categories: []
 subjects:
-  - Lynching
-  - Jim Crow laws and segregation
-  - Voter suppression and disfranchisement (African Americans)
-  - Party politics and race (Democratic Party)
-  - Racial discrimination in religion (Catholic Church, United States)
+- Lynching
+- Jim Crow laws
+- Voter suppression and disfranchisement (African Americans)
+- Party politics and race (Democratic Party)
+- Racial discrimination in religion (Catholic Church, United States)
 people:
-  - W. E. B. Du Bois
-  - Alfred E. Smith
-  - Herbert Hoover
+- W. E. B. Du Bois
+- Alfred E. Smith
+- Herbert Hoover
 places:
-  - Houston, Texas
-  - New York (State)
-  - Arkansas
+- Houston, Texas
+- New York (State)
+- Arkansas
 organizations:
-  - Democratic Party (United States)
-  - Catholic Church (United States)
+- Democratic Party (United States)
+- Catholic Church (United States)
 events:
-  - Democratic National Convention (Houston) (1928)
-  - United States presidential election (1928)
-citation: 
+- Democratic National Convention (Houston) (1928)
+- United States presidential election (1928)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 35
   issue: 9
   page: 312
 google-scholar: true
-
 format:
   html:
     toc: false

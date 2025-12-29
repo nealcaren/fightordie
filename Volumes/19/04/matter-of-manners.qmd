@@ -1,35 +1,34 @@
 ---
-title: 'A Matter of Manners'
-description: "In a 1920 essay in The Crisis, W.E.B. Du Bois argues that perceptions of Black manners provoke racial violence and lynching, exposing systemic injustice."
+title: A Matter of Manners
+description: In a 1920 essay in The Crisis, W.E.B. Du Bois argues that perceptions of Black manners provoke racial violence and lynching, exposing systemic injustice.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Feb. 1920
 categories: []
 subjects:
-  - Lynching (United States)
-  - Racial violence and mob violence
-  - Interracial etiquette and public comportment
-  - Regional differences in racial customs (North vs. South)
-  - Gendered boundaries and white womanhood in racial violence
+- Lynching
+- Racial violence and mob violence
+- Interracial etiquette and public comportment
+- Regional differences in racial customs (North vs. South)
+- Gendered boundaries and white womanhood in racial violence
 people:
-  - W. E. B. Du Bois
-  - Medill McCormick
+- W. E. B. Du Bois
+- Medill McCormick
 places:
-  - Chicago, Illinois
-  - Washington, D.C.
-  - Roanoke, Virginia
+- Chicago, Illinois
+- Washington, D.C.
+- Roanoke, Virginia
 events:
-  - Chicago Race Riot (1919)
-citation: 
+- Chicago Race Riot (1919)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 19
   issue: 4
   page: 170
 google-scholar: true
-
 format:
   html:
     toc: false

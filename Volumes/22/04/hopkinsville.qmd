@@ -1,35 +1,34 @@
 ---
-title: 'Hopkinsville, Chicago and Idlewild'
-description: "W.E.B. Du Bois in The Crisis (1921) urges the NAACP to agitate, educate and build democratic control of capital to secure Black economic democracy."
+title: Hopkinsville, Chicago and Idlewild
+description: W.E.B. Du Bois in The Crisis (1921) urges the NAACP to agitate, educate and build democratic control of capital to secure Black economic democracy.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Feb. 1921
 categories: []
 subjects:
-  - Black economic development and economic democracy
-  - Residential segregation and housing discrimination
-  - Race and class relations within the African American community
-  - NAACP advocacy, agitation, and public education
-  - Black property ownership and real estate investment
+- Black economic development and economic democracy
+- Residential segregation
+- Race and class relations within the African American community
+- NAACP advocacy, agitation, and public education
+- Black property ownership and real estate investment
 people:
-  - W. E. B. Du Bois
+- W. E. B. Du Bois
 places:
-  - Hopkinsville, Kentucky
-  - Chicago, Illinois
-  - Idlewild, Michigan
-  - Harlem, New York City, New York
+- Hopkinsville, Kentucky
+- Chicago, Illinois
+- Idlewild, Michigan
+- Harlem, New York City, New York
 organizations:
-  - National Association for the Advancement of Colored People (NAACP)
-citation: 
+- National Association for the Advancement of Colored People (NAACP)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 22
   issue: 4
   page: 158-159
 google-scholar: true
-
 format:
   html:
     toc: false

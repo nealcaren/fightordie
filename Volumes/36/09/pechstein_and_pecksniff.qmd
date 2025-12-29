@@ -1,40 +1,39 @@
 ---
-title: 'Pechstein and Pecksniff'
-description: "W.E.B. Du Bois in The Crisis (1929) condemns calls for segregated schools, arguing segregation undermines democracy, education and fosters racial caste."
+title: Pechstein and Pecksniff
+description: W.E.B. Du Bois in The Crisis (1929) condemns calls for segregated schools, arguing segregation undermines democracy, education and fosters racial caste.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Sep. 1929
 categories: []
 subjects:
-  - School segregation
-  - Public education and educational democracy
-  - Educational inequality and claims of mental deficiency
-  - Racial caste and social segregation
+- Educational segregation
+- Public education and educational democracy
+- Educational inequality and claims of mental deficiency
+- Racial caste and social segregation
 people:
-  - R. L. A. Pechstein
-  - Jennie Porter
-  - W. E. B. Du Bois
+- R. L. A. Pechstein
+- Jennie Porter
+- W. E. B. Du Bois
 places:
-  - Boston, Massachusetts
-  - New York City, New York
-  - Philadelphia, Pennsylvania
-  - Cleveland, Ohio
+- Boston, Massachusetts
+- New York City, New York
+- Philadelphia, Pennsylvania
+- Cleveland, Ohio
 organizations:
-  - University of Cincinnati
-  - National Society of College Teachers
-  - The Crisis (magazine)
+- University of Cincinnati
+- National Society of College Teachers
+- The Crisis (magazine)
 events:
-  - National Society of College Teachers meeting (Cleveland, 1929)
-citation: 
+- National Society of College Teachers meeting (Cleveland, 1929)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 36
   issue: 9
   page: 313-314
 google-scholar: true
-
 format:
   html:
     toc: false

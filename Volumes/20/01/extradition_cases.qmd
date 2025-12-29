@@ -1,39 +1,38 @@
 ---
-title: 'Extradition Cases'
-description: "In The Crisis (1920), W.E.B. Du Bois shows how northern refusals to extradite Black suspects—amid lynching threats—expose racial injustice in law."
+title: Extradition Cases
+description: In The Crisis (1920), W.E.B. Du Bois shows how northern refusals to extradite Black suspects—amid lynching threats—expose racial injustice in law.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: May. 1920
 categories: []
 subjects:
-  - Interstate extradition disputes
-  - Lynching (racial mob violence)
-  - Racial injustice in the criminal justice system
-  - Northern refusals to extradite Black suspects
+- Interstate extradition disputes
+- Lynching
+- Racial injustice in the criminal justice system
+- Northern refusals to extradite Black suspects
 people:
-  - W.E.B. Du Bois
-  - Samuel W. McCall
-  - Henry J. Allen
-  - Grant Smith
+- W.E.B. Du Bois
+- Samuel W. McCall
+- Henry J. Allen
+- Grant Smith
 places:
-  - Massachusetts
-  - Kansas
-  - Michigan
-  - Kentucky
+- Massachusetts
+- Kansas
+- Michigan
+- Kentucky
 organizations:
-  - The Crisis (NAACP magazine)
+- The Crisis (NAACP magazine)
 events:
-  - Lynching of Grant Smith (1920)
-citation: 
+- Lynching of Grant Smith (1920)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 20
   issue: 1
   page: 5
 google-scholar: true
-
 format:
   html:
     toc: false

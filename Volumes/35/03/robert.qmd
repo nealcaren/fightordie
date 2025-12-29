@@ -1,37 +1,36 @@
 ---
-title: 'Robert E. Lee'
-description: "W.E.B. Du Bois argues in The Crisis (1928) that commemorating Robert E. Lee masks his role in upholding slavery, urging moral honesty about race and democracy."
+title: Robert E. Lee
+description: W.E.B. Du Bois argues in The Crisis (1928) that commemorating Robert E. Lee masks his role in upholding slavery, urging moral honesty about race and democracy.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Mar. 1928
 categories: []
 subjects:
-  - Commemoration of Confederate leaders
-  - Slavery — defense and responsibility for the Civil War
-  - Disfranchisement and voting rights of African Americans
-  - Lynching and mob violence
-  - Educational inequality for African Americans
+- Commemoration of Confederate leaders
+- Slavery — defense and responsibility for the Civil War
+- Disfranchisement
+- Lynching and mob violence
+- Educational inequality
 people:
-  - Robert E. Lee
-  - Jefferson Davis
-  - Ulysses S. Grant
+- Robert E. Lee
+- Jefferson Davis
+- Ulysses S. Grant
 places:
-  - Virginia
-  - Southern United States
+- Virginia
+- Southern United States
 organizations:
-  - Confederate States of America
+- Confederate States of America
 events:
-  - American Civil War (1861-1865)
-citation: 
+- American Civil War (1861-1865)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 35
   issue: 3
   page: 97
 google-scholar: true
-
 format:
   html:
     toc: false

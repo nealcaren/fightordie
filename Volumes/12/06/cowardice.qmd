@@ -1,36 +1,35 @@
 ---
-title: 'Cowardice'
-description: "In 1916 The Crisis, W.E.B. Du Bois condemns Black passivity before lynching, urges armed self‑defense to confront racial terror and save democracy."
+title: Cowardice
+description: In 1916 The Crisis, W.E.B. Du Bois condemns Black passivity before lynching, urges armed self‑defense to confront racial terror and save democracy.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Apr. 1916
 categories: []
 subjects:
-  - Lynching of African Americans
-  - Mob violence and white supremacist terrorism
-  - Armed self‑defense by African Americans
-  - Black collective resistance and community defense
-  - Race relations in the Southern United States
+- Lynching of African Americans
+- Mob violence and white supremacist terrorism
+- Armed self‑defense by African Americans
+- Black collective resistance and community defense
+- Race relations
 people:
-  - W.E.B. Du Bois
-  - G.K. Chesterton
+- W.E.B. Du Bois
+- G.K. Chesterton
 places:
-  - Gainesville, Florida
-  - Southern United States
+- Gainesville, Florida
+- Southern United States
 organizations:
-  - The Crisis (NAACP magazine)
+- The Crisis (NAACP magazine)
 events:
-  - Gainesville lynching (1916)
-citation: 
+- Gainesville lynching (1916)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 12
   issue: 6
   page: 270-271
 google-scholar: true
-
 format:
   html:
     toc: false

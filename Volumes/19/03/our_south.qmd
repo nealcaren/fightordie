@@ -1,34 +1,33 @@
 ---
 title: '"Our" South'
-description: "W.E.B. Du Bois in The Crisis (1920) exposes the white South's property myth that denies Black labor rights, education, and a democratic voice."
+description: W.E.B. Du Bois in The Crisis (1920) exposes the white South's property myth that denies Black labor rights, education, and a democratic voice.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Jan. 1920
 categories: []
 subjects:
-  - Racialized property ideology (claim that "all property is white property")
-  - Black labor and employment rights (access to work and workplace accommodations)
-  - Educational inequality and denial of public education
-  - Residential segregation and housing discrimination
-  - Political disenfranchisement and denial of democratic voice
+- Racialized property ideology (claim that "all property is white property")
+- Black labor and employment rights (access to work and workplace accommodations)
+- Educational inequality and denial of public education
+- Residential segregation
+- Political disenfranchisement and denial of democratic voice
 places:
-  - Wilmington, North Carolina
-  - Southern United States
+- Wilmington, North Carolina
+- Southern United States
 organizations:
-  - United States government
-  - The Crisis
+- United States government
+- The Crisis
 events:
-  - World War I (1914–1918)
-citation: 
+- World War I (1914–1918)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 19
   issue: 3
   page: 106-107
 google-scholar: true
-
 format:
   html:
     toc: false

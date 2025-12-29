@@ -1,36 +1,35 @@
 ---
-title: 'Lusitania'
-description: "In a 1915 essay for The Crisis, W.E.B. Du Bois condemns World War I as the unveiling of Western racial and imperial hypocrisy, affirming Black moral vindication."
+title: Lusitania
+description: In a 1915 essay for The Crisis, W.E.B. Du Bois condemns World War I as the unveiling of Western racial and imperial hypocrisy, affirming Black moral vindication.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Jun. 1915
 categories: []
 subjects:
-  - World War I (critique)
-  - Imperialism and colonialism
-  - Colonial atrocities
-  - Lynching (United States)
-  - Racial hypocrisy of Western nations
+- World War I (critique)
+- Colonialism
+- Colonial atrocities
+- Lynching
+- Racial hypocrisy of Western nations
 people:
-  - W. E. B. Du Bois
+- W. E. B. Du Bois
 places:
-  - United States
-  - Europe
-  - Belgian Congo
+- United States
+- Europe
+- Belgian Congo
 organizations:
-  - The Crisis (magazine)
+- The Crisis (magazine)
 events:
-  - World War I (1914–1918)
-citation: 
+- World War I (1914–1918)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 10
   issue: 2
   page: 81
 google-scholar: true
-
 format:
   html:
     toc: false

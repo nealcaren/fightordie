@@ -1,34 +1,33 @@
 ---
-title: 'The Election'
-description: "In 1914 W.E.B. Du Bois in The Crisis criticizes parties for ignoring 500,000 Black voters, arguing race and democracy force political reckoning."
+title: The Election
+description: In 1914 W.E.B. Du Bois in The Crisis criticizes parties for ignoring 500,000 Black voters, arguing race and democracy force political reckoning.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Jun. 1914
 categories: []
 subjects:
-  - African American suffrage
-  - Disfranchisement of Black voters
-  - Political party discrimination
-  - Racial segregation in politics
-  - Progressive Movement — critique on race
+- Voting rights
+- Disfranchisement of Black voters
+- Political party discrimination
+- Racial segregation in politics
+- Progressive Movement — critique on race
 places:
-  - United States
+- United States
 organizations:
-  - Republican Party (United States)
-  - Democratic Party (United States)
-  - The Crisis (magazine)
+- Republican Party (United States)
+- Democratic Party (United States)
+- The Crisis (magazine)
 events:
-  - United States midterm elections (1914)
-citation: 
+- United States midterm elections (1914)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 9
   issue: 2
   page: 82
 google-scholar: true
-
 format:
   html:
     toc: false

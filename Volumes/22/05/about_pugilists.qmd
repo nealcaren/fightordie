@@ -1,36 +1,35 @@
 ---
-title: 'About Pugilists'
-description: "In 1921 W.E.B. Du Bois in The Crisis exposes racial hypocrisy in boxing—condemning outrage at Jack Johnson while lynching goes unprotested."
+title: About Pugilists
+description: In 1921 W.E.B. Du Bois in The Crisis exposes racial hypocrisy in boxing—condemning outrage at Jack Johnson while lynching goes unprotested.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Mar. 1921
 categories: []
 subjects:
-  - Boxing (pugilism)
-  - Lynching
-  - Race relations in the United States
-  - Racial discrimination in the criminal justice system
+- Boxing (pugilism)
+- Lynching
+- Race relations
+- Criminal justice discrimination
 people:
-  - Jack Johnson
-  - Jack Dempsey
-  - W. E. B. Du Bois
+- Jack Johnson
+- Jack Dempsey
+- W. E. B. Du Bois
 places:
-  - Leavenworth, Kansas
-  - United States
+- Leavenworth, Kansas
+- United States
 organizations:
-  - Christian churches and Sunday schools (United States)
+- Christian churches and Sunday schools (United States)
 events:
-  - World War I (1914–1918)
-citation: 
+- World War I (1914–1918)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 22
   issue: 5
   page: 198-199
 google-scholar: true
-
 format:
   html:
     toc: false

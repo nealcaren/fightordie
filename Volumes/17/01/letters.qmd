@@ -1,35 +1,34 @@
 ---
-title: 'Letters'
-description: "In 1919 The Crisis, W.E.B. Du Bois urges southern white women to challenge disfranchisement, Jim Crow, lynching, and racial inequality in education and labor."
+title: Letters
+description: In 1919 The Crisis, W.E.B. Du Bois urges southern white women to challenge disfranchisement, Jim Crow, lynching, and racial inequality in education and labor.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: May 1919
 categories: []
 subjects:
-  - Disfranchisement and voting rights of African Americans
-  - Jim Crow laws (segregated public transportation)
-  - Educational inequality in Negro elementary schools, high schools, and colleges
-  - Lynching and extrajudicial racial violence (anti-lynching)
-  - Labor discrimination and wage inequality for African Americans
-  - Protection of African American women, girls, and children
+- Disfranchisement
+- Jim Crow laws (segregated public transportation)
+- Educational inequality in Negro elementary schools, high schools, and colleges
+- Lynching and extrajudicial racial violence (anti-lynching)
+- Labor discrimination and wage inequality for African Americans
+- Protection of African American women, girls, and children
 people:
-  - W. E. B. Du Bois
-  - Woodrow Wilson
+- W. E. B. Du Bois
+- Woodrow Wilson
 places:
-  - Southern United States
-  - Washington, D.C.
+- Southern United States
+- Washington, D.C.
 organizations:
-  - The Crisis (magazine)
-citation: 
+- The Crisis (magazine)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 17
   issue: 1
   page: 9
 google-scholar: true
-
 format:
   html:
     toc: false

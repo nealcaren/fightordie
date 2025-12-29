@@ -1,36 +1,35 @@
 ---
-title: 'Starvation and Prejudice'
-description: "1911 W.E.B. Du Bois in The Crisis argues Washington's minimization of Southern race wrongs lets prejudice, lynching and disfranchisement threaten democracy."
+title: Starvation and Prejudice
+description: 1911 W.E.B. Du Bois in The Crisis argues Washington's minimization of Southern race wrongs lets prejudice, lynching and disfranchisement threaten democracy.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Jun. 1911
 categories: []
 subjects:
-  - Lynching
-  - Disfranchisement (voting rights)
-  - Jim Crow laws (racial segregation)
-  - Racial prejudice and race relations
-  - Employment discrimination (African Americans)
+- Lynching
+- Disfranchisement
+- Jim Crow laws
+- Racial prejudice and race relations
+- Employment discrimination (African Americans)
 people:
-  - Booker T. Washington
-  - John E. Milholland
-  - W. E. B. Du Bois
+- Booker T. Washington
+- John E. Milholland
+- W. E. B. Du Bois
 places:
-  - Southern United States
-  - London, England
+- Southern United States
+- London, England
 organizations:
-  - The Crisis (magazine)
-  - The Outlook (magazine)
-citation: 
+- The Crisis (magazine)
+- The Outlook (magazine)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 2
   issue: 2
   page: 62-64
 google-scholar: true
-
 format:
   html:
     toc: false

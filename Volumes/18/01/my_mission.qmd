@@ -1,37 +1,36 @@
 ---
-title: 'My Mission'
-description: "W.E.B. Du Bois in The Crisis (1919) recounts organizing a Pan‑African Congress in Paris to press race, rights and League of Nations action for Black democracy."
+title: My Mission
+description: W.E.B. Du Bois in The Crisis (1919) recounts organizing a Pan‑African Congress in Paris to press race, rights and League of Nations action for Black democracy.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: May 1919
 categories: []
 subjects:
-  - Pan‑Africanism
-  - International advocacy for Black civil rights
-  - Martial law and press censorship (France, 1919)
-  - National self‑determination (post‑World War I)
+- Pan-Africanism
+- International advocacy for Black civil rights
+- Martial law and press censorship (France, 1919)
+- National self‑determination (post‑World War I)
 people:
-  - W. E. B. Du Bois
+- W. E. B. Du Bois
 places:
-  - Paris, France
-  - Africa
-  - United States
+- Paris, France
+- Africa
+- United States
 organizations:
-  - Pan‑African Congress
-  - League of Nations
-  - French government
+- Pan‑African Congress
+- League of Nations
+- French government
 events:
-  - Pan‑African Congress (1919)
-citation: 
+- Pan‑African Congress (1919)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 18
   issue: 1
   page: 7-9
 google-scholar: true
-
 format:
   html:
     toc: false

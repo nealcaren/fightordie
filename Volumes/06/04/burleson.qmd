@@ -1,38 +1,37 @@
 ---
-title: 'Burleson'
-description: "1913 W.E.B. Du Bois in The Crisis condemns Burleson’s push to segregate the federal civil service, links race exclusion to lynching, and urges action."
+title: Burleson
+description: 1913 W.E.B. Du Bois in The Crisis condemns Burleson’s push to segregate the federal civil service, links race exclusion to lynching, and urges action.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Feb. 1913
 categories: []
 subjects:
-  - Federal civil service — racial segregation
-  - Jim Crow laws
-  - Voting rights — African Americans
-  - Lynching
-  - African American political activism
+- Federal civil service — racial segregation
+- Jim Crow laws
+- Voting rights
+- Lynching
+- African American political activism
 people:
-  - W. E. B. Du Bois
-  - Albert S. Burleson
-  - Woodrow Wilson
-  - William H. Taft
+- W. E. B. Du Bois
+- Albert S. Burleson
+- Woodrow Wilson
+- William H. Taft
 places:
-  - Southern United States
-  - Washington, D.C.
+- Southern United States
+- Washington, D.C.
 organizations:
-  - United States Post Office Department
-  - Railway Mail (periodical)
-  - Democratic Party (United States)
-citation: 
+- United States Post Office Department
+- Railway Mail (periodical)
+- Democratic Party (United States)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 6
   issue: 4
   page: 180, 184
 google-scholar: true
-
 format:
   html:
     toc: false

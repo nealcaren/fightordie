@@ -1,35 +1,34 @@
 ---
-title: 'Remember'
-description: "In The Crisis (1920), W.E.B. Du Bois warns that the South's fragile power relies on racial disfranchisement and urges federal defense of democracy."
+title: Remember
+description: In The Crisis (1920), W.E.B. Du Bois warns that the South's fragile power relies on racial disfranchisement and urges federal defense of democracy.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Apr. 1920
 categories: []
 subjects:
-  - Voting rights and disfranchisement
-  - Federal enforcement of voting rights / defense of democracy
-  - Jim Crow laws and Southern white supremacy
-  - Racial political coalitions (interracial voting alliances)
-  - Congressional representation and franchise legitimacy
+- Disfranchisement
+- Federal enforcement of voting rights / defense of democracy
+- Jim Crow laws and Southern white supremacy
+- Racial political coalitions (interracial voting alliances)
+- Congressional representation and franchise legitimacy
 places:
-  - Mississippi
-  - South Carolina
-  - Alabama
+- Mississippi
+- South Carolina
+- Alabama
 organizations:
-  - United States Congress
-  - Presidency (United States)
+- United States Congress
+- Presidency (United States)
 events:
-  - United States Presidential Election (1920)
-citation: 
+- United States Presidential Election (1920)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 19
   issue: 6
   page: 297
 google-scholar: true
-
 format:
   html:
     toc: false

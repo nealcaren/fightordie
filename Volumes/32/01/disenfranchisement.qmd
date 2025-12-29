@@ -1,40 +1,39 @@
 ---
-title: 'Disenfranchisement'
-description: "W.E.B. Du Bois argues in The Crisis (1926) that Southern disenfranchisement of Black voters undermines democracy and fuels white supremacy."
+title: Disenfranchisement
+description: W.E.B. Du Bois argues in The Crisis (1926) that Southern disenfranchisement of Black voters undermines democracy and fuels white supremacy.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: May 1926
 categories: []
 subjects:
-  - Disfranchisement (African Americans)
-  - Jim Crow laws
-  - Congressional reapportionment and malapportionment
-  - White supremacy and racial domination
-  - Mob violence and lynching
+- Disfranchisement
+- Jim Crow laws
+- Congressional reapportionment and malapportionment
+- White supremacy and racial domination
+- Mob violence and lynching
 people:
-  - Perry W. Howard
-  - Elizabeth Little
-  - Bertrand Russell
-  - Coleman Blease
+- Perry W. Howard
+- Elizabeth Little
+- Bertrand Russell
+- Coleman Blease
 places:
-  - Mississippi
-  - Birmingham, Alabama
-  - Boley, Oklahoma
+- Mississippi
+- Birmingham, Alabama
+- Boley, Oklahoma
 organizations:
-  - United States House of Representatives
-  - Democratic Party (Southern Democrats)
+- United States House of Representatives
+- Democratic Party (Southern Democrats)
 events:
-  - United States elections (1920–1924)
-citation: 
+- United States elections (1920–1924)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 32
   issue: 1
   page: 8-9
 google-scholar: true
-
 format:
   html:
     toc: false

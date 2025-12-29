@@ -1,39 +1,38 @@
 ---
-title: 'England, Again'
-description: "W.E.B. Du Bois in The Crisis (1920) condemns British imperialism and land theft, exposing racial hypocrisy and the betrayal of democratic ideals."
+title: England, Again
+description: W.E.B. Du Bois in The Crisis (1920) condemns British imperialism and land theft, exposing racial hypocrisy and the betrayal of democratic ideals.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Mar. 1920
 categories: []
 subjects:
-  - British imperialism (colonialism)
-  - Land dispossession in Africa
-  - Racial hypocrisy in imperial policy
-  - Abolitionism and emancipation (English abolitionists)
+- British imperialism
+- Land dispossession in Africa
+- Racial hypocrisy in imperial policy
+- Abolitionism and emancipation (English abolitionists)
 people:
-  - Sir Leander Starr Jameson
-  - Thomas Clarkson
-  - William Wilberforce
-  - Granville Sharp
-  - John Boyle O'Reilly
-  - Daniel O'Connell
+- Sir Leander Starr Jameson
+- Thomas Clarkson
+- William Wilberforce
+- Granville Sharp
+- John Boyle O'Reilly
+- Daniel O'Connell
 places:
-  - England
-  - Ireland
-  - Matabeleland
+- England
+- Ireland
+- Matabeleland
 organizations:
-  - British Aborigines Protection Society
-  - The Crisis
-citation: 
+- British Aborigines Protection Society
+- The Crisis
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 19
   issue: 5
   page: 237-238
 google-scholar: true
-
 format:
   html:
     toc: false

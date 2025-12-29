@@ -1,32 +1,31 @@
 ---
-title: 'Radicals and the Negro'
-description: "1925: W.E.B. Du Bois argues in The Crisis that radicals must include Black emancipation—voting, education, labor and anti-lynching—to defend American democracy."
+title: Radicals and the Negro
+description: '1925: W.E.B. Du Bois argues in The Crisis that radicals must include Black emancipation—voting, education, labor and anti-lynching—to defend American democracy.'
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Mar. 1925
 categories: []
 subjects:
-  - Voting rights (African Americans)
-  - Disenfranchisement and electoral corruption
-  - Lynching / anti-lynching
-  - Segregated public education
-  - Jim Crow laws (racial segregation in public accommodations)
+- Voting rights
+- Disenfranchisement and electoral corruption
+- Lynching / anti-lynching
+- Segregated public education
+- Jim Crow laws (racial segregation in public accommodations)
 places:
-  - United States
-  - Southern United States
-  - New York City (New York)
+- United States
+- Southern United States
+- New York City (New York)
 organizations:
-  - The Crisis (NAACP magazine)
-citation: 
+- The Crisis (NAACP magazine)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 29
   issue: 5
   page: 199-200
 google-scholar: true
-
 format:
   html:
     toc: false

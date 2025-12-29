@@ -1,32 +1,31 @@
 ---
-title: 'Our Own Consent'
-description: "In 1913 W.E.B. Du Bois in The Crisis argues that collective protest against Jim Crow and disfranchisement can force America to face racial injustice."
+title: Our Own Consent
+description: In 1913 W.E.B. Du Bois in The Crisis argues that collective protest against Jim Crow and disfranchisement can force America to face racial injustice.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Jan. 1913
 categories: []
 subjects:
-  - Disfranchisement (voting rights)
-  - Jim Crow laws (racial segregation and public accommodations)
-  - Civil rights agitation and protest
-  - Racial discrimination (color line)
-  - White supremacy and Southern oligarchy
-  - Northern complicity in racial oppression
+- Disfranchisement
+- Jim Crow laws (racial segregation and public accommodations)
+- Civil rights agitation and protest
+- Racial discrimination (color line)
+- White supremacy and Southern oligarchy
+- Northern complicity in racial oppression
 places:
-  - Southern United States
-  - Northern United States
+- Southern United States
+- Northern United States
 organizations:
-  - The Crisis (magazine)
-citation: 
+- The Crisis (magazine)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 5
   issue: 3
   page: 129
 google-scholar: true
-
 format:
   html:
     toc: false

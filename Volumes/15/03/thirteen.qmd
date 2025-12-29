@@ -1,36 +1,35 @@
 ---
-title: 'Thirteen'
-description: "In The Crisis (1918), W.E.B. Du Bois condemns racial injustice: thirteen Black soldiers executed while white perpetrators go free, attacking American justice."
+title: Thirteen
+description: 'In The Crisis (1918), W.E.B. Du Bois condemns racial injustice: thirteen Black soldiers executed while white perpetrators go free, attacking American justice.'
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Jan. 1918
 categories: []
 subjects:
-  - Military discrimination against African American soldiers
-  - Extrajudicial killings and racial violence
-  - Discrimination in the American criminal justice system
-  - African American military service and civil rights
+- Military discrimination
+- Extrajudicial killings and racial violence
+- Discrimination in the American criminal justice system
+- African American military service and civil rights
 people:
-  - W. E. B. Du Bois
-  - Woodrow Wilson
+- W. E. B. Du Bois
+- Woodrow Wilson
 places:
-  - Houston, Texas
-  - United States
+- Houston, Texas
+- United States
 organizations:
-  - United States Army
-  - The Crisis (NAACP publication)
+- United States Army
+- The Crisis (NAACP publication)
 events:
-  - Camp Logan Mutiny / Houston Riot (1917)
-citation: 
+- Camp Logan Mutiny / Houston Riot (1917)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 15
   issue: 3
   page: 114
 google-scholar: true
-
 format:
   html:
     toc: false

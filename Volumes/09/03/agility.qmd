@@ -1,33 +1,32 @@
 ---
-title: 'Agility'
-description: "In 1915 W.E.B. Du Bois in The Crisis condemns suffragist evasions that defend white supremacy and betray democracy and Black women's rights."
+title: Agility
+description: In 1915 W.E.B. Du Bois in The Crisis condemns suffragist evasions that defend white supremacy and betray democracy and Black women's rights.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Jan. 1915
 categories: []
 subjects:
-  - Women's suffrage
-  - Voting rights (African Americans)
-  - White supremacy
-  - Southern disenfranchisement
+- Women's suffrage
+- Voting rights
+- White supremacy
+- Southern disenfranchisement
 people:
-  - W. E. B. Du Bois
-  - Alva Belmont (Mrs. O. H. P. Belmont)
+- W. E. B. Du Bois
+- Alva Belmont (Mrs. O. H. P. Belmont)
 places:
-  - Chattanooga, Tennessee
-  - Southern United States
+- Chattanooga, Tennessee
+- Southern United States
 organizations:
-  - Women's suffrage movement (United States)
-citation: 
+- Women's suffrage movement (United States)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 9
   issue: 3
   page: 133
 google-scholar: true
-
 format:
   html:
     toc: false

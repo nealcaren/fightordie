@@ -1,34 +1,33 @@
 ---
-title: 'The Durham Conference'
-description: "W.E.B. Du Bois in The Crisis (1927) calls for a Durham conference to take stock of labor, education, voting rights and Black community life."
+title: The Durham Conference
+description: W.E.B. Du Bois in The Crisis (1927) calls for a Durham conference to take stock of labor, education, voting rights and Black community life.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Dec. 1927
 categories: []
 subjects:
-  - Disfranchisement (voting rights)
-  - Educational opportunity (African Americans)
-  - Labor conditions and wages (Black labor)
-  - Black business and financial institutions (banks and insurance)
-  - Public health and crime in African American communities
+- Disfranchisement
+- Educational inequality
+- Labor conditions and wages (Black labor)
+- Black business and financial institutions (banks and insurance)
+- Public health and crime in African American communities
 people:
-  - Du Bois, W. E. B.
+- Du Bois, W. E. B.
 places:
-  - Durham, North Carolina
+- Durham, North Carolina
 organizations:
-  - The Crisis (magazine)
+- The Crisis (magazine)
 events:
-  - Durham Conference (1927)
-citation: 
+- Durham Conference (1927)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 34
   issue: 10
   page: 348
 google-scholar: true
-
 format:
   html:
     toc: false

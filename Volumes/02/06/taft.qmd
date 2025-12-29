@@ -1,37 +1,36 @@
 ---
-title: 'Mr. Taft'
-description: "1911: W.E.B. Du Bois in The Crisis condemns Taft's race policies, rejecting Southern guardianship over Black education, voting rights and justice."
+title: Mr. Taft
+description: '1911: W.E.B. Du Bois in The Crisis condemns Taft''s race policies, rejecting Southern guardianship over Black education, voting rights and justice.'
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Apr. 1911
 categories: []
 subjects:
-  - Lynching
-  - Disfranchisement (voting rights)
-  - Educational inequality (African Americans)
-  - Racial discrimination in federal appointments
-  - Southern guardianship of African Americans
+- Lynching
+- Disfranchisement
+- Educational inequality
+- Racial discrimination in federal appointments
+- Southern guardianship of African Americans
 people:
-  - William H. Taft
-  - Theodore Roosevelt
+- William H. Taft
+- Theodore Roosevelt
 places:
-  - Southern United States
-  - United States
+- Southern United States
+- United States
 organizations:
-  - Fisk University
-  - Federal government of the United States
+- Fisk University
+- Federal government of the United States
 events:
-  - Brownsville Affair (1906)
-citation: 
+- Brownsville Affair (1906)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 2
   issue: 6
   page: 243
 google-scholar: true
-
 format:
   html:
     toc: false

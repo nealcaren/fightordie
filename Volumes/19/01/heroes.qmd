@@ -1,31 +1,30 @@
 ---
-title: 'Heroes'
-description: "In The Crisis (1919), W.E.B. Du Bois honors Southern Black men and women whose nonviolent endurance demands racial dignity and freedom."
+title: Heroes
+description: In The Crisis (1919), W.E.B. Du Bois honors Southern Black men and women whose nonviolent endurance demands racial dignity and freedom.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: May 1919
 categories: []
 subjects:
-  - Nonviolent resistance (African Americans)
-  - Silent protest — Southern United States
-  - Jim Crow laws — Southern United States
-  - Racial violence — Southern United States
-  - Race relations — Southern United States
-  - African American civil rights — Southern United States
+- Nonviolent resistance (African Americans)
+- Silent protest — Southern United States
+- Jim Crow laws — Southern United States
+- Racial violence — Southern United States
+- Race relations
+- African American civil rights — Southern United States
 places:
-  - Southern United States
+- Southern United States
 organizations:
-  - The Crisis (magazine)
-citation: 
+- The Crisis (magazine)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 19
   issue: 1
   page: 337
 google-scholar: true
-
 format:
   html:
     toc: false

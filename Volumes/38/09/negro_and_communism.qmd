@@ -1,39 +1,38 @@
 ---
-title: 'The Negro and Communism'
-description: "W.E.B. Du Bois in The Crisis (1931) critiques Communist tactics in Scottsboro, defends NAACP leadership, and urges legal, labor, and democratic reform."
+title: The Negro and Communism
+description: W.E.B. Du Bois in The Crisis (1931) critiques Communist tactics in Scottsboro, defends NAACP leadership, and urges legal, labor, and democratic reform.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Sep. 1931
 categories: []
 subjects:
-  - Communism and African Americans
-  - NAACP legal strategy and leadership
-  - Disfranchisement and Jim Crow laws
-  - Labor, economic reform and the Great Depression
-  - Racial discrimination in the criminal justice system
+- Communism and African Americans
+- NAACP legal strategy and leadership
+- Disfranchisement and Jim Crow laws
+- Labor, economic reform and the Great Depression
+- Criminal justice discrimination
 people:
-  - W. E. B. Du Bois
+- W. E. B. Du Bois
 places:
-  - Scottsboro, Alabama
-  - United States
-  - Soviet Union
+- Scottsboro, Alabama
+- United States
+- Soviet Union
 organizations:
-  - National Association for the Advancement of Colored People (NAACP)
-  - Communist Party (United States)
-  - Democratic Party (United States)
+- National Association for the Advancement of Colored People (NAACP)
+- Communist Party (United States)
+- Democratic Party (United States)
 events:
-  - Scottsboro trials (1931)
-  - Russian Revolution (1917)
-citation: 
+- Scottsboro trials (1931)
+- Russian Revolution (1917)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 38
   issue: 9
   page: 313-315, 318, 320
 google-scholar: true
-
 format:
   html:
     toc: false

@@ -1,35 +1,34 @@
 ---
-title: 'The Fruit of the Tree'
-description: "W.E.B. Du Bois in The Crisis (1913) condemns rhetoric of Black subservience as causing disenfranchisement, segregation and lynching, and calls for resistance."
+title: The Fruit of the Tree
+description: W.E.B. Du Bois in The Crisis (1913) condemns rhetoric of Black subservience as causing disenfranchisement, segregation and lynching, and calls for resistance.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Mar. 1913
 categories: []
 subjects:
-  - Disfranchisement (Voting rights)
-  - Segregation (Jim Crow laws)
-  - Lynching
-  - Accommodationism (Black leadership advocating subservience / Atlanta Compromise)
-  - Black political resistance and protest
+- Disfranchisement
+- Jim Crow laws
+- Lynching
+- Accommodationism (Black leadership advocating subservience / Atlanta Compromise)
+- Black political resistance and protest
 people:
-  - W. E. B. Du Bois
-  - Booker T. Washington
-  - Patterson
+- W. E. B. Du Bois
+- Booker T. Washington
+- Patterson
 places:
-  - United States
-  - Southern United States
+- United States
+- Southern United States
 organizations:
-  - The Crisis (NAACP magazine)
-citation: 
+- The Crisis (NAACP magazine)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 6
   issue: 5
   page: 232
 google-scholar: true
-
 format:
   html:
     toc: false

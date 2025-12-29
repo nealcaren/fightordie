@@ -1,32 +1,31 @@
 ---
-title: 'The Sin Against the Holy Ghost'
-description: "W.E.B. Du Bois, in The Crisis (1911), argues deceit for political gain is the unforgivable sin, corroding Black humanity, race dignity, and democracy."
+title: The Sin Against the Holy Ghost
+description: W.E.B. Du Bois, in The Crisis (1911), argues deceit for political gain is the unforgivable sin, corroding Black humanity, race dignity, and democracy.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Jun. 1911
 categories: []
 subjects:
-  - Lynching
-  - Disfranchisement (African Americans)
-  - Political deception and moral responsibility
-  - Accommodationist politics (African American leaders)
-  - Democracy and public trust
+- Lynching
+- Disfranchisement
+- Political deception and moral responsibility
+- Accommodationist politics (African American leaders)
+- Democracy and public trust
 people:
-  - Du Bois, W. E. B.
-  - Benjamin R. Tillman
+- Du Bois, W. E. B.
+- Benjamin R. Tillman
 places:
-  - United States
-  - Southern United States
-citation: 
+- United States
+- Southern United States
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 3
   issue: 2
   page: 68-69
 google-scholar: true
-
 format:
   html:
     toc: false

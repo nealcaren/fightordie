@@ -1,36 +1,35 @@
 ---
-title: 'Advertising'
-description: "1922: W.E.B. Du Bois in The Crisis argues modern advertising can mobilize indifferent white readers to expose lynching, advancing racial justice and democracy."
+title: Advertising
+description: '1922: W.E.B. Du Bois in The Crisis argues modern advertising can mobilize indifferent white readers to expose lynching, advancing racial justice and democracy.'
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Feb. 1922
 categories: []
 subjects:
-  - Anti-lynching legislation
-  - Lynching
-  - Political advertising and propaganda
-  - Mass media campaigns and press publicity
-  - Race relations — United States
+- Anti-lynching legislation
+- Lynching
+- Political advertising and propaganda
+- Mass media campaigns and press publicity
+- Race relations
 people:
-  - W. E. B. Du Bois
-  - Leonidas C. Dyer
+- W. E. B. Du Bois
+- Leonidas C. Dyer
 places:
-  - United States
+- United States
 organizations:
-  - National Association for the Advancement of Colored People (NAACP)
-  - The Crisis (magazine)
+- National Association for the Advancement of Colored People (NAACP)
+- The Crisis (magazine)
 events:
-  - Dyer Anti-Lynching Bill Campaign (1921-1922)
-citation: 
+- Dyer Anti-Lynching Bill Campaign (1921-1922)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 25
   issue: 4
   page: 152
 google-scholar: true
-
 format:
   html:
     toc: false

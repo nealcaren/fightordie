@@ -1,39 +1,38 @@
 ---
-title: 'Dalton, GA'
-description: "W.E.B. Du Bois in The Crisis (1932) documents how racial segregation in Dalton, GA denied injured Black patients hospital care, causing deaths and injustice"
+title: Dalton, GA
+description: W.E.B. Du Bois in The Crisis (1932) documents how racial segregation in Dalton, GA denied injured Black patients hospital care, causing deaths and injustice
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Mar. 1932
 categories: []
 subjects:
-  - Hospital segregation
-  - Racial discrimination in healthcare
-  - Denial of medical treatment
-  - Jim Crow segregation
+- Hospital segregation
+- Racial discrimination in healthcare
+- Denial of medical treatment
+- Jim Crow laws
 people:
-  - Juliette Derricotte
-  - Ethel B. Gilbert
-  - Elmer S. Imes
+- Juliette Derricotte
+- Ethel B. Gilbert
+- Elmer S. Imes
 places:
-  - Dalton, Georgia
-  - Whitfield County, Georgia
-  - Chattanooga, Tennessee
-  - Athens, Georgia
+- Dalton, Georgia
+- Whitfield County, Georgia
+- Chattanooga, Tennessee
+- Athens, Georgia
 organizations:
-  - Hamilton Memorial Hospital
-  - Fisk University
-  - National Association for the Advancement of Colored People (NAACP)
-  - Commission on Interracial Cooperation
-citation: 
+- Hamilton Memorial Hospital
+- Fisk University
+- National Association for the Advancement of Colored People (NAACP)
+- Commission on Interracial Cooperation
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 39
   issue: 3
   page: 85-87
 google-scholar: true
-
 format:
   html:
     toc: false

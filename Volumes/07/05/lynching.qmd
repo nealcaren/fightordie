@@ -1,35 +1,34 @@
 ---
-title: 'Lynching'
-description: "In 1914 The Crisis, W.E.B. Du Bois exposes how suppressed reporting masks lynching's rise, documenting race-based violence and challenging ineffective reforms."
+title: Lynching
+description: In 1914 The Crisis, W.E.B. Du Bois exposes how suppressed reporting masks lynching's rise, documenting race-based violence and challenging ineffective reforms.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Mar. 1914
 categories: []
 subjects:
-  - Lynching
-  - Mob violence against African Americans
-  - Press coverage of lynching
-  - Anti-lynching reform and legislation
-  - Statistical reporting of lynching
+- Lynching
+- Lynching and mob violence
+- Press coverage of lynching
+- Anti-lynching reform and legislation
+- Statistical reporting of lynching
 people:
-  - W. E. B. Du Bois
-  - Booker T. Washington
+- W. E. B. Du Bois
+- Booker T. Washington
 places:
-  - United States
-  - Chicago, Illinois
+- United States
+- Chicago, Illinois
 organizations:
-  - The Crisis (magazine)
-  - Chicago Tribune
-citation: 
+- The Crisis (magazine)
+- Chicago Tribune
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 7
   issue: 5
   page: 239
 google-scholar: true
-
 format:
   html:
     toc: false

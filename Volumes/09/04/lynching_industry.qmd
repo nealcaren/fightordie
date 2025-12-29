@@ -1,41 +1,39 @@
 ---
-title: 'The Lynching Industry'
-description: "In 1915 The Crisis, W.E.B. Du Bois documents the 1914 lynching industry, exposing racial violence and the hypocrisy undermining American democracy."
+title: The Lynching Industry
+description: In 1915 The Crisis, W.E.B. Du Bois documents the 1914 lynching industry, exposing racial violence and the hypocrisy undermining American democracy.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Feb. 1915
 categories: []
 subjects:
-  - Lynching (United States)
-  - Racial violence against African Americans
-  - Extrajudicial killings and mob violence
-  - Civil rights — United States
-  - Anti-lynching advocacy and public accountability
+- Lynching
+- Racial violence against African Americans
+- Extrajudicial killings and mob violence
+- Civil rights — United States
+- Anti-lynching advocacy and public accountability
 people:
-  - W.E.B. Du Bois
-  - Dickerson (Okla.) [lynching victim listed]
-  - Romeo (La.) [lynching victim listed]
+- W.E.B. Du Bois
+- Dickerson (Okla.) [lynching victim listed]
+- Romeo (La.) [lynching victim listed]
 places:
-  - Mississippi
-  - Louisiana
-  - Kentucky
-  - United States
+- Mississippi
+- Louisiana
+- Kentucky
+- United States
 organizations:
-  - The Crisis (magazine)
-  - Tuskegee Institute
-  - Chicago Tribune
-citation: 
+- The Crisis (magazine)
+- Tuskegee Institute
+- Chicago Tribune
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 9
   issue: 4
   page: 196,198
 google-scholar: true
-
 tbl-cap-location: top
-
 format:
   html:
     toc: false

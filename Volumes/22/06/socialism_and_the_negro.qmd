@@ -1,36 +1,35 @@
 ---
-title: 'Socialism and the Negro'
-description: "In The Crisis (1921), W.E.B. Du Bois critiques socialism's promise for Black labor, urging cautious, evolutionary reform amid race and imperialism."
+title: Socialism and the Negro
+description: In The Crisis (1921), W.E.B. Du Bois critiques socialism's promise for Black labor, urging cautious, evolutionary reform amid race and imperialism.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Apr. 1921
 categories: []
 subjects:
-  - Socialism and the Black working class
-  - Voting rights (political enfranchisement)
-  - Labor organizing and industrial reform
-  - Race and class relations
-  - Imperialism and colonialism
+- Socialism and the Black working class
+- Voting rights (political enfranchisement)
+- Labor organizing and industrial reform
+- Race and class relations
+- Colonialism
 people:
-  - W. E. B. Du Bois
-  - John H. Owens
+- W. E. B. Du Bois
+- John H. Owens
 places:
-  - Northern United States
-  - Southern United States
+- Northern United States
+- Southern United States
 organizations:
-  - The Crisis
-  - Socialist movement
-  - Communist movement
-citation: 
+- The Crisis
+- Socialist movement
+- Communist movement
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 22
   issue: 6
   page: 245-247
 google-scholar: true
-
 format:
   html:
     toc: false

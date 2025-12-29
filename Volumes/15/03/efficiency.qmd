@@ -1,39 +1,38 @@
 ---
-title: 'Thirteen'
-description: "W.E.B. Du Bois in The Crisis (1918) praises the NAACP as the most effective defender of Black civil rights, fighting disenfranchisement, segregation, lynching."
+title: Thirteen
+description: W.E.B. Du Bois in The Crisis (1918) praises the NAACP as the most effective defender of Black civil rights, fighting disenfranchisement, segregation, lynching.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Jan. 1918
 categories: []
 subjects:
-  - Disfranchisement and voting rights
-  - Jim Crow segregation (segregation laws and court challenges)
-  - Lynching and anti-lynching advocacy
-  - Military discrimination (admission of Black officers, U.S. Army)
-  - Anti-miscegenation (anti-intermarriage) laws
+- Disfranchisement
+- Jim Crow segregation (segregation laws and court challenges)
+- Lynching and anti-lynching advocacy
+- Military discrimination (admission of Black officers, U.S. Army)
+- Anti-miscegenation (anti-intermarriage) laws
 people:
-  - W.E.B. Du Bois
-  - Joel Spingarn
+- W.E.B. Du Bois
+- Joel Spingarn
 places:
-  - United States
-  - Washington, D.C.
+- United States
+- Washington, D.C.
 organizations:
-  - National Association for the Advancement of Colored People (NAACP)
-  - United States Army
-  - Supreme Court of the United States
+- National Association for the Advancement of Colored People (NAACP)
+- United States Army
+- Supreme Court of the United States
 events:
-  - Guinn v. United States (1915)
-  - Buchanan v. Warley (1917)
-citation: 
+- Guinn v. United States (1915)
+- Buchanan v. Warley (1917)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 15
   issue: 3
   page: 115
 google-scholar: true
-
 format:
   html:
     toc: false

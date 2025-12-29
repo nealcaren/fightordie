@@ -1,39 +1,38 @@
 ---
-title: 'The Negro and Radical Thought'
-description: "1921: W.E.B. Du Bois in The Crisis urges Negro emancipation and labor solidarity at home, warning against uncritical embrace of Russian socialism."
+title: The Negro and Radical Thought
+description: '1921: W.E.B. Du Bois in The Crisis urges Negro emancipation and labor solidarity at home, warning against uncritical embrace of Russian socialism.'
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Jan. 1921
 categories: []
 subjects:
-  - Race and class relations
-  - Labor organizing and strikebreaking
-  - Voting rights and political disenfranchisement
-  - Lynching and racial violence
-  - African American responses to socialism and the Russian Revolution
+- Race and class relations
+- Labor organizing and strikebreaking
+- Voting rights and political disenfranchisement
+- Lynching and mob violence
+- African American responses to socialism and the Russian Revolution
 people:
-  - W. E. B. Du Bois
-  - Claude McKay
+- W. E. B. Du Bois
+- Claude McKay
 places:
-  - United States
-  - Russia
-  - Southern United States
+- United States
+- Russia
+- Southern United States
 organizations:
-  - National Association for the Advancement of Colored People (NAACP)
-  - The Crisis (magazine)
-  - The Liberator (magazine)
+- National Association for the Advancement of Colored People (NAACP)
+- The Crisis (magazine)
+- The Liberator (magazine)
 events:
-  - Russian Revolution (1917)
-citation: 
+- Russian Revolution (1917)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 22
   issue: 3
   page: 102-104
 google-scholar: true
-
 format:
   html:
     toc: false

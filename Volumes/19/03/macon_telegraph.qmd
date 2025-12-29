@@ -1,37 +1,36 @@
 ---
-title: 'The Macon Telegraph'
-description: "In 1920 W.E.B. Du Bois in The Crisis rebukes the Macon Telegraph, arguing racial injustice—lynching, disfranchisement, unequal education—drives Southern unrest."
+title: The Macon Telegraph
+description: In 1920 W.E.B. Du Bois in The Crisis rebukes the Macon Telegraph, arguing racial injustice—lynching, disfranchisement, unequal education—drives Southern unrest.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Jan. 1920
 categories: []
 subjects:
-  - Lynching and racial violence
-  - Disfranchisement (voting rights)
-  - Jim Crow laws and segregation (including residential segregation)
-  - Educational inequality (segregated Black schools)
-  - Press/media portrayal of race (criticism of white Southern newspapers)
+- Lynching and mob violence
+- Disfranchisement
+- Jim Crow laws and segregation (including residential segregation)
+- Educational inequality (segregated Black schools)
+- Press/media portrayal of race (criticism of white Southern newspapers)
 people:
-  - W. E. B. Du Bois
-  - Robert R. Moton
+- W. E. B. Du Bois
+- Robert R. Moton
 places:
-  - Macon, Georgia
-  - Tuskegee, Alabama
-  - Southern United States
+- Macon, Georgia
+- Tuskegee, Alabama
+- Southern United States
 organizations:
-  - The Crisis
-  - Macon Daily Telegraph
-  - Tuskegee Institute
-citation: 
+- The Crisis
+- Macon Daily Telegraph
+- Tuskegee Institute
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 19
   issue: 3
   page: 109-110
 google-scholar: true
-
 format:
   html:
     toc: false

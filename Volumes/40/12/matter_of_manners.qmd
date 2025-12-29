@@ -1,34 +1,33 @@
 ---
-title: 'A Matter of Manners'
-description: "W.E.B. Du Bois in The Crisis (1933) criticizes how Southern racial insults erode Black manners and urges reclaiming courtesy as dignity and self-respect."
+title: A Matter of Manners
+description: W.E.B. Du Bois in The Crisis (1933) criticizes how Southern racial insults erode Black manners and urges reclaiming courtesy as dignity and self-respect.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Dec. 1933
 categories: []
 subjects:
-  - African American manners and etiquette
-  - Race relations—Southern United States
-  - Racial discrimination and public insults
-  - Social courtesy, dignity, and self-respect (African Americans)
-  - Southern social customs and white supremacy
+- African American manners and etiquette
+- Race relations
+- Racial discrimination and public insults
+- Social courtesy, dignity, and self-respect (African Americans)
+- Southern social customs and white supremacy
 people:
-  - W. E. B. Du Bois
-  - George Washington
+- W. E. B. Du Bois
+- George Washington
 places:
-  - Atlanta, Georgia
-  - Southern United States
+- Atlanta, Georgia
+- Southern United States
 organizations:
-  - The Atlanta Constitution
-citation: 
+- The Atlanta Constitution
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 40
   issue: 12
   page: 292-293
 google-scholar: true
-
 format:
   html:
     toc: false

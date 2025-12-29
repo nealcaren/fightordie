@@ -1,31 +1,30 @@
 ---
-title: 'Separation and Self-Respect'
-description: "W.E.B. Du Bois in The Crisis (1934) argues segregation harms race and democracy, urging Black self-organization, pride, and fight for quality education."
+title: Separation and Self-Respect
+description: W.E.B. Du Bois in The Crisis (1934) argues segregation harms race and democracy, urging Black self-organization, pride, and fight for quality education.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Mar. 1934
 categories: []
 subjects:
-  - Racial segregation (Jim Crow laws)
-  - Educational inequality — segregated public schooling
-  - Black self-organization and self-help
-  - Race and democracy; civil rights
+- Racial segregation
+- Educational inequality — segregated public schooling
+- Black self-organization and self-help
+- Race and democracy; civil rights
 places:
-  - South Carolina
-  - Boston, Massachusetts
-  - United States
+- South Carolina
+- Boston, Massachusetts
+- United States
 organizations:
-  - National Association for the Advancement of Colored People (NAACP)
-citation: 
+- National Association for the Advancement of Colored People (NAACP)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 41
   issue: 3
   page: 85
 google-scholar: true
-
 format:
   html:
     toc: false

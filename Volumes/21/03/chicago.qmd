@@ -1,40 +1,39 @@
 ---
-title: 'Chicago'
-description: "W.E.B. Du Bois in The Crisis (1921) warns that Illinois' Inter-Racial Commission masks a segregation agenda, using questionnaires to trap Black leaders."
+title: Chicago
+description: W.E.B. Du Bois in The Crisis (1921) warns that Illinois' Inter-Racial Commission masks a segregation agenda, using questionnaires to trap Black leaders.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: January 1921
 categories: []
 subjects:
-  - Racial segregation
-  - State interracial commissions
-  - Race relations
-  - Race riots (United States)
-  - African American leadership — Criticism
+- Racial segregation
+- State interracial commissions
+- Race relations
+- Race riots
+- African American leadership — Criticism
 people:
-  - W.E.B. Du Bois
+- W.E.B. Du Bois
 places:
-  - Chicago, Illinois
-  - East St. Louis, Illinois
-  - Washington, D.C.
-  - Illinois
+- Chicago, Illinois
+- East St. Louis, Illinois
+- Washington, D.C.
+- Illinois
 organizations:
-  - Illinois Inter-Racial Commission
-  - The Crisis (magazine)
+- Illinois Inter-Racial Commission
+- The Crisis (magazine)
 events:
-  - East St. Louis Race Riot (1917)
-  - Chicago Race Riot (1919)
-  - Washington, D.C. Race Riot (1919)
-citation: 
+- East St. Louis Race Riot (1917)
+- Chicago Race Riot (1919)
+- Washington, D.C. Race Riot (1919)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 21
   issue: 3
   page: 102
 google-scholar: true
-
 format:
   html:
     toc: false

@@ -1,39 +1,38 @@
 ---
-title: 'Senators'' Records'
-description: "In 1914 W.E.B. Du Bois in The Crisis exposes Senate suffrage debates invoking race, naming senators who backed disfranchisement and threatened democracy."
+title: Senators' Records
+description: In 1914 W.E.B. Du Bois in The Crisis exposes Senate suffrage debates invoking race, naming senators who backed disfranchisement and threatened democracy.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Jun. 1914
 categories: []
 subjects:
-  - Women's suffrage (United States)
-  - African American voting rights
-  - Repeal efforts against the Fifteenth Amendment
-  - White supremacy in congressional debate
+- Women's suffrage
+- Voting rights
+- Repeal efforts against the Fifteenth Amendment
+- White supremacy in congressional debate
 people:
-  - James K. Vardaman
-  - John Sharp Williams
-  - Key Pittman
-  - Francis G. Newlands
-  - William E. Borah
+- James K. Vardaman
+- John Sharp Williams
+- Key Pittman
+- Francis G. Newlands
+- William E. Borah
 places:
-  - Mississippi
-  - Washington, D.C.
+- Mississippi
+- Washington, D.C.
 organizations:
-  - United States Senate
-  - The Crisis (magazine)
+- United States Senate
+- The Crisis (magazine)
 events:
-  - U.S. Senate debate on the federal women's suffrage amendment (1914)
-citation: 
+- U.S. Senate debate on the federal women's suffrage amendment (1914)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 8
   issue: 2
   page: 77-78
 google-scholar: true
-
 format:
   html:
     toc: false

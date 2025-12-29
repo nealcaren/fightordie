@@ -1,36 +1,35 @@
 ---
-title: 'President Harding and Social Equality'
-description: "W.E.B. Du Bois in The Crisis (1921) condemns Harding's attack on social equality, defends racial equality, education and democracy; warns against segregation."
+title: President Harding and Social Equality
+description: W.E.B. Du Bois in The Crisis (1921) condemns Harding's attack on social equality, defends racial equality, education and democracy; warns against segregation.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: December 1921
 categories: []
 subjects:
-  - Social equality
-  - Voting rights
-  - Educational equality (African Americans)
-  - Economic justice for African Americans
-  - Racial segregation
+- Social equality
+- Voting rights
+- Educational inequality
+- Economic justice for African Americans
+- Racial segregation
 people:
-  - W. E. B. Du Bois
-  - Warren G. Harding
+- W. E. B. Du Bois
+- Warren G. Harding
 places:
-  - Birmingham, Alabama
-  - Southern United States
+- Birmingham, Alabama
+- Southern United States
 organizations:
-  - The Crisis (NAACP)
+- The Crisis (NAACP)
 events:
-  - Warren G. Harding's Birmingham speech (1921)
-citation: 
+- Warren G. Harding's Birmingham speech (1921)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 23
   issue: 2
   page: 53-56
 google-scholar: true
-
 format:
   html:
     toc: false

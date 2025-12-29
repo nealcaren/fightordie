@@ -1,36 +1,35 @@
 ---
-title: 'The Negro Silent Parade'
-description: "National Association for the Advancement of Colored People in The Crisis (1917) argues a silent march protesting lynching, race riots and segregation."
+title: The Negro Silent Parade
+description: National Association for the Advancement of Colored People in The Crisis (1917) argues a silent march protesting lynching, race riots and segregation.
 author: National Association for the Advancement of Colored People
 date: Mar. 1917
 categories: []
 subjects:
-  - Lynching
-  - Race riots and mass racial violence
-  - Disfranchisement and voting rights
-  - Jim Crow segregation
+- Lynching
+- Race riots and mass racial violence
+- Disfranchisement
+- Jim Crow laws
 people:
-  - W.E.B. Du Bois
+- W.E.B. Du Bois
 places:
-  - New York City (New York)
-  - East St. Louis (Illinois)
-  - Waco (Texas)
-  - Memphis (Tennessee)
+- New York City (New York)
+- East St. Louis (Illinois)
+- Waco (Texas)
+- Memphis (Tennessee)
 organizations:
-  - The Crisis
-  - The New York Times
-  - New York American
+- The Crisis
+- The New York Times
+- New York American
 events:
-  - Negro Silent Parade (1917)
-  - East St. Louis Race Riot (1917)
-citation: 
+- Negro Silent Parade (1917)
+- East St. Louis Race Riot (1917)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 14
   issue: 5
   page: 241-244
 google-scholar: true
-
 format:
   html:
     toc: false

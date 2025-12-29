@@ -1,35 +1,34 @@
 ---
-title: 'The Church and the Negro'
-description: "W.E.B. Du Bois in The Crisis (1913) faults the church for promoting racial injustice, exposing Christian hypocrisy and urging labor, education, moral reform."
+title: The Church and the Negro
+description: W.E.B. Du Bois in The Crisis (1913) faults the church for promoting racial injustice, exposing Christian hypocrisy and urging labor, education, moral reform.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Apr. 1913
 categories: []
 subjects:
-  - Racial prejudice in churches
-  - Church complicity in American slavery
-  - Lynching and mob violence
-  - Educational inequality for African Americans
-  - Labor and occupational discrimination
+- Racial prejudice in churches
+- Church complicity in American slavery
+- Lynching and mob violence
+- Educational inequality
+- Labor and occupational discrimination
 people:
-  - Jesus Christ (Jesus of Nazareth)
-  - W. E. B. Du Bois
+- Jesus Christ (Jesus of Nazareth)
+- W. E. B. Du Bois
 places:
-  - United States
-  - New York City, New York (Cathedral of Saint John the Divine)
+- United States
+- New York City, New York (Cathedral of Saint John the Divine)
 organizations:
-  - Christian churches in the United States
-  - Cathedral of Saint John the Divine (New York City)
-citation: 
+- Christian churches in the United States
+- Cathedral of Saint John the Divine (New York City)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 6
   issue: 6
   page: 290-291
 google-scholar: true
-
 format:
   html:
     toc: false

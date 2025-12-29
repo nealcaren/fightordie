@@ -1,38 +1,37 @@
 ---
-title: 'The Truth'
-description: "In 1912 W.E.B. Du Bois (The Crisis) demands a Renaissance of truth, exposing press silences and misrepresentations of Black life, race, and democracy."
+title: The Truth
+description: In 1912 W.E.B. Du Bois (The Crisis) demands a Renaissance of truth, exposing press silences and misrepresentations of Black life, race, and democracy.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Jun. 1912
 categories: []
 subjects:
-  - Press and media bias against African Americans
-  - Disfranchisement of African Americans (voting rights)
-  - Lynching and extrajudicial killings of African Americans
-  - Race and democracy in the United States
+- Press and media bias against African Americans
+- Disfranchisement
+- Lynching and extrajudicial killings of African Americans
+- Race and democracy in the United States
 people:
-  - W. E. B. Du Bois
-  - Sir Harry Johnston
-  - Jane Addams
-  - Charles Edward Stowe
+- W. E. B. Du Bois
+- Sir Harry Johnston
+- Jane Addams
+- Charles Edward Stowe
 places:
-  - United States
-  - Southern United States
+- United States
+- Southern United States
 organizations:
-  - The Crisis
-  - McClure's Magazine
-  - The Outlook (magazine)
-  - Southern Workman
-citation: 
+- The Crisis
+- McClure's Magazine
+- The Outlook (magazine)
+- Southern Workman
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 5
   issue: 2
   page: 76--77
 google-scholar: true
-
 format:
   html:
     toc: false

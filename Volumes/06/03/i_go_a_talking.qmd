@@ -1,36 +1,35 @@
 ---
-title: 'I Go A-Talking'
-description: "W.E.B. Du Bois in The Crisis (1913) chronicles a 7,000-mile tour, documenting Black communities, exposing Jim Crow segregation, and urging racial uplift."
+title: I Go A-Talking
+description: W.E.B. Du Bois in The Crisis (1913) chronicles a 7,000-mile tour, documenting Black communities, exposing Jim Crow segregation, and urging racial uplift.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Jan. 1913
 categories: []
 subjects:
-  - Jim Crow laws and racial segregation
-  - African American community life — Western United States
-  - Public lectures and oratory (Du Bois speaking tour)
-  - Racial uplift and race leadership
-  - Travel narrative / travel writing
+- Jim Crow laws
+- African American community life — Western United States
+- Public lectures and oratory (Du Bois speaking tour)
+- Racial uplift and race leadership
+- Travel narrative / travel writing
 people:
-  - W. E. B. Du Bois
+- W. E. B. Du Bois
 places:
-  - Grand Canyon (Arizona)
-  - Los Angeles (California)
-  - Oakland (California)
-  - St. Louis (Missouri)
-  - Atlanta (Georgia)
+- Grand Canyon (Arizona)
+- Los Angeles (California)
+- Oakland (California)
+- St. Louis (Missouri)
+- Atlanta (Georgia)
 organizations:
-  - The Crisis
-citation: 
+- The Crisis
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 6
   issue: 3
   page: 130--132
 google-scholar: true
-
 format:
   html:
     toc: false

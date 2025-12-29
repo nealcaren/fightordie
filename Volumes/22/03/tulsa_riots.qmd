@@ -1,36 +1,35 @@
 ---
-title: 'Tulsa Riots'
-description: "National Association for the Advancement of Colored People in The Crisis (1921) examines the Tulsa race riot, white arson, peonage and refugees."
+title: Tulsa Riots
+description: National Association for the Advancement of Colored People in The Crisis (1921) examines the Tulsa race riot, white arson, peonage and refugees.
 author: National Association for the Advancement of Colored People
 date: Jan. 1921
 categories: []
 subjects:
-  - Race riots and mob violence against African Americans
-  - Mass displacement of Black residents
-  - Debt peonage and agricultural exploitation of Black farmers
-  - Refugee relief and organizational response to racial violence
+- Lynching and mob violence
+- Mass displacement of Black residents
+- Debt peonage and agricultural exploitation of Black farmers
+- Refugee relief and organizational response to racial violence
 people:
-  - Marcus Garvey
-  - Lizzie Johnson
-  - Josie Gatlin
-  - Edward Givens
+- Marcus Garvey
+- Lizzie Johnson
+- Josie Gatlin
+- Edward Givens
 places:
-  - Tulsa, Oklahoma
-  - Okmulgee, Oklahoma
-  - New York, New York
+- Tulsa, Oklahoma
+- Okmulgee, Oklahoma
+- New York, New York
 organizations:
-  - National Association for the Advancement of Colored People (NAACP)
-  - Universal Negro Improvement Association (UNIA)
+- National Association for the Advancement of Colored People (NAACP)
+- Universal Negro Improvement Association (UNIA)
 events:
-  - Tulsa Race Riot (1921)
-citation: 
+- Tulsa Race Riot (1921)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 22
   issue: 3
   page: 115-116
 google-scholar: true
-
 format:
   html:
     toc: false

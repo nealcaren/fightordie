@@ -1,39 +1,38 @@
 ---
-title: 'The Newer South'
-description: "In The Crisis (1926), W.E.B. Du Bois critiques the New South's Jim Crow, lynching, and educational neglect while urging white Southerners to join racial justice."
+title: The Newer South
+description: In The Crisis (1926), W.E.B. Du Bois critiques the New South's Jim Crow, lynching, and educational neglect while urging white Southerners to join racial justice.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Feb. 1926
 categories: []
 subjects:
-  - Lynching
-  - Jim Crow laws (racial segregation)
-  - Educational inequality (segregated and underfunded schools)
-  - Disfranchisement (voting rights suppression)
-  - Interracial cooperation and anti-lynching advocacy
+- Lynching
+- Jim Crow laws
+- Educational inequality (segregated and underfunded schools)
+- Disfranchisement
+- Interracial cooperation and anti-lynching advocacy
 people:
-  - Henry W. Grady
-  - Robert B. Eleazer
-  - Silas Parmore
-  - Clifford Walker (Governor of Georgia)
-  - Henry L. Whitfield (Governor of Mississippi)
+- Henry W. Grady
+- Robert B. Eleazer
+- Silas Parmore
+- Clifford Walker (Governor of Georgia)
+- Henry L. Whitfield (Governor of Mississippi)
 places:
-  - Mississippi
-  - Georgia
-  - Atlanta, Georgia
+- Mississippi
+- Georgia
+- Atlanta, Georgia
 organizations:
-  - Interracial movement (Atlanta headquarters)
-  - Mississippi Woman's Committee on Interracial Cooperation
-citation: 
+- Interracial movement (Atlanta headquarters)
+- Mississippi Woman's Committee on Interracial Cooperation
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 31
   issue: 4
   page: 163-165
 google-scholar: true
-
 format:
   html:
     toc: false

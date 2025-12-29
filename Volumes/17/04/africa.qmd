@@ -1,40 +1,39 @@
 ---
-title: 'Africa'
-description: "W.E.B. Du Bois in The Crisis (1919) shows how European colonial partition and WWI's aftermath fueled Pan‑Africanism and demands for racial self‑determination."
+title: Africa
+description: W.E.B. Du Bois in The Crisis (1919) shows how European colonial partition and WWI's aftermath fueled Pan‑Africanism and demands for racial self‑determination.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Feb. 1919
 categories: []
 subjects:
-  - Pan‑Africanism
-  - European colonialism in Africa
-  - Partition of Africa (Scramble for Africa)
-  - Post–World War I colonial reapportionment and demands for racial self‑determination
+- Pan-Africanism
+- European colonialism in Africa
+- Partition of Africa (Scramble for Africa)
+- Post–World War I colonial reapportionment and demands for racial self‑determination
 people:
-  - Prince Henry of Portugal (Henry the Navigator)
-  - King Leopold II of Belgium
-  - Menelik II of Abyssinia (Ethiopia)
+- Prince Henry of Portugal (Henry the Navigator)
+- King Leopold II of Belgium
+- Menelik II of Abyssinia (Ethiopia)
 places:
-  - Africa
-  - Congo Free State (later Belgian Congo)
-  - Liberia
-  - Abyssinia (Ethiopia)
+- Africa
+- Congo Free State (later Belgian Congo)
+- Liberia
+- Abyssinia (Ethiopia)
 organizations:
-  - British Empire
-  - Belgian colonial administration (Belgian Congo)
+- British Empire
+- Belgian colonial administration (Belgian Congo)
 events:
-  - Founding of the Congo Free State (1884)
-  - World War I (1914–1918)
-citation: 
+- Founding of the Congo Free State (1884)
+- World War I (1914–1918)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 17
   issue: 4
   page: 164-165
 google-scholar: true
-
 format:
   html:
     toc: false

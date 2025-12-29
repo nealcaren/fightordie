@@ -1,37 +1,36 @@
 ---
-title: 'Triumph'
-description: "In 1920 The Crisis, W.E.B. Du Bois celebrates woman suffrage as a democratic triumph and links opposition to lynching, child labor, and racial injustice."
+title: Triumph
+description: In 1920 The Crisis, W.E.B. Du Bois celebrates woman suffrage as a democratic triumph and links opposition to lynching, child labor, and racial injustice.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Oct. 1920
 categories: []
 subjects:
-  - Women's suffrage (United States)
-  - Lynching (United States)
-  - Child labor
-  - Universal education
-  - Racial discrimination — Color Line
+- Women's suffrage
+- Lynching
+- Child labor
+- Universal education
+- Racial discrimination — Color Line
 people:
-  - W. E. B. Du Bois
-  - Susan B. Anthony
-  - Frederick Douglass
+- W. E. B. Du Bois
+- Susan B. Anthony
+- Frederick Douglass
 places:
-  - United States
-  - Southern United States
+- United States
+- Southern United States
 organizations:
-  - The Crisis (magazine)
+- The Crisis (magazine)
 events:
-  - Nineteenth Amendment ratification (1920)
-citation: 
+- Nineteenth Amendment ratification (1920)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 20
   issue: 6
   page: 261
 google-scholar: true
-
 format:
   html:
     toc: false

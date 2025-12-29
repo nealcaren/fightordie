@@ -1,37 +1,36 @@
 ---
-title: 'Arkansas'
-description: "W.E.B. Du Bois in The Crisis (1920) exposes Arkansas insurance bias and white surveillance that punish Black wealth, voting and anti-lynching activism."
+title: Arkansas
+description: W.E.B. Du Bois in The Crisis (1920) exposes Arkansas insurance bias and white surveillance that punish Black wealth, voting and anti-lynching activism.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Feb. 1920
 categories: []
 subjects:
-  - Life insurance discrimination against African Americans
-  - Surveillance by white investigative bureaus targeting Black leaders
-  - Anti-lynching activism
-  - Voting rights suppression in the Jim Crow South
-  - Racial violence and race riots
+- Life insurance discrimination against African Americans
+- Surveillance by white investigative bureaus targeting Black leaders
+- Anti-lynching legislation
+- Voting rights suppression in the Jim Crow South
+- Race riots
 people:
-  - W.E.B. Du Bois
+- W.E.B. Du Bois
 places:
-  - Phillips County, Arkansas
-  - Arkansas (United States)
+- Phillips County, Arkansas
+- Arkansas (United States)
 organizations:
-  - Private life insurance companies (United States)
-  - White private investigative bureaus (confidential reports)
-  - The Crisis (magazine)
+- Private life insurance companies (United States)
+- White private investigative bureaus (confidential reports)
+- The Crisis (magazine)
 events:
-  - Phillips County race riot / Elaine Massacre (1919)
-citation: 
+- Phillips County race riot / Elaine Massacre (1919)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 19
   issue: 4
   page: 169-170
 google-scholar: true
-
 format:
   html:
     toc: false

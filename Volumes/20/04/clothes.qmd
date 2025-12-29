@@ -1,32 +1,31 @@
 ---
-title: 'Clothes'
-description: "In a 1920 Crisis essay, W.E.B. Du Bois flips racist assumptions, arguing whites' fears about Black laundry reveal public-health harms and racial hypocrisy."
+title: Clothes
+description: In a 1920 Crisis essay, W.E.B. Du Bois flips racist assumptions, arguing whites' fears about Black laundry reveal public-health harms and racial hypocrisy.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Feb. 1920
 categories: []
 subjects:
-  - Public health and sanitation
-  - Racial prejudice and hypocrisy
-  - Laundry work — African Americans
-  - Domestic service and occupational health
-  - Race relations — Southern United States
+- Public health and sanitation
+- Racial prejudice and hypocrisy
+- Laundry work — African Americans
+- Domestic service and occupational health
+- Race relations
 people:
-  - W. E. B. Du Bois
+- W. E. B. Du Bois
 places:
-  - Southern United States
+- Southern United States
 organizations:
-  - The Crisis (magazine)
-citation: 
+- The Crisis (magazine)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 20
   issue: 4
   page: 166
 google-scholar: true
-
 format:
   html:
     toc: false

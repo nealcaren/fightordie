@@ -1,35 +1,34 @@
 ---
-title: 'Prejudice'
-description: "W.E.B. Du Bois in The Crisis (1927) argues that racial prejudice, rooted in slavery and segregation, produces reciprocal distrust and harm."
+title: Prejudice
+description: W.E.B. Du Bois in The Crisis (1927) argues that racial prejudice, rooted in slavery and segregation, produces reciprocal distrust and harm.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Nov. 1927
 categories: []
 subjects:
-  - Racial prejudice
-  - Race relations
-  - Slavery (United States)
-  - Segregation (Jim Crow laws)
-  - Reciprocal racial distrust
+- Racial prejudice
+- Race relations
+- Slavery (United States)
+- Jim Crow laws
+- Reciprocal racial distrust
 people:
-  - W. E. B. Du Bois
-  - Helen D. Pecu
-  - Allison Davis
+- W. E. B. Du Bois
+- Helen D. Pecu
+- Allison Davis
 places:
-  - Vashon Islands, Washington
-  - Southern United States
+- Vashon Islands, Washington
+- Southern United States
 organizations:
-  - The Crisis (magazine)
-citation: 
+- The Crisis (magazine)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 34
   issue: 9
   page: 311
 google-scholar: true
-
 format:
   html:
     toc: false

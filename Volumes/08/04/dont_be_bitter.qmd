@@ -1,37 +1,36 @@
 ---
-title: 'Don''t Be Bitter'
-description: "1914: W.E.B. Du Bois in The Crisis rejects pleas to 'not be bitter,' arguing Black Americans' calm demands for voting rights, racial justice, and dignity."
+title: Don't Be Bitter
+description: '1914: W.E.B. Du Bois in The Crisis rejects pleas to ''not be bitter,'' arguing Black Americans'' calm demands for voting rights, racial justice, and dignity.'
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Feb. 1914
 categories: []
 subjects:
-  - Voting rights (African Americans)
-  - Racial justice and dignity
-  - African American college student activism
-  - Religious missions and race relations
+- Voting rights
+- Racial justice and dignity
+- African American college student activism
+- Religious missions and race relations
 people:
-  - W. E. B. Du Bois
-  - John R. Mott
-  - William Pickens
+- W. E. B. Du Bois
+- John R. Mott
+- William Pickens
 places:
-  - Atlanta, Georgia
-  - United States
+- Atlanta, Georgia
+- United States
 organizations:
-  - Student Volunteer Movement
-  - The Crisis (NAACP journal)
+- Student Volunteer Movement
+- The Crisis (NAACP journal)
 events:
-  - Colored college students' meeting in Atlanta (1914)
-citation: 
+- Colored college students' meeting in Atlanta (1914)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 8
   issue: 4
   page: 180-181
 google-scholar: true
-
 format:
   html:
     toc: false

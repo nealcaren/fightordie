@@ -1,35 +1,34 @@
 ---
-title: 'The Second Coming'
-description: "W.E.B. Du Bois in The Crisis (1917) uses a prophetic allegory to expose white racial fear and envision Black emergence and social change."
+title: The Second Coming
+description: W.E.B. Du Bois in The Crisis (1917) uses a prophetic allegory to expose white racial fear and envision Black emergence and social change.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Jun. 1917
 categories: []
 subjects:
-  - White racial fear and anxiety
-  - Voting rights (African Americans)
-  - Great Migration (African American migration)
-  - Jim Crow laws and segregation
+- White racial fear and anxiety
+- Voting rights
+- Great Migration (African American migration)
+- Jim Crow laws
 people:
-  - W.E.B. Du Bois
-  - Fleming (fictional gubernatorial candidate)
+- W.E.B. Du Bois
+- Fleming (fictional gubernatorial candidate)
 places:
-  - Valdosta, Georgia
-  - San Francisco, California
-  - New Orleans, Louisiana
-  - New York, New York
+- Valdosta, Georgia
+- San Francisco, California
+- New Orleans, Louisiana
+- New York, New York
 organizations:
-  - The Crisis (NAACP publication)
-citation: 
+- The Crisis (NAACP publication)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 15
   issue: 2
   page: 59-60
 google-scholar: true
-
 format:
   html:
     toc: false

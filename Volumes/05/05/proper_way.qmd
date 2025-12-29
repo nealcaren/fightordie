@@ -1,40 +1,39 @@
 ---
-title: 'The Proper Way'
-description: "W.E.B. Du Bois in The Crisis (1913) urges constant agitation against disfranchisement, Jim Crow, and lynching to defend Black democracy."
+title: The Proper Way
+description: W.E.B. Du Bois in The Crisis (1913) urges constant agitation against disfranchisement, Jim Crow, and lynching to defend Black democracy.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Mar. 1913
 categories: []
 subjects:
-  - Voting rights — disfranchisement
-  - Interstate Jim Crow laws (segregation in interstate travel and accommodations)
-  - Lynching — anti-lynching agitation and investigation
-  - Civil rights litigation — Supreme Court strategy
-  - Public protest and publicity campaigns
+- Disfranchisement
+- Interstate Jim Crow laws (segregation in interstate travel and accommodations)
+- Lynching — anti-lynching agitation and investigation
+- Civil rights litigation — Supreme Court strategy
+- Public protest and publicity campaigns
 people:
-  - W. E. B. Du Bois
-  - William J. Burns
+- W. E. B. Du Bois
+- William J. Burns
 places:
-  - Coatesville, Pennsylvania
-  - Mississippi (U.S.)
-  - Oklahoma (U.S.)
+- Coatesville, Pennsylvania
+- Mississippi (U.S.)
+- Oklahoma (U.S.)
 organizations:
-  - National Association for the Advancement of Colored People (NAACP)
-  - The Crisis (magazine)
-  - Burns Detective Agency
-  - Cleveland Gazette (newspaper)
+- National Association for the Advancement of Colored People (NAACP)
+- The Crisis (magazine)
+- Burns Detective Agency
+- Cleveland Gazette (newspaper)
 events:
-  - Coatesville lynching (1911)
-citation: 
+- Coatesville lynching (1911)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 5
   issue: 5
   page: 238-239
 google-scholar: true
-
 format:
   html:
     toc: false

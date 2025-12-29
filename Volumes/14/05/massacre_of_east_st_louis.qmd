@@ -1,40 +1,39 @@
 ---
-title: 'The Massacre in East St. Louis'
-description: "W.E.B. Du Bois in The Crisis (1917) documents the East St. Louis massacre, linking racial terror to labor conflict and failures of democracy and law."
+title: The Massacre in East St. Louis
+description: W.E.B. Du Bois in The Crisis (1917) documents the East St. Louis massacre, linking racial terror to labor conflict and failures of democracy and law.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
-  - name:
-      given: Martha
-      family: Gruening
+- name:
+    given: W.E.B.
+    family: Du Bois
+- name:
+    given: Martha
+    family: Gruening
 date: Mar. 1917
 categories: []
 subjects:
-  - Race riots and mob violence against African Americans
-  - Labor disputes and strikebreaking in industry
-  - Racially-motivated property destruction and forced displacement
-  - Failures of law enforcement and civil protections
+- Lynching and mob violence
+- Labor disputes and strikebreaking in industry
+- Racially-motivated property destruction and forced displacement
+- Failures of law enforcement and civil protections
 people:
-  - W. E. Burghardt Du Bois
-  - Martha Gruening
+- W. E. Burghardt Du Bois
+- Martha Gruening
 places:
-  - East St. Louis, Illinois
+- East St. Louis, Illinois
 organizations:
-  - National Association for the Advancement of Colored People (NAACP)
-  - Armour & Co.
-  - Swift & Co.
-  - White labor unions (East St. Louis packing plants)
+- National Association for the Advancement of Colored People (NAACP)
+- Armour & Co.
+- Swift & Co.
+- White labor unions (East St. Louis packing plants)
 events:
-  - East St. Louis Race Riot (1917)
-citation: 
+- East St. Louis Race Riot (1917)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 14
   issue: 5
   page: 219-238
 google-scholar: true
-
 format:
   html:
     toc: false

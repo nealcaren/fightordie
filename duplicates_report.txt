@@ -1,0 +1,1909 @@
+CONCEPTUAL DUPLICATES
+================================================================================
+
+COLONIALISM (97 variations, 111 total uses):
+    3  Colonialism and imperialism
+    3  Colonialism and self-determination
+    3  European colonialism in Africa
+    2  Anti-imperialism
+    2  British colonialism in India
+    2  British imperialism
+    2  Colonialism
+    2  German colonialism
+    2  Imperialism and colonialism
+    2  Racial hypocrisy in imperial policy
+    2  U.S. imperialism and colonialism
+    1  African colonial troops in World War I
+    1  American corporate economic imperialism
+    1  Annexation and colonial rule (Hawaii)
+       → normalized: annexation and colonial rule
+    1  Anti-colonialism
+    1  Anti-colonialism and national liberation movements (India)
+       → normalized: anti-colonialism and national liberation movements
+    1  Anti-imperialism / anti-colonial resistance
+    1  Anti-imperialism and opposition to colonial domination
+    1  Asian anti-colonial unity and solidarity
+    1  British colonial policy and co-optation of local elites
+    1  British colonial policy in Kenya
+    1  British colonialism and its economic legacy
+    1  British colonialism in Ireland
+    1  British colonialism in Nigeria
+    1  British imperialism (Colonialism—Great Britain)
+       → normalized: british imperialism
+    1  British imperialism (colonialism)
+       → normalized: british imperialism
+    1  British imperialism and colonial expansion
+    1  British imperialism and colonialism
+    1  British imperialism in Ireland
+    1  Christianity and imperialism
+    1  Colonial administration and imperialism in Africa
+    1  Colonial administration and justice for colonized peoples
+    1  Colonial atrocities
+    1  Colonial economic exploitation (ivory, diamonds, copper, rubber)
+       → normalized: colonial economic exploitation
+    1  Colonial economic exploitation and forced labor
+    1  Colonial exploitation and forced labor
+    1  Colonial governance in Africa
+    1  Colonial labor policy and restrictions
+    1  Colonial mandates and self-determination
+    1  Colonial resource extraction (imperial greed)
+       → normalized: colonial resource extraction
+    1  Colonial rule and imperialism
+    1  Colonial rule in Africa (European imperialism)
+       → normalized: colonial rule in africa
+    1  Colonial status and legal discrimination (self-governing vs. crown colonies)
+       → normalized: colonial status and legal discrimination
+    1  Colonial subjects in metropolitan centers
+    1  Colonial/African education and missionary/white intermediary support
+    1  Colonialism (Africa and former German colonies)
+       → normalized: colonialism
+    1  Colonialism (Africa)
+       → normalized: colonialism
+    1  Colonialism (Imperialism)
+       → normalized: colonialism
+    1  Colonialism -- Africa
+    1  Colonialism / Imperialism
+    1  Colonialism / Imperialism in Africa
+    1  Colonialism and European racial domination
+    1  Colonialism and anti-colonial sentiment
+    1  Colonialism and imperial economic exploitation
+    1  Colonialism and imperial exploitation
+    1  Colonialism and imperial governance
+    1  Colonialism and imperial repression
+    1  Colonialism and imperialism (Africa)
+       → normalized: colonialism and imperialism
+    1  Colonialism and imperialism's impact on global labor and commodity production
+    1  Colonialism and its global political effects
+    1  Colonialism in Abyssinia (Ethiopia)
+       → normalized: colonialism in abyssinia
+    1  Colonialism in Africa
+    1  Colonialism — South Africa
+       → normalized: colonialism south africa
+    1  European colonialism and conquest
+    1  European imperial rivalry for colonies
+    1  Extraction of rubber, diamonds, cocoa and gold (colonial resource exploitation)
+       → normalized: extraction of rubber, diamonds, cocoa and gold
+    1  Financial imperialism
+    1  Forced labor in Liberia and colonial Africa
+    1  Foreign capital and economic imperialism (corporate influence)
+       → normalized: foreign capital and economic imperialism
+    1  French colonialism in the Caribbean
+    1  German imperialism (comparison to domestic racial ideology)
+       → normalized: german imperialism
+    1  Imperial pageantry and ceremonial representation
+    1  Imperial pageantry and coronation symbolism (Durbar)
+       → normalized: imperial pageantry and coronation symbolism
+    1  Imperialism
+    1  Imperialism and colonial aggression in China and East Asia
+    1  Imperialism and peace (cessation of imperial aggression)
+       → normalized: imperialism and peace
+    1  Imperialism and the ideology of the "White Man's Burden"
+    1  Industrial imperialism
+    1  Irish independence and British colonial policy
+    1  Italian colonialism
+    1  Italian imperialism in Africa
+    1  Militarism and colonial warfare
+    1  Naturalization rights and obligations for colonial soldiers
+    1  Post–World War I colonial reapportionment and demands for racial self‑determination
+       → normalized: post–world war i colonial reapportionment and demands for racial self determination
+    1  Racial imperialism and colonialism
+    1  Racial segregation and residential exclusion (colonial Kenya)
+       → normalized: racial segregation and residential exclusion
+    1  Racial violence and public humiliation by colonial authorities
+    1  Racialized imperialism / racialized military intervention
+    1  Racism in colonial policy
+    1  Self-determination (colonial peoples)
+       → normalized: self-determination
+    1  U.S. imperialism / interventionism in the Caribbean
+    1  U.S. imperialism and military intervention in Haiti
+    1  United States imperialism
+    1  United States imperialism (foreign policy)
+       → normalized: united states imperialism
+    1  United States imperialism in the Caribbean
+    1  Western imperialism in Asia
+    1  White supremacy ideology in imperial administration
+
+DISCRIMINATION (160 variations, 190 total uses):
+    5  Military discrimination against African Americans
+    5  Racial discrimination in the criminal justice system
+    4  Military discrimination against African American soldiers
+    4  Military discrimination against Black soldiers
+    4  Racial discrimination in employment
+    3  Military discrimination
+    3  Racial prejudice and discrimination
+    2  Employment discrimination against African Americans
+    2  Housing discrimination
+    2  Public accommodations discrimination
+    2  Racial discrimination
+    2  Racial discrimination (color line)
+       → normalized: racial discrimination
+    2  Racial discrimination — United States
+       → normalized: racial discrimination united states
+    2  Racial employment discrimination
+    2  Residential segregation (housing discrimination)
+       → normalized: residential segregation
+    2  Residential segregation and housing discrimination
+    1  Admissions discrimination in private boarding schools
+    1  African American community responses to discrimination
+    1  African American laborers — Employment discrimination
+       → normalized: african american laborers employment discrimination
+    1  Capitalization of "Negro" (orthographic racial discrimination)
+       → normalized: capitalization of "negro"
+    1  Child welfare — racial discrimination
+       → normalized: child welfare racial discrimination
+    1  Civil Service discrimination and examinations
+    1  Civil rights activism — Public exposure of discrimination
+       → normalized: civil rights activism public exposure of discrimination
+    1  Civil rights litigation and legal testing of discriminatory practices
+    1  Colonial status and legal discrimination (self-governing vs. crown colonies)
+       → normalized: colonial status and legal discrimination
+    1  Criminal justice discrimination (police and courts)
+       → normalized: criminal justice discrimination
+    1  Criminal justice — Racial discrimination and failure to protect
+       → normalized: criminal justice racial discrimination and failure to protect
+    1  Discrimination in civil rights
+    1  Discrimination in public accommodations (restaurants/service)
+       → normalized: discrimination in public accommodations
+    1  Discrimination in public services and infrastructure
+    1  Discrimination in the American criminal justice system
+    1  Discrimination in veterans' medical care
+    1  Discriminatory disaster relief
+    1  Discriminatory retail practices (pricing and goods quality)
+       → normalized: discriminatory retail practices
+    1  Discriminatory union admission policies
+    1  Economic discrimination — African Americans
+       → normalized: economic discrimination african americans
+    1  Economic exploitation and labor discrimination
+    1  Economic inequality and wage discrimination
+    1  Economic opportunity and employment discrimination
+    1  Educational discrimination (access and bias in schooling)
+       → normalized: educational discrimination
+    1  Employment discrimination (African Americans)
+       → normalized: employment discrimination
+    1  Employment discrimination (economic exclusion)
+       → normalized: employment discrimination
+    1  Employment discrimination (race)
+       → normalized: employment discrimination
+    1  Employment discrimination against African American graduates
+    1  Employment discrimination against Black teachers
+    1  Employment discrimination and labor access (African Americans)
+       → normalized: employment discrimination and labor access
+    1  Employment discrimination and labor competition
+    1  Employment discrimination and labor opportunities
+    1  Employment discrimination by race
+    1  Employment discrimination in rail and industrial labor
+    1  Employment discrimination in railroads ("Full Crew" bills)
+       → normalized: employment discrimination in railroads
+    1  Employment discrimination in the United States federal civil service
+    1  Employment discrimination — race (United States)
+       → normalized: employment discrimination race
+    1  Employment discrimination — retail trade
+       → normalized: employment discrimination retail trade
+    1  Federal aid to education with nondiscrimination requirement
+    1  Federal anti-discriminatory legislation (prevention/opposition)
+       → normalized: federal anti-discriminatory legislation
+    1  Federal employment discrimination — Republican patronage
+       → normalized: federal employment discrimination republican patronage
+    1  Flood relief and racial discrimination
+    1  Gender discrimination in medicine
+    1  Housing discrimination (mortgage denial)
+       → normalized: housing discrimination
+    1  Housing discrimination against African Americans
+    1  Judicial discrimination in the Southern United States
+    1  Jury discrimination and exclusion
+    1  Jury discrimination and reform
+    1  Labor and occupational discrimination
+    1  Labor discrimination
+    1  Labor discrimination and economic exploitation
+    1  Labor discrimination and industrial democracy
+    1  Labor discrimination and wage inequality for African Americans
+    1  Labor exclusion and economic discrimination
+    1  Labor exploitation and peonage (economic discrimination, restricted employment, sharecropping)
+       → normalized: labor exploitation and peonage
+    1  Labor market discrimination and wage undercutting of Black workers
+    1  Labor union discrimination (craft unions)
+       → normalized: labor union discrimination
+    1  Labor unions — Racial discrimination (United States)
+       → normalized: labor unions racial discrimination
+    1  Language and racial discrimination
+    1  Legal and legislative advocacy against racial discrimination
+    1  Legal remedies for racial discrimination — common law and constitutional claims
+       → normalized: legal remedies for racial discrimination common law and constitutional claims
+    1  Life insurance discrimination against African Americans
+    1  Military discrimination (African American soldiers)
+       → normalized: military discrimination
+    1  Military discrimination (admission of Black officers, U.S. Army)
+       → normalized: military discrimination
+    1  Military discrimination against Black Americans
+    1  Military discrimination against Black servicemen
+    1  Military discrimination and segregation (Black officers' camps)
+       → normalized: military discrimination and segregation
+    1  Military discrimination in the armed forces
+    1  Military segregation and discrimination
+    1  Newspapers — Silence on racial discrimination
+       → normalized: newspapers silence on racial discrimination
+    1  Overseas deployment to Africa as a discriminatory practice
+    1  Police misconduct and racial discrimination
+    1  Political party discrimination
+    1  Psychological effects of racial discrimination
+    1  Psychological effects of racial discrimination (inferiority complex, stigma)
+       → normalized: psychological effects of racial discrimination
+    1  Public accommodations discrimination and civil service exclusion
+    1  Public accommodations discrimination in government cafeterias and facilities
+    1  Public accommodations — discrimination by common carriers and public servants
+       → normalized: public accommodations discrimination by common carriers and public servants
+    1  Public accommodations—Discrimination (restaurants)
+       → normalized: public accommodations discrimination
+    1  Public transportation discrimination
+    1  Publishing discrimination against African American authors
+    1  Race prejudice and racial discrimination
+    1  Racial discrimination (color prejudice)
+       → normalized: racial discrimination
+    1  Racial discrimination against African Americans
+    1  Racial discrimination and color caste
+    1  Racial discrimination and public insults
+    1  Racial discrimination in admissions (higher education)
+       → normalized: racial discrimination in admissions
+    1  Racial discrimination in banking and credit access
+    1  Racial discrimination in churches
+    1  Racial discrimination in collegiate athletics
+    1  Racial discrimination in courts and sentencing
+    1  Racial discrimination in criminal justice
+    1  Racial discrimination in criminal sentencing
+    1  Racial discrimination in diplomatic and arbitration practices
+    1  Racial discrimination in disaster relief
+    1  Racial discrimination in education
+    1  Racial discrimination in education (white paternalism/"friend" philanthropy)
+       → normalized: racial discrimination in education
+    1  Racial discrimination in employment and labor unions
+    1  Racial discrimination in employment and wages
+    1  Racial discrimination in employment, civil service, public accommodations, and education
+    1  Racial discrimination in family law and adoption
+    1  Racial discrimination in federal appointments
+    1  Racial discrimination in federal policy under the Wilson administration
+    1  Racial discrimination in healthcare
+    1  Racial discrimination in immigration policy
+    1  Racial discrimination in local government appropriations and public services
+    1  Racial discrimination in medical institutions (exclusion of Black nurses/internees)
+       → normalized: racial discrimination in medical institutions
+    1  Racial discrimination in military awards
+    1  Racial discrimination in military justice and dismissals
+    1  Racial discrimination in military officer appointments
+    1  Racial discrimination in military service
+    1  Racial discrimination in missionary societies
+    1  Racial discrimination in public accommodations and cemeteries
+    1  Racial discrimination in public accommodations and services
+    1  Racial discrimination in relief and aid
+    1  Racial discrimination in religion (Catholic Church, United States)
+       → normalized: racial discrimination in religion
+    1  Racial discrimination in religious institutions
+    1  Racial discrimination in sports
+    1  Racial discrimination in the U.S. Army
+    1  Racial discrimination in the U.S. Army (Black commissioned officers)
+       → normalized: racial discrimination in the u.s. army
+    1  Racial discrimination in the U.S. diplomatic service
+    1  Racial discrimination in the U.S. military
+    1  Racial discrimination in the United States and threats to democracy
+    1  Racial discrimination in the arts and art institutions
+    1  Racial discrimination in the commercial recording industry
+    1  Racial discrimination in the federal civil service
+    1  Racial discrimination in theatre (performing arts)
+       → normalized: racial discrimination in theatre
+    1  Racial discrimination in women's organizations
+    1  Racial discrimination — Color Line
+       → normalized: racial discrimination color line
+    1  Racial double standards and discrimination
+    1  Racial prejudice and racial discrimination
+    1  Racial prejudice — social and economic discrimination
+       → normalized: racial prejudice social and economic discrimination
+    1  Racial propaganda and legal discrimination (Jim Crow)
+       → normalized: racial propaganda and legal discrimination
+    1  Racial segregation and discrimination
+    1  Real estate discrimination and exclusionary practices
+    1  Religious institutions and racial discrimination
+    1  Residential segregation (housing discrimination, restrictive covenants, racial zoning)
+       → normalized: residential segregation
+    1  Restrictive real estate practices and mortgage discrimination
+    1  State control of education / constitutional exemptions permitting discrimination
+    1  State-sponsored racial discrimination in public services (Mississippi)
+       → normalized: state-sponsored racial discrimination in public services
+    1  Symbolic discrimination
+    1  Trade union discrimination (race)
+       → normalized: trade union discrimination
+    1  Trade union discrimination against African American workers
+    1  Wage discrimination and employment bias
+
+EDUCATION (252 variations, 289 total uses):
+   18  Educational inequality
+    5  Educational inequality for African Americans
+    3  African American education
+    3  Educational inequality and access
+    2  Education and democracy
+    2  Education — African Americans
+       → normalized: education african americans
+    2  Educational equality (African Americans)
+       → normalized: educational equality
+    2  Educational inequality (African Americans)
+       → normalized: educational inequality
+    2  Educational inequality — African Americans
+       → normalized: educational inequality african americans
+    2  Educational opportunity (African Americans)
+       → normalized: educational opportunity
+    2  Educational segregation
+    2  Higher education for African Americans
+    2  Higher education — African Americans
+       → normalized: higher education african americans
+    2  Racial uplift through education
+    2  School segregation
+    2  Segregated schooling (Jim Crow education)
+       → normalized: segregated schooling
+    1  Access to higher education / college preparation barriers
+    1  Access to higher education for African Americans
+    1  Admissions discrimination in private boarding schools
+    1  Adult education
+    1  Adult education — public school programs
+       → normalized: adult education public school programs
+    1  African American college student activism
+    1  African American education (Southern schools and colleges)
+       → normalized: african american education
+    1  African American education (secondary and higher education)
+       → normalized: african american education
+    1  African American education and academic study (fellowships for Negro studies)
+       → normalized: african american education and academic study
+    1  African American education — access and advocacy
+       → normalized: african american education access and advocacy
+    1  African American education — higher and professional training
+       → normalized: african american education higher and professional training
+    1  African American political participation and voter education
+    1  African American public school administration
+    1  African American self-organization and institution-building (schools, churches)
+       → normalized: african american self-organization and institution-building
+    1  African American vocational education
+    1  African American voter education
+    1  Agricultural education for African Americans
+    1  Anti-Asian segregation in California schools
+    1  Antisemitism in higher education
+    1  Arson attacks on Black churches and schools
+    1  Audience development and education
+    1  Black education and social advancement
+    1  Black education — white control and paternalism
+       → normalized: black education white control and paternalism
+    1  Black institutional development (churches, schools, social organizations)
+       → normalized: black institutional development
+    1  Church role in education and social uplift
+    1  Church-sponsored African American education
+    1  Civic and political education
+    1  Civic education of children
+    1  Civic education — Youth
+       → normalized: civic education youth
+    1  Class-based segregation in education
+    1  Classical education (Latin and Greek)
+       → normalized: classical education
+    1  Clergy education and professional training
+    1  College discipline and suspensions
+    1  College entrance requirements
+    1  College governance (trustees and administration)
+       → normalized: college governance
+    1  College student activism
+    1  Colonial/African education and missionary/white intermediary support
+    1  Common school education inequality
+    1  Community institution-building for education (lectures, scholarships, industrial classes)
+       → normalized: community institution-building for education
+    1  Compulsory schooling — Education through age 14
+       → normalized: compulsory schooling education through age 14
+    1  Curriculum debates in Black education
+    1  Democracy and education (United States)
+       → normalized: democracy and education
+    1  Denominational support for Black colleges
+    1  Economic education / financial literacy for African Americans
+    1  Education
+    1  Education and cultural advancement of African Americans
+    1  Education and cultural uplift of African Americans
+    1  Education and leadership of colonized peoples
+    1  Education and native self-development (Africa)
+       → normalized: education and native self-development
+    1  Education and race (claims of intelligence and efficiency)
+       → normalized: education and race
+    1  Education and socioeconomic status — impact on family formation — African Americans
+       → normalized: education and socioeconomic status impact on family formation african americans
+    1  Education for democracy and citizenship
+    1  Education for peoples of African descent
+    1  Education for social and economic advancement
+    1  Education of children
+    1  Education reform for Black children
+    1  Education — African American girls
+       → normalized: education african american girls
+    1  Education — India
+       → normalized: education india
+    1  Education — Soviet Union (schools, children's colonies, libraries)
+       → normalized: education soviet union
+    1  Education — increasing school enrollment and access
+       → normalized: education increasing school enrollment and access
+    1  Educational access and higher education for African Americans
+    1  Educational administration and curriculum (school management, teacher training)
+       → normalized: educational administration and curriculum
+    1  Educational and professional development of Black youth
+    1  Educational discrimination (access and bias in schooling)
+       → normalized: educational discrimination
+    1  Educational equality for African Americans
+    1  Educational finance and budgeting
+    1  Educational inequality (African American access to advanced study)
+       → normalized: educational inequality
+    1  Educational inequality (African American schools)
+       → normalized: educational inequality
+    1  Educational inequality (girls and boys)
+       → normalized: educational inequality
+    1  Educational inequality (public school segregation and unequal resources)
+       → normalized: educational inequality
+    1  Educational inequality (race-based exclusion from higher education)
+       → normalized: educational inequality
+    1  Educational inequality (racially based)
+       → normalized: educational inequality
+    1  Educational inequality (segregated Black schools)
+       → normalized: educational inequality
+    1  Educational inequality (segregated and underfunded schools)
+       → normalized: educational inequality
+    1  Educational inequality (segregated and unequal schools)
+       → normalized: educational inequality
+    1  Educational inequality (segregated schools and white superintendence)
+       → normalized: educational inequality
+    1  Educational inequality (segregated schools, pay disparities)
+       → normalized: educational inequality
+    1  Educational inequality (segregated schools; unequal resources and administration)
+       → normalized: educational inequality
+    1  Educational inequality and access for people of African descent
+    1  Educational inequality and claims of mental deficiency
+    1  Educational inequality and denial of education
+    1  Educational inequality and denial of public education
+    1  Educational inequality and funding disparities
+    1  Educational inequality and school retrenchment for African Americans
+    1  Educational inequality and school segregation
+    1  Educational inequality and segregated schooling
+    1  Educational inequality and underfunding of Black schools (Southern United States)
+       → normalized: educational inequality and underfunding of black schools
+    1  Educational inequality and unequal school funding
+    1  Educational inequality based on race and class
+    1  Educational inequality for Black Americans
+    1  Educational inequality for Black children (limited vocational/servant training)
+       → normalized: educational inequality for black children
+    1  Educational inequality in Negro elementary schools, high schools, and colleges
+    1  Educational inequality in public schools
+    1  Educational inequality — Negro education after the Civil War
+       → normalized: educational inequality negro education after the civil war
+    1  Educational inequality — Southern Black public schools
+       → normalized: educational inequality southern black public schools
+    1  Educational inequality — denial of elementary schooling to Black children
+       → normalized: educational inequality denial of elementary schooling to black children
+    1  Educational inequality — public school funding
+       → normalized: educational inequality public school funding
+    1  Educational inequality — racial disparities in public school funding
+       → normalized: educational inequality racial disparities in public school funding
+    1  Educational inequality — secondary education
+       → normalized: educational inequality secondary education
+    1  Educational inequality — segregated public schooling
+       → normalized: educational inequality segregated public schooling
+    1  Educational inequality — underfunding and exclusion from public schools
+       → normalized: educational inequality underfunding and exclusion from public schools
+    1  Educational inequality; segregation and industrial schooling
+    1  Educational opportunities and policy for African Americans (schooling, vocational vs. collegiate training)
+       → normalized: educational opportunities and policy for african americans
+    1  Educational opportunities for African Americans
+    1  Educational opportunity and reform
+    1  Educational philosophy
+    1  Educational reform
+    1  Educational research and surveys on African and African American education
+    1  Educational staffing — racial bias in teacher selection
+       → normalized: educational staffing racial bias in teacher selection
+    1  Educational uplift and social mobility
+    1  Electoral College — indirect election of presidents
+       → normalized: electoral college indirect election of presidents
+    1  Electoral College—United States—Presidential elections
+       → normalized: electoral college united states presidential elections
+    1  Equal educational opportunity
+    1  Federal aid to common schools
+    1  Federal aid to education
+    1  Federal aid to education with nondiscrimination requirement
+    1  Federal aid to education — Smith-Towner Education Bill provisions and conditional funding
+       → normalized: federal aid to education smith-towner education bill provisions and conditional funding
+    1  Federal assistance to Black common schools
+    1  Fraudulent educational organizations and fundraising
+    1  Free, compulsory common school education
+    1  Funding of Negro schools and scholarships
+    1  Higher education access for African Americans
+    1  Higher education appropriations (Howard University funding)
+       → normalized: higher education appropriations
+    1  Higher education curriculum reform (college curricula for Negro students)
+       → normalized: higher education curriculum reform
+    1  Historically Black colleges and universities
+    1  Historically Black colleges and universities (HBCUs)
+       → normalized: historically black colleges and universities
+    1  Historically Black colleges and universities (Negro schools)
+       → normalized: historically black colleges and universities
+    1  Historically Black colleges and universities — governance and institutional autonomy
+       → normalized: historically black colleges and universities governance and institutional autonomy
+    1  Howard University — governance and finance
+       → normalized: howard university governance and finance
+    1  Immigrant education and assimilation
+    1  Industrial (vocational) education for African Americans
+       → normalized: industrial education for african americans
+    1  Industrial education for African Americans
+    1  Industrial/manual training versus academic education
+    1  Interracial education and understanding
+    1  Interracial educational cooperation
+    1  Literacy and common-school education
+    1  Literacy and voter education (illiteracy as a barrier to voting)
+       → normalized: literacy and voter education
+    1  Military education and cadet training
+    1  Missionary schools — Southern United States
+       → normalized: missionary schools southern united states
+    1  Moral education — Children
+       → normalized: moral education children
+    1  NAACP advocacy, agitation, and public education
+    1  Negro colleges (higher education for African Americans; HBCUs)
+       → normalized: negro colleges
+    1  Negro education and educational development
+    1  Negro education and racial uplift
+    1  Negro higher education
+    1  Northern school segregation (Jim Crow school segregation)
+       → normalized: northern school segregation
+    1  Parents' associations in public schools (community school involvement)
+       → normalized: parents' associations in public schools
+    1  Persecution of Black educators
+    1  Philanthropic control of Black education
+    1  Philanthropic support for Negro education
+    1  Philanthropy and charitable support for Black education
+    1  Philanthropy and foundation funding for Black education
+    1  Philanthropy and fundraising for Black schools
+    1  Philanthropy and racial exclusion in education
+    1  Philanthropy in Black education (Phelps-Stokes Fund)
+       → normalized: philanthropy in black education
+    1  Political education (African Americans)
+       → normalized: political education
+    1  Popular education initiatives in India
+    1  Primary education — Curriculum (reading, writing, arithmetic)
+       → normalized: primary education curriculum
+    1  Professional sacrifice and career change of African American educators
+    1  Public education (establishment of schools during Reconstruction)
+       → normalized: public education
+    1  Public education and democracy
+    1  Public education and educational democracy
+    1  Public education and schooling reform
+    1  Public education policy — Federal/national aid for common schools
+       → normalized: public education policy federal/national aid for common schools
+    1  Public education — African Americans
+       → normalized: public education african americans
+    1  Public school finance
+    1  Public school funding (African American schools)
+       → normalized: public school funding
+    1  Public school funding disparities — Mississippi
+       → normalized: public school funding disparities mississippi
+    1  Public schools — Southern United States — Social aspects
+       → normalized: public schools southern united states social aspects
+    1  Race and democracy; effects on education and human uplift
+    1  Race and education (mass education as reform)
+       → normalized: race and education
+    1  Race relations and "co-operation" between Southern whites and Black private schools
+    1  Race relations and interracial cooperation in schools
+    1  Race relations programming and white-directed educational initiatives
+    1  Race-motivated attacks on Black property and education
+    1  Racial discrimination in admissions (higher education)
+       → normalized: racial discrimination in admissions
+    1  Racial discrimination in education
+    1  Racial discrimination in education (white paternalism/"friend" philanthropy)
+       → normalized: racial discrimination in education
+    1  Racial discrimination in employment, civil service, public accommodations, and education
+    1  Racial disparities in education
+    1  Racial disparities in educational funding
+    1  Racial disparities in public education
+    1  Racial equality in education
+    1  Racial exclusion in higher education
+    1  Racial inequality in education
+    1  Racial injustice in education
+    1  Racial integration in education
+    1  Racial prejudice — origins and education
+       → normalized: racial prejudice origins and education
+    1  Racial segregation in education (Southern United States)
+       → normalized: racial segregation in education
+    1  Racial segregation in schooling
+    1  Racial social control through schooling
+    1  Real estate influence on Black educational institutions (Washington, D.C.)
+       → normalized: real estate influence on black educational institutions
+    1  Religious education — Sunday schools and youth programs (Cradle Roll)
+       → normalized: religious education sunday schools and youth programs
+    1  Restriction of liberal/academic education for Black students
+    1  School administration and supervision (rural South)
+       → normalized: school administration and supervision
+    1  School attendance
+    1  School attendance rates
+    1  School buildings and facilities (campus architecture, dormitories, libraries)
+       → normalized: school buildings and facilities
+    1  School dental examinations (public school dentistry; public‑health inspections)
+       → normalized: school dental examinations
+    1  School discipline — Southern United States
+       → normalized: school discipline southern united states
+    1  School funding disparities (Southern states)
+       → normalized: school funding disparities
+    1  School funding disparities in the Southern United States
+    1  School integration (educational desegregation)
+       → normalized: school integration
+    1  School segregation (racial)
+       → normalized: school segregation
+    1  School segregation (racially segregated public schools)
+       → normalized: school segregation
+    1  School segregation and "separate" schools
+    1  School segregation — secondary education
+       → normalized: school segregation secondary education
+    1  School term length disparities
+    1  Secondary education for African Americans
+    1  Segregated education; educational inequality (separate schools)
+       → normalized: segregated education; educational inequality
+    1  Segregated public education
+    1  Segregated schooling (Southern United States)
+       → normalized: segregated schooling
+    1  Segregated secondary education for African Americans
+    1  Segregation (Jim Crow laws) and its impact on Black education
+       → normalized: segregation and its impact on black education
+    1  Segregation in public facilities — parks, libraries, and educational institutions
+       → normalized: segregation in public facilities parks, libraries, and educational institutions
+    1  Social relations of Black college women
+    1  Social welfare institutions for African Americans (schools, hospitals, orphanages)
+       → normalized: social welfare institutions for african americans
+    1  State control of education / constitutional exemptions permitting discrimination
+    1  Student strikes (higher education)
+       → normalized: student strikes
+    1  Threats to democracy through educational limitations
+    1  Trusteeship accountability in Black higher education
+    1  Universal education
+    1  Universal, compulsory education (educational equality)
+       → normalized: universal, compulsory education
+    1  University admission quotas (ethnic/religious)
+       → normalized: university admission quotas
+    1  Vocational and industrial education for African Americans
+    1  Vocational education
+    1  Vocational education versus classical curriculum
+    1  Vocational education versus liberal arts education
+    1  Vocational education — African Americans
+       → normalized: vocational education african americans
+    1  Vocational education — Opposition in primary/elementary schools
+       → normalized: vocational education opposition in primary/elementary schools
+    1  Vocational/industrial education
+    1  Voter education and civic training (African Americans)
+       → normalized: voter education and civic training
+    1  Voter education and mobilization
+    1  Voter education and responsibility
+    1  Voter qualification laws (education, property, literacy tests)
+       → normalized: voter qualification laws
+    1  Workers' education and vocational training in Soviet Russia
+
+HOUSING (27 variations, 39 total uses):
+   10  Residential segregation
+    2  Housing discrimination
+    2  Residential segregation (housing discrimination)
+       → normalized: residential segregation
+    2  Residential segregation and housing discrimination
+    1  Anti-segregation advocacy and transparency in housing
+    1  Black homeownership and residential segregation (Harlem)
+       → normalized: black homeownership and residential segregation
+    1  Church-based cooperative economics (church-led co‑ops, housing and purchasing)
+       → normalized: church-based cooperative economics
+    1  Federal slum clearance and public housing
+    1  Housing discrimination (mortgage denial)
+       → normalized: housing discrimination
+    1  Housing discrimination against African Americans
+    1  Housing, sanitation, and ventilation
+    1  Jim Crow laws and segregation (including residential segregation)
+       → normalized: jim crow laws and segregation
+    1  Nutrition and household sanitation in crowded housing
+    1  Philanthropic housing initiatives
+    1  Racial residential segregation
+    1  Racially restrictive land-sale ordinances (residential segregation)
+       → normalized: racially restrictive land-sale ordinances
+    1  Residential segregation (forced ghettoization)
+       → normalized: residential segregation
+    1  Residential segregation (ghettoization)
+       → normalized: residential segregation
+    1  Residential segregation (housing discrimination, restrictive covenants, racial zoning)
+       → normalized: residential segregation
+    1  Residential segregation (racial)
+       → normalized: residential segregation
+    1  Residential segregation - African Americans
+    1  Residential segregation and neighborhood opposition
+    1  Residential segregation and property rights
+    1  Residential segregation — ghettos
+       → normalized: residential segregation ghettos
+    1  Residential segregation, overcrowding, and housing shortage
+    1  Urban housing conditions for African Americans
+    1  Urban slums and tenement housing
+
+JIM CROW (167 variations, 230 total uses):
+   15  Jim Crow laws
+   10  Residential segregation
+    9  Jim Crow laws (racial segregation)
+       → normalized: jim crow laws
+    8  Jim Crow laws and racial segregation
+    8  Racial segregation
+    4  Jim Crow segregation
+    3  Jim Crow laws and disfranchisement
+    3  Jim Crow laws and segregation
+    3  Racial segregation (Jim Crow laws)
+       → normalized: racial segregation
+    3  Segregation (Jim Crow laws)
+       → normalized: segregation
+    2  Educational segregation
+    2  Jim Crow laws and Southern white supremacy
+    2  Residential segregation (housing discrimination)
+       → normalized: residential segregation
+    2  Residential segregation and housing discrimination
+    2  School segregation
+    2  Segregated schooling (Jim Crow education)
+       → normalized: segregated schooling
+    2  Segregation in the armed forces
+    1  American democracy (political consequences of segregation)
+       → normalized: american democracy
+    1  Anti-Asian segregation in California schools
+    1  Anti-segregation advocacy and transparency in housing
+    1  Anti-segregation campaigns
+    1  Bi-racialism and segregationist proposals
+    1  Black homeownership and residential segregation (Harlem)
+       → normalized: black homeownership and residential segregation
+    1  Class-based segregation in education
+    1  Democracy — effects of segregation
+       → normalized: democracy effects of segregation
+    1  Disfranchisement (Southern disfranchisement under Jim Crow)
+       → normalized: disfranchisement
+    1  Disfranchisement and Jim Crow laws
+    1  Disfranchisement and racial segregation in U.S. politics
+    1  Disfranchisement in the Southern United States (Jim Crow)
+       → normalized: disfranchisement in the southern united states
+    1  Educational inequality (public school segregation and unequal resources)
+       → normalized: educational inequality
+    1  Educational inequality (segregated Black schools)
+       → normalized: educational inequality
+    1  Educational inequality (segregated and underfunded schools)
+       → normalized: educational inequality
+    1  Educational inequality (segregated and unequal schools)
+       → normalized: educational inequality
+    1  Educational inequality (segregated schools and white superintendence)
+       → normalized: educational inequality
+    1  Educational inequality (segregated schools, pay disparities)
+       → normalized: educational inequality
+    1  Educational inequality (segregated schools; unequal resources and administration)
+       → normalized: educational inequality
+    1  Educational inequality and school segregation
+    1  Educational inequality and segregated schooling
+    1  Educational inequality — segregated public schooling
+       → normalized: educational inequality segregated public schooling
+    1  Educational inequality; segregation and industrial schooling
+    1  Failure of justice and legal impunity in the Jim Crow South
+    1  Federal civil service — racial segregation
+       → normalized: federal civil service racial segregation
+    1  Federal workplace segregation
+    1  Hospital segregation
+    1  Interstate Jim Crow laws (segregated railroad cars)
+       → normalized: interstate jim crow laws
+    1  Interstate Jim Crow laws (segregation in interstate travel and accommodations)
+       → normalized: interstate jim crow laws
+    1  Interstate Jim Crow travel (segregation in interstate transportation)
+       → normalized: interstate jim crow travel
+    1  Jim Crow disenfranchisement
+    1  Jim Crow laws (Southern caste system)
+       → normalized: jim crow laws
+    1  Jim Crow laws (Southern racial control)
+       → normalized: jim crow laws
+    1  Jim Crow laws (interstate transportation)
+       → normalized: jim crow laws
+    1  Jim Crow laws (racial segregation and caste in the Southern United States)
+       → normalized: jim crow laws
+    1  Jim Crow laws (racial segregation and public accommodations)
+       → normalized: jim crow laws
+    1  Jim Crow laws (racial segregation in public accommodations)
+       → normalized: jim crow laws
+    1  Jim Crow laws (racial segregation in public transportation)
+       → normalized: jim crow laws
+    1  Jim Crow laws (segregated public transportation)
+       → normalized: jim crow laws
+    1  Jim Crow laws (segregation in public accommodations)
+       → normalized: jim crow laws
+    1  Jim Crow laws (segregation in public transportation / "Jim Crow cars")
+       → normalized: jim crow laws
+    1  Jim Crow laws (segregation)
+       → normalized: jim crow laws
+    1  Jim Crow laws and Southern racial oppression
+    1  Jim Crow laws and color caste
+    1  Jim Crow laws and color caste segregation (public accommodations, travel, residence, family relations)
+       → normalized: jim crow laws and color caste segregation
+    1  Jim Crow laws and racially segregated travel
+    1  Jim Crow laws and segregation (including residential segregation)
+       → normalized: jim crow laws and segregation
+    1  Jim Crow laws and social customs
+    1  Jim Crow laws and southern racial oppression
+    1  Jim Crow laws and white supremacy in the American South
+    1  Jim Crow laws — Southern United States
+       → normalized: jim crow laws southern united states
+    1  Jim Crow laws — public transportation segregation
+       → normalized: jim crow laws public transportation segregation
+    1  Jim Crow laws — railroad segregation (Jim-Crow car laws)
+       → normalized: jim crow laws railroad segregation
+    1  Jim Crow laws; racial segregation
+    1  Jim Crow laws—Southern United States
+       → normalized: jim crow laws southern united states
+    1  Jim Crow legal system
+    1  Jim Crow segregation (racial segregation in public life)
+       → normalized: jim crow segregation
+    1  Jim Crow segregation (segregated facilities, "Jim Crow" cars)
+       → normalized: jim crow segregation
+    1  Jim Crow segregation (segregation laws and court challenges)
+       → normalized: jim crow segregation
+    1  Jim Crow segregation and disfranchisement
+    1  Jim Crow segregation and social exclusion
+    1  Jim Crow segregation in interstate commerce
+    1  Jim Crow segregation laws and local government exclusionary measures
+    1  Jim Crow social practices—racial exclusion and etiquette
+       → normalized: jim crow social practices racial exclusion and etiquette
+    1  Judicial enforcement of racial segregation
+    1  Judicial failure and impunity under Jim Crow
+    1  Legal segregation (Jim Crow laws)
+       → normalized: legal segregation
+    1  Military discrimination and segregation (Black officers' camps)
+       → normalized: military discrimination and segregation
+    1  Military segregation and discrimination
+    1  Non-commissioned officer roles and leadership in segregated units
+    1  Northern school segregation (Jim Crow school segregation)
+       → normalized: northern school segregation
+    1  Occupational segregation and labor limitation
+    1  Origins of racial segregation in the United States
+    1  Peonage and forced labor in the Jim Crow South
+    1  Public health impacts of segregation (tuberculosis, pneumonia)
+       → normalized: public health impacts of segregation
+    1  Race relations in the Jim Crow South
+    1  Race-based disenfranchisement (Jim Crow laws)
+       → normalized: race-based disenfranchisement
+    1  Racial caste / color line (racial segregation and international race relations)
+       → normalized: racial caste / color line
+    1  Racial caste and social segregation
+    1  Racial caste and social segregation in the Southern United States
+    1  Racial defamation and segregation
+    1  Racial disfranchisement (Jim Crow)
+       → normalized: racial disfranchisement
+    1  Racial exclusion and segregation
+    1  Racial hypocrisy and segregation in American churches
+    1  Racial propaganda and legal discrimination (Jim Crow)
+       → normalized: racial propaganda and legal discrimination
+    1  Racial residential segregation
+    1  Racial segregation (public accommodations)
+       → normalized: racial segregation
+    1  Racial segregation and barriers to advancement in Chicago
+    1  Racial segregation and color caste
+    1  Racial segregation and discrimination
+    1  Racial segregation and residential exclusion (colonial Kenya)
+       → normalized: racial segregation and residential exclusion
+    1  Racial segregation and social barriers (Jim Crow; residential/social segregation)
+       → normalized: racial segregation and social barriers
+    1  Racial segregation and social ostracism
+    1  Racial segregation in education (Southern United States)
+       → normalized: racial segregation in education
+    1  Racial segregation in hospitals
+    1  Racial segregation in politics
+    1  Racial segregation in schooling
+    1  Racial segregation — legal challenges
+       → normalized: racial segregation legal challenges
+    1  Racial segregation — public accommodations (libraries, hospitals, parks)
+       → normalized: racial segregation public accommodations
+    1  Racial segregation, disfranchisement, and political powerlessness of Black workers
+    1  Racially restrictive land-sale ordinances (residential segregation)
+       → normalized: racially restrictive land-sale ordinances
+    1  Religious segregation (church segregation)
+       → normalized: religious segregation
+    1  Residential patterns and segregation; urban vs. rural, Northern vs. Southern living choices
+    1  Residential segregation (forced ghettoization)
+       → normalized: residential segregation
+    1  Residential segregation (ghettoization)
+       → normalized: residential segregation
+    1  Residential segregation (housing discrimination, restrictive covenants, racial zoning)
+       → normalized: residential segregation
+    1  Residential segregation (racial)
+       → normalized: residential segregation
+    1  Residential segregation - African Americans
+    1  Residential segregation and neighborhood opposition
+    1  Residential segregation and property rights
+    1  Residential segregation — ghettos
+       → normalized: residential segregation ghettos
+    1  Residential segregation, overcrowding, and housing shortage
+    1  Retail segregation in Black neighborhoods
+    1  School integration (educational desegregation)
+       → normalized: school integration
+    1  School segregation (racial)
+       → normalized: school segregation
+    1  School segregation (racially segregated public schools)
+       → normalized: school segregation
+    1  School segregation and "separate" schools
+    1  School segregation — secondary education
+       → normalized: school segregation secondary education
+    1  Segregated African American congregations
+    1  Segregated African American units (92nd Division)
+       → normalized: segregated african american units
+    1  Segregated education; educational inequality (separate schools)
+       → normalized: segregated education; educational inequality
+    1  Segregated labor and service battalions (engineer, stevedore, labor, pioneer units) (World War I)
+       → normalized: segregated labor and service battalions
+    1  Segregated military training camps (separate camps for Black soldiers)
+       → normalized: segregated military training camps
+    1  Segregated public education
+    1  Segregated schooling (Southern United States)
+       → normalized: segregated schooling
+    1  Segregated secondary education for African Americans
+    1  Segregation (Jim Crow laws) and its impact on Black education
+       → normalized: segregation and its impact on black education
+    1  Segregation (Jim Crow laws; public accommodations)
+       → normalized: segregation
+    1  Segregation (Jim Crow) — Southern United States
+       → normalized: segregation southern united states
+    1  Segregation (Jim Crow; public accommodations and civil service)
+       → normalized: segregation
+    1  Segregation (public transportation)
+       → normalized: segregation
+    1  Segregation and differential treatment in refugee camps
+    1  Segregation in federal medical facilities (Tuskegee Veterans' Hospital)
+       → normalized: segregation in federal medical facilities
+    1  Segregation in public accommodations (streetcars, stores)
+       → normalized: segregation in public accommodations
+    1  Segregation in public facilities — parks, libraries, and educational institutions
+       → normalized: segregation in public facilities parks, libraries, and educational institutions
+    1  Segregation in public transportation (Jim Crow laws)
+       → normalized: segregation in public transportation
+    1  Segregation in religious and social organizations
+    1  Segregation in the United States Army
+    1  Segregation in the federal civil service
+    1  Segregation in transportation (Jim Crow travel)
+       → normalized: segregation in transportation
+    1  Segregation of African American federal employees
+    1  Segregation on public transportation (Jim Crow cars)
+       → normalized: segregation on public transportation
+    1  Segregation ordinances / Jim Crow segregation
+    1  Segregation — Public accommodations (Hotels)
+       → normalized: segregation public accommodations
+    1  Segregation — resistance to segregation
+       → normalized: segregation resistance to segregation
+    1  Segregation—Public accommodations (restaurants, theatres, hotels)
+       → normalized: segregation public accommodations
+    1  Southern oligarchy and white supremacy (Jim Crow political control)
+       → normalized: southern oligarchy and white supremacy
+    1  Southern suppression of self-criticism under Jim Crow
+    1  Urban social segregation
+    1  Voting rights suppression in the Jim Crow South
+
+LABOR (228 variations, 243 total uses):
+    4  Labor organizing
+    4  Racial discrimination in employment
+    3  Racial exclusion in labor unions
+    2  Child labor
+    2  Employment discrimination against African Americans
+    2  Great Migration (African American labor migration)
+       → normalized: great migration
+    2  Interracial labor solidarity
+    2  Labor movement
+    2  Peonage (forced labor)
+       → normalized: peonage
+    2  Racial employment discrimination
+    1  Access to civil service employment for Black workers
+    1  African American contributions to American culture and labor
+    1  African American labor organizing and skilled artisans
+    1  African American laborers — Employment discrimination
+       → normalized: african american laborers employment discrimination
+    1  African American municipal employment
+    1  Agricultural labor
+    1  Agricultural labor (cotton plantation labor)
+       → normalized: agricultural labor
+    1  Agricultural labor exploitation
+    1  Arts as a racial and labor justice issue
+    1  Black clerical employment in Massachusetts hospitals
+    1  Black economic self-help and labor exclusion
+    1  Black labor and employment rights (access to work and workplace accommodations)
+       → normalized: black labor and employment rights
+    1  Black labor exploitation and labor rights
+    1  Black labor exploitation in Southern mills and agriculture
+    1  Black labor organization and wage protection
+    1  Child labor (child labor laws and age of consent)
+       → normalized: child labor
+    1  Coerced labor of Black flood refugees
+    1  Collective bargaining and labor rights
+    1  Colonial economic exploitation and forced labor
+    1  Colonial exploitation and forced labor
+    1  Colonial labor policy and restrictions
+    1  Colonialism and imperialism's impact on global labor and commodity production
+    1  Company unions
+    1  Convict lease system (Southern prison labor)
+       → normalized: convict lease system
+    1  Convict leasing (penal labor) in the American South
+       → normalized: convict leasing in the american south
+    1  Convict leasing and peonage (forced labor)
+       → normalized: convict leasing and peonage
+    1  Craft unionism and labor elitism (skilled-worker privilege)
+       → normalized: craft unionism and labor elitism
+    1  Criminalization of unemployment and poverty
+    1  Discriminatory union admission policies
+    1  Domestic labor and child-rearing and socialization
+    1  Domestic service and domestic labor (Black servants)
+       → normalized: domestic service and domestic labor
+    1  Economic competition for industrial and unskilled labor jobs
+    1  Economic exploitation and labor discrimination
+    1  Economic exploitation and unpaid labor (legacy of slavery and serfdom)
+       → normalized: economic exploitation and unpaid labor
+    1  Economic exploitation of African American labor
+    1  Economic exploitation of Black labor
+    1  Economic exploitation of unskilled and common laborers
+    1  Economic justice and labor rights
+    1  Economic opportunity and employment discrimination
+    1  Economic opportunity and labor conditions for African Americans
+    1  Economic profiteering of Southern elites from forced Black labor
+    1  Economic survival and wage labor
+    1  Education — Soviet Union (schools, children's colonies, libraries)
+       → normalized: education soviet union
+    1  Emancipation of laboring classes
+    1  Employer anti-union tactics (Pullman Company)
+       → normalized: employer anti-union tactics
+    1  Employer coercion and anti-union tactics (spying, bribery)
+       → normalized: employer coercion and anti-union tactics
+    1  Employer–labor collusion and company-controlled labor peace
+    1  Employment and administrative challenges in nonprofit publishing
+    1  Employment and job creation for African Americans
+    1  Employment discrimination (African Americans)
+       → normalized: employment discrimination
+    1  Employment discrimination (economic exclusion)
+       → normalized: employment discrimination
+    1  Employment discrimination (race)
+       → normalized: employment discrimination
+    1  Employment discrimination against African American graduates
+    1  Employment discrimination against Black teachers
+    1  Employment discrimination and labor access (African Americans)
+       → normalized: employment discrimination and labor access
+    1  Employment discrimination and labor competition
+    1  Employment discrimination and labor opportunities
+    1  Employment discrimination by race
+    1  Employment discrimination in rail and industrial labor
+    1  Employment discrimination in railroads ("Full Crew" bills)
+       → normalized: employment discrimination in railroads
+    1  Employment discrimination in the United States federal civil service
+    1  Employment discrimination — race (United States)
+       → normalized: employment discrimination race
+    1  Employment discrimination — retail trade
+       → normalized: employment discrimination retail trade
+    1  Employment opportunities (African Americans)
+       → normalized: employment opportunities
+    1  Exploitation and protection of native labor
+    1  Exploitation of Black labor / labor rights (African Americans)
+       → normalized: exploitation of black labor / labor rights
+    1  Exploitation of colonized and peon labor
+    1  Federal employment discrimination — Republican patronage
+       → normalized: federal employment discrimination republican patronage
+    1  Forced labor and peonage
+    1  Forced labor in Liberia and colonial Africa
+    1  Great Migration (African American migration to the Northern United States and labor relocation)
+       → normalized: great migration
+    1  Immigrant contributions to American society and labor
+    1  Impact of financial speculation on labor and wages
+    1  Industrial and labor opportunities for African Americans
+    1  Industrial democracy (labor-friendly political representation)
+       → normalized: industrial democracy
+    1  Industrial freedom and labor exploitation
+    1  Industrial labor and exploitation
+    1  Industrialization and labor
+    1  Industrialization — mechanization and labor displacement
+       → normalized: industrialization mechanization and labor displacement
+    1  International labor movement
+    1  International labor regulation and representation
+    1  Interracial labor cooperation and commissions
+    1  Labor Party movement — United States
+       → normalized: labor party movement united states
+    1  Labor and democracy
+    1  Labor and industry — Soviet Russia (factories, workers, labor organizing)
+       → normalized: labor and industry soviet russia
+    1  Labor and occupational discrimination
+    1  Labor and occupational opportunities; industrial displacement and relation to unions/capital
+    1  Labor and political disfranchisement of white and Black workers
+    1  Labor and race relations
+    1  Labor and suffrage
+    1  Labor and wage inequality (women)
+       → normalized: labor and wage inequality
+    1  Labor caste system (indentured servitude vs. racial slavery)
+       → normalized: labor caste system
+    1  Labor competition and tenant-farmer conflict
+    1  Labor conditions and child labor
+    1  Labor conditions and wages (Black labor)
+       → normalized: labor conditions and wages
+    1  Labor conditions and wages for Black workers
+    1  Labor conditions of native Negro workers (Africa and island colonies)
+       → normalized: labor conditions of native negro workers
+    1  Labor defense and legal advocacy
+    1  Labor dignity and preparation for work
+    1  Labor discipline and work habits of freedmen
+    1  Labor discrimination
+    1  Labor discrimination and economic exploitation
+    1  Labor discrimination and industrial democracy
+    1  Labor discrimination and wage inequality for African Americans
+    1  Labor disputes and strikebreaking in industry
+    1  Labor exclusion and economic discrimination
+    1  Labor exploitation and low-wage rural labor
+    1  Labor exploitation and peonage
+    1  Labor exploitation and peonage (economic discrimination, restricted employment, sharecropping)
+       → normalized: labor exploitation and peonage
+    1  Labor exploitation by white capital
+    1  Labor exploitation of African Americans
+    1  Labor exploitation of colonized and Black workers
+    1  Labor market discrimination and wage undercutting of Black workers
+    1  Labor migration and employment opportunities in Africa
+    1  Labor migration and labor conditions of West Indian peasants
+    1  Labor monopolies — exclusionary practices
+       → normalized: labor monopolies exclusionary practices
+    1  Labor movement and interracial cooperation
+    1  Labor movement and social justice
+    1  Labor movement — race relations (United States)
+       → normalized: labor movement race relations
+    1  Labor movements; worker rule and worker-based suffrage
+    1  Labor organizing among African Americans
+    1  Labor organizing and industrial reform
+    1  Labor organizing and participation in trade unions
+    1  Labor organizing and strikebreaking
+    1  Labor organizing and strikes
+    1  Labor organizing and trade unions (race and exclusion)
+       → normalized: labor organizing and trade unions
+    1  Labor organizing and union exclusion
+    1  Labor organizing and unionization
+    1  Labor organizing — Pullman porters
+       → normalized: labor organizing pullman porters
+    1  Labor policy in Soviet Russia
+    1  Labor registration and workforce data systems
+    1  Labor repression and deportations (postwar Red Scare) — United States
+       → normalized: labor repression and deportations united states
+    1  Labor rights and child labor abolition
+    1  Labor rights and industrial organization
+    1  Labor rights and labor advocacy
+    1  Labor rights and labor movement
+    1  Labor rights and labor reform
+    1  Labor rights and racial democracy
+    1  Labor rights and union betrayal
+    1  Labor rights and wages (including railroad wage color line)
+       → normalized: labor rights and wages
+    1  Labor solidarity and racial divisions
+    1  Labor union discrimination (craft unions)
+       → normalized: labor union discrimination
+    1  Labor union exclusion of African Americans (railroad unions)
+       → normalized: labor union exclusion of african americans
+    1  Labor unions — Racial discrimination (United States)
+       → normalized: labor unions racial discrimination
+    1  Labor, economic reform and the Great Depression
+    1  Labor–race relations and competition between white and Black workers
+    1  Land ownership and economic exploitation (land monopoly, peonage, labor legislation)
+       → normalized: land ownership and economic exploitation
+    1  Legacy of slavery and emancipation on labor habits
+    1  Lynching and racial violence as labor repression
+    1  Military recruitment of Black skilled labor and technicians
+    1  National Guard intervention in relief and labor control
+    1  National Recovery Administration (NRA) and labor policy
+       → normalized: national recovery administration and labor policy
+    1  Northern industrial labor demand (World War I era)
+       → normalized: northern industrial labor demand
+    1  Northern industrial labor demand (immigration cutoff)
+       → normalized: northern industrial labor demand
+    1  Occupational distribution and labor of Black workers (Chicago, 1910)
+       → normalized: occupational distribution and labor of black workers
+    1  Occupational segregation and labor limitation
+    1  Party patronage and employment (political jobs)
+       → normalized: party patronage and employment
+    1  Peonage (coerced/forced labor)
+       → normalized: peonage
+    1  Peonage (debt servitude) and labor exploitation
+       → normalized: peonage and labor exploitation
+    1  Peonage and compulsory labor contracts
+    1  Peonage and economic exploitation of Black workers
+    1  Peonage and forced labor (plantation peonage)
+       → normalized: peonage and forced labor
+    1  Peonage and forced labor in the Jim Crow South
+    1  Peonage and labor exploitation
+    1  Peonage system (forced labor)
+       → normalized: peonage system
+    1  Philanthropy and corporate employment practices
+    1  Political consequences of union exclusion for democratic support
+    1  Pullman porters (African American rail service workers)
+       → normalized: pullman porters
+    1  Pullman porters (labor organizing)
+       → normalized: pullman porters
+    1  Race and employment — use of Filipino labor as intimidation tactic
+       → normalized: race and employment use of filipino labor as intimidation tactic
+    1  Race and labor
+    1  Race and labor relations
+    1  Race and labor relations (United States)
+       → normalized: race and labor relations
+    1  Race and labor relations / industrial conflict
+    1  Race and labor within democratic economic reform
+    1  Racial barriers to appointment and promotion in federal employment
+    1  Racial discrimination in employment and labor unions
+    1  Racial discrimination in employment and wages
+    1  Racial discrimination in employment, civil service, public accommodations, and education
+    1  Racial division of labor
+    1  Racial exclusion by trade unions
+    1  Racial exclusion from labor unions
+    1  Racial exploitation of Black labor
+    1  Racial labor exploitation in the Black Belt
+    1  Racial labor exploitation of African Americans
+    1  Racial segregation, disfranchisement, and political powerlessness of Black workers
+    1  Racialized labor competition
+    1  Racialized labor competition in Northern U.S. cities
+    1  Racialized labor exploitation during the Florida land/fruit boom
+    1  Racialized labor exploitation — South African mines
+       → normalized: racialized labor exploitation south african mines
+    1  Railroad labor unions — exclusion of Black workers (United States)
+       → normalized: railroad labor unions exclusion of black workers
+    1  Right to work (employment access for Black Americans)
+       → normalized: right to work
+    1  Segregated labor and service battalions (engineer, stevedore, labor, pioneer units) (World War I)
+       → normalized: segregated labor and service battalions
+    1  Slavery and free labor
+    1  Slavery and its legacy in modern labor systems
+    1  Social welfare programs — pensions, unemployment insurance, health insurance, child welfare
+       → normalized: social welfare programs pensions, unemployment insurance, health insurance, child welfare
+    1  Socialism and communism — race and labor policy (United States)
+       → normalized: socialism and communism race and labor policy
+    1  Southern agricultural labor
+    1  Southern white labor politics
+    1  Soviet political institutions (Soviets, mass democracy, workers' councils)
+       → normalized: soviet political institutions
+    1  State repression of labor strikes (martial law)
+       → normalized: state repression of labor strikes
+    1  Strike-related displacement of Black workers
+    1  Strikebreaking (scab labor)
+       → normalized: strikebreaking
+    1  Strikebreaking (use of African American workers)
+       → normalized: strikebreaking
+    1  Trade union discrimination (race)
+       → normalized: trade union discrimination
+    1  Trade union discrimination against African American workers
+    1  Trade union exclusion and "scab" labor dynamics
+    1  Trade union exclusion of African Americans
+    1  Trade unionism — African American workers
+       → normalized: trade unionism african american workers
+    1  Trade unionism — Pullman porters
+       → normalized: trade unionism pullman porters
+    1  Unemployment and racial labor exclusion (African Americans)
+       → normalized: unemployment and racial labor exclusion
+    1  Urban office labor and need for uninterrupted concentration
+    1  Wage discrimination and employment bias
+    1  Wage labor - employer-employee power imbalance
+    1  Wage labor and labor exploitation in domestic work
+    1  Wages and labor rights (African Americans)
+       → normalized: wages and labor rights
+    1  Women's labor (women as workers)
+       → normalized: women's labor
+    1  Workers' education and vocational training in Soviet Russia
+
+LYNCHING (96 variations, 225 total uses):
+   72  Lynching
+   17  Lynching and mob violence
+   12  Anti-lynching legislation
+   10  Lynching and racial violence
+    7  Lynching (United States)
+       → normalized: lynching
+    3  Anti-lynching activism
+    3  Anti-lynching advocacy
+    3  Mob violence
+    2  Anti-lynching campaigns
+    2  Anti-lynching campaigns and legislation
+    2  Federal anti-lynching legislation
+    2  Lynching (anti-lynching advocacy)
+       → normalized: lynching
+    2  Lynching (racial mob violence)
+       → normalized: lynching
+    2  Lynching — United States
+       → normalized: lynching united states
+    2  Mob violence against African Americans
+    2  Race riots and mob violence against African Americans
+    2  Racial terror and mob violence
+    2  Racial violence and lynching
+    1  Anti-lynching / mob violence
+    1  Anti-lynching activism and civil rights advocacy
+    1  Anti-lynching advocacy and public accountability
+    1  Anti-lynching campaigns and lynching prevention
+    1  Anti-lynching legislation (Dyer Anti-Lynching Bill)
+       → normalized: anti-lynching legislation
+    1  Anti-lynching legislation (Dyer Bill / anti-lynching campaigns)
+       → normalized: anti-lynching legislation
+    1  Anti-lynching legislation (United States)
+       → normalized: anti-lynching legislation
+    1  Anti-lynching legislation (civil damages)
+       → normalized: anti-lynching legislation
+    1  Anti-lynching legislation (federal)
+       → normalized: anti-lynching legislation
+    1  Anti-lynching legislation and federal civil rights enforcement (Dyer Anti-Lynching Bill; enforcement of the 14th and 15th Amendments)
+       → normalized: anti-lynching legislation and federal civil rights enforcement
+    1  Anti-lynching measures
+    1  Anti-lynching reform and legislation
+    1  Anti-lynching, murder and lawlessness
+    1  Death sentences and anti-lynching context
+    1  Extrajudicial killings and mob violence
+    1  Extrajudicial punishment and mob violence
+    1  Federal protection and anti-lynching policy
+    1  Impunity for mob violence
+    1  Interracial cooperation and anti-lynching advocacy
+    1  Law enforcement and legal injustice (failure to enforce anti-lynching protections)
+       → normalized: law enforcement and legal injustice
+    1  Local law enforcement failure to prosecute lynching
+    1  Lynching (United States — Georgia)
+       → normalized: lynching
+    1  Lynching (burning at the stake)
+       → normalized: lynching
+    1  Lynching (racial violence and mob murder in the Southern United States)
+       → normalized: lynching
+    1  Lynching / anti-lynching
+    1  Lynching and anti-lynching activism
+    1  Lynching and anti-lynching advocacy
+    1  Lynching and attempted lynching
+    1  Lynching and collective punishment
+    1  Lynching and extrajudicial killings
+    1  Lynching and extrajudicial killings of African Americans
+    1  Lynching and extrajudicial racial violence (anti-lynching)
+       → normalized: lynching and extrajudicial racial violence
+    1  Lynching and racial mob violence
+    1  Lynching and racial terror
+    1  Lynching and racial violence against African Americans
+    1  Lynching and racial violence as labor repression
+    1  Lynching of African Americans
+    1  Lynching — Causes
+       → normalized: lynching causes
+    1  Lynching — Social function as racial control
+       → normalized: lynching social function as racial control
+    1  Lynching — anti-lynching agitation and investigation
+       → normalized: lynching anti-lynching agitation and investigation
+    1  Lynching — statistics and investigation
+       → normalized: lynching statistics and investigation
+    1  Lynching, mob violence, and racial terrorism
+    1  Lynching—United States
+       → normalized: lynching united states
+    1  Mob violence (United States)
+       → normalized: mob violence
+    1  Mob violence (mob-law/lynching)
+       → normalized: mob violence
+    1  Mob violence and extrajudicial killings
+    1  Mob violence and extrajudicial punishment
+    1  Mob violence and extrajudicial threats
+    1  Mob violence and lawlessness
+    1  Mob violence and legal impunity (lynching and race riots)
+       → normalized: mob violence and legal impunity
+    1  Mob violence and lynch mobs
+    1  Mob violence and lynching
+    1  Mob violence and mob rule
+    1  Mob violence and race riots
+    1  Mob violence and racial terror
+    1  Mob violence and racial violence
+    1  Mob violence and white supremacist terrorism
+    1  NAACP anti-lynching investigation
+    1  NAACP anti-lynching investigations
+    1  NAACP investigations and anti-lynching advocacy
+    1  Police complicity in lynching
+    1  Police complicity in mob violence
+    1  Press coverage of lynching
+    1  Prosecution of lynchers
+    1  Prosecution of mob violence
+    1  Racial mob violence
+    1  Racial mob violence (white mob attacks on black residents)
+       → normalized: racial mob violence
+    1  Racial mob violence against African Americans
+    1  Racial mob violence and lawlessness
+    1  Racial violence and lynching in the United States
+    1  Racial violence and lynching in the post-Reconstruction South
+    1  Racial violence and mob violence
+    1  Racial violence and white mob violence
+    1  State governors' accountability for lynching
+    1  Statistical reporting of lynching
+    1  Vigilante mob violence
+    1  Vigilante mob violence against African Americans
+    1  Vigilantism and mob violence
+
+MIGRATION (39 variations, 43 total uses):
+    3  West Indian migration to the United States
+    2  Great Migration (African American labor migration)
+       → normalized: great migration
+    2  Great Migration (African American migration)
+       → normalized: great migration
+    1  African American internal migration (Great Migration)
+       → normalized: african american internal migration
+    1  Back-to-Africa and emigration schemes
+    1  Black emigration and colonization
+    1  Black emigration and migration
+    1  Black emigration and settlement in Africa (Back-to-Africa movement)
+       → normalized: black emigration and settlement in africa
+    1  Black migration and displacement (Great Migration)
+       → normalized: black migration and displacement
+    1  Black migration from South to North (early Great Migration)
+       → normalized: black migration from south to north
+    1  Emigration and return (Russian émigrés)
+       → normalized: emigration and return
+    1  Emigration to Liberia
+    1  Emigration, migration, and national belonging
+    1  Fraudulent emigration schemes and charlatanism
+    1  Great Migration (African American migration to Northern United States)
+       → normalized: great migration
+    1  Great Migration (African American migration to the Northern United States and labor relocation)
+       → normalized: great migration
+    1  Great Migration (African American migration to the Northern United States)
+       → normalized: great migration
+    1  Great Migration (African American northward migration)
+       → normalized: great migration
+    1  Great Migration (Black migration from South to North)
+       → normalized: great migration
+    1  Great Migration (Black southern migration to northern cities)
+       → normalized: great migration
+    1  Great Migration (Northern migration of African Americans)
+       → normalized: great migration
+    1  Great Migration / Black migration to northern cities
+    1  Great Migration and urban concentration of Negro population
+    1  Great Migration — African American industrial migration
+       → normalized: great migration african american industrial migration
+    1  Immigration and its demographic effects
+    1  Internal Black migration (Great Migration)
+       → normalized: internal black migration
+    1  Internal Black migration and urbanization
+    1  Internal displacement and Black refugee migration
+    1  Internal migration (Great Migration) — African Americans
+       → normalized: internal migration african americans
+    1  Labor migration and employment opportunities in Africa
+    1  Labor migration and labor conditions of West Indian peasants
+    1  Liberian immigration and settlement policy
+    1  Migration financing and organized planning
+    1  Northern industrial labor demand (immigration cutoff)
+       → normalized: northern industrial labor demand
+    1  Racial discrimination in immigration policy
+    1  Racial immigration exclusion (White Australia policy)
+       → normalized: racial immigration exclusion
+    1  Racial tensions in Harlem (Black migration and white response)
+       → normalized: racial tensions in harlem
+    1  Southern white press and political opposition to Black migration
+    1  U.S. immigration restriction policy (1924)
+       → normalized: u.s. immigration restriction policy
+
+MILITARY (78 variations, 104 total uses):
+    9  African American military service (World War I)
+       → normalized: african american military service
+    5  Military discrimination against African Americans
+    4  Military discrimination against African American soldiers
+    4  Military discrimination against Black soldiers
+    3  African American military service
+    3  Military discrimination
+    2  African American participation in World War I
+    2  Military justice (courts-martial)
+       → normalized: military justice
+    2  Military service — African Americans
+       → normalized: military service african americans
+    2  Segregation in the armed forces
+    1  African American military leadership
+    1  African American military officers
+    1  African American military officers (demand for Negro officers)
+       → normalized: african american military officers
+    1  African American military service and citizenship recognition
+    1  African American military service and civil rights
+    1  African American military service and patriotism
+    1  African American military service in World War I
+    1  African American military service — 8th Illinois Infantry (Illinois National Guard)
+       → normalized: african american military service 8th illinois infantry
+    1  African American soldiers in the American Civil War
+    1  African colonial troops in World War I
+    1  African soldiers in World War I
+    1  Armed resistance by African American soldiers
+    1  Black commissioned officers (military)
+       → normalized: black commissioned officers
+    1  Community neglect and moral responsibility toward soldiers
+    1  Franco‑African military relations
+       → normalized: franco african military relations
+    1  Homefront obligation to soldiers
+    1  Military discrimination (African American soldiers)
+       → normalized: military discrimination
+    1  Military discrimination (admission of Black officers, U.S. Army)
+       → normalized: military discrimination
+    1  Military discrimination against Black Americans
+    1  Military discrimination against Black servicemen
+    1  Military discrimination and segregation (Black officers' camps)
+       → normalized: military discrimination and segregation
+    1  Military discrimination in the armed forces
+    1  Military education and cadet training
+    1  Military enforcement and racial coercion by the Mississippi National Guard
+    1  Military governance of occupied territories
+    1  Military justice and courts-martial
+    1  Military recruitment of Black skilled labor and technicians
+    1  Military segregation and discrimination
+    1  Military service and Black officer training
+    1  Military service and patriotism (African Americans)
+       → normalized: military service and patriotism
+    1  Military training (United States Army)
+       → normalized: military training
+    1  National self‑determination (post‑World War I)
+       → normalized: national self determination
+    1  Naturalization rights and obligations for colonial soldiers
+    1  Northern industrial labor demand (World War I era)
+       → normalized: northern industrial labor demand
+    1  Post–World War I colonial reapportionment and demands for racial self‑determination
+       → normalized: post–world war i colonial reapportionment and demands for racial self determination
+    1  Preservation of World War I military records and photographs
+    1  Race and intelligence testing (Army mental tests)
+       → normalized: race and intelligence testing
+    1  Race and sacrifice; generational military service
+    1  Race relations in military service (Black troops and white Americans/French) (World War I)
+       → normalized: race relations in military service
+    1  Racial barriers to promotion in the armed forces
+    1  Racial discrimination in military awards
+    1  Racial discrimination in military justice and dismissals
+    1  Racial discrimination in military officer appointments
+    1  Racial discrimination in military service
+    1  Racial discrimination in the U.S. Army
+    1  Racial discrimination in the U.S. Army (Black commissioned officers)
+       → normalized: racial discrimination in the u.s. army
+    1  Racial discrimination in the U.S. military
+    1  Racial representation in military administration
+    1  Racial stereotyping and press attacks on Black soldiers
+    1  Racialized imperialism / racialized military intervention
+    1  Recognition of Black soldiers by France
+    1  Restoration of military rank
+    1  Segregated labor and service battalions (engineer, stevedore, labor, pioneer units) (World War I)
+       → normalized: segregated labor and service battalions
+    1  Segregated military training camps (separate camps for Black soldiers)
+       → normalized: segregated military training camps
+    1  Segregation in the United States Army
+    1  Selective Service (World War I draft) fairness
+       → normalized: selective service fairness
+    1  Treatment of African American soldiers in France
+    1  U.S. imperialism and military intervention in Haiti
+    1  U.S. military bases and militarism (Hawaii)
+       → normalized: u.s. military bases and militarism
+    1  U.S. military intervention in Mexico (1916)
+       → normalized: u.s. military intervention in mexico
+    1  U.S. military occupation of Haiti
+    1  U.S. military preparedness and naval expansion
+    1  United States military and civil service in Haiti
+    1  United States military and civil service in Liberia
+    1  United States military occupation of Haiti
+    1  Violence against Black soldiers
+    1  World War I (critique)
+       → normalized: world war i
+    1  World War I aftermath
+
+PAN-AFRICAN (6 variations, 21 total uses):
+   16  Pan-Africanism
+    1  African self-rule and self-determination (Pan-Africanism)
+       → normalized: african self-rule and self-determination
+    1  Black nationalism and Pan-Africanism (Marcus Garvey movement)
+       → normalized: black nationalism and pan-africanism
+    1  Pan-Africanism ("Africa for the Africans") movement
+       → normalized: pan-africanism movement
+    1  Pan-Africanism / Black international solidarity
+    1  Pan-Africanism — Pan-African Congresses
+       → normalized: pan-africanism pan-african congresses
+
+RACE RIOT (14 variations, 19 total uses):
+    3  Racial violence and race riots
+    2  Race riots
+    2  Race riots (United States)
+       → normalized: race riots
+    2  Race riots and mob violence against African Americans
+    1  Mob violence and legal impunity (lynching and race riots)
+       → normalized: mob violence and legal impunity
+    1  Mob violence and race riots
+    1  Race riots (urban racial violence)
+       → normalized: race riots
+    1  Race riots and mass racial violence
+    1  Race riots and pogroms
+    1  Race riots and property damage
+    1  Race riots and racial violence
+    1  Race riots — United States
+       → normalized: race riots united states
+    1  Racial riots and mutinies
+    1  Racial violence (race riots)
+       → normalized: racial violence
+
+VOTING (157 variations, 250 total uses):
+   16  Voting rights
+   16  Women's suffrage
+   15  Disfranchisement (voting rights)
+       → normalized: disfranchisement
+   11  Voting rights (African Americans)
+       → normalized: voting rights
+    6  Disfranchisement and voting rights
+    5  African American voting rights
+    5  Disfranchisement (African Americans)
+       → normalized: disfranchisement
+    5  Disfranchisement of African Americans
+    4  African American voting behavior
+    4  Disfranchisement of African Americans (voting rights)
+       → normalized: disfranchisement of african americans
+    4  Voting rights — African Americans
+       → normalized: voting rights african americans
+    3  African American suffrage
+    3  Disfranchisement and voting rights (African Americans)
+       → normalized: disfranchisement and voting rights
+    3  Jim Crow laws and disfranchisement
+    3  Women's suffrage (United States)
+       → normalized: women's suffrage
+    2  Disfranchisement (Voting rights)
+       → normalized: disfranchisement
+    2  Disfranchisement (voting rights suppression)
+       → normalized: disfranchisement
+    2  Disfranchisement and voting rights of African Americans
+    2  Voting rights and disfranchisement
+    2  Voting rights — disfranchisement
+       → normalized: voting rights disfranchisement
+    1  African American disenfranchisement (Southern states)
+       → normalized: african american disenfranchisement
+    1  African American disfranchisement
+    1  African American electorate and suffrage
+    1  African American enfranchisement
+    1  African American enfranchisement (voting rights)
+       → normalized: african american enfranchisement
+    1  African American leadership debates over suffrage
+    1  African American political independence (party affiliation and voting rights)
+       → normalized: african american political independence
+    1  African American suffrage and disenfranchisement
+    1  African American voting behavior (suffrage)
+       → normalized: african american voting behavior
+    1  African American voting behavior and political representation
+    1  African American voting disenfranchisement
+    1  African American voting rights and electoral strategy
+    1  African American women — suffrage and voting rights
+       → normalized: african american women suffrage and voting rights
+    1  Ballot protection and voter integrity
+    1  Black disfranchisement (African American voting rights)
+       → normalized: black disfranchisement
+    1  Black electoral strategy (congressional voting)
+       → normalized: black electoral strategy
+    1  Black enfranchisement (voting rights)
+       → normalized: black enfranchisement
+    1  Black enfranchisement and voting rights
+    1  Black suffrage (Voting rights for African Americans)
+       → normalized: black suffrage
+    1  Black suffrage and enfranchisement
+    1  Black suffrage and voting rights
+    1  Bloc voting — African Americans
+       → normalized: bloc voting african americans
+    1  Civil rights — full manhood rights and voting rights
+       → normalized: civil rights full manhood rights and voting rights
+    1  Congressional apportionment penalties for voter disfranchisement
+    1  Congressional representation and franchise legitimacy
+    1  Denial of suffrage and political disenfranchisement in Kenya
+    1  Disenfranchisement (Black voting rights)
+       → normalized: disenfranchisement
+    1  Disenfranchisement (voting rights)
+       → normalized: disenfranchisement
+    1  Disenfranchisement and electoral corruption
+    1  Disenfranchisement of African Americans (voting rights)
+       → normalized: disenfranchisement of african americans
+    1  Disfranchisement (African American voting rights)
+       → normalized: disfranchisement
+    1  Disfranchisement (Black voting rights)
+       → normalized: disfranchisement
+    1  Disfranchisement (Southern United States)
+       → normalized: disfranchisement
+    1  Disfranchisement (Southern disfranchisement under Jim Crow)
+       → normalized: disfranchisement
+    1  Disfranchisement (Voting rights of African Americans)
+       → normalized: disfranchisement
+    1  Disfranchisement (voter suppression)
+       → normalized: disfranchisement
+    1  Disfranchisement (voting rights restrictions)
+       → normalized: disfranchisement
+    1  Disfranchisement (voting rights) and disfranchisement practices in the South
+       → normalized: disfranchisement and disfranchisement practices in the south
+    1  Disfranchisement (voting rights; race and sex)
+       → normalized: disfranchisement
+    1  Disfranchisement and Jim Crow laws
+    1  Disfranchisement and political gossip — Washington, D.C.
+       → normalized: disfranchisement and political gossip washington, d.c.
+    1  Disfranchisement and racial segregation in U.S. politics
+    1  Disfranchisement and voter suppression
+    1  Disfranchisement and voting rights (registration restrictions, primary exclusions, administrative disenfranchisement)
+       → normalized: disfranchisement and voting rights
+    1  Disfranchisement and voting rights suppression
+    1  Disfranchisement and voting rights — African Americans
+       → normalized: disfranchisement and voting rights african americans
+    1  Disfranchisement in the Southern United States (Jim Crow)
+       → normalized: disfranchisement in the southern united states
+    1  Disfranchisement of Black voters
+    1  Disfranchisement — Georgia
+       → normalized: disfranchisement georgia
+    1  Disfranchisement — South Africa
+       → normalized: disfranchisement south africa
+    1  Disfranchisement — voting rights of African Americans
+       → normalized: disfranchisement voting rights of african americans
+    1  Electoral demographics and voting distribution by state
+    1  Federal enforcement of voting rights / defense of democracy
+    1  Grandfather clause (voting)
+       → normalized: grandfather clause
+    1  Grandfather clauses (voting disenfranchisement)
+       → normalized: grandfather clauses
+    1  Grandfather clauses (voting exemptions)
+       → normalized: grandfather clauses
+    1  Industrial disenfranchisement
+    1  Jim Crow disenfranchisement
+    1  Jim Crow segregation and disfranchisement
+    1  Labor and political disfranchisement of white and Black workers
+    1  Labor and suffrage
+    1  Labor movements; worker rule and worker-based suffrage
+    1  Legal resistance and litigation against disenfranchisement
+    1  Literacy and voter education (illiteracy as a barrier to voting)
+       → normalized: literacy and voter education
+    1  Municipal political disenfranchisement of African Americans
+    1  Party politics — African American voters; nonpartisan voting
+       → normalized: party politics african american voters; nonpartisan voting
+    1  Party rules and machine control of registration and ballots
+    1  Political accountability and defending democracy through voting
+    1  Political disenfranchisement (lack of voice in government and taxation; voting exclusion)
+       → normalized: political disenfranchisement
+    1  Political disenfranchisement / the right of challenge (democracy, voting rights)
+       → normalized: political disenfranchisement / the right of challenge
+    1  Political disenfranchisement and democratic rights
+    1  Political disenfranchisement and denial of democratic voice
+    1  Political disenfranchisement in the West Indies
+    1  Political disfranchisement of African Americans
+    1  Political party evaluation and independent voting
+    1  Race and the suffrage movement
+    1  Race and women's suffrage
+    1  Race-based disenfranchisement (Jim Crow laws)
+       → normalized: race-based disenfranchisement
+    1  Racial disenfranchisement (voting restrictions)
+       → normalized: racial disenfranchisement
+    1  Racial disfranchisement
+    1  Racial disfranchisement (Jim Crow)
+       → normalized: racial disfranchisement
+    1  Racial disfranchisement (Southern disfranchisement)
+       → normalized: racial disfranchisement
+    1  Racial political coalitions (interracial voting alliances)
+       → normalized: racial political coalitions
+    1  Racial segregation, disfranchisement, and political powerlessness of Black workers
+    1  Racial voting blocs and political pragmatism
+    1  Reconstruction and Black enfranchisement (voting rights)
+       → normalized: reconstruction and black enfranchisement
+    1  Reconstruction-era suffrage and governance
+    1  Solid South (Southern political control and disfranchisement)
+       → normalized: solid south
+    1  Southern disenfranchisement
+    1  Suffrage — African Americans
+       → normalized: suffrage african americans
+    1  Suppression of African American suffrage (voter suppression)
+       → normalized: suppression of african american suffrage
+    1  Suppression of women's suffrage (undermining the 19th Amendment)
+       → normalized: suppression of women's suffrage
+    1  Third‑party voting (Socialist Party) and electoral effectiveness
+       → normalized: third party voting and electoral effectiveness
+    1  Voter disenfranchisement (African Americans)
+       → normalized: voter disenfranchisement
+    1  Voter suppression and disfranchisement
+    1  Voter suppression and disfranchisement (African Americans)
+       → normalized: voter suppression and disfranchisement
+    1  Voter suppression — registration obstruction and disenfranchisement
+       → normalized: voter suppression registration obstruction and disenfranchisement
+    1  Voting (electoral choice)
+       → normalized: voting
+    1  Voting rights (African Americans) / Political disenfranchisement
+       → normalized: voting rights / political disenfranchisement
+    1  Voting rights (Black disfranchisement)
+       → normalized: voting rights
+    1  Voting rights (context of Reconstruction)
+       → normalized: voting rights
+    1  Voting rights (disenfranchisement comparison)
+       → normalized: voting rights
+    1  Voting rights (disfranchisement)
+       → normalized: voting rights
+    1  Voting rights (political enfranchisement)
+       → normalized: voting rights
+    1  Voting rights / political equality
+    1  Voting rights and African American suffrage
+    1  Voting rights and ballot access
+    1  Voting rights and disenfranchisement (African Americans)
+       → normalized: voting rights and disenfranchisement
+    1  Voting rights and disfranchisement (grandfather-clause litigation)
+       → normalized: voting rights and disfranchisement
+    1  Voting rights and disfranchisement (restoration of the franchise)
+       → normalized: voting rights and disfranchisement
+    1  Voting rights and political disenfranchisement
+    1  Voting rights and political franchise
+    1  Voting rights and political influence
+    1  Voting rights and political participation (Northern ballot access vs Southern disfranchisement)
+       → normalized: voting rights and political participation
+    1  Voting rights and political power
+    1  Voting rights and political representation of African Americans
+    1  Voting rights and voter participation
+    1  Voting rights restoration — African Americans (disfranchisement)
+       → normalized: voting rights restoration african americans
+    1  Voting rights suppression (African Americans)
+       → normalized: voting rights suppression
+    1  Voting rights suppression in the Jim Crow South
+    1  Voting rights — African Americans (enfranchisement)
+       → normalized: voting rights african americans
+    1  Voting rights — African Americans; disfranchisement
+       → normalized: voting rights african americans; disfranchisement
+    1  Voting rights — Black suffrage and disfranchisement
+       → normalized: voting rights black suffrage and disfranchisement
+    1  Voting rights — Fifteenth Amendment and Reconstruction ballot
+       → normalized: voting rights fifteenth amendment and reconstruction ballot
+    1  Voting rights — Fourteenth and Fifteenth Amendments; disenfranchisement
+       → normalized: voting rights fourteenth and fifteenth amendments; disenfranchisement
+    1  Voting rights — Mississippi (disfranchisement; exclusion of "qualified electors")
+       → normalized: voting rights mississippi
+    1  Voting rights — South Africa (disfranchisement)
+       → normalized: voting rights south africa
+    1  Voting rights — disfranchisement and independent voting
+       → normalized: voting rights disfranchisement and independent voting
+    1  Voting rights — repeal of the Fifteenth Amendment / disenfranchisement
+       → normalized: voting rights repeal of the fifteenth amendment / disenfranchisement
+    1  Voting rights; disenfranchisement
+    1  Voting rights—Disfranchisement—Southern United States
+       → normalized: voting rights disfranchisement southern united states
+    1  White primary (voting disenfranchisement)
+       → normalized: white primary
+    1  Woman suffrage
+    1  Women's suffrage (comparative argument)
+       → normalized: women's suffrage
+    1  Women's suffrage (primary elections)
+       → normalized: women's suffrage
+    1  Women's suffrage — opposition by Southern suffragists to a national amendment
+       → normalized: women's suffrage opposition by southern suffragists to a national amendment
+    1  Women's suffrage — racial exclusion
+       → normalized: women's suffrage racial exclusion
+
+WHITE SUPREMACY (33 variations, 45 total uses):
+    9  White supremacy
+    3  White supremacy and racial hierarchy
+    2  Jim Crow laws and Southern white supremacy
+    2  White supremacy and racial ideology
+    1  Critique of white supremacy
+    1  Divine-right rhetoric of white supremacy
+    1  Jim Crow laws and white supremacy in the American South
+    1  Race prejudice and white supremacy
+    1  Racial prejudice and white supremacy
+    1  Racism and racial hierarchy
+    1  Scientific critique of racial hierarchy
+    1  Southern oligarchy and white supremacy (Jim Crow political control)
+       → normalized: southern oligarchy and white supremacy
+    1  Southern social customs and white supremacy
+    1  Southern white supremacy (Bourbon South)
+       → normalized: southern white supremacy
+    1  White supremacy (critiques using statistics)
+       → normalized: white supremacy
+    1  White supremacy (political preservation)
+       → normalized: white supremacy
+    1  White supremacy (racist ideology)
+       → normalized: white supremacy
+    1  White supremacy -- United States
+    1  White supremacy and Southern oligarchy
+    1  White supremacy and exclusion of Black officeholders
+    1  White supremacy and political subordination
+    1  White supremacy and racial domination
+    1  White supremacy and racial exclusion in Southern politics
+    1  White supremacy and racial intimidation
+    1  White supremacy and racial oppression
+    1  White supremacy and racial violence
+    1  White supremacy and voter suppression (Caddo Parish)
+       → normalized: white supremacy and voter suppression
+    1  White supremacy ideology in imperial administration
+    1  White supremacy in congressional debate
+    1  White supremacy in international relations
+    1  White supremacy in the Southern United States
+    1  White supremacy — Southern United States (Bourbon South)
+       → normalized: white supremacy southern united states
+    1  White supremacy — political demagoguery and race hatred
+       → normalized: white supremacy political demagoguery and race hatred

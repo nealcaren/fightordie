@@ -1,38 +1,37 @@
 ---
-title: 'The Election'
-description: "W.E.B. Du Bois in The Crisis (1912) defends Black support for Wilson, warns of Southern racism and disfranchisement, and urges real justice and democracy."
+title: The Election
+description: W.E.B. Du Bois in The Crisis (1912) defends Black support for Wilson, warns of Southern racism and disfranchisement, and urges real justice and democracy.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Jun. 1912
 categories: []
 subjects:
-  - Voting rights (Black disfranchisement)
-  - Lynching and racial violence
-  - Jim Crow laws and Southern white supremacy
-  - African American electoral strategy and national politics
+- Voting rights (Black disfranchisement)
+- Lynching and mob violence
+- Jim Crow laws and Southern white supremacy
+- African American electoral strategy and national politics
 people:
-  - Woodrow Wilson
-  - William H. Taft
-  - Theodore Roosevelt
-  - Hoke Smith
+- Woodrow Wilson
+- William H. Taft
+- Theodore Roosevelt
+- Hoke Smith
 places:
-  - Southern United States
-  - New York (State)
+- Southern United States
+- New York (State)
 organizations:
-  - Democratic Party (United States)
-  - Progressive Party (United States)
+- Democratic Party (United States)
+- Progressive Party (United States)
 events:
-  - United States presidential election (1912)
-citation: 
+- United States presidential election (1912)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 5
   issue: 2
   page: 75--76
 google-scholar: true
-
 format:
   html:
     toc: false

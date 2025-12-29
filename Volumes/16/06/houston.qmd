@@ -1,36 +1,35 @@
 ---
-title: 'Houston'
-description: "W.E.B. Du Bois in The Crisis (1918) condemns racial injustice in the Houston military trials, demands officers' court-martials, civilian punishment, and pardons"
+title: Houston
+description: W.E.B. Du Bois in The Crisis (1918) condemns racial injustice in the Houston military trials, demands officers' court-martials, civilian punishment, and pardons
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Apr. 1918
 categories: []
 subjects:
-  - Military discrimination in the armed forces
-  - Military justice (courts-martial)
-  - Clemency and commutation of sentences
-  - Racial violence and race riots
-  - Civilian incitement and accountability for racial violence
+- Military discrimination in the armed forces
+- Military justice (courts-martial)
+- Clemency and commutation of sentences
+- Race riots
+- Civilian incitement and accountability for racial violence
 people:
-  - W.E.B. Du Bois
-  - Woodrow Wilson
+- W.E.B. Du Bois
+- Woodrow Wilson
 places:
-  - Houston, Texas
+- Houston, Texas
 organizations:
-  - Twenty-fourth Infantry (United States Army)
-  - United States Government
+- Twenty-fourth Infantry (United States Army)
+- United States Government
 events:
-  - Camp Logan Mutiny (1917)
-citation: 
+- Camp Logan Mutiny (1917)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 16
   issue: 6
   page: 269
 google-scholar: true
-
 format:
   html:
     toc: false

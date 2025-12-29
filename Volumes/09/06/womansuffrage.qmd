@@ -1,37 +1,36 @@
 ---
-title: 'Woman Suffrage'
-description: "W.E.B. Du Bois in The Crisis (1915) argues Black voters must support woman suffrage as a democratic, racial-justice duty that advances equality."
+title: Woman Suffrage
+description: W.E.B. Du Bois in The Crisis (1915) argues Black voters must support woman suffrage as a democratic, racial-justice duty that advances equality.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Apr. 1915
 categories: []
 subjects:
-  - Woman suffrage
-  - African American suffrage
-  - Race and the suffrage movement
-  - Voter mobilization and electoral strategy
+- Woman suffrage
+- Voting rights
+- Race and the suffrage movement
+- Voter mobilization and electoral strategy
 people:
-  - W. E. B. Du Bois
-  - Negro voters (Massachusetts, New York, New Jersey, Pennsylvania)
+- W. E. B. Du Bois
+- Negro voters (Massachusetts, New York, New Jersey, Pennsylvania)
 places:
-  - Massachusetts
-  - New York
-  - New Jersey
-  - Pennsylvania
+- Massachusetts
+- New York
+- New Jersey
+- Pennsylvania
 organizations:
-  - The Crisis (magazine)
+- The Crisis (magazine)
 events:
-  - Woman suffrage referenda (Fall 1915)
-citation: 
+- Woman suffrage referenda (Fall 1915)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 9
   issue: 6
   page: 57
 google-scholar: true
-
 format:
   html:
     toc: false

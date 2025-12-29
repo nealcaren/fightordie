@@ -1,40 +1,39 @@
 ---
-title: 'Flood'
-description: "In 1927 The Crisis, W.E.B. Du Bois urges Black refugees to flee Southern racial terror—documenting lynching, exploitative relief, and labor coercion."
+title: Flood
+description: In 1927 The Crisis, W.E.B. Du Bois urges Black refugees to flee Southern racial terror—documenting lynching, exploitative relief, and labor coercion.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Jul. 1927
 categories: []
 subjects:
-  - Lynching
-  - Racial terror and mob violence
-  - Discriminatory disaster relief
-  - Peonage and compulsory labor contracts
-  - Internal displacement and Black refugee migration
+- Lynching
+- Lynching and mob violence
+- Discriminatory disaster relief
+- Peonage and compulsory labor contracts
+- Internal displacement and Black refugee migration
 people:
-  - Calvin Coolidge
-  - Herbert Hoover
-  - W. E. B. Du Bois
+- Calvin Coolidge
+- Herbert Hoover
+- W. E. B. Du Bois
 places:
-  - Mississippi
-  - Louisiana
-  - Arkansas
-  - Memphis, Tennessee
-  - Chicago, Illinois
+- Mississippi
+- Louisiana
+- Arkansas
+- Memphis, Tennessee
+- Chicago, Illinois
 organizations:
-  - American Red Cross
+- American Red Cross
 events:
-  - Great Mississippi Flood (1927)
-citation: 
+- Great Mississippi Flood (1927)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 34
   issue: 5
   page: 169
 google-scholar: true
-
 format:
   html:
     toc: false

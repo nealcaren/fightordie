@@ -1,38 +1,37 @@
 ---
-title: 'Young'
-description: "W.E.B. Du Bois in The Crisis 1915 honors Major Charles Young, praising his military and civic service and resilient defiance of racial abuse."
+title: Young
+description: W.E.B. Du Bois in The Crisis 1915 honors Major Charles Young, praising his military and civic service and resilient defiance of racial abuse.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Mar. 1915
 categories: []
 subjects:
-  - Military discrimination against African Americans
-  - African American military leadership
-  - United States military and civil service in Liberia
-  - United States military and civil service in Haiti
-  - Awards honoring African American achievement (Spingarn Medal)
+- Military discrimination
+- African American military leadership
+- United States military and civil service in Liberia
+- United States military and civil service in Haiti
+- Awards honoring African American achievement (Spingarn Medal)
 people:
-  - Charles Young
-  - Leonard Wood
+- Charles Young
+- Leonard Wood
 places:
-  - West Point, New York (United States Military Academy)
-  - Liberia
-  - Haiti
-  - Arizona (United States)
+- West Point, New York (United States Military Academy)
+- Liberia
+- Haiti
+- Arizona (United States)
 organizations:
-  - United States Army
-  - United States War Department
-  - Liberian Government
-citation: 
+- United States Army
+- United States War Department
+- Liberian Government
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 11
   issue: 5
   page: 240,242
 google-scholar: true
-
 format:
   html:
     toc: false

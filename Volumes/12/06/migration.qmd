@@ -1,31 +1,30 @@
 ---
-title: 'Migration'
-description: "In 1916 W.E.B. Du Bois in The Crisis urges Black southerners to migrate North to escape lynching, gain education and labor opportunities."
+title: Migration
+description: In 1916 W.E.B. Du Bois in The Crisis urges Black southerners to migrate North to escape lynching, gain education and labor opportunities.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Apr. 1916
 categories: []
 subjects:
-  - Great Migration (African American migration to Northern United States)
-  - Lynching
-  - Disfranchisement (African Americans)
-  - Educational opportunity (African Americans)
-  - Employment opportunities (African Americans)
+- Great Migration (African American migration to Northern United States)
+- Lynching
+- Disfranchisement
+- Educational inequality
+- Employment opportunities (African Americans)
 places:
-  - Southern United States
-  - Northern United States
+- Southern United States
+- Northern United States
 events:
-  - Great Migration (1910–1970)
-citation: 
+- Great Migration (1910–1970)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 12
   issue: 6
   page: 270
 google-scholar: true
-
 format:
   html:
     toc: false

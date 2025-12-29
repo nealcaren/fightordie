@@ -1,34 +1,33 @@
 ---
-title: 'A Philosophy in Time of War'
-description: "In a 1918 Crisis essay, W.E.B. Du Bois urges Black Americans to fight for democracy abroad while demanding justice, citizenship, and racial equality at home."
+title: A Philosophy in Time of War
+description: In a 1918 Crisis essay, W.E.B. Du Bois urges Black Americans to fight for democracy abroad while demanding justice, citizenship, and racial equality at home.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Feb. 1918
 categories: []
 subjects:
-  - Military service — African Americans
-  - Disfranchisement and voting rights — African Americans
-  - Jim Crow laws and racial segregation
-  - African American patriotism and national loyalty
-  - Civil rights and racial equality
+- Military service — African Americans
+- Disfranchisement and voting rights — African Americans
+- Jim Crow laws
+- African American patriotism and national loyalty
+- Civil rights and racial equality
 places:
-  - United States
-  - Western Front (France and Belgium)
+- United States
+- Western Front (France and Belgium)
 organizations:
-  - The Crisis (magazine)
-  - United States Army
+- The Crisis (magazine)
+- United States Army
 events:
-  - World War I (1914–1918)
-citation: 
+- World War I (1914–1918)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 16
   issue: 4
   page: 164-165
 google-scholar: true
-
 format:
   html:
     toc: false

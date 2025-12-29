@@ -1,37 +1,36 @@
 ---
-title: 'Lynching'
-description: "W.E.B. Du Bois in The Crisis (1928) exposes lynching as a political crime, showing a Florida photograph that reveals white supremacy and state violence."
+title: Lynching
+description: W.E.B. Du Bois in The Crisis (1928) exposes lynching as a political crime, showing a Florida photograph that reveals white supremacy and state violence.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Sep. 1928
 categories: []
 subjects:
-  - Lynching
-  - White supremacy
-  - State violence
-  - Law-enforcement complicity in racial violence
-  - Anti-lynching campaigns
+- Lynching
+- White supremacy
+- State violence
+- Law-enforcement complicity in racial violence
+- Anti-lynching legislation
 people:
-  - W. E. B. Du Bois
-  - Unidentified lynching victim (Florida, 1928)
+- W. E. B. Du Bois
+- Unidentified lynching victim (Florida, 1928)
 places:
-  - Florida
-  - Melbourne, Alabama
+- Florida
+- Melbourne, Alabama
 organizations:
-  - National Association for the Advancement of Colored People (NAACP)
-  - The Crisis (magazine)
+- National Association for the Advancement of Colored People (NAACP)
+- The Crisis (magazine)
 events:
-  - Lynching of an unidentified man in Florida (1928)
-citation: 
+- Lynching of an unidentified man in Florida (1928)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 35
   issue: 9
   page: 312
 google-scholar: true
-
 format:
   html:
     toc: false

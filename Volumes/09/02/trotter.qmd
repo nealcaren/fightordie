@@ -1,31 +1,30 @@
 ---
-title: 'William Monroe Trotter'
-description: "W.E.B. Du Bois in The Crisis (1914) praises William Monroe Trotter’s fearless defense of Black equality and criticizes Wilson’s paternalistic race views."
+title: William Monroe Trotter
+description: W.E.B. Du Bois in The Crisis (1914) praises William Monroe Trotter’s fearless defense of Black equality and criticizes Wilson’s paternalistic race views.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Jun. 1914
 categories: []
 subjects:
-  - Racial segregation
-  - Racial equality
-  - Race relations in the United States
-  - Racial paternalism
+- Racial segregation
+- Racial equality
+- Race relations
+- Racial paternalism
 people:
-  - William Monroe Trotter
-  - Woodrow Wilson
-  - W. E. B. Du Bois
+- William Monroe Trotter
+- Woodrow Wilson
+- W. E. B. Du Bois
 places:
-  - United States
-citation: 
+- United States
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 9
   issue: 2
   page: 82
 google-scholar: true
-
 format:
   html:
     toc: false

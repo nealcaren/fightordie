@@ -1,36 +1,35 @@
 ---
-title: 'We Should Worry'
-description: "W.E.B. Du Bois in The Crisis (1917) warns white leaders: Black military service or mass industrial migration will boost Black labor power and curb lynching"
+title: We Should Worry
+description: 'W.E.B. Du Bois in The Crisis (1917) warns white leaders: Black military service or mass industrial migration will boost Black labor power and curb lynching'
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Jun. 1917
 categories: []
 subjects:
-  - Lynching (United States)
-  - African American military service (World War I)
-  - Great Migration — African American industrial migration
-  - Employment discrimination and labor competition
+- Lynching
+- African American military service (World War I)
+- Great Migration — African American industrial migration
+- Employment discrimination and labor competition
 people:
-  - W. E. B. Du Bois
+- W. E. B. Du Bois
 places:
-  - United States
-  - Southern United States
+- United States
+- Southern United States
 organizations:
-  - Associated Press
-  - United States Army
+- Associated Press
+- United States Army
 events:
-  - World War I (1914-1918)
-  - Reconstruction (1865-1877)
-citation: 
+- World War I (1914-1918)
+- Reconstruction (1865-1877)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 14
   issue: 2
   page: 61-62
 google-scholar: true
-
 format:
   html:
     toc: false

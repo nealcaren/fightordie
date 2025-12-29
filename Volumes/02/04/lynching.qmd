@@ -1,30 +1,29 @@
 ---
-title: 'Lynching'
-description: "W.E.B. Du Bois in The Crisis (1911) argues lynching stems from racial contempt and lawlessness that cheapens Black life and threatens democracy."
+title: Lynching
+description: W.E.B. Du Bois in The Crisis (1911) argues lynching stems from racial contempt and lawlessness that cheapens Black life and threatens democracy.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Feb. 1911
 categories: []
 subjects:
-  - Lynching (United States)
-  - Disfranchisement of African Americans
-  - Mob violence (United States)
-  - Racism — Attitudes toward African Americans
-  - Rule of law and lawlessness (United States)
+- Lynching
+- Disfranchisement
+- Mob violence (United States)
+- Racism — Attitudes toward African Americans
+- Rule of law and lawlessness (United States)
 places:
-  - United States
-  - Florida
-  - Oklahoma
-citation: 
+- United States
+- Florida
+- Oklahoma
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 2
   issue: 4
   page: 158-159
 google-scholar: true
-
 format:
   html:
     toc: false

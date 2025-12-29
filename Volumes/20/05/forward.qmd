@@ -1,34 +1,33 @@
 ---
-title: 'Forward'
-description: "W.E.B. Du Bois urges in The Crisis (1920) a renewed NAACP campaign against lynching, Jim Crow, and for the Black ballot and racial democracy."
+title: Forward
+description: W.E.B. Du Bois urges in The Crisis (1920) a renewed NAACP campaign against lynching, Jim Crow, and for the Black ballot and racial democracy.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Mar. 1920
 categories: []
 subjects:
-  - Anti-lynching campaigns
-  - Jim Crow laws
-  - Voting rights (African Americans)
-  - NAACP advocacy and fundraising
-  - Racial democracy
+- Anti-lynching legislation
+- Jim Crow laws
+- Voting rights
+- NAACP advocacy and fundraising
+- Racial democracy
 people:
-  - W. E. B. Du Bois
-  - James Weldon Johnson
+- W. E. B. Du Bois
+- James Weldon Johnson
 places:
-  - Arkansas
-  - United States
+- Arkansas
+- United States
 organizations:
-  - National Association for the Advancement of Colored People (NAACP)
-citation: 
+- National Association for the Advancement of Colored People (NAACP)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 20
   issue: 5
   page: 213
 google-scholar: true
-
 format:
   html:
     toc: false

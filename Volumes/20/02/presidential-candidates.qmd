@@ -1,37 +1,36 @@
 ---
-title: 'Presidential Candidates'
-description: "1920: W.E.B. Du Bois in The Crisis catalogs 17 presidential candidates' stances on lynching, Jim Crow, schools and voting—exposing political silence."
+title: Presidential Candidates
+description: '1920: W.E.B. Du Bois in The Crisis catalogs 17 presidential candidates'' stances on lynching, Jim Crow, schools and voting—exposing political silence.'
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: June. 1920
 categories: []
 subjects:
-  - Anti-lynching legislation
-  - Segregation on public transportation (Jim Crow cars)
-  - Disfranchisement and voting rights
-  - Federal assistance to Black common schools
-  - Racial discrimination in the U.S. Army (Black commissioned officers)
-  - Segregation in the federal civil service
+- Anti-lynching legislation
+- Segregation on public transportation (Jim Crow cars)
+- Disfranchisement
+- Federal assistance to Black common schools
+- Racial discrimination in the U.S. Army (Black commissioned officers)
+- Segregation in the federal civil service
 people:
-  - Senator Poindexter
-  - Warren G. Harding
-  - General Leonard Wood
+- Senator Poindexter
+- Warren G. Harding
+- General Leonard Wood
 places:
-  - Haiti
-  - United States
+- Haiti
+- United States
 organizations:
-  - Republican Party (United States)
-  - The Crisis (magazine)
-citation: 
+- Republican Party (United States)
+- The Crisis (magazine)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 20
   issue: 2
   page: 69
 google-scholar: true
-
 format:
   html:
     toc: false

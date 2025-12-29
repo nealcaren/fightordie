@@ -1,34 +1,33 @@
 ---
-title: 'Scottsboro'
-description: "In 1933 The Crisis, W.E.B. Du Bois condemns Scottsboro as proof that racial disfranchisement destroys justice and demands Black political voice."
+title: Scottsboro
+description: In 1933 The Crisis, W.E.B. Du Bois condemns Scottsboro as proof that racial disfranchisement destroys justice and demands Black political voice.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: May 1933
 categories: []
 subjects:
-  - Disfranchisement (Black voting rights)
-  - Jury discrimination and exclusion
-  - Racial injustice in the criminal courts
-  - White supremacy and racial ideology
-  - Mob violence and extrajudicial threats
+- Disfranchisement (Black voting rights)
+- Jury discrimination and exclusion
+- Racial injustice in the criminal courts
+- White supremacy
+- Mob violence and extrajudicial threats
 places:
-  - Scottsboro, Alabama
-  - Southern United States
+- Scottsboro, Alabama
+- Southern United States
 organizations:
-  - Alabama state courts
-  - Alabama state government
+- Alabama state courts
+- Alabama state government
 events:
-  - Scottsboro Trials (1931–1933)
-citation: 
+- Scottsboro Trials (1931–1933)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 40
   issue: 5
   page: 117
 google-scholar: true
-
 format:
   html:
     toc: false

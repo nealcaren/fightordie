@@ -1,31 +1,30 @@
 ---
-title: 'Black and White Workers'
-description: "W.E.B. Du Bois in The Crisis (1928) shows Black and white workers share a common struggle for democracy and labor rights, yet prejudice and bosses block solidarity."
+title: Black and White Workers
+description: W.E.B. Du Bois in The Crisis (1928) shows Black and white workers share a common struggle for democracy and labor rights, yet prejudice and bosses block solidarity.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Mar. 1928
 categories: []
 subjects:
-  - Interracial labor solidarity
-  - Trade union discrimination (race)
-  - Employment discrimination against African Americans
-  - Educational inequality — African Americans
-  - Voting rights — African Americans
+- Interracial labor solidarity
+- Trade union discrimination (race)
+- Employment discrimination
+- Educational inequality
+- Voting rights
 places:
-  - United States
+- United States
 organizations:
-  - Trade unions (United States)
-  - Private philanthropy (United States)
-citation: 
+- Trade unions (United States)
+- Private philanthropy (United States)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 35
   issue: 3
   page: 98
 google-scholar: true
-
 format:
   html:
     toc: false

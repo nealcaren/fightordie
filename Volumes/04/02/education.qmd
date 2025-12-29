@@ -1,35 +1,34 @@
 ---
-title: 'Education'
-description: "W.E.B. Du Bois argues in The Crisis (1912) that education should train minds for life, not just trades, urging broad schooling for Black children and democracy."
+title: Education
+description: W.E.B. Du Bois argues in The Crisis (1912) that education should train minds for life, not just trades, urging broad schooling for Black children and democracy.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Jun. 1912
 categories: []
 subjects:
-  - African American education
-  - Vocational education
-  - Higher education — African Americans
-  - Educational philosophy
-  - Education and democracy
+- African American education
+- Vocational education
+- Higher education
+- Educational philosophy
+- Education and democracy
 people:
-  - W. E. B. Du Bois
+- W. E. B. Du Bois
 places:
-  - Indianapolis, Indiana
-  - Washington, D.C.
+- Indianapolis, Indiana
+- Washington, D.C.
 organizations:
-  - Indianapolis Star (newspaper)
-  - Indianapolis Public Schools
-  - District of Columbia Public Schools
-citation: 
+- Indianapolis Star (newspaper)
+- Indianapolis Public Schools
+- District of Columbia Public Schools
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 4
   issue: 2
   page: 74-76
 google-scholar: true
-
 format:
   html:
     toc: false

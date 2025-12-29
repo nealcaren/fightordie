@@ -1,37 +1,36 @@
 ---
-title: 'Officers'
-description: "W.E.B. Du Bois in The Crisis (1917) demands Negro officers and separate training camps to combat military racism and defend Black citizenship."
+title: Officers
+description: W.E.B. Du Bois in The Crisis (1917) demands Negro officers and separate training camps to combat military racism and defend Black citizenship.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Jun. 1917
 categories: []
 subjects:
-  - Military discrimination against African Americans
-  - Segregated military training camps (separate camps for Black soldiers)
-  - African American military officers (demand for Negro officers)
-  - Civil rights advocacy by the NAACP
+- Military discrimination
+- Segregated military training camps (separate camps for Black soldiers)
+- African American military officers (demand for Negro officers)
+- Civil rights advocacy by the NAACP
 people:
-  - W. E. B. Du Bois
-  - Joel E. Spingarn
-  - Mary White Ovington
+- W. E. B. Du Bois
+- Joel E. Spingarn
+- Mary White Ovington
 places:
-  - Plattsburg, New York
+- Plattsburg, New York
 organizations:
-  - National Association for the Advancement of Colored People (NAACP)
-  - The Crisis (magazine)
-  - United States Army General Staff
+- National Association for the Advancement of Colored People (NAACP)
+- The Crisis (magazine)
+- United States Army General Staff
 events:
-  - World War I (1914-1918)
-citation: 
+- World War I (1914-1918)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 14
   issue: 2
   page: 60-61
 google-scholar: true
-
 format:
   html:
     toc: false

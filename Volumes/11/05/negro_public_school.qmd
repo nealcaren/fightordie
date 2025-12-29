@@ -1,34 +1,33 @@
 ---
-title: 'The Negro Public School'
-description: "In The Crisis (1916), W.E.B. Du Bois attacks racialized public education, arguing vocational training enforces caste and undermines democracy."
+title: The Negro Public School
+description: In The Crisis (1916), W.E.B. Du Bois attacks racialized public education, arguing vocational training enforces caste and undermines democracy.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Mar. 1916
 categories: []
 subjects:
-  - Public education — African Americans
-  - Vocational education — African Americans
-  - Educational inequality (African Americans)
-  - Racial segregation in schooling
-  - Democracy and education (United States)
+- Public education — African Americans
+- Vocational education — African Americans
+- Educational inequality
+- Racial segregation in schooling
+- Democracy and education (United States)
 places:
-  - Rock Hill, South Carolina
-  - Charleston, South Carolina
-  - United States
+- Rock Hill, South Carolina
+- Charleston, South Carolina
+- United States
 organizations:
-  - Christian Herald
-  - Charleston News and Courier
-  - Public school systems (United States)
-citation: 
+- Christian Herald
+- Charleston News and Courier
+- Public school systems (United States)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 11
   issue: 5
   page: 244
 google-scholar: true
-
 format:
   html:
     toc: false

@@ -1,36 +1,35 @@
 ---
-title: 'To Mr. Emmett Scott'
-description: "W.E.B. Du Bois in The Crisis (1919) demands that Emmett Scott answer why Black soldiers faced mistreatment in France, exposing racial failures in the military."
+title: To Mr. Emmett Scott
+description: W.E.B. Du Bois in The Crisis (1919) demands that Emmett Scott answer why Black soldiers faced mistreatment in France, exposing racial failures in the military.
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: May 1919
 categories: []
 subjects:
-  - Military discrimination against African Americans
-  - Treatment of African American soldiers in France
-  - African American press advocacy and accountability
-  - Race and U.S. wartime policy
+- Military discrimination
+- Treatment of African American soldiers in France
+- African American press advocacy and accountability
+- Race and U.S. wartime policy
 people:
-  - W. E. B. Du Bois
-  - Emmett J. Scott
+- W. E. B. Du Bois
+- Emmett J. Scott
 places:
-  - France
-  - United States
+- France
+- United States
 organizations:
-  - The Crisis (magazine)
-  - United States Army
+- The Crisis (magazine)
+- United States Army
 events:
-  - World War I (1914-1918)
-citation: 
+- World War I (1914-1918)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 18
   issue: 1
   page: 10
 google-scholar: true
-
 format:
   html:
     toc: false

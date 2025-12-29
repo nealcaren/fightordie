@@ -1,35 +1,34 @@
 ---
-title: 'Shillady and Texas'
-description: "W.E.B. Du Bois in The Crisis (1919) castigates Texas for lynching, disenfranchisement, and racial violence that deny Blacks land, education, and democracy"
+title: Shillady and Texas
+description: W.E.B. Du Bois in The Crisis (1919) castigates Texas for lynching, disenfranchisement, and racial violence that deny Blacks land, education, and democracy
 author:
-  - name:
-      given: W.E.B.
-      family: Du Bois
+- name:
+    given: W.E.B.
+    family: Du Bois
 date: Apr. 1919
 categories: []
 subjects:
-  - Lynching and racial terror
-  - Disfranchisement and voting rights suppression
-  - Educational inequality for African Americans
-  - Jim Crow laws and racially segregated travel
-  - Black land ownership and agrarian property rights
+- Lynching and racial terror
+- Disfranchisement and voting rights suppression
+- Educational inequality
+- Jim Crow laws and racially segregated travel
+- Black land ownership and agrarian property rights
 people:
-  - Mr. Shillady
-  - Norris Wright Cuney
+- Mr. Shillady
+- Norris Wright Cuney
 places:
-  - Texas
-  - Mexico
+- Texas
+- Mexico
 organizations:
-  - National Association for the Advancement of Colored People (NAACP)
-  - The Crisis (magazine)
-citation: 
+- National Association for the Advancement of Colored People (NAACP)
+- The Crisis (magazine)
+citation:
   type: article-journal
   container-title: The Crisis
   volume: 18
   issue: 6
   page: 283-284
 google-scholar: true
-
 format:
   html:
     toc: false
