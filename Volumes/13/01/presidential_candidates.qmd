@@ -1,6 +1,6 @@
 ---
 title: 'Presidential Candidates'
-description: "In 1916 The Crisis, W.E.B. Du Bois urges Charles Evans Hughes to oppose lynching, disfranchisement and segregation to protect race equality and democracy."
+description: "NAACP in The Crisis (1916) argues candidates must state positions on lynching, disfranchisement and segregation to guide Black voters."
 author: NAACP
 date: May 1916
 categories: []

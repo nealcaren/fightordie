@@ -1,6 +1,6 @@
 ---
 title: 'The Riots: An N.A.A.C.P. Investigation'
-description: "W.E.B. Du Bois in The Crisis (1919) reports NAACP probes into race riots, exposing mob violence, press incitement, and Black self-defense."
+description: "Johnson, James Weldon in The Crisis (1919) examines the Washington race riots, documenting mob violence and Black residents' determined self-defense."
 author: Johnson, James Weldon
 date: Mar. 1919
 categories: []

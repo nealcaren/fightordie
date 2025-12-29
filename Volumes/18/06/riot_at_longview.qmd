@@ -1,6 +1,6 @@
 ---
 title: 'The Riot at Longview, Texas'
-description: "In a 1919 The Crisis article, W.E.B. Du Bois documents the Longview, Texas race riot, exposing white violence and Black self-defense amid lawlessness."
+description: "National Association for the Advancement of Colored People in The Crisis (1919) examines the Longview TX race riot mob murder and official complicity."
 author: National Association for the Advancement of Colored People
 date: Apr. 1919
 categories: []

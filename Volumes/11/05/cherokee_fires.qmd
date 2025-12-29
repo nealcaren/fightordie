@@ -1,6 +1,6 @@
 ---
 title: 'The Cherokee Fires: An N.A.A.C.P. Investigation'
-description: "W.E.B. Du Bois in The Crisis (1916) exposes arson and terror in Cherokee as an NAACP probe showing racial violence and labor-driven dispossession."
+description: "Nash, Royal Freeman in The Crisis (1916) examines Cherokee County fires as an N.A.A.C.P. probe links them to anti-Black terror and arson."
 author: Nash, Royal Freeman
 date: Mar. 1916
 categories: []

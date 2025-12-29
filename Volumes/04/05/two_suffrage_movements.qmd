@@ -1,6 +1,6 @@
 ---
 title: 'Two Suffrage Movements'
-description: "W.E.B. Du Bois, in The Crisis (1912), argues that women’s suffrage and Black emancipation share a democratic struggle, urging universal rights for all."
+description: "Gruening, Martha in The Crisis (1912) argues English and American women's suffrage sprang from abolitionism and shared struggles for rights."
 author: Gruening, Martha
 date: Mar. 1912
 categories:

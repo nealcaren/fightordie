@@ -1,6 +1,6 @@
 ---
 title: 'Chicago and Its Eight Reasons'
-description: "In The Crisis (1919), W.E.B. Du Bois traces eight causes of Chicago race riots—race prejudice, labor competition, police failure, press lies, housing."
+description: "White, Walter F. in The Crisis (1919) examines Chicago riots, blaming prejudice, jobs, graft, police lapses, housing and the press."
 author: White, Walter F.
 date: Apr. 1919
 categories: []

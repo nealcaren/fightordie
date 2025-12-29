@@ -1,6 +1,6 @@
 ---
 title: 'Tulsa Riots'
-description: "W.E.B. Du Bois in The Crisis (1921) documents the Tulsa race riot: white mob violence, mass displacement, and peonage driving terror."
+description: "National Association for the Advancement of Colored People in The Crisis (1921) examines the Tulsa race riot, white arson, peonage and refugees."
 author: National Association for the Advancement of Colored People
 date: Jan. 1921
 categories: []

@@ -1,6 +1,6 @@
 ---
 title: 'The Sweet Trial'
-description: "W.E.B. Du Bois in The Crisis (1926) documents the Sweet trial, arguing racial mob violence and police bias forced Black homeowners to defend property and rights"
+description: "White, Walter F. in The Crisis (1926) discusses the Sweet trial, defending Black homeowners' right to self-defense and exposing mob racism."
 author: White, Walter F.
 date: Jan. 1926
 categories: []

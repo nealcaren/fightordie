@@ -1,6 +1,6 @@
 ---
 title: 'The Real Causes of Two Race Riots'
-description: "In a 1919 Crisis piece, W.E.B. Du Bois argues race riots stem from Southern peonage, labor exploitation, and white mob violence undermining democracy."
+description: "National Association for the Advancement of Colored People in The Crisis (1919) argues peonage, store usury and vote denial sparked riot in Arkansas."
 author: National Association for the Advancement of Colored People
 date: Jun. 1919
 categories: []

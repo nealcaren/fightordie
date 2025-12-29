@@ -1,6 +1,6 @@
 ---
 title: 'The Shambles of South Carolina'
-description: "W.E.B. Du Bois in The Crisis (1926) exposes lynching, Klan violence and legal failure in South Carolina, arguing racial terror corrodes democracy."
+description: "White, Walter in The Crisis (1926) examines the brutal lynching of the Lowman family and Southern mob terror."
 author: White, Walter
 date: Jun. 1926
 categories: []

@@ -1,6 +1,6 @@
 ---
 title: 'Colored Women as Voters'
-description: "W.E.B. Du Bois argues in The Crisis (1912) that colored women gain political power through voting to shape education, housing, and justice, advancing democracy."
+description: "Logan, Aella Hunt in The Crisis (1912) argues suffrage empowers colored women to improve schools, sanitation and juvenile justice."
 author: Logan, Aella Hunt
 date: Mar. 1912
 categories:

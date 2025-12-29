@@ -1,6 +1,6 @@
 ---
 title: 'Garrison and Woman''s Suffrage'
-description: "W.E.B. Du Bois argues abolition and women's rights are linked, citing Garrison's support for the Grimke sisters and the 1840 convention in The Crisis, 1912."
+description: "Garrison Villard, Fanny in The Crisis (1912) discusses her father's role linking abolition to women's suffrage and defending women speakers"
 author: Garrison Villard, Fanny
 date: Mar. 1912
 categories:

@@ -1,6 +1,6 @@
 ---
 title: 'The Work of a Mob'
-description: "In The Crisis (1918) W.E.B. Du Bois documents brutal lynchings in Georgia, exposing racial terror and its assault on Black democracy and life."
+description: "White, Walter F. in The Crisis (1918) examines lynchings in Brooks and Lowndes, GA, exposing vigilante murders and racial injustice."
 author: White, Walter F.
 date: Mar. 1918
 categories: []

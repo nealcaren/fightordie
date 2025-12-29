@@ -1,6 +1,6 @@
 ---
 title: 'The Burning at Dyersburg: An N.A.A.C.P. Investigation'
-description: "W.E.B. Du Bois in The Crisis (1918) exposes the NAACP's investigation of Lation Scott's brutal burning, revealing racial terror and community complicity."
+description: "N.A.A.C.P. in The Crisis (1918) examines the burning at Dyersburg, exposing the lynching of Lation Scott and local failures of justice."
 author: N.A.A.C.P.
 date: Feb. 1918
 categories: []

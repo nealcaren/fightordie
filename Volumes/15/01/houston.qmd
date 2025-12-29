@@ -1,6 +1,6 @@
 ---
 title: 'Houston: An N.A.A.C.P. Investigation'
-description: "W.E.B. Du Bois in The Crisis (1918) links Houston's riot to police brutality and racial injustice, documenting harm and new Black migration"
+description: "Gruening, Martha in The Crisis (1918) argues Houston riot stemmed from white police brutality, disarmed Black provosts, and lax camp discipline."
 author: Gruening, Martha
 date: May 1918
 categories: []
