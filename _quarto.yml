@@ -7,7 +7,7 @@ execute:
 
 website:
   title: "Dare You Fight"
-  description: "A comprehensive digital archive of W.E.B. Du Bois's writings from The Crisis magazine (1910-1934), featuring over 600 articles and editorials on civil rights, race relations, and social justice in early 20th century America."
+  description: "Over 700 editorials by W.E.B. Du Bois from The Crisis magazine (1910-1934), the most sustained campaign of political journalism in American history."
   site-url: https://www.dareyoufight.org
   navbar:
     logo: Images/logo.png
@@ -17,7 +17,7 @@ website:
     - listing.qmd
     - about.qmd
     - href: backround.qmd
-      text: Background
+      text: "Du Bois & The Crisis"
     - text: More
       menu:
       - map.qmd

@@ -304,6 +304,160 @@ blockquote br + span {
 /* Utility classes */
 .nowrap { white-space: nowrap; }
 
+/* ===================== */
+/* Homepage styles       */
+/* ===================== */
+
+.hero {
+  position: relative;
+  margin: -1rem calc(-50vw + 50%) 2rem calc(-50vw + 50%);
+  width: 100vw;
+  overflow: hidden;
+}
+
+.hero p {
+  margin: 0;
+  line-height: 0;
+}
+
+.hero-image {
+  width: 100%;
+  height: 420px;
+  object-fit: cover;
+  object-position: center 20%;
+  filter: brightness(0.35);
+  margin-bottom: 0;
+  display: block;
+}
+
+.hero-title,
+.hero-subtitle {
+  position: absolute;
+  left: 0;
+  right: 0;
+  text-align: center;
+  color: #fff !important;
+  margin: 0;
+  padding: 0 1rem;
+  text-shadow: 0 2px 12px rgba(0,0,0,0.6);
+}
+
+.hero-title {
+  top: 50%;
+  transform: translateY(-80%);
+  font-size: 3.2rem;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+}
+
+.hero-subtitle {
+  top: 50%;
+  transform: translateY(60%);
+  font-size: 1.4rem;
+  font-weight: 400;
+  letter-spacing: 0.01em;
+}
+
+.hero-subtitle .crisis-title {
+  color: #fff;
+}
+
+/* Featured article cards */
+.featured-grid {
+  margin-top: 1.5rem;
+}
+
+.featured-card {
+  border-left: 3px solid var(--color-primary);
+  padding: 0.75rem 1rem;
+  margin-bottom: 0.25rem;
+  transition: background-color 0.2s ease;
+}
+
+.featured-card:hover {
+  background-color: rgba(128, 0, 32, 0.04);
+}
+
+.featured-card h3 {
+  margin-top: 0;
+  margin-bottom: 0.25rem;
+  font-size: 1.15rem;
+}
+
+.featured-date {
+  font-family: var(--font-primary);
+  font-size: 0.85rem;
+  color: #777;
+  display: block;
+  margin-bottom: 0.35rem;
+}
+
+.featured-card p {
+  margin-bottom: 0.25rem;
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
+
+/* Explore section cards */
+.explore-card {
+  padding: 1rem;
+  border: 1px solid #e8e8e8;
+  border-radius: 4px;
+  margin-bottom: 0.5rem;
+  transition: border-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+.explore-card:hover {
+  border-color: var(--color-primary);
+  box-shadow: 0 2px 8px rgba(128, 0, 32, 0.08);
+}
+
+.explore-card h3 {
+  margin-top: 0;
+  margin-bottom: 0.35rem;
+  font-size: 1.1rem;
+}
+
+.explore-card p {
+  margin-bottom: 0;
+  font-size: 0.9rem;
+  color: #555;
+}
+
+/* Project note at bottom */
+.project-note {
+  font-size: 0.9rem;
+  color: #666;
+  text-align: center;
+  max-width: 600px;
+  margin: 0 auto 2rem auto;
+}
+
+/* Responsive hero */
+@media (max-width: 768px) {
+  .hero-image {
+    height: 300px;
+  }
+  .hero-title {
+    font-size: 2.2rem;
+  }
+  .hero-subtitle {
+    font-size: 1.1rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .hero-image {
+    height: 240px;
+  }
+  .hero-title {
+    font-size: 1.8rem;
+  }
+  .hero-subtitle {
+    font-size: 0.95rem;
+  }
+}
+
 /* Draft watermark (if needed) */
 .draft-watermark {
   position: relative;
