@@ -17,7 +17,7 @@ website:
   navbar:
     logo: Images/logo.png
     href: https://www.dareyoufight.org
-    background: "#1a0008"
+    background: "#1c1210"
     foreground: "#f0e6e9"
     right:
     - browse.qmd
@@ -34,7 +34,7 @@ website:
     right:
       - icon: github
         href: https://github.com/nealcaren/fightordie
-    background: "#1a0008"
+    background: "#1c1210"
     foreground: "#d4c4c8"
   open-graph:
     locale: en_US
@@ -48,7 +48,6 @@ format:
     theme: simplex
     css: styles.css
     toc: false
-    fontsize: 1.05em
     mainfont: 'EB Garamond'
     link-external-newwindow: true
     link-external-icon: false

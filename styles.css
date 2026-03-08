@@ -5,12 +5,14 @@
 @import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,opsz,wght@0,12..23,400..800;1,12..23,400..800&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
 
-/* CSS Variables */
+/* CSS Variables — Crisis red + archival blue */
 :root {
-  --color-primary: #800020;
-  --color-primary-dark: #660018;
-  --color-primary-darker: #33000c;
-  --color-nav: #1a0008;
+  --color-primary: #a8321e;
+  --color-primary-dark: #8c2918;
+  --color-primary-darker: #5c1a10;
+  --color-accent: #2a5a8c;
+  --color-accent-dark: #1e4a74;
+  --color-nav: #1c1210;
   --color-text: #2d2a26;
   --color-background: #faf8f5;
   --color-border: #e0dbd4;
@@ -24,12 +26,13 @@ body {
   font-family: var(--font-body);
   color: var(--color-text);
   background-color: var(--color-background);
-  line-height: 1.75;
+  font-size: 1.25rem;
+  line-height: 1.5;
 }
 
 /* Constrain reading width for prose */
 .quarto-body-content > * {
-  max-width: 750px;
+  max-width: 600px;
 }
 
 /* Let listings, grids, and hero break out of reading width */
@@ -204,7 +207,7 @@ header {
 
 .navbar {
   background-color: var(--color-nav) !important;
-  border-bottom: 1px solid rgba(128, 0, 32, 0.4);
+  border-bottom: 1px solid rgba(168, 50, 30, 0.4);
 }
 
 .navbar-title {
@@ -269,7 +272,7 @@ nav a:hover {
 /* Dropdown menus inherit dark style */
 .navbar .dropdown-menu {
   background-color: var(--color-nav);
-  border: 1px solid rgba(128, 0, 32, 0.4);
+  border: 1px solid rgba(168, 50, 30, 0.4);
 }
 
 .navbar .dropdown-item {
@@ -279,7 +282,7 @@ nav a:hover {
 
 .navbar .dropdown-item:hover,
 .navbar .dropdown-item:focus {
-  background-color: rgba(128, 0, 32, 0.3);
+  background-color: rgba(168, 50, 30, 0.3);
   color: #fff;
 }
 
@@ -298,7 +301,7 @@ img {
 
 p {
     margin-top: 0;
-    margin-bottom: 1rem;
+    margin-bottom: 0.9375rem;
 }
 
 /* Image alignment classes */
@@ -528,7 +531,7 @@ blockquote br + span {
 }
 
 .featured-card:hover {
-  background-color: rgba(128, 0, 32, 0.04);
+  background-color: rgba(168, 50, 30, 0.04);
 }
 
 .featured-card h3 {
@@ -562,14 +565,15 @@ blockquote br + span {
 }
 
 .explore-card:hover {
-  border-color: var(--color-primary);
-  box-shadow: 0 2px 8px rgba(128, 0, 32, 0.08);
+  border-color: var(--color-accent);
+  box-shadow: 0 2px 8px rgba(42, 90, 140, 0.1);
 }
 
 .explore-card h3 {
   margin-top: 0;
   margin-bottom: 0.35rem;
   font-size: 1.1rem;
+  color: var(--color-accent);
 }
 
 .explore-card p {
@@ -827,7 +831,7 @@ figure {
 /* ===================== */
 
 .quarto-listing-table thead th {
-  background-color: var(--color-primary);
+  background-color: var(--color-accent);
   color: #fff;
   font-family: var(--font-primary);
   text-transform: uppercase;
@@ -844,14 +848,14 @@ figure {
 }
 
 .quarto-listing-table tbody tr:hover {
-  background-color: rgba(128, 0, 32, 0.03);
+  background-color: rgba(42, 90, 140, 0.04);
 }
 
-/* Category badges */
+/* Category badges — blue accent for navigation */
 .quarto-category {
   background-color: transparent;
-  border: 1px solid var(--color-primary);
-  color: var(--color-primary);
+  border: 1px solid var(--color-accent);
+  color: var(--color-accent);
   font-size: 0.75rem;
   letter-spacing: 0.03em;
   border-radius: 2px;
@@ -859,7 +863,7 @@ figure {
 }
 
 .quarto-category:hover {
-  background-color: var(--color-primary);
+  background-color: var(--color-accent);
   color: #fff;
 }
 
