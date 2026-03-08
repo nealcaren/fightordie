@@ -1,185 +1,137 @@
 ---
 title:   |
   Voice of a Movement \
-#  W.E.B. Du Bois and The Crisis
+#  W.E.B. Du Bois and The Crisis
 format:
   html:
-    toc: false
+    toc: true
 ---
 
 <div class="draft-watermark">
 
 
 
-
-
-
-
 ![](/Images/bdr-507789.jpeg ""){width=40% .left}
-"The object of this publication is to set forth those facts and arguments which show the danger of race prejudice," W.E.B. Du Bois [wrote in November 1910](Volumes/01/01/TheCrisis.html), launching *The Crisis* as the official magazine of the newly formed National Association for the Advancement of Colored People (NAACP). "It takes its name from the fact that the editors believe that this is a critical time in the history of the advancement of men." Within two years, the magazine's circulation had grown from 1,000 to over 22,000. By the end of World War I, it would surpass 100,000, making *The Crisis* one of the most widely read periodicals in America, Black or white.
+"Some good friends of the cause we represent fear agitation. They say: 'Do not agitate—do not make a noise; work.'" So W.E.B. Du Bois [wrote in November 1910](Volumes/01/01/Agitation.html), in the first issue of *The Crisis*. His answer was blunt: "A toothache is agitation. Is a toothache a good thing? No. Is it therefore useless? No. It is supremely useful, for it tells the body of decay, dyspepsia and death." For twenty-four years, Du Bois made *The Crisis* the toothache of American democracy. He documented lynching by name and number. He tracked disfranchisement state by state. He connected Jim Crow to empire, connected empire to labor, connected labor back to the color line. And he did it in prose that could move from forensic precision to prophetic fury to Socratic satire within a single issue.
 
-Du Bois edited *The Crisis* for nearly a quarter century, from 1910 to 1934. The magazine became far more than an organizational newsletter. It was a forum for civil rights advocacy and a platform for Black literary talent. It connected the domestic struggle against lynching and disenfranchisement to global movements against colonialism. And it tracked the evolution of Du Bois's own thinking, from his early faith in integration and the "Talented Tenth" to his later exploration of economic separatism and cooperative enterprise.
+The [over 700 editorials collected on this site](listing.qmd) are the record of that effort. Read individually, each is a response to a moment. Read together, they trace an intellectual arc: from Du Bois's early faith that truth-telling would change minds, through the war's betrayal and the Renaissance's promise, to the bitter paradox that ended his editorship. "The thinking colored people of the United States," he [wrote in January 1934](Volumes/41/01/segregation.html), "must stop being stampeded by the word segregation." The man who had spent two decades fighting segregation was now arguing that the segregated had to build within the system they opposed. Six months later, he resigned.
 
-The [articles collected on this site](listing.qmd) trace that arc. They show a publication, and an editor, grappling with how Black Americans could secure freedom and equality in a country that promised both and delivered neither.
+That arc, and the hundreds of editorials that compose it, is what this collection makes visible.
 
-## The Moon and Horizon <span class="nowrap">(1900—1910)</span>
-
-The Black press at the turn of the twentieth century was divided between supporters of Booker T. Washington's accommodationist philosophy and those who advocated direct challenges to racial injustice. Washington exerted considerable influence over several publications, secretly subsidizing some. Independent Black journals like <span class="crisis-title">The Colored American Magazine</span> and *The Voice of the Negro* struggled against financial pressure and political opposition. Both ceased publication before 1910.
-
-![](/Images/335692732_217716107420380_3478088606202613196_n.jpg "June 1900 (Vol. 1, No. 2) Source: James Weldon Johnson Memorial Collection in the Yale Collection of American Literature, Beinecke Rare Book and Manuscript Library https://coloredamerican.org/?page_id=685"){width=40% .right}
-
-![](/Images/Cover_page_of_Voice_of_the_Negro_Magazine_Vol_3,_1906.png "By Editors: J.W.E Bowen Jesse Max Barber(Life time: 1904-1907) - Original publication: Hertel, Jenkins, and CompanyImmediate source: https://modernistmagazines.org/american/the-voice-of-the-negro/#1464124281476-e258061f-11950739-cbd6, Public Domain, https://en.wikipedia.org/w/index.php?curid=65826315"){width=40% .left}
-
-Du Bois launched two ventures of his own. In December 1905, he and partners Edward L. Simon and Harry Pace launched *The Moon Illustrated Weekly* in Memphis, Tennessee, the first illustrated weekly magazine for African Americans. *The Moon* aimed to interpret what Du Bois called a "new race consciousness," but it never exceeded 500 subscribers. It folded in the summer of 1906.
+## Before *The Crisis* <span class="nowrap">(1900—1910)</span>
 
 ![](/Images/The_Moon_1_14_906.jpg ""The Moon, Memphis, 1:14, 1906" (2021). Documents. 16.
 https://digitalcommons.memphis.edu/speccoll-mss-wtennhistsoc1/16"){width=40% .right}
 
-![](/Images/horizon.jpg){width=40% .left}In January 1907, Du Bois launched *Horizon: A Journal of the Color Line* in Washington, D.C. Freeman Murray and Lafayette M. Hershaw owned and operated the journal, with Du Bois as editor. *Horizon* gave voice to the Niagara Movement, the civil rights organization Du Bois had co-founded in 1905 to oppose segregation and disenfranchisement. It was sharper and broader than *The Moon*. Du Bois's "Over-Look" section challenged Washington's approach, criticized President Theodore Roosevelt on racial issues, and connected domestic racism to global systems of exploitation.
+Du Bois had tried twice before. *The Moon Illustrated Weekly* (1905-1906), launched in Memphis with Edward L. Simon and Harry Pace, never exceeded 500 subscribers. *Horizon: A Journal of the Color Line* (1907-1910), published in Washington, D.C. with Freeman Murray and Lafayette M. Hershaw, lasted longer and cut deeper. Du Bois's "Over-Look" column challenged Booker T. Washington's accommodationism, criticized President Theodore Roosevelt, and connected domestic racism to global exploitation.
 
-![](/Images/socialist_of_the_path2.jpg){width=40% .left}
+![](/Images/horizon.jpg){width=40% .left}
 
-<figure class="right" style="width: 40%;">
-![](/Images/horizon_payments.jpg "Du Bois, W. E. B. (William Edward Burghardt), 1868-1963. Letter from W. E. B. Du Bois to A. B. Humphrey, March 29, 1909. W. E. B. Du Bois Papers (MS 312). Special Collections and University Archives, University of Massachusetts Amherst Libraries"){width=100% .right}
-  <figcaption>
-    A 1909 letter from Du Bois annoucing a temporary suspension of *The Horizon* because of "lax business methods."
-  </figcaption>
-</figure>
-
-But *Horizon* faced persistent financial difficulties. Du Bois rejected subsidies, considering them "degrading and dangerous." The editors worked without salaries and covered the annual deficit out of their own pockets. Both ventures taught Du Bois what it took to run an independent Black publication, and what it cost.
+But *Horizon* bled money. Du Bois rejected subsidies as "degrading and dangerous." The editors worked without salaries and covered the deficit from their own pockets. Both ventures taught Du Bois what independent Black journalism cost, and what it could do.
 
 
 ##  Establishing *The Crisis* <span class="nowrap">(1910-1915)</span>
 
-![](/Images/nnc_ticket.jpg){width=40% .right}*The Crisis* grew out of the NAACP, and the NAACP grew out of a race riot. In August 1908, white mobs attacked Black residents of Springfield, Illinois, Abraham Lincoln's hometown. The violence shocked reformers across the country. Journalist William English Walling called for a national conference to address racial injustice, and the resulting National Negro Conference met in New York City on May 31 and June 1, 1909. Ida B. Wells-Barnett, William Monroe Trotter, W.E.B. Du Bois, and a coalition of white philanthropists and social reformers attended. The conference established the NAACP, an interracial organization committed to challenging racial discrimination through legal and political action.
+![](/Images/nnc_ticket.jpg){width=40% .right}*The Crisis* grew out of the NAACP, and the NAACP grew out of a race riot. In August 1908, white mobs attacked Black residents of Springfield, Illinois, Abraham Lincoln's hometown. The resulting National Negro Conference, held in New York City in May 1909, brought together Ida B. Wells-Barnett, William Monroe Trotter, Du Bois, and a coalition of white reformers. They established the NAACP, an interracial organization committed to challenging racial discrimination through legal and political action.
 
-The organizers recruited Du Bois, already a renowned scholar, as the executive committee's only African American member and director of Publications and Research. His writings had shaped the thinking of many of the NAACP's white founders. He saw the organization as a way to challenge Washington's accommodationist approach more directly than he could from his academic position.
+The organizers recruited Du Bois as the executive committee's only African American member and director of Publications and Research. Not every prominent activist found a place. Ida B. Wells had gained international recognition for her anti-lynching campaigns and her work as editor of the Memphis *Free Speech*. The organizers did not include her among the NAACP's founders. The reasons remain disputed. Either way, the omission showed how organizational politics could sideline even the movement's most experienced voices.
 
-Not every prominent activist found a place in the new organization. Ida B. Wells, who had gained international recognition for her anti-lynching campaigns and her work as editor of the Memphis *Free Speech*, was not included among the NAACP's founders. The reasons remain disputed: Du Bois later implied it was Wells's choice; Wells wrote in her autobiography that she was deliberately excluded. Either way, the omission showed how gender and organizational politics could sideline even the movement's most experienced voices.
+Du Bois [laid out his vision](Volumes/01/01/TheCrisis.html) in the first issue: *The Crisis* would set forth "those facts and arguments which show the danger of race prejudice." Its editorial page would "stand for the rights of men, irrespective of color or race, for the highest ideals of American democracy."
 
-Du Bois laid out his vision in the first issue. *The Crisis* would be "first and foremost a newspaper," recording "important happenings and movements in the world which bear on the great problem of inter-racial relations." It would review opinion and literature. And its editorial page would "stand for the rights of men, irrespective of color or race, for the highest ideals of American democracy." In that same issue, he made the case for [agitation itself](Volumes/01/01/Agitation.html): "A toothache is agitation. Is a toothache a good thing? No. Is it therefore useless? No. It is supremely useful, for it tells the body of decay, dyspepsia and death."
+The first issue appeared on November 1, 1910, with a print run of 1,000 copies and a subscription price of one dollar a year. Circulation reached 3,000 in January 1911, 6,000 in March. By April 1912, it had reached 22,500.
 
-The NAACP had no funds allocated for *The Crisis*, but Oswald Garrison Villard, owner of the New York Evening Post and The Nation, provided office space and provisional support.
-
-The first issue appeared on November 1, 1910, with a print run of 1,000 copies and a subscription price of one dollar a year. By December, Du Bois had doubled the page count and increased the run to 2,500. Circulation reached 3,000 in January 1911, 4,000 in February, 6,000 in March. By April 1912, it had reached 22,500.
-
-
-Du Bois focused *The Crisis* on lynching and racial violence, advocating for legal and political remedies. But he wanted the magazine to do more than report NAACP activities. Some board members saw *The Crisis* as an organizational newsletter. Du Bois saw it as a tool for mobilizing Black America.
-
-The magazine's structure reflected his ambition. "Along the Color Line" carried news items about Black communities, much like a small-town newspaper. The "Opinion" section featured Du Bois's commentary on events drawn from press coverage nationwide. He insisted that without this broader editorial vision, the NAACP would struggle to build its membership and influence. The stance put him at odds with board members who wanted a more cautious publication.
-
-Du Bois's editorials gave *The Crisis* its distinctive voice. He addressed taboo subjects like interracial marriage and critiqued not only white racism but also Black institutions he saw as ineffective.
-
-*The Crisis* targeted an educated Black audience, with articles on topics like "Colored High Schools," "Women's Clubs," and "The Colored College Athlete." But Du Bois also covered lynching, women's suffrage, labor issues, and socialism, reaching readers across class and educational lines.
-
-Photographs and artwork defined *The Crisis*'s visual identity. The magazine featured portraits of successful African Americans, using images to challenge racial stereotypes.
-
-Key collaborators helped build the magazine. Mary Maclean, a *New York Times* journalist, served as managing editor. Robert N. Wood, an African American printer, produced *The Crisis* at reduced cost.
-
-Readers, particularly in the growing Black middle class, treated *The Crisis* as more than a magazine. Families read it aloud and preserved issues for future reference.
-
-White reaction was mixed. Some progressive whites supported the magazine's mission. Others found its content too provocative.
-
-The magazine's success generated a deeper conflict between Du Bois and NAACP board chairman Oswald Garrison Villard. An experienced newspaper owner, Villard saw *The Crisis* as subject to his authority. Du Bois guarded his editorial independence and insisted that his role went beyond that of an employee. Their clashes extended to financial management and how Du Bois divided his time between the magazine and other NAACP work. The board, composed primarily of white progressives, worried that Du Bois's confrontational editorials would alienate white supporters.
-
-The conflicts intensified until Villard resigned as board chairman in 1913. The board incorporated *The Crisis* as a separate entity from the NAACP in 1914, an attempt to limit Du Bois's autonomy. But the magazine's financial success and its role in recruiting NAACP members gave Du Bois leverage that organizational charts could not override.
+Some board members saw *The Crisis* as an organizational newsletter. Du Bois saw it as a tool for mobilizing Black America. The distinction mattered. He addressed subjects the board considered taboo: interracial marriage, the failures of Black institutions, the complicity of white liberals. The magazine's success gave him leverage that organizational charts could not override. When NAACP board chairman Oswald Garrison Villard tried to bring *The Crisis* under his authority, the conflict intensified until Villard resigned in 1913.
 
 ##  War and Its Aftermath <span class="nowrap">(1916-1923)</span>
 
-When the United States entered World War I, Du Bois used *The Crisis* to cover the experiences of African American soldiers. The magazine documented military segregation and the mistreatment of Black troops in training camps in Georgia, Kansas, and Texas. African Americans were fighting for democracy abroad while facing systemic racism at home.
+When the United States entered World War I, Du Bois used *The Crisis* to document the experiences of Black soldiers: military segregation, mistreatment in training camps, the patriotic bargain the government asked Black Americans to accept. In July 1918, his editorial "[Close Ranks](Volumes/16/03/close_ranks.html)" urged Black Americans to "forget our special grievances and close our ranks shoulder to shoulder with our own white fellow citizens." The position drew sharp criticism. It seemed to contradict everything Du Bois had argued before.
 
-But Du Bois's wartime stance proved controversial. In his July 1918 editorial "[Close Ranks](Volumes/16/03/close_ranks.html)," he urged: "Let us, while this war lasts, forget our special grievances and close our ranks shoulder to shoulder with our own white fellow citizens and the allied nations that are fighting for democracy." The position drew sharp criticism from many African Americans and NAACP members, since it seemed to contradict Du Bois's previous advocacy for immediate civil rights reforms. The controversy was further fueled by Du Bois's consideration of a military intelligence position, leading to accusations of a quid pro quo arrangement. Although Du Bois denied any connection between the editorial and the job offer, the incident damaged his reputation and led to increased scrutiny of *The Crisis* by the NAACP board.
+The May 1919 issue, which documented the mistreatment of Black troops in France, sold a record 106,000 copies. Its centerpiece was "[Returning Soldiers](Volumes/18/01/returning_soldiers.html)":
 
-Du Bois continued to investigate the treatment of African American troops. In December 1918, he traveled to France as part of the official press delegation to the Paris Peace Conference, where he gathered firsthand accounts. The May 1919 issue, which included documents about the mistreatment of Black troops, sold a record 106,000 copies. Its centerpiece was "[Returning Soldiers](Volumes/18/01/returning_soldiers.html)," one of the most powerful editorials Du Bois ever wrote:
+> For bleeding France and what she means and has meant and will mean to us and humanity and against the threat of German race arrogance, we fought gladly and to the last drop of blood; for America and her highest ideals, we fought in far-off hope; for the dominant southern oligarchy entrenched in Washington, we fought in bitter resignation.
 
-> We are returning from war! … For bleeding France and what she means and has meant and will mean to us and humanity and against the threat of German race arrogance, we fought gladly and to the last drop of blood; for America and her highest ideals, we fought in far-off hope; for the dominant southern oligarchy entrenched in Washington, we fought in bitter resignation.
+The editorial closed with lines that defined the postwar mood: "We *return*. We *return from fighting*. We *return fighting*. Make way for Democracy! We saved it in France, and by the Great Jehovah, we will save it in the United States of America, or know the reason why."
 
-The editorial closed with lines that would define the postwar mood of Black America: "We *return*. We *return from fighting*. We *return fighting*. Make way for Democracy! We saved it in France, and by the Great Jehovah, we will save it in the United States of America, or know the reason why."
+The compact broke. During the Red Summer of 1919, race riots and lynchings swept across the country. Du Bois documented the violence and demanded federal anti-lynching legislation. He covered the Great Migration, traveling through the South to report on why people were leaving. As a Mississippi preacher told *The Crisis*, "The leaders of the race are powerless to prevent his going. They had nothing to do with it. ... The movement started without any head from the masses, and such movements are always significant."
 
-Racial violence escalated after the war. During the "Red Summer" of 1919, race riots and lynchings swept across the country. Du Bois used *The Crisis* to document the violence in cities like East St. Louis and Houston, and to demand federal anti-lynching legislation.
+Du Bois expanded *The Crisis*'s international reach. In February 1919, he organized the Pan-African Congress in Paris, connecting the domestic struggle against racism to global anti-colonial movements. He also took on Marcus Garvey and the Universal Negro Improvement Association, moving from cautious observation to financial forensics to outright denunciation.
 
-The Great Migration, the massive movement of African Americans from the rural South to northern and western cities, drew sustained coverage in *The Crisis*. In early 1917, Du Bois traveled through the South to report on why people were leaving. He encouraged migration while acknowledging the difficulties that awaited in the North.
+By 1919, monthly circulation exceeded 100,000, surpassing *The New Republic* and *The Nation*. But the early 1920s brought a sharp decline. Circulation fell to 53,000 by April 1921, straining the magazine's finances and deepening tensions with the NAACP board.
 
-As a Mississippi preacher told *The Crisis*, "The leaders of the race are powerless to prevent his going. They had nothing to do with it, and, indeed, all of them, for obvious reasons, are opposed to the exodus. The movement started without any head from the masses, and such movements are always significant." The magazine tracked how the influx of African Americans changed northern cities, labor markets, and racial dynamics in both regions.
-
-Du Bois also expanded *The Crisis*'s international focus. In February 1919, he organized the Pan-African Congress in Paris, bringing together delegates from 16 nations to discuss colonialism and racial oppression. The Congress called for better treatment of African colonies and greater international oversight. Du Bois used *The Crisis* to promote pan-Africanism and to connect the domestic struggle against racism to global anti-colonial movements.
-
-Du Bois also faced a challenge from Marcus Garvey and his Universal Negro Improvement Association (UNIA). At first cautious, Du Bois observed Garvey's movement without confrontation. But as Garvey's influence grew, Du Bois used *The Crisis* to publish detailed critiques of the Black Star Line and other UNIA ventures. Du Bois advocated for integration and civil rights within the United States; Garvey promoted racial separatism and a return to Africa.
-
-By 1919, *The Crisis*'s monthly circulation exceeded 100,000, surpassing *The New Republic* and *The Nation*. The magazine's reach allowed Du Bois to launch new initiatives, including *The Brownie's Book*, a children's magazine.
-
-Du Bois explained the need by quoting [a letter from a young reader](Volumes/18/06/true_brownies.html): "I want to learn more about my race, so I want to begin early. … *I hate the white man just as much as he hates me and probably more!*" His response: "Think of this from twelve little years! And yet, can you blame the child?" *The Brownie's Book* would "seek to teach Universal Love and Brotherhood for all little folk, black and brown and yellow and white." Du Bois, with co-editors Jessie Redmon Fauset and Augustus Granville Dill, filled each issue with stories, poems, biographies, and articles on African American history. The magazine ran for only two years before financial constraints ended it, but it influenced African American children's literature for decades.
-
-The early 1920s brought a sharp decline. Circulation fell from over 100,000 in August 1919 to 53,000 in April 1921. The drop strained *The Crisis*'s finances and deepened tensions between Du Bois and the NAACP board.
 
 ##  The Harlem Renaissance and Beyond <span class="nowrap">(1924-1928)</span>
 
-During the Harlem Renaissance, *The Crisis* became a launching pad for African American writers. The magazine's literary contests, especially the Krigwa awards, gave emerging voices a path to publication and recognition.
+*The Crisis* became a launching pad for Black writers. Jessie Redmon Fauset, the magazine's literary editor from 1919 to 1926, identified and promoted new talent: Langston Hughes, Countee Cullen, Jean Toomer. Hughes gained early recognition when *The Crisis* published "The Negro Speaks of Rivers" in 1921. The magazine's Krigwa literary contests gave emerging voices a path to publication. Visual artists found a platform too. Aaron Douglas's style became synonymous with the Harlem Renaissance, and the sculptor Augusta Savage gained early recognition in its pages.
 
-Jessie Redmon Fauset, the magazine's literary editor from 1919 to 1926, was central to this effort. Herself a novelist, Fauset identified and promoted new talent, including Langston Hughes, Countee Cullen, and Jean Toomer. Hughes gained early recognition when *The Crisis* published his poem "The Negro Speaks of Rivers" in 1921.
+Du Bois stated his own position in "[Criteria of Negro Art](Volumes/32/06/criteria_of_negro_art.html)" (1926): "Thus all Art is propaganda and ever must be, despite the wailing of the purists. I stand in utter shamelessness and say that whatever art I have for writing has been used always for propaganda for gaining the right of black folk to love and enjoy. I do not care a damn for any art that is not used for propaganda."
 
-The magazine also published established figures. Zora Neale Hurston contributed several pieces, and E. Franklin Frazier used *The Crisis* as a venue for his analyses of racial inequality.
-
-The magazine's commitment to Black artistic expression extended beyond literature. It featured photographs of prosperous African American citizens and Greek letter organizations, visually reinforcing Du Bois's vision of racial uplift. It showcased visual artists like Aaron Douglas, whose style became synonymous with the Harlem Renaissance, and gave early recognition to the sculptor Augusta Savage.
-
-*The Crisis* also launched future leaders. A young Thurgood Marshall published his early writings in the magazine. Paul Robeson used it to express his views on art and politics.
-
-*The Crisis* also became a forum for debates about how Black life should be represented in art. Du Bois stated his position in his 1926 essay "[Criteria of Negro Art](Volumes/32/06/criteria_of_negro_art.html)": "Thus all Art is propaganda and ever must be, despite the wailing of the purists. I stand in utter shamelessness and say that whatever art I have for writing has been used always for propaganda for gaining the right of black folk to love and enjoy. I do not care a damn for any art that is not used for propaganda."
-
-The stance put him at odds with younger artists who wanted to explore the full range of Black experience. His criticism of Claude McKay's *Home to Harlem* for its portrayal of Black urban life captured the generational divide.
-
-Through the 1920s, *The Crisis* placed growing emphasis on education and economic development. The magazine published special annual issues on higher education, reporting on Black colleges and advocating for more African American faculty and administrators.
-
-Du Bois's thinking about his "Talented Tenth" concept was shifting. He still believed in the importance of higher education, but he criticized growing materialism among college-educated African Americans. He called for curriculum reform in Black colleges, urging more vocational training and industrial planning. He championed a "closed economic circle" within the Black community: cooperative businesses and collective investment. But the Black middle class often prioritized individual advancement over collective strategies, and the cooperative vision gained little traction.
-
-##  Economic Crisis and Ideological Shifts <span class="nowrap">(1929-1932)</span>
-
-The Great Depression hit *The Crisis* hard. By 1932, monthly circulation had fallen to approximately 15,000, a fraction of its wartime peak. The financial decline threatened the magazine's survival and compromised Du Bois's editorial independence, as *The Crisis* grew increasingly reliant on NAACP subsidies.
-
-Du Bois used the magazine to document the Depression's disproportionate impact on Black Americans, criticizing the inadequacy of government responses and calling for economic interventions aimed at African American communities.
-
-Du Bois had already declared himself a socialist in the pages of *The Crisis*. "The editor of *The Crisis* considers himself a Socialist," he [wrote in 1921](Volumes/22/03/negro_and_radical_thought.html), "but he does not believe that German State Socialism or the dictatorship of the proletariat are perfect panaceas. He believes with most thinking men that the present method of creating, controlling and distributing wealth is desperately wrong." As the Depression deepened, *The Crisis* became a forum for discussions of socialism, communism, and cooperative economics. Du Bois's growing conviction that capitalism had failed put him at odds with more conservative NAACP leaders.
-
-Du Bois's interest in alternative economic models predated the Depression. A two-month trip to the Soviet Union in 1926 impressed him with what he perceived as a society striving for equality through education and workers' empowerment. He noted the apparent lack of racial prejudice and declared that if what he had seen was Bolshevism, he was a Bolshevik. He remained cautious about communist ideology, but the visit deepened his engagement with Marxist thought. He came to view class struggle as comparable in magnitude to racial oppression, while insisting that American race relations complicated any straightforward application of Marxist analysis.
-
-In 1932, *The Crisis* published a symposium titled "Negro Editors on Communism," exploring Marxism's relevance to Black Americans. The symposium risked alienating moderate readers, but Du Bois pressed the question. It sparked debates among Black leaders about economic strategy in the Depression.
-
-The Depression also pushed Du Bois to reconsider his stance on integration. He began exploring Black self-sufficiency and economic separatism as strategies for community development. These ideas departed from his earlier positions and from the NAACP's core principles. Some readers saw pragmatism; others saw retreat.
-
-At the NAACP's 1932 annual conference, Du Bois presented a four-point program: decentralization, a positive economic agenda, linking global and American racial issues, and greater youth involvement. Walter White and other NAACP leaders resisted. The divide over strategy was widening.
-
-The magazine's finances made the conflict urgent. By late 1932, Du Bois was using part of his own salary to keep *The Crisis* afloat. The NAACP board considered suspending publication. Board chair Joel Spingarn arranged a professorship for Du Bois at Atlanta University, anticipating the end of his editorship.
+The stance put him at odds with younger artists who wanted to explore the full range of Black experience. But Du Bois was not hostile to the new voices. "Even as we ask 'Where are the young Negro artists to mold and weld this mighty material about us?'" he [wrote](Volumes/27/04/younger_movement.html), "even as we ask, they come."
 
 
-##   Final Struggles and Departure <span class="nowrap">(1933-1934)</span>
+##  Economic Crisis and Ideological Shifts <span class="nowrap">(1929-1934)</span>
 
-In January 1934, Du Bois published a provocative editorial titled "[Segregation](Volumes/41/01/segregation.html)" in *The Crisis*. Its opening line was a direct challenge: "The thinking colored people of the United States must stop being stampeded by the word segregation." Du Bois argued that the real enemy was not segregation itself but discrimination. "There should never be an opposition to segregation pure and simple unless that segregation does involve discrimination." He called instead for Black Americans to "accomplish economic emancipation through voluntary determined cooperative effort." The stance was a sharp departure from the NAACP's longstanding opposition to all forms of segregation.
+The Great Depression hit *The Crisis* hard. Circulation fell to approximately 15,000 by 1932. Du Bois used part of his own salary to keep the magazine afloat.
 
-Du Bois advocated for cooperative and collective economies within the Black community, drawing on his renewed study of Marxist thought to develop a comprehensive economic program.
+Du Bois had already declared himself a socialist: "The editor of *The Crisis* considers himself a Socialist," he [wrote in 1921](Volumes/22/03/negro_and_radical_thought.html), "but he does not believe that German State Socialism or the dictatorship of the proletariat are perfect panaceas." A two-month trip to the Soviet Union in 1926 deepened his engagement with Marxist thought. He came to view class struggle as comparable in magnitude to racial oppression, while insisting that American race relations complicated any simple application of Marxist analysis.
 
-The reaction was swift. Many civil rights leaders viewed his stance on segregation as a betrayal of the NAACP's core principles. Critics argued that embracing any form of segregation, even as a means to economic empowerment, would undermine decades of work toward racial equality.
+As the Depression deepened, Du Bois's thinking shifted. Individual Black enterprise was futile: chain stores destroyed independent shopkeepers, unions excluded Black workers, manufacturing was closed. His answer was consumers' cooperatives modeled on English, Scandinavian, and Russian examples. The answer was cooperative self-organization.
 
-The segregation editorials deepened existing tensions between Du Bois and Walter White. Since 1932, they had clashed over editorial control of *The Crisis* and the NAACP's broader direction. Du Bois resisted attempts to bring the magazine under closer organizational oversight, seeing them as threats to his independence. When he used *The Crisis* to criticize the NAACP's own approach to civil rights, the conflict became personal.
+In January 1934, he published "[Segregation](Volumes/41/01/segregation.html)," a direct challenge to the NAACP's core position: "The thinking colored people of the United States must stop being stampeded by the word segregation." He argued that the real enemy was not segregation itself but discrimination. He called for Black Americans to "accomplish economic emancipation through voluntary determined cooperative effort."
 
-Du Bois pushed for a fundamental reorganization: more working-class involvement in NAACP decision-making and a more democratic structure. The board resisted. Du Bois's critiques of White grew sharper, and White consolidated his own power within the organization. The appointment of Roy Wilkins to the board of *The Crisis* Publishing Company, which Du Bois opposed, strained relations further.
+In May 1934, the NAACP board voted to prohibit salaried officers from criticizing the association's policies in *The Crisis*. Du Bois [resigned](Volumes/41/08/dr_dubois_resigns.html) on June 26. "So long as I sit by quietly consenting, I share responsibility," he wrote. "If I criticize within, my words fall on deaf ears. If I criticize openly, I seem to be washing dirty linen in public. There is but one recourse, complete and final withdrawal."
 
-In May 1934, the NAACP board voted to prohibit salaried officers from criticizing the association's policies in *The Crisis*. Du Bois [resigned](Volumes/41/08/dr_dubois_resigns.html) on June 26, 1934. "So long as I sit by quietly consenting, I share responsibility," he wrote. "If I criticize within, my words fall on deaf ears. If I criticize openly, I seem to be washing dirty linen in public. There is but one recourse, complete and final withdrawal."
+The NAACP board accepted the resignation with a tribute: "He created, what never existed before, a Negro intelligentsia, and many who have never read a word of his writings are his spiritual disciples and descendants."
 
-The NAACP board accepted the resignation with a tribute that acknowledged what it was losing: "He created, what never existed before, a Negro intelligentsia, and many who have never read a word of his writings are his spiritual disciples and descendants. Without him the Association could never have been what it was and is."
+As Du Bois [wrote in 1925](Volumes/30/01/new_crisis.html), *The Crisis* had been "an enormous task for a magazine of 52 pages, selling for 15 cents and paying all of its own expenses out of that 15 cents and not out of the bribes of Big Business." That he sustained it for twenty-four years is itself a measure of what independent Black journalism could accomplish.
 
-The departure divided opinion. Some saw it as necessary to maintain the NAACP's direction; others saw the loss of the movement's most powerful editorial voice. The Baltimore *Afro-American* suggested it was time for Du Bois to retire. A generational shift in civil rights leadership was underway.
+## What the Editorials Reveal
 
-Du Bois's departure in 1934 marked the end of an era. Over a quarter century, he had transformed a modest organizational newsletter into a publication that shaped public opinion, nurtured Black literary talent, and expanded civil rights discourse to encompass class, gender, and global politics. As he wrote in 1925, it was "an enormous task for a magazine of 52 pages, selling for 15 cents and paying all of its own expenses out of that 15 cents and not out of the bribes of Big Business." That he sustained it for twenty-four years is itself a measure of what independent Black journalism could accomplish.
+Read across twenty-four years, the 709 editorials collected here organize themselves around a set of interlocking problems. Du Bois returned to the same questions month after month, but his answers evolved. The collection makes that evolution visible.
 
-The tensions that ran through Du Bois's editorship have not disappeared. How should a movement balance protest with institutional respectability? When does pragmatic accommodation become capitulation? Can a publication serve both an organization and an independent editorial vision? These questions shaped *The Crisis* from its first issue to its editor's resignation, and they continue to shape civil rights advocacy today.
+**The machinery of separation.** Du Bois wrote about [segregation](browse/themes/segregation.qmd) in 144 separate editorials. Jim Crow cars, federal civil service segregation under Woodrow Wilson, residential restrictions, the social equality debates that white newspapers used to deflect every other argument. He attacked the system as undemocratic, unscientific, and spiritually degrading.
+
+**The machinery of terror.** [Lynching](browse/themes/racial-violence.qmd) is the single largest subject in the collection, appearing in 134 editorials. Du Bois treated it not as aberration but as system: state-sanctioned, economically motivated, legally protected. He moved from statistical documentation to investigative reporting (the East St. Louis massacre, the Phillips County killings) to structural analysis of how mobs worked. By the late years, his conclusion was stark: "the police IS the mob. The courts ARE the lynchers."
+
+**The machinery of law.** Legal injustice runs through the corpus: the Scottsboro case, the Sweet trial, the Dyer Anti-Lynching Bill's repeated failure. Du Bois documented how courts ratified what mobs enforced. When Black communities fought back, as at Houston and during Red Summer, the law punished the defenders.
+
+**The paradox.** In his final editorial year, Du Bois held the contradiction without resolving it. Compulsory segregation was evil. Yet under compulsory segregation, the segregated had to build excellence. The arc from his first attack on segregation in 1910 through "[On Being Crazy](Volumes/26/01/on_being_crazy.html)" (1923) to "[Separation and Self-Respect](Volumes/41/05/separation_and_self_respect.html)" (1934) is the intellectual drama of the entire editorship.
+
+**War and the broken compact.** The [war editorials](browse/themes/war.qmd) form their own narrative. Du Bois constructed a patriotic bargain, tested it, and watched it fail. Black soldiers served; America refused to honor the debt. "Returning Soldiers" is the moment the compact breaks.
+
+**The fight for the ballot.** Du Bois wrote about [voting and elections](browse/themes/voting.qmd) in 131 editorials, hammering the same arguments: the Fourteenth Amendment required reduced representation for disfranchising states; Black voters had to practice strategic bloc voting; neither party delivered.
+
+**The structures of exclusion.** Labor, economics, and [education](browse/themes/education.qmd) account for nearly 200 editorials combined. White unions excluded Black workers. White philanthropy controlled Black schools. Du Bois's economic thinking evolved from individual enterprise to cooperative self-organization.
+
+**The global color line.** Du Bois framed American racism as part of a global system. Africa, Haiti, India, Ireland were one story. The [Pan-African Congress](browse/themes/pan-africanism.qmd) documents were programmatic; the Africa travel writings were lyrical; the geopolitical analyses connected Jim Crow to European imperialism.
+
+**The soul.** Religion, Christianity, and moral argument run through 45 editorials. "Jesus Christ in Georgia" imagined Christ as a mulatto, nearly lynched. "The Christmas Prayers of God" described God witnessing a lynching and falling silent. Du Bois framed racial justice as the test of Christian sincerity, and found Christianity failing.
+
+**Women's rights.** Du Bois linked woman suffrage to racial justice early and consistently, in 41 editorials across the full run. When writing about Black women voters at the 1920 election, pragmatism warmed into something close to tenderness.
+
+**Art and self-representation.** From "In Black" (anticipating "Black is Beautiful" by fifty years) through the Harlem Renaissance criticism to "Criteria of Negro Art" and the Krigwa theatre manifesto ("About us, By us, For us, Near us"). Du Bois was cultural critic, literary reviewer, and builder of Black institutions.
+
+**The artist.** Alongside the polemicist and sociologist, a different Du Bois appears in the collection: a fiction writer, poet, and satirist. "[The Princess of the Hither Isles](Volumes/06/06/princess_of_hither_isles.html)" is allegorical fable. "[On Being Crazy](Volumes/26/01/on_being_crazy.html)" is Socratic dialogue anticipating absurdist literature. "Chamounix" is a prose poem about Mont Blanc with no politics at all. These pieces appear when argumentative patience is exhausted and Du Bois turns to parable.
+
+
+## How the Voice Changes
+
+The editorials also reveal how Du Bois's voice evolved. In the founding years (1910-1914), the dominant mode is the public intellectual asserting facts against comfortable myths. The persona is confident, the project new. Du Bois genuinely believes truth-telling will change minds.
+
+The war years (1914-1921) transform him. Documentation mode gives way to strategic calculation, then to prophetic denunciation. "Returning Soldiers" burns away the restraint of the earlier years. The prosecutorial accumulation of evidence, lynching after lynching and broken promise after broken promise, reaches maximum force as America fights for democracy abroad while denying it at home.
+
+The mid-1920s add new registers: a generous, expansive voice for art criticism and cultural life; a weary, forensic one for politics; and a global analytical framework through Pan-Africanism. Three streams merge: the Harlem Renaissance as cultural evidence, Pan-Africanism as analytical framework, and economic radicalization as structural explanation for why moral appeals fail.
+
+In the final years, the paradox becomes the central rhetorical form. Du Bois holds contradictions without collapsing them. Segregation is evil, and the segregated must build. Russia is hope, and white workers are the obstacle. The NAACP is limited, and indispensable. The tone darkens from prophetic outrage to weary realism. "No one living," he wrote, "is going to see that day."
+
 
 ## Exploring the Collection
 
-This site collects over 700 of Du Bois's writings from *The Crisis*, spanning the magazine's founding in 1910 through his departure in 1934. The articles can be [browsed chronologically](listing.qmd) or explored by [subject](browse.qmd), including topics like [lynching](browse/subjects/lynching.html), [voting rights](browse/subjects/voting_rights.html), and [Pan-Africanism](browse/subjects/pan_africanism.html). They can also be explored by the [people](browse.qmd), [places](browse.qmd), and [organizations](browse.qmd) that appear in them.
-
-For readers new to Du Bois's *Crisis* writings, a few landmarks: "[Returning Soldiers](Volumes/18/01/returning_soldiers.html)" (1919) captures Du Bois at his most rhetorically powerful. "[Criteria of Negro Art](Volumes/32/06/criteria_of_negro_art.html)" (1926) lays out his philosophy of art and politics. "[Segregation](Volumes/41/01/segregation.html)" (1934) is the editorial that triggered his departure. And the very first issue contains both his [statement of purpose](Volumes/01/01/TheCrisis.html) and his case for "[Agitation](Volumes/01/01/Agitation.html)" itself.
+This site collects over 700 of Du Bois's writings from *The Crisis*, spanning the magazine's founding in 1910 through his departure in 1934. The articles can be [browsed chronologically](listing.qmd) or explored by [subject](browse.qmd), including topics like [lynching](browse/themes/racial-violence.qmd), [education](browse/themes/education.qmd), [voting rights](browse/themes/voting.qmd), and [Pan-Africanism](browse/themes/pan-africanism.qmd). They can also be explored by the [people](browse/people/), [places](browse/places/), and [organizations](browse.qmd) that appear in them.
 
 The [article map](map.html) visualizes the entire collection, with articles positioned by semantic similarity. Articles that address related themes cluster together, revealing patterns in Du Bois's editorial attention across twenty-four years.
+
+For readers new to the collection, a few entry points: "[Agitation](Volumes/01/01/Agitation.html)" (1910) establishes the editorial posture from the first issue. "[Returning Soldiers](Volumes/18/01/returning_soldiers.html)" (1919) captures Du Bois at his most rhetorically powerful. "[Criteria of Negro Art](Volumes/32/06/criteria_of_negro_art.html)" (1926) lays out his philosophy of art and politics. "[The Princess of the Hither Isles](Volumes/06/06/princess_of_hither_isles.html)" (1913) reveals the fiction writer. And "[Segregation](Volumes/41/01/segregation.html)" (1934) is the editorial that ended his editorship.
+
 
 ## Resources
 
