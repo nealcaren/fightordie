@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: May 1925
-categories: []
 subjects:
   - Negro spirituals
   - African influences on African American music
@@ -35,6 +34,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Art & Culture"
+  - "The South"
 ---
 
 <h2>The Book of American Negro Spirituals</h2> 

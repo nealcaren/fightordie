@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jun. 1917
-categories: []
 subjects:
   - Racial segregation — legal challenges
   - Civil rights litigation (NAACP legal strategy)
@@ -37,6 +36,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Segregation"
 ---
 
 > Minneapolis Branch and friends of the Northwest join in grateful thanks and congratulations to you, Storey, Spingarn, Villard, and army of leaders, and friends who secured the splendid victory in Segregation fight. It is the most consoling and inspiring news received within a quarter century.    

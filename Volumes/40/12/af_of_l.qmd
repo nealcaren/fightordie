@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Dec. 1933
-categories: []
 subjects:
   - Racial exclusion in labor unions
   - Open shop movement
@@ -34,6 +33,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Labor & Economics"
 ---
 
 The most sinister power that the N.R.A. has re-inforced is the American Federation of Labor. The American Federation of Labor never did represent the labor movement and represents it less today than in the past. It is a petty bourgois organization, with all the ideals of the small capitalists and with the desire and program to increase the wages of a small class of skilled and favorably situated laborers at the expense of the mass of the working people. The A. F. of L. has discriminated against Jews, Italians, Slovaks and Negroes, and it has discriminated against white Americans, whenever chance or opportunity came; high wage for the few even if that involved aiding in the exploitation of common labor and being bribed by employers to keep labor peace when the mass of laborers is receiving less than the living wage and indecent treatment. The extremes to which this movement has gone is illustrated by the engineers who started a bank in Cleveland to perform the same kind of functions that any capitalist bank would form and which ran a mine in West Virginia with non-Union labor.

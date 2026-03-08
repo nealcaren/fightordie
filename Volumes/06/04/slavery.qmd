@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1913
-categories: []
 subjects:
   - Disfranchisement — South Africa
   - Racialized labor exploitation — South African mines
@@ -34,6 +33,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Pan-Africanism & Empire"
+  - "Labor & Economics"
 ---
 
 The civilization of South Africa, by means of theft, disfranchisement and slavery, goes on apace. Recently the better-paid white workingmen who have long been attempting to climb to affluence and democracy on the necks of black slaves have been led to strike. London papers thus detail their reasons:

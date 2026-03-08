@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Apr. 1911
-categories: []
 subjects:
   - Educational inequality (race-based exclusion from higher education)
   - Racial discrimination in admissions (higher education)
@@ -38,6 +37,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Education"
+  - "Art & Culture"
 ---
 
 A curious thing happened at Harvard last fall. A boy walked from Mississippi and sought to enter the college because he wanted to learn to write.

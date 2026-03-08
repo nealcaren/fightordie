@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1918
-categories: []
 subjects:
   - Federal ownership of railroads
   - Segregation in public transportation (Jim Crow laws)
@@ -34,6 +33,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Segregation"
+  - "Labor & Economics"
 ---
 
 The Railroads.

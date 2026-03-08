@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1919
-categories: []
 subjects:
   - Arson attacks on Black churches and schools
   - Lynching and mob violence
@@ -35,6 +34,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Racial Violence"
+  - "The South"
 ---
 
 There are signs---faint and few, but hopeful---that the South is slowly learning the inevitable lesson that no true democracy can be confined to a sex or a race and live.

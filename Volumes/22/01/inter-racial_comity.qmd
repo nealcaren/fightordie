@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: May 1922
-categories: []
 subjects:
   - Interracial committees / interracial cooperation
   - Voting rights
@@ -34,6 +33,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Segregation"
+  - "Internal Debate"
 ---
 
 There are persons who assume that the N.A.A.C.P. and particularly <span class="crisis-title">The Crisis</span> are opposed to the Inter-racial Committees in the South and to any efforts of white Southerners to settle the problems of race. This is a singu­lar misapprehension. On the contrary, we count it as one of the great results of the N.A.A.C.P., that its persistent fight in the last ten years has aroused and even compelled the South to attempt its own internal reform. Can we not remember the day, but 20 years since, when conferences on the Negro were confined to white men because white Southerners would not sit with Negroes? That day is gone and gone forever, and the N.A.A.C.P. prepared its passports.

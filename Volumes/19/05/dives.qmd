@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1920
-categories: []
 subjects:
   - Lynching
   - Voting rights suppression (African Americans)
@@ -35,6 +34,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Labor & Economics"
+  - "Racial Violence"
 ---
 
 He sat in a massive arm-chair, before a carved mahogany desk. Beneath him lay a Turkish rug, and behind him, through the window, one saw his steel mills, minting millions. 

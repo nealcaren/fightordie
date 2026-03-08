@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Aug. 1933
-categories: []
 subjects:
   - Negro colleges (higher education for African Americans; HBCUs)
   - Educational inequality and school segregation
@@ -35,6 +34,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Education"
+  - "Segregation"
 ---
 
 *This is part of an address on "The Field and Function of a Negro College," delivered at the annual alumni reunion during commencement week at Fisk University last June. The complete address has been issued in pamphlet form by the University.*

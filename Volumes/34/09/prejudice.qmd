@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Nov. 1927
-categories: []
 subjects:
 - Racial prejudice
 - Race relations
@@ -33,6 +32,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Segregation"
 ---
 
 We have received from Mrs. Helen D. Pecu of Vashon Islands, Washington, the following letter:

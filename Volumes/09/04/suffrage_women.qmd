@@ -6,13 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1915
-categories:
-  - Woman Suffragesubjects:
-  - Women's suffrage
-  - Race and suffrage
-  - Nativism and immigration in electoral politics
-  - Voting rights and democracy
-  - Urban electoral politics (New York)
 people:
   - W. E. B. Du Bois
 places:
@@ -32,6 +25,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Women's Rights"
+  - "Voting & Elections"
 ---
 
 The woman suffrage movement this year needs special protection against

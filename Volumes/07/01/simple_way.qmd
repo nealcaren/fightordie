@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: May 1913
-categories: []
 subjects:
   - Accommodationist/self‑help rhetoric (racial uplift ideology)
   - Jim Crow segregation (segregated facilities, "Jim Crow" cars)
@@ -29,6 +28,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Internal Debate"
+  - "Segregation"
 ---
 
 Some  ways of life are so simple. There was, for instance, a few years

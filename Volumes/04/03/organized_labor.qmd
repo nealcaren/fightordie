@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jan. 1912
-categories: []
 subjects:
   - Racial exclusion in labor unions
   - Labor solidarity and racial divisions
@@ -36,6 +35,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Labor & Economics"
+  - "Segregation"
 ---
 
 <span class="crisis-title">The Crisis</span> believes in organized labor. It realizes that the standard of living among' workers has been raised in the last half century through the efforts and sacrifice of laborers banded together in unions, and that all American labor to-day, white, black and yellow, benefits from this great movement. 

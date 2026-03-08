@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Oct. 1920
-categories: []
 subjects:
 - Labor organizing and strikes
 - Churches — social responsibility (religious hypocrisy)
@@ -37,6 +36,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Religion & Morality"
+  - "Labor & Economics"
 ---
 
 We trust the Negro world has watched with intelligent comprehension the extraordinary conjunction of Church and Steel in recent events. When the Interchurch movement came <span class="crisis-title">The Crisis</span> was dumb with astonishment. Was it possible that the white followers of Jesus Christ were actually going to forget Infant Damnation and Justification by Faith long enough to work together for education, the abolition of child labor, opposition to race prejudice, co-operation in national missionary effort, social uplift and fair wages? As the survey progressed and the Negro and Africa were included and, too, not in the appendix, it looked as though the Christian Church was about to be reborn.

@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Apr. 1918
-categories: []
 subjects:
   - African American military service (World War I)
   - Military recruitment of Black skilled labor and technicians
@@ -39,6 +38,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "War & Military"
 ---
 
 Field Artillery has become a highly specialized instrument of great precision. Front line trenches are frequently less than a hundred yards apart and nothing discourages your own infantry more than to receive a shell that was intended for the next trench. When the men of the 92nd Division go "over the top" they will frequently follow an accompanying barrage as close as a hundred yards.

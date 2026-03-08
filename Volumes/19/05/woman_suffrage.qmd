@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1920
-categories: []
 subjects:
   - Women's suffrage
   - Voter registration
@@ -30,6 +29,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Women's Rights"
+  - "Voting & Elections"
 ---
 
 Thirty-one states, with a population of 681,325 colored women, 21 years of age and over, in 1910, and at least 750,000 today, have ratified the proposed Woman Suffrage Amendment:

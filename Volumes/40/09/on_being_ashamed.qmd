@@ -7,7 +7,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Sep. 1933
-categories: []
 subjects:
   - Racial pride (Marcus Garveyism)
   - Internalized racism / self-shame
@@ -34,6 +33,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Internal Debate"
+  - "Segregation"
 ---
 
 My Grandfather left a passage in his diary expressing his indignation at receiving an invitation to a "Negro" picnic. Alexander DuBois, born in the Bahamas, son of Dr. James DuBois of the well-known DuBois family of Poughkeepsie, N. Y., had been trained as a gentleman in the Cheshire School of Connecticut, and the implications of a Negro picnic were anathema to his fastidious soul. It meant close association with poverty, ignorance and suppressed and disadvantaged people, dirty and with bad manners.

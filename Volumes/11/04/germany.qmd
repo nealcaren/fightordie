@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1916
-categories: []
 subjects:
   - German colonialism
   - Herero and Namaqua genocide
@@ -38,6 +37,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "War & Military"
+  - "Pan-Africanism & Empire"
 ---
 
 Someone writes to ask what the effect on the Negro will be if Germany should triumph in the present war. We do not for a moment pretend that the German people are ogres and the Allies saints, but we confess that based on unchallenged records there can be no doubt that Germany's attitude toward colored races is indefensible.

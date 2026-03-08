@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Apr. 1916
-categories: []
 subjects:
   - Anti-miscegenation laws
   - Judicial enforcement of racial segregation
@@ -35,6 +34,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Segregation"
 ---
 
 There are those who from time to time suggest that the National

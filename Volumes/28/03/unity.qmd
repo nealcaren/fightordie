@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Jan. 1924
-categories: []
 subjects:
 - Civil rights and equal citizenship
 - Voting rights and political power
@@ -35,6 +34,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Internal Debate"
 ---
 
 Within the Negro race we are continually scoring ourselves for lack of unity and we are holding up other races and other groups as splendid examples of perfect agreement. We forget in this criticism one thing: the basis of all advance and development is Diversity; the characteristic of stagnation and death is Unity. Any attempt in a growing organism to make all of its factors act alike, is simply and definitely to stop growth.

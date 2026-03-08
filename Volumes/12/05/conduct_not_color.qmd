@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1916
-categories: []
 subjects:
   - Racial discrimination
   - Color prejudice / the color line
@@ -31,6 +30,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Segregation"
 ---
 
 A number of papers have been repeating a recent dictum that it is conduct, not color, that counts in the advance  of the Negro race. We wish this were the truth; but it is not the truth and those who say it know that it is not the truth. Conduct counts, but color counts more. It is this that constitutes the Negro problem.

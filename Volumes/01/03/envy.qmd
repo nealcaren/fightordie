@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jan. 1911
-categories: []
 subjects:
   - Black leadership disputes
   - Critique of Booker T. Washington
@@ -32,6 +31,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Internal Debate"
 ---
 
 It is unfortunate that in the recent newspaper discussion of an Appeal to Europe sent out not by this Association but by a number of colored men of influence and standing, reference was constantly made to the lowest personal motives and seldom to the arguments presented.

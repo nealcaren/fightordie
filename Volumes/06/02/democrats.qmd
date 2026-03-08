@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Jun. 1913
-categories: []
 subjects:
 - Lynching
 - Disfranchisement
@@ -33,6 +32,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Voting & Elections"
+  - "Racial Violence"
 ---
 
 The Democratic party has been in power three months and the colored population is still free. Only one Negro official has been summarily, and rather rudely, dismissed from office and no "Jim Crow" legislation seems in immediate sight. 

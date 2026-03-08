@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: January 1921
-categories: []
 subjects:
   - Thrift and savings (personal and household)
   - Black economic self-help and cooperative investment
@@ -35,6 +34,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Labor & Economics"
 ---
 
 A Teacher writes us from Texas:

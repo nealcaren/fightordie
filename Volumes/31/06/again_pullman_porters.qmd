@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Apr. 1926
-categories: []
 subjects:
 - Pullman porters (African American rail service workers)
 - Labor organizing
@@ -31,6 +30,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Labor & Economics"
 ---
 
 As a class Pullman porters are gentlemen in the best sense of that overworked word. They are courteous, silent and of infinite patience. Nowhere in the traveling world can one find a set of public servants who do their work so thoroughly and so well.

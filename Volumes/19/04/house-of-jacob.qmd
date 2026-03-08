@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Feb. 1920
-categories: []
 subjects:
 - Lynching
 - Disfranchisement (Voting rights of African Americans)
@@ -31,6 +30,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "The South"
+  - "Voting & Elections"
 ---
 
 Where is the chief seat of lawlessness in this land?

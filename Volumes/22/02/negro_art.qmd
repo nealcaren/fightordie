@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jun. 1921
-categories: []
 subjects:
   - Representation of African Americans in art
   - Artistic truth versus propaganda
@@ -35,6 +34,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Art & Culture"
 ---
 
 Negro art is today plowing a difficult row, chiefly because we shrink at the portrayal of 

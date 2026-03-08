@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jan. 1914
-categories: []
 subjects:
   - NAACP membership drives
   - Racial prejudice and racial discrimination
@@ -31,6 +30,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "NAACP & Organizational Strategy"
 ---
 
 <span class="crisis-title">The Crisis</span> exists for one great purpose.

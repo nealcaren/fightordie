@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: May 1922
-categories: []
 subjects:
 - Lynching
 - Disfranchisement
@@ -33,6 +32,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Racial Violence"
+  - "The South"
 ---
 
 > Sept. 15, 1922.<p>Please enter subscription to your magazine <span class="crisis-title">The Crisis</span>for one year, mailing same to address given below. Post Office Money Order for $1.50 enclosed.<p>Yours truly,<p>J.J. Murphy,<p>Kleagle, Knights of the Ku Klux Klan, P. O. Box 612, Birmingham, Ala. 

@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1923
-categories: []
 subjects:
   - Educational inequality (racially based)
   - Racial discrimination in the arts and art institutions
@@ -37,6 +36,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Education"
+  - "Art & Culture"
 ---
 
 We have developed in the United States a technique of race discrimination which gains its dispicable ends by methods so subtle and evasive that the man on the street not only cannot place the blame but after a few bewildered gestures is tempted to look upon the whole thing as an "Act of God."

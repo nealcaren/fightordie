@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Dec. 1927
-categories: []
 subjects:
   - Russian Revolution
   - Tsarist autocracy (Czarist tyranny)
@@ -39,6 +38,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Labor & Economics"
 ---
 
 It is astonishing to see the determination with which those who believe in the industrial methods of America and Western Europe are spreading misinformation concerning the Russian experiment. The central thing which has happened in Russia is this: the rotten, horrible, inexpressibly brutal and silly tyranny of the Czar, has been definitely and finally overthrown. No such travesty on decent government has existed elsewhere in Europe in modern days. It was a stench in the nostrils of humanity. It was flamboyant and impudent with murder and cruelty, on a foundation of ignorance and poverty and with flaming towers of ostentation and show which completely captivated the organized snobbery of the world. To be presented at the Russian Imperial Court was the last round in the ladder of ambition for every social climber in Europe and America. 

@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1921
-categories: []
 subjects:
   - Homicide statistics
   - Racial violence against African Americans (murders)
@@ -34,6 +33,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Racial Violence"
 ---
 
 There is a species of propaganda going on against the Negro which is so subtle that most people do not notice it. For instance, *The Spectator*, an insurance magazine periodical, records from year to year all homicides,---that is all persons killed in the United States by criminal violence. It notes that for every million of population in 31 cities there are 85 homicides and that the rate is increasing. 

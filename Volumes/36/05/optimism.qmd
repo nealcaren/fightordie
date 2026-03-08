@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: May 1929
-categories: []
 subjects:
   - Legal defense of African Americans
   - Harlem Renaissance (African American artistic renaissance)
@@ -32,6 +31,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Art & Culture"
+  - "Internal Debate"
 ---
 
 Nothing is more dangerous than unintelligent optimism; childish faith in the triumph of good; the "God's-in-His-Heaven" attitude, assumed because one is too lazy to be worried. On the other hand, the worst moral dyspepsia must face facts; and looking back on the history of the Negro race in America for the last few years one cannot help feeling a sense of tremendous encouragement.

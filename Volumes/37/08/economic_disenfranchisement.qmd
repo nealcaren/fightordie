@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Aug. 1930
-categories: []
 subjects:
 - Industrial disenfranchisement
 - Public ownership of utilities
@@ -33,6 +32,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Labor & Economics"
 ---
 
 There is no universal suffrage in modern industry. So far as the government conducts industry, as in the case of the post office and, in some instances, the transportation system, universal political suffrage indirectly controls the industry. But there are great public services, like the railroad, the telephone, gas and electric lighting, the telegraph and others, where the industry, although public in nature, is private in ownership, and conducted by an autocracy, except insofar as public opinion and the granting of privileges and franchises gives remote control to the voters. 

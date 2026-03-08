@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: May 1911
-categories: []
 subjects:
   - Mixed-race identity and representation
   - Racial classification (quadroon / mixed heritage)
@@ -31,6 +30,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Literary Writing"
+  - "Art & Culture"
 ---
 
 <div class="poem">

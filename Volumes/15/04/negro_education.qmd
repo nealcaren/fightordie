@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1918
-categories: []
 subjects:
   - Higher education access for African Americans
   - Industrial/manual training versus academic education
@@ -34,6 +33,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Education"
 ---
 
 The casual reader has greeted this study[^fn1] 

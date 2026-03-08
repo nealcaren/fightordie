@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: May 1919
-categories: []
 subjects:
 - Nonviolent resistance (African Americans)
 - Silent protest — Southern United States
@@ -29,6 +28,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "The South"
+  - "Racial Violence"
 ---
 
 We stand with uncovered heads before the tens of thousands of black men and women of the South who are fighting the real battle of Freedom. They are striking no blows — they are using no violence — they are uttering no threats — in most cases they are speaking no word. But they are standing with bleeding souls and streaming eyes, silently, steadfastly, before the altar of their own beliefs and aspirations. Not one by word, deed or gesture do they flinch.

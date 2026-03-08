@@ -3,12 +3,6 @@ title: 'Two Suffrage Movements'
 description: "Gruening, Martha in The Crisis (1912) argues English and American women's suffrage sprang from abolitionism and shared struggles for rights."
 author: Gruening, Martha
 date: Mar. 1912
-categories:
-  - Woman Suffragesubjects:
-  - Women's suffrage
-  - Abolitionism
-  - Voting rights
-  - Married women's legal and property rights
 people:
   - Lucretia Mott
   - Elizabeth Cady Stanton
@@ -32,6 +26,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Women's Rights"
 ---
 
 The woman suffrage movement in England and America really dates from the beginning of the anti-slavery struggle. It was not only contemporaneous with it, but it owes its existence in a large measure to this phase of the struggle for human rights. For it was in the abolitionist ranks that the early suffragists received their training, both as thinkers and propagandists. It was impossible for them to agitate continually for the freedom of the Negro without desiring freedom for themselves, or realizing the parallel between his situation and their own. For if the Negro was a slave the married woman of that day was no less a chattel. She was no longer openly bought and sold,[^fn] but she had no more than he, a separate legal existence. If the Negro slave belonged to his master, she belonged no less, absolutely, to her husband as did her property, her earnings, and even her children. Both were disfranchised. Both were deprived of education and subject to economic disabilities which they shared with no other class. Even the constitutional right of free speech was not extended to woman when it meant public speech, as she found when she wished to join in the protest against slavery; and even among the abolitionists her presence on platforms and committees caused serious dissensions.

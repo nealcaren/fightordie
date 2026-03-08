@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Apr. 1911
-categories: []
 subjects:
 - Lynching
 - Disfranchisement
@@ -35,6 +34,11 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Voting & Elections"
+  - "Education"
+  - "The South"
 ---
 
 Mr. William Taft, President of these United States, shows a marvelous facility for getting on the right track and saying the wrong thing. The most glaring example of this is, of course, the tariff, but his attitude toward the American Negro is a . fatal second. Not only is Mr. Taft *particeps minims* with the late Mr. Roosevelt in the crime of Brownsville, but he added to that the Taft Doctrine of recognizing race prejudice, instead of fitness, in Federal appointments. On top of this, and in the face of a record of murder, lynching and burning in this country which has appalled the civilized world and loosened the tongue of many a man long since dumb on the race problem, in spite of this, Mr. Taft has blandly informed a deputation of colored men that any action on his part is quite outside his power, if not his interest.

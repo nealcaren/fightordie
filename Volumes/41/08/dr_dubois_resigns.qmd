@@ -3,7 +3,6 @@ title: 'Dr. Du Bois Resigns'
 description: "National Association for the Advancement of Colored People in The Crisis (1934) examines Du Bois's resignation over silencing and segregation disputes"
 author: National Association for the Advancement of Colored People
 date: Aug. 1934
-categories: []
 subjects:
   - NAACP governance and internal dissent
   - Military discrimination and segregation (Black officers' camps)
@@ -34,6 +33,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Internal Debate"
 ---
 
 **The full text of his letter and the resolution of the N.A.A.C.P. Board accepting his resignation**

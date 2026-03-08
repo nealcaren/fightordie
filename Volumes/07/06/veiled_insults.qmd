@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Apr. 1914
-categories: []
 subjects:
 - Capitalization of "Negro" (orthographic racial discrimination)
 - Language and race
@@ -32,6 +31,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Segregation"
+  - "Art & Culture"
 ---
 
 We have spoken before of the custom in the United States of refusing to capitalize the word "Negro."

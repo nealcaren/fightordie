@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1934
-categories: []
 subjects:
   - Subsistence homesteads
   - Homestead colonies
@@ -29,6 +28,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Labor & Economics"
+  - "Segregation"
 ---
 
 The difficulty with the modern wage contract is that the contracting parties, the worker and the employer, do not meet with equal power to negotiate. The wage earner must accept in most cases any wage offer because otherwise he will starve to death; and since the employer's profit depends on the amount that he can save from wages, he is tempted to reduce the wage as nearly as possible to the bare necessities for keeping the worker alive.

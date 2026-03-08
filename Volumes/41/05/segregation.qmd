@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: May 1934
-categories: []
 subjects:
   - Residential segregation
   - Federal slum clearance and public housing
@@ -32,6 +31,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Segregation"
 ---
 
 A girl with brown and serious face, came to me after a lecture. She was not satisfied with what I had said, nor to my answer to her questions from the floor. She said: "It seems to me you used to fight Segregation, and that now you are ready to compromise." I answered: If you mean by fighting Segregation, fighting with fists, this is a thing I have never advocated, because it seems to me that such a policy always loses more than it gains. I have fought Segregation and other evils with reason, with facts, and with agitation. In this way, I'm still fighting. I said in the past that Segregation is wrong. I am still saying it.

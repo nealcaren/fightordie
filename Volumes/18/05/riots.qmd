@@ -3,7 +3,6 @@ title: 'The Riots: An N.A.A.C.P. Investigation'
 description: Johnson, James Weldon in The Crisis (1919) examines the Washington race riots, documenting mob violence and Black residents' determined self-defense.
 author: Johnson, James Weldon
 date: Mar. 1919
-categories: []
 subjects:
 - Race riots (urban racial violence)
 - Lynching and mob violence
@@ -33,6 +32,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Racial Violence"
 ---
 
 I reached Washington early in the evening of July 22. As the train neared the capital I could feel the tenseness of the situation grow. It showed itself in the air of the passengers as they read the newspapers, with their glaring headlines telling of the awful night before and intimating that the worst was yet to come. As I  passed through the cars on my way to the diner and back, men and women glanced up at me with what seemed to be a look with a glance which of mild surprise; seemed to say, "This man must indeed have very important business in Washington."

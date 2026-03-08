@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1913
-categories: []
 subjects:
   - Orphanages — administration and management
   - Child welfare — racial discrimination
@@ -33,6 +32,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Education"
+  - "Segregation"
 ---
 
 There is no doubt that the condition of affairs at the Colored Orphan Asylum of New York City is not what it should be. One may pass over the charges of incompetency and favoritism on the part of the superintendent, of rank color prejudice in the teaching ranks and cruelty to the children. These matters may be exaggerated, and certainly only searching investigation can establish their truth.

@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Feb. 1921
-categories: []
 subjects:
 - Lynching
 - Anti-lynching legislation
@@ -35,6 +34,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Racial Violence"
 ---
 
 Those persons who see technical difficulties and constitutional questions in any effort to stop lynching simply do not realize the enormity of this evil.

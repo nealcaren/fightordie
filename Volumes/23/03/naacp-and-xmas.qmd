@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: January 1922
-categories: []
 subjects:
   - Anti-lynching legislation
   - Ku Klux Klan exposure
@@ -39,6 +38,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Internal Debate"
 ---
 
 In this season of holiday and joy have you thought of *your* Christmas gift for Freedom? Thinking of what you have earned and spent for the year, what you have accomplished and enjoyed, does it occur to you that you owe something, not simply to your race and to your country, but to humanity---to the upward striving forces of the world? Have you paid that debt or any part of it?

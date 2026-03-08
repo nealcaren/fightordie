@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Sep. 1928
-categories: []
 subjects:
   - Voting rights and voter participation
   - Racial disfranchisement (Southern disfranchisement)
@@ -37,6 +36,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Voting & Elections"
 ---
 
 *This article was originally prepared for the Stock-Taking and Fact-Finding Conference which met in Durham, North Carolina, in December, 1927. With some additions and revisions it was delivered again before the opening meeting of the 19th Annual N.A.A.C.P. Conference at Los Angeles in June, 1928. It appears in print for the first time and will be published in two parts.*

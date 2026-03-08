@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Feb. 1911
-categories: []
 subjects:
 - Lynching
 - Disfranchisement
@@ -28,6 +27,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Racial Violence"
 ---
 
 The mob spirit in America is far from dead. Time and time again the disappearance of lynching has been confidently announced. Still this species of murder and lawlessness flourishes blithely. Its sickening details in the last few weeks have been as bad as could be imagined. The cause of this is obvious: a disrespect for law and a growing cheapness of human life. Why should America lose respect for law? Because for years some of its best brains have been striving both in the profession of law and on the bench to show how worthless legislation is and help­ less to accomplish its ends. To cite an instance: The Constitution of the United States, the highest law of the land, says that citizens of the United States cannot be disfranchised on ac­ count of race or color. Yet every schoolboy knows that Negro Americans are disfranchised in large areas of the South for no other reason than race and color. This is but one in­ stance of our laughing at law.

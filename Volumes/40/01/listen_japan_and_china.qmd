@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jan. 1933
-categories: []
 subjects:
   - Western imperialism in Asia
   - Pan-Asianism
@@ -39,6 +38,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Pan-Africanism & Empire"
 ---
 
 Colossi of Asia and leaders of all colored mankind: for God's sake stop fighting and get together. Compose your quarrels on any reasonable basis. Unite in self-defense and assume that leadership of distracted mankind to which your four hundred millions of people entitle you.

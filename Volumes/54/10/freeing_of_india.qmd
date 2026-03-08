@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Oct. 1947
-categories: []
 subjects:
 - Indian independence (1947)
 - Partition of India (1947)
@@ -36,6 +35,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Pan-Africanism & Empire"
 ---
 
 The fifteenth of August deserves to be remembered as the greatest historical date of the nineteenth and twentieth centuries. This is saying a great deal, when we remember that in the nineteenth century, Napoleon was overthrown, democracy established in England, Negro slaves emancipated in the United States, the German Empire founded, the partition of Africa determined upon, the Russian Revolution carried through, and two world wars fought. Nevertheless, it is true that the fifteenth of August marks an event of even greater significance than any of these; for on that date four hundred million colored folk of Asia were loosed from the domination of the white people of Europe.

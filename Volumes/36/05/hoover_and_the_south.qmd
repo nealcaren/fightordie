@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: May 1929
-categories: []
 subjects:
   - Lily-white movement in the Southern Republican Party (Southern Republican reorganization)
   - Black suffrage and voting rights
@@ -37,6 +36,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Voting & Elections"
+  - "The South"
 ---
 
 Herbert Hoover has started something. We very much doubt if he understands the ramifications of his late declaration. His statement is that Republican Presidents for many years have tried to build up state Republican organizations in the Southern states; that this Southern Republican Party must "commend itself to the citizens of those states"; that the basis of sound government is a strong two-party representation; that there must be no sectionalism in politics; and that the re-organization must come "from the states themselves."

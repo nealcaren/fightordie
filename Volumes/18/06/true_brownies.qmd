@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Apr. 1919
-categories: []
 subjects:
   - African American children's literature
   - Children's magazines (African American)
@@ -38,6 +37,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Art & Culture"
+  - "Education"
 ---
 
 The Children's <span class = "small-caps"> Crisis</span> has been published annually for nine years and is easily the most popular number of the year---that is, it makes the widest appeal to our readers. This is as it should be. Of course, we are and must be interested in our children above all else, if we love our race and humanity.

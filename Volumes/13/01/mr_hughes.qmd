@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: May 1916
-categories: []
 subjects:
   - Suffrage — African Americans
   - Republican Party (U.S.) — Relations with African Americans
@@ -38,6 +37,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Voting & Elections"
 ---
 
 We are sorry that Mr. Charles Evans Hughes has not found opportunity to answer the courteous and pertinent letter printed on page 16 and sent him nearly a month ago. 

@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1916
-categories: []
 subjects:
   - Critique of Western civilization
   - Racial pride and cultural nationalism
@@ -31,6 +30,11 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "War & Military"
+  - "Pan-Africanism & Empire"
+  - "Art & Culture"
 ---
 
 The war is still with us, has almost become a commonplace, and yet there is no thinking man who does not send his mind two years back and remember the assurance with which he said in those bewildering, tumultuous days of August, 1914, "This cannot last, we are too civilized." 

@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Sep. 1928
-categories: []
 subjects:
   - Republican Party and African American voters
   - Social exclusion and racial snubbing in political contexts
@@ -35,6 +34,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Voting & Elections"
+  - "Women's Rights"
 ---
 
 What intrigues us about Mary of the Unfortunate Name is not the fact that she is colored and the daughter of the late Isaiah Montgomery; or even that she is a machine politician of what is to us the most offensive sort; but what really interests us is the inner workings of the minds of those distinguished white ladies who called the late conference of the Republican Committee Women in Washington. They were, many of them well-bred and all of them well-gowned. Most of them belonged to Christian churches. Yet, jointly and severally, they did a disgustingly mean thing. They invited Mrs. Booze to entertainment and luncheon and then sneaked off when her back was turned and lunched without her. In all this, Mrs.  Booze comes out decidedly in the better position. These Republican women acted like cads; the Negro woman swallowed the insult, explained it away and remained---a Republican.

@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jun. 1911
-categories: []
 subjects:
   - Newspaper treatment of African Americans
   - Press competition and yellow journalism
@@ -32,6 +31,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Literary Writing"
+  - "Art & Culture"
 ---
 
 [The blind editor of the New York World died October 29, 1911, murmuring in German, "Leise, ganz leise!" His paper always treated  black folk fairly, in market contrast to most New York dailies.]

@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1915
-categories: []
 subjects:
   - Racial uplift and community organization (African Americans)
   - Jewish communal organization in the United States
@@ -36,6 +35,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "NAACP & Organizational Strategy"
 ---
 
 If the Negroes of the United States want to know what organization is and what it can accomplish along racial lines they should buy the American Jewish Year Book. This publication has courteously been sent to this office and a glance at its pages is most informing.

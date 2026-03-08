@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1914
-categories: []
 subjects:
   - Racial prejudice
   - Racial discrimination
@@ -32,6 +31,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Literary Writing"
+  - "Segregation"
 ---
 
 Time: Now.

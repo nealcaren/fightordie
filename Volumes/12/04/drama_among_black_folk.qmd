@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1916
-categories: []
 subjects:
   - Black pageantry and folk drama
   - Black theater and performance
@@ -38,6 +37,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Art & Culture"
 ---
 
 > Hear ye, hear ye! Men of all the Americas, and listen to the tale of the Eldest and Strongest of the Races of men whose faces be Black. Hear ye, hear ye! For lo! Upon this night a world shall pass before your souls, bathed in color, wound with song and set to the dancing of a thousand feet. And this shall be the message of this pageantry: Of the Black man's Gift of Iron to the world; of Ethiopia and her Glory; of the Valley of Humiliation through which God would she pass and of the Vision Everlasting when the Cross of Christ and the Star of Freedom set atop the Pillar of Eternal Light. Men of the world keep silence and in reverence see this holy thing.

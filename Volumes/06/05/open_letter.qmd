@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Nov. 1913
-categories: []
 subjects:
 - Segregation of African American federal employees
 - Disfranchisement
@@ -37,6 +36,11 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Segregation"
+  - "Voting & Elections"
+  - "NAACP & Organizational Strategy"
 ---
 
 Sir: On the occasion of your inauguration as President of the United States, <span class="crisis-title">The Crisis</span> took the liberty of addressing to you an open letter. <span class="crisis-title">The Crisis</span> spoke for no inconsiderable part of ten millions of human beings, American born, American citizens. <span class="crisis-title">The Crisis</span> said in that letter, among other things: 

@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Jan. 1913
-categories: []
 subjects:
 - Disfranchisement
 - Jim Crow laws (racial segregation and public accommodations)
@@ -30,6 +29,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Segregation"
+  - "Internal Debate"
 ---
 
 We should remember that in these days great groups of men are not long oppressed but by their own consent. Oppression costs the oppressor too much if the oppressed stand up and protest. The protest need not be merely physical---the throwing of stones and bullets---if it is mental and spiritual, if it expresses itself in silent, persistent dissatisfaction, the cost to the oppressor is terrific.

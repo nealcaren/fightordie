@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: May 1922
-categories: []
 subjects:
   - Judicially enforced peonage and sale of Black persons
   - Peonage and forced labor in the Jim Crow South
@@ -34,6 +33,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Racial Violence"
+  - "The South"
 ---
 
 Slavery still exists in the United States. In the courts of Carolina, Georgia, Alabama, Mississippi, Louisiana, Arkansas and Texas, human beings are daily sold into slavery to men like the murderer Williams of Jasper County, Georgia.

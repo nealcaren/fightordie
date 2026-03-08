@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois and Alan Locke
 date: Feb. 1924
-categories: []
 subjects:
   - Harlem Renaissance (African American literary movement)
   - African American modernist literature
@@ -37,6 +36,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Art & Culture"
 ---
 
 <h2>I</h2>

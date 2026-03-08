@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Feb. 1928
-categories: []
 subjects:
 - Race relations
 - Abolition of the color line
@@ -33,6 +32,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Segregation"
 ---
 
 Lothrop Stoddard, professional "nigger" hater and protagonist of the Ku Klux Klan, made two astonishing admissions the other night when he debated the subject of social equality with the Editor of <span class="crisis-title">The Crisis</span>.

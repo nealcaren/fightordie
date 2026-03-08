@@ -6,14 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Nov. 1910
-categories:
-  - Housing
-  - Segregationsubjects:
-  - Residential segregation
-  - Housing discrimination
-  - Property values and race
-  - Racial prejudice
-  - Race-based municipal ordinances
 places:
   - Baltimore, Maryland
   - Druid Hill Avenue (Baltimore)
@@ -32,6 +24,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Segregation"
 ---
 
 An inevitable step forward in anti-Negro prejudice is being taken in Baltimore, and threatened elsewhere. The colored folk of that city long ago became dissatisfied with a particularly bad system of alley homes. They saved their money and purchased nearly the whole length of Druid Hill avenue---one of the best colored streets in the world. Then they began to expand into parallel streets, one of which was McCulloh. They had been told that "money talks," and that the surest road to respect in America was financial success. The result was inevitable. The white people of McCulloh street rose in indignation and are importuning the City Council to pass an ordinance prohibiting colored people from "invading" white residential districts, and vice versa. Their argument sounds strong: colored residents bring down the price of property, therefore get rid of colored residents.

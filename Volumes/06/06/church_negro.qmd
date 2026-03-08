@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Apr. 1913
-categories: []
 subjects:
 - Racial prejudice in churches
 - Church complicity in American slavery
@@ -33,6 +32,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Religion & Morality"
+  - "Segregation"
 ---
 
 The relation of the church to the Negro is, or should be, a very simple

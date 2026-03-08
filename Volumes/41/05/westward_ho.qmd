@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: May 1934
-categories: []
 subjects:
   - Adult education
   - Adult education — public school programs
@@ -36,6 +35,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Education"
+  - "Segregation"
 ---
 
 In recent years, it has been my custom to visit Chicago and regions about it, at least once a year, and to use the excuse of lecturing in order to become acquainted again, at first hand, with the great Middle West. It is painfully easy in the United States for a great metropolis to mistake itself for the nation. This was once true of Boston. In some respects, it is true of Washington. Nearly always, it is true of New York; and the great difficulty of argument and understanding for the nation today, is that with the concentration of power and brains in New York, it is so easily assumed that there is no power, that there are no centers of thought and development outside of Manhattan Island.

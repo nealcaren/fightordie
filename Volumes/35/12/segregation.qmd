@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Dec. 1928
-categories: []
 subjects:
   - Federal workplace segregation
   - Employment discrimination in the United States federal civil service
@@ -35,6 +34,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Segregation"
 ---
 
 Very slowly but with unexpected success, the fight against governmental segregation in the departments at Washington has reached a stage where a record of achievement can be made and a new alignment of forces for the future planned. 

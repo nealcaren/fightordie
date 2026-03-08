@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Apr. 1920
-categories: []
 subjects:
   - Voting rights
   - Jim Crow disenfranchisement
@@ -32,6 +31,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Voting & Elections"
 ---
 
 The conditions under which a person is allowed to vote under our government, is left in the hands of the states, with only two limitations:

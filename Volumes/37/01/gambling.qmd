@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jan. 1930
-categories: []
 subjects:
   - Securities speculation and stock-market gambling
   - Margin trading and futures speculation (speculative credit)
@@ -37,6 +36,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Labor & Economics"
 ---
 
 As compared with crap-shooting, always supposed to be the peculiar diversion of Negroes, nine-tenths of the operations of the Wall Street Stock Exchange favors craps, by every consideration of morals and social welfare. Unless the dice are loaded, crap-shooting is a game of pure chance, and the utmost that can happen is the transfer of actual wealth from one gambler to another. But in Wall Street, we have something much more complicated and much less defensible.

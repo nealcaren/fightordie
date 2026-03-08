@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: May 1930
-categories: []
 subjects:
   - Capitalization of "Negro" (racial nomenclature)
   - Racial self-respect and recognition
@@ -36,6 +35,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Internal Debate"
 ---
 
 Recently and with a certain suddenness, the periodical press of the United States has decided to capitalize the word Negro.

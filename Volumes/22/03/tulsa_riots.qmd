@@ -3,7 +3,6 @@ title: Tulsa Riots
 description: National Association for the Advancement of Colored People in The Crisis (1921) examines the Tulsa race riot, white arson, peonage and refugees.
 author: National Association for the Advancement of Colored People
 date: Jan. 1921
-categories: []
 subjects:
 - Lynching and mob violence
 - Mass displacement of Black residents
@@ -34,6 +33,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Racial Violence"
 ---
 
 Within six hours of the time, on June 1, when the New York *Evening Post* called up the National Office on the telephone to ask whether anything had been heard of race trouble in Tulsa, Okla., a representative was on the way to the battle-scarred city to investigate for the Association. Meanwhile reports continued to come in which showed that one of the most serious race riots in the country's history was in progress, lasting until June 2. The newspapers reported that practically the entire colored residence section of Tulsa was in flames, that shooting was going on and that motor cars and airplanes were being used by white people in the battle. 

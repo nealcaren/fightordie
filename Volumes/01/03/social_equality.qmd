@@ -6,14 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jan. 1911
-categories:
-  - Social Equalitysubjects:
-  - Voting rights (Disfranchisement)
-  - Educational inequality (curtailment of common school training)
-  - Residential segregation (confinement to "ghettos")
-  - Employment discrimination (wage discrimination; confinement to menial employment)
-  - Lynching and miscarriage of justice
-  - Racialized social exclusion and insult to Black women
 people:
   - W.E.B. Du Bois
 places:
@@ -35,6 +27,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Segregation"
 ---
 
 At last we have a definition of the very elusive phrase "Social Equality" as applied to the Negro problem. In stating their grievances colored people have recently specified these points:

@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Jun. 1914
-categories: []
 subjects:
 - Voting rights
 - Disfranchisement of Black voters
@@ -32,6 +31,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Voting & Elections"
 ---
 
 The chief matter of comfort to colored folk in the late election is the more evenly balanced power of the two great parties resulting from it. Neither Republicans nor Democrats can afford to defy 500,000 Negro voters in the next two years. The Republicans have disfranchised them in party councils and the Democrats have segregated them. With such a record both parties must do a lot of explaining.

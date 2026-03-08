@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Dec. 1927
-categories: []
 subjects:
 - Disfranchisement
 - Educational inequality
@@ -32,6 +31,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Internal Debate"
 ---
 
 The Conference meeting this month at Durham, North Carolina, is unusual. It is not an attempt to unite existing organizations in an impossible federation for which there is neither demand nor need. It is not an attempt to form a new organization. It is a simple, straight-forward effort to ascertain facts and to take stock. 

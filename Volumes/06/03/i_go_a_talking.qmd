@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Jan. 1913
-categories: []
 subjects:
 - Jim Crow laws
 - African American community life — Western United States
@@ -34,6 +33,11 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Segregation"
+  - "NAACP & Organizational Strategy"
+  - "Literary Writing"
 ---
 
 I have made a great journey to three of the four corners of this Western world, over a distance of 7,000 miles, and through thirty States; and I am overwhelmed almost to

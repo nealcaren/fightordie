@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jun. 1926
-categories: []
 subjects:
   - Italian imperialism in Africa
   - Colonialism in Abyssinia (Ethiopia)
@@ -39,6 +38,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Pan-Africanism & Empire"
 ---
 
 ! [1935 edition maps of Abyssinia]

@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: November 1921
-categories: []
 subjects:
   - Pan-Africanism
   - Racial equality advocacy
@@ -38,6 +37,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Pan-Africanism & Empire"
 ---
 
 The second Pan-African Congress which met in London, Brussels and Paris, August 28, 29 and 31 and September 2, 3, 5 and 6, represented 26 different groups of people of Negro descent: namely, British Nigeria, Gold Coast and Sierra Leone; the Egyptian Sudan, British East Africa, former German East Africa; French Senegal, the French Congo and Madagascar; Belgian Congo; Portuguese St. Thomé, Angola and Mozambique; Liberia; Abyssinia; Haiti; British Jamaica and Grenada; French Martinique and Guadeloupe; British Guiana; the United States of America, Negroes resident in England, France, Belgium and Portugal, and fraternal visitors from India, Morocco, the Philippines and Annam.

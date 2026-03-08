@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: December 1920
-categories: []
 subjects:
 - Lynching and mob violence
 - Jim Crow laws
@@ -35,6 +34,11 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Racial Violence"
+  - "Religion & Morality"
+  - "Literary Writing"
 ---
 
 Pontius Pilate, Federal Governor of Mississippi, sat in the Judgment seat at Jackson. Before him stretched a table of shining gold and the morning sun sang through the eastern windows. It lighted the faces of the Chief Priest and the Elders as they bent eagerly toward him, and twisted itching hands.

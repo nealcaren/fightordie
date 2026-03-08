@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jun. 1915
-categories: []
 subjects:
   - Race relations in Jamaica (color line and social integration)
   - Labor exploitation and low-wage rural labor
@@ -34,6 +33,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Pan-Africanism & Empire"
+  - "Labor & Economics"
 ---
 
 AN AMAZING ISLAND

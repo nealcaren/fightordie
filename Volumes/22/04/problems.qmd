@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Feb. 1921
-categories: []
 subjects:
 - Social equality (race)
 - Voting rights
@@ -31,6 +30,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Segregation"
+  - "Voting & Elections"
 ---
 
 Why is it that nothing is said of social equality save in the case of Negroes? The nation is mute as to Irishmen, Italians, Poles and Armenians. One may dine with Chinese, Japanese or East Indians. But Negroes? Social Equality!

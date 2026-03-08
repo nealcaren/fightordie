@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1912
-categories: []
 subjects:
   - Housing discrimination against African Americans
   - Residential segregation
@@ -31,6 +30,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Segregation"
+  - "Labor & Economics"
 ---
 
 The injustice toward colored people who want decent living conditions is almost unbelievable unless one comes face to face with the facts. The New York *Times*, which spares few opportunities to treat black folk unjustly, says in an editorial:

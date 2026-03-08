@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Sep. 1931
-categories: []
 subjects:
 - Communism and African Americans
 - NAACP legal strategy and leadership
@@ -37,6 +36,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Labor & Economics"
+  - "Internal Debate"
 ---
 
 The Scottsboro, Alabama, cases have brought squarely before the American Negro the question of his attitude toward Communism.

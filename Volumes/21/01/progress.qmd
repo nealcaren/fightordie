@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: November 1920
-categories: []
 subjects:
   - Racial self-discovery and Black self-reliance
   - Black economic development and business enterprise
@@ -34,6 +33,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Labor & Economics"
 ---
 
 The progress of the colored American in the last five years has been the most marvelous of any period since emancipation. Visits and investigations North, East, South and West show an activity, a persistence and an accomplishment which is astounding. New ownership of land, new and beautiful homes, new business enterprises, larger amounts of capital seeking investment, new appreciation of and joining with labor unions, new kinds of better paid work and a larger number of children pressing into the schools is the almost universal story.

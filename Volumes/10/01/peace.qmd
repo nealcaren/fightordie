@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: May 1915
-categories: []
 subjects:
   - Race prejudice as a root cause of international war
   - Colonial rule and imperialism
@@ -38,6 +37,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "War & Military"
+  - "Pan-Africanism & Empire"
 ---
 
 The various efforts toward peace show with singular unanimity either the utter inability or the determined refusal of the peace advocates to consider race prejudice as the prime cause of the present world war. The Holland Peace Movement, founded October 8th, notes ten points of proposed agreement for the overthrow of war. These points include closer co-operation among "European" powers, arbitration among "civilized" states, and the suppression of animosity between "nations." But not a word about race hatred and the rulership of the colonies for the profit of Europe. So too, the American Truth Society in Munich protests against the introduction of Japan to this European war which, as it says, "involves a menace to the supremacy of the white race!"

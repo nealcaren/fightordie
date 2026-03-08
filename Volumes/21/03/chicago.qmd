@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: January 1921
-categories: []
 subjects:
 - Racial segregation
 - State interracial commissions
@@ -38,6 +37,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Segregation"
 ---
 
 We would advise our Chicago friends to watch narrowly the work and forthcoming report of the Inter-racial Commission appointed by the Governor of Illinois after the late riot. The Commission consists of colored men who apparently have a much too complacent trust in their white friends; of white men who are too busy to know; and of enemies of the Negro race who under the guise of impartiality and good will are pushing insidiously but unswervingly a program of racial segregation. They have, for instance, sent a "questionnaire" to prominent colored men, consisting of 15 questions, which with all their surface frankness and innocence seek to betray black folk by means of the logical dilemma of "segregation" and "racial solidarity". By subtle suggestion these queries say: If you believe in colored churches, why not in colored ghettos? Does not Negro advancement increase anti-Negro hatred? Are not Negroes prejudiced against whites? Are not the mistakes of Negro leaders manifest? And so on.

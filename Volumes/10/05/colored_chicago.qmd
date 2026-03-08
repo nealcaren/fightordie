@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1915
-categories: []
 subjects:
   - African American urban population — Chicago (1910s)
   - Occupational distribution and labor of Black workers (Chicago, 1910)
@@ -35,6 +34,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Labor & Economics"
+  - "Segregation"
 ---
 
 <figure>

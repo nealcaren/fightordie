@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Sep. 1929
-categories: []
 subjects:
 - Educational segregation
 - Public education and educational democracy
@@ -38,6 +37,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Education"
+  - "Segregation"
 ---
 
 Dr. R.L.A. Pechstein of the University of Cincinnati last February made a Report at the National Society of College Teachers meeting in Cleveland. His thesis was that the "Segregation of Negro and white children in separate schools accomplished far more for the black race than can be gained in mixed classes." 

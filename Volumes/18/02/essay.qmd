@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Jun. 1919
-categories: []
 subjects:
 - African American military service (World War I)
 - Segregation in the armed forces
@@ -35,6 +34,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "War & Military"
+  - "Segregation"
 ---
 
 ## Foreword

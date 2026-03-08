@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Mar. 1913
-categories: []
 subjects:
 - Disfranchisement
 - Interstate Jim Crow laws (segregation in interstate travel and accommodations)
@@ -38,6 +37,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "NAACP & Organizational Strategy"
+  - "Racial Violence"
 ---
 
 The editor of the Cleveland *Gazette* names three main points of attack for any national association which aims to help colored people:

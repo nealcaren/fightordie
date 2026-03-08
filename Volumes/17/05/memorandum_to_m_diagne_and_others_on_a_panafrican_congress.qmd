@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1919
-categories: []
 subjects:
   - Pan-Africanism
   - Colonialism (Africa and former German colonies)
@@ -39,6 +38,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Pan-Africanism & Empire"
+  - "NAACP & Organizational Strategy"
 ---
 
 Gentlemen:

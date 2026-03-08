@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Apr. 1916
-categories: []
 subjects:
   - African American churches — social services and community development
   - Religious education — Sunday schools and youth programs (Cradle Roll)
@@ -37,6 +36,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Religion & Morality"
+  - "Education"
 ---
 
 Nothing will better illustrate the exact work of the Negro church in America than three notable examples: the Dixwell Avenue Congregational Church of New Haven, Conn.; the St. John's A.M.E. Church of Norfolk, Va., and the St. Mark's M.E. Church of New York City.

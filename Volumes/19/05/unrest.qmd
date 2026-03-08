@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Mar. 1920
-categories: []
 subjects:
 - Racial violence
 - Race relations
@@ -29,6 +28,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Literary Writing"
 ---
 
 <div class="poem">

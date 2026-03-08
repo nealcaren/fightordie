@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Feb. 1922
-categories: []
 subjects:
 - Anti-lynching legislation
 - Lynching
@@ -34,6 +33,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Racial Violence"
 ---
 
 Most colored folk do not yet quite understand modern advertising. They still think of advertising as a species of bribery, hush-money or charity given to newspapers to secure their support or reward their faithfulness or pay their debts.

@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: September 1922
-categories: []
 subjects:
   - Racial discrimination in theatre (performing arts)
   - Theatrical monopoly and booking trusts
@@ -37,6 +36,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Art & Culture"
+  - "Segregation"
 ---
 
 For a solid year colored artists have maintained on Broadway, New York, one of the cleanest, tunefulest and cleverest variety shows ever given. The colored comedians, Miller and Lyles, and the composers, Sissle and Blake, staged the play under great difficulties. They searched long for a manager and longer for a theatre and finally found an old disused music hall around a corner and out of the way, ill-furnished and inconvenient; and then they literally made New York and the world come to see and hear in droves for twelve long months. This is heartening---but see the sequel.

@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: May 1912
-categories: []
 subjects:
 - Voting rights
 - Disfranchisement
@@ -36,6 +35,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Voting & Elections"
 ---
 
 Before another number of <span class="crisis-title">The Crisis</span> appears the next President of the United States will have been elected. We have, therefore, but this last word to colored voters and their friends. 

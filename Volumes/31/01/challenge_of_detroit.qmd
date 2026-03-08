@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: May 1925
-categories: []
 subjects:
 - Residential segregation
 - Racial mob violence (white mob attacks on black residents)
@@ -33,6 +32,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Racial Violence"
+  - "Segregation"
 ---
 
 In Detroit, Michigan, a black man has shot into a mob which was threatening him, his family, his friends and his home in order to make him move out of the neighborhood. He killed one man and wounded another.

@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Jun. 1919
-categories: []
 subjects:
 - Voting rights
 - Race-based disenfranchisement (Jim Crow laws)
@@ -36,6 +35,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Voting & Elections"
+  - "Women's Rights"
 ---
 
 We hail as prophetic the swan-song of Senator Thomas William Hardwick, of Georgia. He entered Congress in 1903, on a platform calling for the repeal of the Fifteenth Amendment. He leaves the Senate in 1919, at the special request of President Wilson, on account of his disloyalty,---not simply to his party leader and his country, but to the foundation principles of democratic government.

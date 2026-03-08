@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: February 1921
-categories: []
 subjects:
   - Racial discrimination in the commercial recording industry
   - Access of African American musicians to phonograph recording
@@ -34,6 +33,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Art & Culture"
 ---
 
 We have good authority for stating that 65% of the phonograph records made for the Southern trade by a well-known company are sold to colored people. Nevertheless, this company employs only one colored artist regularly and only occasionally a colored orchestra or quartet. All these musicians are confined strictly to a certain class of music and on no account are they allowed to attempt anything else, no matter what their gifts or ability.

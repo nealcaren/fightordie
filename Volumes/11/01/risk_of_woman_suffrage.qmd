@@ -3,7 +3,6 @@ title: 'The Risk of Woman Suffrage'
 description: "Kelly Miller in The Crisis (1915) argues against woman suffrage, claiming it threatens social harmony and that gender differences make women unfit for politics."
 author: Miller, Kelly
 date: May 1915
-categories: []
 subjects:
   - Women's suffrage
   - Gender roles (family and domestic sphere)
@@ -28,6 +27,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Women's Rights"
+  - "Internal Debate"
 ---
 
 The August number of <span class="crisis-title">The Crisis</span> contained an interesting symposium on woman suffrage. The symposium was unusual, in that it involved only one side of a disputed issue. The contributors represent some of the ablest and most thoughtful names among us. They presented, presumably, the best possible putting of the cause espoused. The public, however, should not be misled to suppose that they represent the general attitude of the colored race on that question. Despite the ardent advocacy and plausible pleas of the propagandists, I am wholly unable to see wherein the experiment of woman suffrage promises any genuine advantage to social wellbeing.

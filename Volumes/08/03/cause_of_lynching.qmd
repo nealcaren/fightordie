@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jan. 1914
-categories: []
 subjects:
   - Lynching — Causes
   - Lynching — Social function as racial control
@@ -30,6 +29,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Racial Violence"
 ---
 
 It is exceedingly difficult to get at the real cause of lynching but <span class="crisis-title">The Crisis</span> is more and more convinced that the real cause is seldom the one In the barbaric Oklahoma case of the lynching of a woman, the press despatches made it a quarrel in a "redlight" district, but two private letters in our hands from apparently trustworthy persons declare that it was the case of a seventeen-year-old girl defending her own honor.

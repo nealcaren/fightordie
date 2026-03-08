@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Aug. 1930
-categories: []
 subjects:
   - Labor Party movement — United States
   - Public ownership of utilities and coal industry
@@ -35,6 +34,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Voting & Elections"
+  - "Labor & Economics"
 ---
 
 The League for Independent Political Action, which has headquarters at 347 Madison Avenue, New York, is an association of individuals, committed personally and as a group, to the development of a new political party, based on the principle of increasing democratic social control as distinguished from the present policies of the Republican and Democratic parties. This League is going to gather information; make research; distribute literature; form local clubs; and eventually it will nominate and ask support for its candidates. 

@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Mar. 1914
-categories: []
 subjects:
 - Ancient African civilizations
 - Colonialism in Africa
@@ -32,6 +31,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Pan-Africanism & Empire"
+  - "Literary Writing"
 ---
 
 Once upon a time there lay a land in the southern seas; a dark, grim land, walled well against the world. And in that land rose three rivers and a fourth, all flowing out to seek the sea. One river was born amid the Lakes and Mountains of the Moon, sun-kissed, snow-capped, and fled to the northward silent, swiftly; it clambered over the hills and swam the marshes. It threaded the sands---the narrow, choking sands that grew hotter and narrower as it went; yet the river swept on to wider, greener fields, to a laughing plain until through many mouths it burst like a rocket to the Middle Sea with all its myriads of men.

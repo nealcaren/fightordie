@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: May 1917
-categories: []
 subjects:
   - Lynching
   - Prosecution of mob violence
@@ -37,6 +36,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Racial Violence"
+  - "The South"
 ---
 
 There can be no doubt bit that the South is lacking in certain moral stamina which must be found among successful, forward-striving people. Recently, for instance, the press of the country went wild over the brave action of Governor Stanley of Kentucky. What then? This same Governor Stanley is apparently going to allow the rescued victim of that mob to be lynched by court under forms of law. There would seem to be no reasonable doubt but that Lube Martin killed Guthrie Diuguid in self-defense after Diuguid had followed him for a year and sworn to kill him. 

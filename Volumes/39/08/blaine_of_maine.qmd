@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Aug. 1932
-categories: []
 subjects:
   - Civil War revisionism and historical memory
   - Slavery (institution and historiography)
@@ -37,6 +36,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Retrospective"
 ---
 
 The semi-secret and persistent propaganda on the history and meaning of the Civil War still keeps up to an astonishing degree. No book or article can get even a respectful hearing among the leading reviewers of the nation unless it subscribes fully to this thesis:

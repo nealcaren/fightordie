@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jun. 1911
-categories: []
 subjects:
   - Convict leasing (penal labor) in the American South
   - Lynching and mob violence
@@ -32,6 +31,11 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Racial Violence"
+  - "Literary Writing"
+  - "Religion & Morality"
 ---
 
 ![](../../../Images/03_02_jcg-2.jpg)  

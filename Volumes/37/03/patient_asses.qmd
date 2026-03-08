@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Mar. 1930
-categories: []
 subjects:
 - Pan-Africanism
 - Voting rights — South Africa (disfranchisement)
@@ -35,6 +34,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Pan-Africanism & Empire"
 ---
 
 I met my friend one morning on Seventh Avenue as we were hurrying opposite ways to our work. She asked:

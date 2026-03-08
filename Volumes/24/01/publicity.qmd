@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: May 1922
-categories: []
 subjects:
   - Economic transparency (public disclosure of individual income)
   - Income taxation and public reporting
@@ -32,6 +31,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Labor & Economics"
 ---
 
 We learned during the Great War what Publicity could do. We saw its good effects in bringing the truth before the people; we saw its bad effects in making millions believe lies. We are thinking of these bad effects so persistently since the war that Propaganda is in bad odor. But let us remember that in pitiless Publicity we have perhaps the greatest militant organ of social reform at our hands.

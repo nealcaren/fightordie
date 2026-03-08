@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Jan. 1913
-categories: []
 subjects:
 - Disfranchisement
 - Educational inequality for Black children (limited vocational/servant training)
@@ -31,6 +30,11 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Segregation"
+  - "NAACP & Organizational Strategy"
+  - "Voting & Elections"
 ---
 
 Fifty years ago, on the first day of January, 1863, the American people,

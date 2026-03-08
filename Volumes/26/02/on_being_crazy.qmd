@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jun. 1923
-categories: []
 subjects:
   - Segregation—Public accommodations (restaurants, theatres, hotels)
   - Jim Crow social practices—racial exclusion and etiquette
@@ -30,6 +29,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Segregation"
+  - "Literary Writing"
 ---
 
 It was one o'clock and I was hungry. I walked into a restaurant, seated myself and reached for the bill-of-fare. My table companion rose.

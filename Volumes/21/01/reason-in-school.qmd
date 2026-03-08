@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: November 1920
-categories: []
 subjects:
   - Negro higher education
   - Black business enterprise and patronage
@@ -36,6 +35,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Education"
+  - "Labor & Economics"
 ---
 
 A correspondent asks us to denounce a Negro theatre that has refused to employ colored architects, engineers or builders; another writer takes us to task for our article on Wilberforce; and several of our readers dislike the article on the "Weaknesses of the Negro College."

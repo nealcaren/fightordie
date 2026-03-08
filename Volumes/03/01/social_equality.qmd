@@ -6,13 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: May 1911
-categories:
-  - Social Equalitysubjects:
-  - Social equality for African Americans
-  - Education and uplift of African Americans
-  - Race and religion (Southern religious paternalism and hypocrisy)
-  - Jim Crow / color line and racial segregation
-  - Labor, honest work and social uplift
 people:
   - W. E. B. Du Bois
   - James K. Vardaman
@@ -37,6 +30,11 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Segregation"
+  - "Religion & Morality"
+  - "The South"
 ---
 
 We are with great assiduity collecting practical definitions of "social equality."We say "practical" because the theoretical argument has gone quite insane. Here comes this month, *The Missionary Voice*, a well-disposed organ of the Southern white Methodists. In reviewing a pamphlet published by Atlanta University the *Voice* remarks concerning the editor that he is "well known as the leader of those Negroes who desire social equality for their race---a desire which crops out, here and there, through this pamphlet. The fact that no Southern white nor the wisest Southern blacks would sanction this desire for one moment does not lessen the impressiveness of this study of Negro effort to uplift the Negro race."

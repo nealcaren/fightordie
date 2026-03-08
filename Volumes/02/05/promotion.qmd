@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1911
-categories: []
 subjects:
   - Syndicated racist newspaper editorials
   - Promotion of racial prejudice by the press
@@ -35,6 +34,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Voting & Elections"
+  - "The South"
 ---
 
 Complacent people sit before

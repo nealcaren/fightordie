@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Oct. 1933
-categories: []
 subjects:
   - Pan-Africanism
   - Racial discrimination and color caste
@@ -34,6 +33,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Pan-Africanism & Empire"
+  - "Segregation"
 ---
 
 We have considered all these matters in relation to the American Negro but our underlying thought has been continually that they can and must be seen not against any narrow, provincial or even national background, but in relation to the great problem of the colored races of the world and particularly those of African descent.

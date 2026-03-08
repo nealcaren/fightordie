@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jan. 1932
-categories: []
 subjects:
   - Confederate monuments and Lost Cause ideology
   - Racialized public memory and denial of Black resistance
@@ -39,6 +38,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Retrospective"
 ---
 
 A singular contretemps has arisen at Harpers Ferry from the project of United Daughters of the Confederacy to erect a monument in memory of the slaves who remained faithful during the John Brown raid. According to their statement: "John Brown, a Connecticut abolitionist, with a criminal record behind him," planned a raid to free the slaves, but "not a single slave joined the conspirators." A boulder was accordingly put in place and dedicated and at its dedication, to the surprise of the colored world, Henry T. McDonald, the white President of colored Storer College, and the Reverend George F. Bragg, Jr., colored rector of the St. James Episcopal Church, Baltimore, took part.

@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Jan. 1917
-categories: []
 subjects:
 - Racial exclusion in cultural institutions
 - Racial slurs and stereotyping
@@ -36,6 +35,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Segregation"
 ---
 
 Race prejudice is not so much a matter of startling deeds as of petty insinuations. The New York Community Chorus, for instance, has sent broadcast a statement which says that "the chorus has sung every week since its organization, June 9, 1916, and has invited everybody freely to sing with it,"—to which the editor of <span class="crisis-title">The Crisis</span> was forced to reply that the colored people of New York had not been invited nor, indeed, allowed to sing with this chorus.

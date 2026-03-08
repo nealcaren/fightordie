@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jan. 1912
-categories: []
 subjects:
   - Educational inequality
   - Racialized labor competition
@@ -34,6 +33,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Literary Writing"
+  - "Racial Violence"
 ---
 
 The were sitting on the leeward deck of the vessel and the colored man was there with his usual look of unconcern, before the seasickness his presence aboard had caused some upheaval. The Woman, for instance, glancing at the Southerner, had refused point blank to sit beside him at meals, so she had changed places with the Little Old Lady. The Westerner, who sat opposite, said he did not care a ------,

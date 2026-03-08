@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: May 1919
-categories: []
 subjects:
 - Jim Crow laws
 - Lynching
@@ -30,6 +29,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Racial Violence"
+  - "Internal Debate"
 ---
 
 At no previous period in the history of the Negro in America has he been confronted with a more critical situation than today. The forces of prejudice against which we are fighting seem determined to keep twelve millions of Americans in that bondage of prejudice because of race, while those twelve millions are determined as never before to achieve the status of citizens---full and unlimited by caste or color. When two forces of such magnitude meet, a critical situation is inevitable and such a one is upon us today.

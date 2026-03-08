@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Apr. 1918
-categories: []
 subjects:
   - Race riots
   - Lynching
@@ -36,6 +35,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Racial Violence"
+  - "War & Military"
 ---
 
 | HOUSTON                                                                              | EAST ST. LOUIS                                |

@@ -3,7 +3,6 @@ title: 'Some Chicagoans of Note'
 description: "W.E.B. Du Bois in The Crisis (1915) profiles Black Chicago leaders, physicians, politicians, clergy and entrepreneurs, linking race, civic life and business."
 author: Du Bois, W.E.B.
 date: Mar. 1915
-categories: []
 subjects:
   - African American civic leadership — Chicago
   - African American military service — 8th Illinois Infantry (Illinois National Guard)
@@ -30,6 +29,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Labor & Economics"
+  - "Art & Culture"
 ---
 
 <figure>

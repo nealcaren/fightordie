@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1917
-categories: []
 subjects:
   - Racism — United States
   - Jim Crow laws
@@ -33,6 +32,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Segregation"
 ---
 
 There is in Paris a place where once a notorious prison stood---the Bastille. For many years from the beginning of its erection in 1369, it lowered, a stronghold of cruelty and despotism. But on one marvelous fourteenth of July, 1789, it was stormed by a furious and desperate populace, and not a stone is left to indicate what once had been. Instead, now on that spot, a lofty column, the Column of July, rears skyward its slender, beautiful length, a carven oriflamme of that liberty, fraternity and equality which is in verity the pride of France.

@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: January 1921
-categories: []
 subjects:
 - Voting rights — African Americans (enfranchisement)
 - Lynching and mob violence
@@ -35,6 +34,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Voting & Elections"
+  - "The South"
 ---
 
 The astonishing thing about the Bourbon South is its intellectual bankruptcy when it comes to the Negro. It continually assumes that the Negro is a fool. Some Negroes are fools but the proportion among them is steadily decreasing, while that among the Bourbons seems to increase. When the average white Southerner faces the problem of racial contact he has absolutely nothing to offer except what he offered in 1861---namely:

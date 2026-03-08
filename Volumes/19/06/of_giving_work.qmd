@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Apr. 1920
-categories: []
 subjects:
   - Paternalism (Race relations)
   - Economic exploitation of African American labor
@@ -29,6 +28,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Labor & Economics"
+  - "The South"
 ---
 
 "We give you people work and if we didn't, how would you live?"

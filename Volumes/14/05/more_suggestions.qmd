@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1917
-categories: []
 subjects:
   - African American economic cooperation
   - Cooperative distribution and retail cooperatives
@@ -31,6 +30,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Labor & Economics"
 ---
 
 We spoke last month of the great call for team work on the part of American Negroes and the pressing necessity of turning that team work toward helping us to earn a living.

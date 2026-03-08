@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: February 1921
-categories: []
 subjects:
   - Voting rights
   - Disfranchisement (Southern disfranchisement under Jim Crow)
@@ -31,6 +30,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Voting & Elections"
 ---
 
 Friends of Democracy and especially friends of over ten million disfranchised persons---white and black---in the South, are called upon today for clear thinking and a knowledge of the facts.

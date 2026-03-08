@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Feb. 1918
-categories: []
 subjects:
 - Military service — African Americans
 - Disfranchisement and voting rights — African Americans
@@ -32,6 +31,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "War & Military"
 ---
 
 FIRST, This is Our Country:

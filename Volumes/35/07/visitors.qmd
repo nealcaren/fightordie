@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jul. 1928
-categories: []
 subjects:
   - Office visitation etiquette
   - Workplace interruptions and productivity
@@ -35,6 +34,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Literary Writing"
 ---
 
 To the hard worker in a great modern city the problem of the casual

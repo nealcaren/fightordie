@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Mar. 1928
-categories: []
 subjects:
 - Commemoration of Confederate leaders
 - Slavery — defense and responsibility for the Civil War
@@ -35,6 +34,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "The South"
+  - "Religion & Morality"
 ---
 
 Each year on the 19th of January there is renewed effort to canonize Robert E. Lee, the great confederate general. His personal comeliness, his aristocratic birth and his military prowess all call for the verdict of greatness and genius. But one thing---one terrible fact---militates against this and that is the inescapable truth that Robert E. Lee led a bloody war to perpetuate human slavery. Copperheads like the New York *Times* may magisterially declare: "of course, he never fought for slavery." Well, for what did he fight? State rights? Nonsense. The South cared only for State Rights as a weapon to defend slavery. If nationalism had been a stronger defense of the slave system than particularism, the South would have been as nationalist in 1861 as it had been in 1812.

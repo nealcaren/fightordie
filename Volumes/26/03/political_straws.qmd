@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Jan. 1923
-categories: []
 subjects:
 - African American voting behavior
 - Anti-lynching legislation
@@ -38,6 +37,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Voting & Elections"
 ---
 
 (*From information furnished by Morris Lewis of Chicago and R. McCants Andrews of Durham, N.C.*) 

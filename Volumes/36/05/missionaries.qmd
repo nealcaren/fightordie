@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: May 1929
-categories: []
 subjects:
   - Racial discrimination in missionary societies
   - African American missionaries to Africa
@@ -36,6 +35,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Religion & Morality"
+  - "Pan-Africanism & Empire"
 ---
 
 There is a curious attitude on the part of religion in the United States and Europe toward American Negro missionaries. It is a little difficult to get at all the facts, but a questionnaire sent out among various missionary organizations reveals the following apparent situation:

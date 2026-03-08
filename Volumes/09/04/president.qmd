@@ -6,13 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1915
-categories:
-  - Woodrow Wilsonsubjects:
-  - Jim Crow laws
-  - Segregation in federal employment
-  - African American civil rights
-  - Race and presidential politics
-  - Race relations in the Southern United States
 people:
   - Woodrow Wilson
   - William Monroe Trotter
@@ -35,6 +28,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Segregation"
 ---
 
 It is difficult to see how any clear-minded American can longer doubt the

@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jun. 1917
-categories: []
 subjects:
   - African American military service (World War I)
   - Military segregation and discrimination
@@ -37,6 +36,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "War & Military"
 ---
 
 Let us raise our hats to Newton Diehl Baker, Secretary of War. He has not done everything we could wish, but he has accomplished so much more than President Wilson or any other member of this administration that he deserves all praise. He has carried out the draft with absolute fairness, notwithstanding delays. He has put black troops in nearly every cantonment. He has commissioned nearly 700 Negro officers in the United States Army. He has sent black troops to the front. He has made no discrimination in treatment or pay or opportunity. To be sure, we are segregated; but that was according to a foolish law for which the Secretary was not responsible. We are not permitted to volunteer beyond our four regiments but there, again, the authority of the Secretary is, at least, in doubt. Considering his limitations and the tremendous opposition to any act of justice to the Negro, Secretary Baker has done well. And he has crowned his well-doing by appointing an official advisor who belongs to the Negro race.

@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1919
-categories: []
 subjects:
   - African colonial troops in World War I
   - Recognition of Black soldiers by France
@@ -39,6 +38,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "War & Military"
+  - "Segregation"
 ---
 
 ## I 

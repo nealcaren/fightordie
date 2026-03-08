@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jun. 1916
-categories: []
 subjects:
   - Political education (African Americans)
   - Voter education and responsibility
@@ -31,6 +30,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Voting & Elections"
+  - "NAACP & Organizational Strategy"
 ---
 
 Nothing can better illustrate our meaning when we spoke last month of the need of political education among colored people, than the attitude of a few Negroes toward the political mission of the NAACP. It goes without saying that this association is, and has been from the beginning, a political organization, in the best and broadest sense of that term. It takes part in politics, and sees and knows no disgrace therefrom. It maintains that in any republic, except a dead one, there is no greater mission for citizens and organizations of citizens than wise, honest, determined political activity. 

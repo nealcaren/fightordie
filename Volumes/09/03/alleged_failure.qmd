@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jan. 1914
-categories: []
 subjects:
   - Black enfranchisement and voting rights
   - Reconstruction-era suffrage and governance
@@ -33,6 +32,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Voting & Elections"
+  - "Education"
 ---
 
 The following editorial on "The Alleged Failure of Democracy" was written by the editor of The Crisis and printed in the Boston *Sunday Globe*:

@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Apr. 1914
-categories: []
 subjects:
   - Anti-war activism
   - European militarism
@@ -29,6 +28,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "War & Military"
+  - "Literary Writing"
 ---
 
 Come, all my father's children, and sit beside my knee, here with this

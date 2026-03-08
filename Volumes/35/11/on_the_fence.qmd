@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Nov. 1928
-categories: []
 subjects:
   - Voter registration and turnout (African Americans)
   - African American electoral strategy
@@ -38,6 +37,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Voting & Elections"
 ---
 
 In this presidential campaign <span class="crisis-title">The Crisis</span> is sitting squarely on the fence, naked and unashamed and without apology. It is certain that either Herbert Hoover or Al Smith is going to be elected President of the United States, and in our humble opinion, it does not matter a tinker's damn which of these gentlemen succeed. With minor exceptions, they stand for exactly the same thing: oligarchy in the South; color caste in national office holding; and recognition of the rule of organized wealth. We do not believe that there is a jot or tittle of difference between these two men in their attitude toward these fundamental matters, and we sincerely advise our readers to vote for neither of them.

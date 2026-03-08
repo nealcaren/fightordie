@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jan. 1911
-categories: []
 subjects:
   - Lynching
   - Vigilantism and mob violence
@@ -30,6 +29,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Racial Violence"
+  - "NAACP & Organizational Strategy"
 ---
 
 There is without doubt a large criminal and semi-criminal class among colored people. This is but another way of saying that the social uplift of a group of freedmen is a serious task. But it is also true, and painfully true, that the crime imputed carelessly and recklessly against colored people gives an impression of far greater criminality than the facts warrant.

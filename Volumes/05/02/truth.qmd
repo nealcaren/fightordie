@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Jun. 1912
-categories: []
 subjects:
 - Press and media bias against African Americans
 - Disfranchisement
@@ -36,6 +35,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Art & Culture"
+  - "NAACP & Organizational Strategy"
 ---
 
 That this nation and this world needs is a Renaissance of reverence for the truth. If <span class="crisis-title">The Crisis</span> stands for one thing above others, it is emphasis of this fact, and it is here that we have to differ with some of our best friends. We are here to tell the essential facts about the condition of the Negro in the United States. Not all the facts, of course—one can never tell everything about anything. Human communication must always involve some selection and emphasis. Nevertheless. in such selection and emphasis there can be two attitudes as different as the poles. One attitude assumes that the truth ought to be as one person or race wants it and then proceeds to make the facts prove this thesis. The other attitude strives without undue assumption of any kind to show the true implication of the existing facts. The first attitude is that of nearly all the organs of public opinion in the

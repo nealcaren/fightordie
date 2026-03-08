@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1923
-categories: []
 subjects:
   - Emigration to Liberia
   - Labor migration and employment opportunities in Africa
@@ -35,6 +34,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Pan-Africanism & Empire"
 ---
 
 > I am writing to you to-day to 

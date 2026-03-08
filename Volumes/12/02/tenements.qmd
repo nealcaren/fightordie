@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jun. 1916
-categories: []
 subjects:
   - Residential segregation
   - Philanthropic housing initiatives
@@ -36,6 +35,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Segregation"
+  - "Labor & Economics"
 ---
 
 We sincerely trust that individuals and organizations friendly to the

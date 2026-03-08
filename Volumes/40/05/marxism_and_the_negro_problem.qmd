@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: May 1933
-categories: []
 subjects:
   - Marxism
   - Class struggle and economic exploitation
@@ -35,6 +34,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Labor & Economics"
 ---
 
 Karl Marx was a Jew born at Treves, Germany, in March, 1818. He came of an educated family and studied at the Universities of Bonn and Berlin, planning first to become a lawyer, and then to teach philosophy.

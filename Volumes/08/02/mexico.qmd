@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jun. 1914
-categories: []
 subjects:
   - U.S. imperialism and colonialism
   - Racialized imperialism / racialized military intervention
@@ -34,6 +33,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Pan-Africanism & Empire"
+  - "War & Military"
 ---
 
 There is, without doubt, a deep hesitancy throughout this nation in the

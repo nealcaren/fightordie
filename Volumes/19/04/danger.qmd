@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Feb. 1920
-categories: []
 subjects:
 - Postal censorship
 - Freedom of the press
@@ -34,6 +33,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Internal Debate"
 ---
 
 *The Sterling Bill (S 3,317) has passed the Senate and is before the House. The Graham Bill, (H.R. 11,430), has been favorably reported by the House Committee. Both bills are before the Committee on Rules, and before this reaches our readers, may be before the House. Section 6 of the Graham Bill is as follows:*

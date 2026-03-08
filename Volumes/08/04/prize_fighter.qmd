@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1914
-categories: []
 subjects:
   - Racial discrimination in sports
   - Boxing — history and social morality
@@ -35,6 +34,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Art & Culture"
+  - "Segregation"
 ---
 
 Boxing is an ancient sport. It is mentioned in Homer's Iliad and Virgil's

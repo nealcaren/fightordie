@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jan. 1914
-categories: []
 subjects:
   - Residential segregation
   - Housing discrimination (mortgage denial)
@@ -35,6 +34,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Segregation"
+  - "Labor & Economics"
 ---
 
 If the Negroes are to keep what little they have gained in the right to occupy decent dwelling places on the island of Manhattan, they would better be up and doing.

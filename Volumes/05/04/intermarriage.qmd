@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1913
-categories: []
 subjects:
   - Anti-miscegenation laws (United States)
   - Interracial marriage — United States
@@ -31,6 +30,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Segregation"
+  - "Women's Rights"
 ---
 
 Few  groups of people are forced by their situation into such cruel dilem­mas as American Ne­groes. Nevertheless they must not allow anger or personal resentment to dim their clear vision.

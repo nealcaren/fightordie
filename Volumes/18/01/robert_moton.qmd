@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: May 1919
-categories: []
 subjects:
 - Military discrimination
 - Pan-Africanism
@@ -35,6 +34,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Internal Debate"
+  - "War & Military"
 ---
 
 Neither R. R. Moton nor W. E. B. Du Bois had the slightest idea that the other was planning to sail for France, December 1, until they met in Washington on a quest for passports, November 30. They sailed together on the Orizaba and frankly discussed their agreements and disagreements. When they reached France, each went about his own business. 

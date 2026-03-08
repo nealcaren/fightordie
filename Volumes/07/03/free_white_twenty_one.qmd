@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Jan. 1914
-categories: []
 subjects:
 - Disfranchisement
 - Racial prejudice and white supremacy
@@ -30,6 +29,11 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "NAACP & Organizational Strategy"
+  - "Voting & Elections"
+  - "Labor & Economics"
 ---
 
 We will suppose, dear reader, that you are "Free, white and twenty-one;" that you are reasonably patriotic and would rather the world grew

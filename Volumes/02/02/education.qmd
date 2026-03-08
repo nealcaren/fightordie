@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jun. 1911
-categories: []
 subjects:
   - Educational inequality
   - Racial inequality in education
@@ -35,6 +34,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Education"
+  - "The South"
 ---
 
 There are people in the United States who say: "We have

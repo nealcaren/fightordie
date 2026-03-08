@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1933
-categories: []
 subjects:
   - Sexism and gender roles
   - Women's suffrage
@@ -33,6 +32,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Women's Rights"
 ---
 
 Anent my December editorial one writes:

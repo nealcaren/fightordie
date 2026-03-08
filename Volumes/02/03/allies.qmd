@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Jan. 1911
-categories: []
 subjects:
 - Disfranchisement
 - Racial discrimination in the U.S. military
@@ -34,6 +33,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Voting & Elections"
+  - "War & Military"
 ---
 
 Occasionally we find in

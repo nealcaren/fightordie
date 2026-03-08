@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jan. 1928
-categories: []
 subjects:
   - Racial discrimination in disaster relief
   - Coerced labor of Black flood refugees
@@ -35,6 +34,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Racial Violence"
+  - "Labor & Economics"
 ---
 
 There were four refugee camps at Vicksburg: Camp Hayes, Camp Juarez, Camp Louisiana and Camp Fort Hill. The lovely hills of the National Park, where once the Confederate and Union armies were camped, made an ideal location high above the muddy River and the little town of Vicksburg.

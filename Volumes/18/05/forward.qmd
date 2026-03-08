@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1919
-categories: []
 subjects:
   - Public-utility ownership (railroads, telegraph, telephone, streetcars; municipal and national ownership)
   - Labor movements; worker rule and worker-based suffrage
@@ -36,6 +35,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Labor & Economics"
+  - "Pan-Africanism & Empire"
 ---
 
 We black folk easily drift into intellectual provincialism. We know our problem and tend to radical thought in its solution, but do we strive to know the problems of other forward forging groups whose difficulties are inevitably intertwined with ours?

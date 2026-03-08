@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1932
-categories: []
 subjects:
   - Black political power
   - Economic emancipation of African Americans
@@ -37,6 +36,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Voting & Elections"
+  - "Labor & Economics"
 ---
 
 There was held in December in Washington a "Non-Partisan Negro Conference" called by Congressman Oscar De Priest. It brought together speakers of all sorts and kinds, and speeches good, bad and indifferent. The general spirit, however, seemed excellent and the independence of thought, knowledge of subjects discussed and general morale were commendable.

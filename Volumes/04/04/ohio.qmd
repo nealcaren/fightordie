@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Feb. 1912
-categories: []
 subjects:
 - Women's suffrage
 - Voting rights
@@ -29,6 +28,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Women's Rights"
+  - "Voting & Elections"
 ---
 
 This fall the colored voters of Ohio have a wonderful opportunity; the 40,000 or 50,000 votes which they cast will undoubtedly decide whether women shall vote in that State and whether the last of the infamous black laws shall be swept from the statute book.

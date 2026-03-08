@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Jan. 1918
-categories: []
 subjects:
 - Higher education
 - Philanthropy and charitable support for Black education
@@ -36,6 +35,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Education"
 ---
 
 ## Philanthropy

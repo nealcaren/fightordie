@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1928
-categories: []
 subjects:
   - Racial nomenclature (ethnonyms) and naming practices
   - Racial identity and internalized inferiority (psychology)
@@ -33,6 +32,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Internal Debate"
 ---
 
 > South Bend, Ind.

@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Jun. 1911
-categories: []
 subjects:
 - Lynching
 - Disfranchisement
@@ -30,6 +29,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Internal Debate"
+  - "Religion & Morality"
 ---
 
 "He doesn't really believe what he says---he wants the same things that you want, but you see he has to talk this way." 

@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: May 1914
-categories: []
 subjects:
   - White supremacy and racial oppression
   - Sexual exploitation and sexual violence against Black women
@@ -30,6 +29,11 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Literary Writing"
+  - "Women's Rights"
+  - "Pan-Africanism & Empire"
 ---
 
 <div class="poem">

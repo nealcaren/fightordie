@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: May 1911
-categories: []
 subjects:
   - Racial stereotyping and generalization
   - Anti-Black prejudice
@@ -33,6 +32,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Segregation"
+  - "Education"
 ---
 
 We offer no apology for coining a new long needed English word. We simply pause to acknowledge our indebtedness to Miss Pratt and Miss Ovington and to recommend our readers to know the former's stories and to commit to memory the last chapter of "Half-a-Man."

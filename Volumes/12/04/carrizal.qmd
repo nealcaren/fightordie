@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Feb. 1916
-categories: []
 subjects:
 - Military discrimination (African American soldiers)
 - Jim Crow laws
@@ -35,6 +34,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "War & Military"
+  - "Racial Violence"
 ---
 
 Carrizal was a glory and a blunder, a joke and a crucifixion; a blunder

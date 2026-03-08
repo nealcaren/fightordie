@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1928
-categories: []
 subjects:
   - Black nationalism and Pan-Africanism (Marcus Garvey movement)
   - Black economic enterprises and the Black Star Line
@@ -35,6 +34,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Internal Debate"
 ---
 
 Many persons are under the impression that the N.A.A.C.P. has been the persistent enemy of Marcus Garvey. This is due to repeated accusations published in the *Negro World* without the slightest basis of fact. For the sake of the truth, it may be well to recall certain matters of clear record.

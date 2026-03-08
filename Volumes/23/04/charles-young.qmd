@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1921
-categories: []
 subjects:
   - Racial discrimination in the U.S. Army
   - African American military officers
@@ -33,6 +32,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "War & Military"
 ---
 
 The life of Charles Young was a triumph of tragedy. No one ever knew the truth about the Hell he went through at West Point. He seldom even mentioned it. The pain was too great. Few knew what faced him always in his army life. It was not enough for him to do well--he must always do better; and so much and so conspicuously better, as to disarm the scoundrels that ever taunted him. He lived in the army surrounded by insult and intrigue and yet he set his teeth and kept his soul serene and triumphed.

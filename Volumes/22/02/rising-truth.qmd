@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Jun. 1921
-categories: []
 subjects:
 - Lynching and mob violence
 - Ku Klux Klan violence and terrorism
@@ -34,6 +33,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Racial Violence"
+  - "The South"
 ---
 
 Since the founding of <span class="crisis-title">The Crisis</span> one of the criticisms against it which has been hardest to bear has been that of deliberately exaggerating the mistreatment of Negroes, suppressing the favorable truth and seeking to foment race trouble. While the Nashville *Banner*, the Macon *Telegraph*, the Columbia *State*, and men like Weatherford, Bolton Smith and Brough have deliberately spread this false impression, we who sit and see and hear the truth know that far from exaggerating we were more often consciously suppressing and concealing the horrors of southern oppression. Month after month we go through the sordid and horrifying details---the letters, the newspapers, the personal visits and appeals---and say in despair: if we publish all this---if we unveil the whole truth, we will defeat our own cause because the public will not believe it, and our own dark readers will shrink from our pages. And so we have fed the world the atrocities we knew of in carefully regulated doses, often incurring the censure of members of our own race, who knew of particular incidents, for our failure to mention them.

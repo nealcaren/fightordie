@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jan. 1918
-categories: []
 subjects:
   - African American military service and patriotism
   - Race relations during wartime (United States)
@@ -35,6 +34,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "War & Military"
 ---
 
 This is The Crisis of the world.

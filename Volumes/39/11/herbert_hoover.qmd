@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Nov. 1932
-categories: []
 subjects:
 - Disfranchisement
 - Lily-White movement (Republican Party)
@@ -38,6 +37,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Voting & Elections"
+  - "Segregation"
 ---
 
 The indictment which Americans of Negro descent have against Herbert Hoover is long, and to my mind, unanswerable. The chief counts are the following:

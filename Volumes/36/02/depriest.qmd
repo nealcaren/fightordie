@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1929
-categories: []
 subjects:
   - Enforcement of the 13th, 14th, and 15th Amendments
   - Anti-lynching legislation (Dyer Bill / anti-lynching campaigns)
@@ -38,6 +37,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Voting & Elections"
 ---
 
 We have received the following letter from Margaret Deland, the well-known writer:

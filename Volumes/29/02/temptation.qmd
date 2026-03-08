@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: December 1924
-categories: []
 subjects:
   - Economic survival and wage labor
   - Moral and religious temptation (allegory of Christ's temptation)
@@ -32,6 +31,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Literary Writing"
+  - "Religion & Morality"
 ---
 
 There was a man standing in the Wilderness. He was black and thin; his clothes were shabby but his eyes burned toward heaven.

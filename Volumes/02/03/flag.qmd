@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jan. 1911
-categories: []
 subjects:
   - Lynching
   - Anti-lynching legislation
@@ -36,6 +35,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Racial Violence"
+  - "NAACP & Organizational Strategy"
 ---
 
 Representatives from a number of organizations concerned with securing justice to the Negro---among them the N.A.A.C.P.---called upon President Taft the other day in regard to the recent lynchings in Kentucky, Florida, Georgia and Oklahoma. In view of the fact that Negroes had been murdered at an average of one a day, the committee respectfully asked that the President call the attention of Congress to this reign of lawlessness and that appropriate legislation be enacted. The President received the delegates with every courtesy, but assured them that the matter of lynching must be left entirely to the individual States.

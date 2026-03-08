@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: May 1917
-categories: []
 subjects:
   - Great Migration (African American labor migration)
   - Northern industrial labor demand (World War I era)
@@ -33,6 +32,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Labor & Economics"
+  - "The South"
 ---
 
 The migration of Negro laborers from South to North continues as it should. Southern white papers are filled with contradictory statements; to-day, with editorials ridiculing the exodus, painting fearsome pictures of the awful condition of the emigrants and chronicling their wholesale return; tomorrow come editorials bewailing the loss of labor and crying for drastic measures to enslave the black peons.

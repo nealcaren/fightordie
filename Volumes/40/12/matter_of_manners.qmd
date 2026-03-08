@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Dec. 1933
-categories: []
 subjects:
 - African American manners and etiquette
 - Race relations
@@ -32,6 +31,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Segregation"
+  - "The South"
 ---
 
 There was a time when the Negro race in America had a right to boast that its manners were better than those of its white neighbors. They were insistently courteous and soft-voiced. Their experience of public insult gave them a sort of social sense of what was due the individual in personal deference and of the good policy and kindliness that lay behind: "Excuse me," "I thank you," "Please."

@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Feb. 1911
-categories: []
 subjects:
 - Jim Crow laws
 - Educational inequality (segregated schools and white superintendence)
@@ -30,6 +29,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Segregation"
+  - "The South"
 ---
 
 It is a cruel mental strain to which honest colored men are being put to-day, particularly in the South. They want to come to terms with their neighbors. They are being urged to do this---urged by black leaders and white and by strong public opinion. The South sometimes is represented as aggressively friendly. They are seeking piteously, therefore,

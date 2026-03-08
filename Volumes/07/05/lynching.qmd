@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Mar. 1914
-categories: []
 subjects:
 - Lynching
 - Lynching and mob violence
@@ -33,6 +32,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Racial Violence"
 ---
 
 We do not blame the people of the United States for being ashamed of lynching, but we have serious doubts if recent methods of curing the evil are going to be really efficacious. We do not refer now to the unjust and dangerous hastening of the trials of accused persons, nor even to the proposed lessening of the penalty for mob murder; but rather to an attempt, deliberate or unintentional, to suppress the truth concerning the present extent of lynching in this land.

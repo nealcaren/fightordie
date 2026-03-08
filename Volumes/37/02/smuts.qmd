@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1930
-categories: []
 subjects:
   - White supremacy
   - Racial segregation
@@ -38,6 +37,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Pan-Africanism & Empire"
 ---
 
 Jan Smuts, former Prime Minister of the Union of South Africa, has been traveling in England and is now in the United States. He is a man whom many regard as a great international statesman, but for us American Negroes, he has one intolerable defect which we more clearly than other peoples can see will forever keep him from true greatness.

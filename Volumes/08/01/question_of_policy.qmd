@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: May 1914
-categories: []
 subjects:
   - Lynching and anti-lynching activism
   - Voting rights (African Americans) / Political disenfranchisement
@@ -37,6 +36,11 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "NAACP & Organizational Strategy"
+  - "Racial Violence"
+  - "Segregation"
 ---
 
 ## A Question of Policy

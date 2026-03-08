@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1912
-categories: []
 subjects:
   - Lynching
   - Interracial sexual violence (white men against Black women)
@@ -32,6 +31,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Racial Violence"
+  - "Women's Rights"
 ---
 
 We would like to know what rights the white people of this land are going to be able to retain? Step by step their dearest and most cherished prerogatives are being invaded, and <span class="crisis-title">The Crisis</span> wants to say right here and now that it does not countenance oppression of the downtrodden whites by arrogant black folk. A few years ago the right to kick a darky off the sidewalk was unquestioned in the most devout circles, and yet to-day they actually complain at being called by their front names.

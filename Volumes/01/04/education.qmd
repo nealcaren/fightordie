@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1911
-categories: []
 subjects:
   - Racial disparities in education
   - Segregated schooling (Southern United States)
@@ -37,6 +36,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Education"
+  - "The South"
 ---
 
 THE amount of positive ignorance on the situation of the colored people in America is simply appalling. Take, for instance, the matter of the education of children. The Lawrence (Mass.) American says with great complacence: "The education of the Negro in the South is now on a sound and safe basis. Its scope is broad and sensible, training him both mentally and industrially, not forgetting his moral elevation as well. It is a task being well done, and the results should be effective in wearing down the edge of the racial prejudice below the Mason and Dixon line."

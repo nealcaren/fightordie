@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: December 1921
-categories: []
 subjects:
   - British colonialism in Nigeria
   - Black Christian theology (Afrocentric reinterpretation of the Nativity)
@@ -31,6 +30,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Religion & Morality"
+  - "Literary Writing"
 ---
 
 Now when Jesus was born in Benin of Nigeria in the days of English rule, behold, there came wise men from the East to London.

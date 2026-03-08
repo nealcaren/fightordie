@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1911
-categories: []
 subjects:
   - Scientific critique of racial hierarchy
   - Race and education (mass education as reform)
@@ -36,6 +35,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Pan-Africanism & Empire"
+  - "Education"
 ---
 
 If Americans who have long since said the last word con­cerning the races of men and their proper relations will read the papers laid before the First Universal Races Congress, they will realize that America is fifty years behind the scientific world in its racial philosophy.

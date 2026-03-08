@@ -3,7 +3,6 @@ title: 'The Cherokee Fires: An N.A.A.C.P. Investigation'
 description: "Nash, Royal Freeman in The Crisis (1916) examines Cherokee County fires as an N.A.A.C.P. probe links them to anti-Black terror and arson."
 author: Nash, Royal Freeman
 date: Mar. 1916
-categories: []
 subjects:
   - Racial arson and terror against Black communities
   - Racially-motivated dispossession of Black property
@@ -36,6 +35,11 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Racial Violence"
+  - "The South"
+  - "NAACP & Organizational Strategy"
 ---
 
 Cherokee County, Georgia, suffered four incendiary fires during the twenty-four hours commencing at one-thirty on the morning of Sunday, December 5, 1915. At that hour two barns belonging to Gus Coggins, on the outskirts of Canton, the county seat, were set on fire. Mr. Coggins is one of the largest stock dealers in the South. In one barn 159 mules and two horses perished; in the other 16,000 bushels of corn, many tons of hay, seven carloads of cottonseed hulls, and a car and a half of cottonseed meal, together with farming implements of every description, were consumed. Out of the largest corn crop ever produced in north Georgia and the greatest number of stock gathered under one roof, nothing was saved but Coggins' celebrated racer, Sledmer.

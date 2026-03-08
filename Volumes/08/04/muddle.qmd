@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jan. 1914
-categories: []
 subjects:
   - Racial segregation (public accommodations)
   - Philanthropy and racial exclusion
@@ -35,6 +34,11 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Segregation"
+  - "The South"
+  - "NAACP & Organizational Strategy"
 ---
 
 The Negro problem is undoubtedly reaching a degree of spiritual

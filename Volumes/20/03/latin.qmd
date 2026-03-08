@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jul. 1920
-categories: []
 subjects:
   - Classical education (Latin and Greek)
   - College entrance requirements
@@ -34,6 +33,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Education"
 ---
 
 The principal of a State school for Negroes writes us:

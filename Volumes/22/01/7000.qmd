@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: May 1922
-categories: []
 subjects:
 - Jim Crow laws
 - Lynching
@@ -36,6 +35,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Segregation"
+  - "Racial Violence"
 ---
 
 <figure class="right" style="width: 50%;">

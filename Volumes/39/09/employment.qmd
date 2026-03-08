@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Sep. 1932
-categories: []
 subjects:
   - Educational inequality
   - School segregation (racially segregated public schools)
@@ -34,6 +33,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Education"
+  - "Labor & Economics"
 ---
 
 Our educational problem has two difficulties: first, the great mass of Negroes are not receiving proper and adequate common school training. It means today that we are educating an aristocracy of learning, but we are not using it or allowing it to be used to educate the masses of the people.

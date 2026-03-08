@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: May 1912
-categories: []
 subjects:
   - African American newspapers and periodicals
   - Financing and patronage of Black institutions
@@ -35,6 +34,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "NAACP & Organizational Strategy"
+  - "Art & Culture"
 ---
 
 It is natural that there should be many misapprehensions concerning the origin of <span class="crisis-title">The Crisis</span> as well as its object. Every man with a cause longs to voice his belief. Most men, however, like the editor of this magazine, are held back by a very genuine doubt as to whether the public will recognize any worth in the proposed message. They know---or they think they know---that when the message is voiced, and the world realizes its full import, it will welcome and help actively in its spread. 

@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jan. 1918
-categories: []
 subjects:
   - Primary education — Curriculum (reading, writing, arithmetic)
   - Vocational education — Opposition in primary/elementary schools
@@ -32,6 +31,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Education"
 ---
 
 Much mist and misunderstanding has been consciously and unconsciously put in the colored public mind by recent discussions of the schools. We colored people must, however, keep one thing clearly before us: the first fours years' of a child's life, no matter what his race or condition, must be devoted by every modern country which wishes to survive and grow to a very simple program of study: (1) The child must learn to read so as to be able easily to understand what men have written; (2) the child must learn to write so as to be able to communicate with his fellow men; (3) the child must learn to count so as to be able to handle the extraordinary multiplicity of the world's things. To read, to write, to cipher---this is the program and the only program of the first four years of a child's school life. The neglect to do this work then means, in practically all cases, the fatal crippling of the child. This program of study is a matter of technique and difficult technique. It must be learned early and thoroughly or it may not be learned at all. It must be carefully drilled in and be made second nature to the child.

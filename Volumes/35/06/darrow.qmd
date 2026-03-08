@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Jun. 1928
-categories: []
 subjects:
 - Religion and social justice
 - African American churches — role and criticism
@@ -36,6 +35,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Religion & Morality"
 ---
 
 Nothing more unfortunate has happened in the recent history of the Negro

@@ -6,14 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Dec. 1910
-categories:
-  - Discriminationsubjects:
-  - Racial discrimination
-  - Racial stereotyping
-  - Lynching—United States
-  - Police misconduct—Race relations
-  - Public accommodations—Race relations
-  - Social injustice—Race relations
 places:
   - United States
 organizations:
@@ -30,6 +22,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Segregation"
+  - "Racial Violence"
 ---
 
 In the argument of the prejudiced there is a certain usual ending: "But this is inevitable." For instance, a crime is committed by you. I am lynched. "It is inevitable," cries the bystander, "they were both Negroes." A brown man is admitted to a theatre, misbehaves and is ejected.

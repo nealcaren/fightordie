@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jan. 1920
-categories: []
 subjects:
   - British imperialism and colonialism
   - Land dispossession in Rhodesia (Matabele and Mashona)
@@ -36,6 +35,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Pan-Africanism & Empire"
 ---
 
 I was reared in an atmosphere of admiration---almost of veneration---for England. The New England of my birth and day was English in its soul: its speech was more English than American; its history was an extension of English history; its law was English tradition; its town government was of English ancestry. Our reverence for England was increased rather than diminished by distance and lack of actual contact and also, I regret to remember, by the then current dislike of the Irish. 

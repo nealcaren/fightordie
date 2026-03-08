@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1915
-categories: []
 subjects:
   - Haitian sovereignty and independence
   - U.S. imperialism / interventionism in the Caribbean
@@ -35,6 +34,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Pan-Africanism & Empire"
 ---
 
 Let us save Hayti. Hayti is a noble nation. It is a nation that has given the world one of its greatest names---Toussaint L'Ouverture. It is a nation that made slaves free. It is a nation that dared and dares to fight for freedom. This is no time or place for us American Negroes who seldom have had courage to fight, to point scornful fingers at our brothers.

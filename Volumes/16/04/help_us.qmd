@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1918
-categories: []
 subjects:
   - Lynching
   - Public transportation discrimination
@@ -36,6 +35,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "War & Military"
+  - "Segregation"
 ---
 
 > From the petition of thirty-one Negro editors unanimously adopted at their meeting in Washington:

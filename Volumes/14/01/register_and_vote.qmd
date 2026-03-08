@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: May 1917
-categories: []
 subjects:
 - White primaries
 - Voting rights
@@ -34,6 +33,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Voting & Elections"
+  - "Women's Rights"
 ---
 
 It is of prime necessity that the colored people of the South should begin to break down the "white primary." The NAACP proposes to take the matter of the "white primary" into the 

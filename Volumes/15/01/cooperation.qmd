@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: May 1918
-categories: []
 subjects:
   - Co-operative movement
   - Consumer cooperatives
@@ -33,6 +32,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Labor & Economics"
 ---
 
 <span class="crisis-title">The Crisis</span> has now for several months been developing a program looking toward an economic forward movement among the Negroes of the United States. The matter has been developed slowly in order to have as large a number of people as possible understand just what it is that <span class="crisis-title">The Crisis</span> has in mind. 

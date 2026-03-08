@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Feb. 1929
-categories: []
 subjects:
 - Third Party movements (United States)
 - Disfranchisement
@@ -35,6 +34,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Voting & Elections"
 ---
 
 The pressing political problem in the United States is that of establishing the principle of a Third Party movement. It does not matter how logical and convincing an appeal is launched by any group, unless they can effectively place this before the voters of the nation, their work is in vain. For many years we have seen in the United States the rise of Third Party movements which have come to naught. They have failed, not because they did not have a good program and a right to persist and grow, but because they could not get the proper political hearing. 

@@ -6,13 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: May 1919
-categories:
-  - Social Equalitysubjects:
-  - Voting rights
-  - Jim Crow laws (racial segregation in public accommodations and transportation)
-  - Lynching / anti-lynching advocacy
-  - Educational equality / universal education
-  - Social equality (racial integration and social mixing)
 people:
   - W. E. B. Du Bois
   - Bourbons (Southern conservative white political leadership)
@@ -33,6 +26,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Segregation"
 ---
 
 Every time the American Negro seeks reasonably and earnestly to bring his case before the white South and the nation the bourbons proceed to throw dust in the eyes of the public by screaming frantically, "Social Equality."

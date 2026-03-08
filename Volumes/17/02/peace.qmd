@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jun. 1919
-categories: []
 subjects:
   - World War I aftermath
   - Peace and reconciliation
@@ -31,6 +30,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "War & Military"
+  - "Religion & Morality"
 ---
 
 The nightmare is over. The world awakes. The long, horrible years of dreadful night are passed. Behold the sun! We have dreamed. Frightfully have we dreamed unimagined, unforgettable things—all lashed with blood and tears. Bound and damned we writhed and could not stir. The contortions of our hated souls stifled our hunted bodies. We were cold and numb and deaf and blind, and yet the air was visioned with the angels of Hell; the earth was a vast groan; the sea was a festering sore, and we were flame.

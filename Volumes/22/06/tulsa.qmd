@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Apr. 1921
-categories: []
 subjects:
   - Racial violence (race riots)
   - Black armed self-defense
@@ -37,6 +36,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Racial Violence"
 ---
 
 Do not forget Tulsa! The same little herring has been drawn across the path there that saw the light at Atlanta and similar places. *First*, great moral indignation was announced on the part of the white people at the abuse of the  Negroes. *Then*, they were going to take care of the Negroes who had suffered. In Tulsa, they were actually going to rebuild the Negro section. When, in this way, the nation was lulled to rest, and could spend its surplus funds in Pueblo and the Far East, then white Tulsa proposed that the Negroes should sell this valuable land to them at a nominal cost and occupy huts in the muddy and unlighted outskirts. Black Tulsa did not see it this way. Black Tulsa fights! It fights mobs with firearms and it fights economic oppression with cooperation. It has appealed to the colored people of the United States for funds. The National Association for the Advancement of Colored People will be glad to act as its agent. 

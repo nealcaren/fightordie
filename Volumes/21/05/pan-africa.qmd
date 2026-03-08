@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1921
-categories: []
 subjects:
   - Pan-Africanism
   - Colonialism and self-determination
@@ -38,6 +37,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Pan-Africanism & Empire"
 ---
 
 The growth of a body of public opinion among peoples of Negro descent broad enough to be called Pan-African is a movement belonging almost entirely to the twentieth century.

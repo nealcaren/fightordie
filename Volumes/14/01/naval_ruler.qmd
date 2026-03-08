@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: May 1917
-categories: []
 subjects:
   - U.S. imperialism and colonialism
   - Military governance of occupied territories
@@ -36,6 +35,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Pan-Africanism & Empire"
 ---
 
 When the United States takes possession of foreign territory it sends to govern it a naval officer. But, naval officers are not trained to govern. They are trained to fight! They have made no study of social organization, of human development, of industrial organization; if they are not quite unsympathetic, it is no fault of their training or of the traditions of their caste; yet, today they are well-nigh absolute masters in Nicaragua, San Domingo, Hayti and the erstwhile Danish West Indies. It would be impossible to conceive a more dangerous or foolhardy experiment.

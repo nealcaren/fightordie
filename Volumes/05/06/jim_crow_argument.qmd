@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Apr. 1913
-categories: []
 subjects:
   - Jim Crow laws
   - Segregation (public transportation)
@@ -32,6 +31,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Segregation"
 ---
 
 The chairman of the committee in the Missouri legislature which is

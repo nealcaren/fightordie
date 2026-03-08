@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1927
-categories: []
 subjects:
   - African American cultural renaissance (Harlem Renaissance)
   - African American education (secondary and higher education)
@@ -30,6 +29,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Art & Culture"
+  - "Education"
 ---
 
 Nothing is more dangerous than unintelligent optimism, childish faith in the triumph of good, the "God's-in-His-heaven" attitude assumed because one is too lazy to be worried. On the other hand, the worst moral dyspepsia must face facts; and looking back on the history of the Negro race in America for the last few years one cannot help feeling a sense of tremendous encouragement.

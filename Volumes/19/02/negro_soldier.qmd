@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Jun. 1919
-categories: []
 subjects:
 - Military discrimination
 - African American military service in World War I
@@ -37,6 +36,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "War & Military"
 ---
 
 The carefully arranged attack on the Negro soldier, delayed and somewhat disarranged by <span class="crisis-title">The Crisis</span>' revelation in May and June, was at last launched in *Harvey's Weekly*. The article consisted of a series of falsehoods and half-truths.

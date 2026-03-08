@@ -3,13 +3,6 @@ title: 'Brother Baptis'' on Woman Suffrage'
 description: "Jonas, Rosalie in The Crisis (1912) examines how woman suffrage intersects with race, arguing Black women face shared oppression and illusory freedom."
 author: Jonas, Rosalie
 date: Mar. 1912
-categories:
-  - Woman Suffragesubjects:
-  - Women's suffrage
-  - African American women's political participation
-  - Voting rights
-  - Racial discrimination (United States)
-  - Gender discrimination
 people:
   - Du Bois, W. E. B.
   - Brother Baptis (fictional speaker)
@@ -29,6 +22,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Women's Rights"
+  - "Literary Writing"
 ---
 
 When hit come ter de question er de female vote,       

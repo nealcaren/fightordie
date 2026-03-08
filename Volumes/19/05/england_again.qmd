@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Mar. 1920
-categories: []
 subjects:
 - British imperialism
 - Land dispossession in Africa
@@ -37,6 +36,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Pan-Africanism & Empire"
 ---
 
 Two criticisms have been made of the editorial on England in the January number of <span style="font-variant:small-caps;">The Crisis</span>. One writer reminds us of the great work of emancipation and the suppression of the slave trade, started by England early in the nineteenth century. The other, would not have us forget the hostile attitude of Irish Americans toward Negroes.

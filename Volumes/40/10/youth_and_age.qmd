@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Oct. 1933
-categories: []
 subjects:
   - Intergenerational dialogue in African American leadership
   - Race and labor within democratic economic reform
@@ -37,6 +36,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Internal Debate"
+  - "Labor & Economics"
 ---
 
 I was the great Jew, Benjamin Disraeli, who said: "Youth is a blunder; manhood a struggle; old age a regret." And so with blunder and regret and perhaps something of struggle, we came together last month in the second Amenia Conference.

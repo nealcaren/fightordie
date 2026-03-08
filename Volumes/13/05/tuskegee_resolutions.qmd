@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1917
-categories: []
 subjects:
   - Great Migration (African American migration to the Northern United States)
   - Lynching
@@ -35,6 +34,11 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Internal Debate"
+  - "Labor & Economics"
+  - "The South"
 ---
 
 As to the resolutions of the Tuskegee conference touching the migration of Negro labor to the North the <span class="crisis-title">Crisis</span> confesses itself to have been in a quandary for the simple reason that we did not know what the resolutions said. A telegram to Tuskegee has brought the full text just as we go to press.

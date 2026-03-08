@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Apr. 1917
-categories: []
 subjects:
   - Southern industrialization and urban growth (early 20th century)
   - Black labor exploitation in Southern mills and agriculture
@@ -33,6 +32,11 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "The South"
+  - "Labor & Economics"
+  - "Literary Writing"
 ---
 
 One feels the ground swell and the restless, persistent motion; little new sky-scrapers rise suddenly like warts in little cities; "Suburban developments" crown bare hills; men are beginning to hurry around; and through all and with all are nervous black folk, working, saving, migrating, protesting, or sullenly viewing the land with great, sad eyes, or swaggering bravado. An empire is building here but the building stones are yet as unshaped and bloody as ever went to the making of any cruel and short-lived garden of Babylon.

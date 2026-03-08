@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: January 1921
-categories: []
 subjects:
   - Anti-lynching legislation (federal)
   - Jim Crow laws (interstate transportation)
@@ -36,6 +35,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Voting & Elections"
 ---
 
 Slowly but steadily and with unflinching determination the American Negro is returning to political power. In the last presidential election, black folk put 13 members of their race into the legislatures of the Northern States; they have dozens of representatives in the city councils, not to mention thousands in the civil service. Congressional districts in Missouri, Illinois, Pennsylvania and New York will put black men in Congress before 1925.

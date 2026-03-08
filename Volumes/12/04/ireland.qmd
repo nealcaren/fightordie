@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1916
-categories: []
 subjects:
   - British colonialism in Ireland
   - Irish–African American race relations
@@ -31,6 +30,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Pan-Africanism & Empire"
+  - "Labor & Economics"
 ---
 
 Few colored people know or realize what Ireland has suffered at the hands of England. On the other hand, the open dislike of Irish and colored people in the United States has given the Irish cause little or no sympathy so far as Negroes are concerned.

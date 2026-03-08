@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Oct. 1927
-categories: []
 subjects:
   - Publishing discrimination against African American authors
   - Racial stereotyping and representation of Black people in literature
@@ -34,6 +33,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Art & Culture"
 ---
 
 Many colored people have undertaken to answer Mr. Mencken's remarks about Negro artists. Most of them apparently make the mistake of questioning his attitude rather than his facts. There can be no question of H. L. Mencken's attitude toward Negroes. It is calmly and judiciously fair. He neither loves nor hates them. He has a predilection for men. 

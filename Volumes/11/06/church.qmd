@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Apr. 1916
-categories: []
 subjects:
   - White church hypocrisy
   - African American church leadership
@@ -36,6 +35,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Religion & Morality"
 ---
 
 This is a critical day for the Christian church. The white church of Christ finds itself in a position which gives the lie to many of its finest professions. It is a church of

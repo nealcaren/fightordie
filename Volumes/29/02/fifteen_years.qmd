@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: December 1924
-categories: []
 subjects:
   - African American periodicals — financing and sustainability
   - Black press — role in civil rights advocacy and public opinion
@@ -32,6 +31,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Retrospective"
 ---
 
 ### Fifteen Years

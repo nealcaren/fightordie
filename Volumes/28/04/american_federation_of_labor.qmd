@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Feb. 1924
-categories: []
 subjects:
 - Trade union exclusion of African Americans
 - Employment discrimination
@@ -32,6 +31,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Labor & Economics"
 ---
 
 For many years the American Negro has been demanding admittance to the ranks of union labor. For many years your organizations have made public profession of your interest in Negro labor, of your desire to have it unionized, and of your hatred of the black "scab."

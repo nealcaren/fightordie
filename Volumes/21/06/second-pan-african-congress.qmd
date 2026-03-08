@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: April 1921
-categories: []
 subjects:
   - Pan-Africanism
   - Anti-colonialism
@@ -38,6 +37,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Pan-Africanism & Empire"
 ---
 
 According to the decision made by the members of the Permanent Committee of the first Pan-African Congress, which was held in Paris February 19-21, 1919, a second Pan-African Congress is to meet in Paris during the first week in September, 1921.

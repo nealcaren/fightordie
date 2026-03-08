@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: May. 1920
-categories: []
 subjects:
 - Interstate extradition disputes
 - Lynching
@@ -37,6 +36,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Racial Violence"
+  - "The South"
 ---
 
 Extradition cases where northern governors are refusing to return colored prisoners to Southern States on account of the prevalence of lynching and mob rule, are accumulating and bid fair eventually to rival in importance and legal significance the celebrated fugitive slave cases. In 1917, Governor Call of Massachusetts refused to return John Johnson to West Virginia because of "danger of a serious miscarriage of justice".

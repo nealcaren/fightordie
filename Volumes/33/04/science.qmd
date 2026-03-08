@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1927
-categories: []
 subjects:
   - Scientific racism
   - Race and intelligence testing
@@ -34,6 +33,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Education"
 ---
 
 Dr. N.M. Hirsh, "former Fellow of the National Research Council", has made an astounding discovery. By testing 5,500 New England school children he finds that Negroes and Portuguese have the least intelligence. And then he adds blithely, "The children tested were all attending public schools in four factory towns of Massachusetts, *with the exception of 449 Negro children from Tennessee!*"

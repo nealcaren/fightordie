@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Nov. 1913
-categories: []
 subjects:
   - African contributions to world civilization
   - African metallurgy and ironworking
@@ -39,6 +38,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Art & Culture"
+  - "Pan-Africanism & Empire"
 ---
 
 **In New York City, October 22-31, 1913**

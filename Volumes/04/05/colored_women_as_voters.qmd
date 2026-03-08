@@ -3,13 +3,6 @@ title: 'Colored Women as Voters'
 description: "Logan, Aella Hunt in The Crisis (1912) argues suffrage empowers colored women to improve schools, sanitation and juvenile justice."
 author: Logan, Aella Hunt
 date: Mar. 1912
-categories:
-  - Woman Suffragesubjects:
-  - African American women — suffrage and political participation
-  - Public education — access and funding (African American children)
-  - Juvenile justice — treatment of African American youth; reform schools
-  - Municipal services and public health — housing, sanitation, and food inspection
-  - State suffrage laws — Western states (California, Washington, Colorado, Wyoming, Utah, Idaho)
 people:
   - W. E. B. Du Bois
   - Benjamin Lindsey
@@ -34,6 +27,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Women's Rights"
+  - "Voting & Elections"
 ---
 
 More and mocre colored women are studying public questions and civics. As they gain information and have experience in their daily vocations and in their efforts for human betterment they are convinced, as many other women have long ago been convinced, that their efforts would be more telling if women had the vote.

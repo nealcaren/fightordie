@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: May 1914
-categories: []
 subjects:
 - Colonialism
 - Race prejudice and the color line
@@ -35,6 +34,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "War & Military"
+  - "Pan-Africanism & Empire"
 ---
 
 Many colored persons, and persons interested in them, may easily make the mistake of supposing that the present war is far removed from the color problem of America and that in the face of this great catastrophe we may forget for a moment such local problems and give all attention and contributions to the seemingly more pressing cause.

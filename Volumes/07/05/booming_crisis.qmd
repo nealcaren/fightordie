@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1914
-categories: []
 subjects:
   - African American press
   - Journalistic accuracy and standards
@@ -35,6 +34,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "NAACP & Organizational Strategy"
+  - "Internal Debate"
 ---
 
 The Washington *Bee,* a weekly colored periodical has been stirred to its

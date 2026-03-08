@@ -3,7 +3,6 @@ title: The Negro Silent Parade
 description: National Association for the Advancement of Colored People in The Crisis (1917) argues a silent march protesting lynching, race riots and segregation.
 author: National Association for the Advancement of Colored People
 date: Mar. 1917
-categories: []
 subjects:
 - Lynching
 - Race riots and mass racial violence
@@ -34,6 +33,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Racial Violence"
+  - "Segregation"
 ---
 
 On the afternoon of Saturday July 28, a vast body of Negroes marched through the streets of New York in silent protest against the recent race riots and outrages. The *New York American* says:

@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: May 1922
-categories: []
 subjects:
   - Underpayment of Black artists
   - Economic conditions of African American artists
@@ -32,6 +31,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Art & Culture"
+  - "Labor & Economics"
 ---
 
 There is a deep feeling among many people and particularly among colored people that Art should not be paid for. The feeling is based on an ancient and  fine idea of human Freedom in the quest of Beauty and on a dream that the artist rises and should rise above paltry consideration of dollars and food. 

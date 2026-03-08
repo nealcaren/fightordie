@@ -3,7 +3,6 @@ title: Byrnes
 description: Du Bois, W.E.B. in The Crisis (1919) argues Congressman Byrnes represents disfranchisement, lynching and wage theft, urging Fourteenth Amendment action.
 author: Du Bois, W.E.B.
 date: Apr. 1919
-categories: []
 subjects:
 - Disfranchisement
 - Lynching
@@ -33,6 +32,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Voting & Elections"
+  - "Racial Violence"
 ---
 
 You have, perhaps, noticed our double-page advertisement in the *Congressional Record,* due to the kindness of our good friend James Francis Byrnes, of South Carolina. Congressman Byrnes is from the Second District and a confrère of the late Congressman James W. Ragsdale, who died suddenly during the Washington riots.

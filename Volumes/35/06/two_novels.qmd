@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jun. 1928
-categories: []
 subjects:
   - African American fiction
   - Literary criticism of race novels
@@ -38,6 +37,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Art & Culture"
 ---
 
 *Nella Larsen "Quicksand" (Knopf) Claude McKay "Home to Harlem" (Harper and Brothers)*

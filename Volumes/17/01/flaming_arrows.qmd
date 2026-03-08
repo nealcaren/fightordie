@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: May 1919
-categories: []
 subjects:
   - Colonialism and self-determination
   - U.S. racial hypocrisy and double standards
@@ -39,6 +38,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "War & Military"
+  - "Pan-Africanism & Empire"
 ---
 
 It was a tremendous speech that Woodrow Wilson made in New York City, September 27, 1918. On one point alone was its meaning vague to us of the darker world, who listened with bated breath. Listen to these words:

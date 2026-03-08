@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Apr. 1931
-categories: []
 subjects:
   - Lynching
   - Voting rights (disfranchisement)
@@ -36,6 +35,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Racial Violence"
 ---
 
 We have nothing but praise for the Southern Commission on the study of lynching. It has eleven members: the white members are: George F. Milton, Dr. W. J. McGlothlin, W. P. King, Julian Harris, Dr. Edward W. Odum, and Alexander Spence. The colored members are: Dr. R. R. Moton, Dr. John Hope, Dr. Charles S. Johnson, President B. F. Hubert and Professor John Work.

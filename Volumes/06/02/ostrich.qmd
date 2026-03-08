@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Jun. 1913
-categories: []
 subjects:
 - Education — African Americans
 - Race relations
@@ -29,6 +28,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Internal Debate"
+  - "The South"
 ---
 
 Some folks are mental ostriches. We are not referring to their intellectual digestions, although there we realize is room for a whole. We are referring now to the method of mind that is able to persuade itself that the unseen is non-existent. An astounding number of people rushing through earth's deserts escape the evil that haunts them by sticking their heads in a hole in the ground and saying insistingly: "I don't believe it, and even if it is true I won't regard it."

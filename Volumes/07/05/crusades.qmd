@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1914
-categories: []
 subjects:
   - NAACP organizing and membership drives
   - New abolitionist movement for racial justice
@@ -38,6 +37,11 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "NAACP & Organizational Strategy"
+  - "Internal Debate"
+  - "The South"
 ---
 
 The Western trip of the chairman of the board of directors was a clarion

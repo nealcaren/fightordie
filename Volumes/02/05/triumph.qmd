@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1911
-categories: []
 subjects:
   - Lynching
   - Mob violence
@@ -33,6 +32,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Racial Violence"
+  - "Literary Writing"
 ---
 
 Let the eagle scream! Again the burden of upholding the best traditions of Anglo-Saxon civilization has fallen on the sturdy shoulders of the American republic. Once more a howling mob of the best citizens in a foremost State of the Union has vindicated the self-evident superiority of the white race. The case was perfectly clear; it was not that murder had been done, for we Americans are not squeamish at mere murder. Off and on we do more of that kind of thing than most folk. Moreover, there was not much of a murder---only the crazed act of a drunken man quite unpremeditated. The point is he was black.

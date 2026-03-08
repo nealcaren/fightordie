@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1912
-categories: []
 subjects:
   - Civil War memory and commemoration
   - Lost Cause mythology
@@ -36,6 +35,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "The South"
+  - "Art & Culture"
 ---
 
 In a recent review of Mr. Thomas Nelson Page's life of Robert E. Lee in the New York *Times* we find the following sentence: "Of all the figures in history, it is he (Lee) who most nearly approaches Washington; in fact, there is little or nothing to choose between them except the fact that Lee failed."

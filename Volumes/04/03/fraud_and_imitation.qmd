@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jan. 1912
-categories: []
 subjects:
   - African American education (Southern schools and colleges)
   - Fraudulent educational organizations and fundraising
@@ -37,6 +36,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Education"
+  - "Internal Debate"
 ---
 
 As the colored people become more and more a self-conscious,

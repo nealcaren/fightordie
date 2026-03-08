@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: May. 1920
-categories: []
 subjects:
 - Voting rights
 - Anti-lynching legislation
@@ -29,6 +28,11 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "NAACP & Organizational Strategy"
+  - "Voting & Elections"
+  - "The South"
 ---
 
 We go to Atlanta in May. We go there because Atlanta is near the center of the problems of 12 million Negroes, which we seek to solve.

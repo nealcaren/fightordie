@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: May 1916
-categories: []
 subjects:
   - Lynching
   - Disfranchisement (voting rights) and disfranchisement practices in the South
@@ -36,6 +35,11 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "The South"
+  - "Women's Rights"
+  - "Voting & Elections"
 ---
 
 The new Encyclopedia Britannica has listed the States of the Union

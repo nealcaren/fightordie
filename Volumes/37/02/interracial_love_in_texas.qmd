@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1930
-categories: []
 subjects:
   - Interracial cooperation (Texas)
   - Race relations
@@ -37,6 +36,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Segregation"
 ---
 
 The Houston, Texas *Post-Dispatch* says in a recent editorial:

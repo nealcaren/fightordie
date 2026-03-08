@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1927
-categories: []
 subjects:
   - Liberia — political and economic development
   - Christian missionary activity and paternalism in Africa
@@ -36,6 +35,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Pan-Africanism & Empire"
 ---
 
 We have not the full text of President King's recent word concerning missions. But we would like to point out to those writers who are easily and hastily criticizing this decision and the Firestone concession that a more sympathetic attitude toward Liberia and her problems would better accord with the facts.

@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Jun. 1914
-categories: []
 subjects:
 - War and militarism
 - Colonialism and imperial exploitation
@@ -31,6 +30,11 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Literary Writing"
+  - "Religion & Morality"
+  - "Racial Violence"
 ---
 
 <div class="poem">

@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Dec. 1927
-categories: []
 subjects:
   - Student strikes (higher education)
   - Racial discrimination in education
@@ -36,6 +35,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Education"
+  - "Internal Debate"
 ---
 
 The most sinister thing about the Hampton strike, is not the attitude of the authorities of Hampton. It has long been known, and the knowledge discounted among American Negroes, that Hampton trustees and teachers did not all have feelings, opinions or ideals toward American Negroes, which were acceptable to self-respecting black men. There has always been at Hampton a degree of race discrimination and of repression that has been hateful and exasperating. It has long been endured, just as beggars often endure the insult of impudent almsgiving. The time for an end to that endurance is surely at hand, unless we Negroes are willing to bring up our children in the same attitude of subserviency and uncomplaining submission to caste which our fathers inherited from slavery. The Hampton attitude must be distinctly and firmly repudiated. 

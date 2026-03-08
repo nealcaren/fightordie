@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1921
-categories: []
 subjects:
   - Public school funding disparities — Mississippi
   - Voting rights — Mississippi (disfranchisement; exclusion of "qualified electors")
@@ -34,6 +33,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Education"
+  - "Voting & Elections"
 ---
 
 Some persons continue to admonish the Negro that political power is not omnipotent, and that without it much may be done to uplift the people; while with it, much may be left undone. The real answer to this argument lies in the facts, and Mr. S. D. Redmond of Jackson, Mississippi, has furnished some facts to the editor of the *Commercial Appeal*, Memphis, Tenn., which the editor did not see fit to publish.

@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jun. 1914
-categories: []
 subjects:
   - Segregation in religious and social organizations
   - Colored (Black) Y.M.C.A. movement and African American voluntary institutions
@@ -35,6 +34,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Segregation"
+  - "Religion & Morality"
 ---
 
 We gave last month considerable space to the wonderful work of the colored Y.M.C.A. It is an extraordinary growth and the colored secretaries like Mr. Hunton and Mr. Mooreland, and white philanthropists like Julius Rosenwald, together with the governing heads of the whole movement deserve undoubtedly great credit. At the same time it must be remembered that directly in questions of this sort lurk the most baffling difficulties of our race problem.

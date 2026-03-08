@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Apr. 1920
-categories: []
 subjects:
   - African American literature
   - African American literary renaissance
@@ -31,6 +30,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Art & Culture"
 ---
 
 Since its founding, <span class="crisis-title">The Crisis</span> has been eager to discover ability among Negroes, especially in literature and art. It remembers with no little pride its covers by Richard Brown, William Scott, William Farrow, and Laura Wheeler; and its cartoons by Lorenzo Harris and Albert Smith; it helped to discover the poetry of Roscoe Jamison, Georgia Johnson, Fenton Johnson, Lucian Watkins, and Otto Bohanan; and the prose of Jessie Fauset and Mary Effie Lee. Indeed, <span class="crisis-title">The Crisis</span> has always preferred the strong matter of unknown names, to the platitudes of well-known writers; and by its Education and Children numbers, it has shown faith in the young.

@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Mar. 1915
-categories: []
 subjects:
 - Grandfather clause (voting)
 - Voting rights
@@ -35,6 +34,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Voting & Elections"
+  - "The South"
 ---
 
 The white southern oligarchy is laughing silently behind its hand.

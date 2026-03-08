@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Apr. 1912
-categories: []
 subjects:
   - Child welfare
   - Education of children
@@ -31,6 +30,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Education"
+  - "Religion & Morality"
 ---
 
 This is the Children's Number, and as it has grown and developed in the

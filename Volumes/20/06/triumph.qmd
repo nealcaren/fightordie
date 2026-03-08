@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Oct. 1920
-categories: []
 subjects:
 - Women's suffrage
 - Lynching
@@ -35,6 +34,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Women's Rights"
+  - "Voting & Elections"
 ---
 
 # Triumph

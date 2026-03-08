@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Jun. 1917
-categories: []
 subjects:
 - Voting rights
 - Anti-lynching legislation
@@ -37,6 +36,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "War & Military"
+  - "Pan-Africanism & Empire"
 ---
 
 The representatives of Negro organizations embracing many millions of men, together with their friends and fellow workers of other races, deem it fitting at this critical time in the history of our country and the world to express the attitude and aspirations which they think fitting for the twelve million Americans of Negro descent and for many other millions resident in America, in Africa, and in the islands of the sea.

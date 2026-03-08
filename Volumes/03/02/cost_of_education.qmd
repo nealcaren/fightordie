@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Jun. 1911
-categories: []
 subjects:
 - Educational inequality
 - Public school finance
@@ -34,6 +33,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Education"
+  - "The South"
 ---
 
 A favorite argument in the South is that the white people "pay for" the education of colored children. For instance, an alderman in Lexington, Ky., argues this way, in answer to a complaint about poor colored schools:

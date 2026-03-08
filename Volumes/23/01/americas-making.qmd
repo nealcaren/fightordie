@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: November 1921
-categories: []
 subjects:
   - Civic pageants and public exhibitions
   - African American contributions to American culture and labor
@@ -36,6 +35,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Art & Culture"
 ---
 
 The part which each group has had in the development of this land will be clearly shown in "America's Making," a pageant and exhibit which will show three centuries of racial and immigrant contributions to our national life. From October 29 to November 12, through pageants, festivities and exhibits, the gift of each race to America will be set forth. This demonstration is under the general supervision of the State Board of Education and of the City of New York.

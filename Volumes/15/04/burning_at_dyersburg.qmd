@@ -3,7 +3,6 @@ title: 'The Burning at Dyersburg: An N.A.A.C.P. Investigation'
 description: "N.A.A.C.P. in The Crisis (1918) examines the burning at Dyersburg, exposing the lynching of Lation Scott and local failures of justice."
 author: N.A.A.C.P.
 date: Feb. 1918
-categories: []
 subjects:
   - Lynching and mob violence
   - NAACP anti-lynching investigation
@@ -33,6 +32,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Racial Violence"
 ---
 
 Sunday, December 2, 1917, immediately after the adjournment of church services, a human being was tortured and burned at the stake in the heart of the town of Dyersburg, Tenn. The victim was a Negro man, thirty years old, who was accused of criminal assault on a white woman of the county.

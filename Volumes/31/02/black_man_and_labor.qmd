@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jun. 1925
-categories: []
 subjects:
   - Labor organizing among African Americans
   - Trade unionism — Pullman porters
@@ -37,6 +36,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Labor & Economics"
 ---
 
 Two significant movements have recently taken place among us. The Pullman Porters are organizing a trade union and the colored Communists have met in Chicago. Both movements have found opposition and from the same source. So intelligent and skilled a group of men as the Pullman porters ought to have long since adopted collective bargaining with their employers. But the Pullman company and other white capitalists have discouraged this with threats and propaganda and lately they have hired a silly black lawyer, who holds a small job in Washington, to help them.

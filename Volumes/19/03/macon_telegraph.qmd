@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Jan. 1920
-categories: []
 subjects:
 - Lynching and mob violence
 - Disfranchisement
@@ -35,6 +34,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "The South"
+  - "Education"
 ---
 
 The Macon, Georgia, *Daily Telegraph*, a widely-read white publication, has often done <span class="crisis-title">The Crisis</span> the honor of quoting and criticizing its words. Some of these remarks we have from time to time reprinted, but they have hardly seemed to call for an answer. Usually they answered themselves. Last September, however, the *Telegraph* published a leading editorial, a column and a half long, which illustrates so well the deliberate misunderstanding of the aspirations of the Negro by the White South that it deserves a reply. 

@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jun. 1912
-categories: []
 subjects:
   - Mammy stereotype (racialized motherhood)
   - Black motherhood and family life
@@ -33,6 +32,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Women's Rights"
+  - "Segregation"
 ---
 
 The people of America, and especially the people of the Southern States,	have felt so

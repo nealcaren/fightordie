@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Oct. 1927
-categories: []
 subjects:
   - Pan-Africanism
   - African self-rule and decolonization
@@ -39,6 +38,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Pan-Africanism & Empire"
 ---
 
 The *first Pan-African Congress* was held February 19-21, *1919*, in the Grand Hotel, Paris. The executive committee consisted of M. Blaise Diagne, President; Dr. W. E. B. Du Bois, Secretary; Mrs. Ida Gibbs Hunt and Mr. M. E. F. Fredericks. Fifty-seven delegates representing fifteen countries were present and among the speakers were members of the French Parliament, the President of Liberia, a former Secretary of State of Portugal and several other distinguished persons.

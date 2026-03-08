@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Sep. 1928
-categories: []
 subjects:
 - Lynching
 - Jim Crow laws
@@ -38,6 +37,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Voting & Elections"
 ---
 
 If the Democratic party was openly and thoughtfully planning to alienate the intelligent Negro vote in the North, they certainly were eminently successful. They opened their convention with an atrocious lynching. They segregated their black visitors back of a wire cage. They nominated for Vice President (an office which, since the Civil War, has made its incumbent President in four cases) a typical Arkansas bourbon. Even the nomination of Alfred Smith does not relieve the situation. Smith is an excellent administrator and his attitude on liquor is at least honest, while Hoover's is not; but so far as we can learn Alfred Smith has seldom been aware of the black citizens of the state of New York. He has given 250,000 Negroes of the state only one major appointment and has shown for black people not the slightest personal interest or appreciation. He has consistently vetoed every bill and movement which Negroes advocated.

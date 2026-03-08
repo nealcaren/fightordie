@@ -9,7 +9,6 @@ author:
     given: Martha
     family: Gruening
 date: Mar. 1917
-categories: []
 subjects:
 - Lynching and mob violence
 - Labor disputes and strikebreaking in industry
@@ -38,6 +37,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Racial Violence"
+  - "Labor & Economics"
 ---
 
 ![](../../../Images/mesl_1.jpg)

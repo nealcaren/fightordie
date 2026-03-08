@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Jun. 1919
-categories: []
 subjects:
 - Lynching and mob violence
 - Christianity and social justice in African American communities
@@ -31,6 +30,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Literary Writing"
+  - "Religion & Morality"
 ---
 
 She was very small and pretty and black and lived in the cabin beyond the Big Road and down the lane by the creek, where one field on field of green cotton was flowering in the spring. And one night as she sat there all alone and wistful, watching the stars, a woman passed by and hailed her. She shrank back in the shadows, but the woman smiled and said full softly:

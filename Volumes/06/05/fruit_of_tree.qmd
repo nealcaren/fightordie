@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Mar. 1913
-categories: []
 subjects:
 - Disfranchisement
 - Jim Crow laws
@@ -33,6 +32,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Internal Debate"
+  - "Racial Violence"
 ---
 
 Let no one for a moment mistake that the present increased attack on the

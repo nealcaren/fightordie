@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: May 1915
-categories: []
 subjects:
   - Fourteenth Amendment — enforcement
   - Congressional apportionment penalties for voter disfranchisement
@@ -33,6 +32,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Voting & Elections"
 ---
 
 A correspondent asks us "in view of the explicit and imperative terms of the Fourteenth Amendment is it not the binding duty of Congress to cut down southern representation in apportioning members to Congress to the various states?" We answer, it is. But who is going to make Congress do its duty? We are trying to do this and have tried and will continue to try, but we have not yet succeeded.

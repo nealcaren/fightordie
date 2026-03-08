@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Jan. 1915
-categories: []
 subjects:
 - Educational inequality
 - Industrial and vocational training (policy and advocacy)
@@ -31,6 +30,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Education"
 ---
 
 ## The Persistent Onslaught

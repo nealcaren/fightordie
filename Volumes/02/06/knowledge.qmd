@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Apr. 1911
-categories: []
 subjects:
   - Southern racial ideology and stereotyping of African Americans
   - African American suicide rates (historical statistics)
@@ -35,6 +34,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "The South"
+  - "Education"
 ---
 
 One of the comfortable theories of the South is its intimate and careful knowledge of everything relating to black folk. Governor Donaghey of Arkansas, for instance, recently said to the Negro Business League:

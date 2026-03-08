@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jun. 1928
-categories: []
 subjects:
   - Marriage — African Americans
   - Education — African Americans
@@ -36,6 +35,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Literary Writing"
+  - "Women's Rights"
 ---
 
 The problem of marriage among our present American Negroes, is a difficult one. On the one hand go conflicting philosophies: should we black folk breed children or commit biological suicide? On the other, should we seek larger sex freedom or closer conventional rules? Should we guide and mate our children like the French or leave the whole matter of sex intermingling to the chance of the street, like Americans? These are puzzling questions and all the more so because we do not often honestly face them. 

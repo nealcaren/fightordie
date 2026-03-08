@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: January 1922
-categories: []
 subjects:
   - Anti-lynching legislation
   - Political patronage and token appointments
@@ -35,6 +34,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Voting & Elections"
 ---
 
 Mr. Perry Howard complains because <span class="crisis-title">The Crisis</span> said concerning his appointment to the United States Department of Justice: "The appointment given Mr. Perry Howard was one that we wish Mr. Howard had been able to refuse, as it is too unimportant and inadequate to be at all representative."

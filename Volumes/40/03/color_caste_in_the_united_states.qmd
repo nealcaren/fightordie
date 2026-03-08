@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1933
-categories: []
 subjects:
   - Anti-miscegenation laws (restrictions on interracial marriage)
   - Residential segregation (housing discrimination, restrictive covenants, racial zoning)
@@ -32,6 +31,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Segregation"
+  - "Voting & Elections"
 ---
 
 There are a large number of well meaning citizens of this country who are under the impression that the main lines of the American Negro problem are settled, and that while there is a deal more advance to be made, nevertheless, the average Negro, who is not too impatient, should be willing from now on to proceed toward his ultimate goal by quiet progress and unemotional appeal.

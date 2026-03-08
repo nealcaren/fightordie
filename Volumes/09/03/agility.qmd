@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Jan. 1915
-categories: []
 subjects:
 - Women's suffrage
 - Voting rights
@@ -31,6 +30,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Women's Rights"
+  - "Voting & Elections"
 ---
 
 Mrs. O.H.P. Belmont is coming in for considerable praise on account of her facile answer to a disturbing question while she was campaigning for suffrage in the South. At Chattanooga she was asked if her movement meant the giving of votes to colored women. Mrs. Belmont was most adroit. The expectant hush fell on the audience and instead of standing up like a frank woman and saying "Yes," Mrs. Belmont quibbled and twisted after the most approved southern fashion. "We want," she said, "the same voting privileges for colored women as are given colored men." And there the adroitness stands naked and unashamed.

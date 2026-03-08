@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jan. 1911
-categories: []
 subjects:
   - Racial prejudice and exclusion
   - Race-based caste systems
@@ -33,6 +32,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Segregation"
+  - "Labor & Economics"
 ---
 
 The noticeable reservation in all attempts, North and South, to separate black folk and white is the saving phrase, "Except servants."

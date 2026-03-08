@@ -3,7 +3,6 @@ title: 'Chicago and Its Eight Reasons'
 description: "White, Walter F. in The Crisis (1919) examines Chicago riots, blaming prejudice, jobs, graft, police lapses, housing and the press."
 author: White, Walter F.
 date: Apr. 1919
-categories: []
 subjects:
   - Racial prejudice and discrimination
   - Economic competition for industrial and unskilled labor jobs
@@ -32,6 +31,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Racial Violence"
+  - "The South"
 ---
 
 ![](../../../Images/naacp_babies.png)    

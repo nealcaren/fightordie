@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: May 1920
-categories: []
 subjects:
 - Interracial cooperation in civil rights
 - Organization and interracial leadership of the NAACP
@@ -36,6 +35,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "NAACP & Organizational Strategy"
+  - "Internal Debate"
 ---
 
 There is one charge against the N.A.A.C.P. which is made, now openly and now by veiled innuendo, which it is necessary to answer plainly. It is said that this Association is not a Negro association, but is conducted by white people and that, therefore, it cannot effectively serve the cause of Negro freedom. The veiled assumption is that the efforts of the Negroes in the Association are controlled and largely nullified by whites.

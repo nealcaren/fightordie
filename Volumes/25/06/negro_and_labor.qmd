@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Apr. 1922
-categories: []
 subjects:
   - Racial exclusion in skilled trades
   - Labor market discrimination and wage undercutting of Black workers
@@ -35,6 +34,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Labor & Economics"
+  - "Pan-Africanism & Empire"
 ---
 
 The usual American attitude toward Negroes in industrial countries like this is two-fold. On the one hand, the white laboring man excludes the Negro from work just as far as possible, particularly in the skilled trades; this is because, as he says, the Negro will work for lower wages and does not deserve the consideration of white labor. The employer, on the other hand, will employ Negroes when he can get them more cheaply than white men, but he considers them less efficient and their presence raises problems. They are, nevertheless, always a possible substitute when white labor becomes too exorbitant in its demands. 

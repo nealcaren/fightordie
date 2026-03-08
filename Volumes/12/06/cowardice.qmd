@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Apr. 1916
-categories: []
 subjects:
 - Lynching of African Americans
 - Mob violence and white supremacist terrorism
@@ -34,6 +33,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Racial Violence"
 ---
 
 No colored man can read an account of the recent lynching at Gainesville, Fla., without being ashamed of his people.

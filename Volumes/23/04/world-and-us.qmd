@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1921
-categories: []
 subjects:
   - Land monopoly and tenancy (land reform)
   - Lynching and mob violence
@@ -35,6 +34,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "The South"
+  - "Voting & Elections"
 ---
 
 Esthonia has nationalized the holdings of her great land holders and is beginning to distribute her farm lands to farmers. The United States is increasing tenancy and land monopoly. What with this, and our host of political prisoners, our mobs and lynching, our curb of free speech, our color caste, our unemployment and mock of democracy, we bid fair to lead the world—backwards.

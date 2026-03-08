@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: May 1914
-categories: []
 subjects:
   - Racial exclusion in women's organizations
   - African American women's clubs
@@ -38,6 +37,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Women's Rights"
+  - "Segregation"
 ---
 
 The General Federation of (white) Women's Clubs sent a representative to

@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jan. 1914
-categories: []
 subjects:
   - Racialized policing
   - Criminalization of unemployment and poverty
@@ -33,6 +32,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Labor & Economics"
+  - "Racial Violence"
 ---
 
 One of the interesting ways of settling the race problem comes to the

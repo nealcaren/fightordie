@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Dec. 1933
-categories: []
 subjects:
   - Militarism
   - War propaganda and cultural glorification of war
@@ -39,6 +38,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "War & Military"
+  - "Pan-Africanism & Empire"
 ---
 
 To one who does not comprehend the reasons, the present attitude of the civilized world toward peace would be incomprehensible. Here is a world which is literally wasting most of its taxes on war; preparing incredible machines for murder, arson and theft.

@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Dec. 1928
-categories: []
 subjects:
 - Disfranchisement
 - Racial politics and party alignment (Republican and Democratic Parties)
@@ -35,6 +34,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Voting & Elections"
 ---
 
 For the American Negro this has without doubt been the most humiliating presidential campaign through which he has passed. The agreement and accord of the two leading parties in regard to him has at last become perfect and complete. 

@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1951
-categories: []
 subjects:
   - African American journalism
   - Editorial independence (press)
@@ -38,6 +37,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Retrospective"
+  - "Art & Culture"
 ---
 
 From the time I entered High School at Great Barrington, Massachusetts, in 1880, I have had the itch to edit something. The first fruition was a school paper, in manuscript, called the "High School Howler," edited by me and illustrated by Art Benham, who could draw caricatures. It had as I remember but one issue.

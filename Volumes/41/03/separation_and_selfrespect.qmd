@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Mar. 1934
-categories: []
 subjects:
 - Racial segregation
 - Educational inequality — segregated public schooling
@@ -29,6 +28,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Segregation"
+  - "Education"
 ---
 
 That we continually face in this problem of race segregation in the United States is a paradox like this:

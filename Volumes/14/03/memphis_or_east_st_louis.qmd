@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jan. 1917
-categories: []
 subjects:
   - Lynching and racial mob violence
   - Forced labor and peonage
@@ -37,6 +36,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Labor & Economics"
+  - "Racial Violence"
 ---
 
 We seem to hear four voices screaming above the mobs of Memphis and East St. Louis---Why will Negroes be Scabs, Why will Negroes Stay in the South, How Can We Stop Negro Migration, Where Can Negroes Be Treated Justly?

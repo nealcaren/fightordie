@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: May 1918
-categories: []
 subjects:
   - Black suffrage and enfranchisement
   - Ballot protection and voter integrity
@@ -33,6 +32,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Voting & Elections"
 ---
 
 As one of the Earth's Disowned I swear to hold my Ballot as the sacred pawn of Liberty for all mankind and for my prisoned race.

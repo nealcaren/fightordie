@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1912
-categories: []
 subjects:
   - British colonialism in India
   - Indian nationalism and demand for political autonomy
@@ -39,6 +38,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Pan-Africanism & Empire"
 ---
 
 The greatest concession wrung from an arrogant modern nation by a dark-skinned people has just been gained by the Indians from the English. The Durbar was not simply a ceremonial---it was a concession. For a long time England has been trying to conciliate India by social deference to her princes. Few of the great drawing rooms of London have not been graced in recent years by these Eastern potentates, and every public honor has been shown them. All this is an old method with rulers. Even with the American Negro the experiment is continually tried locally and nationally of extravagantly honoring leaders who can be depended on to do the tyrant's will unquestioningly.

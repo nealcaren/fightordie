@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: May 1924
-categories: []
 subjects:
 - Lynching
 - Disfranchisement
@@ -32,6 +31,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Art & Culture"
+  - "The South"
 ---
 
 Walter White has written in "The Fire in the Flint" a good, stirring story and a strong bit of propaganda against the white Klansman and the black pussyfoot. White knows his Georgia from A to Z. There is not a single incident or a single character in the book which has not its prototype in real life today. All Mr. White's white people are not villains nor are all his Negroes saints, but one gets a thrilling sense of the devilish tangle that involves good and evil in the southern South.

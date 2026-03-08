@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jun. 1928
-categories: []
 subjects:
   - Police brutality and extrajudicial killings
   - Racialized labor exploitation during the Florida land/fruit boom
@@ -37,6 +36,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Racial Violence"
+  - "The South"
 ---
 
 There is probably no modern play-ground whose social foundation is more

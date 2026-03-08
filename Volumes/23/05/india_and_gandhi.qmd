@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1921
-categories: []
 subjects:
   - Nonviolent resistance (Satyagraha / non-cooperation)
   - Indian independence movement (Swaraj)
@@ -38,6 +37,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Pan-Africanism & Empire"
 ---
 
 India has been called a land of saints, the home of religions, and, living up to her well earned reputation, she produces in our own time a man who from sheer impeccability of character, and extraordinary personality, and from loftiness and originality of doctrine and ideas, takes rank at once among the great men of the world whose mark is high enough to make for them a permanent niche in the repository of the benefactors of mankind. 

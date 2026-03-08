@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jan. 1921
-categories: []
 subjects:
   - Marcus Garvey's commercial enterprises (Garveyism)
   - Black economic nationalism and racial commerce
@@ -33,6 +32,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Internal Debate"
 ---
 
 *An article in the December <span style="small-caps">Crisis</span> gave Mr. Garvey's personal history. This article considers his industrial enterprises and the feasibility of his general plans.*

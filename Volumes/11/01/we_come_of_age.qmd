@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: May 1915
-categories: []
 subjects:
   - African American press — history and development
   - Financial sustainability of African American periodicals
@@ -32,6 +31,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "NAACP & Organizational Strategy"
 ---
 
 Five years ago this month the first number of <span class="crisis-title">The Crisis</span>

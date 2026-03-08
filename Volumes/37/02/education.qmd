@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Feb. 1930
-categories: []
 subjects:
 - Racial disparities in public education
 - School funding disparities (Southern states)
@@ -34,6 +33,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Education"
 ---
 
 Suppose that a Congressman is interested in the American Negro, realizing that the oppression of any group of twelve million people in America is dangerous to the whole country. Suppose he wants to do something to help the Negroes? What would be the most obvious thing that he could do?

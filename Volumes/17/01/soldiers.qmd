@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: May 1919
-categories: []
 subjects:
 - Military discrimination
 - Black commissioned officers (military)
@@ -38,6 +37,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "War & Military"
+  - "NAACP & Organizational Strategy"
 ---
 
 Slowly but surely the effort of the Government to satisfy just Negro public opinion increases: The registration card for the selective draft omits the inexcusable discrimination attached to the first registration; a colored correspondent has been sent to the front by the Public Information Bureau; a loan to Liberia has been announced; Haiti and Liberia were prominently featured among the Allies during Liberty Loan weeks; colored colleges have been designated as official military training schools, and there will be a colored man on the War Service Commission soon to go abroad.

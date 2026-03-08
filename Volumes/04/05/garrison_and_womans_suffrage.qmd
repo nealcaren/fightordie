@@ -3,8 +3,6 @@ title: 'Garrison and Woman''s Suffrage'
 description: "Garrison Villard, Fanny in The Crisis (1912) discusses her father's role linking abolition to women's suffrage and defending women speakers"
 author: Garrison Villard, Fanny
 date: Mar. 1912
-categories:
-  - Woman Suffrage
 subjects:
   - Abolitionism
   - Women's suffrage
@@ -36,6 +34,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Women's Rights"
 ---
 
 The invitation given me to contribute an article to the Woman Suffrage Number of <span class="crisis-title">The Crisis</span>, and in it refer to the part that my father, William Lloyd Garrison played in the movement, brings to mind the fact that there are many people who are ignorant of the close relation that existed between the anti-slavery agitation and the one for "woman's rights," in both of which my father bore his share of the burdens. The very first lesson that I learned was one of sympathy for the poor little slave child who was torn away from its mother's arms, and the second was the need of the help of women in the struggle to free the cruelly oppressed colored people from bondage.

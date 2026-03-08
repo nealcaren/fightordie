@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1911
-categories: []
 subjects:
   - White primaries (electoral exclusion)
   - African American disenfranchisement (Southern states)
@@ -36,6 +35,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Voting & Elections"
+  - "The South"
 ---
 
 Any well-intentioned American cans argue this way: the present disfranchisement laws of the South are unfair, but in time, after the special exemptions under the grandfather clause have run out, justice will prevail and all men will vote under educational and property restrictions. 

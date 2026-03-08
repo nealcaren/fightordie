@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Feb. 1914
-categories: []
 subjects:
 - Indian resistance in Natal (South Africa)
 - Chinese resistance in Panama
@@ -28,6 +27,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Pan-Africanism & Empire"
 ---
 
 The Hindus in Natal and the Chinese in Panama are resisting white oppression. It is a good sign, not simply for colored folk, but for white folk. Bad as oppression is for the oppressed, it is worse for the oppressor. For the sake of both it should cease.

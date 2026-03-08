@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Apr. 1911
-categories: []
 subjects:
   - Lynching and mob violence
   - Race prejudice and racial discrimination
@@ -32,6 +31,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Racial Violence"
+  - "Religion & Morality"
 ---
 
 American civilization moves steadily and graciously forward. Consider this gem from a New York morning paper: 

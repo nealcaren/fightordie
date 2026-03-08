@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Mar. 1915
-categories: []
 subjects:
 - Military discrimination
 - African American military leadership
@@ -36,6 +35,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "War & Military"
 ---
 
 It is peculiarly fitting that Major Charles Young should be the second

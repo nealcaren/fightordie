@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Mar. 1920
-categories: []
 subjects:
 - Disfranchisement
 - Jim Crow laws (segregation)
@@ -37,6 +36,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Voting & Elections"
 ---
 
 The present campaign places the Negro voter,---and indeed all American voters---in a difficult position. Four parties ask our votes. 

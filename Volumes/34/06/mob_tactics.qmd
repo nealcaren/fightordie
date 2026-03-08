@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Aug. 1927
-categories: []
 subjects:
   - Lynching
   - Mob violence and race riots
@@ -33,6 +32,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Racial Violence"
 ---
 
 There has been developed in the United States a regular technique in matters of mob violence. Matters move somewhat as follows:

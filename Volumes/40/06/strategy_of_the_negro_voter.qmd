@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jun. 1933
-categories: []
 subjects:
   - Voting rights
   - Electoral strategy (use of balance of power)
@@ -32,6 +31,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Voting & Elections"
+  - "Labor & Economics"
 ---
 
 Usually, <span class="crisis-title">The Crisis</span> has discussed voting among Negroes during elections and sought to give specific advice concerning the action of black voters.

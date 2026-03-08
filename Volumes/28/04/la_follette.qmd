@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1924
-categories: []
 subjects:
   - Racial discrimination (color prejudice)
   - Ku Klux Klan and racial/religious violence
@@ -33,6 +32,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Voting & Elections"
+  - "Labor & Economics"
 ---
 
 Let Negroes read with thoughtful care and deep understanding the manifesto of the Third Party. It makes no direct reference to our problems. But what are our problems? They are the world's problems and something more. That something more is color prejudice and that is our immediate problem. But back of that and even with that solved are problems as pressing, as imperative, as tremendous for us as for any working people. These we cannot neglect. Simultaneously with our peculiar problems,  these others call for solution. They cannot be postponed.

@@ -3,7 +3,6 @@ title: Presidential Candidates
 description: NAACP in The Crisis (1916) argues candidates must state positions on lynching, disfranchisement and segregation to guide Black voters.
 author: NAACP
 date: May 1916
-categories: []
 subjects:
 - Lynching
 - Disfranchisement (African American voting rights)
@@ -31,6 +30,11 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Voting & Elections"
+  - "NAACP & Organizational Strategy"
+  - "Segregation"
 ---
 
 *The following letter was sent to Honorable Charles Evans Hughes, September 28, 1916:*

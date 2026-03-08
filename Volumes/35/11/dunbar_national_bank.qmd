@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Nov. 1928
-categories: []
 subjects:
   - Black-owned banks
   - Access to credit and capital
@@ -36,6 +35,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Labor & Economics"
+  - "Pan-Africanism & Empire"
 ---
 
 The establishment of the Dunbar National Bank in New York City, may be simply another bank; but it might prove to be an epoch making event for the darker races of the world. Here is a bank with over a million dollars of capital and surplus, with a colored and white directorate and a colored and white personnel. Even though white business men and capital predominate in numbers and authority, yet the possibilities of such an organization are tremendous.

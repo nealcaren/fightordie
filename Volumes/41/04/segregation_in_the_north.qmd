@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Apr. 1934
-categories: []
 subjects:
   - Residential segregation
   - Educational segregation
@@ -35,6 +34,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Segregation"
+  - "Internal Debate"
 ---
 
 I have with interest the various criticisms on my recent discussions of segregation. Those like that of Mr. Pierce of Cleveland, do not impress me. I am not worried about being inconsistent. What worries me is the Truth. I am talking about conditions in 1934 and not in 1910. I do not care what I said in 1910 or 1810 or in B.C. 700.

@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: May 1918
-categories: []
 subjects:
   - Educational inequality (African American access to advanced study)
   - Industrial (vocational) education for African Americans
@@ -33,6 +32,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Education"
 ---
 
 The death of Hollis Burke Frissell, principal of Hampton Institute, brings that institution and its work prominently before the public. It is, therefore, peculiarly fitting that the following correspondence should be made public: 

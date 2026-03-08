@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jan. 1934
-categories: []
 subjects:
   - Residential segregation (racial)
   - Educational inequality and unequal school funding
@@ -31,6 +30,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Segregation"
+  - "Labor & Economics"
 ---
 
 The thinking colored people of the United States must stop being stampeded by the word segregation. The opposition to racial segregation is not or should not be any distaste or unwillingness of colored people to work with each other, to cooperate with each other, to live with each other. The opposition to segregation is an opposition to discrimination. The experience in the United States has been that usually when there is racial segregation, there is also racial discrimination.

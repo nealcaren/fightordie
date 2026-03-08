@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Jul. 1927
-categories: []
 subjects:
 - Lynching
 - Lynching and mob violence
@@ -38,6 +37,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "The South"
+  - "Labor & Economics"
 ---
 
 We hope that every Negro that can

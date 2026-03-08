@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Jul. 1920
-categories: []
 subjects:
 - Voting rights
 - Anti-lynching legislation
@@ -35,6 +34,11 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "NAACP & Organizational Strategy"
+  - "The South"
+  - "Voting & Elections"
 ---
 
 The eleventh annual conference of the N.A.A.C.P. marked an epoch. For the first time since Reconstruction a radical Negro organization, whose aims were well known and clearly enunciated, has met openly in the center of the South and demanded without equivocation:

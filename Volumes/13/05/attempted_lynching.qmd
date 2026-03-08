@@ -5,7 +5,6 @@ author:
   - name:
       family: National Association for the Advancement of Colored People
 date: Mar. 1917
-categories: []
 subjects:
   - Lynching and attempted lynching
   - Mob violence and lynch mobs
@@ -38,6 +37,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Racial Violence"
+  - "NAACP & Organizational Strategy"
 ---
 
 Lube Martin is a colored man who lives at Murray, Calloway County, Ky., in the regions where the night riders have had full sway. In the same city lived a white man, Guthrie Diuguid. He was the policeman of the town. In the spring of 1916 he declared that certain white people had hired Lube Martin to kill him. He was so insistent in repeating this story that his friends feared he was "cracked." Finally, when he went before the city council and demanded protection, he was forced to resign his position. He then became a road supervisor and apparently forgot the alleged plot against his life. Diuguid, however, had meanwhile sent word to Martin that he would kill him on sight. Martin succeeded in dodging him for a long time. Finally, on January 9, 1917, the two met. Diuguid shot at Martin four or five times and when Martin saw that further dodging was impossible, he shot and killed Diuguid.

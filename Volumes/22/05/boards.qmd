@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1921
-categories: []
 subjects:
   - Board governance (nonprofit organizations)
   - Nonprofit executive leadership
@@ -33,6 +32,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Internal Debate"
 ---
 
 Graceful interlude at Detroit was the quite unexpected presentation of a loving cup to Miss Ovington, Chairman of the Board, and of a travelling bag to the Secretary, Mr. Johnson, as a token of appreciation by the Branches of their work for the Association.

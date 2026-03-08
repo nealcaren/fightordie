@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: May 1917
-categories: []
 subjects:
 - Black patriotism and national loyalty
 - Great Migration (African American migration)
@@ -29,6 +28,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "War & Military"
+  - "The South"
 ---
 
 Nothing better illustrates the attitude of the Bourbon South than the recent tales about German propaganda among Negroes.

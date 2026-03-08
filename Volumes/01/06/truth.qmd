@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Apr. 1911
-categories: []
 subjects:
 - Peonage (forced labor)
 - Judicial discrimination in the Southern United States
@@ -31,6 +30,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "The South"
+  - "NAACP & Organizational Strategy"
 ---
 
 There is to-day a tendency among colored people and among their earnest friends to tell the half-truth concerning the situation of the colored people and to condemn those who seek to tell the whole truth. Such people rightly herald the recent peonage decision of the Supreme Court, they commend the saving of Pink Franklin's life, they point to many other instances of help and good will on the part of Southern whites.

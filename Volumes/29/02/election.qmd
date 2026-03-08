@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: December 1924
-categories: []
 subjects:
   - African American voting behavior and political representation
   - Ku Klux Klan (political influence)
@@ -38,6 +37,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Voting & Elections"
 ---
 
 # The Election

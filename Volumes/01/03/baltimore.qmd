@@ -6,14 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jan. 1911
-categories:
-  - Segregation
-  - Religionsubjects:
-  - Residential segregation
-  - White flight
-  - Race and religion
-  - Church relocation
-  - Religious institutions — racial exclusion
 people:
   - W. E. B. Du Bois
   - Jesus Christ
@@ -34,6 +26,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Religion & Morality"
+  - "Segregation"
 ---
 
 It seems that it is not only Property that is screaming with fright at the Black Spectre in Baltimore, but Religion also. Two churches founded in the name of Him who "put down the mighty from their seats and exalted them of low degree" are compelled to move. Their palatial edifices filled with marble memorials and Tiffany windows are quite useless for the purposes of their religion since black folk settled next door. Incontinently they have dropped their Bibles and gathered up their priestly robes and fled, after selling their property to colored people for $125,000 in good, cold cash.

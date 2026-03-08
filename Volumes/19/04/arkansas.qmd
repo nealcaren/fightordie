@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Feb. 1920
-categories: []
 subjects:
 - Life insurance discrimination against African Americans
 - Surveillance by white investigative bureaus targeting Black leaders
@@ -35,6 +34,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Racial Violence"
+  - "The South"
 ---
 
 A desperate attempt is being made by white people in Arkansas, to prove their love and care for the Negro and to deny that the lawlessness in Phillips County was a "race riot." Evidence, however, comes to us from another source, showing the Arkansas state of mind. Two prominent Negroes in that state, brothers, applied for life insurance. The company to which they applied, following the usual custom of life insurance companies, secured a confidential report from a leading white bureau of investigation. This bureau reported confidentially as follows: that these colored men were worth $30,000 in property, with an annual income of $4,800; that they were in healthful occupations and were good risks, "except as noted below." One of the notations is as follows:

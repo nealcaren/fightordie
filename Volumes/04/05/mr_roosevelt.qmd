@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Mar. 1912
-categories: []
 subjects:
 - Racism toward African Americans
 - Voting rights and political franchise
@@ -38,6 +37,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Voting & Elections"
+  - "Racial Violence"
 ---
 
 We are glad that at last there can be no doubt in any colored man's mind

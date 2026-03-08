@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: January 1922
-categories: []
 subjects:
   - Unemployment and racial labor exclusion (African Americans)
   - Militarism and war spending
@@ -35,6 +34,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Labor & Economics"
+  - "Pan-Africanism & Empire"
 ---
 
 ## Unemployment

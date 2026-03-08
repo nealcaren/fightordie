@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: December 1920
-categories: []
 subjects:
   - [Racialized political campaigning]
   - [Race and ancestry controversies]
@@ -38,6 +37,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Voting & Elections"
 ---
 
 Never have the American people endured such a Presidential campaign. It is true that in no campaign are the great issues always distinct and clear and the alignments definite and understandable. But surely in no campaign has there ever been such a lack of alignment and such deliberate smearing of issues. One may, as one is constituted, regard voting as a test of conscience and principle or as a practical make-shift. In the first, the land may easily go to the dogs while the Dreamer walks his high and isolated path. In the other case, we may too easily forget our dreams.

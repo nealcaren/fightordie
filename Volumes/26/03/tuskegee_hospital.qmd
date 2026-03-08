@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jan. 1923
-categories: []
 subjects:
   - Racial segregation in hospitals
   - Discrimination in veterans' medical care
@@ -36,6 +35,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Segregation"
+  - "Internal Debate"
 ---
 
 We have strong reasons for 

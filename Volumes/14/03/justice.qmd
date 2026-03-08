@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Jan. 1917
-categories: []
 subjects:
 - Lynching
 - Disfranchisement
@@ -36,6 +35,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Racial Violence"
+  - "Voting & Elections"
 ---
 
 A gentleman, unnamed, but with a card that assured us that he represented the Department of Justice at Washington, has called upon <span class="crisis-title">The Crisis</span>. He said he was looking for "two German girls" said to be employed here, and he incidentally read us a lecture on loyalty and told us that the visit was "confidential." 

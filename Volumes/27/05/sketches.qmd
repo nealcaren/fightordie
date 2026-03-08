@@ -7,7 +7,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: March 1924
-categories: []
 subjects:
   - Colonialism / Imperialism in Africa
   - Pan-Africanism
@@ -37,6 +36,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Pan-Africanism & Empire"
+  - "Literary Writing"
 ---
 
 I have taken many journeys but this is the greatest. I have seen all the states of the American Empire and something of the Western Indies. I have seen England and France many times---all parts of Germany and something of Austria, Switzerland and Italy.

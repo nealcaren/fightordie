@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Jun. 1915
-categories: []
 subjects:
 - World War I (critique)
 - Colonialism
@@ -34,6 +33,11 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "War & Military"
+  - "Pan-Africanism & Empire"
+  - "Racial Violence"
 ---
 
 The last horror of a horrible war is come! It puts a period to what we

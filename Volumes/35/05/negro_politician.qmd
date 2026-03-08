@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: May 1928
-categories: []
 subjects:
 - Municipal machine politics and graft
 - Voting rights and political representation of African Americans
@@ -37,6 +36,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Voting & Elections"
 ---
 
 While I was in Chicago, a listener at Winnetka threw this question at

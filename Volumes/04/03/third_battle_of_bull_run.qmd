@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Jan. 1912
-categories: []
 subjects:
 - African American education
 - Industrial education for African Americans
@@ -32,6 +31,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Education"
+  - "Literary Writing"
 ---
 
 It is just south of Manassas where Beauregard had his supplies, and east of the first two battlefields, with their ghastly relics and calm and guardian mountains.

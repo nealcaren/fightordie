@@ -3,7 +3,6 @@ title: 'The Work of a Mob'
 description: "White, Walter F. in The Crisis (1918) examines lynchings in Brooks and Lowndes, GA, exposing vigilante murders and racial injustice."
 author: White, Walter F.
 date: Mar. 1918
-categories: []
 subjects:
   - Lynching
   - Racial violence and terror
@@ -33,6 +32,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Racial Violence"
 ---
 
 ***An investigation by Walter F. White, Assistant Secretary, National Association for the Advancement of Colored People, in Brooks and Lowndes Counties, Georgia.***

@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jun. 1913
-categories: []
 subjects:
   - Anti-miscegenation legislation
   - Primary election opposition to racist candidates
@@ -34,6 +33,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "NAACP & Organizational Strategy"
+  - "Voting & Elections"
 ---
 
 The vicious attempts to degrade colored women in Washington, Iowa,

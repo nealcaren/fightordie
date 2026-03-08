@@ -6,13 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Dec. 1910
-categories:
-  - Votingsubjects:
-  - African American voting behavior
-  - Political realignment of Black voters
-  - Democratic Party — race policy
-  - Republican Party failures to uphold pledges to African Americans
-  - Oppressive race-based legislation
 people:
   - W. E. B. Du Bois
   - Theodore Roosevelt
@@ -38,6 +31,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Voting & Elections"
 ---
 
 For colored men the Congressional election of 1910 marked an event. Never before since Emancipation have so many colored voters cast the Democratic ticket.

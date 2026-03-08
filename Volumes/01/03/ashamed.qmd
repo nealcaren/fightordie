@@ -6,14 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jan. 1911
-categories:
-  - Racial pridesubjects:
-  - Racial pride
-  - Racial dignity
-  - Racial discrimination
-  - Civil rights
-  - Race relations
-  - Accusations of racial shame
 places:
   - United States
   - Tennessee
@@ -29,6 +21,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Segregation"
 ---
 
 Any colored man who complains of the treatment he receives in America is apt to be faced sooner or later by the statement that he is ashamed of his race.

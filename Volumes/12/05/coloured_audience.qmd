@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1916
-categories: []
 subjects:
   - African American theater
   - Theater audiences
@@ -30,6 +29,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Art & Culture"
 ---
 
 Let us be frank. The colored audience as I have seen it recently in the colored theatres of large cities is not above reproach. We are an appreciative people certainly, but our appreciation need not take the form of loud ejaculations and guffaws of laughter, particularly when that laughter breaks out in the wrong place. Any actor is pleased when the responsiveness of his audience shows him he has got his lines "across," but the most frenzied Othello can hardly conceal his bewilderment when his attempt Desdemona provokes to strangle shouts of merriment. 

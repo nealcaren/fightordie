@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: May 1922
-categories: []
 subjects:
   - Anti-lynching legislation
   - Lynching — statistics and investigation
@@ -37,6 +36,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Racial Violence"
+  - "Internal Debate"
 ---
 
 During the last five years the N.A.A.C.P. has carried on a campaign against lynching, conducted in accordance with the most approved methods of public­ity. This campaign has been financed by philanthropists North and South, and black and white, and by wide-spread popular subscription. We have never heard any serious criticism of our campaign save, naturally, from those who oppose any effort to defend and emancipate black folk.

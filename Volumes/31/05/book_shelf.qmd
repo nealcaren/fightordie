@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1926
-categories: []
 subjects:
   - Representation of African Americans in literature
   - Racial stereotyping in literature
@@ -31,6 +30,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Art & Culture"
 ---
 
 *Porgy. By DuBose Heyward. George H. Doran Company. New York. 1925. 196 pages.*

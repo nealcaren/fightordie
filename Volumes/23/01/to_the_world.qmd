@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: November 1921
-categories: []
 subjects:
 - Racial equality
 - Pan-Africanism
@@ -38,6 +37,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Pan-Africanism & Empire"
 ---
 
 <h2> (Manifesto of the Second Pan-African Congress.) </h2>

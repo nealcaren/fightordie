@@ -6,13 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: May 1913
-categories:
-  - Woman Suffrage
-  - Racial Prejudicesubjects:
-  - Women's suffrage
-  - Voting rights — African American women
-  - Color line (racial exclusion in political movements)
-  - Racial equality and civil rights (race‑blind democracy)
 people:
   - W.E.B. Du Bois
 places:
@@ -32,6 +25,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Women's Rights"
+  - "Voting & Elections"
 ---
 
 There seems to be no doubt but that the attempt to draw the color line in the woman's suffrage movement has received a severe and, let us hope, final setback. Both at Washington and St. Louis the right of the black woman to vote and strive for a vote was openly recognized. There was, to be sure, a struggle in both cases and the forces of caste are not demoralized; they are, however, beaten at present, and a great and good cause can go forward with unbedraggled skirts. Let every black man and woman fight for the new democracy which knows no race or sex.

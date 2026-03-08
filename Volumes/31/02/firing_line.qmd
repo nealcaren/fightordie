@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jun. 1925
-categories: []
 subjects:
   - Voting rights
   - European colonialism in Africa
@@ -32,6 +31,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Pan-Africanism & Empire"
 ---
 
 In the fight for human rights across the color bar where is the firing line? In the United States, in the West Indies, or in Africa?

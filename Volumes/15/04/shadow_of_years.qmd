@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1918
-categories: []
 subjects:
   - Autobiographical memoirs (African American life)
   - African American family history and genealogy
@@ -39,6 +38,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Retrospective"
 ---
 
 The most disquieting sign of my mounting years is a certain garrulity about myself, quite foreign to my young days. I find a growing tendency to fix innocent listeners with my stern eye, despite their all too evident longing to escape, and to tell them what life has meant to me. In this case I have been most easily persuaded that <span style="small-caps">Crisis</span> readers are more than anxious to know about me, simply because I am having a birthday. *Selah!* 

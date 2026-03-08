@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Feb. 1914
-categories: []
 subjects:
 - Residential segregation and property rights
 - Racial discrimination in employment and labor unions
@@ -34,6 +33,11 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Segregation"
+  - "Labor & Economics"
+  - "Voting & Elections"
 ---
 
 American citizens of Negro descent and their friends have much to do in 1914, if they are to stem the rising tide of racial proscription.

@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1916
-categories: []
 subjects:
   - Racial nomenclature and capitalization
   - Editorial style and printing conventions
@@ -34,6 +33,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Art & Culture"
 ---
 
 From time to time persons write us for a brief statement of the reasons for capitalizing the word *Negro*.

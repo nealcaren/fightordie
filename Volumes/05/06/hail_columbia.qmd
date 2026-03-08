@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Apr. 1913
-categories: []
 subjects:
   - Women's suffrage
   - Race and women's suffrage
@@ -38,6 +37,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Women's Rights"
+  - "Racial Violence"
 ---
 
 Hail Columbia, Happy Land! Again the glorious traditions of Anglo-Saxon

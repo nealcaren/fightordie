@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Feb. 1916
-categories: []
 subjects:
 - Voting rights
 - Equal educational opportunity
@@ -35,6 +34,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Internal Debate"
+  - "NAACP & Organizational Strategy"
 ---
 
 <span class="crisis-title">The Crisis</span>

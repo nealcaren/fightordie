@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1921
-categories: []
 subjects:
   - Educational inequality — racial disparities in public school funding
   - Federal aid to education — Smith-Towner Education Bill provisions and conditional funding
@@ -36,6 +35,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Education"
 ---
 
 <span class="crisis-title">The Crisis</span> believes and has always believed in national aid to common schools, because of the shameful fact that the South spends only the miserably inadequate sum of $10.32 a head on the education of white children and only $2.89 for each colored child.

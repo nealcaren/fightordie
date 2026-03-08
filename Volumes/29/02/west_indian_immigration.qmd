@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: December 1924
-categories: []
 subjects:
   - U.S. immigration restriction policy (1924)
   - Racial discrimination in immigration policy
@@ -33,6 +32,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Pan-Africanism & Empire"
+  - "Segregation"
 ---
 
 The Nordic champions undoubtedly put one over on us in the recent immigration bill. If our West Indian friends had watched more carefully and warned us, we might have been able to take some effective step. As it was, by the simple device of discriminating between self-governing and crown colonies in the British empire, a device whose significance at the time escaped us, immigration to the United States from the West Indies has practically been barred.

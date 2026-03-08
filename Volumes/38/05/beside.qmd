@@ -6,12 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: May 1931
-categories:
-  - The Artssubjects:
-  - Racial representation in American theatre
-  - Anti-Black stereotyping and caricature on stage
-  - African American actors and theatrical performance
-  - Cultural criticism of American dramatic art
 people:
   - W. E. B. Du Bois
   - Richard B. Harrison
@@ -36,6 +30,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Art & Culture"
 ---
 
 *This is the speech made by the Editor of The Crisis when the Lieutenant Governor of the State of New York bestowed the 17th Spingarn Medal on Richard B. Harrison.*

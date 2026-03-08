@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1921
-categories: []
 subjects:
   - Pan-Africanism
   - Colonial governance in Africa
@@ -37,6 +36,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Pan-Africanism & Empire"
 ---
 
 The Associated Press in a Paris dispatch, put into the mouth of the editor a statement that a colored Americans could not withstand the African climate, could not oust the Europeans, and did not desire to do so.

@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: January 1922
-categories: []
 subjects:
   - Racial party politics in the South
   - Division/splitting of the Black vote
@@ -38,6 +37,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Voting & Elections"
 ---
 
 Mr. Harding's plan for settling various problems in politics is now in full swing and we are not all sure but what it bids fair to be successful beyond his dreams. The Harding plan involves (1) White leadership for the black South; (2) A division of the Negro vote.

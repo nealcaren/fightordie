@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: November 1920
-categories: []
 subjects:
   - Author compensation and royalties
   - Economics of publishing and book distribution
@@ -31,6 +30,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Art & Culture"
 ---
 
 Every once in a while someone drops in and says cozily:

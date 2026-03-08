@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jun. 1916
-categories: []
 subjects:
   - Racial uplift — culture, refinement and service
   - Armed resistance for emancipation
@@ -31,6 +30,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Internal Debate"
+  - "Racial Violence"
 ---
 
 A colored girl writes us from Oswego, N. Y., saying:

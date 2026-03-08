@@ -3,7 +3,6 @@ title: 'An Open Letter'
 description: "Storey, Moorfield in The Crisis (1915) argues for justice, denouncing Southern disfranchisement and school neglect of Black Americans."
 author: Storey, Moorfield
 date: Jun. 1915
-categories: []
 subjects:
   - Lynching
   - Voting rights; disenfranchisement
@@ -29,6 +28,11 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Racial Violence"
+  - "Segregation"
+  - "The South"
 ---
 
 To the People of the United States:

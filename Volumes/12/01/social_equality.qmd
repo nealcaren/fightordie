@@ -6,13 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: May 1916
-categories:
-  - Social Equality
-  - Booker T. Washingtonsubjects:
-  - Social equality and interracial contact
-  - Education as racial uplift
-  - White Southern resistance to Black freedom (re-enslavement efforts)
-  - Racial segregation and social exclusion (Jim Crow)
 people:
   - W. E. B. Du Bois
   - Booker T. Washington
@@ -37,6 +30,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Segregation"
+  - "Internal Debate"
 ---
 
 The Southern white man who writes the *Outlook* editorials on the Negro said recently: "The social intimacy (or so-called social equality that some disloyal Negroes have craved and the sort of politics that created the evils of the Reconstruction era, have been the two main causes of the race complication." This is as flat a falsehood as could easily be told. The cause of the difficulties in Reconstruction was the determination of the white South to re-enslave Negroes, and the determination of the Negroes to be really free.

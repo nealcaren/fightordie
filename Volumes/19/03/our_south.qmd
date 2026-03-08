@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Jan. 1920
-categories: []
 subjects:
 - Racialized property ideology (claim that "all property is white property")
 - Black labor and employment rights (access to work and workplace accommodations)
@@ -32,6 +31,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "The South"
+  - "Labor & Economics"
 ---
 
 One of the surprising self-deceptions of the white Southerners is illustrated by this story of the war: Because of its large Negro working population, a government shipbuilding yard was brought to Wilmington, N.C., during the late war. The city congratulated itself, but balked finally at providing Negro workingmen with adequate housing. At a public meeting they lauded the whites and their enterprise to the skies, but complained to the government agents of the "burden" of the Negro---the black half of their population, said one pompous orator, was a "liability and not an asset."

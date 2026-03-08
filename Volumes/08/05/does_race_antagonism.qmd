@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1914
-categories: []
 subjects:
   - Racial prejudice — origins and education
   - Racial antagonism as alleged self‑defense
@@ -29,6 +28,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Segregation"
+  - "Education"
 ---
 
 There are four classes of reasons usually given in defense of Race Antagonism.

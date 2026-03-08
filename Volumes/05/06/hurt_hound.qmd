@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Apr. 1913
-categories: []
 subjects:
 - Lynching
 - Jim Crow laws
@@ -33,6 +32,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Segregation"
+  - "Racial Violence"
 ---
 
 The editor has received this news note from a colored friend:

@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: May 1922
-categories: []
 subjects:
 - Anti-lynching legislation
 - Jim Crow laws
@@ -33,6 +32,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Internal Debate"
+  - "Voting & Elections"
 ---
 
 Again the pendulum has swung: it is no longer a question of educating the Negro to his just demands as an American citizen. He has ceased to be beguiled by the silly philosophy that a voteless, spineless suppliant who owns a three-story brick house is going to command anybody's respect.

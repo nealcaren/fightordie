@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: May 1917
-categories: []
 subjects:
   - Race and religion
   - White Protestant churches — social ethics
@@ -36,6 +35,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Religion & Morality"
+  - "Segregation"
 ---
 
 Several white ministers of New York City have recently been assailing the Negro "invasion of Harlem." The 

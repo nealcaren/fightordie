@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Feb. 1914
-categories: []
 subjects:
 - Women's suffrage
 - Voting rights
@@ -32,6 +31,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Women's Rights"
+  - "Voting & Elections"
 ---
 
 This fall the voters of six states certainly, and possibly eight, will vote on woman's suffrage. In North and South Dakota, Montana, Nevada, Missouri and Nebraska elections are scheduled and attempts are being made to include this question in the fall elections of Oklahoma and Ohio. The Negro population of these eight states is 552,054. Assuming that the black voters of Oklahoma will be largely disfranchised it is, nevertheless, probable that 80,000 Negro voters will be asked to vote for or against the extension of the right of suffrage to women. How should they vote? A colored woman writes us from New Haven: 

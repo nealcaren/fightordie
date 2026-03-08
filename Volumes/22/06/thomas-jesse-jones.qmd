@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Oct. 1921
-categories: []
 subjects:
   - Black education — white control and paternalism
   - Philanthropic control of Negro institutions (Phelps-Stokes model)
@@ -34,6 +33,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Education"
+  - "Pan-Africanism & Empire"
 ---
 
 Thomas Jesse Jones was born in Wales, in 1873, and came to America when he was 11 years old. He was educated in Virginia, Ohio, and New York, and received the degree of Doctor of Philosophy from Columbia in 1899. He has been a social settlement worker, a teacher in Hampton Institute, a statistician in the United States Census Bureau, and at present he is Director of Research of the Phelps-Stokes Fund.

@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: January 1921
-categories: []
 subjects:
   - Educational inequality
   - Racial disparities in educational funding
@@ -38,6 +37,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Education"
 ---
 
 We have just learned from a curious source of the excellent educational opportunities of American Negroes and the rich endowments of Negro colleges. Our informant is none other than the distinguished evangelist's son, William R. Moody, President of Mt. Hermon School at East Northfield, Mass. Writes Mr. Moody July 30, 1920, (the italics are ours):

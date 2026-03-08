@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: May 1925
-categories: []
 subjects:
   - Labor movement and interracial cooperation
   - African American political independence (party affiliation and voting rights)
@@ -34,6 +33,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Retrospective"
+  - "Internal Debate"
 ---
 
 We have assumed, with the Spring, with the beginning  of our 30th semi-annual volume, with our 175th number and with the closing of a fateful quarter century, something of a new dress and a certain renewal of spirit.

@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Feb. 1920
-categories: []
 subjects:
 - Crime and criminality among African Americans
 - Racial discrimination in criminal justice
@@ -34,6 +33,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Racial Violence"
+  - "The South"
 ---
 
 We are not for a moment denying the existence of a criminal class among Negroes, who are guilty of deeds of violence. Every race in the world has such groups. No human efforts have yet been able wholly to rid society of crime. But if of all groups, the American Negro is to be singled out and punished **as a group** for the detestable deeds of its criminals, then this country is staging a race war of the bitterest kind, when the wronged and the innocent fight in desperate defense against the mob and murderer.

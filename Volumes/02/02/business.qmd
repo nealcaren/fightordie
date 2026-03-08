@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jun. 1911
-categories: []
 subjects:
   - Education
   - Philanthropy and social reform
@@ -31,6 +30,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Labor & Economics"
+  - "Religion & Morality"
 ---
 
 The talented, systematic, hard-headed youth of our nation are put into business. We tell them that the object of business is to make money. Our dull, soft-headed, unsystematic youth we let stray into philanthropy to work for the good of men. Then we wonder at our inability to stop stealing. This is the great American paradox.

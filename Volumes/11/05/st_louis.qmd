@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1916
-categories: []
 subjects:
   - Legal segregation (Jim Crow laws)
   - Residential segregation
@@ -33,6 +32,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Segregation"
+  - "Voting & Elections"
 ---
 
 Colored St. Louis and its friends are today fighting for life and breath. It has been a fight not simply against the enemy, but also an inner fight. This is as it must be, although most of us forget it. Most of us assume that the colored people know their rights and want them and are ready to fight for them. On the contrary, what slavery means is that its victims should be uncertain as to their place in the world; as to just what they really want; and as to their readiness to strive for the satisfaction of those wants. 

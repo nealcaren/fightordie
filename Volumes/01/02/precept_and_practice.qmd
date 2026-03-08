@@ -6,9 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Dec. 1910
-categories:
-  - Discrimination
-  - White hipocrisy
 subjects:
   - Public accommodations—Discrimination (restaurants)
   - Race relations—Social behavior
@@ -32,6 +29,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Segregation"
+  - "Art & Culture"
 ---
 
 A large audience was leaving New York's finest theatre. The play had been upon the Negro question, and one couple had been especially thrilled by the fine heroism of the white man, who, finding that he had a few drops of colored blood, allied himself with the despised race. "How magnificent," they were saying, "to dedicate oneself to the cause of the oppressed!"

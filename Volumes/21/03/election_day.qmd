@@ -3,7 +3,6 @@ title: 'Election Day in Florida'
 description: "White, Walter F. in The Crisis (1921) argues the 1920 Florida election was marked by Klan terror, killings and mass Black disenfranchisement."
 author: White, Walter F.
 date: Jan. 1921
-categories: []
 subjects:
   - Voter suppression
   - Election-related racial violence
@@ -33,6 +32,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Voting & Elections"
+  - "Racial Violence"
 ---
 
 An unknown number of dead, men of property and standing forced to leave their homes and families under threat of death, thousands of qualified voters debarred from casting their ballots---these constitute a portion of the results of the elections of 1920 in the state of Florida. To that list might well be added an increased bitterness on the part of both white and colored people towards each other and another black mark entered in the books of colored people against the whites for what the former had to suffer. 

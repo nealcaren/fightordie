@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1932
-categories: []
 subjects:
   - Annexation and colonial rule (Hawaii)
   - Plantation economy and economic exploitation (Hawaii — sugar, pineapple)
@@ -38,6 +37,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Pan-Africanism & Empire"
 ---
 
 The assault on a white woman in Hawaii brings this whole volcanic structure to the world's notice. Hawaii is a volcano and a series of volcanoes in more senses of the word than one. It is near the exact center of the Pacific Ocean. It was settled in prehistoric times by dark Mongolians with many evidences of a strong Negro strain. It was discovered by Captain James Cook in 1778. A company of missionaries landed there in 1820 and in 1823 came the great revival when the Queen and one-fifth of the population were converted to Christianity.

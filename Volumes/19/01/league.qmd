@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: May 1919
-categories: []
 subjects:
   - League of Nations
   - Imperialism
@@ -35,6 +34,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "War & Military"
+  - "Pan-Africanism & Empire"
 ---
 
 The colored folk want the League of Nations. The proposed League is not the best conceivable---indeed, in some respects it is the worst. But the worst International is better than the present anarchy in international relations. This anarchy has just cost civilization two hundred thousand millions of dollars, eight million corpses, twenty million maimed pieces of men and untold and unmeasurable waste, destruction, sorrow, misery and crime.

@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1933
-categories: []
 subjects:
   - African American population — United States — 1790-1930
   - Birth rates and fertility — African Americans — early 20th century
@@ -31,6 +30,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Segregation"
+  - "Education"
 ---
 
 The  growth of the Negro  population in the United States has been an astonishing phenomenon, especially when we remember that in 1790, when there were only three-fourths of a million Negroes in the country, it was the generally accepted fact that without a slave trade Negroes could not survive. What happened was that slaves without a slave trade became more valuable and with cotton culture their value rose still further, so that they were fed adequately and their breeding systematically encouraged. The result was that the Negro population has increased as follows:

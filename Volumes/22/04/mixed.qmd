@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1921
-categories: []
 subjects:
   - School segregation — secondary education
   - Public education and democracy
@@ -30,6 +29,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Education"
+  - "Segregation"
 ---
 
 > We anticipate agitation looking towards the establishment of separate High Schools in Indianapolis. In order to discuss the matter intelligently, we are asking you to be so kind as to give us the benefit of your observation, experience and judgment.

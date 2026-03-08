@@ -6,13 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jan. 1911
-categories:
-  - Disenfranchisementsubjects:
-  - Voting rights
-  - Disfranchisement of African Americans
-  - White primary system (voter exclusion)
-  - Jim Crow laws
-  - Newspaper propaganda / Southern political rhetoric
 people:
   - W. E. B. Du Bois
   - Benjamin R. Tillman
@@ -38,6 +31,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Voting & Elections"
+  - "The South"
 ---
 
 To the honest seeker for light the puzzling thing about the Southern situation is the absolutely contradictory statements that are often

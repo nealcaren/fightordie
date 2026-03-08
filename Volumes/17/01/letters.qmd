@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: May 1919
-categories: []
 subjects:
 - Disfranchisement
 - Jim Crow laws (segregated public transportation)
@@ -33,6 +32,11 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "The South"
+  - "Women's Rights"
+  - "Segregation"
 ---
 
 Letters

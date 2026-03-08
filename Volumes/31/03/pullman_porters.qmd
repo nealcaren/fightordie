@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jan. 1926
-categories: []
 subjects:
   - Labor organizing — Pullman porters
   - Employer coercion and anti-union tactics (spying, bribery)
@@ -37,6 +36,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Labor & Economics"
 ---
 
 There are some things connected with the fight of Pullman porters for recognition as modern working men which should hold our attention. First, there is the threat of the Pullman Company to substitute Filipino porters. This threat is sheer poppycock. Let them import as many Filipinos as they want. The Negro porters can easily hold their own. But of course the Pullman Company has not the slightest intention of importing Filipinos even if they could do so legally. They are simply trying to scare colored men. 

@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: May 1913
-categories: []
 subjects:
 - Peace movement (United States)
 - Colonialism
@@ -38,6 +37,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Pan-Africanism & Empire"
+  - "War & Military"
 ---
 
 At the coming meeting of the peace societies at St. Louis the question of peace between civilized and backward peoples will not probably be considered. The secretary of the New York Peace Society writes us that "Our peace congresses have not dealt in the past with the relations of civilized and non-civilized people;" and he thinks that largely on this account "our American congresses have been more dignified and more influential than those held abroad."

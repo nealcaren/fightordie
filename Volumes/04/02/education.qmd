@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Jun. 1912
-categories: []
 subjects:
 - African American education
 - Vocational education
@@ -33,6 +32,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Education"
+  - "Internal Debate"
 ---
 
 Consider this argument: Education is the training of men for life. The best training is experience, but if we depended entirely upon this each generation would begin where the last began and _ civilization could not advance. 

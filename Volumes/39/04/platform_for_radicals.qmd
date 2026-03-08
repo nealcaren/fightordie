@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Apr. 1932
-categories: []
 subjects:
   - Public disclosure of private income
   - Property ownership disclosure (real estate, stocks, bonds)
@@ -31,6 +30,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Labor & Economics"
 ---
 
 Here is a platform which does not involve murder or revolution, but which we recommend to the most radical of our friends, as a step toward the millennium. Consider it:

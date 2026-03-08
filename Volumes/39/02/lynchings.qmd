@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1932
-categories: []
 subjects:
   - Lynching
   - Racial caste system
@@ -34,6 +33,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Racial Violence"
 ---
 
 There have been this year thirteen or more persons lynched. I say thirteen "or more." It may have been fifteen or eighteen, but I am taking the reports of Tuskegee, which are usually just below the truth. This means that once a month in the United States mobs have seized prisoners, who in every case but one were black, and have murdered them without any attempt to find out whether they were guilty or not.

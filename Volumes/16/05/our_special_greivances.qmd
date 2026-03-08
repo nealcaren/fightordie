@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1918
-categories: []
 subjects:
   - African American military service
   - Racial discrimination in military service
@@ -34,6 +33,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "War & Military"
+  - "Internal Debate"
 ---
 
 The leading editorial in the July <span class="crisis-title">Crisis</span>, called "[Close Ranks](../03/close_ranks.html)," has been the subject of much comment. To a few it has seemed to indicate some change of position on the part of the National Association for the Advancement of Colored People and <span class="crisis-title">Crisis</span>. It is needless to say that it indicates nothing of the sort. This Association and this magazine stand today exactly where they have stood during the eight years of their work; viz., for the full manhood rights of the American Negro.

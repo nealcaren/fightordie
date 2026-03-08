@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Apr. 1918
-categories: []
 subjects:
   - Republican Party — racial exclusion (Lily-White movement)
   - African American political participation — candidate suppression
@@ -36,6 +35,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Voting & Elections"
 ---
 
 If any Negro has a lingering hope that the Republican Party has learned anything recently let him straightway give it up. The Republican National Committee at St. Louis deliberately defeated Perry Howard, a Mississippi Negro, for a place among its members and elected a Negro-hating "Lily White" sent there by a convention which the committee itself acknowledged was illegal.

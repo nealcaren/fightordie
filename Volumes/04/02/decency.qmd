@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jun. 1912
-categories: []
 subjects:
   - Interracial marriage
   - German colonialism
@@ -36,6 +35,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Segregation"
+  - "Pan-Africanism & Empire"
 ---
 
 By a vote of 203 against 133, the German Reichstag has declared that

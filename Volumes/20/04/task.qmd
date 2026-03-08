@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: August. 1920
-categories: []
 subjects:
   - NAACP strategy and tactics (limits of legal/peaceful methods)
   - Organized white opposition to Black equality
@@ -34,6 +33,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "NAACP & Organizational Strategy"
+  - "The South"
 ---
 
 There is one sentence in the resignation of Mr. Shillady, our former secretary, which has arrested the attention of us all. He says:

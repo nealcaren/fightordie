@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Jun. 1914
-categories: []
 subjects:
 - Racial segregation
 - Racial equality
@@ -29,6 +28,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Segregation"
+  - "Internal Debate"
 ---
 
 William Monroe Trotter is a brave man. Of his fearlessness and his unselfish devotion to the highest interests of the Negro race there can be no doubt. 

@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: April 1921
-categories: []
 subjects:
   - Racial discrimination in women's organizations
   - African American women's club leadership
@@ -34,6 +33,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Women's Rights"
+  - "Segregation"
 ---
 
 Mrs. Paul Gaston Darrot,</br>

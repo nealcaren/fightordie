@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1913
-categories: []
 subjects:
   - Civil rights legislation — Charles Sumner's civil-rights bill
   - Fourteenth Amendment — Supreme Court interpretation
@@ -34,6 +33,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Segregation"
+  - "Voting & Elections"
 ---
 
 The sweeping away of the last vestiges of Charles Sumner's civil-rights bill by the Supreme Court leaves the Negro no worse off, but it leaves the nation poor, indeed. Charles Sumner tried to do, right on the heels of emancipation, that which must be done before emancipation is complete. As long as a single American citizen, be he poor or black or ill born, can be publicly insulted by common carriers and public servants, just so long is democracy in the United States a contradiction and a farce.

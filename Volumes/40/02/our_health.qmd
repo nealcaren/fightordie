@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1933
-categories: []
 subjects:
   - Health disparities (African Americans)
   - Poverty and low wages (African American families)
@@ -35,6 +34,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Segregation"
+  - "Labor & Economics"
 ---
 
 Our death rate is without the slightest doubt a death rate due to poverty and discrimination.

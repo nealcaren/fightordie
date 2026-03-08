@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1916
-categories: []
 subjects:
   - Supreme Court appointments
   - African American civil rights
@@ -34,6 +33,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Segregation"
+  - "Labor & Economics"
 ---
 
 There seems to be a chance to put a modern man on the Bench of the

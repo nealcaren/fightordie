@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: May 1911
-categories: []
 subjects:
 - Race prejudice and racism (cultivated prejudice)
 - Military discrimination
@@ -37,6 +36,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Segregation"
 ---
 
 There is a class of Americans who are coming to regard race prejudice as a divine thing against which it is perfectly useless to strive. If such persons will consider the news of the month they will easily realize that race prejudice in the United States is a deliberately cultivated and encouraged state of mind. In Chicago that which was heralded the world over as "racial" antipathy and called even a "race war" in an art class was proven to be merely a lie, made by a sensation monger. In Delaware a "mob of Negroes" dissolves itself into the rioting of liquor-soaked white toughs. In Texas, the white city of San Antonio went so wild over the excellence of Negro troops that a demagogue in

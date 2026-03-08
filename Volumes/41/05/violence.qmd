@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: May 1934
-categories: []
 subjects:
 - Political violence
 - White backlash and repression
@@ -38,6 +37,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Internal Debate"
 ---
 
 A certain group of young, American Negroes, inspired by white Radicals, are distinctly looking toward violence as the only method of settling the Negro problems.

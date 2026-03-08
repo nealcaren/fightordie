@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jun. 1921
-categories: []
 subjects:
   - Myth of Negro criminality
   - Lynching
@@ -35,6 +34,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Racial Violence"
+  - "Religion & Morality"
 ---
 
 If once, then a thousand times white Southerners fling at us: why do you not denounce Negro crime as well as white lynching?

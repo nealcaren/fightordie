@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Apr. 1920
-categories: []
 subjects:
   - United States military occupation of Haiti
   - United States imperialism in the Caribbean
@@ -36,6 +35,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Pan-Africanism & Empire"
 ---
 
 The United States is at war with Haiti. Congress has never

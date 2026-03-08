@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Mar. 1921
-categories: []
 subjects:
 - British imperialism in Ireland
 - Irish independence movement
@@ -32,6 +31,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Pan-Africanism & Empire"
 ---
 
 No people can more exactly interpret the inmost meaning of the present situation in Ireland than the American Negro. The scheme is simple. You knock a man down and then have him arrested for assault. You kill a man and then hang the corpse for murder. We black folk are only too familiar with this procedure. In a given city, a mob attacks us unprepared, unsuspecting, and kills innocent and harmless black workingmen in cold blood. The bewildered Negroes rush together and begin to defend themselves. Immediately by swift legerdemain the mob becomes the militia or a gang of "deputy sheriffs". They search, harry and kill the Negroes. They disarm them and loot their homes, and when the city awakes after the "race riot", the jail is filled with Negroes charged with rioting and fomenting crime!

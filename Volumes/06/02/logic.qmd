@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jun. 1913
-categories: []
 subjects:
   - Lynching and mob violence
   - Disfranchisement — voting rights of African Americans
@@ -35,6 +34,11 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Racial Violence"
+  - "Segregation"
+  - "Education"
 ---
 
 The logical end of hatred is murder. Race prejudice is traditional hatred of human beings. Its end is lynching, war and extermination.

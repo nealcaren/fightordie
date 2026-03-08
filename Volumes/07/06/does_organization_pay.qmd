@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Apr. 1914
-categories: []
 subjects:
 - African American civil rights organizing
 - National Association for the Advancement of Colored People — membership campaigns
@@ -34,6 +33,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "NAACP & Organizational Strategy"
 ---
 
 ﻿

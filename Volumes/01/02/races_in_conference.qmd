@@ -6,14 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Dec. 1910
-categories:
-  - International Solidarity
-  - Conferencessubjects:
-  - Interracial conferences and interracial contact
-  - International race relations
-  - Racial equality and a "democracy of races"
-  - Anti‑racism and racial tolerance
-  - Internationalism and world peace through dialogue
 people:
   - W. E. B. Du Bois
 places:
@@ -35,6 +27,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Pan-Africanism & Empire"
 ---
 
 We doubt if the Twentieth Century will bring forth a greater idea than the First Universal Races Congress in London, in the summer of 1911. Its possibilities are tremendous and its plan unique. Many will, of course, instinctively fear it. They will ask: "What good after all can come of such a congress? What can it do save talk---what can it initiate save profitless agitation?" The chief outcome of the Congress will be human contact---the meeting of men; not simply the physical meeting, eye to eye and hand to hand of those actually present, but the resultant spiritual contact which will run round the world. 

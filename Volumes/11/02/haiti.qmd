@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Jun. 1915
-categories: []
 subjects:
 - U.S. imperialism and military intervention in Haiti
 - State Department foreign policy and racial diplomacy
@@ -36,6 +35,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Pan-Africanism & Empire"
+  - "Racial Violence"
 ---
 
 At first, inquiries at the White House concerning the intentions of the United States in Haiti were appeased by reference to the proclamation of the southern-born admiral, who is now ruling that island as conqueror. This proclamation contains certain smooth

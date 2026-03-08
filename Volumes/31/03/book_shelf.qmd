@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jan. 1926
-categories: []
 subjects:
   - New Negro movement (Harlem Renaissance)
   - African American literature and criticism
@@ -38,6 +37,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Art & Culture"
 ---
 
 <h2><em>The New Negro</em>, edited by Alain Locke. Albert and Charles Boni, New York, 1925. 446 pages.</h2>

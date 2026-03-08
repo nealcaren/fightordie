@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Sep. 1928
-categories: []
 subjects:
 - Lynching
 - White supremacy
@@ -35,6 +34,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Racial Violence"
 ---
 
 ![](images/melbourne_lynching.jpg){width=40% .right}

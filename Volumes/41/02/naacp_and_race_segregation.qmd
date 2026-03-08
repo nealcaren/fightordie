@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1934
-categories: []
 subjects:
   - Residential segregation (forced ghettoization)
   - Jim Crow laws — public transportation segregation
@@ -36,6 +35,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Segregation"
+  - "Internal Debate"
 ---
 
 There is a good deal of misapprehension as to the historic attitude of the National Association for the Advancement of Colored People and race segregation. As a matter of fact, the Association, while it has from time to time discussed the larger aspects of this matter, has taken no general stand and adopted no general philosophy. Of course its action, and often very effective action, has been in specific cases of segregation where the call for a definite stand was clear and decided. For instance, in the preliminary National Negro Convention which met in New York May 31st and June 1st, 1909, segregation was only mentioned in a protest against Jim-Crow car laws and that because of an amendment by William M. Trotter. In the First Annual Report, January 1, 1911, the Association evolved a statement of its purpose, which said that "it seeks to uplift the colored men and women of this country by securing to them the full enjoyment of their rights as citizens, justice in all courts, and equality of opportunity everywhere." Later, this general statement was epitomized in the well-known declaration: "It conceives its mission to be the completion of the work which the great Emancipator began. It proposes to make a group of ten million Americans free from the lingering shackles of past slavery, physically free from peonage, mentally free from ignorance, politically free from disfranchisement, and socially free from insult." This phrase which I first wrote myself for the Annual Report of 1915 still expresses pregnantly the object of the N.A.A.C.P. and it has my own entire adherence.

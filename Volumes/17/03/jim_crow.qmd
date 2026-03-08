@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Jan. 1919
-categories: []
 subjects:
 - Jim Crow laws
 - Black institutional development (churches, schools, social organizations)
@@ -36,6 +35,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Segregation"
+  - "Internal Debate"
 ---
 
 We  colored folk stand at the parting of ways, and we must take counsel. The objection to segregation and "Jim-Crowism" was in other days the fact that compelling Ne­groes to associate only with Negroes meant to exclude them from contact with the best culture of the day. How could we learn manners or get knowledge if the heritage of the past was locked away from us?

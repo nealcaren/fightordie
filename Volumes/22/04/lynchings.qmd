@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1921
-categories: []
 subjects:
   - Lynching
   - Mob rule and extrajudicial racial violence
@@ -33,6 +32,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Racial Violence"
 ---
 
 You are frightened? Thieves, hold-ups and crime? But the police and the courts are with you. Public opinion is behind you; your neighbor's arm is ready to help.

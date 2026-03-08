@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jan. 1933
-categories: []
 subjects:
   - Reevaluation of the "Negro problem" (racial philosophy) in the mid-20th century
   - Educational opportunities and policy for African Americans (schooling, vocational vs. collegiate training)
@@ -34,6 +33,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Internal Debate"
+  - "Retrospective"
 ---
 
 A college graduate came to me yesterday and asked: "What has the N.A.A.C.P. published concerning the present problems of the Negro, and especially of young Negroes just out of college?"

@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Jun. 1917
-categories: []
 subjects:
 - Lynching
 - African American military service (World War I)
@@ -34,6 +33,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "War & Military"
+  - "Labor & Economics"
 ---
 
 The American Negro more unanimously than any other American group has offered his services in this war as officer and soldier. He has done this earnestly and unselfishly, overlooking his just resentment and grievous wrongs. 

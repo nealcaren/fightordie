@@ -3,7 +3,6 @@ title: The Sweet Trial
 description: White, Walter F. in The Crisis (1926) discusses the Sweet trial, defending Black homeowners' right to self-defense and exposing mob racism.
 author: White, Walter F.
 date: Jan. 1926
-categories: []
 subjects:
 - Residential segregation
 - Racial mob violence
@@ -34,6 +33,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Racial Violence"
+  - "Segregation"
 ---
 
 ***The Assistant Secretary of the N.A.A.C.P. "Covered" the Trial of the Negroes of Detroit Who Were Tried for Murder Because They Defended Their Home Against a Mob***

@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: May 1912
-categories: []
 subjects:
   - African American church leadership and clerical ethics
   - Clergy education and professional training
@@ -38,6 +37,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Religion & Morality"
+  - "NAACP & Organizational Strategy"
 ---
 
 It happens that during this month, in the North, West and South, there

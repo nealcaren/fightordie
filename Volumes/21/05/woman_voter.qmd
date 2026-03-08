@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1921
-categories: []
 subjects:
   - Women's suffrage
   - African American women — suffrage and voting rights
@@ -36,6 +35,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Women's Rights"
+  - "Voting & Elections"
 ---
 
 The colored women have made a splendid record at their first national election. Applying for registration in large numbers, they endured purposeful delays and deliberate insults. They have shown themselves in states like Georgia and Louisiana to be more modern and sensible than their white sisters; and throughout the country they cast a large and influential vote.

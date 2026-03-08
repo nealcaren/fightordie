@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1918
-categories: []
 subjects:
   - African American military service and citizenship recognition
   - African American enfranchisement (voting rights)
@@ -38,6 +37,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "War & Military"
+  - "Voting & Elections"
 ---
 
 Certain honest thinkers among us hesitate at that last sentence. They say it is all well to be idealistic, but is it not true that while we have fought our country's battles for one hundred fifty years, we have *not* gained our rights? There is just enough fact in this half truth to make it a whole and a very mischievous lie. No, we have not gained all our rights, but we have gained rights and gained them rapidly and effectively by our loyalty in time of trial.

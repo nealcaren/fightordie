@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1911
-categories: []
 subjects:
   - School segregation (racial)
   - Educational inequality
@@ -38,6 +37,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Education"
+  - "Segregation"
 ---
 
 There is an artist in New York who rose from the humblest circumstances and now lives in a suburb of the city. In his rise he has evidently learned the essentials of democracy, for his wife in an interview says that they want separate Negro schools in that suburb. They need to have them, but a very foolish law interfered, she laments: 

@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar.. 1921
-categories: []
 subjects:
   - Black economic development and race capital preservation
   - Investment practices and financial advice for African Americans
@@ -33,6 +32,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Labor & Economics"
 ---
 
 Colored folk in larger and larger numbers are investing their savings and so far as possible investing in such ways as will best serve the race. This is a most encouraging symptom and one has but to visit the Tidewater of Virginia, or Gary, Indiana, or a dozen other centers to see what Negro capital is doing for the Negro.

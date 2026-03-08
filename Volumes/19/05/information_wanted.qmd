@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Mar. 1920
-categories: []
 subjects:
 - Lynching and mob violence
 - Black agricultural organizing
@@ -38,6 +37,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Racial Violence"
+  - "Internal Debate"
 ---
 
 Last summer, Negro farmers in Arkansas organized the "Progressive

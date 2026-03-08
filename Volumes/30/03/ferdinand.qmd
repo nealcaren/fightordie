@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: July 1925
-categories: []
 subjects:
   - African American party politics
   - Party patronage and employment (political jobs)
@@ -35,6 +34,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Voting & Elections"
 ---
 
 There has been going on in black New York during the last ten years a revolution in practical politics which few Negroes know or understand. There are two political attitudes usual to Negroes. One widely advocated by <span class="crisis-title">The Crisis</span> is that of standing outside parties and throwing a mass of independent votes here or there as the candidates bid until parties will recognize Negro strength and cater to it. The weakness of this stand is that the choices after nominations are made are really few or none. Hence the real fight of the practical politicians is inside the party in the organizing of wards and precincts and the primary elections.

@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Jan. 1921
-categories: []
 subjects:
 - Interracial amity
 - Interracial conferences and conventions
@@ -29,6 +28,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Segregation"
+  - "Religion & Morality"
 ---
 
 A convention of colored and white people took place in Washington, D.C., in May, which deserves thought. The programs carried these words: 

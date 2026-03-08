@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar.. 1921
-categories: []
 subjects:
   - Racist libel and stereotyping in film and theater
   - Civic duty and public protest against racial injustice
@@ -32,6 +31,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Art & Culture"
+  - "Internal Debate"
 ---
 
 They are so brave! My God! The fire that blows from their dilated nostrils and the spite that sputters from mouths---but---go to Atlanta? No *sir*! Not *me*! I'm busy. I'm just about the busiest person you ever saw.

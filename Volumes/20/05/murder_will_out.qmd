@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Mar. 1920
-categories: []
 subjects:
 - Labor organizing
 - State repression of labor strikes (martial law)
@@ -33,6 +32,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Labor & Economics"
+  - "The South"
 ---
 
 Slowly, too slowly, and yet with inevitable sureness the meaning of the

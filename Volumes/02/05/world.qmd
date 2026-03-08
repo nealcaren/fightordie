@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1911
-categories: []
 subjects:
   - Racial equality
   - Race prejudice and racism
@@ -34,6 +33,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Pan-Africanism & Empire"
+  - "NAACP & Organizational Strategy"
 ---
 
 The greatest event of the twentieth century so far was the First Universal Races Congress. It was more significant than the Russian-Japanese war, the Hague Conference or the rise of Socialism. It was significant not on account of the size of its meetings, well attended as they were; not on account of the weight of its utterances, weighty as they were; not on account of the publicity it received or the influence it spread.

@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1919
-categories: []
 subjects:
   - Lynching
   - Black self-defense
@@ -32,6 +31,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Racial Violence"
 ---
 
 Brothers we are on the Great Deep. We have cast off on the vast voyage which will lead to Freedom or Death.

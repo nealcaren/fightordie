@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Apr. 1921
-categories: []
 subjects:
 - Socialism and the Black working class
 - Voting rights (political enfranchisement)
@@ -34,6 +33,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Labor & Economics"
+  - "Pan-Africanism & Empire"
 ---
 
 We have an interesting letter from John H. Owens of Washington, which we would like to publish in full but can only note certain extracts. Mr. Owens says, in answer to the editorial in the July <span class="crisis-title">Crisis</span> on "[The Negro and Radical Thought](../03/negro_and_radical_thought.html)":

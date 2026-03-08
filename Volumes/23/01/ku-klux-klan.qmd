@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: November 1921
-categories: []
 subjects:
   - Ku Klux Klan
   - White supremacy -- United States
@@ -35,6 +34,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Racial Violence"
 ---
 
 The white knights are on the run. Their flowing robes no longer present the dignified appearance made familiar to millions of Americans by "The Birth of a Nation." Instead they stream in ridiculous tatters. Since the New York *World* has described the mischievous and dangerous plans plotted behind their masks their power is ended. We have learned a great deal about their Grand Wizard and their Kleagles and we know now that the Klan is a money-making affair selling stock based on race prejudice.

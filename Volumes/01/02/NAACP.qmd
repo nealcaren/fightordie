@@ -6,14 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Dec. 1910
-categories:
-  - NAACP
-  - Tacticssubjects:
-  - Racial prejudice and discrimination
-  - Civil rights advocacy and organizing
-  - Public education via print and lectures
-  - Sociological investigation of race relations
-  - Relief and social welfare for African Americans
 places:
   - United States
 organizations:
@@ -31,6 +23,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "NAACP & Organizational Strategy"
 ---
 
 What is the National Association for the Advancement of Colored People? It is a union of those who believe that earnest, active opposition is the only effective way of meeting the forces of evil. They believe that the growth of race prejudice in the United States is evil. It is not always consciously evil. Much of it is born of ignorance and misapprehension, honest mistake and misguided zeal. However caused, it is none the less evil, wrong, dangerous, fertile of harm. For this reason it must be combatted. It is neither safe nor sane to sit down dumbly before such human error or to seek to combat it with smiles and hushed whispers. Fight the wrong with every human weapon in every civilized way.  

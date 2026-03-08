@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Jun. 1917
-categories: []
 subjects:
 - Military discrimination
 - Segregated military training camps (separate camps for Black soldiers)
@@ -35,6 +34,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "War & Military"
+  - "Segregation"
 ---
 
 Give us Negro officers for Negro troops. This is the slogan and let no specious argument turn us from it. Liars tell us that only white men can lead black men, and they tell us this in the face of the record of Sonni Ali, Touissaint L'Ouverture, General Dodd, Charles Young, and Frank Dennison. Give us Negro officers for Negro troops. 

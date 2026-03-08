@@ -3,7 +3,6 @@ title: 'The Burning of Jim Mc Ilherron: An N.A.A.C.P. Investigation'
 description: "White, Walter F. in The Crisis (1918) examines the burning lynching of Jim McIlherron using white eyewitness accounts from Estill Springs."
 author: White, Walter F.
 date: May 1918
-categories: []
 subjects:
   - Lynching (burning at the stake)
   - Mob violence and extrajudicial killings
@@ -32,6 +31,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Racial Violence"
 ---
 
 ![](../../../Images/our_foes.png)

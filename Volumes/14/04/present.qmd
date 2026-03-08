@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1917
-categories: []
 subjects:
   - African American participation in World War I
   - Military service and patriotism (African Americans)
@@ -30,6 +29,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "War & Military"
+  - "Labor & Economics"
 ---
 
 We are facing a new world. Never again are we going to cope with the same conditions and the same social forces that we have faced in the last half-century. There will be in the world the same human beings, but new forces have been loosed and a new situation has arisen. It is the business of the American Negro not to sit idly by and see this rearrangement of the world, hoping that something will come out of it of good for him. It is rather his business actually to put himself into the turmoil and work effectively for a new democracy that shall know no color.

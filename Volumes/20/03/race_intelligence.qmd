@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jul. 1920
-categories: []
 subjects:
   - Race and intelligence testing (Army mental tests)
   - Scientific racism
@@ -35,6 +34,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Education"
+  - "Internal Debate"
 ---
 
 For a century or more it has been the dream of those who do not believe Negroes are human that their wish should find some scientific basis. For years they depended on the weight of the human brain, trusting that the alleged underweight of less than a thousand Negro brains, measured without reference to age, stature, nutrition or cause of death, would convince the world that black men simply could not be educated. Today scientists acknowledge that there is no warrant for such a conclusion and that in any case the absolute weight of the brain is no criterion of racial ability. 

@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1914
-categories: []
 subjects:
   - Disenfranchisement (Black voting rights)
   - Educational inequality and school retrenchment for African Americans
@@ -35,6 +34,11 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Segregation"
+  - "Labor & Economics"
+  - "Education"
 ---
 
 "Disfranchise the Negro, give him an education and full rights of work and

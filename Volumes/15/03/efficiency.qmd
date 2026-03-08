@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Jan. 1918
-categories: []
 subjects:
 - Disfranchisement
 - Jim Crow segregation (segregation laws and court challenges)
@@ -37,6 +36,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Internal Debate"
 ---
 
 Efficiency

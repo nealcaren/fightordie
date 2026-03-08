@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar.. 1921
-categories: []
 subjects:
   - Education — African American girls
   - School discipline — Southern United States
@@ -34,6 +33,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Education"
+  - "Women's Rights"
 ---
 
 I attended the East Central Field School Girls' Conference at the Germantown Y.W.C.A. It was not only a wonderful thing to see these hundreds of bright and pretty colored high school girls, but the finest thing about it was that they were noisy, happily noisy. One gets, particularly in southern colored schools, an impression of portentous silence and primness on the part of young students. New England discipline, long dead in its own home, has descended curiously to the colored missionary schools of the South so that one seldom gets the spontaneous ebullition of the frank and glorious animal spirits which youth has a right to have. But at the Germantown conference, with girls from all the eastern cities of the Middle States, and with white and colored workers, there was a joy and abandon, a blending of team work, art, laughter and music which was more than uplifting. It was big with hope.

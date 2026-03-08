@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1911
-categories: []
 subjects:
   - British imperialism
   - Race relations in Britain
@@ -33,6 +32,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Pan-Africanism & Empire"
 ---
 
 There is in the world no city like London. Nor is its distinction merely a matter of size. To be sure, it is a vast aggregation of men---it gives the visitor a curious sense of endlessness by its very disorganization, by the fact that one can find center after center of busy running life stretching away mile after mile and yet all is London. London has no beauty that will compare it to Paris, no blare and flare like New York.

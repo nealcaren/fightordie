@@ -3,7 +3,6 @@ title: The Shambles of South Carolina
 description: White, Walter in The Crisis (1926) examines the brutal lynching of the Lowman family and Southern mob terror.
 author: White, Walter
 date: Jun. 1926
-categories: []
 subjects:
 - Lynching
 - Ku Klux Klan violence
@@ -34,6 +33,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Racial Violence"
+  - "The South"
 ---
 
 Four men went down the darkened corridor of the Aiken, S. C., jail towards the cell where slept a colored woman. Through the brick and steel structure, there had grown all night a sense of impending terror. Here and there, prisoners unable to sleep with the shadow over them, moved restlessly about their cells, sensing vaguely the form of Tragedy standing nearby. 

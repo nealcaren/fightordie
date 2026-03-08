@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Apr. 1920
-categories: []
 subjects:
 - Disfranchisement
 - Federal enforcement of voting rights / defense of democracy
@@ -33,6 +32,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Voting & Elections"
 ---
 
 The foundations of the present political South are built upon sand.

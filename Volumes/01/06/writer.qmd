@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Apr. 1911
-categories: []
 subjects:
   - African American literature
   - African American women writers
@@ -36,6 +35,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Art & Culture"
 ---
 
 The death of Frances Watkins Harper calls our attention to the literature of American Negroes. Mrs. Harper was born in Baltimore in 1825. Her active life, beginning with her first published book of poems, covered over sixty years of stirring history, from the Compromise of 1850 down to Mr. Taft's inaugural address. She was associated with all the great leaders of the abolition cause and has lectured to hundreds of audiences throughout the land.

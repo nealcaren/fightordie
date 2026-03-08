@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: June. 1920
-categories: []
 subjects:
 - Anti-lynching legislation
 - Segregation on public transportation (Jim Crow cars)
@@ -35,6 +34,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Voting & Elections"
 ---
 
 We have asked 17 men mentioned for the presidency what their attitude is on:

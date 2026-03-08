@@ -6,14 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Nov. 1910
-categories:
-  - Tactics
-  - NAACPsubjects:
-  - Political agitation and protest tactics
-  - Civil rights activism
-  - Racial prejudice
-  - Social reform (role of agitation)
-  - Public opinion and moral persuasion
 people:
   - W.E.B. Du Bois
 places:
@@ -32,6 +24,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "NAACP & Organizational Strategy"
 ---
 
 Some good friends of the cause we represent fear agitation. They say: "Do not agitate---do not make a noise; work." They add, "Agitation is destructive or at best negative---what is wanted is positive constructive work."

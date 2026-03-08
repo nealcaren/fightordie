@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Apr. 1912
-categories: []
 subjects:
   - Race relations—United States—Reconciliation
   - North–South relations (United States)
@@ -31,6 +30,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Literary Writing"
 ---
 
 <div class="poem">

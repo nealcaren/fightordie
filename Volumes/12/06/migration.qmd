@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Apr. 1916
-categories: []
 subjects:
 - Great Migration (African American migration to Northern United States)
 - Lynching
@@ -29,6 +28,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Labor & Economics"
+  - "The South"
 ---
 
 It has long been the custom of colored leaders to advise the colored people to stay in the South. This has been supplemented by the startling information on the part of southern whites

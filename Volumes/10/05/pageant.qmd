@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1915
-categories: []
 subjects:
   - Historical pageantry (African American pageants)
   - Commemoration of Emancipation and Reconstruction amendments
@@ -35,6 +34,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Art & Culture"
+  - "NAACP & Organizational Strategy"
 ---
 
 In 1913 and since there have been several celebrations of the Fiftieth

@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Apr. 1914
-categories: []
 subjects:
 - Race relations — Brazil
 - Race relations
@@ -37,6 +36,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Pan-Africanism & Empire"
+  - "Racial Violence"
 ---
 
 As a magnificent essay in valiant timidity we recommend Mr. Theodore Roosevelt's "Brazil and the Negro" in the <i>Outlook</i>. The story which he has to tell is simple: There are in Brazil 8,300,000 Negroes and mulattoes; 3,700,000 Indian and mixed Indian-whites and 8,000,000 persons of European descent. All these elements are fusing into one light mulatto race. 

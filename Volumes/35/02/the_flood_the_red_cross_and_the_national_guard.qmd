@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1928
-categories: []
 subjects:
   - Flood relief and racial discrimination
   - Sharecropping and peonage
@@ -38,6 +37,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Labor & Economics"
+  - "The South"
 ---
 
 *Second Installment Based on an Investigation Made by the N.A.A.C.P. in October, 1927*

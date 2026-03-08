@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Jun. 1911
-categories: []
 subjects:
 - Lynching
 - Disfranchisement
@@ -34,6 +33,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Internal Debate"
+  - "Racial Violence"
 ---
 
 Two utterances by Mr. Booker T. Washington this week illustrate the reasons why so many thinking men, black and white, are coming to doubt Mr. Washington's statesmanship. One statement is in the current Outlook and is to the effect that Mr. John E. Milholland and "certain members of my own race in the North have objected because they said I did not paint conditions in the South black enough. … I have never denied that the Negro in the South frequently meets with wrong and injustice, but he does not starve." And he quotes facts to show that there is actual starvation in London.

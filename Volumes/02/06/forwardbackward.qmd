@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Apr. 1911
-categories: []
 subjects:
 - Women's suffrage — racial exclusion
 - Disfranchisement
@@ -32,6 +31,11 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Women's Rights"
+  - "Voting & Elections"
+  - "Religion & Morality"
 ---
 
 The nemesis of every forward movement in the United States is the Negro question. 

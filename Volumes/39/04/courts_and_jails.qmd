@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Apr. 1932
-categories: []
 subjects:
   - Racial discrimination in courts and sentencing
   - Conditions of jails and prisons for African Americans
@@ -31,6 +30,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Racial Violence"
+  - "Religion & Morality"
 ---
 
 It is to the disgrace of the American Negro, and particularly of his religious and philanthropic organizations, that they continually and systematically neglect Negroes who have been arrested, or who are accused of crime, or who have been convicted and incarcerated.

@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: December 1921
-categories: []
 subjects:
   - Nature as spiritual renewal
   - Alpine landscape (Chamonix and Mont Blanc)
@@ -32,6 +31,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Literary Writing"
 ---
 
 I have seen the League of Nations, the Federation of the World, sitting in a little upper room and stared at by reporters, amidst streams of hopes and fears and of intrigues. After that I came to Chamounix--to cow bells and silence and trickle of waters. Above this world-on-end, lies the vast Thing of Snow,---silent, tremendous, a world apart, remembered and forgotten; a place of lights and shadows, unknown to earth. And of mists. I think the real marriage of earth and stars lies somehow in these mists. There is every preparation for it: the calm and pretty valley with its cows, with its homes, its little intrigues and tragedies, its laughter and flowers. Then gradually and gravely uplifted, the pointing pines; the fingers of the sullen, steadfast pines, pointing, always pointing. And then a space of lichen, leaf and brown gorse; and then a wide grey pause of utter rock, weirdly a waste, grim in its sense of age and strength. After that the snows, the white and blue and golden snows with their feet drabbled in the earth.

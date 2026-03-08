@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Apr. 1921
-categories: []
 subjects:
   - U.S. military occupation of Haiti
   - United States imperialism (foreign policy)
@@ -38,6 +37,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Pan-Africanism & Empire"
 ---
 
 Our chance has come! It is not the greatest and best chance, but it is a chance. A Senate committee, composed of McCormick of Illinois, Knox of Pennsylvania, King of Utah, Poindexter of Washington, and Odie of Nevada, is going to investigate conditions in Haiti. They asked the National Association for the Advancement of Colored People and other organizations to present their charges. We are going to do so.

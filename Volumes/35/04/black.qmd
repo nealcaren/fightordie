@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Apr. 1928
-categories: []
 subjects:
   - African American family history
   - Cultural memory and nostalgia
@@ -35,6 +34,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Literary Writing"
 ---
 
 If one slings out the Northern neck of Manhattan and flies to the left of the silver Sound, one swoops in time into the Golden River; and dodging on this sinuously, now right, now left, one comes after a hundred miles of lake, hill and mountain, in the Old Bay State. Then at the foot of the high Metacomet that takes a solemn decision: left is sweet, old Sheffield; but pass it stolidly by and slip gently right into tiny South Egremont which always seems to. There—where right again and slope the Egremont Plain and the House of the Black Burghardts.

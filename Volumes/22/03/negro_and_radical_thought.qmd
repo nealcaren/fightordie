@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Jan. 1921
-categories: []
 subjects:
 - Race and class relations
 - Labor organizing and strikebreaking
@@ -37,6 +36,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Labor & Economics"
 ---
 
 Mr. Claude McKay, one of the editors of *The Liberator* and a Negro poet of distinction, writes us as follows: 

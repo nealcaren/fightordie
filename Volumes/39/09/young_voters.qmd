@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Sep. 1932
-categories: []
 subjects:
   - Voter registration
   - Voting rights and disenfranchisement (African Americans)
@@ -35,6 +34,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Voting & Elections"
 ---
 
 The Editor of the *Louisiana Weekly* writes:

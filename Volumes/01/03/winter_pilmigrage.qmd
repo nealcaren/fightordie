@@ -6,13 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jan. 1911
-categories:
-  - Travelsubjects:
-  - Public accommodations discrimination (theatres, restaurants, hotels)
-  - Higher education and racial integration (college students, faculty influence)
-  - Civic recognition and political inclusion of African Americans
-  - Black economic advancement and community institution-building (churches, local businesses)
-  - Regional variations in race relations within Northern cities
 places:
   - Toledo, Ohio
   - Cleveland, Ohio
@@ -32,6 +25,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Segregation"
+  - "Education"
 ---
 
 The race problem is not one problem. It differs not only in time, but in place. Therefore I always go to different groups of colored people in this land with much of interest and curiosity, knowing that each will present its peculiar phase of relationship between the white and colored group. 

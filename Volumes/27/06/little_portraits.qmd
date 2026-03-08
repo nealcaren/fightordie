@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Apr. 1924
-categories: []
 subjects:
   - Colonialism -- Africa
   - Christianity -- Africa (indigenous/folk expression)
@@ -30,6 +29,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Pan-Africanism & Empire"
+  - "Literary Writing"
 ---
 
 ## The Place, The People

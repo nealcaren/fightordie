@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1913
-categories: []
 subjects:
   - Jim Crow laws (segregation in public accommodations)
   - Segregated education; educational inequality (separate schools)
@@ -30,6 +29,11 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Segregation"
+  - "Education"
+  - "Labor & Economics"
 ---
 
 A good friend sends us this word:

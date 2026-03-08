@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: May 1933
-categories: []
 subjects:
 - Disfranchisement (Black voting rights)
 - Jury discrimination and exclusion
@@ -32,6 +31,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Racial Violence"
+  - "Voting & Elections"
 ---
 
 Scottsboro is the perfect fruit of a generation of organized lying concerning conditions in the South.

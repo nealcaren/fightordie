@@ -6,13 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: November 1920
-categories:
-  - Social Equalitysubjects:
-  - Social equality (race relations)
-  - Interracial marriage (miscegenation)
-  - Civil and political rights of African Americans
-  - Racial violence and lynching
-  - NAACP organizational stance and policy
 people:
   - W. E. B. Du Bois
 places:
@@ -34,6 +27,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Segregation"
 ---
 
 When The National Association for the Advancement of Colored People was organized it seemed to us that the subject of "social equality" between races was not one that we need touch officially whatever our private opinions might be. We announced clearly our object as being the political and civil rights of Negroes and this seemed to us a sufficiently clear explanation of our work.

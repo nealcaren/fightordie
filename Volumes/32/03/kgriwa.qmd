@@ -7,7 +7,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jan. 1926
-categories: []
 subjects:
   - African American theatre
   - Harlem Renaissance (1920s)
@@ -39,6 +38,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Art & Culture"
 ---
 
 It is customary to regard Negroes as an essentially dramatic race; and it is probably true that tropical and sub-tropical peoples have more vivid imagination, are accustomed to expressing themselves with greater physical and spiritual abandon than most folk. And certainly, life as black and brown and yellow folk have known it is big with tragedy and comedy. The home life of Africans shows this natural dramatic tendency; the strides of the native African, the ceremony of home and assembly, the intense interest in music and play, all attest this.

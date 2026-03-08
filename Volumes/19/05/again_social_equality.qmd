@@ -6,13 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1920
-categories:
-  - Social Equalitysubjects:
-  - Social equality
-  - Voting rights (African Americans)
-  - Public accommodations—Racial segregation (United States)
-  - African American social uplift movements
-  - White paternalism toward African Americans
 people:
   - W. E. B. Du Bois
   - Mr. Paleface (fictional)
@@ -34,6 +27,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Segregation"
 ---
 
 Mr. Paleface entered his parlor mincingly,---"My dear man," he said, expressively. 

@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Apr. 1917
-categories: []
 subjects:
   - African American vocational education
   - Business ethics
@@ -30,6 +29,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Labor & Economics"
+  - "Education"
 ---
 
 In the patois of his very religious speech the Negro is about to lose the real significance of a fine word---Consecration; and back of it all a finer idea. As it is, we have come to look upon consecration as a negative, spineless, namby-pamby thing, the incarnation of the "mustn't" idea, the fear of the "Thou shalt not." The consecration that is needed today has all the thunders of "Thou shalt." It is action, doing, deeds. Better in this awful era of bitter want that we should sin by over-action, by overdoing, rather than die by the cowardice of inertia.

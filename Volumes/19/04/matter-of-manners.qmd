@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Feb. 1920
-categories: []
 subjects:
 - Lynching
 - Racial violence and mob violence
@@ -33,6 +32,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Racial Violence"
+  - "Segregation"
 ---
 
 At the time of the Chicago riots, Medill McCormack, United States Congressman from Illinois, was reported as follows in an interview:

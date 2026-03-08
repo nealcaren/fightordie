@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Feb. 1913
-categories: []
 subjects:
 - Federal civil service — racial segregation
 - Jim Crow laws
@@ -36,6 +35,11 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Segregation"
+  - "Voting & Elections"
+  - "Labor & Economics"
 ---
 
 There is no doubt but that the Bourbon South is fighting hard to control Mr. Wilson's Negro policy. For a time they held back the spectacular fire caters and marked time, being content with the dismissal of two or three leading Negro officeholders. Then they plucked up courage. Postmaster-General Burleson is said on good authority to have frankly announced this policy: The gradual weeding of the Negro out of the civil service of the United States until he is left only menial positions. Encouraged by this the white railway mail clerks are conducting a systematic and open campaign against the colored clerks in defiance of the plain rules of the service. The official organ, the *Railway Mail*, says editorially:

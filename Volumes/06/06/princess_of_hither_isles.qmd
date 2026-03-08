@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Apr. 1913
-categories: []
 subjects:
 - Colonialism
 - Colonial resource extraction (imperial greed)
@@ -29,6 +28,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Literary Writing"
+  - "Pan-Africanism & Empire"
 ---
 
 Her soul was very beautiful, wherefore she kept it veiled in lightly

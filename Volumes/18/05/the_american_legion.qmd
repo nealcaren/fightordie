@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Mar. 1919
-categories: []
 subjects:
   - Military discrimination
   - Racial exclusion in veterans' organizations
@@ -35,6 +34,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Segregation"
+  - "War & Military"
 ---
 
 The American Legion is composed, as President Wilson tells us, of "the men who have served in the Army, Navy and Marine Corps, and who are now banding together to preserve the splendid traditions of that service."

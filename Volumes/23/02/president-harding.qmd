@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: December 1921
-categories: []
 subjects:
 - Social equality
 - Voting rights
@@ -34,6 +33,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Segregation"
 ---
 
 For fifty years we who, *pro* and *con*, have discussed the Negro Problem, have been skulking behind a phrase --- "Social Equality." Today President Harding's speech, like sudden thunder in blue skies, ends the hiding and drives us all into the clear light of truth.

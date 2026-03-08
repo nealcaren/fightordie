@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jun. 1921
-categories: []
 subjects:
   - Pan-Africanism
   - Fundraising for international conferences
@@ -36,6 +35,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Pan-Africanism & Empire"
 ---
 
 It is expected that at the second Pan-African Congress there will be delegates from the United States, the English and French West Indies, Guiana, Cuba, English and French West Africa, the Congo, Haiti, Liberia, Portuguese Africa, Abyssinia and Egypt.

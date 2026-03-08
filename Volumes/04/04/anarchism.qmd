@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1912
-categories: []
 subjects:
   - Debt peonage (peonage and debt servitude)
   - False arrest and wrongful conviction
@@ -34,6 +33,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Racial Violence"
+  - "The South"
 ---
 
 <span class="crisis-title">The Crisis</span> has continually insisted that peonage, false arrest and

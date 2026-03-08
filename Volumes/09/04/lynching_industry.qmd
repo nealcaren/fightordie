@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Feb. 1915
-categories: []
 subjects:
 - Lynching
 - Racial violence against African Americans
@@ -38,6 +37,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Racial Violence"
 ---
 
 <span class="crisis-title">The Crisis</span> is interested to report that the standard American industry

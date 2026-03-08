@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Jun. 1917
-categories: []
 subjects:
 - White racial fear and anxiety
 - Voting rights
@@ -33,6 +32,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Literary Writing"
+  - "Religion & Morality"
 ---
 
 Three bishops sat in San Francisco, New Orleans and New York, peering gloomily into three flickering fires which cast and recast shuddering shadows on book-lined walls. Three letters lay in their laps and said:

@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jun. 1916
-categories: []
 subjects:
   - Gender discrimination in medicine
   - Professional barriers for women physicians
@@ -34,6 +33,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Women's Rights"
+  - "Segregation"
 ---
 
 Colored folk can always get a dubious sort of consolation in knowing that they have not always had a monopoly of the attentions of the discourteous and the cruel. At a recent dinner given to the oldest woman doctor in the United States, Dr. Anna Manning Comfort told of the indignities which she suffered at Bellevue Hospital in 1865 for the unforgivable crime of being female: 

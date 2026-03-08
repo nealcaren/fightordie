@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jun. 1919
-categories: []
 subjects:
   - [Jim Crow laws and racial oppression]
   - [Great Migration (African American migration to the Northern United States)]
@@ -32,6 +31,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Literary Writing"
+  - "The South"
 ---
 
 You remember, do you not?---the beautiful Bible story in the simple words of Matthew, telling of the departure of the Three Wise Men:

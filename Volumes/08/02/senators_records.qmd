@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Jun. 1914
-categories: []
 subjects:
 - Women's suffrage
 - Voting rights
@@ -37,6 +36,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Voting & Elections"
+  - "Women's Rights"
 ---
 
 During the debate in the Senate of the United States on the joint

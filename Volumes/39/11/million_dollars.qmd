@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Nov. 1932
-categories: []
 subjects:
   - Philanthropy and foundation funding for Black education
   - Educational research and surveys on African and African American education
@@ -38,6 +37,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Education"
 ---
 
 If someone should give you a million dollars to spend in the settlement of the Negro problem over a period of twenty years, how would you spend it? 

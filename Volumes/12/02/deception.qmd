@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Jun. 1916
-categories: []
 subjects:
   - Racial propaganda in the southern press
   - Lynching and mob violence
@@ -36,6 +35,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Racial Violence"
+  - "The South"
 ---
 
 One of the unforgivable things about the southern white press is the

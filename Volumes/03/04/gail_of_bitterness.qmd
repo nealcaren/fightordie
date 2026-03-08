@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Feb. 1912
-categories: []
 subjects:
 - Lynching
 - Anti-lynching legislation
@@ -31,6 +30,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "NAACP & Organizational Strategy"
+  - "Racial Violence"
 ---
 
 Many people object to the policy of <span class="crisis-title">The Crisis</span> because, as they usually put it, <span class="crisis-title">The Crisis</span> is "bitter." Some add that our news is depressing or that we are determined to look on the dark side, and so forth. 

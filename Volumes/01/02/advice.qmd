@@ -6,13 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Dec. 1910
-categories:
-  - Lynching
-  - Tacticssubjects:
-  - Lynching (United States)
-  - Anti-lynching agitation and protest
-  - Racial prejudice and double standards
-  - Press coverage of racial violence
 people:
   - Jack Johnson
   - James J. Jeffries
@@ -39,6 +32,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Racial Violence"
 ---
 
 There is a matter which calls for a solemn editorial in a metropolitan newspaper, namely, the pre-emptying of seats on suburban trains. The *New York Times* says:

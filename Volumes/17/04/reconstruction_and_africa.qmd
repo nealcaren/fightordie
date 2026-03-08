@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1919
-categories: []
 subjects:
   - European colonialism in Africa
   - Colonial economic exploitation (ivory, diamonds, copper, rubber)
@@ -37,6 +36,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Pan-Africanism & Empire"
 ---
 
 The suggestion has been made that these colonies which Germany has lost should not be handed over to any other nation of Europe but should, under the guidance of organized civilization, be brought to a point of development which shall finally result in an autonomous state. This plan has met with much criticism and ridicule. Let the natives develop along their own lines and they will "go back," has been the cry. Back to what, in Heaven's name?

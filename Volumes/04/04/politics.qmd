@@ -6,7 +6,6 @@ author:
       given: W.E.B.
       family: Du Bois
 date: Feb. 1912
-categories: []
 subjects:
   - African American electoral influence
   - Interstate Jim Crow laws (segregated railroad cars)
@@ -39,6 +38,9 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "Voting & Elections"
 ---
 
 The colored voter now stands face to face with the great question of the proper use of his electoral franchise. Under normal conditions 2,000,000 of the 20,000,000 votes which might be cast at a presidential election would belong to the race, and some day, despite every effort of fraud and race prejudice, those votes are going to be cast.

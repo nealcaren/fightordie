@@ -6,7 +6,6 @@ author:
     given: W.E.B.
     family: Du Bois
 date: Apr. 1917
-categories: []
 subjects:
 - Military discrimination
 - Black officer training (officer candidate camps)
@@ -37,6 +36,10 @@ format:
   html:
     toc: false
     appendix-cite-as: display
+
+categories:
+  - "War & Military"
+  - "Segregation"
 ---
 
 We Negroes ever face it.
