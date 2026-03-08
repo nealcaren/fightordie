@@ -41,7 +41,10 @@ main.content > .hero,
 main.content > .grid,
 main.content > .featured-grid,
 main.content > .columns,
-main.content > .masthead {
+main.content > .masthead,
+main.content > .masthead-figure,
+main.content > .explore-grid,
+main.content > .collection-stats {
   max-width: none;
 }
 
@@ -463,11 +466,46 @@ blockquote br + span {
 /* Homepage styles       */
 /* ===================== */
 
-/* Masthead — typographic title area */
+/* Masthead — typographic title area with double-rule border */
 .masthead {
   text-align: center;
-  padding: 3rem 0 0 0;
-  max-width: none;
+  padding: 2.5rem 2rem 1.5rem 2rem;
+  max-width: 600px;
+  margin: 2rem auto 0 auto;
+  border-top: 3px solid var(--color-primary);
+  border-bottom: 1px solid var(--color-primary);
+  position: relative;
+}
+
+/* Inner rule for double-rule effect */
+.masthead::before {
+  content: "";
+  position: absolute;
+  top: 4px;
+  left: 0;
+  right: 0;
+  height: 1px;
+  background: var(--color-primary);
+}
+
+.masthead::after {
+  content: "";
+  position: absolute;
+  bottom: -4px;
+  left: 0;
+  right: 0;
+  height: 1px;
+  background: var(--color-primary);
+}
+
+.masthead-label {
+  font-family: var(--font-primary);
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+  color: var(--color-accent);
+  margin: 0 0 0.75rem 0;
 }
 
 .masthead-title {
@@ -481,44 +519,66 @@ blockquote br + span {
 
 .masthead-subtitle {
   font-family: var(--font-primary);
-  font-size: 1.2rem;
+  font-size: 1.1rem;
   font-weight: 400;
   color: var(--color-text);
-  margin: 0.5rem 0 1.5rem 0;
+  margin: 0.5rem 0 0 0;
   letter-spacing: 0.02em;
 }
 
-.masthead::after {
-  content: "";
-  display: block;
-  width: 120px;
-  height: 2px;
-  background: var(--color-primary);
-  margin: 0 auto;
+/* Office photo below masthead */
+.masthead-figure {
+  text-align: center;
+  margin: 2rem auto 2rem auto;
+  max-width: 500px;
 }
 
-/* Office photo below masthead */
-.masthead-photo {
+.masthead-figure .masthead-photo {
   display: block;
   width: 100%;
-  max-width: 500px;
-  margin: 2rem auto 2rem auto;
+  margin-bottom: 0.5rem;
+  border: 1px solid var(--color-border);
+  padding: 4px;
+  background: #fff;
 }
 
-/* Hide auto-generated caption on masthead photo */
-figure:has(.masthead-photo) figcaption {
-  display: none;
+.masthead-figure figcaption {
+  font-family: var(--font-primary);
+  font-size: 0.8rem;
+  color: #888;
+  text-align: center;
+  font-style: italic;
 }
 
-/* Start Here — randomized article list */
+/* Collection stats bar */
+.collection-stats {
+  font-family: var(--font-primary);
+  font-size: 0.8rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.15em;
+  color: var(--color-accent);
+  text-align: center;
+  margin: 2rem 0 0.5rem 0;
+  padding: 0.75rem 0;
+  border-top: 1px solid var(--color-border);
+  border-bottom: 1px solid var(--color-border);
+}
+
+/* From the Collection — randomized article list */
 #article-pool {
   margin-top: 1rem;
 }
 
 .start-here-item {
-  margin-bottom: 1.5rem;
-  padding-left: 1rem;
-  border-left: 2px solid var(--color-primary);
+  margin-bottom: 0;
+  padding: 1.25rem 1rem;
+  border-left: none;
+  border-bottom: 1px solid var(--color-border);
+}
+
+.start-here-item:first-child {
+  border-top: 1px solid var(--color-border);
 }
 
 .start-here-title {
@@ -535,26 +595,31 @@ figure:has(.masthead-photo) figcaption {
 
 .start-here-date {
   font-family: var(--font-primary);
-  font-size: 0.85rem;
+  font-size: 0.8rem;
   color: #999;
-  letter-spacing: 0.01em;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
 }
 
 .start-here-excerpt {
   font-family: var(--font-body);
   font-size: 1rem;
   line-height: 1.5;
-  color: #444;
+  color: #555;
   margin-top: 0.3rem;
   font-style: italic;
 }
 
 #show-more {
   font-family: var(--font-primary);
-  font-size: 0.9rem;
+  font-size: 0.85rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
   color: var(--color-accent);
   cursor: pointer;
   display: inline-block;
+  margin-top: 1rem;
   margin-bottom: 1rem;
 }
 
@@ -562,28 +627,60 @@ figure:has(.masthead-photo) figcaption {
   color: var(--color-accent-dark);
 }
 
-/* Explore section — definition list style */
-main.content > dl {
-  max-width: 600px;
-}
-
-main.content > dl dt {
-  font-family: var(--font-display);
-  font-size: 1.1rem;
-  font-weight: 600;
+/* Explore the Collection — card grid */
+.explore-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1rem;
+  max-width: 700px;
   margin-top: 1rem;
 }
 
-main.content > dl dt a {
-  color: var(--color-primary);
+.explore-card {
+  display: flex;
+  flex-direction: column;
+  padding: 1.25rem;
+  border: 1px solid var(--color-border);
+  background: #fff;
+  text-decoration: none;
+  transition: border-color 0.2s ease, box-shadow 0.2s ease;
 }
 
-main.content > dl dd {
+.explore-card:hover {
+  border-color: var(--color-primary);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+  text-decoration: none;
+}
+
+.explore-card-title {
+  font-family: var(--font-display);
+  font-size: 1.05rem;
+  font-weight: 600;
+  color: var(--color-primary);
+  margin-bottom: 0.4rem;
+}
+
+.explore-card:hover .explore-card-title {
+  color: var(--color-primary-dark);
+}
+
+.explore-card-desc {
   font-family: var(--font-primary);
-  font-size: 0.95rem;
-  color: #555;
-  margin-left: 0;
-  margin-bottom: 0.5rem;
+  font-size: 0.85rem;
+  color: #666;
+  line-height: 1.4;
+}
+
+@media (max-width: 768px) {
+  .explore-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 480px) {
+  .explore-grid {
+    grid-template-columns: 1fr;
+  }
 }
 
 /* Responsive masthead */
@@ -598,7 +695,8 @@ main.content > dl dd {
 
 @media (max-width: 480px) {
   .masthead {
-    padding: 2rem 0 0 0;
+    padding: 1.5rem 1rem 1rem 1rem;
+    margin: 1rem 0.5rem 0 0.5rem;
   }
   .masthead-title {
     font-size: 2rem;

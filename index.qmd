@@ -15,18 +15,26 @@ format:
 
 ```{=html}
 <div class="masthead">
+<p class="masthead-label">A Digital Archive</p>
 <h1 class="masthead-title">Dare You Fight</h1>
-<p class="masthead-subtitle">W.E.B. Du Bois in <em>The Crisis</em>, 1910–1934</p>
+<p class="masthead-subtitle">The Writings of W.E.B. Du Bois in <em>The Crisis</em>, 1910–1934</p>
 </div>
 
+<figure class="masthead-figure">
 <img src="/Images/crisis_office.png" class="masthead-photo" alt="W.E.B. Du Bois and staff in the Crisis magazine office">
+<figcaption>W.E.B. Du Bois and staff in the offices of <em>The Crisis</em>, ca. 1911</figcaption>
+</figure>
 ```
 
 "A toothache is agitation," Du Bois [wrote in November 1910](Volumes/01/01/Agitation.html), answering critics who urged silence. "Is a toothache a good thing? No. Is it therefore useless? No. It is supremely useful, for it tells the body of decay, dyspepsia and death." For twenty-four years he made *The Crisis* the toothache of American democracy: documenting lynching, tracking disfranchisement, connecting Jim Crow to empire, and building the case for Black citizenship in prose that could shift from forensic precision to prophetic fury within a single page.
 
 This archive collects over 700 of those editorials, spanning the magazine's founding in 1910 through Du Bois's resignation in 1934. They can be [browsed by theme](browse.qmd) or [read chronologically](listing.qmd).
 
-## Start Here {.unlisted}
+```{=html}
+<p class="collection-stats">708 articles · 24 volumes · 1910–1934</p>
+```
+
+## From the Collection {.unlisted}
 
 ```{=html}
 <div id="article-pool"></div>
@@ -35,22 +43,32 @@ This archive collects over 700 of those editorials, spanning the magazine's foun
 
 ---
 
-## Explore the Collection
+## Explore the Collection {.unlisted}
 
-[Browse by Theme](browse.qmd)
-: Fourteen thematic pages on segregation, lynching, voting, labor, Pan-Africanism, art, religion, and more.
-
-[All Articles](listing.qmd)
-: Over 700 editorials, searchable and sortable by date, title, or keyword.
-
-[Du Bois & *The Crisis*](backround.html)
-: The full story: from Du Bois's first magazines through the war years, the Harlem Renaissance, and his resignation.
-
-[Magazine Covers](covers.html)
-: The visual history of *The Crisis*, issue by issue, from 1910 to 1934.
-
-[About This Project](about.html)
-: Editorial conventions, how to cite, and how to contribute.
+```{=html}
+<div class="explore-grid">
+  <a href="browse.html" class="explore-card">
+    <span class="explore-card-title">Browse by Theme</span>
+    <span class="explore-card-desc">Fourteen thematic pages on segregation, lynching, voting, labor, Pan-Africanism, art, religion, and more.</span>
+  </a>
+  <a href="listing.html" class="explore-card">
+    <span class="explore-card-title">All Articles</span>
+    <span class="explore-card-desc">Over 700 editorials, searchable and sortable by date, title, or keyword.</span>
+  </a>
+  <a href="backround.html" class="explore-card">
+    <span class="explore-card-title">Du Bois &amp; <em>The Crisis</em></span>
+    <span class="explore-card-desc">From Du Bois's first magazines through the war years, the Harlem Renaissance, and his resignation.</span>
+  </a>
+  <a href="covers.html" class="explore-card">
+    <span class="explore-card-title">Magazine Covers</span>
+    <span class="explore-card-desc">The visual history of <em>The Crisis</em>, issue by issue, from 1910 to 1934.</span>
+  </a>
+  <a href="about.html" class="explore-card">
+    <span class="explore-card-title">About This Project</span>
+    <span class="explore-card-desc">Editorial conventions, how to cite, and how to contribute.</span>
+  </a>
+</div>
+```
 
 
 ```{=html}
