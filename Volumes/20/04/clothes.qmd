@@ -1,6 +1,6 @@
 ---
 title: Clothes
-description: In a 1920 Crisis essay, W.E.B. Du Bois flips racist assumptions, arguing whites' fears about Black laundry reveal public-health harms and racial hypocrisy.
+description: "Flips racist assumptions, arguing whites' fears about Black laundry reveal public-health harms and racial hypocrisy."
 author:
 - name:
     given: W.E.B.

@@ -1,6 +1,6 @@
 ---
 title: 'On Being Crazy'
-description: "In 1923 W.E.B. Du Bois in The Crisis exposes everyday racial exclusion as irrational cruelty, using vignettes to critique white prejudice."
+description: "Exposes everyday racial exclusion as irrational cruelty, using vignettes to critique white prejudice."
 author:
   - name:
       given: W.E.B.

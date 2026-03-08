@@ -1,6 +1,6 @@
 ---
 title: 'Vicious Provisions of a Great Bill'
-description: "W.E.B. Du Bois in The Crisis (1921) lambasts a federal education bill that would cement racial schooling inequity and encourage lynching and peonage."
+description: "Lambasts a federal education bill that would cement racial schooling inequity and encourage lynching and peonage."
 author:
   - name:
       given: W.E.B.

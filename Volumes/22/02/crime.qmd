@@ -1,6 +1,6 @@
 ---
 title: 'Crime'
-description: "W.E.B. Du Bois in The Crisis (1921) rejects the myth of Negro crime, cites poverty, ignorance, unjust courts, and urges reforms in labor, schools, justice."
+description: "Rejects the myth of Negro crime, cites poverty, ignorance, unjust courts, and urges reforms in labor, schools, justice."
 author:
   - name:
       given: W.E.B.

@@ -1,6 +1,6 @@
 ---
 title: 'The Browsing Reader'
-description: "W.E.B. Du Bois, in The Crisis (1928), critiques Ebony and Topaz as a sprawling Collectanea, arguing that focused booklets would better advance race and culture."
+description: "Critiques Ebony and Topaz as a sprawling Collectanea, arguing that focused booklets would better advance race and culture."
 author:
   - name:
       given: W.E.B.

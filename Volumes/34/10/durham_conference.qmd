@@ -1,6 +1,6 @@
 ---
 title: The Durham Conference
-description: W.E.B. Du Bois in The Crisis (1927) calls for a Durham conference to take stock of labor, education, voting rights and Black community life.
+description: "Calls for a Durham conference to take stock of labor, education, voting rights and Black community life."
 author:
 - name:
     given: W.E.B.

@@ -1,6 +1,6 @@
 ---
 title: 'Y.M.C.A'
-description: "W.E.B. Du Bois in The Crisis (1914) praises Black YMCAs' growth but condemns YMCA racial segregation as unchristian, unjust, and dangerous to race justice."
+description: "Praises Black YMCAs' growth but condemns YMCA racial segregation as unchristian, unjust, and dangerous to race justice."
 author:
   - name:
       given: W.E.B.

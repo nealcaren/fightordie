@@ -1,6 +1,6 @@
 ---
 title: 'Italy and Abyssinia'
-description: "W.E.B. Du Bois in The Crisis (1926) argues Italy seeks Abyssinia to extend empire, exposing imperial theft, racial hypocrisy, and threats to democracy."
+description: "Argues Italy seeks Abyssinia to extend empire, exposing imperial theft, racial hypocrisy, and threats to democracy."
 author:
   - name:
       given: W.E.B.

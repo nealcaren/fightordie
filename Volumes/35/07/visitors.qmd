@@ -1,6 +1,6 @@
 ---
 title: 'Visitors'
-description: "W.E.B. Du Bois analyzes how modern visitors disrupt labor in The Crisis (1928), urging respectful scheduling to balance work and human connection in democracy."
+description: "Analyzes how modern visitors disrupt labor in The Crisis (1928), urging respectful scheduling to balance work and human connection in democracy."
 author:
   - name:
       given: W.E.B.

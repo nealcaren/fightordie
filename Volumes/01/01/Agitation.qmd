@@ -1,6 +1,6 @@
 ---
 title: 'Agitation'
-description: "In a 1910 The Crisis essay, W.E.B. Du Bois argues agitation, though painful, is necessary to expose and cure race prejudice and restore justice."
+description: "Argues agitation, though painful, is necessary to expose and cure race prejudice and restore justice."
 author:
   - name:
       given: W.E.B.

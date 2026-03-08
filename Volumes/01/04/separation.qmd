@@ -1,6 +1,6 @@
 ---
 title: Separation
-description: In The Crisis (1911) W.E.B. Du Bois argues race-based separation betrays democracy, forcing Black subordination in education, law, and public life.
+description: "Argues race-based separation betrays democracy, forcing Black subordination in education, law, and public life."
 author:
 - name:
     given: W.E.B.

@@ -1,6 +1,6 @@
 ---
 title: 'Judging Russia'
-description: "In 1927 W.E.B. Du Bois argues in The Crisis that Soviet Russia elevates labor and education—threatening capitalist power and redefining democracy."
+description: "Argues in The Crisis that Soviet Russia elevates labor and education—threatening capitalist power and redefining democracy."
 author:
   - name:
       given: W.E.B.

@@ -1,6 +1,6 @@
 ---
 title: '7000'
-description: In 1922 W.E.B. Du Bois documents a 7,000-mile lecture tour in The Crisis, exposing Jim Crow, lynching, and Black life while urging racial democracy.
+description: "Documents a 7,000-mile lecture tour in The Crisis, exposing Jim Crow, lynching, and Black life while urging racial democracy."
 author:
 - name:
     given: W.E.B.

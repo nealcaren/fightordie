@@ -1,6 +1,6 @@
 ---
 title: 'The Writer'
-description: "In 1911 W.E.B. Du Bois in The Crisis mourns Frances Harper and urges investment in Black literature, education, and developing writers for racial democracy."
+description: "Mourns Frances Harper and urges investment in Black literature, education, and developing writers for racial democracy."
 author:
   - name:
       given: W.E.B.

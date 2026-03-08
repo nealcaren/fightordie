@@ -1,6 +1,6 @@
 ---
 title: Murder Will Out
-description: In 1920 in The Crisis, W.E.B. Du Bois exposes how Southern race and class power undermine labor and democracy, exploiting both Black and white workers.
+description: "Exposes how Southern race and class power undermine labor and democracy, exploiting both Black and white workers."
 author:
 - name:
     given: W.E.B.

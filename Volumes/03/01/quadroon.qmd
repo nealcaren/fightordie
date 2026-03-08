@@ -1,6 +1,6 @@
 ---
 title: 'The Quadroon'
-description: "W.E.B. Du Bois, in The Crisis (1911), champions humanity beyond race, using lyrical praise of mixed heritage to critique white supremacy and defend democracy."
+description: "Champions humanity beyond race, using lyrical praise of mixed heritage to critique white supremacy and defend democracy."
 author:
   - name:
       given: W.E.B.

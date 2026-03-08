@@ -1,6 +1,6 @@
 ---
 title: '''Social Equality'''
-description: "W.E.B. Du Bois in The Crisis (1911) reframes social equality, listing disenfranchisement, school denial, labor discrimination and lynching as racial injustices"
+description: "Reframes social equality, listing disenfranchisement, school denial, labor discrimination and lynching as racial injustices"
 author:
   - name:
       given: W.E.B.

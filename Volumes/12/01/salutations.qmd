@@ -1,6 +1,6 @@
 ---
 title: Public Schools
-description: In The Crisis 1916, W.E.B. Du Bois charges Southern public schools with shaping Black servants, undermining education, democracy, and racial equality.
+description: "Charges Southern public schools with shaping Black servants, undermining education, democracy, and racial equality."
 author:
 - name:
     given: W.E.B.

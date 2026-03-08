@@ -1,6 +1,6 @@
 ---
 title: 'Employment'
-description: "In The Crisis (1932), W.E.B. Du Bois argues segregated schools and narrow college curricula block Black graduates' employment and hinder race and democracy."
+description: "Argues segregated schools and narrow college curricula block Black graduates' employment and hinder race and democracy."
 author:
   - name:
       given: W.E.B.

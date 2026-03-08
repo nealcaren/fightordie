@@ -1,6 +1,6 @@
 ---
 title: Allies
-description: In 1911 W.E.B. Du Bois in The Crisis critiques U.S. racial injustice, showing hypocrisy when others gain rights abroad while Black citizens are denied democracy
+description: "Critiques U.S. racial injustice, showing hypocrisy when others gain rights abroad while Black citizens are denied democracy"
 author:
 - name:
     given: W.E.B.

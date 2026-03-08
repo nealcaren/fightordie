@@ -1,6 +1,6 @@
 ---
 title: Resistance
-description: W.E.B. Du Bois in The Crisis (1914) argues Hindu and Chinese resistance to white oppression reveals racial injustice and undermines the oppressor's power.
+description: "Argues Hindu and Chinese resistance to white oppression reveals racial injustice and undermines the oppressor's power."
 author:
 - name:
     given: W.E.B.

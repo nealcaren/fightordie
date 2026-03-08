@@ -1,6 +1,6 @@
 ---
 title: 'A New Party'
-description: "In 1930 W.E.B. Du Bois in The Crisis urges a new labor party to expand public ownership, social welfare, restore Black voting rights and curb imperialism."
+description: "Urges a new labor party to expand public ownership, social welfare, restore Black voting rights and curb imperialism."
 author:
   - name:
       given: W.E.B.

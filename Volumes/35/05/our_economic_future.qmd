@@ -1,6 +1,6 @@
 ---
 title: 'Our Economic Future'
-description: "Du Bois argues in The Crisis (1928) that Black labor power relies on cooperative manufacturing and consumer co-ops, challenging white-dominated markets."
+description: "Argues in The Crisis (1928) that Black labor power relies on cooperative manufacturing and consumer co-ops, challenging white-dominated markets."
 author:
   - name:
       given: W.E.B.

@@ -1,6 +1,6 @@
 ---
 title: 'Votes for Women'
-description: "W.E.B. Du Bois in The Crisis (1912) urges Black voters to back women’s suffrage, tying democracy, racial justice, and uplift to universal enfranchisement."
+description: "Urges Black voters to back women’s suffrage, tying democracy, racial justice, and uplift to universal enfranchisement."
 author:
   - name:
       given: W.E.B.

@@ -1,6 +1,6 @@
 ---
 title: 'The Woman Voter'
-description: "W.E.B. Du Bois in The Crisis (1921) celebrates Black women's voting as a democratic advance and reproves leaders like James B. Dudley who urged abstention."
+description: "Celebrates Black women's voting as a democratic advance and reproves leaders like James B. Dudley who urged abstention."
 author:
   - name:
       given: W.E.B.

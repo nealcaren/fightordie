@@ -1,6 +1,6 @@
 ---
 title: 'Supreme Court'
-description: "W.E.B. Du Bois in The Crisis (1914) calls on the Supreme Court to reject grandfather clauses, Jim Crow and peonage to protect Black rights."
+description: "Calls on the Supreme Court to reject grandfather clauses, Jim Crow and peonage to protect Black rights."
 author:
   - name:
       given: W.E.B.

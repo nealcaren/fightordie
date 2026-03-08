@@ -1,6 +1,6 @@
 ---
 title: 'The First Battle of Detroit'
-description: "W.E.B. Du Bois in The Crisis (1926) condemns white churches' inaction, credits NAACP and Darrow for resisting racial injustice in Detroit's Sweet trial."
+description: "Condemns white churches' inaction, credits NAACP and Darrow for resisting racial injustice in Detroit's Sweet trial."
 author:
   - name:
       given: W.E.B.

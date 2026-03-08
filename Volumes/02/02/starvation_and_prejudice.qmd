@@ -1,6 +1,6 @@
 ---
 title: Starvation and Prejudice
-description: 1911 W.E.B. Du Bois in The Crisis argues Washington's minimization of Southern race wrongs lets prejudice, lynching and disfranchisement threaten democracy.
+description: "Argues Washington's minimization of Southern race wrongs lets prejudice, lynching and disfranchisement threaten democracy."
 author:
 - name:
     given: W.E.B.

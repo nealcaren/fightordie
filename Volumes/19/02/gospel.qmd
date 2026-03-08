@@ -1,6 +1,6 @@
 ---
 title: The Gospel According to Mary Brown
-description: W.E.B. Du Bois in The Crisis (1919) retells Mary Brown's parable to condemn racial violence and lynching, tying religious faith to labor and injustice.
+description: "Retells Mary Brown's parable to condemn racial violence and lynching, tying religious faith to labor and injustice."
 author:
 - name:
     given: W.E.B.

@@ -1,6 +1,6 @@
 ---
 title: 'Optimism'
-description: "W.E.B. Du Bois in The Crisis (1929) urges guarded optimism: race progress visible in legal defense, education, labor, and a budding Black arts movement."
+description: "Urges guarded optimism: race progress visible in legal defense, education, labor, and a budding Black arts movement."
 author:
   - name:
       given: W.E.B.

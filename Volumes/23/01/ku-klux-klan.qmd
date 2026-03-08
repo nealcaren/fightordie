@@ -1,6 +1,6 @@
 ---
 title: 'Ku Klux Klan'
-description: "In The Crisis (1921) W.E.B. Du Bois exposes the Ku Klux Klan as a racist, profit-seeking racket whose exposure weakens its hold on democracy."
+description: "Exposes the Ku Klux Klan as a racist, profit-seeking racket whose exposure weakens its hold on democracy."
 author:
   - name:
       given: W.E.B.

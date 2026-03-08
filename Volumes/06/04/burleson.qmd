@@ -1,6 +1,6 @@
 ---
 title: Burleson
-description: 1913 W.E.B. Du Bois in The Crisis condemns Burleson’s push to segregate the federal civil service, links race exclusion to lynching, and urges action.
+description: "Condemns Burleson’s push to segregate the federal civil service, links race exclusion to lynching, and urges action."
 author:
 - name:
     given: W.E.B.

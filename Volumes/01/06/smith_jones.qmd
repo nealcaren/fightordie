@@ -1,6 +1,6 @@
 ---
 title: 'Smith Jones'
-description: "In a 1911 Crisis piece W.E.B. Du Bois exposes how race blocks a Black poet's access to education, criminalizing ambition and denying opportunity."
+description: "Exposes how race blocks a Black poet's access to education, criminalizing ambition and denying opportunity."
 author:
   - name:
       given: W.E.B.

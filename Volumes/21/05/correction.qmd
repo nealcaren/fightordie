@@ -1,6 +1,6 @@
 ---
 title: 'A Correction'
-description: "W.E.B. Du Bois in The Crisis (1921) corrects earlier coverage of Marcus Garvey’s Black Star Line, clarifying ship materials and defending Black enterprise."
+description: "Corrects earlier coverage of Marcus Garvey’s Black Star Line, clarifying ship materials and defending Black enterprise."
 author:
   - name:
       given: W.E.B.

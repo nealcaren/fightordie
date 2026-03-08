@@ -1,6 +1,6 @@
 ---
 title: 'American Legion, Again'
-description: "In 1920 The Crisis, W.E.B. Du Bois urges Black veterans to join the American Legion, fight racial exclusion, and defend democracy."
+description: "Urges Black veterans to join the American Legion, fight racial exclusion, and defend democracy."
 author:
   - name:
       given: W.E.B.

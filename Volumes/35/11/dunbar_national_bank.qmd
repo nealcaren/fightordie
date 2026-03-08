@@ -1,6 +1,6 @@
 ---
 title: 'The Dunbar National Bank'
-description: "W.E.B. Du Bois, in The Crisis (1928), argues the Dunbar National Bank could democratize capital and empower Black leaders to advance racial democracy via credit."
+description: "Argues the Dunbar National Bank could democratize capital and empower Black leaders to advance racial democracy via credit."
 author:
   - name:
       given: W.E.B.

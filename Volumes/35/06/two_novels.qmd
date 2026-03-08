@@ -1,6 +1,6 @@
 ---
 title: 'Two Novels'
-description: "The Crisis (1928): W.E.B. Du Bois lauds Nella Larsen's Quicksand as thoughtful race fiction and denounces Claude McKay's Home to Harlem for prurience."
+description: "Lauds Nella Larsen's Quicksand as thoughtful race fiction and denounces Claude McKay's Home to Harlem for prurience."
 author:
   - name:
       given: W.E.B.

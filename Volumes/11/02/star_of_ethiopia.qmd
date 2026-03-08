@@ -1,6 +1,6 @@
 ---
 title: 'The Star of Ethiopia'
-description: "In 1915 W.E.B. Du Bois recounts staging The Star of Ethiopia pageant in The Crisis, showing race pride, education, and community triumph."
+description: "Recounts staging The Star of Ethiopia pageant in The Crisis, showing race pride, education, and community triumph."
 author:
   - name:
       given: W.E.B.

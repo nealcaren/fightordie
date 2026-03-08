@@ -1,6 +1,6 @@
 ---
 title: The Rising Truth
-description: W.E.B. Du Bois in The Crisis (1921) exposes southern racial terror and white hypocrisy and insists education and the ballot are crucial for democracy.
+description: "Exposes southern racial terror and white hypocrisy and insists education and the ballot are crucial for democracy."
 author:
 - name:
     given: W.E.B.

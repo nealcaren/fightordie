@@ -1,6 +1,6 @@
 ---
 title: 'Our Book Shelf'
-description: "W.E.B. Du Bois in The Crisis (1926) lauds Alain Locke's The New Negro as a racial renaissance—propaganda for life and liberty, warning art must serve struggle."
+description: "Lauds Alain Locke's The New Negro as a racial renaissance—propaganda for life and liberty, warning art must serve struggle."
 author:
   - name:
       given: W.E.B.

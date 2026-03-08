@@ -1,6 +1,6 @@
 ---
 title: Inter-Marriage
-description: In 1924 W.E.B. Du Bois in The Crisis denounces KKK-backed anti-miscegenation bills, arguing race laws degrade women, marriage, and democracy.
+description: "Denounces KKK-backed anti-miscegenation bills, arguing race laws degrade women, marriage, and democracy."
 author:
 - name:
     given: W.E.B.

@@ -1,6 +1,6 @@
 ---
 title: The Third Battle of Bull Run
-description: Du Bois argues in The Crisis (1912) that the third battle at Manassas is for Black education and democracy, funding a school as resistance.
+description: "Argues in The Crisis (1912) that the third battle at Manassas is for Black education and democracy, funding a school as resistance."
 author:
 - name:
     given: W.E.B.

@@ -1,6 +1,6 @@
 ---
 title: 'Freedom of Speech'
-description: "W.E.B. Du Bois in The Crisis (1930) condemns silencing of Communists, arguing free speech is essential to democracy and resists racial oppression."
+description: "Condemns silencing of Communists, arguing free speech is essential to democracy and resists racial oppression."
 author:
   - name:
       given: W.E.B.

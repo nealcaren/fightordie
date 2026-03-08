@@ -1,6 +1,6 @@
 ---
 title: 'Curtains of Pain'
-description: "In The Crisis (1917), W.E.B. Du Bois portrays pain's 'Curtains' as a crucible of shared humanity and healing that dissolves race and fosters brotherhood."
+description: "Portrays pain's 'Curtains' as a crucible of shared humanity and healing that dissolves race and fosters brotherhood."
 author:
   - name:
       given: W.E.B.

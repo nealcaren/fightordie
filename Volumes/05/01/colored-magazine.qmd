@@ -1,6 +1,6 @@
 ---
 title: 'The Colored Magazine in America'
-description: "W.E.B. Du Bois charts the history of Black magazines and their struggles for voice, press power, and race advocacy in The Crisis (1912)."
+description: "Charts the history of Black magazines and their struggles for voice, press power, and race advocacy in The Crisis (1912)."
 author:
   - name:
       given: W.E.B.

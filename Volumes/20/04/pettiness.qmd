@@ -1,6 +1,6 @@
 ---
 title: 'Pettiness'
-description: "In a 1920 The Crisis piece, W.E.B. Du Bois condemns petty social squabbles among Black college women in Harlem and warns they undermine community and progress."
+description: "Condemns petty social squabbles among Black college women in Harlem and warns they undermine community and progress."
 author:
   - name:
       given: W.E.B.

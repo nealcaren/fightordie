@@ -1,6 +1,6 @@
 ---
 title: 'Conduct, Not Color'
-description: "In a 1916 article in The Crisis, W.E.B. Du Bois argues race, not just conduct, shapes Black advancement and exposes limits of color-blind claims."
+description: "Argues race, not just conduct, shapes Black advancement and exposes limits of color-blind claims."
 author:
   - name:
       given: W.E.B.

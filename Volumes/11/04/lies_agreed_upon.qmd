@@ -1,6 +1,6 @@
 ---
 title: 'Lies Agreed Upon'
-description: "In 1916 W.E.B. Du Bois in The Crisis denounces erasure of Black achievement, arguing racial prejudice rewrites history and denies nonwhite role in civilization."
+description: "Denounces erasure of Black achievement, arguing racial prejudice rewrites history and denies nonwhite role in civilization."
 author:
   - name:
       given: W.E.B.

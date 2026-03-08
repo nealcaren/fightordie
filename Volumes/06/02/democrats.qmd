@@ -1,6 +1,6 @@
 ---
 title: Education
-description: W.E.B. Du Bois in The Crisis (1913) warns democracy is at risk unless lynching, disfranchisement and racial discrimination are confronted.
+description: "Warns democracy is at risk unless lynching, disfranchisement and racial discrimination are confronted."
 author:
 - name:
     given: W.E.B.

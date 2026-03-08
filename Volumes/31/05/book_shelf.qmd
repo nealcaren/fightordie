@@ -1,6 +1,6 @@
 ---
 title: 'Our Book Shelf'
-description: "W.E.B. Du Bois in The Crisis (1926) praises Porgy’s sympathy but faults its narrow racial portrayal, erasing Charleston’s working and middle-class life."
+description: "Praises Porgy’s sympathy but faults its narrow racial portrayal, erasing Charleston’s working and middle-class life."
 author:
   - name:
       given: W.E.B.

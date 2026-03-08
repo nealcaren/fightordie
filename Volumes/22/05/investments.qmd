@@ -1,6 +1,6 @@
 ---
 title: 'Investments'
-description: "W.E.B. Du Bois in The Crisis (1921) warns Black investors to safeguard race capital—demand honesty, responsibility, feasibility and capable leadership."
+description: "Warns Black investors to safeguard race capital—demand honesty, responsibility, feasibility and capable leadership."
 author:
   - name:
       given: W.E.B.

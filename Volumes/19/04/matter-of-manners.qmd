@@ -1,6 +1,6 @@
 ---
 title: A Matter of Manners
-description: In a 1920 essay in The Crisis, W.E.B. Du Bois argues that perceptions of Black manners provoke racial violence and lynching, exposing systemic injustice.
+description: "Argues that perceptions of Black manners provoke racial violence and lynching, exposing systemic injustice."
 author:
 - name:
     given: W.E.B.

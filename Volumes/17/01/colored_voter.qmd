@@ -1,6 +1,6 @@
 ---
 title: 'The Colored Voter'
-description: "In 1919 W.E.B. Du Bois in The Crisis argues that off-year elections shape democracy, urging Black voters to research candidates and defeat disloyal officials."
+description: "Argues that off-year elections shape democracy, urging Black voters to research candidates and defeat disloyal officials."
 author:
   - name:
       given: W.E.B.

@@ -1,6 +1,6 @@
 ---
 title: 'Suffering Suffragettes'
-description: "W.E.B. Du Bois argues in The Crisis (1912) that race shapes suffrage battles, exposing democracy's flaws and demanding equal rights for women of all colors."
+description: "Argues in The Crisis (1912) that race shapes suffrage battles, exposing democracy's flaws and demanding equal rights for women of all colors."
 author:
   - name:
       given: W.E.B.

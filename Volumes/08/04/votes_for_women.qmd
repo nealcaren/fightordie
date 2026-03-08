@@ -1,6 +1,6 @@
 ---
 title: Votes for Women
-description: '1914: W.E.B. Du Bois in The Crisis argues Black support for women''s suffrage strengthens democracy, challenges racial disfranchisement, and advances justice.'
+description: "Argues Black support for women''s suffrage strengthens democracy, challenges racial disfranchisement, and advances justice."
 author:
 - name:
     given: W.E.B.

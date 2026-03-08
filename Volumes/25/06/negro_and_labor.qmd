@@ -1,6 +1,6 @@
 ---
 title: 'The Negro and Labor'
-description: "W.E.B. Du Bois in The Crisis (1922) exposes how race and labor intersect: white workers, employers, and imperialism pit Black labor against democracy and rights."
+description: "Exposes how race and labor intersect: white workers, employers, and imperialism pit Black labor against democracy and rights."
 author:
   - name:
       given: W.E.B.

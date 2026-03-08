@@ -1,6 +1,6 @@
 ---
 title: 'The Negro and the Land'
-description: "In The Crisis (1914), W.E.B. Du Bois argues that disenfranchisement, education cuts and segregationist laws actively block Black land ownership and democracy."
+description: "Argues that disenfranchisement, education cuts and segregationist laws actively block Black land ownership and democracy."
 author:
   - name:
       given: W.E.B.

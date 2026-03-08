@@ -1,6 +1,6 @@
 ---
 title: Philanthropy and Self Help
-description: 'In The Crisis (1918), W.E.B. Du Bois urges Black self-help: as philanthropy wanes, Black communities must fund universities to sustain education and democracy.'
+description: "Urges Black self-help: as philanthropy wanes, Black communities must fund universities to sustain education and democracy."
 author:
 - name:
     given: W.E.B.

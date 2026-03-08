@@ -1,6 +1,6 @@
 ---
 title: 'Disenfranchisement'
-description: "In a 1925 essay for The Crisis, W.E.B. Du Bois documents how literacy tests, poll taxes and the White Primary disenfranchise Black voters and hollow democracy."
+description: "Documents how literacy tests, poll taxes and the White Primary disenfranchise Black voters and hollow democracy."
 author:
   - name:
       given: W.E.B.

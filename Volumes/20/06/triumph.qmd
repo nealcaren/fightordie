@@ -1,6 +1,6 @@
 ---
 title: Triumph
-description: In 1920 The Crisis, W.E.B. Du Bois celebrates woman suffrage as a democratic triumph and links opposition to lynching, child labor, and racial injustice.
+description: "Celebrates woman suffrage as a democratic triumph and links opposition to lynching, child labor, and racial injustice."
 author:
 - name:
     given: W.E.B.

@@ -1,6 +1,6 @@
 ---
 title: 'The American Legion'
-description: "W.E.B. Du Bois in The Crisis (1919) condemns the American Legion's racial exclusion of Black veterans and urges organized resistance to defend democracy."
+description: "Condemns the American Legion's racial exclusion of Black veterans and urges organized resistance to defend democracy."
 author:
   - name:
       given: W.E.B.

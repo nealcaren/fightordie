@@ -1,6 +1,6 @@
 ---
 title: 'Homes'
-description: "Du Bois, The Crisis, 1912: Homes exposes housing discrimination against Black families and condemns biased real estate, unlike other Crisis pieces."
+description: "1912: Homes exposes housing discrimination against Black families and condemns biased real estate, unlike other Crisis pieces."
 author:
   - name:
       given: W.E.B.

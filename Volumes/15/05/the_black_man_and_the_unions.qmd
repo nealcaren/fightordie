@@ -1,6 +1,6 @@
 ---
 title: The Black Man and the Unions
-description: W.E.B. Du Bois in The Crisis (1918) condemns labor unions' racial exclusion, arguing they betray democracy by denying Black workers fair labor rights.
+description: "Condemns labor unions' racial exclusion, arguing they betray democracy by denying Black workers fair labor rights."
 author:
 - name:
     given: W.E.B.

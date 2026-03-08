@@ -1,6 +1,6 @@
 ---
 title: 'The President'
-description: "W.E.B. Du Bois in The Crisis (1915) sharply criticizes President Wilson's insincere, Jim-Crow-promoting stance that betrays race and democracy."
+description: "Sharply criticizes President Wilson's insincere, Jim-Crow-promoting stance that betrays race and democracy."
 author:
   - name:
       given: W.E.B.

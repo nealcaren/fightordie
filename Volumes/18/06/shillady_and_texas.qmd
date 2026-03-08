@@ -1,6 +1,6 @@
 ---
 title: Shillady and Texas
-description: W.E.B. Du Bois in The Crisis (1919) castigates Texas for lynching, disenfranchisement, and racial violence that deny Blacks land, education, and democracy
+description: "Castigates Texas for lynching, disenfranchisement, and racial violence that deny Blacks land, education, and democracy"
 author:
 - name:
     given: W.E.B.

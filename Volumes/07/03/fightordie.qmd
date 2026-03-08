@@ -1,6 +1,6 @@
 ---
 title: 'Join or Die'
-description: "In The Crisis (1914), W.E.B. Du Bois urges Black Americans to join the NAACP, mobilize against racial prejudice, and defend democracy."
+description: "Urges Black Americans to join the NAACP, mobilize against racial prejudice, and defend democracy."
 author:
   - name:
       given: W.E.B.

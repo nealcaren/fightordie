@@ -1,6 +1,6 @@
 ---
 title: The Freeing of India
-description: W.E.B. Du Bois in The Crisis (1947) condemns British imperialism, hails India's liberation and warns of partition, poverty, education and labor struggles.
+description: "Condemns British imperialism, hails India's liberation and warns of partition, poverty, education and labor struggles."
 author:
 - name:
     given: W.E.B.

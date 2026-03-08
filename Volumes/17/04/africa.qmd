@@ -1,6 +1,6 @@
 ---
 title: Africa
-description: W.E.B. Du Bois in The Crisis (1919) shows how European colonial partition and WWI's aftermath fueled Pan‑Africanism and demands for racial self‑determination.
+description: "Shows how European colonial partition and WWI's aftermath fueled Pan‑Africanism and demands for racial self‑determination."
 author:
 - name:
     given: W.E.B.

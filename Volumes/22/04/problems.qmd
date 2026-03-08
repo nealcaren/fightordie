@@ -1,6 +1,6 @@
 ---
 title: Of Problems
-description: W.E.B. Du Bois in The Crisis (1921) criticizes racial double standards that deny Black social equality, voting rights and self‑defense.
+description: "Criticizes racial double standards that deny Black social equality, voting rights and self‑defense."
 author:
 - name:
     given: W.E.B.

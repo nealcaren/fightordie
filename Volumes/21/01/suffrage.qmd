@@ -1,6 +1,6 @@
 ---
 title: 'Suffrage'
-description: "W.E.B. Du Bois in The Crisis (1920) argues southern suffrage laws mask race-based disenfranchisement, subverting democracy to preserve white supremacy."
+description: "Argues southern suffrage laws mask race-based disenfranchisement, subverting democracy to preserve white supremacy."
 author:
   - name:
       given: W.E.B.

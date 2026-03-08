@@ -1,6 +1,6 @@
 ---
 title: Again, Pullman Porters
-description: W.E.B. Du Bois in The Crisis (1926) condemns Pullman’s suppression of Black porters' labor rights and urges resistance to servile, racialized work.
+description: "Condemns Pullman’s suppression of Black porters' labor rights and urges resistance to servile, racialized work."
 author:
 - name:
     given: W.E.B.

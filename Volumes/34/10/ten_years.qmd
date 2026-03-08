@@ -1,6 +1,6 @@
 ---
 title: 'Ten Years'
-description: "In 1927 W.E.B. Du Bois in The Crisis defends the Russian Revolution, denounces Czarist tyranny and Western misinformation, urging recognition of Soviet democracy."
+description: "Defends the Russian Revolution, denounces Czarist tyranny and Western misinformation, urging recognition of Soviet democracy."
 author:
   - name:
       given: W.E.B.

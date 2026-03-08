@@ -1,6 +1,6 @@
 ---
 title: 'Our Rate of Increase'
-description: "In 1933 W.E.B. Du Bois in The Crisis analyzes Black population decline in birth rate, urging attention to race, health, education and the quality of future generations."
+description: "Analyzes Black population decline in birth rate, urging attention to race, health, education and the quality of future generations."
 author:
   - name:
       given: W.E.B.

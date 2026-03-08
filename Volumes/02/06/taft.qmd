@@ -1,6 +1,6 @@
 ---
 title: Mr. Taft
-description: '1911: W.E.B. Du Bois in The Crisis condemns Taft''s race policies, rejecting Southern guardianship over Black education, voting rights and justice.'
+description: "Condemns Taft''s race policies, rejecting Southern guardianship over Black education, voting rights and justice."
 author:
 - name:
     given: W.E.B.

@@ -1,6 +1,6 @@
 ---
 title: The Negro Politician
-description: W.E.B. Du Bois examines how Black voters confront graft and Jim Crow, arguing informed participation is essential to democracy in The Crisis (1928).
+description: "Examines how Black voters confront graft and Jim Crow, arguing informed participation is essential to democracy in The Crisis (1928)."
 author:
 - name:
     given: W.E.B.

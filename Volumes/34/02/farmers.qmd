@@ -1,6 +1,6 @@
 ---
 title: 'Farmers'
-description: "In 1927 The Crisis, W.E.B. Du Bois argues Black farmers face systemic exploitation in agriculture and should heed the Farm Bloc and McNary‑Haugen reforms."
+description: "Argues Black farmers face systemic exploitation in agriculture and should heed the Farm Bloc and McNary‑Haugen reforms."
 author:
   - name:
       given: W.E.B.

@@ -1,6 +1,6 @@
 ---
 title: 'About Marrying'
-description: "In a 1930 The Crisis letter W.E.B. Du Bois urges marriage if both consent, warning interracial unions will face racial prejudice, social exclusion, job loss."
+description: "Urges marriage if both consent, warning interracial unions will face racial prejudice, social exclusion, job loss."
 author:
   - name:
       given: W.E.B.

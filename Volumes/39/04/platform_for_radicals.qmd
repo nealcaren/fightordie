@@ -1,6 +1,6 @@
 ---
 title: 'A Platform for Radicals'
-description: "In 1932 The Crisis, W.E.B. Du Bois urges radical fiscal transparency—public incomes, property, worker registries—to defend democracy and labor."
+description: "Urges radical fiscal transparency—public incomes, property, worker registries—to defend democracy and labor."
 author:
   - name:
       given: W.E.B.

@@ -1,6 +1,6 @@
 ---
 title: Bleeding Ireland
-description: W.E.B. Du Bois in The Crisis (1921) argues English repression of Ireland mirrors U.S. racial violence, showing oppressed peoples used to police labor and race.
+description: "Argues English repression of Ireland mirrors U.S. racial violence, showing oppressed peoples used to police labor and race."
 author:
 - name:
     given: W.E.B.

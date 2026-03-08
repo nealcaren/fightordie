@@ -1,6 +1,6 @@
 ---
 title: 'Advice'
-description: "1910: W.E.B. Du Bois in The Crisis condemns silence on lynching, exposing racial prejudice that silences Black grievance and undermines justice."
+description: "Condemns silence on lynching, exposing racial prejudice that silences Black grievance and undermines justice."
 author:
   - name:
       given: W.E.B.

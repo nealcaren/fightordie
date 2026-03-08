@@ -1,6 +1,6 @@
 ---
 title: 'Hail Columbia'
-description: "Du Bois in The Crisis (1913) condemns white supremacy and gendered violence at the suffrage parade, exposing racial hypocrisy and threats to democracy."
+description: "Condemns white supremacy and gendered violence at the suffrage parade, exposing racial hypocrisy and threats to democracy."
 author:
   - name:
       given: W.E.B.

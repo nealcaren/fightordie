@@ -1,6 +1,6 @@
 ---
 title: Unrest
-description: W.E.B. Du Bois in The Crisis (1920) invokes divine intervention in a poem of social unrest, pleading for clarity amid racial and political turmoil.
+description: "Invokes divine intervention in a poem of social unrest, pleading for clarity amid racial and political turmoil."
 author:
 - name:
     given: W.E.B.

@@ -1,6 +1,6 @@
 ---
 title: 'Youth and Age at Amenia'
-description: "W.E.B. Du Bois in The Crisis (1933) reports the Amenia Conference urging youth–age dialogue to make race, labor, education central to democratic economic reform"
+description: "Reports the Amenia Conference urging youth–age dialogue to make race, labor, education central to democratic economic reform"
 author:
   - name:
       given: W.E.B.

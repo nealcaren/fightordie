@@ -1,6 +1,6 @@
 ---
 title: 'Triumph'
-description: "In a 1911 Crisis piece, W.E.B. Du Bois condemns lynching and white‑supremacist mob violence, urging Black resistance for justice and democracy."
+description: "Condemns lynching and white‑supremacist mob violence, urging Black resistance for justice and democracy."
 author:
   - name:
       given: W.E.B.

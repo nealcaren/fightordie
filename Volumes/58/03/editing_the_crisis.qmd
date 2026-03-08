@@ -1,6 +1,6 @@
 ---
 title: 'Editing The Crisis'
-description: "In 1951 W.E.B. Du Bois recounts founding and editing The Crisis, showing how editorial independence and reportage advanced race, democracy, and the NAACP."
+description: "Recounts founding and editing The Crisis, showing how editorial independence and reportage advanced race, democracy, and the NAACP."
 author:
   - name:
       given: W.E.B.

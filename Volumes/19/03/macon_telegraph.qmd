@@ -1,6 +1,6 @@
 ---
 title: The Macon Telegraph
-description: In 1920 W.E.B. Du Bois in The Crisis rebukes the Macon Telegraph, arguing racial injustice—lynching, disfranchisement, unequal education—drives Southern unrest.
+description: "Rebukes the Macon Telegraph, arguing racial injustice—lynching, disfranchisement, unequal education—drives Southern unrest."
 author:
 - name:
     given: W.E.B.

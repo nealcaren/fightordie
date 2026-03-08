@@ -1,6 +1,6 @@
 ---
 title: 'Coöperation'
-description: "In The Crisis (1920), W.E.B. Du Bois urges Black cooperative stores—profit-sharing by purchase—to protect Black labor and resist corporate trusts."
+description: "Urges Black cooperative stores—profit-sharing by purchase—to protect Black labor and resist corporate trusts."
 author:
   - name:
       given: W.E.B.

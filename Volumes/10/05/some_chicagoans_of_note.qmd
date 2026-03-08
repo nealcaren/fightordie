@@ -1,6 +1,6 @@
 ---
 title: 'Some Chicagoans of Note'
-description: "W.E.B. Du Bois in The Crisis (1915) profiles Black Chicago leaders, physicians, politicians, clergy and entrepreneurs, linking race, civic life and business."
+description: "Profiles Black Chicago leaders, physicians, politicians, clergy and entrepreneurs, linking race, civic life and business."
 author: Du Bois, W.E.B.
 date: Mar. 1915
 subjects:

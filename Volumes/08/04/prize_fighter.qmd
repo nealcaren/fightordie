@@ -1,6 +1,6 @@
 ---
 title: 'The Prize Fighter'
-description: "W.E.B. Du Bois in The Crisis (1914) argues press outrage over Jack Johnson reveals white racist backlash—sporting morality masks racial hypocrisy."
+description: "Argues press outrage over Jack Johnson reveals white racist backlash—sporting morality masks racial hypocrisy."
 author:
   - name:
       given: W.E.B.

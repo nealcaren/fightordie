@@ -1,6 +1,6 @@
 ---
 title: 'Peace'
-description: "In a 1933 essay for The Crisis, W.E.B. Du Bois argues war propaganda and racial fear sustain militarism, urging pacifists to attack race prejudice and arms."
+description: "Argues war propaganda and racial fear sustain militarism, urging pacifists to attack race prejudice and arms."
 author:
   - name:
       given: W.E.B.

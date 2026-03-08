@@ -1,6 +1,6 @@
 ---
 title: 'Votes'
-description: "In 1919 W.E.B. Du Bois in The Crisis argues Black suffrage is the central racial struggle: Northern voters can restore democracy, end Southern disfranchisement."
+description: "Argues Black suffrage is the central racial struggle: Northern voters can restore democracy, end Southern disfranchisement."
 author:
   - name:
       given: W.E.B.

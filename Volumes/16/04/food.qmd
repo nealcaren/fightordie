@@ -1,6 +1,6 @@
 ---
 title: 'Food'
-description: "In 1918 in The Crisis, W.E.B. Du Bois urges Black Americans to reduce meat and embrace vegetables for wartime thrift, health, and racial uplift."
+description: "Urges Black Americans to reduce meat and embrace vegetables for wartime thrift, health, and racial uplift."
 author:
   - name:
       given: W.E.B.

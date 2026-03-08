@@ -1,6 +1,6 @@
 ---
 title: 'Ireland'
-description: "In a 1916 The Crisis piece, W.E.B. Du Bois urges Black solidarity with Ireland, condemning English oppression and historic racialized labor conflict."
+description: "Urges Black solidarity with Ireland, condemning English oppression and historic racialized labor conflict."
 author:
   - name:
       given: W.E.B.

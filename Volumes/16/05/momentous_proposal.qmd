@@ -1,6 +1,6 @@
 ---
 title: 'A Momentous Proposal'
-description: "W.E.B. Du Bois in The Crisis (1918) defends accepting a military commission to advance Black rights, lamenting the government’s shelving of a race-bureau plan."
+description: "Defends accepting a military commission to advance Black rights, lamenting the government’s shelving of a race-bureau plan."
 author:
   - name:
       given: W.E.B.

@@ -1,6 +1,6 @@
 ---
 title: 'Taxation without Representation'
-description: "W.E.B. Du Bois in The Crisis (1914) exposes how Black Memphis taxpayers fund education, parks, and infrastructure yet lack representation and democratic rights."
+description: "Exposes how Black Memphis taxpayers fund education, parks, and infrastructure yet lack representation and democratic rights."
 author:
   - name:
       given: W.E.B.

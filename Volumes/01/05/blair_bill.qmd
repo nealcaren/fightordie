@@ -1,6 +1,6 @@
 ---
 title: 'The Blair Bill'
-description: "In 1911 W.E.B. Du Bois in The Crisis urges revival of the Blair Bill, arguing federal education aid is essential for democracy and racial justice."
+description: "Urges revival of the Blair Bill, arguing federal education aid is essential for democracy and racial justice."
 author:
   - name:
       given: W.E.B.

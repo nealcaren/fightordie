@@ -1,6 +1,6 @@
 ---
 title: 'Kenya'
-description: "In The Crisis (1924), W.E.B. Du Bois condemns British colonial race policy in Kenya—land dispossession, exclusion of blacks and Indians, threat to democracy."
+description: "Condemns British colonial race policy in Kenya—land dispossession, exclusion of blacks and Indians, threat to democracy."
 author:
   - name:
       given: W.E.B.

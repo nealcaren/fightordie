@@ -1,6 +1,6 @@
 ---
 title: Prejudice
-description: W.E.B. Du Bois in The Crisis (1911) denounces cultivated race prejudice in America and urges citizens to resist lies that undermine democracy.
+description: "Denounces cultivated race prejudice in America and urges citizens to resist lies that undermine democracy."
 author:
 - name:
     given: W.E.B.

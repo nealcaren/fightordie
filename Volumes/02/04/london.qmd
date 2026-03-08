@@ -1,6 +1,6 @@
 ---
 title: 'London'
-description: "W.E.B. Du Bois in The Crisis (1911) depicts London as imperial capital where racial empire and rising colored peoples foreshadow a global race conference."
+description: "Depicts London as imperial capital where racial empire and rising colored peoples foreshadow a global race conference."
 author:
   - name:
       given: W.E.B.

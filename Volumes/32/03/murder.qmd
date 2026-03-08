@@ -1,6 +1,6 @@
 ---
 title: 'Murder'
-description: "W.E.B. Du Bois analyzes rising U.S. murder and lynching in The Crisis (1926), showing how racialized violence undermines democracy and human life."
+description: "Analyzes rising U.S. murder and lynching in The Crisis (1926), showing how racialized violence undermines democracy and human life."
 author:
   - name:
       given: W.E.B.

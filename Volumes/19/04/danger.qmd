@@ -1,6 +1,6 @@
 ---
 title: Danger
-description: W.E.B. Du Bois in The Crisis (1920) warns that a bill making 'racial' appeals unmailable would silence Black voices and endanger democracy.
+description: "Warns that a bill making 'racial' appeals unmailable would silence Black voices and endanger democracy."
 author:
 - name:
     given: W.E.B.

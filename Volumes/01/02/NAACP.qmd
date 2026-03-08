@@ -1,6 +1,6 @@
 ---
 title: 'N.A.A.C.P.'
-description: "W.E.B. Du Bois in The Crisis (1910) urges resistance to race prejudice through print, lectures, research and relief to defend democracy and Black rights."
+description: "Urges resistance to race prejudice through print, lectures, research and relief to defend democracy and Black rights."
 author:
   - name:
       given: W.E.B.

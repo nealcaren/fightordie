@@ -1,6 +1,6 @@
 ---
 title: 'On Being Ashamed of Oneself'
-description: "W.E.B. Du Bois in The Crisis (1933) urges organized racial pride and economic action, diagnosing shame, segregation, and labor exclusion."
+description: "Urges organized racial pride and economic action, diagnosing shame, segregation, and labor exclusion."
 subtitle: An Essay on Race Pride
 author:
   - name:

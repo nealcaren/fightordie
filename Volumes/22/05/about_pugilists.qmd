@@ -1,6 +1,6 @@
 ---
 title: About Pugilists
-description: In 1921 W.E.B. Du Bois in The Crisis exposes racial hypocrisy in boxing—condemning outrage at Jack Johnson while lynching goes unprotested.
+description: "Exposes racial hypocrisy in boxing—condemning outrage at Jack Johnson while lynching goes unprotested."
 author:
 - name:
     given: W.E.B.

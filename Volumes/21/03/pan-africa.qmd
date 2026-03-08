@@ -1,6 +1,6 @@
 ---
 title: 'Pan-Africa'
-description: "W.E.B. Du Bois in The Crisis (1921) calls a Pan‑African Congress in Paris to rally Black governments and activists for racial solidarity, democracy, and self‑rule."
+description: "Calls a Pan‑African Congress in Paris to rally Black governments and activists for racial solidarity, democracy, and self‑rule."
 author:
   - name:
       given: W.E.B.

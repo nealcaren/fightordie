@@ -1,6 +1,6 @@
 ---
 title: Amity
-description: In 1921 The Crisis, W.E.B. Du Bois argues interracial amity and frank dialogue will heal race injustice and strengthen American democracy.
+description: "Argues interracial amity and frank dialogue will heal race injustice and strengthen American democracy."
 author:
 - name:
     given: W.E.B.

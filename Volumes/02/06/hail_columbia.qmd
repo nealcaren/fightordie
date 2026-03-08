@@ -1,6 +1,6 @@
 ---
 title: 'Hail, Columbia!'
-description: "W.E.B. Du Bois in The Crisis (1911) rebukes America's leaders for silence as lynchmob violence, racial prejudice and lawlessness imperil democracy."
+description: "Rebukes America's leaders for silence as lynchmob violence, racial prejudice and lawlessness imperil democracy."
 author:
   - name:
       given: W.E.B.

@@ -1,6 +1,6 @@
 ---
 title: 'N.A.A.C.P. and Xmas'
-description: "In The Crisis (1922), W.E.B. Du Bois urges donations to the NAACP, funding race justice, anti-lynching efforts, Klan exposure and legal aid."
+description: "Urges donations to the NAACP, funding race justice, anti-lynching efforts, Klan exposure and legal aid."
 author:
   - name:
       given: W.E.B.

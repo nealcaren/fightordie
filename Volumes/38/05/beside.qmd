@@ -1,6 +1,6 @@
 ---
 title: 'Beside the Still Water'
-description: "In The Crisis (1931) W.E.B. Du Bois condemns theatrical racism, lauds Richard B. Harrison and urges American theatre to honestly portray race."
+description: "Condemns theatrical racism, lauds Richard B. Harrison and urges American theatre to honestly portray race."
 author:
   - name:
       given: W.E.B.

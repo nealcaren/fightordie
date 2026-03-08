@@ -1,6 +1,6 @@
 ---
 title: 'Again, Social Equality'
-description: "In the 1920 issue of The Crisis, W.E.B. Du Bois satirically exposes white hypocrisy that blocks Black social equality, voting rights, and true civic inclusion."
+description: "Satirically exposes white hypocrisy that blocks Black social equality, voting rights, and true civic inclusion."
 author:
   - name:
       given: W.E.B.

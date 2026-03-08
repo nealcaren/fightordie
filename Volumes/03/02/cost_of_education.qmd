@@ -1,6 +1,6 @@
 ---
 title: The Cost of Education
-description: W.E.B. Du Bois shows how Black taxpayers subsidize white schooling and underfunded colored schools, exposing race and education injustice in The Crisis (1911).
+description: "Shows how Black taxpayers subsidize white schooling and underfunded colored schools, exposing race and education injustice in The Crisis (1911)."
 author:
 - name:
     given: W.E.B.

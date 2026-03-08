@@ -1,6 +1,6 @@
 ---
 title: 'Reduced Representation in Congress'
-description: "W.E.B. Du Bois in The Crisis (1921) urges reducing Southern congressional seats under the 14th Amendment to punish disfranchisement and defend democracy."
+description: "Urges reducing Southern congressional seats under the 14th Amendment to punish disfranchisement and defend democracy."
 author:
   - name:
       given: W.E.B.

@@ -1,6 +1,6 @@
 ---
 title: 'Civil Rights'
-description: "W.E.B. Du Bois in The Crisis (1913) denounces the Supreme Court's repeal of civil-rights protections, arguing it exposes a racial betrayal of American democracy"
+description: "Denounces the Supreme Court's repeal of civil-rights protections, arguing it exposes a racial betrayal of American democracy"
 author:
   - name:
       given: W.E.B.

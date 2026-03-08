@@ -1,6 +1,6 @@
 ---
 title: 'The Second Pan-African Congress'
-description: "W.E.B. Du Bois in The Crisis (1921) announces the Second Pan-African Congress in Paris, arguing logistics and anti-colonial solidarity unite Black communities."
+description: "Announces the Second Pan-African Congress in Paris, arguing logistics and anti-colonial solidarity unite Black communities."
 author:
   - name:
       given: W.E.B.

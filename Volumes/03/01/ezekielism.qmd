@@ -1,6 +1,6 @@
 ---
 title: '''Ezekielism'''
-description: "W.E.B. Du Bois, in The Crisis (1911), exposes 'Ezekielism': the prejudiced habit of imputing a group’s flaws to individuals, harming Black life and democracy."
+description: "Exposes 'Ezekielism': the prejudiced habit of imputing a group’s flaws to individuals, harming Black life and democracy."
 author:
   - name:
       given: W.E.B.

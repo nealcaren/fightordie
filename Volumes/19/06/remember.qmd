@@ -1,6 +1,6 @@
 ---
 title: Remember
-description: In The Crisis (1920), W.E.B. Du Bois warns that the South's fragile power relies on racial disfranchisement and urges federal defense of democracy.
+description: "Warns that the South's fragile power relies on racial disfranchisement and urges federal defense of democracy."
 author:
 - name:
     given: W.E.B.

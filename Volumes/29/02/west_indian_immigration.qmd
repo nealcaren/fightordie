@@ -1,6 +1,6 @@
 ---
 title: 'West Indian Immigration'
-description: "In The Crisis (1924), W.E.B. Du Bois critiques an immigration bill that bars West Indian migrants, arguing U.S. democracy and racial balance suffer."
+description: "Critiques an immigration bill that bars West Indian migrants, arguing U.S. democracy and racial balance suffer."
 author:
   - name:
       given: W.E.B.

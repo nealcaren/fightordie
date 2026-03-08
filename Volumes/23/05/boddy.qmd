@@ -1,6 +1,6 @@
 ---
 title: 'Boddy'
-description: "W.E.B. Du Bois in The Crisis (1921) indicts society for producing a young Black murderer—race, policing, war training and failed education at fault."
+description: "Indicts society for producing a young Black murderer—race, policing, war training and failed education at fault."
 author:
   - name:
       given: W.E.B.

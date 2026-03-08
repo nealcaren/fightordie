@@ -1,6 +1,6 @@
 ---
 title: Resolutions of the Washington Conference
-description: 'W.E.B. Du Bois in The Crisis (1917) urges Black Americans to join the war effort and demands race justice: voting, education, end to lynching and Jim Crow.'
+description: "Urges Black Americans to join the war effort and demands race justice: voting, education, end to lynching and Jim Crow."
 author:
 - name:
     given: W.E.B.

@@ -1,6 +1,6 @@
 ---
 title: 'League of Nations'
-description: "W.E.B. Du Bois in The Crisis (1927) critiques the League of Nations for excluding Black labor and colonial voices, urging racial and labor representation."
+description: "Critiques the League of Nations for excluding Black labor and colonial voices, urging racial and labor representation."
 author:
   - name:
       given: W.E.B.

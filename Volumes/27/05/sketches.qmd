@@ -1,6 +1,6 @@
 ---
 title: 'Sketches from Abroad'
-description: "In 1924 W.E.B. Du Bois in The Crisis recounts travel sketches across Europe toward Africa, critiquing imperialism, whiteness, and noting Pan-African ties."
+description: "Recounts travel sketches across Europe toward Africa, critiquing imperialism, whiteness, and noting Pan-African ties."
 subtitle: 'Le Grand Voyage'
 author:
   - name:

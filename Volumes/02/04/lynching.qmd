@@ -1,6 +1,6 @@
 ---
 title: Lynching
-description: W.E.B. Du Bois in The Crisis (1911) argues lynching stems from racial contempt and lawlessness that cheapens Black life and threatens democracy.
+description: "Argues lynching stems from racial contempt and lawlessness that cheapens Black life and threatens democracy."
 author:
 - name:
     given: W.E.B.

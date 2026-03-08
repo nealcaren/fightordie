@@ -1,6 +1,6 @@
 ---
 title: 'The Social Equality of Whites and Blacks'
-description: "W.E.B. Du Bois in The Crisis (1920) defends social equality as a democratic right for all races while advising against interracial marriage in America today."
+description: "Defends social equality as a democratic right for all races while advising against interracial marriage in America today."
 author:
   - name:
       given: W.E.B.

@@ -1,6 +1,6 @@
 ---
 title: To the Rescue
-description: In The Crisis (1916) W.E.B. Du Bois criticizes U.S. policy as Black troops fight to defend white liberties abroad, urging race-based self-defense and rights.
+description: "Criticizes U.S. policy as Black troops fight to defend white liberties abroad, urging race-based self-defense and rights."
 author:
 - name:
     given: W.E.B.

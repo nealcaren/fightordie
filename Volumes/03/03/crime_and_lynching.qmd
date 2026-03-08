@@ -1,6 +1,6 @@
 ---
 title: Crime and Lynching
-description: W.E.B. Du Bois argues in The Crisis (1912) that lynching provokes crime; stop lynching to stop crime, a humane critique grounded in Florida and vagrancy abuses.
+description: "Argues in The Crisis (1912) that lynching provokes crime; stop lynching to stop crime, a humane critique grounded in Florida and vagrancy abuses."
 author:
 - name:
     given: W.E.B.

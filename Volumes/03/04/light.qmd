@@ -1,6 +1,6 @@
 ---
 title: 'Light'
-description: "W.E.B. Du Bois in The Crisis (1912) counters the 'child' Negro myth, showing Phelps-Stokes-funded education reveals Black humanity beyond stereotype."
+description: "Counters the 'child' Negro myth, showing Phelps-Stokes-funded education reveals Black humanity beyond stereotype."
 author:
   - name:
       given: W.E.B.

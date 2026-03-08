@@ -1,6 +1,6 @@
 ---
 title: 'Tulsa'
-description: "In The Crisis (1921), W.E.B. Du Bois demands remembrance of Tulsa, praises Black self-defense and cooperative rebuilding, and urges support for justice."
+description: "Demands remembrance of Tulsa, praises Black self-defense and cooperative rebuilding, and urges support for justice."
 author:
   - name:
       given: W.E.B.

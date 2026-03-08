@@ -1,6 +1,6 @@
 ---
 title: Young
-description: W.E.B. Du Bois in The Crisis 1915 honors Major Charles Young, praising his military and civic service and resilient defiance of racial abuse.
+description: "1915 honors Major Charles Young, praising his military and civic service and resilient defiance of racial abuse."
 author:
 - name:
     given: W.E.B.

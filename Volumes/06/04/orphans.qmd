@@ -1,6 +1,6 @@
 ---
 title: 'Orphans'
-description: "W.E.B. Du Bois in The Crisis (1913) exposes race prejudice and mismanagement at the Colored Orphan Asylum and urges competence, equality, and Black governance."
+description: "Exposes race prejudice and mismanagement at the Colored Orphan Asylum and urges competence, equality, and Black governance."
 author:
   - name:
       given: W.E.B.

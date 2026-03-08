@@ -1,6 +1,6 @@
 ---
 title: 'The Second Pan-African Congress'
-description: "W.E.B. Du Bois in The Crisis (1921) urges Pan-African unity and fundraising for the Second Pan-African Congress, mobilizing Black organizations worldwide."
+description: "Urges Pan-African unity and fundraising for the Second Pan-African Congress, mobilizing Black organizations worldwide."
 author:
   - name:
       given: W.E.B.

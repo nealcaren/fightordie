@@ -1,6 +1,6 @@
 ---
 title: The South in the Saddle
-description: W.E.B. Du Bois in The Crisis (1914) exposes how Southern disfranchisement inflates Congressional power, forcing national policy and undermining democracy.
+description: "Exposes how Southern disfranchisement inflates Congressional power, forcing national policy and undermining democracy."
 author:
 - name:
     given: W.E.B.

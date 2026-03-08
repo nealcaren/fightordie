@@ -1,6 +1,6 @@
 ---
 title: 'Latin'
-description: "W.E.B. Du Bois in The Crisis (1920) defends Latin in Black education, warning that dropping classics isolates schools and denies college access."
+description: "Defends Latin in Black education, warning that dropping classics isolates schools and denies college access."
 author:
   - name:
       given: W.E.B.

@@ -1,6 +1,6 @@
 ---
 title: 'War'
-description: "W.E.B. Du Bois in The Crisis (1927) condemns imperialist profiteering and urges pacifists to resist war with Mexico to defend human life."
+description: "Condemns imperialist profiteering and urges pacifists to resist war with Mexico to defend human life."
 author:
   - name:
       given: W.E.B.

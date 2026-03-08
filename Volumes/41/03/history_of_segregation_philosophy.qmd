@@ -1,6 +1,6 @@
 ---
 title: 'History of Segregation Philosophy'
-description: "In 1934 The Crisis, W.E.B. Du Bois argues segregation grew from economic labor caste, forcing Black self-organization and challenging American democracy."
+description: "Argues segregation grew from economic labor caste, forcing Black self-organization and challenging American democracy."
 author:
   - name:
       given: W.E.B.

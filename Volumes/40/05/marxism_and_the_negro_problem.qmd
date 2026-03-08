@@ -1,6 +1,6 @@
 ---
 title: 'Marxism and The Negro Problem'
-description: "W.E.B. Du Bois in The Crisis (1933) argues Marxism explains class exploitation but must be adapted to U.S. race and labor realities to protect Black democracy."
+description: "Argues Marxism explains class exploitation but must be adapted to U.S. race and labor realities to protect Black democracy."
 author:
   - name:
       given: W.E.B.

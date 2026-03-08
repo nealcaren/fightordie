@@ -1,6 +1,6 @@
 ---
 title: 'The Common School'
-description: "In 1918 W.E.B. Du Bois in The Crisis calls for national aid to democratic common schools: focus on reading, writing, arithmetic and racial representation."
+description: "Calls for national aid to democratic common schools: focus on reading, writing, arithmetic and racial representation."
 author:
   - name:
       given: W.E.B.

@@ -1,6 +1,6 @@
 ---
 title: 'Subsistence Homestead Colonies'
-description: "W.E.B. Du Bois argues in The Crisis (1934) that subsistence homestead colonies can empower Black workers, countering racial labor inequality."
+description: "Argues in The Crisis (1934) that subsistence homestead colonies can empower Black workers, countering racial labor inequality."
 author:
   - name:
       given: W.E.B.

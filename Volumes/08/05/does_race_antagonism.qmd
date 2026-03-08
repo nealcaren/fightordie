@@ -1,6 +1,6 @@
 ---
 title: 'Does Race Antagonism Serve Any Good Purpose'
-description: "In 1914 W.E.B. Du Bois argues in The Crisis that race antagonism is taught, not instinctive, and undermines education, democracy, and human uplift."
+description: "Argues in The Crisis that race antagonism is taught, not instinctive, and undermines education, democracy, and human uplift."
 author:
   - name:
       given: W.E.B.

@@ -1,6 +1,6 @@
 ---
 title: 'Intermarriage'
-description: "W.E.B. Du Bois in The Crisis (1913) condemns anti-miscegenation laws as racist, degrading to Black women and a threat to justice and social decency."
+description: "Condemns anti-miscegenation laws as racist, degrading to Black women and a threat to justice and social decency."
 author:
   - name:
       given: W.E.B.

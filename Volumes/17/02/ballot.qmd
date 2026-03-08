@@ -1,6 +1,6 @@
 ---
 title: The Ballot
-description: In The Crisis (1919), W.E.B. Du Bois demands the ballot for Black WWI veterans, arguing democracy and education must end race-based disenfranchisement.
+description: "Demands the ballot for Black WWI veterans, arguing democracy and education must end race-based disenfranchisement."
 author:
 - name:
     given: W.E.B.

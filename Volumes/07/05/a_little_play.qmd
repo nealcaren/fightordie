@@ -1,6 +1,6 @@
 ---
 title: 'A Little Play'
-description: "In a 1914 issue of The Crisis, W.E.B. Du Bois satirizes racial prejudice, exposing how claims of 'inferiority' deny equality and humane treatment."
+description: "Satirizes racial prejudice, exposing how claims of 'inferiority' deny equality and humane treatment."
 author:
   - name:
       given: W.E.B.

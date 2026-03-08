@@ -1,6 +1,6 @@
 ---
 title: 'Consecration'
-description: "In a 1917 Crisis essay, W.E.B. Du Bois urges consecration to business and industry, training children for democratic labor to avert social chaos."
+description: "Urges consecration to business and industry, training children for democratic labor to avert social chaos."
 author:
   - name:
       given: W.E.B.

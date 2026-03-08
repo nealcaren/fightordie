@@ -1,6 +1,6 @@
 ---
 title: 'Public Schools'
-description: "In 1916 W.E.B. Du Bois in The Crisis condemns Southern use of public education to uphold race and class, arguing schools must foster democracy, not servitude."
+description: "Condemns Southern use of public education to uphold race and class, arguing schools must foster democracy, not servitude."
 author:
   - name:
       given: W.E.B.

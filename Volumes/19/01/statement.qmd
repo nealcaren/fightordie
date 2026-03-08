@@ -1,6 +1,6 @@
 ---
 title: A Statement
-description: W.E.B. Du Bois in The Crisis (1919) declares a critical racial moment, urging lawful resistance, NAACP organizing, and a fight against Jim Crow.
+description: "Declares a critical racial moment, urging lawful resistance, NAACP organizing, and a fight against Jim Crow."
 author:
 - name:
     given: W.E.B.

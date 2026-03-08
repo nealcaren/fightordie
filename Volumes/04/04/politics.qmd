@@ -1,6 +1,6 @@
 ---
 title: 'Politics'
-description: "W.E.B. Du Bois argues in The Crisis (1912) that Black votes hold the balance of power, urging strategic demands for democracy, justice, and education reforms."
+description: "Argues in The Crisis (1912) that Black votes hold the balance of power, urging strategic demands for democracy, justice, and education reforms."
 author:
   - name:
       given: W.E.B.

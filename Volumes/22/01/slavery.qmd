@@ -1,6 +1,6 @@
 ---
 title: 'Slavery'
-description: "W.E.B. Du Bois, in The Crisis (1922), condemns ongoing slavery and racial labor exploitation in the South and demands justice for Black Americans."
+description: "Condemns ongoing slavery and racial labor exploitation in the South and demands justice for Black Americans."
 author:
   - name:
       given: W.E.B.

@@ -1,6 +1,6 @@
 ---
 title: Lynching
-description: In 1914 The Crisis, W.E.B. Du Bois exposes how suppressed reporting masks lynching's rise, documenting race-based violence and challenging ineffective reforms.
+description: "Exposes how suppressed reporting masks lynching's rise, documenting race-based violence and challenging ineffective reforms."
 author:
 - name:
     given: W.E.B.

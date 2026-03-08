@@ -1,6 +1,6 @@
 ---
 title: Education
-description: W.E.B. Du Bois in The Crisis (1915) condemns vocational limits on Black education as deliberate attack on race, democracy, and full intellectual development.
+description: "Condemns vocational limits on Black education as deliberate attack on race, democracy, and full intellectual development."
 author:
 - name:
     given: W.E.B.

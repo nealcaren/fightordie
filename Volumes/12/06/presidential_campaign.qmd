@@ -1,6 +1,6 @@
 ---
 title: 'The Presidential Campaign'
-description: "In The Crisis 1916, W.E.B. Du Bois condemns Democratic betrayal of Black voters and warns Republicans like Hughes will offer neglect, not justice."
+description: "Condemns Democratic betrayal of Black voters and warns Republicans like Hughes will offer neglect, not justice."
 author:
   - name:
       given: W.E.B.

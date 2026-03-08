@@ -1,6 +1,6 @@
 ---
 title: The Massacre in East St. Louis
-description: W.E.B. Du Bois in The Crisis (1917) documents the East St. Louis massacre, linking racial terror to labor conflict and failures of democracy and law.
+description: "Documents the East St. Louis massacre, linking racial terror to labor conflict and failures of democracy and law."
 author:
 - name:
     given: W.E.B.

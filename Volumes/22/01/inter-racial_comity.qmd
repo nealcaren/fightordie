@@ -1,6 +1,6 @@
 ---
 title: 'Inter-Racial Comity'
-description: "W.E.B. Du Bois in The Crisis (1922) urges interracial committees to act on race, the vote, Jim Crow, peonage and mob-law, warning against complacency."
+description: "Urges interracial committees to act on race, the vote, Jim Crow, peonage and mob-law, warning against complacency."
 author:
   - name:
       given: W.E.B.

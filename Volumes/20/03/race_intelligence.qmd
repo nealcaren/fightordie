@@ -1,6 +1,6 @@
 ---
 title: 'Race Intelligence'
-description: "In 1920 The Crisis, W.E.B. Du Bois dismantles racist intelligence tests, exposing flawed science that limits Black education and labor prospects."
+description: "Dismantles racist intelligence tests, exposing flawed science that limits Black education and labor prospects."
 author:
   - name:
       given: W.E.B.

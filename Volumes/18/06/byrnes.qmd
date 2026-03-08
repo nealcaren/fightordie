@@ -1,6 +1,6 @@
 ---
 title: Byrnes
-description: Du Bois, W.E.B. in The Crisis (1919) argues Congressman Byrnes represents disfranchisement, lynching and wage theft, urging Fourteenth Amendment action.
+description: "W.E.B. in The Crisis (1919) argues Congressman Byrnes represents disfranchisement, lynching and wage theft, urging Fourteenth Amendment action."
 author: Du Bois, W.E.B.
 date: Apr. 1919
 subjects:

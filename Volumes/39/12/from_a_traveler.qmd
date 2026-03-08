@@ -1,6 +1,6 @@
 ---
 title: 'From a Traveller'
-description: "W.E.B. Du Bois in The Crisis (1932) defends Liberia as a real chance for Black democracy, exposing foreign capital, graft, forced labor, and colonial racism"
+description: "Defends Liberia as a real chance for Black democracy, exposing foreign capital, graft, forced labor, and colonial racism"
 author:
   - name:
       given: W.E.B.

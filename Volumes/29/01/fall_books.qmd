@@ -1,6 +1,6 @@
 ---
 title: Fall Books
-description: W.E.B. Du Bois in The Crisis (1924) reviews fall books, indicting the Southern oligarchy, lynching, and disfranchisement while championing race, democracy, and education
+description: "Reviews fall books, indicting the Southern oligarchy, lynching, and disfranchisement while championing race, democracy, and education"
 author:
 - name:
     given: W.E.B.

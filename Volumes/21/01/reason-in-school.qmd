@@ -1,6 +1,6 @@
 ---
 title: 'Reason in School and Business'
-description: "W.E.B. Du Bois in The Crisis (1920) urges reason in race, education, and business—favoring merit over color while defending Black enterprise and fairness."
+description: "Urges reason in race, education, and business—favoring merit over color while defending Black enterprise and fairness."
 author:
   - name:
       given: W.E.B.

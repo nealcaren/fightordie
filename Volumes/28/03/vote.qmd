@@ -1,6 +1,6 @@
 ---
 title: 'Vote'
-description: "W.E.B. Du Bois in The Crisis (1924) urges Black voters to target traitorous Congress and state candidates, using strategic voting to defend democracy."
+description: "Urges Black voters to target traitorous Congress and state candidates, using strategic voting to defend democracy."
 author:
   - name:
       given: W.E.B.

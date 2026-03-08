@@ -1,6 +1,6 @@
 ---
 title: 'The Firing Line'
-description: "In 1925 W.E.B. Du Bois in The Crisis argues the U.S., not Africa or the West Indies, is the racial firing line, urging democratic struggle and voting rights."
+description: "Argues the U.S., not Africa or the West Indies, is the racial firing line, urging democratic struggle and voting rights."
 author:
   - name:
       given: W.E.B.

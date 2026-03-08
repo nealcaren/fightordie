@@ -1,6 +1,6 @@
 ---
 title: 'The Attempted Lynching of Lube Martin: An N.A.A.C.P. Investigation'
-description: "W.E.B. Du Bois in The Crisis (1917) documents the attempted lynching of Lube Martin and exposes racial terror and legal injustice."
+description: "Documents the attempted lynching of Lube Martin and exposes racial terror and legal injustice."
 author:
   - name:
       family: National Association for the Advancement of Colored People

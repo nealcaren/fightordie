@@ -1,6 +1,6 @@
 ---
 title: Woman Suffrage
-description: W.E.B. Du Bois in The Crisis (1915) argues Black voters must support woman suffrage as a democratic, racial-justice duty that advances equality.
+description: "Argues Black voters must support woman suffrage as a democratic, racial-justice duty that advances equality."
 author:
 - name:
     given: W.E.B.

@@ -1,6 +1,6 @@
 ---
 title: 'The Second Birthday'
-description: "In 1912 W.E.B. Du Bois argues in The Crisis that a Black press is vital for race publicity and democracy, urging support despite financial struggle."
+description: "Argues in The Crisis that a Black press is vital for race publicity and democracy, urging support despite financial struggle."
 author:
   - name:
       given: W.E.B.

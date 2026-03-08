@@ -1,6 +1,6 @@
 ---
 title: 'Migration'
-description: "W.E.B. Du Bois in The Crisis (1914) warns Oklahoma’s migration to Africa is dangerous: Africa needs capital and skilled leadership, not untrained labor."
+description: "Warns Oklahoma’s migration to Africa is dangerous: Africa needs capital and skilled leadership, not untrained labor."
 author:
   - name:
       given: W.E.B.

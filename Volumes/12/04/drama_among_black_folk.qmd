@@ -1,6 +1,6 @@
 ---
 title: 'The Drama Among Black Folk'
-description: "W.E.B. Du Bois in The Crisis (1916) champions Black pageantry as folk drama and racial education, shows its artistic promise and financial neglect."
+description: "Champions Black pageantry as folk drama and racial education, shows its artistic promise and financial neglect."
 author:
   - name:
       given: W.E.B.

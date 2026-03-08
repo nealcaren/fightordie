@@ -1,6 +1,6 @@
 ---
 title: Flood
-description: In 1927 The Crisis, W.E.B. Du Bois urges Black refugees to flee Southern racial terror—documenting lynching, exploitative relief, and labor coercion.
+description: "Urges Black refugees to flee Southern racial terror—documenting lynching, exploitative relief, and labor coercion."
 author:
 - name:
     given: W.E.B.

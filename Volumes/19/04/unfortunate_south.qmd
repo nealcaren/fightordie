@@ -1,6 +1,6 @@
 ---
 title: 'The Unfortunate South'
-description: "In 1920 W.E.B. Du Bois, in The Crisis, excoriates the white South's racial blindness—blaming Black people for social ills and stifling culture."
+description: "Excoriates the white South's racial blindness—blaming Black people for social ills and stifling culture."
 author:
   - name:
       given: W.E.B.

@@ -1,6 +1,6 @@
 ---
 title: 'Labor Omnia Vincit'
-description: "In 1919 The Crisis, W.E.B. Du Bois argues labor must claim its due: racial justice, democratic equality, and Black workers' rightful wages."
+description: "Argues labor must claim its due: racial justice, democratic equality, and Black workers' rightful wages."
 author:
   - name:
       given: W.E.B.

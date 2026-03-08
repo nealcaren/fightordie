@@ -1,6 +1,6 @@
 ---
 title: 'Rampant Democracy'
-description: "W.E.B. Du Bois in The Crisis (1911) exposes how democracy masks racial and class segregation in education, mocking calls for separate schools."
+description: "Exposes how democracy masks racial and class segregation in education, mocking calls for separate schools."
 author:
   - name:
       given: W.E.B.

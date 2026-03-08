@@ -1,6 +1,6 @@
 ---
 title: The Negro Soldier
-description: W.E.B. Du Bois in The Crisis (1919) rebutts attacks on Black soldiers, exposing wartime racism and documenting their bravery and military competence.
+description: "Rebutts attacks on Black soldiers, exposing wartime racism and documenting their bravery and military competence."
 author:
 - name:
     given: W.E.B.

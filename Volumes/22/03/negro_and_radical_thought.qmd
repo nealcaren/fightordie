@@ -1,6 +1,6 @@
 ---
 title: The Negro and Radical Thought
-description: '1921: W.E.B. Du Bois in The Crisis urges Negro emancipation and labor solidarity at home, warning against uncritical embrace of Russian socialism.'
+description: "Urges Negro emancipation and labor solidarity at home, warning against uncritical embrace of Russian socialism."
 author:
 - name:
     given: W.E.B.

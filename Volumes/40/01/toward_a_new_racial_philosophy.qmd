@@ -1,6 +1,6 @@
 ---
 title: 'Toward a New Racial Philosophy'
-description: "W.E.B. Du Bois in The Crisis (1933) urges a new racial philosophy: a 12-part reexamination of race, education, labor, health, law and democracy."
+description: "Urges a new racial philosophy: a 12-part reexamination of race, education, labor, health, law and democracy."
 author:
   - name:
       given: W.E.B.

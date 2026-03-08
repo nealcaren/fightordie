@@ -1,6 +1,6 @@
 ---
 title: College Education
-description: In The Crisis (1914), W.E.B. Du Bois urges Black families to pursue rigorous college education as the path to racial freedom and dignified labor.
+description: "Urges Black families to pursue rigorous college education as the path to racial freedom and dignified labor."
 author:
 - name:
     given: W.E.B.

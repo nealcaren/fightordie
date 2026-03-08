@@ -1,6 +1,6 @@
 ---
 title: 'A Lunatic or a Traitor'
-description: "W.E.B. Du Bois in The Crisis (1924) condemns Marcus Garvey as a dangerous traitor or lunatic who undermines race progress and Black democracy."
+description: "Condemns Marcus Garvey as a dangerous traitor or lunatic who undermines race progress and Black democracy."
 author:
   - name:
       given: W.E.B.

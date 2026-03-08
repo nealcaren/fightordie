@@ -1,6 +1,6 @@
 ---
 title: Third Party
-description: W.E.B. Du Bois in The Crisis (1929) argues Southern disfranchisement rigs democracy, blocking Third Party politics and sustaining racialized plutocracy.
+description: "Argues Southern disfranchisement rigs democracy, blocking Third Party politics and sustaining racialized plutocracy."
 author:
 - name:
     given: W.E.B.

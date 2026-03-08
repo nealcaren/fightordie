@@ -1,6 +1,6 @@
 ---
 title: 'A Quarter Million'
-description: "In 1921 W.E.B. Du Bois urges readers in The Crisis to join the NAACP's 250,000-member drive to defend Black freedom, democracy, and civil rights."
+description: "Urges readers in The Crisis to join the NAACP's 250,000-member drive to defend Black freedom, democracy, and civil rights."
 author:
   - name:
       given: W.E.B.

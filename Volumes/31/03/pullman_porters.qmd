@@ -1,6 +1,6 @@
 ---
 title: 'Pullman Porters'
-description: "W.E.B. Du Bois in The Crisis (1926) defends Black Pullman porters' labor rights, condemns company intimidation, press silence, and government corruption."
+description: "Defends Black Pullman porters' labor rights, condemns company intimidation, press silence, and government corruption."
 author:
   - name:
       given: W.E.B.

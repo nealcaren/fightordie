@@ -1,6 +1,6 @@
 ---
 title: 'Political Rebirth and the Office Seeker'
-description: "In The Crisis (1921), W.E.B. Du Bois urges Black voters to convert growing political power into deeds: federal anti-lynching, end Jim Crow, universal education."
+description: "Urges Black voters to convert growing political power into deeds: federal anti-lynching, end Jim Crow, universal education."
 author:
   - name:
       given: W.E.B.

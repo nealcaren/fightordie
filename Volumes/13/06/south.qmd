@@ -1,6 +1,6 @@
 ---
 title: 'The South'
-description: "W.E.B. Du Bois in The Crisis (1917) chronicles Southern industrial growth, Black labor and migration, and the racial violence shaping a new, fragile order."
+description: "Chronicles Southern industrial growth, Black labor and migration, and the racial violence shaping a new, fragile order."
 author:
   - name:
       given: W.E.B.

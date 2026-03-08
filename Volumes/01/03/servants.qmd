@@ -1,6 +1,6 @@
 ---
 title: 'Except Servants'
-description: "W.E.B. Du Bois in The Crisis (1911) critiques racial prejudice that welcomes 'servants' but excludes Black people, exposing caste and labor bias."
+description: "Critiques racial prejudice that welcomes 'servants' but excludes Black people, exposing caste and labor bias."
 author:
   - name:
       given: W.E.B.

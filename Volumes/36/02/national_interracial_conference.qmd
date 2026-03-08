@@ -1,6 +1,6 @@
 ---
 title: The National Interracial Conference
-description: In 1929 W.E.B. Du Bois in The Crisis calls for coordinated interracial study and annual conferences to address race, education, health, labor, and suffrage.
+description: "Calls for coordinated interracial study and annual conferences to address race, education, health, labor, and suffrage."
 author:
 - name:
     given: W.E.B.

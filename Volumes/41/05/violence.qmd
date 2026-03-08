@@ -1,6 +1,6 @@
 ---
 title: Violence
-description: W.E.B. Du Bois in The Crisis (1934) warns that violence, given U.S. demographics, would provoke white backlash, justify repression, and imperil Black democracy.
+description: "Warns that violence, given U.S. demographics, would provoke white backlash, justify repression, and imperil Black democracy."
 author:
 - name:
     given: W.E.B.

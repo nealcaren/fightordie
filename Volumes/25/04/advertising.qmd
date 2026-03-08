@@ -1,6 +1,6 @@
 ---
 title: Advertising
-description: '1922: W.E.B. Du Bois in The Crisis argues modern advertising can mobilize indifferent white readers to expose lynching, advancing racial justice and democracy.'
+description: "Argues modern advertising can mobilize indifferent white readers to expose lynching, advancing racial justice and democracy."
 author:
 - name:
     given: W.E.B.

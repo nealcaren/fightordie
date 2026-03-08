@@ -1,6 +1,6 @@
 ---
 title: Unity
-description: In The Crisis (1924) W.E.B. Du Bois argues diversity - not enforced unity - is vital to Negro progress and defends the NAACP's fight for race and democracy.
+description: "Argues diversity - not enforced unity - is vital to Negro progress and defends the NAACP's fight for race and democracy."
 author:
 - name:
     given: W.E.B.

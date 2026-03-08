@@ -1,6 +1,6 @@
 ---
 title: 'The Right to Work'
-description: "In The Crisis (1933) W.E.B. Du Bois urges Black Americans to build cooperative consumer-producer economies to secure labor, race, and democratic power."
+description: "Urges Black Americans to build cooperative consumer-producer economies to secure labor, race, and democratic power."
 author:
   - name:
       given: W.E.B.

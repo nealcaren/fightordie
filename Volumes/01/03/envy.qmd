@@ -1,6 +1,6 @@
 ---
 title: 'Envy'
-description: "In 1911 The Crisis, W.E.B. Du Bois critiques labeling Black leaders' disagreements as 'envy,' arguing race leadership debates deserve principled scrutiny."
+description: "Critiques labeling Black leaders' disagreements as 'envy,' arguing race leadership debates deserve principled scrutiny."
 author:
   - name:
       given: W.E.B.

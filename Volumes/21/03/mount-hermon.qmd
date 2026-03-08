@@ -1,6 +1,6 @@
 ---
 title: 'Mount Hermon'
-description: "In 1921 The Crisis, W.E.B. Du Bois condemns racial inequality in education, exposing philanthropy's excuses and stark funding gaps for Black schools."
+description: "Condemns racial inequality in education, exposing philanthropy's excuses and stark funding gaps for Black schools."
 author:
   - name:
       given: W.E.B.

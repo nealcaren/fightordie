@@ -1,6 +1,6 @@
 ---
 title: 'The Cause of Lynching'
-description: "In 1914 W.E.B. Du Bois in The Crisis argues lynching enforces racial control, falsely justified as crime suppression and undermines justice."
+description: "Argues lynching enforces racial control, falsely justified as crime suppression and undermines justice."
 author:
   - name:
       given: W.E.B.

@@ -1,6 +1,6 @@
 ---
 title: 'Browsing Reader - The American Race Problem'
-description: "In 1927 W.E.B. Du Bois in The Crisis critiques E.B. Reuter's book as academic, prejudiced, and pessimistic about race, democracy, and Black education."
+description: "Critiques E.B. Reuter's book as academic, prejudiced, and pessimistic about race, democracy, and Black education."
 author:
   - name:
       given: W.E.B.

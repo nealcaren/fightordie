@@ -1,6 +1,6 @@
 ---
 title: Augustus G. Dill
-description: W.E.B. Du Bois shows in The Crisis (1928) that democracy hinges on Black voters, warning that anti-vote campaigns undermine race, rights, and progress.
+description: "Shows in The Crisis (1928) that democracy hinges on Black voters, warning that anti-vote campaigns undermine race, rights, and progress."
 author:
 - name:
     given: W.E.B.

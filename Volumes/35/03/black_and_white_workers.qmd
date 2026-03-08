@@ -1,6 +1,6 @@
 ---
 title: Black and White Workers
-description: W.E.B. Du Bois in The Crisis (1928) shows Black and white workers share a common struggle for democracy and labor rights, yet prejudice and bosses block solidarity.
+description: "Shows Black and white workers share a common struggle for democracy and labor rights, yet prejudice and bosses block solidarity."
 author:
 - name:
     given: W.E.B.

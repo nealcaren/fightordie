@@ -1,6 +1,6 @@
 ---
 title: 'Brandeis'
-description: "In 1916 The Crisis, W.E.B. Du Bois argues Brandeis’s nomination brings a minority, labor‑friendly voice to the Supreme Court to advance race and democracy."
+description: "Argues Brandeis’s nomination brings a minority, labor‑friendly voice to the Supreme Court to advance race and democracy."
 author:
   - name:
       given: W.E.B.

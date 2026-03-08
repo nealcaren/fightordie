@@ -1,6 +1,6 @@
 ---
 title: 'We Shuffle Along'
-description: "W.E.B. Du Bois (The Crisis, 1922) criticizes theatrical monopoly and white ignorance that bar Black performers, showing prejudice bred by censorship."
+description: "(The Crisis, 1922) criticizes theatrical monopoly and white ignorance that bar Black performers, showing prejudice bred by censorship."
 author:
   - name:
       given: W.E.B.

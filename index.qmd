@@ -87,7 +87,7 @@ Fourteen thematic pages trace Du Bois's arguments on segregation, lynching, voti
 
 :::: {.g-col-12 .g-col-md-4 .explore-card}
 ### [All Articles](listing.qmd)
-The complete collection, searchable and sortable by date, title, or keyword.
+Over 700 articles, searchable and sortable by date, title, or keyword.
 ::::
 
 :::: {.g-col-12 .g-col-md-4 .explore-card}

@@ -1,6 +1,6 @@
 ---
 title: 'Color Caste in the United States'
-description: "In The Crisis (1933) W.E.B. Du Bois exposes the U.S. color caste that denies Black rights in marriage, labor, education and democracy."
+description: "Exposes the U.S. color caste that denies Black rights in marriage, labor, education and democracy."
 author:
   - name:
       given: W.E.B.

@@ -1,6 +1,6 @@
 ---
 title: 'The Black Mother'
-description: "In The Crisis (1912), W.E.B. Du Bois condemns the 'mammy' myth, urging respect for Black motherhood, economic justice, and dignity in domestic labor."
+description: "Condemns the 'mammy' myth, urging respect for Black motherhood, economic justice, and dignity in domestic labor."
 author:
   - name:
       given: W.E.B.

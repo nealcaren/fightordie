@@ -1,6 +1,6 @@
 ---
 title: Atlanta
-description: In The Crisis (1920), W.E.B. Du Bois demands voting rights, an end to lynching and Jim Crow, and equal education, labor, and racial democracy.
+description: "Demands voting rights, an end to lynching and Jim Crow, and equal education, labor, and racial democracy."
 author:
 - name:
     given: W.E.B.

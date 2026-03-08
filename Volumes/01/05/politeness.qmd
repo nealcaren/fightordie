@@ -1,6 +1,6 @@
 ---
 title: 'Politeness'
-description: "In 1911 in The Crisis, W.E.B. Du Bois argues that racial codes of politeness impose costs, urging Black dignity and condemning white hypocrisy."
+description: "Argues that racial codes of politeness impose costs, urging Black dignity and condemning white hypocrisy."
 author:
   - name:
       given: W.E.B.

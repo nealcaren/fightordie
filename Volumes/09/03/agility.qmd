@@ -1,6 +1,6 @@
 ---
 title: Agility
-description: In 1915 W.E.B. Du Bois in The Crisis condemns suffragist evasions that defend white supremacy and betray democracy and Black women's rights.
+description: "Condemns suffragist evasions that defend white supremacy and betray democracy and Black women's rights."
 author:
 - name:
     given: W.E.B.

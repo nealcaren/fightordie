@@ -1,6 +1,6 @@
 ---
 title: The Election
-description: W.E.B. Du Bois in The Crisis (1912) defends Black support for Wilson, warns of Southern racism and disfranchisement, and urges real justice and democracy.
+description: "Defends Black support for Wilson, warns of Southern racism and disfranchisement, and urges real justice and democracy."
 author:
 - name:
     given: W.E.B.

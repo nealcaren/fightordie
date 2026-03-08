@@ -1,6 +1,6 @@
 ---
 title: 'Girls'
-description: "In 1921 for The Crisis, W.E.B. Du Bois celebrates joyful Black girls' education, critiquing stifling Southern school discipline and affirming hope."
+description: "Celebrates joyful Black girls' education, critiquing stifling Southern school discipline and affirming hope."
 author:
   - name:
       given: W.E.B.

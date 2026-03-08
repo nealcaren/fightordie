@@ -1,6 +1,6 @@
 ---
 title: 'Divine Right'
-description: "W. E. B. Du Bois, The Crisis (1912) exposes racist divine-right myths, condemns lynching, and challenges white prerogatives in a provocative crisis-era argument"
+description: "Exposes racist divine-right myths, condemns lynching, and challenges white prerogatives in a provocative crisis-era argument"
 author:
   - name:
       given: W.E.B.

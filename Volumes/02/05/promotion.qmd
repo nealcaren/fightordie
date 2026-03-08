@@ -1,6 +1,6 @@
 ---
 title: 'Promotion of Prejudice'
-description: "In 1911 W.E.B. Du Bois in The Crisis exposes syndicated racist editorials that manufacture race prejudice across North and South and threaten democracy."
+description: "Exposes syndicated racist editorials that manufacture race prejudice across North and South and threaten democracy."
 author:
   - name:
       given: W.E.B.

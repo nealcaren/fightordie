@@ -1,6 +1,6 @@
 ---
 title: 'The Strategy of the Negro Voter'
-description: "W.E.B. Du Bois in The Crisis (1933) urges Black voters to adopt opportunist tactics—protecting survival while pressing racial, labor and democratic reforms."
+description: "Urges Black voters to adopt opportunist tactics—protecting survival while pressing racial, labor and democratic reforms."
 author:
   - name:
       given: W.E.B.

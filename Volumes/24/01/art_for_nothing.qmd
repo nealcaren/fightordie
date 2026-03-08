@@ -1,6 +1,6 @@
 ---
 title: 'Art for Nothing'
-description: "In The Crisis (1922), W.E.B. Du Bois warns that underpaying Black artists starves their work and urges fair pay as a racial and labor justice issue."
+description: "Warns that underpaying Black artists starves their work and urges fair pay as a racial and labor justice issue."
 author:
   - name:
       given: W.E.B.

@@ -1,6 +1,6 @@
 ---
 title: 'Credit'
-description: "In 1915 W.E.B. Du Bois in The Crisis urges unity: credit for resisting racist legislation belongs to collective Black agitation and NAACP-led democracy fights."
+description: "Urges unity: credit for resisting racist legislation belongs to collective Black agitation and NAACP-led democracy fights."
 author:
   - name:
       given: W.E.B.

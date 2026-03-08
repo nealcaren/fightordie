@@ -1,6 +1,6 @@
 ---
 title: 'The Unreal Campaign'
-description: "In 1920 The Crisis, W.E.B. Du Bois condemns an unreal presidential campaign that weaponized race, undermined democracy and failed labor and third parties."
+description: "Condemns an unreal presidential campaign that weaponized race, undermined democracy and failed labor and third parties."
 author:
   - name:
       given: W.E.B.

@@ -1,6 +1,6 @@
 ---
 title: 'The White Christ'
-description: "W.E.B. Du Bois in The Crisis (1915) criticizes white Christianity's wartime hypocrisy and praises the democratic, inclusive Negro church."
+description: "Criticizes white Christianity's wartime hypocrisy and praises the democratic, inclusive Negro church."
 author:
   - name:
       given: W.E.B.

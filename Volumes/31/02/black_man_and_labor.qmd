@@ -1,6 +1,6 @@
 ---
 title: 'The Black Man and Labor'
-description: "W.E.B. Du Bois in The Crisis (1925) urges Black labor solidarity, defends Pullman porters' unionizing, and calls for openness to Soviet industrial reforms."
+description: "Urges Black labor solidarity, defends Pullman porters' unionizing, and calls for openness to Soviet industrial reforms."
 author:
   - name:
       given: W.E.B.

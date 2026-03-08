@@ -1,6 +1,6 @@
 ---
 title: Scottsboro
-description: W.E.B. Du Bois in The Crisis (1934) condemns Scottsboro trials as racial injustice — Southern courts using law to punish Black lives for profit and prejudice.
+description: "Condemns Scottsboro trials as racial injustice — Southern courts using law to punish Black lives for profit and prejudice."
 author:
 - name:
     given: W.E.B.

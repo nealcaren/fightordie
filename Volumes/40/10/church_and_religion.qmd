@@ -1,6 +1,6 @@
 ---
 title: 'The Church and Religion'
-description: "In a 1933 Crisis piece, W.E.B. Du Bois critiques organized churches for claiming absolute truth, urging ethical faith and intellectual freedom for Black youth."
+description: "Critiques organized churches for claiming absolute truth, urging ethical faith and intellectual freedom for Black youth."
 author:
   - name:
       given: W.E.B.

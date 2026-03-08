@@ -1,6 +1,6 @@
 ---
 title: 'Awake America'
-description: "W.E.B. Du Bois in The Crisis (1917) urges America to end lynching, disenfranchisement and Jim Crow at home to honestly defend democracy abroad."
+description: "Urges America to end lynching, disenfranchisement and Jim Crow at home to honestly defend democracy abroad."
 author:
   - name:
       given: W.E.B.

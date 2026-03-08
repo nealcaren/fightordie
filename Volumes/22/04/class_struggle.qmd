@@ -1,6 +1,6 @@
 ---
 title: 'The Class Struggle'
-description: "W.E.B. Du Bois in The Crisis (1921) rejects revolution; argues Black race needs economic democracy—banks, capital and education to secure labor rights."
+description: "Rejects revolution; argues Black race needs economic democracy—banks, capital and education to secure labor rights."
 author:
   - name:
       given: W.E.B.

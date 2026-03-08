@@ -1,6 +1,6 @@
 ---
 title: 'Help Us to Help'
-description: "W.E.B. Du Bois in The Crisis (1918) urges redress of racial grievances—better travel, equal aid, suppression of lynching, securing democracy and war loyalty."
+description: "Urges redress of racial grievances—better travel, equal aid, suppression of lynching, securing democracy and war loyalty."
 author:
   - name:
       given: W.E.B.

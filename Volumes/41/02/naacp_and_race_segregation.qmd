@@ -1,6 +1,6 @@
 ---
 title: 'The N.A.A.C.P. and Race Segregation'
-description: "W.E.B. Du Bois in The Crisis (1934) explains the NAACP’s pragmatic fight against race segregation—defending civil rights, schools, hospitals, and democracy."
+description: "Explains the NAACP’s pragmatic fight against race segregation—defending civil rights, schools, hospitals, and democracy."
 author:
   - name:
       given: W.E.B.

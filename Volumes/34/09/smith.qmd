@@ -1,6 +1,6 @@
 ---
 title: 'Smith'
-description: "In 1927 The Crisis, W.E.B. Du Bois argues Governor Smith's nomination would expose Southern racism and could shatter the Solid South, advancing democracy."
+description: "Argues Governor Smith's nomination would expose Southern racism and could shatter the Solid South, advancing democracy."
 author:
   - name:
       given: W.E.B.

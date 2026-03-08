@@ -1,6 +1,6 @@
 ---
 title: Votes for Women
-description: W.E.B. Du Bois in The Crisis (1918) urges Black voters to back woman suffrage as a moral and democratic defense against racial disfranchisement.
+description: "Urges Black voters to back woman suffrage as a moral and democratic defense against racial disfranchisement."
 author:
 - name:
     given: W.E.B.

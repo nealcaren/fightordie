@@ -1,6 +1,6 @@
 ---
 title: England, Again
-description: W.E.B. Du Bois in The Crisis (1920) condemns British imperialism and land theft, exposing racial hypocrisy and the betrayal of democratic ideals.
+description: "Condemns British imperialism and land theft, exposing racial hypocrisy and the betrayal of democratic ideals."
 author:
 - name:
     given: W.E.B.

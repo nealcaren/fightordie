@@ -1,6 +1,6 @@
 ---
 title: Herbert Hoover
-description: W.E.B. Du Bois in The Crisis (1932) indicts Herbert Hoover for 'Lily-White' politics, race-based appointments, and policies that crush Black labor and democracy
+description: "Indicts Herbert Hoover for 'Lily-White' politics, race-based appointments, and policies that crush Black labor and democracy"
 author:
 - name:
     given: W.E.B.

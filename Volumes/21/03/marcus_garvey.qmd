@@ -1,6 +1,6 @@
 ---
 title: 'Marcus Garvey'
-description: "In 1921 W.E.B. Du Bois in The Crisis critiques Marcus Garvey's racial commerce schemes, warning that poor business, secrecy, and hubris endanger Black progress."
+description: "Critiques Marcus Garvey's racial commerce schemes, warning that poor business, secrecy, and hubris endanger Black progress."
 author:
   - name:
       given: W.E.B.

@@ -1,6 +1,6 @@
 ---
 title: The N.A.A.C.P. and Parties
-description: In a 1924 essay for The Crisis, W.E.B. Du Bois condemns party patronage, urges Black voters to defend democracy, and promotes nonpartisan debate on race.
+description: "Condemns party patronage, urges Black voters to defend democracy, and promotes nonpartisan debate on race."
 author:
 - name:
     given: W.E.B.

@@ -1,6 +1,6 @@
 ---
 title: 'Negro Art'
-description: "W.E.B. Du Bois in The Crisis (1921) argues Black art must portray honest human truth about race and life—not mere propaganda or myth."
+description: "Argues Black art must portray honest human truth about race and life—not mere propaganda or myth."
 author:
   - name:
       given: W.E.B.

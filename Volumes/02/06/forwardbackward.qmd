@@ -1,6 +1,6 @@
 ---
 title: Forward Backward
-description: W.E.B. Du Bois in The Crisis (1911) critiques how the 'Negro question' stalls democracy and reform—exposing suffrage and moral hypocrisy.
+description: "Critiques how the 'Negro question' stalls democracy and reform—exposing suffrage and moral hypocrisy."
 author:
 - name:
     given: W.E.B.

@@ -1,6 +1,6 @@
 ---
 title: 'The Slaughter of the Innocents'
-description: "W.E.B. Du Bois in The Crisis (1918) condemns Black infant mortality, urging public-health, nutrition, and racial-justice reforms."
+description: "Condemns Black infant mortality, urging public-health, nutrition, and racial-justice reforms."
 author:
   - name:
       given: W.E.B.

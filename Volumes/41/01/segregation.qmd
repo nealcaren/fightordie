@@ -1,6 +1,6 @@
 ---
 title: 'Segregation'
-description: "W.E.B. Du Bois in The Crisis (1934) argues voluntary Black self-organization counters racial discrimination and advances economic, educational and labor justice."
+description: "Argues voluntary Black self-organization counters racial discrimination and advances economic, educational and labor justice."
 author:
   - name:
       given: W.E.B.

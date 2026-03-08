@@ -1,6 +1,6 @@
 ---
 title: The Hurt Hound
-description: W.E.B. Du Bois in The Crisis (1913) condemns racial degradation, arguing racism twists Black dignity so mere decency feels like ecstatic relief.
+description: "Condemns racial degradation, arguing racism twists Black dignity so mere decency feels like ecstatic relief."
 author:
 - name:
     given: W.E.B.

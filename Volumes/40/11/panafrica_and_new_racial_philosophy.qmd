@@ -1,6 +1,6 @@
 ---
 title: 'Pan-Africa and New Racial Philosophy'
-description: "In 1933 The Crisis, W.E.B. Du Bois urges Pan‑African unity to confront racial labor exploitation and economic injustice, reclaiming Black agency."
+description: "Urges Pan‑African unity to confront racial labor exploitation and economic injustice, reclaiming Black agency."
 author:
   - name:
       given: W.E.B.

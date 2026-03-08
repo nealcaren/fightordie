@@ -1,6 +1,6 @@
 ---
 title: Social Equality
-description: "W.E.B. Du Bois in The Crisis (1916) condemns white Southern efforts to re-enslave and argues education and interracial contact are vital for race equality."
+description: "Condemns white Southern efforts to re-enslave and argues education and interracial contact are vital for race equality."
 author:
   - name:
       given: W.E.B.

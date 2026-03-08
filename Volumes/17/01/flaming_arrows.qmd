@@ -1,6 +1,6 @@
 ---
 title: 'Flaming Arrows'
-description: "In The Crisis (1919) W.E.B. Du Bois argues Wilson's rhetoric of democracy and justice exposes U.S. racial hypocrisy toward Black and colonized peoples."
+description: "Argues Wilson's rhetoric of democracy and justice exposes U.S. racial hypocrisy toward Black and colonized peoples."
 author:
   - name:
       given: W.E.B.

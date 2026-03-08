@@ -1,6 +1,6 @@
 ---
 title: 'Fraud and Imitation'
-description: "W.E.B. Du Bois, in The Crisis (1912), exposes impostors who exploit white praise and counterfeit educational groups to undermine Black progress and unity."
+description: "Exposes impostors who exploit white praise and counterfeit educational groups to undermine Black progress and unity."
 author:
   - name:
       given: W.E.B.

@@ -1,6 +1,6 @@
 ---
 title: 'The Congressmen and the NAACP'
-description: "W.E.B. Du Bois in The Crisis (1914) exposes congressmen's evasions on race, lynching, segregation and intermarriage, urging NAACP political accountability."
+description: "Exposes congressmen's evasions on race, lynching, segregation and intermarriage, urging NAACP political accountability."
 author:
   - name:
       given: W.E.B.

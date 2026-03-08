@@ -1,6 +1,6 @@
 ---
 title: Lusitania
-description: In a 1915 essay for The Crisis, W.E.B. Du Bois condemns World War I as the unveiling of Western racial and imperial hypocrisy, affirming Black moral vindication.
+description: "Condemns World War I as the unveiling of Western racial and imperial hypocrisy, affirming Black moral vindication."
 author:
 - name:
     given: W.E.B.

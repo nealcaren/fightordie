@@ -1,6 +1,6 @@
 ---
 title: 'Christianity Rampant'
-description: "W.E.B. Du Bois argues in The Crisis (1911) that practical Christianity masks imperial cruelty; he links church complicity to wars, conquest, and racial justice."
+description: "Argues in The Crisis (1911) that practical Christianity masks imperial cruelty; he links church complicity to wars, conquest, and racial justice."
 author:
   - name:
       given: W.E.B.

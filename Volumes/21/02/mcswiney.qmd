@@ -1,6 +1,6 @@
 ---
 title: 'McSwiney'
-description: "W.E.B. Du Bois in The Crisis (1920) praises Irish hunger-striker Terence MacSwiney, arguing patient martyrdom exposes injustice and defends democracy."
+description: "Praises Irish hunger-striker Terence MacSwiney, arguing patient martyrdom exposes injustice and defends democracy."
 author:
   - name:
       given: W.E.B.

@@ -1,6 +1,6 @@
 ---
 title: 'Blaine of Maine'
-description: "In a 1932 piece for The Crisis, W.E.B. Du Bois condemns revisionist Civil War myths, defending truth on slavery, Reconstruction, race and democracy."
+description: "Condemns revisionist Civil War myths, defending truth on slavery, Reconstruction, race and democracy."
 author:
   - name:
       given: W.E.B.

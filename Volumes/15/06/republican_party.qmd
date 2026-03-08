@@ -1,6 +1,6 @@
 ---
 title: 'The Republican Party'
-description: "In The Crisis (1918), W.E.B. Du Bois condemns the Republican Party as anti-Black and reactionary, exposing racial exclusion in party politics."
+description: "Condemns the Republican Party as anti-Black and reactionary, exposing racial exclusion in party politics."
 author:
   - name:
       given: W.E.B.

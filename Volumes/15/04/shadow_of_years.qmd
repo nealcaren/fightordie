@@ -1,6 +1,6 @@
 ---
 title: 'The Shadow of Years'
-description: "In a 1918 Crisis memoir, W.E.B. Du Bois traces how education, race, and work shaped his life—from youthful promise to leadership and resolute racial advocacy."
+description: "Traces how education, race, and work shaped his life—from youthful promise to leadership and resolute racial advocacy."
 author:
   - name:
       given: W.E.B.

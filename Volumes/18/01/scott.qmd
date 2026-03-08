@@ -1,6 +1,6 @@
 ---
 title: To Mr. Emmett Scott
-description: W.E.B. Du Bois in The Crisis (1919) demands that Emmett Scott answer why Black soldiers faced mistreatment in France, exposing racial failures in the military.
+description: "Demands that Emmett Scott answer why Black soldiers faced mistreatment in France, exposing racial failures in the military."
 author:
 - name:
     given: W.E.B.

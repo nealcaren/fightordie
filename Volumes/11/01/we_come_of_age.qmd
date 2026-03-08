@@ -1,6 +1,6 @@
 ---
 title: 'We Come of Age'
-description: "W.E.B. Du Bois in The Crisis (1915) celebrates five years of the Black press's growth, achieving self-support and securing the editor's salary."
+description: "Celebrates five years of the Black press's growth, achieving self-support and securing the editor's salary."
 author:
   - name:
       given: W.E.B.

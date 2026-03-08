@@ -1,6 +1,6 @@
 ---
 title: 'Vital Statistics'
-description: "W.E.B. Du Bois debunks a white-supremacist claim about Black mortality in The Crisis (1912), documenting declining Negro death rates with census data."
+description: "Debunks a white-supremacist claim about Black mortality in The Crisis (1912), documenting declining Negro death rates with census data."
 author:
   - name:
       given: W.E.B.

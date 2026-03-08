@@ -1,6 +1,6 @@
 ---
 title: 'Baltimore'
-description: "In The Crisis (1910), W.E.B. Du Bois condemns Baltimore’s race-based ordinances, arguing prejudice—not Black homeowners—lowers property values."
+description: "Condemns Baltimore’s race-based ordinances, arguing prejudice—not Black homeowners—lowers property values."
 author:
   - name:
       given: W.E.B.

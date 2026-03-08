@@ -1,6 +1,6 @@
 ---
 title: The Campaign of 1928
-description: W.E.B. Du Bois in The Crisis (1928) condemns both parties' betrayal of Black voters and urges a Third Party for racial justice, labor rights and democracy.
+description: "Condemns both parties' betrayal of Black voters and urges a Third Party for racial justice, labor rights and democracy."
 author:
 - name:
     given: W.E.B.

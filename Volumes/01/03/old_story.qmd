@@ -1,6 +1,6 @@
 ---
 title: 'The Old Story'
-description: "W.E.B. Du Bois in The Crisis (1911) exposes how racial prejudice fuels false criminal accusations, lynch mobs, and unjust legal imprisonment."
+description: "Exposes how racial prejudice fuels false criminal accusations, lynch mobs, and unjust legal imprisonment."
 author:
   - name:
       given: W.E.B.

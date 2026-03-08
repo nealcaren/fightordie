@@ -1,6 +1,6 @@
 ---
 title: Roosevelt
-description: In 1917 The Crisis, W.E.B. Du Bois praises Theodore Roosevelt's stand against East St. Louis violence and condemns national hypocrisy on lynching and democracy.
+description: "Praises Theodore Roosevelt's stand against East St. Louis violence and condemns national hypocrisy on lynching and democracy."
 author:
 - name:
     given: W.E.B.

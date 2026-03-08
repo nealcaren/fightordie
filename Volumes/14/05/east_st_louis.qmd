@@ -1,6 +1,6 @@
 ---
 title: 'East St. Louis'
-description: "W.E.B. Du Bois in The Crisis (1917) condemns the East St. Louis race pogrom as a betrayal of American democracy and insists Black labor will keep moving north."
+description: "Condemns the East St. Louis race pogrom as a betrayal of American democracy and insists Black labor will keep moving north."
 author:
   - name:
       given: W.E.B.

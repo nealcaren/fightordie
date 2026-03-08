@@ -1,6 +1,6 @@
 ---
 title: 'The Election'
-description: "W.E.B. Du Bois in The Crisis (1924) critiques the election’s effects on Black democracy, cataloging gains in representation and losses from Klan resurgence."
+description: "Critiques the election’s effects on Black democracy, cataloging gains in representation and losses from Klan resurgence."
 author:
   - name:
       given: W.E.B.

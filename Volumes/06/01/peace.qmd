@@ -1,6 +1,6 @@
 ---
 title: Peace
-description: In 1913 The Crisis, W.E.B. Du Bois criticizes American peace leaders for ignoring colonial imperialism, urging democratic, anti-racist peace over aristocratic dignity.
+description: "Criticizes American peace leaders for ignoring colonial imperialism, urging democratic, anti-racist peace over aristocratic dignity."
 author:
 - name:
     given: W.E.B.

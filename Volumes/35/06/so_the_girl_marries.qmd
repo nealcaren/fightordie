@@ -1,6 +1,6 @@
 ---
 title: 'So the Girl Marries'
-description: "W.E.B. Du Bois in The Crisis (1928) frames his daughter's wedding as a symbolic assertion of Black education, tradition, and racial progress."
+description: "Frames his daughter's wedding as a symbolic assertion of Black education, tradition, and racial progress."
 author:
   - name:
       given: W.E.B.

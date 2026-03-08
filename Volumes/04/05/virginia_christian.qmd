@@ -1,6 +1,6 @@
 ---
 title: Virginia Christian
-description: W.E.B. Du Bois in The Crisis (1912) shows how Virginia's white-supremacist order denies education, produces poverty, and murders Virginia Christian.
+description: "Shows how Virginia's white-supremacist order denies education, produces poverty, and murders Virginia Christian."
 author:
 - name:
     given: W.E.B.

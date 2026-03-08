@@ -1,6 +1,6 @@
 ---
 title: Arkansas
-description: W.E.B. Du Bois in The Crisis (1920) exposes Arkansas insurance bias and white surveillance that punish Black wealth, voting and anti-lynching activism.
+description: "Exposes Arkansas insurance bias and white surveillance that punish Black wealth, voting and anti-lynching activism."
 author:
 - name:
     given: W.E.B.

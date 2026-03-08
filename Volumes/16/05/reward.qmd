@@ -1,6 +1,6 @@
 ---
 title: 'The Reward'
-description: "In 1918 The Crisis, W.E.B. Du Bois argues Black wartime loyalty has won citizenship, labor gains, and steps against segregation and lynching."
+description: "Argues Black wartime loyalty has won citizenship, labor gains, and steps against segregation and lynching."
 author:
   - name:
       given: W.E.B.

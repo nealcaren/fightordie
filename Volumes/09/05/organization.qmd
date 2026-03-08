@@ -1,6 +1,6 @@
 ---
 title: 'Organization'
-description: "W.E.B. Du Bois in The Crisis 1915 urges Black Americans to emulate Jewish organization, arguing race uplift needs education, charity and civic unity."
+description: "1915 urges Black Americans to emulate Jewish organization, arguing race uplift needs education, charity and civic unity."
 author:
   - name:
       given: W.E.B.

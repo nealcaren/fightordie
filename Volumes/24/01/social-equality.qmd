@@ -1,6 +1,6 @@
 ---
 title: Social Equality
-description: W.E.B. Du Bois in The Crisis 1922 argues for social equality for Black Americans, condemning racial contempt and urging refusal to return hatred.
+description: "1922 argues for social equality for Black Americans, condemning racial contempt and urging refusal to return hatred."
 author:
 - name:
     given: W.E.B.

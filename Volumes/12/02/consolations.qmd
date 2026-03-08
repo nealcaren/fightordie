@@ -1,6 +1,6 @@
 ---
 title: 'Consolation'
-description: "In a 1916 essay in The Crisis, W.E.B. Du Bois exposes how gendered discrimination in medicine reveals racial hypocrisy and entrenched white supremacy."
+description: "Exposes how gendered discrimination in medicine reveals racial hypocrisy and entrenched white supremacy."
 author:
   - name:
       given: W.E.B.

@@ -1,6 +1,6 @@
 ---
 title: Houston
-description: W.E.B. Du Bois in The Crisis (1918) condemns racial injustice in the Houston military trials, demands officers' court-martials, civilian punishment, and pardons
+description: "Condemns racial injustice in the Houston military trials, demands officers' court-martials, civilian punishment, and pardons"
 author:
 - name:
     given: W.E.B.

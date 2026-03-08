@@ -1,6 +1,6 @@
 ---
 title: Our Economic Peril
-description: W.E.B. Du Bois in The Crisis (1930) warns that racial exclusion and failing charity deepen Black economic peril, urging co‑ops and labor organizing.
+description: "Warns that racial exclusion and failing charity deepen Black economic peril, urging co‑ops and labor organizing."
 author:
 - name:
     given: W.E.B.

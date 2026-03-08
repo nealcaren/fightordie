@@ -1,6 +1,6 @@
 ---
 title: 'Travel'
-description: "Traveling in 1926, W.E.B. Du Bois in The Crisis reports firsthand Russian and European journeys, arguing race and democracy are global issues."
+description: "Reports firsthand Russian and European journeys, arguing race and democracy are global issues."
 author:
   - name:
       given: W.E.B.

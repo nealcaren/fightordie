@@ -1,6 +1,6 @@
 ---
 title: 'Social Equality'
-description: "In The Crisis (1919), W.E.B. Du Bois rebukes white panic over social equality, arguing Black aims are voting, education and civil rights."
+description: "Rebukes white panic over social equality, arguing Black aims are voting, education and civil rights."
 author:
   - name:
       given: W.E.B.

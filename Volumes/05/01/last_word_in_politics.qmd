@@ -1,6 +1,6 @@
 ---
 title: The Last Word in Politics
-description: In The Crisis (1912), W.E.B. Du Bois urges Black voters to weigh race and democracy over party promises, endorsing a risky test of Wilson.
+description: "Urges Black voters to weigh race and democracy over party promises, endorsing a risky test of Wilson."
 author:
 - name:
     given: W.E.B.

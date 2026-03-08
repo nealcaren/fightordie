@@ -1,6 +1,6 @@
 ---
 title: 'Memorandum to M. Diagne and Others on a Pan-African Congress to be held in Paris in February, 1919'
-description: "In 1919 W.E.B. Du Bois in The Crisis proposes a Paris Pan-African Congress to demand race rights, education, land and political voice for Black peoples."
+description: "Proposes a Paris Pan-African Congress to demand race rights, education, land and political voice for Black peoples."
 author:
   - name:
       given: W.E.B.

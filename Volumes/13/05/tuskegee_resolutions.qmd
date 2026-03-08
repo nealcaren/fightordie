@@ -1,6 +1,6 @@
 ---
 title: 'The Tuskegee Resolutions'
-description: "In 1917's The Crisis, W.E.B. Du Bois denounces Tuskegee resolutions for urging Black labor to remain South while ignoring lynching and legal injustice."
+description: "Denounces Tuskegee resolutions for urging Black labor to remain South while ignoring lynching and legal injustice."
 author:
   - name:
       given: W.E.B.

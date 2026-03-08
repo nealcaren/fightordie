@@ -1,6 +1,6 @@
 ---
 title: 'The Migration of Negroes'
-description: "W.E.B. Du Bois in The Crisis (1917) documents Black migration as a labor and rights exodus driven by lynching, disfranchisement, boll weevil and low wages."
+description: "Documents Black migration as a labor and rights exodus driven by lynching, disfranchisement, boll weevil and low wages."
 author:
   - name:
       given: W.E.B.

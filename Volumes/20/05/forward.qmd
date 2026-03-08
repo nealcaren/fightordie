@@ -1,6 +1,6 @@
 ---
 title: Forward
-description: W.E.B. Du Bois urges in The Crisis (1920) a renewed NAACP campaign against lynching, Jim Crow, and for the Black ballot and racial democracy.
+description: "Urges in The Crisis (1920) a renewed NAACP campaign against lynching, Jim Crow, and for the Black ballot and racial democracy."
 author:
 - name:
     given: W.E.B.

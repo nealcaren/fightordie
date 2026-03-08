@@ -1,6 +1,6 @@
 ---
 title: 'Refinement and Love'
-description: "W.E.B. Du Bois in The Crisis (1916) urges culture, refinement, and love for racial uplift but warns Black freedom may demand grim, violent struggle."
+description: "Urges culture, refinement, and love for racial uplift but warns Black freedom may demand grim, violent struggle."
 author:
   - name:
       given: W.E.B.

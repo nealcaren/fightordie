@@ -1,6 +1,6 @@
 ---
 title: Emancipation
-description: In 1913 W.E.B. Du Bois in The Crisis condemns post-Emancipation rollback, arguing for a national fight for race, democracy, education and labor rights.
+description: "Condemns post-Emancipation rollback, arguing for a national fight for race, democracy, education and labor rights."
 author:
 - name:
     given: W.E.B.

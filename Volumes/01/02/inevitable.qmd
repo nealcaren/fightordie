@@ -1,6 +1,6 @@
 ---
 title: 'The Inevitable'
-description: "W.E.B. Du Bois in The Crisis (1910) denounces racial 'inevitability'—arguing that treating people by skin color is criminal injustice and social danger."
+description: "Denounces racial 'inevitability'—arguing that treating people by skin color is criminal injustice and social danger."
 author:
   - name:
       given: W.E.B.

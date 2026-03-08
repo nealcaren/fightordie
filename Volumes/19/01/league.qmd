@@ -1,6 +1,6 @@
 ---
 title: 'The League of Nations'
-description: "In 1919 W.E.B. Du Bois in The Crisis urges pragmatic support for the League of Nations to secure peace and advance racial democracy against imperialism."
+description: "Urges pragmatic support for the League of Nations to secure peace and advance racial democracy against imperialism."
 author:
   - name:
       given: W.E.B.

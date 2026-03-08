@@ -1,6 +1,6 @@
 ---
 title: Southern Papers
-description: '1911: W.E.B. Du Bois in The Crisis scolds white Southern papers for mocking race issues and defending peonage, exposing labor exploitation and hypocrisy.'
+description: "Scolds white Southern papers for mocking race issues and defending peonage, exposing labor exploitation and hypocrisy."
 author:
 - name:
     given: W.E.B.

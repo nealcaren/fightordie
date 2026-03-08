@@ -1,6 +1,6 @@
 ---
 title: Crime
-description: In 1920 The Crisis, W.E.B. Du Bois argues racial injustice, poverty, and lack of education foster Black crime—and condemns collective punishment.
+description: "Argues racial injustice, poverty, and lack of education foster Black crime—and condemns collective punishment."
 author:
 - name:
     given: W.E.B.

@@ -1,6 +1,6 @@
 ---
 title: 'The Flag'
-description: "In a 1911 Crisis piece, W.E.B. Du Bois condemns States' rights as shielding racial terror—arguing federal action is needed to protect Black citizens."
+description: "Condemns States' rights as shielding racial terror—arguing federal action is needed to protect Black citizens."
 author:
   - name:
       given: W.E.B.

@@ -1,6 +1,6 @@
 ---
 title: Don't Be Bitter
-description: '1914: W.E.B. Du Bois in The Crisis rejects pleas to ''not be bitter,'' arguing Black Americans'' calm demands for voting rights, racial justice, and dignity.'
+description: "Rejects pleas to ''not be bitter,'' arguing Black Americans'' calm demands for voting rights, racial justice, and dignity."
 author:
 - name:
     given: W.E.B.

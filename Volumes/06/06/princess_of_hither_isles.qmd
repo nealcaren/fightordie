@@ -1,6 +1,6 @@
 ---
 title: The Princess of the Hither Isles
-description: In a 1913 fable in The Crisis, W.E.B. Du Bois condemns racial exclusion and imperial greed, showing how white supremacy dehumanizes and destroys.
+description: "Condemns racial exclusion and imperial greed, showing how white supremacy dehumanizes and destroys."
 author:
 - name:
     given: W.E.B.

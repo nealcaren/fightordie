@@ -1,6 +1,6 @@
 ---
 title: In Georgia
-description: 'W.E.B. Du Bois in The Crisis (1920) declares the NAACP''s Atlanta meeting an epoch: Black demands for vote, anti-lynching, education, labor and full democracy.'
+description: "Declares the NAACP''s Atlanta meeting an epoch: Black demands for vote, anti-lynching, education, labor and full democracy."
 author:
 - name:
     given: W.E.B.

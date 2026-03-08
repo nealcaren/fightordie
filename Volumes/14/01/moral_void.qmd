@@ -1,6 +1,6 @@
 ---
 title: 'A Moral Void'
-description: "W.E.B. Du Bois in The Crisis (1917) condemns Southern moral failure as governors ignore anti-Black lynching, praising Ohio's pursuit of justice."
+description: "Condemns Southern moral failure as governors ignore anti-Black lynching, praising Ohio's pursuit of justice."
 author:
   - name:
       given: W.E.B.

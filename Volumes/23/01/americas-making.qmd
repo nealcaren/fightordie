@@ -1,6 +1,6 @@
 ---
 title: "America's Making"
-description: "W.E.B. Du Bois in The Crisis (1921) reports on America's Making, a pageant documenting racial and immigrant contributions to education, labor, and music."
+description: "Reports on America's Making, a pageant documenting racial and immigrant contributions to education, labor, and music."
 author:
   - name:
       given: W.E.B.

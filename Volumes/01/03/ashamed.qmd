@@ -1,6 +1,6 @@
 ---
 title: '''Ashamed'''
-description: "W.E.B. Du Bois in The Crisis (1911) rebukes claims that Black demands for dignity mean shame of race, arguing race pride drives the struggle for freedom."
+description: "Rebukes claims that Black demands for dignity mean shame of race, arguing race pride drives the struggle for freedom."
 author:
   - name:
       given: W.E.B.

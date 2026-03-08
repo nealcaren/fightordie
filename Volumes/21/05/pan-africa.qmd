@@ -1,6 +1,6 @@
 ---
 title: 'Pan-Africa'
-description: "In 1921 W.E.B. Du Bois in The Crisis traces the rise of Pan-African public opinion and urges unity for political rights, land, education and labor reform."
+description: "Traces the rise of Pan-African public opinion and urges unity for political rights, land, education and labor reform."
 author:
   - name:
       given: W.E.B.

@@ -1,6 +1,6 @@
 ---
 title: 'A Crusade'
-description: "In 1914 W.E.B. Du Bois in The Crisis urges a new abolitionist crusade for race justice and democracy, calling for mass organization and support for the NAACP."
+description: "Urges a new abolitionist crusade for race justice and democracy, calling for mass organization and support for the NAACP."
 author:
   - name:
       given: W.E.B.

@@ -1,6 +1,6 @@
 ---
 title: 'Persecution'
-description: "In 1920 The Crisis, W.E.B. Du Bois condemns the persecution of educator Roscoe C. Bruce, urging Black Washington to end infighting that harms education."
+description: "Condemns the persecution of educator Roscoe C. Bruce, urging Black Washington to end infighting that harms education."
 author:
   - name:
       given: W.E.B.

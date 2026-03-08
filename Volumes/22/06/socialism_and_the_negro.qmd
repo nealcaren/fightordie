@@ -1,6 +1,6 @@
 ---
 title: Socialism and the Negro
-description: In The Crisis (1921), W.E.B. Du Bois critiques socialism's promise for Black labor, urging cautious, evolutionary reform amid race and imperialism.
+description: "Critiques socialism's promise for Black labor, urging cautious, evolutionary reform amid race and imperialism."
 author:
 - name:
     given: W.E.B.

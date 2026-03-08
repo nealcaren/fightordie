@@ -1,6 +1,6 @@
 ---
 title: 'Brothers, Come North'
-description: "W.E.B. Du Bois in The Crisis (1920) urges Black migration North for labor, education, and democracy, condemning Southern lynching and Jim Crow."
+description: "Urges Black migration North for labor, education, and democracy, condemning Southern lynching and Jim Crow."
 author:
   - name:
       given: W.E.B.

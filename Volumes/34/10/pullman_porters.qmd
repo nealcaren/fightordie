@@ -1,6 +1,6 @@
 ---
 title: Pullman Porters
-description: In 1927 The Crisis, W.E.B. Du Bois defends Pullman porters' labor fight, exposes company bribery and racial barriers, urging sustained union struggle.
+description: "Defends Pullman porters' labor fight, exposes company bribery and racial barriers, urging sustained union struggle."
 author:
 - name:
     given: W.E.B.

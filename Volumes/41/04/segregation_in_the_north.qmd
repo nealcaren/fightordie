@@ -1,6 +1,6 @@
 ---
 title: 'Segregation in the North'
-description: "W.E.B. Du Bois in The Crisis (1934) argues Northern segregation is growing and urges Black economic self-organization, education and boycotts."
+description: "Argues Northern segregation is growing and urges Black economic self-organization, education and boycotts."
 author:
   - name:
       given: W.E.B.

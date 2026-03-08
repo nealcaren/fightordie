@@ -1,6 +1,6 @@
 ---
 title: 'Mr. Hughes'
-description: "W.E.B. Du Bois in The Crisis (1916) warns Republican promises won't buy Black votes; demands specific racial and democratic commitments from Hughes."
+description: "Warns Republican promises won't buy Black votes; demands specific racial and democratic commitments from Hughes."
 author:
   - name:
       given: W.E.B.

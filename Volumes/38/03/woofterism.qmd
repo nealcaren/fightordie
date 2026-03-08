@@ -1,6 +1,6 @@
 ---
 title: 'Woofterism'
-description: "W.E.B. Du Bois in The Crisis (1931) condemns Woofter's study for ignoring race, disenfranchisement, lynching and labor barriers, urging political power."
+description: "Condemns Woofter's study for ignoring race, disenfranchisement, lynching and labor barriers, urging political power."
 author:
   - name:
       given: W.E.B.

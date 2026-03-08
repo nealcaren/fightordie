@@ -1,6 +1,6 @@
 ---
 title: 'The Present'
-description: "In 1917 The Crisis, W.E.B. Du Bois urges the American Negro to fight in war and seize industrial, labor and civic openings to build a colorless democracy."
+description: "Urges the American Negro to fight in war and seize industrial, labor and civic openings to build a colorless democracy."
 author:
   - name:
       given: W.E.B.

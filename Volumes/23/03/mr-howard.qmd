@@ -1,6 +1,6 @@
 ---
 title: 'Mr. Howard'
-description: "In The Crisis (1922), W.E.B. Du Bois urges Perry Howard and Black officials to reject token roles, defend anti-lynching reform, and uphold race dignity."
+description: "Urges Perry Howard and Black officials to reject token roles, defend anti-lynching reform, and uphold race dignity."
 author:
   - name:
       given: W.E.B.

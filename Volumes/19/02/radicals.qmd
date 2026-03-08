@@ -1,6 +1,6 @@
 ---
 title: 'Radicals'
-description: "In 1919 The Crisis, W.E.B. Du Bois condemns Southern oligarchy's campaign to silence Black critics, warning it threatens race equality and free speech."
+description: "Condemns Southern oligarchy's campaign to silence Black critics, warning it threatens race equality and free speech."
 author:
   - name:
       given: W.E.B.

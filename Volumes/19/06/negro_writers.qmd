@@ -1,6 +1,6 @@
 ---
 title: 'Negro Writers'
-description: "W.E.B. Du Bois in The Crisis (1920) calls for promoting Negro writers, arguing a literary renaissance is vital to race, education, and economic justice."
+description: "Calls for promoting Negro writers, arguing a literary renaissance is vital to race, education, and economic justice."
 author:
   - name:
       given: W.E.B.

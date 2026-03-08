@@ -1,6 +1,6 @@
 ---
 title: 'Blease, Vardaman, Hardwick and Company'
-description: "In 1918 W.E.B. Du Bois in The Crisis condemns Blease, Vardaman and Hardwick as race-haters undermining democracy and the war against despotism."
+description: "Condemns Blease, Vardaman and Hardwick as race-haters undermining democracy and the war against despotism."
 author:
   - name:
       given: W.E.B.

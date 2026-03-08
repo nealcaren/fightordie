@@ -1,6 +1,6 @@
 ---
 title: 'Coffeeville, Kanasas'
-description: "W.E.B. Du Bois in The Crisis (1927) exposes racist mob violence in Coffeeville, Kansas, false rape accusations, Black self-defense, and justice failures."
+description: "Exposes racist mob violence in Coffeeville, Kansas, false rape accusations, Black self-defense, and justice failures."
 author:
   - name:
       given: W.E.B.

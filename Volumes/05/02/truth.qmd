@@ -1,6 +1,6 @@
 ---
 title: The Truth
-description: In 1912 W.E.B. Du Bois (The Crisis) demands a Renaissance of truth, exposing press silences and misrepresentations of Black life, race, and democracy.
+description: "(The Crisis) demands a Renaissance of truth, exposing press silences and misrepresentations of Black life, race, and democracy."
 author:
 - name:
     given: W.E.B.

@@ -1,6 +1,6 @@
 ---
 title: 'Attention'
-description: "W.E.B. Du Bois in The Crisis (1918) calls on educated Black men to join the 92nd Division's field artillery, filling technical, leadership, and labor roles."
+description: "Calls on educated Black men to join the 92nd Division's field artillery, filling technical, leadership, and labor roles."
 author:
   - name:
       given: W.E.B.

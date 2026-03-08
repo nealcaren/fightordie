@@ -1,6 +1,6 @@
 ---
 title: 'Negro'
-description: "In 1914 W.E.B. Du Bois in The Crisis argues that capitalizing Negro asserts racial respect and public recognition against dismissive usage."
+description: "Argues that capitalizing Negro asserts racial respect and public recognition against dismissive usage."
 author:
   - name:
       given: W.E.B.

@@ -1,6 +1,6 @@
 ---
 title: Disenfranchisement
-description: W.E.B. Du Bois argues in The Crisis (1926) that Southern disenfranchisement of Black voters undermines democracy and fuels white supremacy.
+description: "Argues in The Crisis (1926) that Southern disenfranchisement of Black voters undermines democracy and fuels white supremacy."
 author:
 - name:
     given: W.E.B.

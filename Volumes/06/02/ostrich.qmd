@@ -1,6 +1,6 @@
 ---
 title: Education
-description: In The Crisis (1913), W.E.B. Du Bois urges Americans to confront the race problem through education and hard knowledge, not cowardly denial.
+description: "Urges Americans to confront the race problem through education and hard knowledge, not cowardly denial."
 author:
 - name:
     given: W.E.B.

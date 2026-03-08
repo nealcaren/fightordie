@@ -1,6 +1,6 @@
 ---
 title: 'The Pageant'
-description: "W.E.B. Du Bois in The Crisis (1916) depicts a 1,250‑person Pageant marking the AME Church centennial and asserting Black civic pride."
+description: "Depicts a 1,250‑person Pageant marking the AME Church centennial and asserting Black civic pride."
 author:
   - name:
       given: W.E.B.

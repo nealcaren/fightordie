@@ -1,6 +1,6 @@
 ---
 title: 'Books'
-description: "In this 1926 The Crisis review W.E.B. Du Bois condemns Carl Van Vechten’s Nigger Heaven as a false, demeaning portrait of Harlem and Black life."
+description: "Condemns Carl Van Vechten’s Nigger Heaven as a false, demeaning portrait of Harlem and Black life."
 author:
   - name:
       given: W.E.B.

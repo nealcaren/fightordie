@@ -1,6 +1,6 @@
 ---
 title: 'Optimism'
-description: "In 1927 W.E.B. Du Bois in The Crisis rejects naive optimism, celebrates Black self-assertion in race, education, labor, arts, and legal progress."
+description: "Rejects naive optimism, celebrates Black self-assertion in race, education, labor, arts, and legal progress."
 author:
   - name:
       given: W.E.B.

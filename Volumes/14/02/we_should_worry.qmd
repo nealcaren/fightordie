@@ -1,6 +1,6 @@
 ---
 title: We Should Worry
-description: 'W.E.B. Du Bois in The Crisis (1917) warns white leaders: Black military service or mass industrial migration will boost Black labor power and curb lynching'
+description: "Warns white leaders: Black military service or mass industrial migration will boost Black labor power and curb lynching"
 author:
 - name:
     given: W.E.B.

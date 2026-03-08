@@ -1,6 +1,6 @@
 ---
 title: 'Soldiers'
-description: "W.E.B. Du Bois in The Crisis (1920) condemns Army racial exclusion, urging organized Black units and Negro officers to secure military equality."
+description: "Condemns Army racial exclusion, urging organized Black units and Negro officers to secure military equality."
 author:
   - name:
       given: W.E.B.

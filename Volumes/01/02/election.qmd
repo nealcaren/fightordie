@@ -1,6 +1,6 @@
 ---
 title: 'The Election'
-description: "W.E.B. Du Bois, The Crisis (1910), critiques Black voters' Democratic shift, urging Democrats to defend racial equality and reject reactionary, oppressive laws."
+description: "Critiques Black voters' Democratic shift, urging Democrats to defend racial equality and reject reactionary, oppressive laws."
 author:
   - name:
       given: W.E.B.

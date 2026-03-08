@@ -1,6 +1,6 @@
 ---
 title: 'The Flood, the Red Cross and the National Guard'
-description: "W.E.B. Du Bois reveals in The Crisis 1928 how 1927 Mississippi flood relief, guided by Red Cross and National Guard, exploited Black labor and spurred migration."
+description: "Reveals in The Crisis 1928 how 1927 Mississippi flood relief, guided by Red Cross and National Guard, exploited Black labor and spurred migration."
 author:
   - name:
       given: W.E.B.

@@ -1,6 +1,6 @@
 ---
 title: 'Education'
-description: "In The Crisis (1911), W.E.B. Du Bois exposes systemic racial injustice in education, citing stark attendance, funding, and term-length disparities."
+description: "Exposes systemic racial injustice in education, citing stark attendance, funding, and term-length disparities."
 author:
   - name:
       given: W.E.B.

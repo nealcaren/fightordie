@@ -1,6 +1,6 @@
 ---
 title: 'Joseph Pulitzer'
-description: "W.E.B. Du Bois in The Crisis (1911) analyzes Joseph Pulitzer, noting the New York World's fair treatment of Black Americans amid harsh press rivalries."
+description: "Analyzes Joseph Pulitzer, noting the New York World's fair treatment of Black Americans amid harsh press rivalries."
 author:
   - name:
       given: W.E.B.

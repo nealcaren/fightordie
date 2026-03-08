@@ -1,6 +1,6 @@
 ---
 title: Hyde Park
-description: W.E.B. Du Bois in The Crisis (1920) condemns white real-estate schemes enforcing racial segregation in Hyde Park and urges Black property ownership.
+description: "Condemns white real-estate schemes enforcing racial segregation in Hyde Park and urges Black property ownership."
 author:
 - name:
     given: W.E.B.

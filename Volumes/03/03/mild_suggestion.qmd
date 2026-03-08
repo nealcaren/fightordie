@@ -1,6 +1,6 @@
 ---
 title: 'A Mild Suggestion'
-description: "W.E.B. Du Bois presents a biting satirical dialogue in The Crisis (Jan 1912) examining 'solutions' to the Negro problem, contrasting reform talk with violence."
+description: "Presents a biting satirical dialogue in The Crisis (Jan 1912) examining 'solutions' to the Negro problem, contrasting reform talk with violence."
 author:
   - name:
       given: W.E.B.

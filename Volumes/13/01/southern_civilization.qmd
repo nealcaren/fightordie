@@ -1,6 +1,6 @@
 ---
 title: 'Southern Civilization'
-description: "In 1916 The Crisis, W.E.B. Du Bois condemns Southern oligarchy for lynching, disfranchisement, and opposing national suffrage to preserve white supremacy."
+description: "Condemns Southern oligarchy for lynching, disfranchisement, and opposing national suffrage to preserve white supremacy."
 author:
   - name:
       given: W.E.B.

@@ -1,6 +1,6 @@
 ---
 title: 'Of Cold Feet'
-description: "W.E.B. Du Bois in The Crisis (1921) condemns patriotic bluster and cowardly refusal to protest a libelous film, a moral critique of civic duty and race."
+description: "Condemns patriotic bluster and cowardly refusal to protest a libelous film, a moral critique of civic duty and race."
 author:
   - name:
       given: W.E.B.

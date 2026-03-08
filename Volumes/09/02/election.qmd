@@ -1,6 +1,6 @@
 ---
 title: The Election
-description: In 1914 W.E.B. Du Bois in The Crisis criticizes parties for ignoring 500,000 Black voters, arguing race and democracy force political reckoning.
+description: "Criticizes parties for ignoring 500,000 Black voters, arguing race and democracy force political reckoning."
 author:
 - name:
     given: W.E.B.

@@ -1,6 +1,6 @@
 ---
 title: 'Hayti'
-description: "In 1915 W.E.B. Du Bois in The Crisis urges America to save Hayti, defend Black sovereignty and democracy, and oppose imperialist graft."
+description: "Urges America to save Hayti, defend Black sovereignty and democracy, and oppose imperialist graft."
 author:
   - name:
       given: W.E.B.

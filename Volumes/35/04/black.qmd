@@ -1,6 +1,6 @@
 ---
 title: 'The House of the Black Burghardts'
-description: "W.E.B. Du Bois reflects in The Crisis (1928) on the House of the Black Burghardts, memory, and Black family roots in rural New England amid loss and longing."
+description: "Reflects in The Crisis (1928) on the House of the Black Burghardts, memory, and Black family roots in rural New England amid loss and longing."
 author:
   - name:
       given: W.E.B.

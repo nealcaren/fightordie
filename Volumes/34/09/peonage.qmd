@@ -1,6 +1,6 @@
 ---
 title: 'Peonage'
-description: "In 1927 The Crisis, W.E.B. Du Bois condemns a Hoover-appointed probe for likely whitewashing peonage in the Mississippi Valley and demands enforcement of rights"
+description: "Condemns a Hoover-appointed probe for likely whitewashing peonage in the Mississippi Valley and demands enforcement of rights"
 author:
   - name:
       given: W.E.B.

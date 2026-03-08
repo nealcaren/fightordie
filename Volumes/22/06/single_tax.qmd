@@ -1,6 +1,6 @@
 ---
 title: 'The Single Tax'
-description: "W.E.B. Du Bois in The Crisis (1921) argues land monopoly fuels economic injustice and urges Henry George’s single tax to defend labor and democracy."
+description: "Argues land monopoly fuels economic injustice and urges Henry George’s single tax to defend labor and democracy."
 author:
   - name:
       given: W.E.B.

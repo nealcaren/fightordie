@@ -1,6 +1,6 @@
 ---
 title: Haiti
-description: In a 1915 essay in The Crisis W.E.B. Du Bois exposes U.S. intervention in Haiti as racial domination, linking State Dept. policy to lynching and white supremacy.
+description: "Exposes U.S. intervention in Haiti as racial domination, linking State Dept. policy to lynching and white supremacy."
 author:
 - name:
     given: W.E.B.

@@ -1,6 +1,6 @@
 ---
 title: 'For What'
-description: "In a 1919 The Crisis piece, W.E.B. Du Bois contrasts Parisian decency with U.S. racism and urges Black Americans to join European democracy."
+description: "Contrasts Parisian decency with U.S. racism and urges Black Americans to join European democracy."
 author:
   - name:
       given: W.E.B.

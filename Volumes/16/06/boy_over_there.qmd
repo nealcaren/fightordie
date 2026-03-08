@@ -1,6 +1,6 @@
 ---
 title: 'The Boy Over There'
-description: "In 1918 W.E.B. Du Bois in The Crisis mourns Black youth lost in WWI and calls the race to support its soldiers, condemning neglect and moral cowardice."
+description: "Mourns Black youth lost in WWI and calls the race to support its soldiers, condemning neglect and moral cowardice."
 author:
   - name:
       given: W.E.B.

@@ -1,6 +1,6 @@
 ---
 title: 'Patriotism'
-description: "W.E.B. Du Bois in The Crisis (1919) argues WWI forged a new patriotism—Americans now fight for democracy, justice, and labor rights."
+description: "Argues WWI forged a new patriotism—Americans now fight for democracy, justice, and labor rights."
 author:
   - name:
       given: W.E.B.

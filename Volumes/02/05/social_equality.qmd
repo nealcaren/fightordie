@@ -1,6 +1,6 @@
 ---
 title: 'Social Equality'
-description: "W.E.B. Du Bois in The Crisis (1911) insists social equality is essential to civil and political rights and condemns Black leaders' acceptance of pariah status."
+description: "Insists social equality is essential to civil and political rights and condemns Black leaders' acceptance of pariah status."
 author:
   - name:
       given: W.E.B.

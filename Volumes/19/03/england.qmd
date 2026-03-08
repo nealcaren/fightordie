@@ -1,6 +1,6 @@
 ---
 title: 'England'
-description: "In The Crisis (1920), W.E.B. Du Bois condemns English imperialism, exposing racial injustice and economic plunder and urging independence and self-rule."
+description: "Condemns English imperialism, exposing racial injustice and economic plunder and urging independence and self-rule."
 author:
   - name:
       given: W.E.B.

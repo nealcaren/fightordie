@@ -1,6 +1,6 @@
 ---
 title: 'The Clansman'
-description: "W.E.B. Du Bois in The Crisis (1913) denounces Dixon's The Clansman as racist propaganda that falsifies history and urges suppression to defend racial justice."
+description: "Denounces Dixon's The Clansman as racist propaganda that falsifies history and urges suppression to defend racial justice."
 author:
   - name:
       given: W.E.B.

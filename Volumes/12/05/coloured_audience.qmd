@@ -1,6 +1,6 @@
 ---
 title: 'The Colored Audience'
-description: "W.E.B. Du Bois in The Crisis (1916) urges Black audiences to cultivate intelligent appreciation, linking race, culture and education to uplift colored theater."
+description: "Urges Black audiences to cultivate intelligent appreciation, linking race, culture and education to uplift colored theater."
 author:
   - name:
       given: W.E.B.

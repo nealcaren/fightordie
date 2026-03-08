@@ -1,6 +1,6 @@
 ---
 title: An Essay Toward a History of the Black Man in the Great War
-description: W.E.B. Du Bois in The Crisis (1919) chronicles Black soldiers' WWI service—labor, leadership struggles, and racial injustice challenging American democracy.
+description: "Chronicles Black soldiers' WWI service—labor, leadership struggles, and racial injustice challenging American democracy."
 author:
 - name:
     given: W.E.B.

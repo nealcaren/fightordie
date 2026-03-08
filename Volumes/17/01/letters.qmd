@@ -1,6 +1,6 @@
 ---
 title: Letters
-description: In 1919 The Crisis, W.E.B. Du Bois urges southern white women to challenge disfranchisement, Jim Crow, lynching, and racial inequality in education and labor.
+description: "Urges southern white women to challenge disfranchisement, Jim Crow, lynching, and racial inequality in education and labor."
 author:
 - name:
     given: W.E.B.

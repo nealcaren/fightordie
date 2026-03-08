@@ -1,6 +1,6 @@
 ---
 title: Lynching
-description: W.E.B. Du Bois in The Crisis (1928) exposes lynching as a political crime, showing a Florida photograph that reveals white supremacy and state violence.
+description: "Exposes lynching as a political crime, showing a Florida photograph that reveals white supremacy and state violence."
 author:
 - name:
     given: W.E.B.

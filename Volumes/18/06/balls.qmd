@@ -1,6 +1,6 @@
 ---
 title: 'Balls'
-description: "W.E.B. Du Bois in The Crisis (1919) celebrates Black social balls as vibrant displays of race, culture, and community pride that challenge racial stereotypes."
+description: "Celebrates Black social balls as vibrant displays of race, culture, and community pride that challenge racial stereotypes."
 author:
   - name:
       given: W.E.B.

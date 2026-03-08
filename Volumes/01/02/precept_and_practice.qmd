@@ -1,6 +1,6 @@
 ---
 title: 'Precept and Practice'
-description: "In 1910 The Crisis, W.E.B. Du Bois condemns liberal hypocrisy as theatergoers applaud racial heroism yet permit restaurant discrimination."
+description: "Condemns liberal hypocrisy as theatergoers applaud racial heroism yet permit restaurant discrimination."
 author:
   - name:
       given: W.E.B.

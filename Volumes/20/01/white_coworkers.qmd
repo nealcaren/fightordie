@@ -1,6 +1,6 @@
 ---
 title: White Co-Workers
-description: In 1920 W.E.B. Du Bois in The Crisis defends interracial NAACP leadership, arguing cooperation with whites advances racial justice and American democracy.
+description: "Defends interracial NAACP leadership, arguing cooperation with whites advances racial justice and American democracy."
 author:
 - name:
     given: W.E.B.

@@ -1,6 +1,6 @@
 ---
 title: My Mission
-description: W.E.B. Du Bois in The Crisis (1919) recounts organizing a Pan‑African Congress in Paris to press race, rights and League of Nations action for Black democracy.
+description: "Recounts organizing a Pan‑African Congress in Paris to press race, rights and League of Nations action for Black democracy."
 author:
 - name:
     given: W.E.B.

@@ -1,6 +1,6 @@
 ---
 title: 'And Now Liberia'
-description: "In 1920 The Crisis, W.E.B. Du Bois denounces Wilson Plan as financial imperialism, rigid US terms and white control threaten Liberian sovereignty and democracy."
+description: "Denounces Wilson Plan as financial imperialism, rigid US terms and white control threaten Liberian sovereignty and democracy."
 author:
   - name:
       given: W.E.B.

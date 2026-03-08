@@ -1,6 +1,6 @@
 ---
 title: 'Manifesto to the League of Nations'
-description: "W.E.B. Du Bois in The Crisis 1921 asks the League of Nations to affirm racial equality, study Negro labor, and appoint Black members to Mandates Commission."
+description: "1921 asks the League of Nations to affirm racial equality, study Negro labor, and appoint Black members to Mandates Commission."
 author:
   - name:
       given: W.E.B.

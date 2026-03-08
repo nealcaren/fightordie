@@ -1,6 +1,6 @@
 ---
 title: 'Reconstruction'
-description: "W.E.B. Du Bois in The Crisis (1919) calls for Negro reconstruction: integrate schools, build church-led economic co-ops, expand Black labor and political power."
+description: "Calls for Negro reconstruction: integrate schools, build church-led economic co-ops, expand Black labor and political power."
 author:
   - name:
       given: W.E.B.

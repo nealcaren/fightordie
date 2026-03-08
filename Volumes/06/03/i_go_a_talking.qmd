@@ -1,6 +1,6 @@
 ---
 title: I Go A-Talking
-description: W.E.B. Du Bois in The Crisis (1913) chronicles a 7,000-mile tour, documenting Black communities, exposing Jim Crow segregation, and urging racial uplift.
+description: "Chronicles a 7,000-mile tour, documenting Black communities, exposing Jim Crow segregation, and urging racial uplift."
 author:
 - name:
     given: W.E.B.

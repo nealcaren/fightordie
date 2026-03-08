@@ -1,6 +1,6 @@
 ---
 title: 'The Negro Citizen'
-description: "W.E.B. Du Bois in The Crisis (1929) argues that Black political power—secure voting rights—is essential to democracy, education, labor and racial justice."
+description: "Argues that Black political power—secure voting rights—is essential to democracy, education, labor and racial justice."
 author:
   - name:
       given: W.E.B.

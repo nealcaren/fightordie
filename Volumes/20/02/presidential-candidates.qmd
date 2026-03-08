@@ -1,6 +1,6 @@
 ---
 title: Presidential Candidates
-description: '1920: W.E.B. Du Bois in The Crisis catalogs 17 presidential candidates'' stances on lynching, Jim Crow, schools and voting—exposing political silence.'
+description: "Catalogs 17 presidential candidates'' stances on lynching, Jim Crow, schools and voting—exposing political silence."
 author:
 - name:
     given: W.E.B.

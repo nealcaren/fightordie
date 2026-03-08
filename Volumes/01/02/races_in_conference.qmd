@@ -1,6 +1,6 @@
 ---
 title: 'The Races in Conference'
-description: "W.E.B. Du Bois in The Crisis (1910) urges the Universal Races Congress to create interracial contact, tolerance, and a true democracy of races."
+description: "Urges the Universal Races Congress to create interracial contact, tolerance, and a true democracy of races."
 author:
   - name:
       given: W.E.B.

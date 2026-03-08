@@ -1,6 +1,6 @@
 ---
 title: 'India'
-description: "W.E.B. Du Bois in The Crisis (1930) condemns British imperialism, lauds India’s mass nonviolent struggle and warns its success could reshape global democracy."
+description: "Condemns British imperialism, lauds India’s mass nonviolent struggle and warns its success could reshape global democracy."
 author:
   - name:
       given: W.E.B.

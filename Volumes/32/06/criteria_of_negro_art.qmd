@@ -1,6 +1,6 @@
 ---
 title: 'Criteria of Negro Art'
-description: "W.E.B. Du Bois, The Crisis, 1926: He argues Black art must fuse Truth, Beauty, and Justice as a force for democracy and freedom from white gatekeepers."
+description: "1926: He argues Black art must fuse Truth, Beauty, and Justice as a force for democracy and freedom from white gatekeepers."
 author:
   - name:
       given: W.E.B.

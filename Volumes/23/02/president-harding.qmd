@@ -1,6 +1,6 @@
 ---
 title: President Harding and Social Equality
-description: W.E.B. Du Bois in The Crisis (1921) condemns Harding's attack on social equality, defends racial equality, education and democracy; warns against segregation.
+description: "Condemns Harding's attack on social equality, defends racial equality, education and democracy; warns against segregation."
 author:
 - name:
     given: W.E.B.

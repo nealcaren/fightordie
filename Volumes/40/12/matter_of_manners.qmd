@@ -1,6 +1,6 @@
 ---
 title: A Matter of Manners
-description: W.E.B. Du Bois in The Crisis (1933) criticizes how Southern racial insults erode Black manners and urges reclaiming courtesy as dignity and self-respect.
+description: "Criticizes how Southern racial insults erode Black manners and urges reclaiming courtesy as dignity and self-respect."
 author:
 - name:
     given: W.E.B.

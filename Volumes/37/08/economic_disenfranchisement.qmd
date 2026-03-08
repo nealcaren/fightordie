@@ -1,6 +1,6 @@
 ---
 title: Economic Disenfranchisement
-description: In 1930 W.E.B. Du Bois in The Crisis argues industrial disfranchisement bars Black labor and urges public ownership to secure racial democracy and fair work.
+description: "Argues industrial disfranchisement bars Black labor and urges public ownership to secure racial democracy and fair work."
 author:
 - name:
     given: W.E.B.

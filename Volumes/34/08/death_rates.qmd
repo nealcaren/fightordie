@@ -1,6 +1,6 @@
 ---
 title: 'Death Rates'
-description: "W.E.B. Du Bois in The Crisis (1927) argues we must compare Black mortality to its past, not whites, showing major health gains and reduced infant deaths."
+description: "Argues we must compare Black mortality to its past, not whites, showing major health gains and reduced infant deaths."
 author:
   - name:
       given: W.E.B.

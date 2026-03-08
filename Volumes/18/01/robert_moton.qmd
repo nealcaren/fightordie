@@ -1,6 +1,6 @@
 ---
 title: Robert R. Moton
-description: W.E.B. Du Bois in The Crisis (1919) criticizes R.R. Moton for sidelining Black troops, abandoning Pan-African work, and enabling racial deference.
+description: "Criticizes R.R. Moton for sidelining Black troops, abandoning Pan-African work, and enabling racial deference."
 author:
 - name:
     given: W.E.B.

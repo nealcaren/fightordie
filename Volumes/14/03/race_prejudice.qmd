@@ -1,6 +1,6 @@
 ---
 title: Promoting Race Prejudice
-description: '1917: W.E.B. Du Bois in The Crisis exposes everyday race prejudice—petty slurs, institutional exclusions and government racial categories undermining democracy'
+description: "Exposes everyday race prejudice—petty slurs, institutional exclusions and government racial categories undermining democracy"
 author:
 - name:
     given: W.E.B.

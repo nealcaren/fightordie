@@ -1,6 +1,6 @@
 ---
 title: 'Courts and Jails'
-description: "In The Crisis (1932), W.E.B. Du Bois condemns Black churches' and charities' neglect of incarcerated Black people and exposes race-based injustice in courts."
+description: "Condemns Black churches' and charities' neglect of incarcerated Black people and exposes race-based injustice in courts."
 author:
   - name:
       given: W.E.B.

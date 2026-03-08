@@ -1,6 +1,6 @@
 ---
 title: 'Christmas Gift'
-description: "W.E.B. Du Bois, in The Crisis (1911), calls the 1911 vote a Christmas gift for Black voters, detailing disenfranchisement battles and political leverage."
+description: "Calls the 1911 vote a Christmas gift for Black voters, detailing disenfranchisement battles and political leverage."
 author:
   - name:
       given: W.E.B.

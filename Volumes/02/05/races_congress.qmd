@@ -1,6 +1,6 @@
 ---
 title: 'The Races in Congress'
-description: "In 1911 W.E.B. Du Bois in The Crisis reports on the First Universal Races Congress, urging education, interracial understanding, and global action on race."
+description: "Reports on the First Universal Races Congress, urging education, interracial understanding, and global action on race."
 author:
   - name:
       given: W.E.B.

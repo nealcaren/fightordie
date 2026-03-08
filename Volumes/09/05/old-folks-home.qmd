@@ -1,6 +1,6 @@
 ---
 title: 'An Old Folks'' Home'
-description: "W.E.B. Du Bois in The Crisis (1915) documents Black-led charity: race-based philanthropy and old-folks' homes sustaining elders while urging public support."
+description: "Documents Black-led charity: race-based philanthropy and old-folks' homes sustaining elders while urging public support."
 author:
   - name:
       given: W.E.B.

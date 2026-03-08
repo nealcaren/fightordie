@@ -1,6 +1,6 @@
 ---
 title: The Chicago Debate
-description: In 1929 W.E.B. Du Bois in The Crisis rebukes racialist arguments, defending cultural equality and arguing social equality is civilized and inevitable.
+description: "Rebukes racialist arguments, defending cultural equality and arguing social equality is civilized and inevitable."
 author:
 - name:
     given: W.E.B.

@@ -1,6 +1,6 @@
 ---
 title: Pechstein and Pecksniff
-description: W.E.B. Du Bois in The Crisis (1929) condemns calls for segregated schools, arguing segregation undermines democracy, education and fosters racial caste.
+description: "Condemns calls for segregated schools, arguing segregation undermines democracy, education and fosters racial caste."
 author:
 - name:
     given: W.E.B.

@@ -1,6 +1,6 @@
 ---
 title: 'Exclusion'
-description: "W.E.B. Du Bois, in The Crisis (1928), reveals how racial exclusion in higher learning mocks democracy and Christianity, and exposes the harm of exclusion."
+description: "Reveals how racial exclusion in higher learning mocks democracy and Christianity, and exposes the harm of exclusion."
 author:
   - name:
       given: W.E.B.

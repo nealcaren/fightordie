@@ -1,6 +1,6 @@
 ---
 title: 'The Servant in the South'
-description: "W.E.B. Du Bois, in The Crisis (1912), shows how Southern house service exploits Black labor with low pay and abuse, urging dignity, fair wages, and reform."
+description: "Shows how Southern house service exploits Black labor with low pay and abuse, urging dignity, fair wages, and reform."
 author:
   - name:
       given: W.E.B.

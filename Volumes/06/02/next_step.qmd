@@ -1,6 +1,6 @@
 ---
 title: 'The Next Step'
-description: "W.E.B. Du Bois in The Crisis (1913) urges lasting NAACP organization to track and defeat anti-Black intermarriage bill sponsors at primaries."
+description: "Urges lasting NAACP organization to track and defeat anti-Black intermarriage bill sponsors at primaries."
 author:
   - name:
       given: W.E.B.

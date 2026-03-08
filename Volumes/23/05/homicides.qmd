@@ -1,6 +1,6 @@
 ---
 title: 'Homicides'
-description: "In 1921 The Crisis, W.E.B. Du Bois denounces racist propaganda that twists homicide statistics to blame Black people while Black lives are murdered."
+description: "Denounces racist propaganda that twists homicide statistics to blame Black people while Black lives are murdered."
 author:
   - name:
       given: W.E.B.

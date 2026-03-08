@@ -1,6 +1,6 @@
 ---
 title: Votes for Negroes
-description: W.E.B. Du Bois in The Crisis (1921) denounces Bourbon South racism and urges Black enfranchisement as the cornerstone of democracy against lynching.
+description: "Denounces Bourbon South racism and urges Black enfranchisement as the cornerstone of democracy against lynching."
 author:
 - name:
     given: W.E.B.

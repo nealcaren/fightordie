@@ -1,6 +1,6 @@
 ---
 title: How Shall We Vote
-description: In The Crisis 1920, W.E.B. Du Bois warns GOP and Democrats uphold Jim Crow; urges Black voters to elect congressional allies to defend race and democracy.
+description: "Warns GOP and Democrats uphold Jim Crow; urges Black voters to elect congressional allies to defend race and democracy."
 author:
 - name:
     given: W.E.B.

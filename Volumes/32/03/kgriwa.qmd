@@ -1,6 +1,6 @@
 ---
 title: '''Krigwa Players Little Negro Theatre'''
-description: "W.E.B. Du Bois, in The Crisis (1926), argues for a new Negro theatre—by us, for us, near us—rooted in Harlem and advancing race democracy through art."
+description: "Argues for a new Negro theatre—by us, for us, near us—rooted in Harlem and advancing race democracy through art."
 subtitle: The Story of a Little Theatre Movement
 author:
   - name:

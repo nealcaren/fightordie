@@ -1,6 +1,6 @@
 ---
 title: 'Blessed Discrimination'
-description: "1913: W.E.B. Du Bois in The Crisis argues that racial discrimination cripples education, business and health — it harms Black progress, not aids it."
+description: "Argues that racial discrimination cripples education, business and health — it harms Black progress, not aids it."
 author:
   - name:
       given: W.E.B.

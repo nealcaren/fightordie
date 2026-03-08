@@ -1,6 +1,6 @@
 ---
 title: 'A University Course in Lynching'
-description: "In 1923 W.E.B. Du Bois in The Crisis condemns university 'courses' that normalize lynching, exposing racial injustice and corruption of American education."
+description: "Condemns university 'courses' that normalize lynching, exposing racial injustice and corruption of American education."
 author:
   - name:
       given: W.E.B.

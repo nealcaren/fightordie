@@ -1,6 +1,6 @@
 ---
 title: The Truth
-description: In 1911 W.E.B. Du Bois in The Crisis urges telling the full truth about race and Southern injustice, warning that silence fuels oppression.
+description: "Urges telling the full truth about race and Southern injustice, warning that silence fuels oppression."
 author:
 - name:
     given: W.E.B.

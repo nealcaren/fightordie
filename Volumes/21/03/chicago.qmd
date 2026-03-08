@@ -1,6 +1,6 @@
 ---
 title: Chicago
-description: W.E.B. Du Bois in The Crisis (1921) warns that Illinois' Inter-Racial Commission masks a segregation agenda, using questionnaires to trap Black leaders.
+description: "Warns that Illinois' Inter-Racial Commission masks a segregation agenda, using questionnaires to trap Black leaders."
 author:
 - name:
     given: W.E.B.

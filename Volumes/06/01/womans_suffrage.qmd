@@ -1,6 +1,6 @@
 ---
 title: 'Woman''s Suffrage'
-description: "In The Crisis (1913), W.E.B. Du Bois celebrates defeats of the color line in women's suffrage and urges Black men and women to fight for a race-blind democracy."
+description: "Celebrates defeats of the color line in women's suffrage and urges Black men and women to fight for a race-blind democracy."
 author:
   - name:
       given: W.E.B.

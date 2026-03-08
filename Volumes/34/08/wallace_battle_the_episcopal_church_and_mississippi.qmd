@@ -1,6 +1,6 @@
 ---
 title: 'Wallace Battle, the Episcopal Church and Mississippi: A Story of Suppressed Truth'
-description: "1927: W.E.B. Du Bois in The Crisis exposes Episcopal Church suppression of news about a Mississippi school's murder, indicting racial injustice and betrayal of education"
+description: "Exposes Episcopal Church suppression of news about a Mississippi school's murder, indicting racial injustice and betrayal of education"
 author:
   - name:
       given: W.E.B.

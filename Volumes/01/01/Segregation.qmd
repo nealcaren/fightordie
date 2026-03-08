@@ -1,6 +1,6 @@
 ---
 title: 'Segregation'
-description: "In the 1910 Crisis, W.E.B. Du Bois condemns school segregation as anti-democratic, arguing race-based separation degrades education and shirks public duty."
+description: "Condemns school segregation as anti-democratic, arguing race-based separation degrades education and shirks public duty."
 author:
   - name:
       given: W.E.B.

@@ -1,6 +1,6 @@
 ---
 title: 'Westward Ho'
-description: "W.E.B. Du Bois in The Crisis (1934) argues Midwest adult education fosters democracy, reduces race prejudice, yet demands active resistance to segregation."
+description: "Argues Midwest adult education fosters democracy, reduces race prejudice, yet demands active resistance to segregation."
 author:
   - name:
       given: W.E.B.

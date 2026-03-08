@@ -1,6 +1,6 @@
 ---
 title: Mr. Roosevelt
-description: W.E.B. Du Bois, in The Crisis (1912), exposes Theodore Roosevelt’s racism toward Black Americans and argues for equal rights, voting, and democracy.
+description: "Exposes Theodore Roosevelt’s racism toward Black Americans and argues for equal rights, voting, and democracy."
 author:
 - name:
     given: W.E.B.

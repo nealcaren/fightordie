@@ -1,6 +1,6 @@
 ---
 title: 'The Fourteenth Amendment'
-description: "W.E.B. Du Bois in The Crisis (1915) urges Congress to enforce the Fourteenth Amendment and reduce Southern representation to protect Black democracy."
+description: "Urges Congress to enforce the Fourteenth Amendment and reduce Southern representation to protect Black democracy."
 author:
   - name:
       given: W.E.B.

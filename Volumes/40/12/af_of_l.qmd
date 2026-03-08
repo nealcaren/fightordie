@@ -1,6 +1,6 @@
 ---
 title: 'The A.F. of L.'
-description: "In 1933 W.E.B. Du Bois in The Crisis denounces the A.F. of L. as a racist, pro-capitalist labor elite that betrays mass labor and democracy."
+description: "Denounces the A.F. of L. as a racist, pro-capitalist labor elite that betrays mass labor and democracy."
 author:
   - name:
       given: W.E.B.

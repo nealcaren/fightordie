@@ -1,6 +1,6 @@
 ---
 title: 'The Non-Partisan Conference'
-description: "In 1932 W.E.B. Du Bois in The Crisis denounces a tepid economic plank, urging Black political power for labor, redistribution and emancipation."
+description: "Denounces a tepid economic plank, urging Black political power for labor, redistribution and emancipation."
 author:
   - name:
       given: W.E.B.

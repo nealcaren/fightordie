@@ -1,6 +1,6 @@
 ---
 title: 'Our Program'
-description: "In The Crisis (1930), W.E.B. Du Bois argues the NAACP fights race-based barriers, and that color discrimination blocks democracy, economic justice, and peace."
+description: "Argues the NAACP fights race-based barriers, and that color discrimination blocks democracy, economic justice, and peace."
 author:
   - name:
       given: W.E.B.

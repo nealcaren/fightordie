@@ -1,6 +1,6 @@
 ---
 title: 'Race Pride'
-description: "In 1920 The Crisis, W.E.B. Du Bois challenges race pride, arguing whites must choose segregation or true democracy and justice for all races."
+description: "Challenges race pride, arguing whites must choose segregation or true democracy and justice for all races."
 author:
   - name:
       given: W.E.B.

@@ -1,6 +1,6 @@
 ---
 title: The Challenge of Detroit
-description: In The Crisis (1925), W.E.B. Du Bois decries Detroit's racial housing violence, exposing how migration, prejudice, and real estate power threaten democracy.
+description: "Decries Detroit's racial housing violence, exposing how migration, prejudice, and real estate power threaten democracy."
 author:
 - name:
     given: W.E.B.

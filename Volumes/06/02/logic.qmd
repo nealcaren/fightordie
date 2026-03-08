@@ -1,6 +1,6 @@
 ---
 title: 'Logic'
-description: "In 1913 W.E.B. Du Bois in The Crisis argues race prejudice inevitably leads to disenfranchisement, lynching, and attacks on Black property and education."
+description: "Argues race prejudice inevitably leads to disenfranchisement, lynching, and attacks on Black property and education."
 author:
   - name:
       given: W.E.B.

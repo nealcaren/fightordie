@@ -1,6 +1,6 @@
 ---
 title: 'The Durbar'
-description: "W.E.B. Du Bois, The Crisis (1912), argues the Indian Durbar yields real concessions won by sustained agitation—education, autonomy, and inclusion—unlike mere honors."
+description: "Argues the Indian Durbar yields real concessions won by sustained agitation—education, autonomy, and inclusion—unlike mere honors."
 author:
   - name:
       given: W.E.B.

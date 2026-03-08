@@ -1,6 +1,6 @@
 ---
 title: Soldiers
-description: In 1919 W.E.B. Du Bois in The Crisis documents Black soldiers' valor abroad and demands equal military rank, commissioned officers, and racial justice at home.
+description: "Documents Black soldiers' valor abroad and demands equal military rank, commissioned officers, and racial justice at home."
 author:
 - name:
     given: W.E.B.

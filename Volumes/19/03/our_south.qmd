@@ -1,6 +1,6 @@
 ---
 title: '"Our" South'
-description: W.E.B. Du Bois in The Crisis (1920) exposes the white South's property myth that denies Black labor rights, education, and a democratic voice.
+description: "Exposes the white South's property myth that denies Black labor rights, education, and a democratic voice."
 author:
 - name:
     given: W.E.B.

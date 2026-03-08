@@ -1,6 +1,6 @@
 ---
 title: 'Segregation'
-description: "In a 1934 Crisis essay W.E.B. Du Bois defends pragmatic battles against segregation, arguing segregated housing can alleviate Black poverty and uplift."
+description: "Defends pragmatic battles against segregation, arguing segregated housing can alleviate Black poverty and uplift."
 author:
   - name:
       given: W.E.B.

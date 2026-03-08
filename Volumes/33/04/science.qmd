@@ -1,6 +1,6 @@
 ---
 title: 'Science'
-description: "In 1927 The Crisis, W.E.B. Du Bois exposes scientific racism in Hirsh's tests, showing biased sampling and unequal education drive alleged race differences."
+description: "Exposes scientific racism in Hirsh's tests, showing biased sampling and unequal education drive alleged race differences."
 author:
   - name:
       given: W.E.B.

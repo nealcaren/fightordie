@@ -1,6 +1,6 @@
 ---
 title: 'It is a Girl'
-description: "In a 1933 essay in The Crisis, W.E.B. Du Bois challenges boy-preference as a relic of barbarism, urging equal opportunity, education and labor for girls."
+description: "Challenges boy-preference as a relic of barbarism, urging equal opportunity, education and labor for girls."
 author:
   - name:
       given: W.E.B.

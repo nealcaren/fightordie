@@ -1,6 +1,6 @@
 ---
 title: 'More Suggestions'
-description: "W.E.B. Du Bois in The Crisis (1917) urges Black industrial cooperation—organize businesses and distribution to create jobs and resist racial inequality."
+description: "Urges Black industrial cooperation—organize businesses and distribution to create jobs and resist racial inequality."
 author:
   - name:
       given: W.E.B.

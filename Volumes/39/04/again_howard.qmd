@@ -1,6 +1,6 @@
 ---
 title: 'Again Howard'
-description: "In 1932 W.E.B. Du Bois in The Crisis denounces sabotage of Howard's finances by trustees and white real-estate interests, urging reform in Black education."
+description: "Denounces sabotage of Howard's finances by trustees and white real-estate interests, urging reform in Black education."
 author:
   - name:
       given: W.E.B.

@@ -1,6 +1,6 @@
 ---
 title: 'Correspondence'
-description: "In 1926 W.E.B. Du Bois in The Crisis defends individuals' right to interracial marriage while analyzing race, assimilation, and group self-respect."
+description: "Defends individuals' right to interracial marriage while analyzing race, assimilation, and group self-respect."
 author:
   - name:
       given: W.E.B.

@@ -1,6 +1,6 @@
 ---
 title: 'Intentions'
-description: "W.E.B. Du Bois in The Crisis (1923) condemns partisan betrayal over the Dyer anti‑lynching bill and urges Black political power, sustained fight for democracy."
+description: "Condemns partisan betrayal over the Dyer anti‑lynching bill and urges Black political power, sustained fight for democracy."
 author:
   - name:
       given: W.E.B.

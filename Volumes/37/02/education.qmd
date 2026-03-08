@@ -1,6 +1,6 @@
 ---
 title: Education
-description: W.E.B. Du Bois in The Crisis (1930) denounces racial inequity in schooling, details funding disparities, and urges federal aid requiring nondiscrimination.
+description: "Denounces racial inequity in schooling, details funding disparities, and urges federal aid requiring nondiscrimination."
 author:
 - name:
     given: W.E.B.

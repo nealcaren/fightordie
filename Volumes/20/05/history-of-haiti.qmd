@@ -1,6 +1,6 @@
 ---
 title: 'The History of Haiti'
-description: "In The Crisis (1920), W.E.B. Du Bois traces Haiti’s revolutionary struggle, showing how race, Black labor, and foreign capital shaped its path to democracy."
+description: "Traces Haiti’s revolutionary struggle, showing how race, Black labor, and foreign capital shaped its path to democracy."
 author:
   - name:
       given: W.E.B.

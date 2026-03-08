@@ -1,6 +1,6 @@
 ---
 title: 'On the Fence'
-description: "W.E.B. Du Bois, in The Crisis (1928), shows Hoover and Smith align on oligarchy and color caste, urging Black voters to back Congress against the color bar."
+description: "Shows Hoover and Smith align on oligarchy and color caste, urging Black voters to back Congress against the color bar."
 author:
   - name:
       given: W.E.B.

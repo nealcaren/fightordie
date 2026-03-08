@@ -1,6 +1,6 @@
 ---
 title: 'The Negro College'
-description: "W.E.B. Du Bois argues in The Crisis (1933) that Negro colleges must root education in Black experience to defend democracy, labor and race rights."
+description: "Argues in The Crisis (1933) that Negro colleges must root education in Black experience to defend democracy, labor and race rights."
 author:
   - name:
       given: W.E.B.

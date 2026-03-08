@@ -1,6 +1,6 @@
 ---
 title: Get Ready
-description: W.E.B. Du Bois in The Crisis (1920) calls on Black Americans to prepare, defend voting rights, and legally resist Southern efforts to disfranchise Black women.
+description: "Calls on Black Americans to prepare, defend voting rights, and legally resist Southern efforts to disfranchise Black women."
 author:
 - name:
     given: W.E.B.

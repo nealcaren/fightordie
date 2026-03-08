@@ -1,6 +1,6 @@
 ---
 title: 'Progress'
-description: "In The Crisis (1920) W.E.B. Du Bois says Black selfhood, education, labor organizing and business enterprise fueled rapid racial progress since emancipation."
+description: "Says Black selfhood, education, labor organizing and business enterprise fueled rapid racial progress since emancipation."
 author:
   - name:
       given: W.E.B.

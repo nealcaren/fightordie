@@ -1,6 +1,6 @@
 ---
 title: 'Howard'
-description: "W.E.B. Du Bois, in The Crisis (1928), exposes bipartisan graft around Perry Howard, condemns black disenfranchisement and threats to democracy."
+description: "Exposes bipartisan graft around Perry Howard, condemns black disenfranchisement and threats to democracy."
 author:
   - name:
       given: W.E.B.

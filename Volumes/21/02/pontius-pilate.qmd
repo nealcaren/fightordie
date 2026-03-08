@@ -1,6 +1,6 @@
 ---
 title: Pontius Pilate
-description: In The Crisis (1920) W.E.B. Du Bois casts Pilate as complicit in racial injustice, condemning lynching and white supremacy’s mockery of justice.
+description: "Casts Pilate as complicit in racial injustice, condemning lynching and white supremacy’s mockery of justice."
 author:
 - name:
     given: W.E.B.

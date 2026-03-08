@@ -1,6 +1,6 @@
 ---
 title: 'Mob Tactics'
-description: "W.E.B. Du Bois in The Crisis (1927) exposes mob tactics: police and mobs criminalize Black Americans, undermine democracy, and urges armed self‑defense."
+description: "Exposes mob tactics: police and mobs criminalize Black Americans, undermine democracy, and urges armed self‑defense."
 author:
   - name:
       given: W.E.B.

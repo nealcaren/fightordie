@@ -1,6 +1,6 @@
 ---
 title: 'Egypt and India'
-description: "In a 1919 article in The Crisis, W.E.B. Du Bois urges Black America's solidarity with colonized India and Egypt, condemning oppression and pleading for justice."
+description: "Urges Black America's solidarity with colonized India and Egypt, condemning oppression and pleading for justice."
 author:
   - name:
       given: W.E.B.

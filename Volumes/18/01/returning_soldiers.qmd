@@ -1,6 +1,6 @@
 ---
 title: Returning Soldiers
-description: W.E.B. Du Bois in The Crisis (1919) returns from war to demand racial justice, condemning lynching, disenfranchisement, and economic theft.
+description: "Returns from war to demand racial justice, condemning lynching, disenfranchisement, and economic theft."
 author:
 - name:
     given: W.E.B.

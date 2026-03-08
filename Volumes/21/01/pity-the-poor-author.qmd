@@ -1,6 +1,6 @@
 ---
 title: 'Pity the Poor Author'
-description: "W.E.B. Du Bois in The Crisis (1920) rebukes those who expect free books, defending authors' labor, costs, and the dignity of literary work."
+description: "Rebukes those who expect free books, defending authors' labor, costs, and the dignity of literary work."
 author:
   - name:
       given: W.E.B.

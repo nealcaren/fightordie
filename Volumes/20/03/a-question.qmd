@@ -1,6 +1,6 @@
 ---
 title: 'A Question'
-description: "1920: W.E.B. Du Bois in The Crisis condemns silence about racial exclusion at conferences, urging public exposure of segregation and moral accountability."
+description: "Condemns silence about racial exclusion at conferences, urging public exposure of segregation and moral accountability."
 author:
   - name:
       given: W.E.B.

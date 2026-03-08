@@ -1,6 +1,6 @@
 ---
 title: 'William Monroe Trotter'
-description: "1934 The Crisis: W.E.B. Du Bois eulogizes Monroe Trotter, lauds his fight against racial segregation, and warns that organized civil-rights unity can prevail."
+description: "Eulogizes Monroe Trotter, lauds his fight against racial segregation, and warns that organized civil-rights unity can prevail."
 author:
   - name:
       given: W.E.B.

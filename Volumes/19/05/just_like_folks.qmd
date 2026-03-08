@@ -4,7 +4,7 @@ title: 'Just Like
 categories:
   - "War & Military"
 ---Folks'
-description: "Du Bois in The Crisis (1920) exposes postwar hypocrisy: U.S. betrayal of democracy, repression of labor and Black veterans, and racial double standards."
+description: "Exposes postwar hypocrisy: U.S. betrayal of democracy, repression of labor and Black veterans, and racial double standards."
 author:
   - name:
       given: W.E.B.

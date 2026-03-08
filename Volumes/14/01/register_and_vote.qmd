@@ -1,6 +1,6 @@
 ---
 title: Register and Vote
-description: W.E.B. Du Bois in The Crisis (1917) urges Black registration and voting to break the white primary, defend democracy, and win schools and civic reforms.
+description: "Urges Black registration and voting to break the white primary, defend democracy, and win schools and civic reforms."
 author:
 - name:
     given: W.E.B.

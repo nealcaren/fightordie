@@ -1,6 +1,6 @@
 ---
 title: 'Peace'
-description: "In a 1919 essay in The Crisis, W.E.B. Du Bois calls for a postwar reckoning—after WWI's blood and terror, nations must choose peace, healing, and democracy."
+description: "Calls for a postwar reckoning—after WWI's blood and terror, nations must choose peace, healing, and democracy."
 author:
   - name:
       given: W.E.B.

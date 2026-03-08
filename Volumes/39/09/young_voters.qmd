@@ -1,6 +1,6 @@
 ---
 title: 'Young Voters'
-description: "W.E.B. Du Bois in The Crisis (1932) urges young Black Southerners to register, organize, and vote to combat racial disenfranchisement and local discrimination."
+description: "Urges young Black Southerners to register, organize, and vote to combat racial disenfranchisement and local discrimination."
 author:
   - name:
       given: W.E.B.

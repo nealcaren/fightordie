@@ -1,6 +1,6 @@
 ---
 title: 'The High School'
-description: "W.E.B. Du Bois in The Crisis (1911) recounts Black St. Louis's fight for a new colored high school—race, civic action, and self-help vs white opposition."
+description: "Recounts Black St. Louis's fight for a new colored high school—race, civic action, and self-help vs white opposition."
 author:
   - name:
       given: W.E.B.

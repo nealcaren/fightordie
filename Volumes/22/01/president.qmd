@@ -1,6 +1,6 @@
 ---
 title: 'The President'
-description: "In 1922's The Crisis, W.E.B. Du Bois denounces Republican race patronage and urges anti-lynching, labor and education reforms to defend democracy."
+description: "Denounces Republican race patronage and urges anti-lynching, labor and education reforms to defend democracy."
 author:
   - name:
       given: W.E.B.

@@ -1,6 +1,6 @@
 ---
 title: 'John Brown'
-description: "W.E.B. Du Bois in The Crisis (1932) denounces a pro-Confederate monument at Harpers Ferry, exposing racialized memory and denial of Black resistance."
+description: "Denounces a pro-Confederate monument at Harpers Ferry, exposing racialized memory and denial of Black resistance."
 author:
   - name:
       given: W.E.B.

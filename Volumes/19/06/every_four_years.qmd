@@ -1,6 +1,6 @@
 ---
 title: Every Four Years
-description: In The Crisis (1920), W.E.B. Du Bois denounces the Republican Party for buying Southern delegates, betraying Black leaders and enabling disfranchisement.
+description: "Denounces the Republican Party for buying Southern delegates, betraying Black leaders and enabling disfranchisement."
 author:
 - name:
     given: W.E.B.

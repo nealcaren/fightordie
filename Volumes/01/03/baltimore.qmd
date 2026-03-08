@@ -1,6 +1,6 @@
 ---
 title: 'Jesus Christ in Baltimore'
-description: "1911: W.E.B. Du Bois in The Crisis condemns churches abandoning Black neighborhoods—race and class drive religious flight and moral hypocrisy."
+description: "Condemns churches abandoning Black neighborhoods—race and class drive religious flight and moral hypocrisy."
 author:
   - name:
       given: W.E.B.

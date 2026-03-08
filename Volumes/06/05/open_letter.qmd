@@ -1,6 +1,6 @@
 ---
 title: Another Open Letter to Woodrow Wilson
-description: W.E.B. Du Bois in The Crisis (1913) denounces federal segregation, warns Wilson this assault on race, democracy, and votes will cost political support.
+description: "Denounces federal segregation, warns Wilson this assault on race, democracy, and votes will cost political support."
 author:
 - name:
     given: W.E.B.

@@ -1,6 +1,6 @@
 ---
 title: 'Anti-Lynching Legislation'
-description: "In 1922 in The Crisis, W.E.B. Du Bois defends the NAACP’s focused anti-lynching campaign, warning that splitting efforts harms race justice and freedom."
+description: "Defends the NAACP’s focused anti-lynching campaign, warning that splitting efforts harms race justice and freedom."
 author:
   - name:
       given: W.E.B.

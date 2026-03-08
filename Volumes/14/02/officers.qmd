@@ -1,6 +1,6 @@
 ---
 title: Officers
-description: W.E.B. Du Bois in The Crisis (1917) demands Negro officers and separate training camps to combat military racism and defend Black citizenship.
+description: "Demands Negro officers and separate training camps to combat military racism and defend Black citizenship."
 author:
 - name:
     given: W.E.B.

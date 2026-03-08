@@ -1,6 +1,6 @@
 ---
 title: 'In Black'
-description: "W.E.B. Du Bois in The Crisis (1920) urges Black communities to reject racist caricature, reclaim racial pride, and see beauty in black."
+description: "Urges Black communities to reject racist caricature, reclaim racial pride, and see beauty in black."
 author:
   - name:
       given: W.E.B.

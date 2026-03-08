@@ -1,6 +1,6 @@
 ---
 title: 'The Rise of the West Indian'
-description: "1920: W.E.B. Du Bois in The Crisis shows how rising West Indian migration creates new Black political consciousness, labor demands, and race solidarity."
+description: "Shows how rising West Indian migration creates new Black political consciousness, labor demands, and race solidarity."
 author:
   - name:
       given: W.E.B.

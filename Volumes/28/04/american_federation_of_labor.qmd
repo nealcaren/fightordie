@@ -1,6 +1,6 @@
 ---
 title: To the American Federation of Labor
-description: In 1924's The Crisis, W.E.B. Du Bois warns unions to end racial exclusion and create an Interracial Labor Commission to protect labor rights.
+description: "Warns unions to end racial exclusion and create an Interracial Labor Commission to protect labor rights."
 author:
 - name:
     given: W.E.B.

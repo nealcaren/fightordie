@@ -1,6 +1,6 @@
 ---
 title: 'The Battle of Europe'
-description: "1916 — In The Crisis W.E.B. Du Bois argues WWI exposes Western civilization's brutality, prompting racial pride, democratic change, and cultural renewal."
+description: "Argues WWI exposes Western civilization's brutality, prompting racial pride, democratic change, and cultural renewal."
 author:
   - name:
       given: W.E.B.

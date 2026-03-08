@@ -1,6 +1,6 @@
 ---
 title: 'Reconstruction and Africa'
-description: "W.E.B. Du Bois in The Crisis (1919) exposes European colonial greed and hypocrisy, urging African self-rule and protection of native labor, culture and rights."
+description: "Exposes European colonial greed and hypocrisy, urging African self-rule and protection of native labor, culture and rights."
 author:
   - name:
       given: W.E.B.

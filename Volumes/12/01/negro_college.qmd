@@ -1,6 +1,6 @@
 ---
 title: 'The Pageant'
-description: "W.E.B. Du Bois in The Crisis (1916) spotlights a mass Pageant celebrating the AME Church's centennial, staging Black religious history and racial pride."
+description: "Spotlights a mass Pageant celebrating the AME Church's centennial, staging Black religious history and racial pride."
 author:
   - name:
       given: W.E.B.

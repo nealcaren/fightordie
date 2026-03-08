@@ -1,6 +1,6 @@
 ---
 title: 'Pink Franklin'
-description: "W.E.B. Du Bois in The Crisis (1911) lambastes racial injustice in Pink Franklin's commuted sentence, exposing Southern law bowed to mob prejudice."
+description: "Lambastes racial injustice in Pink Franklin's commuted sentence, exposing Southern law bowed to mob prejudice."
 author:
   - name:
       given: W.E.B.

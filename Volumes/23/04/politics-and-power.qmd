@@ -1,6 +1,6 @@
 ---
 title: 'Politics and Power'
-description: "1921: W.E.B. Du Bois in The Crisis exposes how disfranchisement and racist tax and school policies in Mississippi deny Black education, democracy, and services."
+description: "Exposes how disfranchisement and racist tax and school policies in Mississippi deny Black education, democracy, and services."
 author:
   - name:
       given: W.E.B.

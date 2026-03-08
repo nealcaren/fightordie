@@ -1,6 +1,6 @@
 ---
 title: 'Causes of Lynching'
-description: "W.E.B. Du Bois in The Crisis (1931) links lynching to ignorance, economic exploitation, political exclusion, religious intolerance, and sexual prejudice."
+description: "Links lynching to ignorance, economic exploitation, political exclusion, religious intolerance, and sexual prejudice."
 author:
   - name:
       given: W.E.B.

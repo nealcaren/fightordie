@@ -1,6 +1,6 @@
 ---
 title: 'Naval Ruler'
-description: "In 1917 W.E.B. Du Bois in The Crisis criticizes military imperialism: naval officers govern colonies without training in democratic governance or social needs."
+description: "Criticizes military imperialism: naval officers govern colonies without training in democratic governance or social needs."
 author:
   - name:
       given: W.E.B.

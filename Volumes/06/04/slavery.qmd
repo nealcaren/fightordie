@@ -1,6 +1,6 @@
 ---
 title: 'Slavery'
-description: "In 1913 The Crisis, W.E.B. Du Bois condemns South African slavery and disfranchisement, showing how race and labor deny democracy and human life."
+description: "Condemns South African slavery and disfranchisement, showing how race and labor deny democracy and human life."
 author:
   - name:
       given: W.E.B.

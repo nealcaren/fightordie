@@ -1,6 +1,6 @@
 ---
 title: Counsels of Despair
-description: In The Crisis (1934) W.E.B. Du Bois rejects counsels of despair, urging race uplift through education, institutions, and strategic anti-segregation action.
+description: "Rejects counsels of despair, urging race uplift through education, institutions, and strategic anti-segregation action."
 author:
 - name:
     given: W.E.B.

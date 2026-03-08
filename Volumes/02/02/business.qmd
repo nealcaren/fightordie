@@ -1,6 +1,6 @@
 ---
 title: 'Education'
-description: "In The Crisis (1911), W.E.B. Du Bois argues that education and philanthropy must restrain profit-driven business to preserve labor and democracy."
+description: "Argues that education and philanthropy must restrain profit-driven business to preserve labor and democracy."
 author:
   - name:
       given: W.E.B.

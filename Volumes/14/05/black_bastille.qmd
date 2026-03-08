@@ -1,6 +1,6 @@
 ---
 title: 'The Black Bastille'
-description: "In 1917 in The Crisis, W.E.B. Du Bois condemns America's 'Black Bastille' of racial prejudice that undermines democracy and demands its abolition."
+description: "Condemns America's 'Black Bastille' of racial prejudice that undermines democracy and demands its abolition."
 author:
   - name:
       given: W.E.B.

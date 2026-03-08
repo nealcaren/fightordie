@@ -1,6 +1,6 @@
 ---
 title: 'Thomas Jesse Jones'
-description: "W.E.B. Du Bois (The Crisis, 1921) criticizes T. J. Jones for imposing white control over Black education, missions and leadership, urging Black representation."
+description: "(The Crisis, 1921) criticizes T. J. Jones for imposing white control over Black education, missions and leadership, urging Black representation."
 author:
   - name:
       given: W.E.B.

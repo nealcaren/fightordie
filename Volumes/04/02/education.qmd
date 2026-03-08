@@ -1,6 +1,6 @@
 ---
 title: Education
-description: W.E.B. Du Bois argues in The Crisis (1912) that education should train minds for life, not just trades, urging broad schooling for Black children and democracy.
+description: "Argues in The Crisis (1912) that education should train minds for life, not just trades, urging broad schooling for Black children and democracy."
 author:
 - name:
     given: W.E.B.

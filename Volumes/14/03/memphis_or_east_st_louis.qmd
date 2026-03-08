@@ -1,6 +1,6 @@
 ---
 title: 'Memphis or East St. Louis?'
-description: "1917: W.E.B. Du Bois in The Crisis links lynching, forced labor and union discrimination to Black migration, urging education and federal protection."
+description: "Links lynching, forced labor and union discrimination to Black migration, urging education and federal protection."
 author:
   - name:
       given: W.E.B.

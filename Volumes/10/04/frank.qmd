@@ -1,6 +1,6 @@
 ---
 title: 'Frank'
-description: "In The Crisis (1915), W.E.B. Du Bois condemns Southern racial and religious prejudice and the legal failures that nearly led to Leo Frank's lynching."
+description: "Condemns Southern racial and religious prejudice and the legal failures that nearly led to Leo Frank's lynching."
 author:
   - name:
       given: W.E.B.

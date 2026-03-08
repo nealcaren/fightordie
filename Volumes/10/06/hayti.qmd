@@ -1,6 +1,6 @@
 ---
 title: 'Hayti'
-description: "In 1915 The Crisis W.E.B. Du Bois condemns U.S. intervention in Hayti as racist imperialism, calling citizens to protest and defend sovereignty."
+description: "Condemns U.S. intervention in Hayti as racist imperialism, calling citizens to protest and defend sovereignty."
 author:
   - name:
       given: W.E.B.

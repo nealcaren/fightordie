@@ -1,6 +1,6 @@
 ---
 title: 'The Liberal South'
-description: "In 1921 The Crisis W.E.B. Du Bois challenges the liberal South and urges white leaders to secure Black rights: vote, end Jim‑Crow travel, education, lynching."
+description: "Challenges the liberal South and urges white leaders to secure Black rights: vote, end Jim‑Crow travel, education, lynching."
 author:
   - name:
       given: W.E.B.

@@ -1,6 +1,6 @@
 ---
 title: 'Education'
-description: "W.E.B. Du Bois in The Crisis (1911) urges national education reform, exposing how racial inequality and weak schools betray American democracy."
+description: "Urges national education reform, exposing how racial inequality and weak schools betray American democracy."
 author:
   - name:
       given: W.E.B.

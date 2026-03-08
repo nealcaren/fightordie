@@ -1,6 +1,6 @@
 ---
 title: Houston
-description: W.E.B. Du Bois in The Crisis (1917) exposes racial injustice in Houston, documenting how disarmed Black soldiers fought back and demanding military justice.
+description: "Exposes racial injustice in Houston, documenting how disarmed Black soldiers fought back and demanding military justice."
 author:
 - name:
     given: W.E.B.

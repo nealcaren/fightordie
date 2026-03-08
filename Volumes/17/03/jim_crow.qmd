@@ -1,6 +1,6 @@
 ---
 title: Jim Crow
-description: 'In The Crisis (1919) W.E.B. Du Bois analyzes Jim Crow''s paradox: segregation undermines rights yet spurs Black institutions, urging race unity and prudence.'
+description: "Analyzes Jim Crow''s paradox: segregation undermines rights yet spurs Black institutions, urging race unity and prudence."
 author:
 - name:
     given: W.E.B.

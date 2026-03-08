@@ -1,6 +1,6 @@
 ---
 title: Martyrs
-description: W.E.B. Du Bois in The Crisis (1920) condemns the state executions and life sentences after the Houston Riot, demanding racial justice and pardons.
+description: "Condemns the state executions and life sentences after the Houston Riot, demanding racial justice and pardons."
 author:
 - name:
     given: W.E.B.

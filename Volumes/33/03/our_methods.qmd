@@ -1,6 +1,6 @@
 ---
 title: Our Methods
-description: In The Crisis (1927) W.E.B. Du Bois defends NAACP methods, arguing organized protest and legal action advance racial justice, democracy, and labor rights.
+description: "Defends NAACP methods, arguing organized protest and legal action advance racial justice, democracy, and labor rights."
 author:
 - name:
     given: W.E.B.

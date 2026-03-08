@@ -7,13 +7,12 @@ listing:
   sort: "date desc"
   sort-ui: [date, title, word-count]
   date-format: "YYYY (MMM)"
-  page-size: 25
-  fields: [date, title, description, word-count]
+  page-size: 50
+  fields: [date, title, description, categories]
   filter-ui: true
+  categories: numbered
 ---
 
-## Complete Chronological Archive
+Over 700 of Du Bois's writings from *The Crisis* (1910-1934), with more being added. Use the search box to filter by keyword, or click a category to filter by theme. Click column headers to sort.
 
-All 700+ articles by W.E.B. Du Bois from *The Crisis* (1910-1934). Use the search box to find specific topics, people, or events. Click column headers to sort.
-
-**Tip:** For browsing by era or theme, see the [Browse](browse.qmd) page.
+For thematic browsing with editorial introductions, see the [Browse](browse.qmd) page.

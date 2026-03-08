@@ -1,6 +1,6 @@
 ---
 title: 'Libelous Film'
-description: "W.E.B. Du Bois in The Crisis (1921) attacks The Birth of a Nation as racist libel and records arrests of NAACP protesters defending democracy."
+description: "Attacks The Birth of a Nation as racist libel and records arrests of NAACP protesters defending democracy."
 author:
   - name:
       given: W.E.B.

@@ -1,6 +1,6 @@
 ---
 title: 'Listen, Japan and China'
-description: "W.E.B. Du Bois in The Crisis (1933) urges China and Japan to unite against Western imperialism, claim racial leadership, and defend Asia."
+description: "Urges China and Japan to unite against Western imperialism, claim racial leadership, and defend Asia."
 author:
   - name:
       given: W.E.B.

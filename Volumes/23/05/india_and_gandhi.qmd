@@ -1,6 +1,6 @@
 ---
 title: 'Gandhi and India'
-description: "W.E.B. Du Bois in The Crisis (1921) profiles Gandhi as a moral leader whose nonviolent non-cooperation advances India’s anti-colonial struggle for Swaraj."
+description: "Profiles Gandhi as a moral leader whose nonviolent non-cooperation advances India’s anti-colonial struggle for Swaraj."
 author:
   - name:
       given: W.E.B.

@@ -1,6 +1,6 @@
 ---
 title: 'Other Organizations'
-description: "W.E.B. Du Bois in The Crisis (1915) defends documenting NAACP civil‑rights actions in detail as its organ, while pledging fair coverage of others."
+description: "Defends documenting NAACP civil‑rights actions in detail as its organ, while pledging fair coverage of others."
 author:
   - name:
       given: W.E.B.

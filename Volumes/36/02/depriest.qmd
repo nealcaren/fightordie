@@ -1,6 +1,6 @@
 ---
 title: 'DePriest'
-description: "In a 1929 piece in The Crisis, W.E.B. Du Bois defends Oscar DePriest’s election as a step for Black rights and democracy despite political compromises."
+description: "Defends Oscar DePriest’s election as a step for Black rights and democracy despite political compromises."
 author:
   - name:
       given: W.E.B.

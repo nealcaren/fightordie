@@ -1,6 +1,6 @@
 ---
 title: 'The Harding Political Plan'
-description: "1922 W.E.B. Du Bois in The Crisis condemns Harding's plan to impose white rule and split Black votes, urging voters to protect race, democracy and the Dyer bill."
+description: "Condemns Harding's plan to impose white rule and split Black votes, urging voters to protect race, democracy and the Dyer bill."
 author:
   - name:
       given: W.E.B.

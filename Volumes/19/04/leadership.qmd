@@ -1,6 +1,6 @@
 ---
 title: 'Leadership'
-description: "W.E.B. Du Bois in The Crisis (1920) condemns imperialist leadership - England and Wilson - for betraying democracy, racial justice, and labor in the League."
+description: "Condemns imperialist leadership - England and Wilson - for betraying democracy, racial justice, and labor in the League."
 author:
   - name:
       given: W.E.B.

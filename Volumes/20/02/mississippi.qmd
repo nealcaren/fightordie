@@ -1,6 +1,6 @@
 ---
 title: 'Mississippi'
-description: "W.E.B. Du Bois in The Crisis (1920) documents how Mississippi laws and mobs criminalize race equality, censor Black speech, and enforce vigilante terror."
+description: "Documents how Mississippi laws and mobs criminalize race equality, censor Black speech, and enforce vigilante terror."
 author:
   - name:
       given: W.E.B.

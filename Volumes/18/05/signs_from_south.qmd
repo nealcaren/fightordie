@@ -1,6 +1,6 @@
 ---
 title: 'Signs from the South'
-description: "W.E.B. Du Bois in The Crisis (1919) documents Southern racial violence against Black churches and schools and argues true democracy must include Black citizens."
+description: "Documents Southern racial violence against Black churches and schools and argues true democracy must include Black citizens."
 author:
   - name:
       given: W.E.B.

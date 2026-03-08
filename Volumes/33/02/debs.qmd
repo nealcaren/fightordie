@@ -1,6 +1,6 @@
 ---
 title: 'Eugene Debs'
-description: "In 1926 W.E.B. Du Bois in The Crisis honors Eugene Debs, arguing his labor vision linked race and class—urging interracial labor solidarity for emancipation."
+description: "Honors Eugene Debs, arguing his labor vision linked race and class—urging interracial labor solidarity for emancipation."
 author:
   - name:
       given: W.E.B.

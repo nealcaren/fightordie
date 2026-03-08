@@ -1,6 +1,6 @@
 ---
 title: 'Muddle'
-description: "W.E.B. Du Bois in The Crisis (1916) argues NAACP must teach political education so Black voters demand candidates' positions to defend democracy"
+description: "Argues NAACP must teach political education so Black voters demand candidates' positions to defend democracy"
 author:
   - name:
       given: W.E.B.

@@ -1,6 +1,6 @@
 ---
 title: The Church and the Negro
-description: W.E.B. Du Bois in The Crisis (1913) faults the church for promoting racial injustice, exposing Christian hypocrisy and urging labor, education, moral reform.
+description: "Faults the church for promoting racial injustice, exposing Christian hypocrisy and urging labor, education, moral reform."
 author:
 - name:
     given: W.E.B.

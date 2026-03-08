@@ -1,6 +1,6 @@
 ---
 title: 'Crime'
-description: "W.E.B. Du Bois in The Crisis (1918) condemns white Methodist leaders' bid to expel 350,000 Black members as a racial crime and church hypocrisy."
+description: "Condemns white Methodist leaders' bid to expel 350,000 Black members as a racial crime and church hypocrisy."
 author:
   - name:
       given: W.E.B.

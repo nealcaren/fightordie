@@ -1,6 +1,6 @@
 ---
 title: K.K.K.
-description: In 1922, W.E.B. Du Bois in The Crisis condemns the KKK as cowardly, racist, and lawless, urging the white South to defend democracy and Black rights.
+description: "Condemns the KKK as cowardly, racist, and lawless, urging the white South to defend democracy and Black rights."
 author:
 - name:
     given: W.E.B.

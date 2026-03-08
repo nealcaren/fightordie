@@ -1,6 +1,6 @@
 ---
 title: The Story of Africa
-description: In The Crisis (1914), W.E.B. Du Bois celebrates Africa’s great civilizations and condemns the violence of empire, trade and slavery.
+description: "Celebrates Africa’s great civilizations and condemns the violence of empire, trade and slavery."
 author:
 - name:
     given: W.E.B.

@@ -1,6 +1,6 @@
 ---
 title: 'The Negro Party'
-description: "In a 1916 Crisis essay, W.E.B. Du Bois urges Black voters to form a Negro Party—vote as a unit to win political power and racial justice."
+description: "Urges Black voters to form a Negro Party—vote as a unit to win political power and racial justice."
 author:
   - name:
       given: W.E.B.

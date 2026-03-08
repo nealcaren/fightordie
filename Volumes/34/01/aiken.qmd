@@ -1,6 +1,6 @@
 ---
 title: 'Aiken'
-description: "W.E.B. Du Bois in The Crisis (1927) condemns Aiken's lynchocracy: Klan rule, racial violence, and democratic failure with officials complicit."
+description: "Condemns Aiken's lynchocracy: Klan rule, racial violence, and democratic failure with officials complicit."
 author:
   - name:
       given: W.E.B.

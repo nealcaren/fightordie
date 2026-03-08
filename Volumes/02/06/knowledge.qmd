@@ -1,6 +1,6 @@
 ---
 title: 'Knowledge'
-description: "W.E.B. Du Bois in The Crisis (1911) rebukes Southern \"knowledge,\" using census data on suicide and nervous disease to expose false racial claims."
+description: 'Rebukes Southern \"knowledge,\" using census data on suicide and nervous disease to expose false racial claims.'
 author:
   - name:
       given: W.E.B.

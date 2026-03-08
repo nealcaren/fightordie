@@ -1,6 +1,6 @@
 ---
 title: 'Russia, 1926'
-description: "W.E.B. Du Bois in The Crisis (1926) documents Soviet schools, labor, and mass democracy from Moscow, arguing Russia's revolution reshapes his politics."
+description: "Documents Soviet schools, labor, and mass democracy from Moscow, arguing Russia's revolution reshapes his politics."
 author:
   - name:
       given: W.E.B.

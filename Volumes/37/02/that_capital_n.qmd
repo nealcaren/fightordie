@@ -1,6 +1,6 @@
 ---
 title: 'That Capital ''N'''
-description: "In a 1930 The Crisis essay, W.E.B. Du Bois condemns a Raleigh paper's refusal to capitalize Negro, arguing racial language sustains racial disrespect."
+description: "Condemns a Raleigh paper's refusal to capitalize Negro, arguing racial language sustains racial disrespect."
 author:
   - name:
       given: W.E.B.

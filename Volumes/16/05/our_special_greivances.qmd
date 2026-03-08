@@ -1,6 +1,6 @@
 ---
 title: 'Our Special Grievances'
-description: "W.E.B. Du Bois in The Crisis (1918) praises Black wartime loyalty, urging temporary deference of grievances while demanding eventual full civil rights."
+description: "Praises Black wartime loyalty, urging temporary deference of grievances while demanding eventual full civil rights."
 author:
   - name:
       given: W.E.B.

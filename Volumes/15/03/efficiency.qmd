@@ -1,6 +1,6 @@
 ---
 title: Thirteen
-description: W.E.B. Du Bois in The Crisis (1918) praises the NAACP as the most effective defender of Black civil rights, fighting disenfranchisement, segregation, lynching.
+description: "Praises the NAACP as the most effective defender of Black civil rights, fighting disenfranchisement, segregation, lynching."
 author:
 - name:
     given: W.E.B.

@@ -1,6 +1,6 @@
 ---
 title: 'School'
-description: "W.E.B. Du Bois in The Crisis (1918) urges keeping Black children in school, arguing education — not child labor — ensures racial progress."
+description: "Urges keeping Black children in school, arguing education — not child labor — ensures racial progress."
 author:
   - name:
       given: W.E.B.

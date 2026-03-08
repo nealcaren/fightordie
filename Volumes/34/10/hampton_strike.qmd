@@ -1,6 +1,6 @@
 ---
 title: 'The Hampton Strike'
-description: "In The Crisis (1927) W.E.B. Du Bois condemns Hampton trustees and alumni silencing Black students, saying race and education demand support for student protest."
+description: "Condemns Hampton trustees and alumni silencing Black students, saying race and education demand support for student protest."
 author:
   - name:
       given: W.E.B.

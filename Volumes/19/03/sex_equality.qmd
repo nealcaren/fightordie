@@ -1,6 +1,6 @@
 ---
 title: 'Sex Equality'
-description: "In 1920 The Crisis, W.E.B. Du Bois denounces AG Palmer for calling interracial marriage \"sex equality,\" exposes hypocrisy and defends Black rights to marry."
+description: 'Denounces AG Palmer for calling interracial marriage \"sex equality,\" exposes hypocrisy and defends Black rights to marry.'
 author:
   - name:
       given: W.E.B.

@@ -1,6 +1,6 @@
 ---
 title: 'The Immediate Program of the  American Negro'
-description: "W.E.B. Du Bois in The Crisis (1915) demands full political, industrial, and social equality, urging law reform, education, labor action, and organization."
+description: "Demands full political, industrial, and social equality, urging law reform, education, labor action, and organization."
 author:
   - name:
       given: W.E.B.

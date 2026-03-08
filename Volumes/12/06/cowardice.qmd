@@ -1,6 +1,6 @@
 ---
 title: Cowardice
-description: In 1916 The Crisis, W.E.B. Du Bois condemns Black passivity before lynching, urges armed self‑defense to confront racial terror and save democracy.
+description: "Condemns Black passivity before lynching, urges armed self‑defense to confront racial terror and save democracy."
 author:
 - name:
     given: W.E.B.

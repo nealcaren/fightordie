@@ -1,6 +1,6 @@
 ---
 title: 'The Methodist Church, North'
-description: "In The Crisis 1911, W.E.B. Du Bois condemns the Methodist Church, North for sidelining Black leadership and trading racial justice for reunion with the South."
+description: "Condemns the Methodist Church, North for sidelining Black leadership and trading racial justice for reunion with the South."
 author:
   - name:
       given: W.E.B.

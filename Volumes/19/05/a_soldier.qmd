@@ -1,6 +1,6 @@
 ---
 title: A Soldier
-description: '1920: W.E.B. Du Bois in The Crisis exposes racial injustice in Edgar Caldwell''s death sentence and urges Black donors to fund his legal defense.'
+description: "Exposes racial injustice in Edgar Caldwell''s death sentence and urges Black donors to fund his legal defense."
 author:
 - name:
     given: W.E.B.

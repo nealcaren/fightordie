@@ -1,6 +1,6 @@
 ---
 title: 'A Winter Pilgrimage'
-description: "In a 1911 Crisis piece, W.E.B. Du Bois shows how local race, education and labor dynamics shape democracy—rising Black ambition meets entrenched color-line."
+description: "Shows how local race, education and labor dynamics shape democracy—rising Black ambition meets entrenched color-line."
 author:
   - name:
       given: W.E.B.

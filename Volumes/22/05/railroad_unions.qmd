@@ -1,6 +1,6 @@
 ---
 title: 'Railroad Unions'
-description: "In 1921 The Crisis, W.E.B. Du Bois condemns railroad unions for racist, exclusionary labor monopolies that harm workers and democracy."
+description: "Condemns railroad unions for racist, exclusionary labor monopolies that harm workers and democracy."
 author:
   - name:
       given: W.E.B.

@@ -1,6 +1,6 @@
 ---
 title: 'That Capital ''N'''
-description: "W.E.B. Du Bois in The Crisis (1916) argues that capitalizing Negro affirms racial dignity and rejects a legacy of slavery and editorial bias."
+description: "Argues that capitalizing Negro affirms racial dignity and rejects a legacy of slavery and editorial bias."
 author:
   - name:
       given: W.E.B.

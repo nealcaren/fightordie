@@ -1,6 +1,6 @@
 ---
 title: 'Football'
-description: "In 1930 The Crisis, W.E.B. Du Bois condemns a racially motivated benching in college football, blaming white prejudice and Black passivity."
+description: "Condemns a racially motivated benching in college football, blaming white prejudice and Black passivity."
 author:
   - name:
       given: W.E.B.

@@ -1,6 +1,6 @@
 ---
 title: The Newest South
-description: In 1913 W.E.B. Du Bois in The Crisis lauds the newest South where interracial leaders openly confront race problems and denounces the old South's racist press.
+description: "Lauds the newest South where interracial leaders openly confront race problems and denounces the old South's racist press."
 author:
 - name:
     given: W.E.B.

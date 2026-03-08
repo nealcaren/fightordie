@@ -1,6 +1,6 @@
 ---
 title: 'La Follette'
-description: "1924: W.E.B. Du Bois in The Crisis condemns La Follette’s program for ignoring race and the Ku Klux Klan, risking continued injustice for Black Americans."
+description: "Condemns La Follette’s program for ignoring race and the Ku Klux Klan, risking continued injustice for Black Americans."
 author:
   - name:
       given: W.E.B.

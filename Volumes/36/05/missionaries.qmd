@@ -1,6 +1,6 @@
 ---
 title: 'Missionaries'
-description: "W.E.B. Du Bois in The Crisis (1929) exposes racial discrimination in U.S. missionary societies, blocking Black missionaries to Africa."
+description: "Exposes racial discrimination in U.S. missionary societies, blocking Black missionaries to Africa."
 author:
   - name:
       given: W.E.B.

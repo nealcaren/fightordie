@@ -1,6 +1,6 @@
 ---
 title: 'China'
-description: "Du Bois argues in The Crisis (1912) that China's revolution reveals humane modernity and fights white supremacy, challenging Crisis-era racial narratives."
+description: "Argues in The Crisis (1912) that China's revolution reveals humane modernity and fights white supremacy, challenging Crisis-era racial narratives."
 author:
   - name:
       given: W.E.B.

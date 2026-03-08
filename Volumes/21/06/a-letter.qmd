@@ -1,6 +1,6 @@
 ---
 title: 'A Letter'
-description: "W.E.B. Du Bois in The Crisis (1921) condemns the YWCA's dismissal of Mrs. Talbert, exposing racial insult, institutional injustice, and calling for apology."
+description: "Condemns the YWCA's dismissal of Mrs. Talbert, exposing racial insult, institutional injustice, and calling for apology."
 author:
   - name:
       given: W.E.B.

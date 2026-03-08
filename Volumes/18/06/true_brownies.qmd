@@ -1,6 +1,6 @@
 ---
 title: 'The True Brownies'
-description: "In 1919 W.E.B. Du Bois in The Crisis announces The Brownies' Book to educate Black children in racial pride, history, and universal brotherhood."
+description: "Announces The Brownies' Book to educate Black children in racial pride, history, and universal brotherhood."
 author:
   - name:
       given: W.E.B.

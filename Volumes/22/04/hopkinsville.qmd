@@ -1,6 +1,6 @@
 ---
 title: Hopkinsville, Chicago and Idlewild
-description: W.E.B. Du Bois in The Crisis (1921) urges the NAACP to agitate, educate and build democratic control of capital to secure Black economic democracy.
+description: "Urges the NAACP to agitate, educate and build democratic control of capital to secure Black economic democracy."
 author:
 - name:
     given: W.E.B.

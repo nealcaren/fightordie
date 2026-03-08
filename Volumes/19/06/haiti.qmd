@@ -1,6 +1,6 @@
 ---
 title: 'Haiti'
-description: "In 1920 The Crisis, W.E.B. Du Bois condemns the U.S. occupation of Haiti as illegal racist repression that kills and deposes officials, denying Haitian democracy."
+description: "Condemns the U.S. occupation of Haiti as illegal racist repression that kills and deposes officials, denying Haitian democracy."
 author:
   - name:
       given: W.E.B.

@@ -1,6 +1,6 @@
 ---
 title: 'St. Louis'
-description: "W.E.B. Du Bois in The Crisis (1916) critiques St. Louis segregation, documenting Black mobilization, white paternalism, and threats to racial equality."
+description: "Critiques St. Louis segregation, documenting Black mobilization, white paternalism, and threats to racial equality."
 author:
   - name:
       given: W.E.B.

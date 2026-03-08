@@ -1,6 +1,6 @@
 ---
 title: 'Woman Suffrage'
-description: "In The Crisis (1920), W.E.B. Du Bois urges Black women to organize, study laws, register, and prepare for suffrage to defend democracy and race rights."
+description: "Urges Black women to organize, study laws, register, and prepare for suffrage to defend democracy and race rights."
 author:
   - name:
       given: W.E.B.

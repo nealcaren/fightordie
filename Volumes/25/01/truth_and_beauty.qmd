@@ -1,6 +1,6 @@
 ---
 title: 'Truth and Beauty'
-description: "In 1922 W.E.B. Du Bois in The Crisis urges cultivating Black art and beauty alongside truth, arguing culture and aesthetics vital to racial progress."
+description: "Urges cultivating Black art and beauty alongside truth, arguing culture and aesthetics vital to racial progress."
 author:
   - name:
       given: W.E.B.

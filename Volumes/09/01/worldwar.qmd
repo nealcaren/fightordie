@@ -1,6 +1,6 @@
 ---
 title: World War and the Color Line
-description: W.E.B. Du Bois in The Crisis (1914) argues World War stems from imperialism and the color line, warning race prejudice fuels global conflict.
+description: "Argues World War stems from imperialism and the color line, warning race prejudice fuels global conflict."
 author:
 - name:
     given: W.E.B.

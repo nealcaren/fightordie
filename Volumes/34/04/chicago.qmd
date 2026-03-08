@@ -1,6 +1,6 @@
 ---
 title: 'Chicago'
-description: "W.E.B. Du Bois in The Crisis (1927) condemns Chicago Democrats' anti-Black campaign, showing race-driven tactics that coerced Black votes and weakened democracy."
+description: "Condemns Chicago Democrats' anti-Black campaign, showing race-driven tactics that coerced Black votes and weakened democracy."
 author:
   - name:
       given: W.E.B.

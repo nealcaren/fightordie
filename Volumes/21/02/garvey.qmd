@@ -1,6 +1,6 @@
 ---
 title: 'Marcus Garvey'
-description: "W.E.B. Du Bois in The Crisis (1920) critiques Marcus Garvey's Black nationalist drive - praising his leadership and race pride while faulting its business sense."
+description: "Critiques Marcus Garvey's Black nationalist drive - praising his leadership and race pride while faulting its business sense."
 author:
   - name:
       given: W.E.B.

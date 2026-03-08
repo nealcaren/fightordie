@@ -1,6 +1,6 @@
 ---
 title: 'Decency'
-description: "W.E.B. Du Bois, The Crisis (1912): exposes German legal endorsement of interracial marriage as a critique of white supremacy and Western decency."
+description: "Exposes German legal endorsement of interracial marriage as a critique of white supremacy and Western decency."
 author:
   - name:
       given: W.E.B.

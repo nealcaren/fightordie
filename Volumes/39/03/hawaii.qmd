@@ -1,6 +1,6 @@
 ---
 title: 'Hawaii'
-description: "W.E.B. Du Bois in The Crisis (1932) warns that economic exploitation, racial law bias, and U.S. military power threaten democracy and race relations in Hawaii."
+description: "Warns that economic exploitation, racial law bias, and U.S. military power threaten democracy and race relations in Hawaii."
 author:
   - name:
       given: W.E.B.

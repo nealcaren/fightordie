@@ -1,6 +1,6 @@
 ---
 title: 'How Shall We Vote'
-description: "W.E.B. Du Bois in The Crisis (1924) urges voting La Follette–Wheeler, ties race and economic injustice to politics, condemns Coolidge and the Klan."
+description: "Urges voting La Follette–Wheeler, ties race and economic injustice to politics, condemns Coolidge and the Klan."
 author:
   - name:
       given: W.E.B.

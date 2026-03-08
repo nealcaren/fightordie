@@ -1,6 +1,6 @@
 ---
 title: 'An Amazing Island'
-description: "W.E.B. Du Bois in The Crisis (1915) celebrates Jamaica's post-color-line society while exposing severe labor exploitation and endemic poverty."
+description: "Celebrates Jamaica's post-color-line society while exposing severe labor exploitation and endemic poverty."
 author:
   - name:
       given: W.E.B.

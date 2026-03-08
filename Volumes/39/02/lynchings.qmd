@@ -1,6 +1,6 @@
 ---
 title: 'Lynchings'
-description: "W.E.B. Du Bois in The Crisis (1932) exposes lynching as racial caste violence that thrives on denied education, economic oppression, and lack of human rights."
+description: "Exposes lynching as racial caste violence that thrives on denied education, economic oppression, and lack of human rights."
 author:
   - name:
       given: W.E.B.

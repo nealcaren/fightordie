@@ -1,6 +1,6 @@
 ---
 title: 'The White Primary'
-description: "In The Crisis (1911) W.E.B. Du Bois shows how the white primary lets party bosses bar Black voters, disenfranchising citizens and threatening democracy."
+description: "Shows how the white primary lets party bosses bar Black voters, disenfranchising citizens and threatening democracy."
 author:
   - name:
       given: W.E.B.

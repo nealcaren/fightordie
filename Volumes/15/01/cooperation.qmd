@@ -1,6 +1,6 @@
 ---
 title: 'Co-Operation'
-description: "1918: W.E.B. Du Bois in The Crisis advocates cooperative economics as Black labor's path to industrial emancipation and racial economic empowerment."
+description: "Advocates cooperative economics as Black labor's path to industrial emancipation and racial economic empowerment."
 author:
   - name:
       given: W.E.B.

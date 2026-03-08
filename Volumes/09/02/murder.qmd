@@ -1,6 +1,6 @@
 ---
 title: 'Murder'
-description: "In 1914 W.E.B. Du Bois in The Crisis shows how race prejudice fuels nationwide violence and unusually high murder rates, exposing a moral crisis."
+description: "Shows how race prejudice fuels nationwide violence and unusually high murder rates, exposing a moral crisis."
 author:
   - name:
       given: W.E.B.

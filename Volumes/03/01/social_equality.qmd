@@ -1,6 +1,6 @@
 ---
 title: '''Social Equality'''
-description: "W.E.B. Du Bois in The Crisis (1911) argues that 'social equality' means humanity for Black Americans, exposing Southern hypocrisy and urging education and labor."
+description: "Argues that 'social equality' means humanity for Black Americans, exposing Southern hypocrisy and urging education and labor."
 author:
   - name:
       given: W.E.B.

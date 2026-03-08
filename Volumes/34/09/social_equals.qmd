@@ -1,6 +1,6 @@
 ---
 title: 'Social Equals'
-description: "In 1927 The Crisis, W.E.B. Du Bois critiques racial etiquette: a Black doctor's refused fee reveals persistent Southern prejudice and barriers to social equality."
+description: "Critiques racial etiquette: a Black doctor's refused fee reveals persistent Southern prejudice and barriers to social equality."
 author:
   - name:
       given: W.E.B.

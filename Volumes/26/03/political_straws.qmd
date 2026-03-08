@@ -1,6 +1,6 @@
 ---
 title: Political Straws
-description: W.E.B. Du Bois in The Crisis (1923) analyzes Black voting strategy—rejecting enemies, backing allies, and demanding racial justice in democracy.
+description: "Analyzes Black voting strategy—rejecting enemies, backing allies, and demanding racial justice in democracy."
 author:
 - name:
     given: W.E.B.

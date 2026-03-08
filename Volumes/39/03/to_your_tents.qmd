@@ -1,6 +1,6 @@
 ---
 title: 'To Your Tents, Oh Israel!'
-description: "W.E.B. Du Bois in The Crisis (1932) calls for Black economic self-help: use education and labor skills to build a racial economy, redirecting capital."
+description: "Calls for Black economic self-help: use education and labor skills to build a racial economy, redirecting capital."
 author:
   - name:
       given: W.E.B.

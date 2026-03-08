@@ -1,6 +1,6 @@
 ---
 title: 'Civilization in the South'
-description: "W.E.B. Du Bois in The Crisis (1917) condemns Southern culture as entwined with lynching, racist labor hierarchies, and anti-democratic barbarism."
+description: "Condemns Southern culture as entwined with lynching, racist labor hierarchies, and anti-democratic barbarism."
 author:
   - name:
       given: W.E.B.

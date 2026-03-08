@@ -1,6 +1,6 @@
 ---
 title: 'Tillman'
-description: "W.E.B. Du Bois in The Crisis (1918) argues Tillman's death signals a turn in Southern labor and race politics toward Black enfranchisement."
+description: "Argues Tillman's death signals a turn in Southern labor and race politics toward Black enfranchisement."
 author:
   - name:
       given: W.E.B.

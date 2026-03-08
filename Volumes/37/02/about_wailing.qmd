@@ -1,6 +1,6 @@
 ---
 title: About Wailing
-description: W.E.B. Du Bois in The Crisis (1930) defends continued 'wailing'—documenting racial injustice, disfranchisement, poverty, and exclusion despite surface progress.
+description: "Defends continued 'wailing'—documenting racial injustice, disfranchisement, poverty, and exclusion despite surface progress."
 author:
 - name:
     given: W.E.B.

@@ -1,6 +1,6 @@
 ---
 title: Brazil
-description: In 1914 in The Crisis, W.E.B. Du Bois rebukes Roosevelt, defending Brazil's racial fusion and warning U.S. racism fuels poverty, lynching, and undermines democracy.
+description: "Rebukes Roosevelt, defending Brazil's racial fusion and warning U.S. racism fuels poverty, lynching, and undermines democracy."
 author:
 - name:
     given: W.E.B.

@@ -1,6 +1,6 @@
 ---
 title: 'Peace'
-description: "1915: W.E.B. Du Bois in The Crisis argues that peace movements fail by ignoring race, colonial rule, and white supremacy as root causes of war."
+description: "Argues that peace movements fail by ignoring race, colonial rule, and white supremacy as root causes of war."
 author:
   - name:
       given: W.E.B.

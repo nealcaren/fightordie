@@ -1,6 +1,6 @@
 ---
 title: 'The Spread of Socialism'
-description: "W.E.B. Du Bois in The Crisis (1921) shows socialism's global rise and urges democratic control of industry and labor through public stewardship."
+description: "Shows socialism's global rise and urges democratic control of industry and labor through public stewardship."
 author:
   - name:
       given: W.E.B.

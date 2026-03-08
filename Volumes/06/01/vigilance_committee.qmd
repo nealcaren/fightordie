@@ -1,6 +1,6 @@
 ---
 title: 'The Vigilance Committee: A Call To Arms'
-description: "W.E.B. Du Bois in The Crisis (1913) urges federating local vigilance committees into NAACP branches to combat racial discrimination via law, education, and civic action."
+description: "Urges federating local vigilance committees into NAACP branches to combat racial discrimination via law, education, and civic action."
 author:
   - name:
       given: W.E.B.

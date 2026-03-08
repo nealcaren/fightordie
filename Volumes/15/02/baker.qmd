@@ -1,6 +1,6 @@
 ---
 title: 'Baker'
-description: "In 1917 The Crisis, W.E.B. Du Bois praises Secretary Baker's fair treatment of Black troops and demands a second officers' training camp to expand Negro officers"
+description: "Praises Secretary Baker's fair treatment of Black troops and demands a second officers' training camp to expand Negro officers"
 author:
   - name:
       given: W.E.B.

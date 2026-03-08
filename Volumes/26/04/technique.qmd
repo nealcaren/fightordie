@@ -1,6 +1,6 @@
 ---
 title: 'The Technique of Race Prejudice'
-description: "In 1923 The Crisis, W.E.B. Du Bois exposes how elite white leaders use subtle techniques of race prejudice to bar Black talent from education and the arts."
+description: "Exposes how elite white leaders use subtle techniques of race prejudice to bar Black talent from education and the arts."
 author:
   - name:
       given: W.E.B.

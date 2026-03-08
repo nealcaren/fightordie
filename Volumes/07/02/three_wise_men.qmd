@@ -1,6 +1,6 @@
 ---
 title: 'The Three Wise Men'
-description: "In his 1913 essay for The Crisis, W.E.B. Du Bois frames a Christmas parable that reclaims spiritual birth and uplifts the lowly, centering Black ministry."
+description: "Frames a Christmas parable that reclaims spiritual birth and uplifts the lowly, centering Black ministry."
 author:
   - name:
       given: W.E.B.

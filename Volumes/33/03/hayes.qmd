@@ -1,6 +1,6 @@
 ---
 title: 'Hayes'
-description: "W.E.B. Du Bois in The Crisis (1927) lauds Roland Hayes's Carnegie Hall triumph as a powerful moment for Black cultural representation and racial pride."
+description: "Lauds Roland Hayes's Carnegie Hall triumph as a powerful moment for Black cultural representation and racial pride."
 author:
   - name:
       given: W.E.B.

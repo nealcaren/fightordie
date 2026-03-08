@@ -1,6 +1,6 @@
 ---
 title: The Elections
-description: In 1915 W.E.B. Du Bois in The Crisis shows how Black voter education determined woman suffrage outcomes and challenged Republican race politics.
+description: "Shows how Black voter education determined woman suffrage outcomes and challenged Republican race politics."
 author:
 - name:
     given: W.E.B.

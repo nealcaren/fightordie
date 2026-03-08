@@ -1,6 +1,6 @@
 ---
 title: 'Germany'
-description: "In 1916 W.E.B. Du Bois in The Crisis condemns Germany's colonial racism, documenting massacres like the Herero slaughter and contrasting French comradeship."
+description: "Condemns Germany's colonial racism, documenting massacres like the Herero slaughter and contrasting French comradeship."
 author:
   - name:
       given: W.E.B.

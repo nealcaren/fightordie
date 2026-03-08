@@ -1,6 +1,6 @@
 ---
 title: 'Victory'
-description: "In 1917 W.E.B. Du Bois in The Crisis celebrates a Supreme Court victory against segregation, calling it a milestone for civil rights and democracy."
+description: "Celebrates a Supreme Court victory against segregation, calling it a milestone for civil rights and democracy."
 author:
   - name:
       given: W.E.B.

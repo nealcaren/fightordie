@@ -1,6 +1,6 @@
 ---
 title: 'Augustus G. Dill'
-description: "W.E.B. Du Bois discusses Augustus G. Dill's withdrawal as The Crisis' business manager, highlighting labor, sacrifice, and leadership challenges in 1928."
+description: "Discusses Augustus G. Dill's withdrawal as The Crisis' business manager, highlighting labor, sacrifice, and leadership challenges in 1928."
 author:
   - name:
       given: W.E.B.

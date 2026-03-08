@@ -1,6 +1,6 @@
 ---
 title: 'If I Had a Million Dollars: A Review of the Phelps Stokes Fund'
-description: "W.E.B. Du Bois in The Crisis (1932) faults the Phelps Stokes Fund for favoring surveys and white education over Black scholarships and leadership"
+description: "Faults the Phelps Stokes Fund for favoring surveys and white education over Black scholarships and leadership"
 author:
   - name:
       given: W.E.B.

@@ -1,6 +1,6 @@
 ---
 title: 'Mexico'
-description: "W.E.B. Du Bois in The Crisis (1914) warns a war on Mexico would be racialized imperialism—exploiting labor, dishonoring democracy and civilization."
+description: "Warns a war on Mexico would be racialized imperialism—exploiting labor, dishonoring democracy and civilization."
 author:
   - name:
       given: W.E.B.

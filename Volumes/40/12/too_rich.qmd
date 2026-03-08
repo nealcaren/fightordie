@@ -1,6 +1,6 @@
 ---
 title: Too Rich to be a Nigger
-description: In 1933 W.E.B. Du Bois in The Crisis documents how white backlash to Black education and prosperity culminated in lynching, exposing racial terror.
+description: "Documents how white backlash to Black education and prosperity culminated in lynching, exposing racial terror."
 author:
 - name:
     given: W.E.B.

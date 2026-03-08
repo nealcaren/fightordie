@@ -1,6 +1,6 @@
 ---
 title: 'The Simple Way'
-description: "W.E.B. Du Bois in The Crisis (1913) rejects simple fixes for the Negro problem, arguing self-help rhetoric masks racial exploitation, dispossession, and Jim Crow."
+description: "Rejects simple fixes for the Negro problem, arguing self-help rhetoric masks racial exploitation, dispossession, and Jim Crow."
 author:
   - name:
       given: W.E.B.

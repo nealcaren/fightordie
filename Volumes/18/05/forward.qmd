@@ -1,6 +1,6 @@
 ---
 title: 'Forward'
-description: "In a 1919 Crisis Forward, W.E.B. Du Bois urges Black readers to study labor struggles, public-utility ownership, and global fights for democracy and worker rule."
+description: "Urges Black readers to study labor struggles, public-utility ownership, and global fights for democracy and worker rule."
 author:
   - name:
       given: W.E.B.

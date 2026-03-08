@@ -1,6 +1,6 @@
 ---
 title: 'The Census'
-description: "W.E.B. Du Bois argues in The Crisis (1911) that Census data debunk white supremacy, showing Black growth and economic progress redefine race and democracy."
+description: "Argues in The Crisis (1911) that Census data debunk white supremacy, showing Black growth and economic progress redefine race and democracy."
 author:
   - name:
       given: W.E.B.

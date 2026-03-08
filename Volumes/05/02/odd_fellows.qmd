@@ -1,6 +1,6 @@
 ---
 title: 'The Odd Fellows'
-description: "W.E.B. Du Bois in The Crisis (1912) argues the Grand United Order of Odd Fellows must educate Black voters to strengthen democracy and prevent oligarchy."
+description: "Argues the Grand United Order of Odd Fellows must educate Black voters to strengthen democracy and prevent oligarchy."
 author:
   - name:
       given: W.E.B.

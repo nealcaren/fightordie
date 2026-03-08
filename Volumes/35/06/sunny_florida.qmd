@@ -1,6 +1,6 @@
 ---
 title: 'Sunny Florida'
-description: "W.E.B. Du Bois argues in The Crisis (1928) that Florida's so-called boom rests on racial exploitation, police brutality, and corrupted democracy."
+description: "Argues in The Crisis (1928) that Florida's so-called boom rests on racial exploitation, police brutality, and corrupted democracy."
 author:
   - name:
       given: W.E.B.

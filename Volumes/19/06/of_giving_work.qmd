@@ -1,6 +1,6 @@
 ---
 title: 'Of Giving Work'
-description: "In 1920 The Crisis, W.E.B. Du Bois exposes southern paternalism: Black labor sustains white wealth and demands fair wages and political rights."
+description: "Exposes southern paternalism: Black labor sustains white wealth and demands fair wages and political rights."
 author:
   - name:
       given: W.E.B.

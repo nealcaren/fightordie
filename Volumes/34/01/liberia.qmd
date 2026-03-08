@@ -1,6 +1,6 @@
 ---
 title: 'Liberia'
-description: "W.E.B. Du Bois in The Crisis (1927) urges sympathy for Liberia, critiques missionary overreach and paternalism, defends Firestone lease, warns corporate power."
+description: "Urges sympathy for Liberia, critiques missionary overreach and paternalism, defends Firestone lease, warns corporate power."
 author:
   - name:
       given: W.E.B.

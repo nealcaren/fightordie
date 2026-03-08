@@ -1,6 +1,6 @@
 ---
 title: 'The New Crisis'
-description: "In 1925 W.E.B. Du Bois in The Crisis calls for renewed focus on race, labor, political independence, education, art and international peace."
+description: "Calls for renewed focus on race, labor, political independence, education, art and international peace."
 author:
   - name:
       given: W.E.B.

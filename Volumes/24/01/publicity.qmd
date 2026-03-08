@@ -1,6 +1,6 @@
 ---
 title: 'Publicity'
-description: "W.E.B. Du Bois in The Crisis (1922) insists publicity, public income, property, and occupation records must reform labor, economics, and democracy."
+description: "Insists publicity, public income, property, and occupation records must reform labor, economics, and democracy."
 author:
   - name:
       given: W.E.B.
