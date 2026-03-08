@@ -1,7 +1,7 @@
 ---
 title:   |
   Voice of a Movement \
-#  W.E.B Du Bois and The Crisis
+#  W.E.B. Du Bois and The Crisis
 format:
   html:
     toc: false
@@ -17,15 +17,6 @@ format:
 
 ![](/Images/bdr-507789.jpeg ""){width=40% .left}
 In November 1910, W.E.B. Du Bois launched *The Crisis*, heralding a new era in the struggle for civil rights in America. As the official magazine of the newly formed National Association for the Advancement of Colored People (NAACP), *The Crisis* quickly became one of the most influential African American periodicals of the 20th century, with a circulation peaking at over 100,000. Under Du Bois's editorship, it would shape public discourse on race, politics, art, and social justice for nearly a quarter century.
-
-This volume charts the evolution of *The Crisis* from its inception through Du Bois's departure as editor in 1934. Through a carefully curated selection of articles, editorials, and other content, readers witness how Du Bois wielded *The Crisis* as a powerful tool to challenge racial injustice, celebrate African American achievements, and articulate a vision for Black empowerment and equality. The collected works reveal Du Bois's intellectual journey, from his early advocacy of integration and civil rights to his later explorations of economic separatism and critiques of capitalism.
-
-More than a chronicle of a single publication, this volume offers a window into a transformative period in African American history. The years covered saw monumental events that reshaped race relations in the United States—from the Great Migration and the Harlem Renaissance to World War I and the Great Depression. Throughout these tumultuous times, *The Crisis* served as both mirror and lamp, reflecting the experiences of Black Americans while illuminating paths forward.
-
-By revisiting these historical documents, we gain valuable perspective on the intellectual and cultural ferment of the early 20th-century civil rights movement. Remarkably, many of the issues debated in these pages—economic inequality, political representation, cultural identity, and the global dimensions of racial oppression—remain strikingly relevant today. Du Bois's penetrating analyses and sometimes controversial positions continue to provoke thought and inspire action, challenging us to reconsider our approaches to persistent social problems.
-
-As we examine this critical period in the development of African American journalism and activism, we invite readers to engage deeply with Du Bois's powerful words and ideas. His legacy, as reflected in the pages of *The Crisis*, resonates across time, urging us to confront the complexities of race and power with the same intellectual rigor and moral conviction that he brought to his work as editor, scholar, and advocate for justice.
-
 
 ## The Moon and Horizon <span class="nowrap">(1900—1910)</span>
 
@@ -78,7 +69,7 @@ The experiences gained from publishing The Moon and Horizon were invaluable in s
 The financial struggles of both magazines highlighted the economic realities of the African American community at the time. Du Bois's frustration with the lack of support from the Black community for independent publications like Horizon underscored the complex relationship between radical Black intellectuals and the broader African American population, a tension that would continue to shape his approach to activism and journalism in the years to come.
 
 
-###  Establishing *The Crisis* <span class="nowrap">(1910-1915)</span>
+##  Establishing *The Crisis* <span class="nowrap">(1910-1915)</span>
 
 The early 20th century marked a pivotal moment in the struggle for civil rights in the United States, with the formation of the National Association for the Advancement of Colored People (NAACP) in 1909 and the subsequent launch of its official magazine, *The Crisis*, in 1910. This period saw W.E.B. Du Bois transition from his academic role at Atlanta University to become a leading figure in the nascent civil rights movement, utilizing his position as editor of *The Crisis* to shape public opinion and challenge prevailing racial attitudes.
 
@@ -203,13 +194,7 @@ Despite the controversy surrounding his departure, Du Bois's long-term impact on
 
 Du Bois's emphasis on economic issues and his willingness to challenge orthodox thinking, even when it led to his ouster, helped broaden the scope of civil rights activism. His departure from the NAACP marked a shift in the organization's approach under Walter White's leadership, with a renewed focus on legal strategies and integration. In the years following Du Bois's resignation, the NAACP grappled with the issues he had raised, forming a committee to reassess its program and address the economic challenges facing Black Americans during the Great Depression. While not all of Du Bois's ideas were adopted, his influence continued to be felt in ongoing debates within the civil rights movement about the best strategies for achieving racial equality and economic justice.
 
-W.E.B. Du Bois's departure from *The Crisis* in 1934 marked the end of an era, but the impact of his quarter-century at the helm of this influential publication reverberates to this day. Through the articles collected in this site, we have traced the evolution of Du Bois's thought, from his early advocacy for civil rights and integration to his later exploration of economic separatism and critique of capitalism.
-
-Du Bois's tenure at *The Crisis* was characterized by an unwavering commitment to intellectual rigor, a willingness to challenge orthodoxies—including his own—and a deep-seated belief in the power of the written word to effect social change. His editorial vision expanded the boundaries of civil rights discourse, interweaving issues of race with questions of class, gender, and global politics.
-
-The legacy of Du Bois's work at *The Crisis* extends far beyond the pages of the magazine. His journalistic endeavors laid the groundwork for future generations of African American writers and activists, demonstrating the crucial role of an independent Black press in articulating and advancing the cause of racial justice. Moreover, the issues Du Bois grappled with in these pages, economic inequality, political representation, cultural identity, and the global dimensions of racial oppression, remain strikingly relevant in our contemporary context. His sophisticated analyses and sometimes controversial positions continue to provoke thought and debate, challenging us to reconsider our approaches to persistent social problems.
-
-In revisiting these articles, we gain not only a deeper understanding of a critical period in African American history but also valuable insights into the ongoing struggle for equality and justice. Du Bois's legacy, as reflected in these pages, continues to inspire and challenge us, urging us to confront the complexities of race and power with the same intellectual rigor and moral conviction that he brought to the pages of *The Crisis*.
+Du Bois's departure from *The Crisis* in 1934 marked the end of an era. Over his quarter-century at the helm, he had transformed a modest organizational newsletter into a platform that shaped public opinion, nurtured Black literary talent, and expanded civil rights discourse to encompass questions of class, gender, and global politics. The articles collected on this site trace that evolution, from his early advocacy for integration to his later exploration of economic separatism and critique of capitalism. The issues he raised in these pages have not gone away.
 
 
 ## Resources
