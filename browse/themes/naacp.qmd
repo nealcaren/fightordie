@@ -2,7 +2,7 @@
 title: "The Mission"
 description: "Du Bois's 51 editorials on the NAACP, organizational strategy, and building the movement in The Crisis (1910-1934)"
 listing:
-  contents: ../../Volumes
+  contents: ../../Volumes/**/*.qmd
   type: table
   sort: "date"
   date-format: "YYYY (MMM)"
@@ -19,10 +19,32 @@ Du Bois made *The Crisis* into an organizing tool. These 51 editorials trace the
 
 The early editorials are recruitment tools. Du Bois urged readers to join the NAACP, form local branches, and treat *The Crisis* as a weapon. "Join or Die" appeared in multiple forms across several issues. "The Proper Way" and "A Crusade" laid out what membership meant in practice.
 
+- [The Crisis](../../Volumes/01/01/TheCrisis.html) (1910) — the founding manifesto
+- [N.A.A.C.P.](../../Volumes/01/02/NAACP.html) (1910) — resistance through print, lectures, research, and relief
+- [Agitation](../../Volumes/01/01/Agitation.html) (1910) — agitation is necessary to expose and cure race prejudice
+- [The Proper Way](../../Volumes/05/05/proper_way.html) (1913) — constant agitation against disfranchisement, Jim Crow, and lynching
+- [Join or Die](../../Volumes/07/03/fightordie.html) (1914) — the plea that gave this archive its name
+
 ### Defending NAACP Methods
 
 As the organization grew, so did criticism. Communists called the NAACP too cautious. Accommodationists called it too confrontational. Du Bois defended the organization's legal strategy while acknowledging its limitations. His argument was pragmatic: legal defense was not the complete program, but it was the only tool that had produced concrete results.
 
+- [Does Organization Pay?](../../Volumes/07/06/does_organization_pay.html) (1914)
+- [The Immediate Program of the American Negro](../../Volumes/09/06/immediate_program.html) (1915) — demands full equality through law, education, and organization
+- [Organization](../../Volumes/09/05/organization.html) (1915) — emulate Jewish organization for race uplift
+- [White Co-Workers](../../Volumes/20/01/white_coworkers.html) (1920) — defends interracial NAACP leadership
+- [Our Program](../../Volumes/37/05/our_program.html) (1930)
+
 ### The Editor and the Organization
 
 The running tension between editorial independence and organizational control. Du Bois insisted that *The Crisis* had to be more than a newsletter. The NAACP board wanted a more cautious publication. This conflict, visible from the first year, culminated in Du Bois's resignation in 1934.
+
+- [The Second Birthday](../../Volumes/05/01/second_birthday.html) (1912) — a Black press is vital for race publicity
+- [Booming The Crisis](../../Volumes/07/05/booming_crisis.html) (1914) — defends editorial independence
+- [We Come of Age](../../Volumes/11/01/we_come_of_age.html) (1915) — five years of growth, achieving self-support
+- [A Question of Policy](../../Volumes/08/01/question_of_policy.html) (1914) — rejects conciliatory silence
+- [Editing The Crisis](../../Volumes/58/03/editing_the_crisis.html) (1951) — retrospective on twenty-four years of editorial independence
+
+---
+
+### All NAACP & Organizational Strategy Articles

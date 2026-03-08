@@ -2,7 +2,7 @@
 title: "The World"
 description: "Du Bois's 90 editorials on Pan-Africanism, colonialism, and the global color line in The Crisis (1910-1934)"
 listing:
-  contents: ../../Volumes
+  contents: ../../Volumes/**/*.qmd
   type: table
   sort: "date"
   date-format: "YYYY (MMM)"
@@ -19,10 +19,32 @@ Du Bois framed American racism as part of a global system from the first issue o
 
 Du Bois organized Pan-African Congresses in 1919, 1921, 1923, and 1927, using *The Crisis* to promote each one and to publish their resolutions. The Congress documents called for better treatment of African colonies, greater international oversight, and eventual self-governance. The Africa travel writings, especially "Little Portraits of Africa," are among the most beautiful prose in the corpus.
 
+- [Memorandum to M. Diagne and Others on a Pan-African Congress](../../Volumes/17/05/memorandum_to_m_diagne_and_others_on_a_panafrican_congress.html) (1919) — proposes the first Paris Congress
+- [The Second Pan-African Congress](../../Volumes/21/06/second-pan-african-congress.html) (1921)
+- [Manifesto to the League of Nations](../../Volumes/23/01/manifesto.html) (1921) — asks the League to affirm racial equality
+- [Little Portraits of Africa](../../Volumes/27/06/little_portraits.html) (1924) — lyrical travel writing
+- [The Pan-African Congresses](../../Volumes/34/08/panafrican_congresses.html) (1927) — reports on the Fourth Congress
+
 ### Haiti, India, Ireland
 
 Du Bois connected struggles across the colonial world. The U.S. occupation of Haiti drew sustained editorial attention. India's independence movement provided a model of nonviolent resistance. Irish independence demonstrated that white European peoples, too, fought against imperial domination. Each case reinforced Du Bois's argument that the color line was a global system.
 
+- [Egypt and India](../../Volumes/18/02/egypt_and_india.html) (1919) — solidarity with colonized India and Egypt
+- [Haiti](../../Volumes/19/06/haiti.html) (1920) — condemns the U.S. occupation
+- [Bleeding Ireland](../../Volumes/21/05/bleeding-ireland.html) (1921) — English repression mirrors U.S. racial violence
+- [Haiti](../../Volumes/22/06/haiti.html) (1921) — demands U.S. withdrawal
+- [Gandhi and India](../../Volumes/23/05/india_and_gandhi.html) (1921) — profiles Gandhi's nonviolent movement
+
 ### Imperialism as System
 
 The analytical framework that tied everything together. Du Bois argued that American racial oppression was not a local problem but part of a worldwide system of exploitation built on the color line. European colonialism, American Jim Crow, and South African mining labor were expressions of the same logic.
+
+- [World War and the Color Line](../../Volumes/09/01/worldwar.html) (1914) — the war stems from imperialism
+- [Italy and Abyssinia](../../Volumes/32/02/italy_and_abyssinia.html) (1926) — Italian imperial designs on Ethiopia
+- [India](../../Volumes/37/08/india.html) (1930) — British imperialism and India's struggle
+- [Pan-Africa and New Racial Philosophy](../../Volumes/40/11/panafrica_and_new_racial_philosophy.html) (1933)
+- [The Freeing of India](../../Volumes/54/10/freeing_of_india.html) (1947) — colored liberation as a single movement
+
+---
+
+### All Pan-Africanism & Empire Articles

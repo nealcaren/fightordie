@@ -2,7 +2,7 @@
 title: "The Compact"
 description: "Du Bois's 57 editorials on war, military service, and the broken patriotic bargain in The Crisis (1910-1934)"
 listing:
-  contents: ../../Volumes
+  contents: ../../Volumes/**/*.qmd
   type: table
   sort: "date"
   date-format: "YYYY (MMM)"
@@ -19,10 +19,28 @@ The spine of *The Crisis* from 1914 to 1921. Du Bois constructed a patriotic com
 
 Before American entry, Du Bois built the argument: Black Americans would serve loyally, and America would repay that service with justice. "Close Ranks" (July 1918) was the compact's most controversial expression. The editorial drew immediate criticism and damaged Du Bois's standing, but it was strategically deliberate.
 
+- [Officers](../../Volumes/14/02/officers.html) (1917) — demands Negro officers and separate training camps
+- [Close Ranks](../../Volumes/16/03/close_ranks.html) (1918) — the compact's most controversial expression
+- [Patriotism](../../Volumes/17/01/patriotism.html) (1919) — WWI forged a new patriotism
+
 ### Black Soldiers' Service
 
 Du Bois documented what Black troops did in France: their valor, their treatment by French civilians, and the systematic mistreatment they faced from American officers. He traveled to France in December 1918 to gather firsthand accounts. The May 1919 issue, built on those documents, sold 106,000 copies.
 
+- [Houston](../../Volumes/16/06/houston.html) (1918) — the Houston soldiers' courts-martial
+- [Houston: An N.A.A.C.P. Investigation](../../Volumes/15/01/houston.html) (1918) — Martha Gruening's investigation
+- [The Black Man in the Revolution of 1914-1918](../../Volumes/17/05/the_black_man_in_the_revolution_of_1914_1918.html) (1919) — Black soldiers' valor and persistent discrimination
+- [An Essay Toward a History of the Black Man in the Great War](../../Volumes/18/02/essay.html) (1919) — the 106,000-copy issue
+- [The War History](../../Volumes/18/06/the_war_history.html) (1919) — preserve records of Black soldiers' service
+
 ### "Returning Soldiers" and Betrayal
 
 The compact breaks. Black veterans returned to lynching, disfranchisement, and Red Summer. Du Bois's fury is visible in the prose. The war editorials, read in sequence, form one of the most powerful narrative arcs in American journalism: a bargain offered, honored, and repudiated.
+
+- [Returning Soldiers](../../Volumes/18/01/returning_soldiers.html) (1919) — "We return. We return from fighting. We return fighting."
+- [The American Legion](../../Volumes/18/05/the_american_legion.html) (1919) — racial exclusion of Black veterans
+- [Soldiers](../../Volumes/20/03/soldiers.html) (1920) — Army racial exclusion
+
+---
+
+### All War & Military Articles

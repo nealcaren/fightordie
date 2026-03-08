@@ -2,7 +2,7 @@
 title: "Internal Debate"
 description: "Du Bois's 72 editorials on accommodationism, Garvey, and contests within the movement in The Crisis (1910-1934)"
 listing:
-  contents: ../../Volumes
+  contents: ../../Volumes/**/*.qmd
   type: table
   sort: "date"
   date-format: "YYYY (MMM)"
@@ -19,10 +19,32 @@ Du Bois fought on two fronts: against white supremacy and against strategies wit
 
 The Washington critique runs through the early corpus. Du Bois rarely named Washington directly but demolished the accommodationist platform systematically: its acceptance of disfranchisement, its restriction of education to industrial training, its willingness to trade political rights for economic concessions. After Washington's death in 1915, Du Bois wrote a measured obituary, then continued the argument against Washington's successors at Tuskegee.
 
+- [Education](../../Volumes/04/02/education.html) (1912) — education should train minds, not just trades
+- [The Fruit of the Tree](../../Volumes/06/05/fruit_of_tree.html) (1913) — rhetoric of subservience causes disfranchisement and lynching
+- [The Simple Way](../../Volumes/07/01/simple_way.html) (1913) — self-help rhetoric masks racial exploitation
+- [Booker T. Washington](../../Volumes/11/02/booker_t_washington.html) (1915) — the measured obituary
+- [An Open Letter to Robert Russa Moton](../../Volumes/12/03/open_letter.html) (1916) — urges Moton to defend voting rights
+
 ### Garvey
 
 The most volatile internal contest of the period. Du Bois moved from generous appraisal ("an honest and sincere man with a tremendous vision") to financial forensics on the Black Star Line to "A Lunatic or a Traitor," the most vitriolic piece in the entire corpus. The Garvey editorials reveal Du Bois at his most prosecutorial.
 
+- [Marcus Garvey](../../Volumes/21/02/garvey.html) (1920) — first major assessment: praises leadership, faults business sense
+- [Marcus Garvey](../../Volumes/21/03/marcus_garvey.html) (1921) — critiques the Black Star Line
+- [A Correction](../../Volumes/21/05/correction.html) (1921) — clarifying ship materials and defending Black enterprise
+- [A Lunatic or a Traitor](../../Volumes/28/01/lunatic_or_a_traitor.html) (1924) — the most vitriolic piece in the corpus
+- [Marcus Garvey and the NAACP](../../Volumes/35/02/marcus_garvey.html) (1928) — clears up myths, records their clashes
+
 ### NAACP Defense and Methods
 
 Du Bois defended the NAACP's legal strategy against Communist critics who called it too cautious and against accommodationists who called it too confrontational. "Legal defense is not the complete program," he conceded, "BUT it is the only effective immediate tool." His resignation pieces are the coda: pride in what the organization had built, recognition that it had outgrown one editor's vision.
+
+- [Our Methods](../../Volumes/33/03/our_methods.html) (1927) — organized protest and legal action advance justice
+- [The Negro and Communism](../../Volumes/38/09/negro_and_communism.html) (1931) — critiques Communist tactics, defends NAACP
+- [The N.A.A.C.P. and Race Segregation](../../Volumes/41/02/naacp_and_race_segregation.html) (1934)
+- [Counsels of Despair](../../Volumes/41/06/counsels_of_despair.html) (1934) — rejects despair, urges race uplift
+- [Dr. Du Bois Resigns](../../Volumes/41/08/dr_dubois_resigns.html) (1934)
+
+---
+
+### All Internal Debate Articles

@@ -2,7 +2,7 @@
 title: "The Mob"
 description: "Du Bois's 134 editorials documenting lynching, racial violence, and the anti-lynching campaign in The Crisis (1910-1934)"
 listing:
-  contents: ../../Volumes
+  contents: ../../Volumes/**/*.qmd
   type: table
   sort: "date"
   date-format: "YYYY (MMM)"
@@ -19,10 +19,32 @@ The single largest cluster in the collection. Du Bois treated lynching not as ab
 
 Du Bois documented lynchings by name, date, location, and circumstance. He published victims' identities, exposed the lies used to justify mob action, and tracked the geographic and economic patterns. The Coatesville lynching, the Lowman case, and dozens of others received sustained editorial attention.
 
+- [Triumph](../../Volumes/02/05/triumph.html) (1911) — on the Coatesville lynching
+- [The Lynching Industry](../../Volumes/09/04/lynching_industry.html) (1915) — statistical documentation of 1914 lynchings
+- [The Massacre in East St. Louis](../../Volumes/14/05/massacre_of_east_st_louis.html) (1917) — investigative report linking racial terror to labor conflict
+- [The Work of a Mob](../../Volumes/16/05/work_of_a_mob.html) (1918) — Walter White's investigation of Georgia lynchings
+- [The Shambles of South Carolina](../../Volumes/33/02/shambles_of_south_carolina.html) (1926) — the Lowman family lynching
+
 ### Legal Injustice
 
 The courts as instruments of racial violence. The Scottsboro case, the Sweet trial, the Houston riot courts-martial, and the repeated failure of the Dyer Anti-Lynching Bill. Du Bois showed how the legal system ratified what mobs enforced.
 
+- [The Lynching Bill](../../Volumes/23/04/lynching-bill.html) (1921) — urges federal anti-lynching legislation
+- [Anti-Lynching Legislation](../../Volumes/22/01/anti-lynching_legislation.html) (1922) — defends the NAACP's focused campaign
+- [Scottsboro](../../Volumes/40/05/scottsboro.html) (1933) — disfranchisement destroys justice
+- [Scottsboro](../../Volumes/41/01/scottsboro.html) (1934) — Southern courts using law to punish Black lives
+- [Courts and Jails](../../Volumes/39/04/courts_and_jails.html) (1932) — race-based injustice in courts and prisons
+
 ### Armed Self-Defense
 
 The moments when Black communities fought back. The Houston soldiers, the Phillips County farmers, the resistance during Red Summer. Du Bois covered these events with a mixture of pride and grief, knowing that self-defense brought harsher punishment than the violence it answered.
+
+- [Houston](../../Volumes/16/06/houston.html) (1918) — the Houston soldiers' courts-martial
+- [Thirteen](../../Volumes/15/03/thirteen.html) (1918) — thirteen Black soldiers executed while white perpetrators go free
+- [The Riots: An N.A.A.C.P. Investigation](../../Volumes/18/05/riots.html) (1919) — James Weldon Johnson on the Washington race riots
+- [Tulsa](../../Volumes/22/06/tulsa.html) (1921) — Black self-defense and cooperative rebuilding after the massacre
+- [The Sweet Trial](../../Volumes/31/03/sweet_trial.html) (1926) — defending Black homeowners' right to self-defense
+
+---
+
+### All Racial Violence Articles

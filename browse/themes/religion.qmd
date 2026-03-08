@@ -2,7 +2,7 @@
 title: "The Soul"
 description: "Du Bois's 45 editorials on religion, Christianity, and moral argument in The Crisis (1910-1934)"
 listing:
-  contents: ../../Volumes
+  contents: ../../Volumes/**/*.qmd
   type: table
   sort: "date"
   date-format: "YYYY (MMM)"
@@ -19,10 +19,32 @@ Du Bois framed racial justice as the test of Christian sincerity and found Chris
 
 Du Bois argued that American Christianity had made its peace with racial oppression. Churches segregated their congregations. Denominations failed to condemn lynching. Missionaries who preached brotherhood abroad tolerated Jim Crow at home. He named specific denominations, specific churches, specific clergymen.
 
+- [The Methodist Church, North](../../Volumes/01/05/methodist_church_north.html) (1911) — trading racial justice for reunion with the South
+- [The Episcopal Church](../../Volumes/07/02/episcopal_church.html) (1913) — slavery, racial hypocrisy, and refusal to support Black education
+- [The Church](../../Volumes/11/06/church.html) (1916) — urges the Black church to lead democratic uplift
+- [The White Church](../../Volumes/14/01/white_church.html) (1917) — moral failure on race
+- [Missionaries](../../Volumes/36/05/missionaries.html) (1929) — racial discrimination in U.S. missionary societies
+
 ### Christ as Black Man
 
 Across several allegorical pieces, Du Bois reimagined Christ as a figure of color. "Jesus Christ in Georgia" placed Christ in the rural South. "The White Christ" inverted the racial iconography. "Pontius Pilate" collapsed two thousand years into a single scene, with Pilate as governor of Mississippi. These pieces use biblical typology as a weapon against the church.
 
+- [Jesus Christ in Georgia](../../Volumes/03/02/jesus_christ.html) (1911) — Christ in the Jim Crow South
+- [The White Christ](../../Volumes/09/05/the_white_christ.html) (1915) — white Christianity's wartime hypocrisy
+- [The Second Coming](../../Volumes/15/02/second_coming.html) (1917) — prophetic allegory of Black emergence
+- [Pontius Pilate](../../Volumes/21/02/pontius-pilate.html) (1920) — Pilate as complicit in racial injustice
+- [The Sermon in the Cradle](../../Volumes/23/02/sermon-in-the-cradle.html) (1921) — Christ born in Benin
+
 ### Moral Argument
 
 Beyond the specifically religious editorials, Du Bois deployed moral reasoning throughout the collection. He appealed to democratic principles, to constitutional promises, to the logic of human equality. When those appeals failed, he turned to prophetic denunciation.
+
+- [The Sin Against the Holy Ghost](../../Volumes/03/02/sin.html) (1911) — deceit for political gain as the unforgivable sin
+- [Christianity Rampant](../../Volumes/03/01/christianity_rampant.html) (1911) — practical Christianity masks imperial cruelty
+- [The Church and the Negro](../../Volumes/06/06/church_negro.html) (1913)
+- [The Gospel According to Mary Brown](../../Volumes/19/02/gospel.html) (1919) — parable condemning racial violence
+- [The Church and Religion](../../Volumes/40/10/church_and_religion.html) (1933) — urges ethical faith and intellectual freedom
+
+---
+
+### All Religion & Morality Articles

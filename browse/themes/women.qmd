@@ -2,7 +2,7 @@
 title: "Women's Rights"
 description: "Du Bois's 41 editorials on women's suffrage, gender, and Black women's political power in The Crisis (1910-1934)"
 listing:
-  contents: ../../Volumes
+  contents: ../../Volumes/**/*.qmd
   type: table
   sort: "date"
   date-format: "YYYY (MMM)"
@@ -19,6 +19,22 @@ Du Bois linked woman suffrage to racial justice early and consistently. These 41
 
 Du Bois supported woman suffrage from the first issue of *The Crisis*, arguing that the logic of disfranchisement was the same whether applied to women or to Black men. He criticized white suffragists who accepted racial exclusion as the price of their own enfranchisement, and he insisted that the movement could not be separated from the fight against the color line.
 
+- [Votes for Women](../../Volumes/04/05/votes_for_women.html) (1912) — tying democracy and racial justice to universal enfranchisement
+- [The Justice of Woman Suffrage](../../Volumes/04/05/justice_of_woman_suffrage.html) (1912) — Mary Church Terrell's argument
+- [Woman's Suffrage](../../Volumes/06/01/womans_suffrage.html) (1913) — celebrates defeats of the color line in suffrage
+- [Suffrage and Women](../../Volumes/09/04/suffrage_women.html) (1915) — warns that suffrage allies use racist calculations
+- [Woman Suffrage](../../Volumes/11/01/woman_suffrage.html) (1915) — rebukes anti-suffrage claims
+
 ### Black Women as Political Force
 
 After 1920, Du Bois covered Black women's voter registration drives, documented white efforts to suppress Black women's votes, and argued that Black women voters could become a decisive force in American elections. The coverage of the 1920 election is the fullest expression of this argument.
+
+- [Get Ready](../../Volumes/20/01/get_ready.html) (1920) — prepare, defend voting rights, resist disfranchisement
+- [Woman Suffrage](../../Volumes/19/05/woman_suffrage.html) (1920) — urges Black women to organize and register
+- [Triumph](../../Volumes/20/06/triumph.html) (1920) — celebrates woman suffrage as democratic triumph
+- [Suffrage](../../Volumes/21/01/suffrage.html) (1920) — Southern suffrage laws mask race-based disfranchisement
+- [The Woman Voter](../../Volumes/21/05/woman_voter.html) (1921)
+
+---
+
+### All Women's Rights Articles

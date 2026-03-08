@@ -2,7 +2,7 @@
 title: "The Artist"
 description: "Du Bois's 36 works of fiction, poetry, satire, allegory, and prose poetry from The Crisis (1910-1934)"
 listing:
-  contents: ../../Volumes
+  contents: ../../Volumes/**/*.qmd
   type: table
   sort: "date"
   date-format: "YYYY (MMM)"
@@ -19,14 +19,41 @@ A different Du Bois. Alongside the polemicist, sociologist, and strategist, *The
 
 "The Princess of the Hither Isles" is allegorical fable, compressing the history of racial exploitation into a story about a princess and a tower of gold. "Jesus Christ in Georgia" places Christ in the Jim Crow South. "Pontius Pilate" collapses two thousand years into a single scene. Du Bois used fiction to say what editorials could not.
 
+- [Jesus Christ in Georgia](../../Volumes/03/02/jesus_christ.html) (1911) — Christ in the Jim Crow South
+- [The Princess of the Hither Isles](../../Volumes/06/06/princess_of_hither_isles.html) (1913)
+- [The Second Coming](../../Volumes/15/02/second_coming.html) (1917) — prophetic allegory of Black emergence
+- [The Gospel According to Mary Brown](../../Volumes/19/02/gospel.html) (1919) — parable condemning racial violence
+- [Pontius Pilate](../../Volumes/21/02/pontius-pilate.html) (1920) — two thousand years in a single scene
+
 ### Poetry
 
 "A Hymn to the Peoples," "Song of the Smoke," and other poems that deploy rhythm and image where argument fails. Du Bois wrote poetry sparingly, but the pieces collected here show a writer working in a register entirely different from his editorial voice.
+
+- [Easter-Emancipation 1863-1913](../../Volumes/05/06/easter-emancipation.html) (1913) — the cost of liberation
+- [The Song of the Smoke](../../Volumes/07/03/song_of_smoke.html) (1914) — "smoke" as a Black emblem of industrial labor
+- [The Burden of Black Women](../../Volumes/09/01/burden_of_black_women.html) (1914) — racial and gender injustice
+- [The Christmas Prayers of God](../../Volumes/09/02/christmas_prayers_of_god.html) (1914) — God witnesses a lynching and falls silent
+- [Unrest](../../Volumes/19/05/unrest.html) (1920) — pleading for clarity amid turmoil
 
 ### Satire and Dialogue
 
 "On Being Crazy" is a Socratic dialogue anticipating absurdist literature. "Again, Social Equality" names the sexual subtext of segregation with startling directness. "Of Giving Work" uses dramatic dialogue to expose the logic of racial exclusion. These pieces use humor and formal invention where direct argument would be deflected.
 
+- [A Mild Suggestion](../../Volumes/03/03/mild_suggestion.html) (1912) — biting satirical dialogue on "solutions" to the Negro problem
+- [A Little Play](../../Volumes/07/05/a_little_play.html) (1914) — claims of "inferiority" exposed
+- [Steve](../../Volumes/17/02/steve.html) (1919) — allegory for Russia's revolution
+- [On Being Crazy](../../Volumes/26/02/on_being_crazy.html) (1923) — everyday racial exclusion as irrational cruelty
+
 ### Prose Poetry and Travel
 
 "Chamounix" is a prose poem about Mont Blanc with no politics at all. "Little Portraits of Africa" is the most beautiful prose in the corpus. These pieces reveal a writer who could have been a literary artist full-time, and chose not to.
+
+- [The Story of Africa](../../Volumes/08/05/story_of_africa.html) (1914) — Africa's great civilizations and the violence of empire
+- [Chamounix](../../Volumes/23/02/chamounix.html) (1921) — prose poem on Mont Blanc
+- [Little Portraits of Africa](../../Volumes/27/06/little_portraits.html) (1924) — the most beautiful prose in the corpus
+- [Sketches from Abroad](../../Volumes/27/05/sketches.html) (1924) — travel sketches across Europe toward Africa
+- [The House of the Black Burghardts](../../Volumes/35/04/black.html) (1928) — memory and Black family roots in rural New England
+
+---
+
+### All Literary Writing

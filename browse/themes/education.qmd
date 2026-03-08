@@ -2,7 +2,7 @@
 title: "The Structures: Education"
 description: "Du Bois's 78 editorials on education, schools, and the fight against philanthropic control in The Crisis (1910-1934)"
 listing:
-  contents: ../../Volumes
+  contents: ../../Volumes/**/*.qmd
   type: table
   sort: "date"
   date-format: "YYYY (MMM)"
@@ -19,10 +19,30 @@ White philanthropic control over Black education functioned as colonial governan
 
 Du Bois used numbers as weapons. He published per-pupil spending comparisons between white and Black schools, documented how Southern states diverted tax revenue from Black districts, and showed that educational inequality was not an accident but a policy.
 
+- [Education](../../Volumes/01/04/education.html) (1911)
+- [The Cost of Education](../../Volumes/03/02/cost_of_education.html) (1911) — Black taxpayers subsidizing white schooling
+- [The Negro Public School](../../Volumes/11/05/negro_public_school.html) (1916) — vocational training as caste enforcement
+- [Pechstein and Pecksniff](../../Volumes/36/09/pechstein_and_pecksniff.html) (1929) — against segregated schools
+
 ### Industrial versus Liberal Arts
 
 The debate with Booker T. Washington's legacy ran through the early corpus. Du Bois argued that limiting Black education to vocational training was a strategy of containment, not uplift. He championed liberal arts education as the foundation of intellectual freedom and political capacity.
 
+- [Education](../../Volumes/04/02/education.html) (1912) — education should train minds, not just trades
+- [College Education](../../Volumes/08/03/college_education.html) (1914) — rigorous college as the path to racial freedom
+- [Booker T. Washington](../../Volumes/11/02/booker_t_washington.html) (1915) — praises Washington's gains, faults his limits
+- [Negro Education](../../Volumes/15/04/negro_education.html) (1918) — against confining Black education to industrial labor
+- [The Negro College](../../Volumes/40/08/negro_college.html) (1933) — root education in Black experience
+
 ### Philanthropic Control
 
 The General Education Board, the Rosenwald Fund, and other white philanthropies shaped Black education through their funding decisions. Du Bois criticized the strings attached to their gifts: deference to white donors, avoidance of controversial subjects, and a preference for industrial training over liberal education. The Thomas Jesse Jones editorial is the sharpest statement.
+
+- [Fraud and Imitation](../../Volumes/04/03/fraud_and_imitation.html) (1912) — fraudulent educational organizations
+- [Philanthropy and Self Help](../../Volumes/16/03/philanthropy_and_self_help.html) (1918) — as philanthropy wanes, fund your own universities
+- [Thomas Jesse Jones](../../Volumes/22/06/thomas-jesse-jones.html) (1921) — white control over Black education via Phelps-Stokes
+- [White Charity](../../Volumes/24/02/whitecharity.html) (1922) — reparative accountability over charity
+
+---
+
+### All Education Articles

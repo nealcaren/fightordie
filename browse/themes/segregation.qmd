@@ -2,7 +2,7 @@
 title: "The Color Line"
 description: "Du Bois's 144 editorials on segregation, Jim Crow, and the fight for social equality in The Crisis (1910-1934)"
 listing:
-  contents: ../../Volumes
+  contents: ../../Volumes/**/*.qmd
   type: table
   sort: "date"
   date-format: "YYYY (MMM)"
@@ -19,14 +19,42 @@ Du Bois attacked segregation as undemocratic, unscientific, and spiritually degr
 
 The daily machinery of separation. Du Bois documented Jim Crow cars on Southern railroads, segregated waiting rooms, federal civil service segregation under Woodrow Wilson, and the thousand small humiliations that enforced racial hierarchy. He treated each instance not as an isolated indignity but as evidence of a system.
 
+- [The "Jim Crow" Argument](../../Volumes/05/06/jim_crow_argument.html) (1913)
+- [Burleson](../../Volumes/06/04/burleson.html) (1913) — on federal civil service segregation under Wilson's Postmaster General
+- [Another Open Letter to Woodrow Wilson](../../Volumes/06/05/open_letter.html) (1913)
+- [The President](../../Volumes/09/04/president.html) (1915)
+- [The Railroads](../../Volumes/15/04/railroads.html) (1918) — federal control of railroads as a lever against Jim Crow
+
 ### Social Equality Debates
 
 White newspapers used "social equality" as a weapon: any demand for political or economic rights was reframed as a demand for interracial marriage. Du Bois named this deflection repeatedly, insisting that equal citizenship had nothing to do with private social choices, and that the sexual subtext of segregation was the real taboo.
+
+- ['Social Equality'](../../Volumes/01/03/social_equality.html) (1911)
+- [Sex Equality](../../Volumes/19/03/sex_equality.html) (1920) — denounces the Attorney General for equating interracial marriage with "sex equality"
+- [Again, Social Equality](../../Volumes/19/05/again_social_equality.html) (1920)
+- [The Social Equality of Whites and Blacks](../../Volumes/21/01/social_equality_of_blacks_and_whites.html) (1920)
+- [President Harding and Social Equality](../../Volumes/23/02/president-harding.html) (1921)
 
 ### Residential Segregation
 
 From Baltimore's pioneering racial zoning ordinance to Harlem's contested blocks, Du Bois tracked how cities used law, covenant, and mob violence to draw racial boundaries in housing. He connected housing segregation to school quality, property values, and political representation.
 
+- [Baltimore](../../Volumes/01/01/Baltimore.html) (1910) — on Baltimore's race-based zoning ordinances
+- [The Ghetto](../../Volumes/01/02/ghetto.html) (1910)
+- [Homes](../../Volumes/03/05/homes.html) (1912)
+- [Real Estate in New York](../../Volumes/08/03/real_estate_in_new_york.html) (1914) — on holding property against racist displacement in Harlem
+- [The Challenge of Detroit](../../Volumes/31/01/challenge_of_detroit.html) (1925) — racial housing violence and the Ossian Sweet case
+
 ### The Segregation Paradox
 
 The intellectual drama that ended Du Bois's editorship. Beginning in January 1934, he argued that Black Americans should stop "being stampeded by the word segregation" and build cooperative institutions within segregated communities. The position broke with everything the NAACP stood for and led directly to his resignation.
+
+- [Segregation](../../Volumes/41/01/segregation.html) (January 1934) — the editorial that started the controversy
+- [The N.A.A.C.P. and Race Segregation](../../Volumes/41/02/naacp_and_race_segregation.html) (February 1934)
+- [History of Segregation Philosophy](../../Volumes/41/03/history_of_segregation_philosophy.html) (March 1934)
+- [Separation and Self-Respect](../../Volumes/41/03/separation_and_selfrespect.html) (March 1934)
+- [Dr. Du Bois Resigns](../../Volumes/41/08/dr_dubois_resigns.html) (August 1934)
+
+---
+
+### All Segregation Articles

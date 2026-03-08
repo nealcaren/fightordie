@@ -2,7 +2,7 @@
 title: "The South"
 description: "Du Bois's 90 editorials on Southern politics, governance, and the Great Migration in The Crisis (1910-1934)"
 listing:
-  contents: ../../Volumes
+  contents: ../../Volumes/**/*.qmd
   type: table
   sort: "date"
   date-format: "YYYY (MMM)"
@@ -19,10 +19,32 @@ The South's refusal to think honestly about race made it a drag on American civi
 
 Du Bois tracked the mechanics of one-party rule: how disfranchisement concentrated power, how poll taxes and white primaries excluded Black citizens, and how the resulting political structure warped national legislation. He argued that the South's overrepresentation in Congress, based on a population it refused to let vote, was the foundation of the Jim Crow order.
 
+- [The South in the Saddle](../../Volumes/07/04/south_in_saddle.html) (1914) — disfranchisement inflates congressional power
+- [Southern Civilization](../../Volumes/13/01/southern_civilization.html) (1916) — oligarchy preserved through lynching
+- [Tillman](../../Volumes/16/04/tillman.html) (1918) — Tillman's death and Southern labor politics
+- [Blease, Vardaman, Hardwick and Company](../../Volumes/16/06/blease.html) (1918) — Southern demagogues
+- [The Newer South](../../Volumes/31/04/newer_south.html) (1926) — Jim Crow persists beneath the New South
+
 ### Southern Press and Public Opinion
 
 Du Bois quoted Southern newspapers at length, letting editors convict themselves. He tracked how the Southern press framed racial violence, manufactured consent for disfranchisement, and dismissed Black aspirations. The technique was deliberate: quoting the enemy let editors convict themselves in their own words.
 
+- [Southern Papers](../../Volumes/01/04/southern_papers.html) (1911) — white papers mock race issues and defend peonage
+- [The Newest South](../../Volumes/06/03/newest_south.html) (1913) — interracial leaders confront race problems
+- [The Macon Telegraph](../../Volumes/19/03/macon_telegraph.html) (1920)
+- [The Unfortunate South](../../Volumes/19/04/unfortunate_south.html) (1920) — racial blindness and cultural suppression
+- [The Rising Truth](../../Volumes/22/02/rising-truth.html) (1921) — Southern racial terror exposed
+
 ### Migration
 
 The Great Migration as both escape and judgment. Du Bois covered why Black Southerners were leaving, what they found in the North, and what their departure revealed about the South. He encouraged migration while acknowledging its costs.
+
+- [Migration](../../Volumes/12/06/migration.html) (1916) — urges migration to escape lynching
+- [The Migration of Negroes](../../Volumes/14/02/migration_of_negroes.html) (1917) — a labor and rights exodus
+- [The Migration](../../Volumes/14/01/migration.html) (1917) — Great Migration meets Northern demand
+- [The Flight into Egypt](../../Volumes/17/02/flight.html) (1919) — the Holy Family reimagined as Black refugees
+- [Brothers, Come North](../../Volumes/19/03/brothers_come_north.html) (1920)
+
+---
+
+### All Articles on The South

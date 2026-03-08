@@ -2,7 +2,7 @@
 title: "The Culture"
 description: "Du Bois's 61 editorials on art, the Harlem Renaissance, and Black self-representation in The Crisis (1910-1934)"
 listing:
-  contents: ../../Volumes
+  contents: ../../Volumes/**/*.qmd
   type: table
   sort: "date"
   date-format: "YYYY (MMM)"
@@ -19,10 +19,32 @@ From "In Black" (anticipating "Black is Beautiful" by fifty years) through the H
 
 Du Bois reviewed books, assessed artistic movements, and promoted new talent. He championed Langston Hughes and Countee Cullen, criticized Claude McKay's *Home to Harlem*, and argued that Black art had to serve Black freedom. The literary contests and Krigwa awards gave emerging writers a path to publication.
 
+- [Negro Writers](../../Volumes/19/06/negro_writers.html) (1920) — a literary renaissance is vital to race justice
+- [Negro Art](../../Volumes/22/02/negro_art.html) (1921) — Black art must portray honest human truth
+- [The Younger Literary Movement](../../Volumes/27/04/younger_movement.html) (1924) — champions younger Black writers
+- [Fall Books](../../Volumes/29/01/fall_books.html) (1924)
+- [Two Novels](../../Volumes/35/06/two_novels.html) (1928) — lauds Larsen's *Quicksand*, denounces McKay's *Home to Harlem*
+
 ### "All Art Is Propaganda"
 
 Du Bois's aesthetic philosophy, stated with characteristic bluntness in "Criteria of Negro Art." He argued that the demand for "pure" art was itself a political position, one that benefited those who already controlled how Black life was represented. Art made by Black artists for Black audiences was a form of self-determination.
 
+- [In Black](../../Volumes/20/06/in_black.html) (1920) — reject racist caricature, see beauty in black
+- [Truth and Beauty](../../Volumes/25/01/truth_and_beauty.html) (1922) — culture and aesthetics vital to racial progress
+- [Art for Nothing](../../Volumes/24/01/art_for_nothing.html) (1922) — fair pay for Black artists as justice
+- [Negro Art](../../Volumes/23/03/negro-art.html) (1922) — the Negro race as interpreter of beauty
+- [Criteria of Negro Art](../../Volumes/32/06/criteria_of_negro_art.html) (1926) — the defining statement
+
 ### Black Cultural Institutions
 
 The Krigwa Players, the annual literary contests, *The Brownie's Book*, the art exhibitions, the special issues on Black colleges. Du Bois did not just write about Black culture. He built institutions to sustain it.
+
+- [A Pageant](../../Volumes/10/05/pageant.html) (1915) — the Horizon Guild stages pageants of Negro history
+- [The Star of Ethiopia](../../Volumes/11/02/star_of_ethiopia.html) (1915) — staging the pageant
+- [The Drama Among Black Folk](../../Volumes/12/04/drama_among_black_folk.html) (1916) — Black pageantry as folk drama
+- [The True Brownies](../../Volumes/18/06/true_brownies.html) (1919) — announces *The Brownie's Book* for Black children
+- [Krigwa Players Little Negro Theatre](../../Volumes/32/03/kgriwa.html) (1926) — "by us, for us, near us"
+
+---
+
+### All Art & Culture Articles

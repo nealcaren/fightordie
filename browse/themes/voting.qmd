@@ -2,7 +2,7 @@
 title: "The Fight"
 description: "Du Bois's 131 editorials on voting rights, elections, and political strategy in The Crisis (1910-1934)"
 listing:
-  contents: ../../Volumes
+  contents: ../../Volumes/**/*.qmd
   type: table
   sort: "date"
   date-format: "YYYY (MMM)"
@@ -19,10 +19,32 @@ Du Bois wrote about voting and elections in 131 editorials across the full run o
 
 Du Bois returned to the constitutional argument repeatedly. Southern states disfranchised Black voters through poll taxes, literacy tests, grandfather clauses, and white primaries, then claimed full congressional representation based on the population they had silenced. He called this theft of political power the foundation of the Jim Crow system.
 
+- [The White Primary](../../Volumes/01/05/white_primary.html) (1911)
+- [The Fourteenth Amendment](../../Volumes/10/01/fourteenth_amendment.html) (1915) — urges Congress to reduce Southern representation
+- [The Grandfather Clause](../../Volumes/10/05/grandfather_clause.html) (1915) — on the *Guinn v. United States* decision
+- [Disenfranchisement](../../Volumes/30/02/disenfranchisement.html) (1925) — literacy tests, poll taxes, and the white primary
+- [Disenfranchisement](../../Volumes/32/01/disenfranchisement.html) (1926)
+
 ### Party Strategy
 
 Neither party earned loyalty. Republicans took Black votes for granted; Democrats actively suppressed them. Du Bois experimented with endorsements, urged bloc voting, flirted with third parties, and grew increasingly skeptical that electoral politics alone could produce change.
 
+- [The Last Word in Politics](../../Volumes/05/01/last_word_in_politics.html) (1912) — urges Black voters to weigh race over party
+- [How Shall We Vote](../../Volumes/20/05/how_shall_we_vote.html) (1920) — both parties uphold Jim Crow
+- [How Shall We Vote](../../Volumes/29/01/how_shall_we_vote.html) (1924) — endorses La Follette-Wheeler
+- [Third Party](../../Volumes/36/02/third_party.html) (1929) — disfranchisement rigs democracy
+- [The Strategy of the Negro Voter](../../Volumes/40/06/strategy_of_the_negro_voter.html) (1933)
+
 ### Black Women Voters
 
 After the Nineteenth Amendment, Du Bois tracked Black women's political participation with particular attention. He covered voter registration drives, documented suppression efforts, and treated Black women voters as a potentially transformative political force.
+
+- [Colored Women as Voters](../../Volumes/04/05/colored_women_as_voters.html) (1912) — Adella Hunt Logan on suffrage
+- [The Justice of Woman Suffrage](../../Volumes/04/05/justice_of_woman_suffrage.html) (1912) — Mary Church Terrell's argument
+- [Votes for Women](../../Volumes/15/01/votes_for_women.html) (1918)
+- [Woman Suffrage](../../Volumes/19/05/woman_suffrage.html) (1920) — urges Black women to organize and register
+- [The Woman Voter](../../Volumes/21/05/woman_voter.html) (1921)
+
+---
+
+### All Voting & Elections Articles
