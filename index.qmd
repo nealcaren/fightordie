@@ -13,102 +13,116 @@ format:
           </style>
 ---
 
-::: {.hero}
-![](/Images/crisis_office.png "W.E.B. Du Bois and staff in the Crisis magazine office. Schomburg Center for Research in Black Culture, NYPL."){.hero-image}
+```{=html}
+<div class="masthead">
+<h1 class="masthead-title">Dare You Fight</h1>
+<p class="masthead-subtitle">W.E.B. Du Bois in <em>The Crisis</em>, 1910–1934</p>
+</div>
 
-# Dare You Fight {.hero-title}
-## W.E.B. Du Bois in <span class="crisis-title">The Crisis</span> {.hero-subtitle}
-:::
+<img src="/Images/crisis_office.png" class="masthead-photo" alt="W.E.B. Du Bois and staff in the Crisis magazine office">
+```
 
-"A toothache is agitation," Du Bois [wrote in November 1910](Volumes/01/01/Agitation.html), answering critics who urged silence. "Is a toothache a good thing? No. Is it therefore useless? No. It is supremely useful, for it tells the body of decay, dyspepsia and death." For twenty-four years he made <span class="crisis-title">The Crisis</span> the toothache of American democracy: documenting lynching, tracking disfranchisement, connecting Jim Crow to empire, and building the case for Black citizenship in prose that could shift from forensic precision to prophetic fury within a single page.
+"A toothache is agitation," Du Bois [wrote in November 1910](Volumes/01/01/Agitation.html), answering critics who urged silence. "Is a toothache a good thing? No. Is it therefore useless? No. It is supremely useful, for it tells the body of decay, dyspepsia and death." For twenty-four years he made *The Crisis* the toothache of American democracy: documenting lynching, tracking disfranchisement, connecting Jim Crow to empire, and building the case for Black citizenship in prose that could shift from forensic precision to prophetic fury within a single page.
 
 This archive collects over 700 of those editorials, spanning the magazine's founding in 1910 through Du Bois's resignation in 1934. They can be [browsed by theme](browse.qmd) or [read chronologically](listing.qmd).
 
----
+## Start Here {.unlisted}
 
-## Where to Start
-
-::::: {.grid .featured-grid}
-
-:::: {.g-col-12 .g-col-md-6 .featured-card}
-### [Agitation](Volumes/01/01/Agitation.html) {.featured-title}
-<span class="featured-date">November 1910</span>
-
-The editorial posture from the first issue. Du Bois declares what <span class="crisis-title">The Crisis</span> will be and why silence is not an option.
-::::
-
-:::: {.g-col-12 .g-col-md-6 .featured-card}
-### [Returning Soldiers](Volumes/18/01/returning_soldiers.html) {.featured-title}
-<span class="featured-date">May 1919</span>
-
-"We *return*. We *return from fighting*. We *return fighting*." The moment the patriotic compact breaks, in the issue that sold 106,000 copies.
-::::
-
-:::: {.g-col-12 .g-col-md-6 .featured-card}
-### [Criteria of Negro Art](Volumes/32/06/criteria_of_negro_art.html) {.featured-title}
-<span class="featured-date">October 1926</span>
-
-"All Art is propaganda and ever must be." Du Bois's philosophy of art, politics, and the duty Black artists owe the community that produced them.
-::::
-
-:::: {.g-col-12 .g-col-md-6 .featured-card}
-### [On Being Crazy](Volumes/26/01/on_being_crazy.html) {.featured-title}
-<span class="featured-date">June 1923</span>
-
-A Socratic dialogue on the absurdity of segregation. Fiction as weapon, anticipating the literature of the absurd by decades.
-::::
-
-:::: {.g-col-12 .g-col-md-6 .featured-card}
-### [The Princess of the Hither Isles](Volumes/06/06/princess_of_hither_isles.html) {.featured-title}
-<span class="featured-date">November 1913</span>
-
-Allegorical fable compressing the history of racial exploitation into a story about a princess and a tower of gold. A different Du Bois.
-::::
-
-:::: {.g-col-12 .g-col-md-6 .featured-card}
-### [Segregation](Volumes/41/01/segregation.html) {.featured-title}
-<span class="featured-date">January 1934</span>
-
-The editorial that ended his editorship. Du Bois argues the unthinkable: the segregated must build within the system they oppose.
-::::
-
-:::::
+```{=html}
+<div id="article-pool"></div>
+<a id="show-more" href="#">Show me more &rarr;</a>
+```
 
 ---
 
 ## Explore the Collection
 
-::::: {.grid}
+[Browse by Theme](browse.qmd)
+: Fourteen thematic pages on segregation, lynching, voting, labor, Pan-Africanism, art, religion, and more.
 
-:::: {.g-col-12 .g-col-md-4 .explore-card}
-### [Browse by Theme](browse.qmd)
-Fourteen thematic pages trace Du Bois's arguments on segregation, lynching, voting, labor, Pan-Africanism, art, religion, and more.
-::::
+[All Articles](listing.qmd)
+: Over 700 editorials, searchable and sortable by date, title, or keyword.
 
-:::: {.g-col-12 .g-col-md-4 .explore-card}
-### [All Articles](listing.qmd)
-Over 700 articles, searchable and sortable by date, title, or keyword.
-::::
+[Du Bois & *The Crisis*](backround.html)
+: The full story: from Du Bois's first magazines through the war years, the Harlem Renaissance, and his resignation.
 
-:::: {.g-col-12 .g-col-md-4 .explore-card}
-### [Du Bois & <span class="crisis-title">The Crisis</span>](backround.html)
-The full story: from Du Bois's first failed magazines through the founding of <span class="crisis-title">The Crisis</span>, the war years, the Harlem Renaissance, and his resignation.
-::::
+[Magazine Covers](covers.html)
+: The visual history of *The Crisis*, issue by issue, from 1910 to 1934.
 
-:::: {.g-col-12 .g-col-md-4 .explore-card}
-### [Magazine Covers](covers.html)
-The visual history of <span class="crisis-title">The Crisis</span>, issue by issue, from 1910 to 1934.
-::::
+[About This Project](about.html)
+: Editorial conventions, how to cite, and how to contribute.
 
-:::: {.g-col-12 .g-col-md-4 .explore-card}
-### [About This Project](about.html)
-Editorial conventions, how to cite, and how to contribute.
-::::
 
-:::::
+```{=html}
+<script>
+var articles = [
+  {title: "A Mild Suggestion", date: "January 1912", url: "Volumes/03/03/mild_suggestion.html", excerpt: "On the first of January, 1913, let each person who has a colored friend invite him to dinner. … The hosts should provide themselves with a sufficient quantity of cyanide of potassium, placing it carefully in the proper cups, and being careful not to mix the cups."},
+  {title: "The Song of the Smoke", date: "January 1914", url: "Volumes/07/03/song_of_smoke.html", excerpt: "I will be black as blackness can, / The blacker the mantle the mightier the man. … I am carving God in night, / I am painting Hell in white."},
+  {title: "The \u201cJim Crow\u201d Argument", date: "April 1913", url: "Volumes/05/06/jim_crow_argument.html", excerpt: "Social equality? Of course we want social equality. Social equality is the right to demand the treatment of men from your fellow man. To ask less is to acknowledge your own lack of manhood."},
+  {title: "Steve", date: "June 1919", url: "Volumes/17/02/steve.html", excerpt: "He was a lank puppy when he came\u2014long, and dull gold on his crinkly hair, furtive and frightened, but his eyes were the eyes of the Crucified Christ."},
+  {title: "Chamounix", date: "December 1921", url: "Volumes/23/02/chamounix.html", excerpt: "If I lived here long I should pray to Mont Blanc, throwing my hands in ecstasy, screaming my tears. I should heap fire against it and vow gold and jewels. It should be God. For what else can God be but a Mountain or the Sea?"},
+  {title: "The Massacre in East St. Louis", date: "March 1917", url: "Volumes/14/05/massacre_of_east_st_louis.html", excerpt: "The East St. Louis affair, as I saw it, was a man hunt, conducted on a sporting basis, though with anything but the fair play which is the principle of sport."},
+  {title: "The Lynching Industry", date: "February 1915", url: "Volumes/09/04/lynching_industry.html", excerpt: "A theatrical company playing \u2018Potash and Perlmutter\u2019 made an excursion to the entertainment and several society women were present."},
+  {title: "In Black", date: "April 1920", url: "Volumes/20/06/in_black.html", excerpt: "Black <em>is</em> caricature in our half conscious thought and we shun in print and paint that which we love in life. How good a dark face looks to us in a strange white city!"},
+  {title: "Bleeding Ireland", date: "March 1921", url: "Volumes/21/05/bleeding-ireland.html", excerpt: "No people can more exactly interpret the inmost meaning of the present situation in Ireland than the American Negro. The scheme is simple. You knock a man down and then have him arrested for assault."},
+  {title: "Join or Die", date: "January 1914", url: "Volumes/07/03/fightordie.html", excerpt: "The use? Merciful God! does a drowning man ask the USE of struggles? No, he struggles, he fights. He wins the shore or dies fighting."},
+  {title: "Russia, 1926", date: "May 1926", url: "Volumes/33/01/russia_1926.html", excerpt: "But if what I have seen with my eyes and heard with my ears in Russia is Bolshevism, I am a Bolshevik."},
+  {title: "The Gospel According to Mary Brown", date: "June 1919", url: "Volumes/19/02/gospel.html", excerpt: "His skin was black velvet; his eyes were star-sewn midnights, set in milk; his tiny teeth, white pearls; and his hair all tender tendrils of silk."},
+  {title: "Another Open Letter to Woodrow Wilson", date: "November 1913", url: "Volumes/06/05/open_letter.html", excerpt: "We are told that one colored clerk who could not actually be segregated on account of the nature of his work has consequently had a cage built around him to separate him from his white companions of many years."},
+  {title: "Thirteen", date: "January 1918", url: "Volumes/15/03/thirteen.html", excerpt: "We raise our clenched hands against the hundreds of thousands of white murderers, rapists, and scoundrels who have oppressed, killed, ruined, robbed, and debased their black fellow men and fellow women, and yet, today, walk scot-free, unwhipped of justice."},
+  {title: "Little Portraits of Africa", date: "April 1924", url: "Volumes/27/06/little_portraits.html", excerpt: "Africa is the Spiritual Frontier of human kind\u2014oh the wild and beautiful adventures of its taming! But oh! the cost thereof\u2014the endless, endless cost!"},
+  {title: "Marxism and the Negro Problem", date: "May 1933", url: "Volumes/40/05/marxism_and_the_negro_problem.html", excerpt: "There is something radically wrong with an industrial system that turns out simultaneously paupers and millionaires and sets a world starving because it has too much food."},
+  {title: "The Challenge of Detroit", date: "May 1925", url: "Volumes/31/01/challenge_of_detroit.html", excerpt: "Dear God! Must we not live? And if we live may we not live somewhere?"},
+  {title: "Colored Women as Voters", date: "March 1912", url: "Volumes/04/05/colored_women_as_voters.html", excerpt: "The fashion of saying \u2018I do not care to meddle with politics\u2019 is disappearing among the colored woman faster than most people think, for this same woman has learned that politics meddle constantly with her and hers."},
+  {title: "World War and the Color Line", date: "May 1914", url: "Volumes/09/01/worldwar.html", excerpt: "Today civilized nations are fighting like mad dogs over the right to own and exploit these darker peoples."},
+  {title: "Courts and Jails", date: "April 1932", url: "Volumes/39/04/courts_and_jails.html", excerpt: "Nothing in the world is easier in the United States than to accuse a black man of crime. In the South, if any crime is committed, the first cry of the mob is, \u2018Find the Negro!\u2019 And while they are finding him, the white criminal comfortably escapes."},
+  {title: "Pechstein and Pecksniff", date: "September 1929", url: "Volumes/36/09/pechstein_and_pecksniff.html", excerpt: "The logical end of racial segregation is Caste, Hate and War."},
+  {title: "Gandhi and India", date: "March 1921", url: "Volumes/23/05/india_and_gandhi.html", excerpt: "The West has produced a Lenin, strong, masterful, relentless alike in logic and method. The East has given birth to a Gandhi, equally strong, masterful and relentless. But whilst the former pins his faith on force, the latter relies on non-resistance."},
+  {title: "Unrest", date: "March 1920", url: "Volumes/19/05/unrest.html", excerpt: "Dip down Thy Hands into the flame ways of Thy Heavens; / Splash back the foaming clouds, / Strain out Thy Suns, / And let the stars drip through, upon the panting blindness of our ears."},
+  {title: "Migration", date: "April 1916", url: "Volumes/12/06/migration.html", excerpt: "The same reasons that drive the Jew from Russia, the peasants from Austria, the Armenians from Turkey and the oppressed from tyranny everywhere should drive the colored man out of the land of lynching, lawlessness and industrial oppression."},
+  {title: "The Shambles of South Carolina", date: "June 1926", url: "Volumes/33/02/shambles_of_south_carolina.html", excerpt: "She thrashed about on the ground begging piteously for life. \u2018She\u2019s bleating like a goat.\u2019 One of the mob members laughed derisively as he said it."},
+  {title: "Haiti", date: "April 1920", url: "Volumes/19/06/haiti.html", excerpt: "Josephus Daniels has illegally and unjustly occupied a free foreign land and murdered its inhabitants by the thousands. He has deposed its officials and dispersed its legally elected representatives."},
+  {title: "The Second Coming", date: "June 1917", url: "Volumes/15/02/second_coming.html", excerpt: "The bishop bent quickly above the baby. It was black!"},
+  {title: "A Lunatic or a Traitor", date: "May 1924", url: "Volumes/28/01/lunatic_or_a_traitor.html", excerpt: "I have been exposing white traitors for a quarter century. If the day has come when I cannot tell the truth about black traitors it is high time that I died."},
+  {title: "The Immediate Program of the American Negro", date: "April 1915", url: "Volumes/09/06/immediate_program.html", excerpt: "It is the most frightful indictment of a country which dares to call itself civilized that it has allowed itself to drift into a state of ignorance where ten million people are coming to believe that all white people are liars and thieves."},
+  {title: "Jesus Christ in Georgia", date: "June 1911", url: "Volumes/03/02/jesus_christ.html", excerpt: "A convict gang swept the road and the chain clanked. A tall brown black man, strong and beautiful, was their leader."},
+  {title: "Returning Soldiers", date: "May 1919", url: "Volumes/18/01/returning_soldiers.html", excerpt: "We <em>return</em>. We <em>return from fighting</em>. We <em>return fighting</em>. Make way for Democracy! We saved it in France, and by the Great Jehovah, we will save it in the United States of America, or know the reason why."},
+  {title: "Criteria of Negro Art", date: "October 1926", url: "Volumes/32/06/criteria_of_negro_art.html", excerpt: "I do not care a damn for any art that is not used for propaganda for gaining the right of black folk to love and enjoy."},
+  {title: "Close Ranks", date: "July 1918", url: "Volumes/16/03/close_ranks.html", excerpt: "Let us, while this war lasts, forget our special grievances and close our ranks shoulder to shoulder with our own white fellow citizens and the allied nations that are fighting for democracy."},
+  {title: "Segregation", date: "January 1934", url: "Volumes/41/01/segregation.html", excerpt: "The thinking colored people of the United States must stop being stampeded by the word segregation."},
+  {title: "Tulsa", date: "April 1921", url: "Volumes/22/06/tulsa.html", excerpt: "Black Tulsa fights! It fights mobs with firearms and it fights economic oppression with cooperation."},
+  {title: "The House of the Black Burghardts", date: "April 1928", url: "Volumes/35/04/black.html", excerpt: "It was decrepit almost beyond repair save that into its tough and sturdy timbers the Black Burghardts had built so much of their own dumb pluck that\u2014\u2018Why the stairs don\u2019t even creak!\u2019 said She, climbing gingerly aloft."}
+];
 
----
+function shuffle(arr) {
+  for (var i = arr.length - 1; i > 0; i--) {
+    var j = Math.floor(Math.random() * (i + 1));
+    var temp = arr[i]; arr[i] = arr[j]; arr[j] = temp;
+  }
+  return arr;
+}
 
-::: {.project-note}
-This is an ongoing digitization project. The full run of <span class="crisis-title">The Crisis</span> is available at the [Internet Archive](https://archive.org/details/pub_crisis). If you are interested in helping expand the collection, see our [Contribution Guide](https://github.com/nealcaren/fightordie/blob/main/contributing.md) or contact the project director, [Neal Caren](mailto:neal.caren@unc.edu).
-:::
+function renderArticles() {
+  shuffle(articles);
+  var container = document.getElementById("article-pool");
+  container.innerHTML = "";
+  for (var i = 0; i < 6 && i < articles.length; i++) {
+    var a = articles[i];
+    var div = document.createElement("div");
+    div.className = "start-here-item";
+    div.innerHTML = '<a href="' + a.url + '" class="start-here-title">' + a.title + '</a>' +
+      '<span class="start-here-date"> · ' + a.date + '</span>' +
+      '<div class="start-here-excerpt">' + a.excerpt + '</div>';
+    container.appendChild(div);
+  }
+}
+
+document.addEventListener("DOMContentLoaded", function() {
+  renderArticles();
+  document.getElementById("show-more").addEventListener("click", function(e) {
+    e.preventDefault();
+    renderArticles();
+  });
+});
+</script>
+```

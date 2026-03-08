@@ -31,16 +31,17 @@ body {
 }
 
 /* Constrain reading width for prose */
-.quarto-body-content > * {
+main.content > * {
   max-width: 600px;
 }
 
-/* Let listings, grids, and hero break out of reading width */
-.quarto-listing,
-.hero,
-.grid,
-.featured-grid,
-.columns {
+/* Let listings, grids, hero, and homepage elements break out of reading width */
+main.content > .quarto-listing,
+main.content > .hero,
+main.content > .grid,
+main.content > .featured-grid,
+main.content > .columns,
+main.content > .masthead {
   max-width: none;
 }
 
@@ -462,157 +463,145 @@ blockquote br + span {
 /* Homepage styles       */
 /* ===================== */
 
-.hero {
-  position: relative;
-  margin: -1rem calc(-50vw + 50%) 2rem calc(-50vw + 50%);
-  width: 100vw;
-  overflow: hidden;
-}
-
-.hero p {
-  margin: 0;
-  line-height: 0;
-}
-
-.hero-image {
-  width: 100%;
-  height: 420px;
-  object-fit: cover;
-  object-position: center 20%;
-  filter: brightness(0.45);
-  margin-bottom: 0;
-  display: block;
-}
-
-.hero-title,
-.hero-subtitle {
-  position: absolute;
-  left: 0;
-  right: 0;
+/* Masthead — typographic title area */
+.masthead {
   text-align: center;
-  color: #fff !important;
-  margin: 0;
-  padding: 0 1rem;
-  text-shadow: 0 2px 12px rgba(0,0,0,0.5);
+  padding: 3rem 0 0 0;
+  max-width: none;
 }
 
-.hero-title {
-  top: 50%;
-  transform: translateY(-80%);
-  font-size: 3.4rem;
-  font-weight: 700;
-  letter-spacing: 0.04em;
+.masthead-title {
   font-family: var(--font-display);
+  font-size: 3.2rem;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  color: var(--color-primary);
+  margin: 0;
 }
 
-.hero-subtitle {
-  top: 50%;
-  transform: translateY(60%);
-  font-size: 1.4rem;
-  font-weight: 400;
-  letter-spacing: 0.02em;
+.masthead-subtitle {
   font-family: var(--font-primary);
+  font-size: 1.2rem;
+  font-weight: 400;
+  color: var(--color-text);
+  margin: 0.5rem 0 1.5rem 0;
+  letter-spacing: 0.02em;
 }
 
-.hero-subtitle .crisis-title {
-  color: #fff;
+.masthead::after {
+  content: "";
+  display: block;
+  width: 120px;
+  height: 2px;
+  background: var(--color-primary);
+  margin: 0 auto;
 }
 
-/* Featured article cards */
-.featured-grid {
-  margin-top: 1.5rem;
+/* Office photo below masthead */
+.masthead-photo {
+  display: block;
+  width: 100%;
+  max-width: 500px;
+  margin: 2rem auto 2rem auto;
 }
 
-.featured-card {
-  border-left: 3px solid var(--color-primary);
-  padding: 0.75rem 1rem;
-  margin-bottom: 0.25rem;
-  transition: background-color 0.2s ease;
+/* Hide auto-generated caption on masthead photo */
+figure:has(.masthead-photo) figcaption {
+  display: none;
 }
 
-.featured-card:hover {
-  background-color: rgba(168, 50, 30, 0.04);
+/* Start Here — randomized article list */
+#article-pool {
+  margin-top: 1rem;
 }
 
-.featured-card h3 {
-  margin-top: 0;
-  margin-bottom: 0.25rem;
+.start-here-item {
+  margin-bottom: 1.5rem;
+  padding-left: 1rem;
+  border-left: 2px solid var(--color-primary);
+}
+
+.start-here-title {
+  font-family: var(--font-display);
   font-size: 1.15rem;
+  font-weight: 600;
+  color: var(--color-primary);
 }
 
-.featured-date {
+.start-here-title:hover {
+  color: var(--color-primary-dark);
+  text-decoration: underline;
+}
+
+.start-here-date {
   font-family: var(--font-primary);
   font-size: 0.85rem;
-  color: #888;
-  display: block;
-  margin-bottom: 0.35rem;
-  letter-spacing: 0.02em;
+  color: #999;
+  letter-spacing: 0.01em;
 }
 
-.featured-card p {
-  margin-bottom: 0.25rem;
-  font-size: 0.95rem;
+.start-here-excerpt {
+  font-family: var(--font-body);
+  font-size: 1rem;
   line-height: 1.5;
+  color: #444;
+  margin-top: 0.3rem;
+  font-style: italic;
 }
 
-/* Explore section cards */
-.explore-card {
-  padding: 1rem;
-  border: 1px solid var(--color-border);
-  border-radius: 2px;
-  margin-bottom: 0.5rem;
-  transition: border-color 0.2s ease, box-shadow 0.2s ease;
-}
-
-.explore-card:hover {
-  border-color: var(--color-accent);
-  box-shadow: 0 2px 8px rgba(42, 90, 140, 0.1);
-}
-
-.explore-card h3 {
-  margin-top: 0;
-  margin-bottom: 0.35rem;
-  font-size: 1.1rem;
+#show-more {
+  font-family: var(--font-primary);
+  font-size: 0.9rem;
   color: var(--color-accent);
+  cursor: pointer;
+  display: inline-block;
+  margin-bottom: 1rem;
 }
 
-.explore-card p {
-  margin-bottom: 0;
-  font-size: 0.9rem;
-  color: #666;
+#show-more:hover {
+  color: var(--color-accent-dark);
 }
 
-/* Project note at bottom */
-.project-note {
-  font-size: 0.9rem;
-  color: #666;
-  text-align: center;
+/* Explore section — definition list style */
+main.content > dl {
   max-width: 600px;
-  margin: 0 auto 2rem auto;
 }
 
-/* Responsive hero */
+main.content > dl dt {
+  font-family: var(--font-display);
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin-top: 1rem;
+}
+
+main.content > dl dt a {
+  color: var(--color-primary);
+}
+
+main.content > dl dd {
+  font-family: var(--font-primary);
+  font-size: 0.95rem;
+  color: #555;
+  margin-left: 0;
+  margin-bottom: 0.5rem;
+}
+
+/* Responsive masthead */
 @media (max-width: 768px) {
-  .hero-image {
-    height: 300px;
+  .masthead-title {
+    font-size: 2.4rem;
   }
-  .hero-title {
-    font-size: 2.2rem;
-  }
-  .hero-subtitle {
-    font-size: 1.1rem;
+  .masthead-subtitle {
+    font-size: 1.05rem;
   }
 }
 
 @media (max-width: 480px) {
-  .hero-image {
-    height: 240px;
+  .masthead {
+    padding: 2rem 0 0 0;
   }
-  .hero-title {
-    font-size: 1.8rem;
-  }
-  .hero-subtitle {
-    font-size: 0.95rem;
+  .masthead-title {
+    font-size: 2rem;
   }
 }
 
@@ -751,6 +740,27 @@ figure {
     border: none;
     padding-left: 1rem;
     padding-top: 0;
+    position: relative;
+}
+
+/* Copy citation button */
+.cite-copy-btn {
+  display: inline-block;
+  margin-top: 0.5rem;
+  padding: 0.25rem 0.75rem;
+  font-family: var(--font-primary);
+  font-size: 0.8rem;
+  color: var(--color-accent);
+  border: 1px solid var(--color-accent);
+  border-radius: 2px;
+  background: transparent;
+  cursor: pointer;
+  transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+.cite-copy-btn:hover {
+  background-color: var(--color-accent);
+  color: #fff;
 }
 
 #quarto-appendix.default .quarto-appendix-heading {

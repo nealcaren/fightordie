@@ -52,6 +52,26 @@ format:
     link-external-newwindow: true
     link-external-icon: false
     anchor-sections: false
+    include-after-body:
+      - text: |
+          <script>
+          document.addEventListener("DOMContentLoaded", function() {
+            var cite = document.querySelector(".quarto-appendix-citeas");
+            if (cite) {
+              var btn = document.createElement("button");
+              btn.className = "cite-copy-btn";
+              btn.textContent = "Copy citation";
+              btn.addEventListener("click", function() {
+                var text = cite.textContent.replace("Copy citation", "").replace("Copied!", "").trim();
+                navigator.clipboard.writeText(text).then(function() {
+                  btn.textContent = "Copied!";
+                  setTimeout(function() { btn.textContent = "Copy citation"; }, 2000);
+                });
+              });
+              cite.appendChild(btn);
+            }
+          });
+          </script>
     include-in-header:
       - text: |
           <script type="application/ld+json">
