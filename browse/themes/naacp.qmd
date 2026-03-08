@@ -1,0 +1,28 @@
+---
+title: "The Mission"
+description: "Du Bois's 51 editorials on the NAACP, organizational strategy, and building the movement in The Crisis (1910-1934)"
+listing:
+  contents: ../../Volumes
+  type: table
+  sort: "date"
+  date-format: "YYYY (MMM)"
+  page-size: 50
+  fields: [date, title, description]
+  filter-ui: true
+  include:
+    categories: "NAACP & Organizational Strategy"
+---
+
+Du Bois made *The Crisis* into an organizing tool. These 51 editorials trace the building of a movement: the founding manifesto, the membership drives ("Join or Die"), the branch-building campaigns, and the defense of the NAACP's methods against critics. They also document the organizational tensions that defined Du Bois's editorship, from his early clashes with Oswald Garrison Villard to his final confrontation with Walter White.
+
+### Building the Organization
+
+The early editorials are recruitment tools. Du Bois urged readers to join the NAACP, form local branches, and treat *The Crisis* as a weapon. "Join or Die" appeared in multiple forms across several issues. "The Proper Way" and "A Crusade" laid out what membership meant in practice.
+
+### Defending NAACP Methods
+
+As the organization grew, so did criticism. Communists called the NAACP too cautious. Accommodationists called it too confrontational. Du Bois defended the organization's legal strategy while acknowledging its limitations. His argument was pragmatic: legal defense was not the complete program, but it was the only tool that had produced concrete results.
+
+### The Editor and the Organization
+
+The running tension between editorial independence and organizational control. Du Bois insisted that *The Crisis* had to be more than a newsletter. The NAACP board wanted a more cautious publication. This conflict, visible from the first year, culminated in Du Bois's resignation in 1934.

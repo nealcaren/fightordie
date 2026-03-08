@@ -6,15 +6,35 @@ format:
     toc: false
 ---
 
-Explore W.E.B. Du Bois's 600+ articles from *The Crisis* magazine organized by topic, time period, or volume.
+Explore W.E.B. Du Bois's 700+ articles from *The Crisis* magazine organized by theme, person, place, or time period.
 
-## Browse by Topic
+## Browse by Theme
 
-All 708 articles have been indexed with structured metadata using Library Science principles. Browse by:
+Across twenty-four years, Du Bois returned to the same interlocking problems. These thematic pages collect his editorials by subject and trace how his arguments evolved.
 
-- **[Subjects](browse/subjects/)** - 28 major topics including Lynching, Voting Rights, Pan-Africanism, Educational Inequality
-- **[People](browse/people/)** - 18 historical figures including Woodrow Wilson, Booker T. Washington, Marcus Garvey
-- **[Places](browse/places/)** - 30 locations including Haiti, Chicago, Atlanta, Africa
+:::: {.columns}
+::: {.column width="50%"}
+- [**The Color Line**](browse/themes/segregation.qmd) (144 articles) — Segregation and social equality
+- [**The Mob**](browse/themes/racial-violence.qmd) (134 articles) — Lynching and racial violence
+- [**Voting & Elections**](browse/themes/voting.qmd) (131 articles) — Disfranchisement and party strategy
+- [**Labor & Economics**](browse/themes/labor-economics.qmd) (111 articles) — Union exclusion and cooperativism
+- [**The South**](browse/themes/south.qmd) (90 articles) — Southern governance and migration
+- [**The World**](browse/themes/pan-africanism.qmd) (90 articles) — Pan-Africanism and empire
+- [**Education**](browse/themes/education.qmd) (78 articles) — Schools, funding, philanthropic control
+:::
+
+::: {.column width="50%"}
+- [**Internal Debate**](browse/themes/internal-debate.qmd) (72 articles) — Accommodationism, Garvey, NAACP methods
+- [**Art & Culture**](browse/themes/art-culture.qmd) (61 articles) — Harlem Renaissance and Black institutions
+- [**The Compact**](browse/themes/war.qmd) (57 articles) — War, military service, betrayal
+- [**The Mission**](browse/themes/naacp.qmd) (51 articles) — Building the NAACP
+- [**The Soul**](browse/themes/religion.qmd) (45 articles) — Religion and moral argument
+- [**Women's Rights**](browse/themes/women.qmd) (41 articles) — Suffrage and political power
+- [**The Artist**](browse/themes/literary.qmd) (36 articles) — Fiction, poetry, satire, allegory
+:::
+::::
+
+Also browse by **[Subjects](browse/subjects/)**, **[People](browse/people/)**, or **[Places](browse/places/)**.
 
 [**→ Full Browse Index**](browse/index.qmd)
 

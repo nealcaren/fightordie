@@ -1,0 +1,28 @@
+---
+title: "The Culture"
+description: "Du Bois's 61 editorials on art, the Harlem Renaissance, and Black self-representation in The Crisis (1910-1934)"
+listing:
+  contents: ../../Volumes
+  type: table
+  sort: "date"
+  date-format: "YYYY (MMM)"
+  page-size: 50
+  fields: [date, title, description]
+  filter-ui: true
+  include:
+    categories: "Art & Culture"
+---
+
+From "In Black" (anticipating "Black is Beautiful" by fifty years) through the Harlem Renaissance to the Krigwa theatre manifesto ("About us, By us, For us, Near us"), these 61 editorials show Du Bois as cultural critic, literary reviewer, pageant writer, and theorist of culturally sovereign Black institutions. His 1926 essay "Criteria of Negro Art" contains the defining statement: "All Art is propaganda and ever must be." The position put him at odds with younger artists, but Du Bois was not opposed to the new voices. He was arguing about what art owed to the community that produced it.
+
+### Harlem Renaissance Criticism
+
+Du Bois reviewed books, assessed artistic movements, and promoted new talent. He championed Langston Hughes and Countee Cullen, criticized Claude McKay's *Home to Harlem*, and argued that Black art had to serve Black freedom. The literary contests and Krigwa awards gave emerging writers a path to publication.
+
+### "All Art Is Propaganda"
+
+Du Bois's aesthetic philosophy, stated with characteristic bluntness in "Criteria of Negro Art." He argued that the demand for "pure" art was itself a political position, one that benefited those who already controlled how Black life was represented. Art made by Black artists for Black audiences was a form of self-determination.
+
+### Black Cultural Institutions
+
+The Krigwa Players, the annual literary contests, *The Brownie's Book*, the art exhibitions, the special issues on Black colleges. Du Bois did not just write about Black culture. He built institutions to sustain it.

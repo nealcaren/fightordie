@@ -1,0 +1,28 @@
+---
+title: "The Structures"
+description: "Du Bois's 111 editorials on labor, economics, and the search for economic alternatives in The Crisis (1910-1934)"
+listing:
+  contents: ../../Volumes
+  type: table
+  sort: "date"
+  date-format: "YYYY (MMM)"
+  page-size: 50
+  fields: [date, title, description]
+  filter-ui: true
+  include:
+    categories: "Labor & Economics"
+---
+
+Du Bois refused the binary of capitalism versus socialism. White workers were not allies: they formed the actual mobs, controlled exclusionary unions, and benefited from imperialism. His answer evolved across twenty-four years: first Black-controlled capital deployed democratically, then consumers' cooperatives modeled on European examples. By the Depression, Du Bois declared individual enterprise futile. Only cooperative self-organization offered a path. These 111 editorials contain some of the most intellectually dense writing in the collection, using the Socratic method and patient economic reasoning.
+
+### Union Exclusion
+
+The American labor movement's color line. Du Bois documented how unions excluded Black workers, how white workers used racial solidarity to protect their economic position, and why the promise of interracial class consciousness remained hollow. He concluded that white workers formed "the actual mobs" and that pinning hopes on their class consciousness was futile.
+
+### Cooperativism
+
+Du Bois's alternative to both capitalism and revolution. He studied English, Scandinavian, and Russian cooperative models and urged Black communities to build consumers' cooperatives, cooperative housing, and collective economic institutions. The vision gained little traction among the Black middle class, but Du Bois pressed it with increasing urgency.
+
+### Communism and the Soviet Experiment
+
+After visiting Russia in 1926, Du Bois declared himself sympathetic to Bolshevik goals but sharply critical of American Communists' tactics. "The Negro and Communism" is the definitive statement: he refused to make Black Americans "shock troops" of Communist revolution while acknowledging that capitalism had failed.

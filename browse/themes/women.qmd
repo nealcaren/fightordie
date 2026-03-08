@@ -1,0 +1,24 @@
+---
+title: "Women's Rights"
+description: "Du Bois's 41 editorials on women's suffrage, gender, and Black women's political power in The Crisis (1910-1934)"
+listing:
+  contents: ../../Volumes
+  type: table
+  sort: "date"
+  date-format: "YYYY (MMM)"
+  page-size: 50
+  fields: [date, title, description]
+  filter-ui: true
+  include:
+    categories: "Women's Rights"
+---
+
+Du Bois linked woman suffrage to racial justice early and consistently. These 41 editorials, spanning the full run of *The Crisis*, treat gender and race as parallel struggles against the same logic of exclusion. The August 1912 issue was a dedicated "Votes for Women" number. After the Nineteenth Amendment, Du Bois tracked Black women's political participation with particular attention, and his writing on Black women voters carries a warmth unusual in the collection.
+
+### Suffrage
+
+Du Bois supported woman suffrage from the first issue of *The Crisis*, arguing that the logic of disfranchisement was the same whether applied to women or to Black men. He criticized white suffragists who accepted racial exclusion as the price of their own enfranchisement, and he insisted that the movement could not be separated from the fight against the color line.
+
+### Black Women as Political Force
+
+After 1920, Du Bois covered Black women's voter registration drives, documented white efforts to suppress Black women's votes, and argued that Black women voters could become a decisive force in American elections. The coverage of the 1920 election is the fullest expression of this argument.

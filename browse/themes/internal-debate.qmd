@@ -1,0 +1,28 @@
+---
+title: "Internal Debate"
+description: "Du Bois's 72 editorials on accommodationism, Garvey, and contests within the movement in The Crisis (1910-1934)"
+listing:
+  contents: ../../Volumes
+  type: table
+  sort: "date"
+  date-format: "YYYY (MMM)"
+  page-size: 50
+  fields: [date, title, description]
+  filter-ui: true
+  include:
+    categories: "Internal Debate"
+---
+
+Du Bois fought on two fronts: against white supremacy and against strategies within the Black community that he believed accommodated it. These 72 editorials trace his contests with Booker T. Washington's legacy, his escalating confrontation with Marcus Garvey, and his defense of the NAACP's methods against critics from both left and right.
+
+### Accommodationism and Washington
+
+The Washington critique runs through the early corpus. Du Bois rarely named Washington directly but demolished the accommodationist platform systematically: its acceptance of disfranchisement, its restriction of education to industrial training, its willingness to trade political rights for economic concessions. After Washington's death in 1915, Du Bois wrote a measured obituary, then continued the argument against Washington's successors at Tuskegee.
+
+### Garvey
+
+The most volatile internal contest of the period. Du Bois moved from generous appraisal ("an honest and sincere man with a tremendous vision") to financial forensics on the Black Star Line to "A Lunatic or a Traitor," the most vitriolic piece in the entire corpus. The Garvey editorials reveal Du Bois at his most prosecutorial.
+
+### NAACP Defense and Methods
+
+Du Bois defended the NAACP's legal strategy against Communist critics who called it too cautious and against accommodationists who called it too confrontational. "Legal defense is not the complete program," he conceded, "BUT it is the only effective immediate tool." His resignation pieces are the coda: pride in what the organization had built, recognition that it had outgrown one editor's vision.

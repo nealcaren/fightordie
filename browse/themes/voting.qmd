@@ -1,0 +1,28 @@
+---
+title: "The Fight"
+description: "Du Bois's 131 editorials on voting rights, elections, and political strategy in The Crisis (1910-1934)"
+listing:
+  contents: ../../Volumes
+  type: table
+  sort: "date"
+  date-format: "YYYY (MMM)"
+  page-size: 50
+  fields: [date, title, description]
+  filter-ui: true
+  include:
+    categories: "Voting & Elections"
+---
+
+Du Bois wrote about voting and elections in 131 editorials across the full run of *The Crisis*. He hammered three recurring arguments: the Fourteenth Amendment required reduced congressional representation for states that disfranchised their citizens; Black voters had to practice strategic bloc voting rather than blind party loyalty; and neither Republicans nor Democrats could be trusted to deliver. The arc runs from hopeful engagement with Woodrow Wilson to bitter realpolitik: Black voters could not afford to vote on tariffs or farm relief. They had to filter every candidate through a single question: "Does this candidate respect Negro humanity?"
+
+### Disfranchisement and Representation
+
+Du Bois returned to the constitutional argument repeatedly. Southern states disfranchised Black voters through poll taxes, literacy tests, grandfather clauses, and white primaries, then claimed full congressional representation based on the population they had silenced. He called this theft of political power the foundation of the Jim Crow system.
+
+### Party Strategy
+
+Neither party earned loyalty. Republicans took Black votes for granted; Democrats actively suppressed them. Du Bois experimented with endorsements, urged bloc voting, flirted with third parties, and grew increasingly skeptical that electoral politics alone could produce change.
+
+### Black Women Voters
+
+After the Nineteenth Amendment, Du Bois tracked Black women's political participation with particular attention. He covered voter registration drives, documented suppression efforts, and treated Black women voters as a potentially transformative political force.

@@ -1,47 +1,51 @@
 ---
 title: "Browse the Archive"
-description: "Explore W.E.B. Du Bois's writings from The Crisis by subject, person, place, decade, or year"
+description: "Explore W.E.B. Du Bois's writings from The Crisis by theme, person, place, decade, or year"
 format:
   html:
     toc: true
 ---
 
-Explore W.E.B. Du Bois's 600+ articles from *The Crisis* magazine organized by topic, person, place, time period, or volume.
+Explore W.E.B. Du Bois's 700+ articles from *The Crisis* magazine organized by theme, person, place, or time period.
 
-## By Subject
+## By Theme
 
-Browse articles by major themes in Du Bois's writings:
+Du Bois returned to the same interlocking problems month after month across twenty-four years. These thematic pages collect his editorials by subject and trace how his arguments evolved.
 
 :::: {.columns}
 ::: {.column width="50%"}
-**Civil Rights & Racial Violence**
+**The System**
 
-- [Lynching](subjects/lynching.html) (72 articles)
-- [Anti-lynching legislation](subjects/anti_lynching_legislation.html) (12 articles)
-- [Voting rights](subjects/voting_rights.html) (16 articles)
-- [Disenfranchisement](subjects/disfranchisement_voting_rights.html) (15 articles)
-- [Jim Crow laws](subjects/jim_crow_laws.html) (15 articles)
-- [Residential segregation](subjects/residential_segregation.html) (10 articles)
+- [The Color Line](themes/segregation.qmd) (144 articles) — Segregation, Jim Crow, social equality, and the paradox that ended his editorship
+- [The Mob](themes/racial-violence.qmd) (134 articles) — Lynching, mob violence, legal injustice, and armed self-defense
+- [The South](themes/south.qmd) (90 articles) — Southern governance, the press, migration
 
-**Political & Social Issues**
+**The Fight**
 
-- [Women's suffrage](subjects/womens_suffrage.html) (16 articles)
-- [Interracial marriage](subjects/interracial_marriage.html) (7 articles)
-- [White supremacy](subjects/white_supremacy.html) (9 articles)
+- [Voting & Elections](themes/voting.qmd) (131 articles) — Disfranchisement, party strategy, Black women voters
+- [Internal Debate](themes/internal-debate.qmd) (72 articles) — Accommodationism, Garvey, NAACP methods
+- [The Mission](themes/naacp.qmd) (51 articles) — Building the NAACP, organizational strategy
 :::
 
 ::: {.column width="50%"}
-**Education & Culture**
+**The Structures**
 
-- [Educational inequality](subjects/educational_inequality.html) (18 articles)
-- [Pan-Africanism](subjects/panafrican ism.html) (16 articles)
+- [Labor & Economics](themes/labor-economics.qmd) (111 articles) — Union exclusion, cooperativism, communism
+- [Education](themes/education.qmd) (78 articles) — Funding disparities, industrial vs. liberal arts, philanthropic control
 
-**Military & War**
+**The World**
 
-- [African American military service (World War I)](subjects/african_american_military_service_world_war_i.html) (9 articles)
-- [Military discrimination](subjects/military_discrimination_against_african_americans.html) (5 articles)
+- [Pan-Africanism & Empire](themes/pan-africanism.qmd) (90 articles) — Africa, Haiti, India, imperialism as system
 
-[View all subject browse pages →](subjects/)
+**The Soul**
+
+- [Religion & Morality](themes/religion.qmd) (45 articles) — Christian hypocrisy, Christ-as-Black-man, moral argument
+- [Women's Rights](themes/women.qmd) (41 articles) — Suffrage, Black women as political force
+
+**The Artist**
+
+- [Art & Culture](themes/art-culture.qmd) (61 articles) — Harlem Renaissance, "All Art is propaganda," Black institutions
+- [Literary Writing](themes/literary.qmd) (36 articles) — Fiction, poetry, satire, allegory, prose poetry
 :::
 ::::
 
@@ -86,11 +90,10 @@ Browse articles by geographic focus:
 
 :::::: {.columns}
 ::::: {.column width="50%"}
-**United States - National & Regional**
+**United States**
 
 - [United States](places/united_states.html) (286 articles)
 - [Southern United States](places/southern_united_states.html) (162 articles)
-- [Northern United States](places/northern_united_states.html) (21 articles)
 - [Washington, D.C.](places/washington_dc.html) (60 articles)
 
 **U.S. States**
@@ -99,7 +102,6 @@ Browse articles by geographic focus:
 - [Georgia](places/georgia.html) (15 articles)
 - [South Carolina](places/south_carolina.html) (16 articles)
 - [Alabama](places/alabama.html) (13 articles)
-- [Virginia](places/virginia.html) (11 articles)
 - [Texas](places/texas.html) (12 articles)
 :::::
 
@@ -130,7 +132,7 @@ Browse articles by geographic focus:
 :::::: {.grid}
 ::::: {.g-col-12 .g-col-md-6}
 ### [1910s: The Founding Years](1910s.html)
-The Crisis is launched. Du Bois establishes his voice on segregation, voting rights, and the NAACP's mission during a period of intense racial violence and World War I.
+*The Crisis* is launched. Du Bois establishes his voice on segregation, voting rights, and the NAACP's mission during a period of intense racial violence and World War I.
 
 **Key themes:** Founding the NAACP, anti-lynching campaigns, WWI and the Great Migration
 :::::
@@ -144,7 +146,7 @@ The Jazz Age and Harlem Renaissance. Du Bois writes on the "New Negro," Pan-Afri
 
 ::::: {.g-col-12 .g-col-md-6}
 ### 1930-1934: Depression Era
-Du Bois's final years at The Crisis. Economic crisis reshapes debates over segregation, self-help, and the role of organized labor.
+Du Bois's final years at *The Crisis*. Economic crisis reshapes debates over segregation, self-help, and the role of organized labor.
 
 **Key themes:** Great Depression, economic justice, debates on segregation
 :::::
@@ -152,7 +154,7 @@ Du Bois's final years at The Crisis. Economic crisis reshapes debates over segre
 
 ## Other Ways to Explore
 
-- **[All Articles (Chronological)](../listing.html)** - Complete listing with search
-- **[By Volume & Issue](volumes.html)** - Browse by original publication
-- **[Article Map](../map.html)** - Geographic visualization
-- **[Magazine Covers](../covers.html)** - Visual history of The Crisis
+- **[All Articles (Chronological)](../listing.html)** — Complete listing with search
+- **[By Volume & Issue](volumes.html)** — Browse by original publication
+- **[Article Map](../map.html)** — Visualization by semantic similarity
+- **[Magazine Covers](../covers.html)** — Visual history of The Crisis

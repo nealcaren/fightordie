@@ -1,0 +1,28 @@
+---
+title: "The Soul"
+description: "Du Bois's 45 editorials on religion, Christianity, and moral argument in The Crisis (1910-1934)"
+listing:
+  contents: ../../Volumes
+  type: table
+  sort: "date"
+  date-format: "YYYY (MMM)"
+  page-size: 50
+  fields: [date, title, description]
+  filter-ui: true
+  include:
+    categories: "Religion & Morality"
+---
+
+Du Bois framed racial justice as the test of Christian sincerity and found Christianity failing. These 45 editorials range from allegorical fiction ("Jesus Christ in Georgia," in which Christ appears as a mulatto and is nearly lynched) to prophetic indictment ("The Christmas Prayers of God," in which God witnesses a lynching and falls silent) to direct attacks on church complicity in racial oppression. The most prophetic voice in the collection emerges here: biblical rhetoric deployed against the church itself.
+
+### Christian Hypocrisy
+
+Du Bois argued that American Christianity had made its peace with racial oppression. Churches segregated their congregations. Denominations failed to condemn lynching. Missionaries who preached brotherhood abroad tolerated Jim Crow at home. He named specific denominations, specific churches, specific clergymen.
+
+### Christ as Black Man
+
+Across several allegorical pieces, Du Bois reimagined Christ as a figure of color. "Jesus Christ in Georgia" placed Christ in the rural South. "The White Christ" inverted the racial iconography. "Pontius Pilate" collapsed two thousand years into a single scene, with Pilate as governor of Mississippi. These pieces use biblical typology as a weapon against the church.
+
+### Moral Argument
+
+Beyond the specifically religious editorials, Du Bois deployed moral reasoning throughout the collection. He appealed to democratic principles, to constitutional promises, to the logic of human equality. When those appeals failed, he turned to prophetic denunciation.

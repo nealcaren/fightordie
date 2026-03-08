@@ -1,0 +1,32 @@
+---
+title: "The Artist"
+description: "Du Bois's 36 works of fiction, poetry, satire, allegory, and prose poetry from The Crisis (1910-1934)"
+listing:
+  contents: ../../Volumes
+  type: table
+  sort: "date"
+  date-format: "YYYY (MMM)"
+  page-size: 50
+  fields: [date, title, description]
+  filter-ui: true
+  include:
+    categories: "Literary Writing"
+---
+
+A different Du Bois. Alongside the polemicist, sociologist, and strategist, *The Crisis* published a fiction writer, poet, satirist, and prose stylist who considered every available literary form a weapon for racial justice. These 36 pieces appear when argumentative patience is exhausted and Du Bois turns to parable.
+
+### Fiction and Allegory
+
+"The Princess of the Hither Isles" is allegorical fable, compressing the history of racial exploitation into a story about a princess and a tower of gold. "Jesus Christ in Georgia" places Christ in the Jim Crow South. "Pontius Pilate" collapses two thousand years into a single scene. Du Bois used fiction to say what editorials could not.
+
+### Poetry
+
+"A Hymn to the Peoples," "Song of the Smoke," and other poems that deploy rhythm and image where argument fails. Du Bois wrote poetry sparingly, but the pieces collected here show a writer working in a register entirely different from his editorial voice.
+
+### Satire and Dialogue
+
+"On Being Crazy" is a Socratic dialogue anticipating absurdist literature. "Again, Social Equality" names the sexual subtext of segregation with startling directness. "Of Giving Work" uses dramatic dialogue to expose the logic of racial exclusion. These pieces use humor and formal invention where direct argument would be deflected.
+
+### Prose Poetry and Travel
+
+"Chamounix" is a prose poem about Mont Blanc with no politics at all. "Little Portraits of Africa" is the most beautiful prose in the corpus. These pieces reveal a writer who could have been a literary artist full-time, and chose not to.

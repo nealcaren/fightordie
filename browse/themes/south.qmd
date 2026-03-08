@@ -1,0 +1,28 @@
+---
+title: "The South"
+description: "Du Bois's 90 editorials on Southern politics, governance, and the Great Migration in The Crisis (1910-1934)"
+listing:
+  contents: ../../Volumes
+  type: table
+  sort: "date"
+  date-format: "YYYY (MMM)"
+  page-size: 50
+  fields: [date, title, description]
+  filter-ui: true
+  include:
+    categories: "The South"
+---
+
+The South's refusal to think honestly about race made it a drag on American civilization. Du Bois named governors, quoted newspapers, and cited statutes. These 90 editorials are forensic journalism: documenting how disfranchisement skewed national politics, how the plantation economy persisted in new forms, and how Southern "civilization" was a euphemism for racial terror. The South in these pages is not a region but a political problem.
+
+### Southern Governance
+
+Du Bois tracked the mechanics of one-party rule: how disfranchisement concentrated power, how poll taxes and white primaries excluded Black citizens, and how the resulting political structure warped national legislation. He argued that the South's overrepresentation in Congress, based on a population it refused to let vote, was the foundation of the Jim Crow order.
+
+### Southern Press and Public Opinion
+
+Du Bois quoted Southern newspapers at length, letting editors convict themselves. He tracked how the Southern press framed racial violence, manufactured consent for disfranchisement, and dismissed Black aspirations. The technique was deliberate: quoting the enemy let editors convict themselves in their own words.
+
+### Migration
+
+The Great Migration as both escape and judgment. Du Bois covered why Black Southerners were leaving, what they found in the North, and what their departure revealed about the South. He encouraged migration while acknowledging its costs.

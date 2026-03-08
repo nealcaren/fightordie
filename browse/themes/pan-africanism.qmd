@@ -1,0 +1,28 @@
+---
+title: "The World"
+description: "Du Bois's 90 editorials on Pan-Africanism, colonialism, and the global color line in The Crisis (1910-1934)"
+listing:
+  contents: ../../Volumes
+  type: table
+  sort: "date"
+  date-format: "YYYY (MMM)"
+  page-size: 50
+  fields: [date, title, description]
+  filter-ui: true
+  include:
+    categories: "Pan-Africanism & Empire"
+---
+
+Du Bois framed American racism as part of a global system from the first issue of *The Crisis*. Africa, Haiti, India, Ireland, and Hawaii were one story. These 90 editorials range from the programmatic documents of the Pan-African Congresses to lyrical travel writing about Africa to geopolitical analyses connecting Jim Crow to European imperialism. The collection's two retrospective pieces, written in 1947 and 1951, bring the argument full circle: "The Freeing of India" treats colored liberation worldwide as a single movement.
+
+### Africa and the Pan-African Congresses
+
+Du Bois organized Pan-African Congresses in 1919, 1921, 1923, and 1927, using *The Crisis* to promote each one and to publish their resolutions. The Congress documents called for better treatment of African colonies, greater international oversight, and eventual self-governance. The Africa travel writings, especially "Little Portraits of Africa," are among the most beautiful prose in the corpus.
+
+### Haiti, India, Ireland
+
+Du Bois connected struggles across the colonial world. The U.S. occupation of Haiti drew sustained editorial attention. India's independence movement provided a model of nonviolent resistance. Irish independence demonstrated that white European peoples, too, fought against imperial domination. Each case reinforced Du Bois's argument that the color line was a global system.
+
+### Imperialism as System
+
+The analytical framework that tied everything together. Du Bois argued that American racial oppression was not a local problem but part of a worldwide system of exploitation built on the color line. European colonialism, American Jim Crow, and South African mining labor were expressions of the same logic.

@@ -1,0 +1,28 @@
+---
+title: "The Compact"
+description: "Du Bois's 57 editorials on war, military service, and the broken patriotic bargain in The Crisis (1910-1934)"
+listing:
+  contents: ../../Volumes
+  type: table
+  sort: "date"
+  date-format: "YYYY (MMM)"
+  page-size: 50
+  fields: [date, title, description]
+  filter-ui: true
+  include:
+    categories: "War & Military"
+---
+
+The spine of *The Crisis* from 1914 to 1921. Du Bois constructed a patriotic compact, tested it, and watched it fail. These 57 editorials begin with the paradox of Black patriotism during the Mexican border crisis, pass through the strategic bargain of "Close Ranks," document Black soldiers' service and mistreatment in France, and arrive at the furious reversal of "Returning Soldiers": "We *return*. We *return from fighting*. We *return fighting*." The war's deepest effect on Du Bois was rhetorical. It gave him a narrative of betrayal, a more powerful engine than constitutional principle alone.
+
+### The Patriotic Compact
+
+Before American entry, Du Bois built the argument: Black Americans would serve loyally, and America would repay that service with justice. "Close Ranks" (July 1918) was the compact's most controversial expression. The editorial drew immediate criticism and damaged Du Bois's standing, but it was strategically deliberate.
+
+### Black Soldiers' Service
+
+Du Bois documented what Black troops did in France: their valor, their treatment by French civilians, and the systematic mistreatment they faced from American officers. He traveled to France in December 1918 to gather firsthand accounts. The May 1919 issue, built on those documents, sold 106,000 copies.
+
+### "Returning Soldiers" and Betrayal
+
+The compact breaks. Black veterans returned to lynching, disfranchisement, and Red Summer. Du Bois's fury is visible in the prose. The war editorials, read in sequence, form one of the most powerful narrative arcs in American journalism: a bargain offered, honored, and repudiated.

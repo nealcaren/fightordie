@@ -1,0 +1,28 @@
+---
+title: "The Structures: Education"
+description: "Du Bois's 78 editorials on education, schools, and the fight against philanthropic control in The Crisis (1910-1934)"
+listing:
+  contents: ../../Volumes
+  type: table
+  sort: "date"
+  date-format: "YYYY (MMM)"
+  page-size: 50
+  fields: [date, title, description]
+  filter-ui: true
+  include:
+    categories: "Education"
+---
+
+White philanthropic control over Black education functioned as colonial governance. Du Bois defended classical and liberal arts education against industrial-training advocates, understanding that restricting Black education restricted Black futures. These 78 editorials are data-driven: per-pupil spending figures, school-term comparisons, and county-level statistics deployed as moral accusations.
+
+### Funding Disparities
+
+Du Bois used numbers as weapons. He published per-pupil spending comparisons between white and Black schools, documented how Southern states diverted tax revenue from Black districts, and showed that educational inequality was not an accident but a policy.
+
+### Industrial versus Liberal Arts
+
+The debate with Booker T. Washington's legacy ran through the early corpus. Du Bois argued that limiting Black education to vocational training was a strategy of containment, not uplift. He championed liberal arts education as the foundation of intellectual freedom and political capacity.
+
+### Philanthropic Control
+
+The General Education Board, the Rosenwald Fund, and other white philanthropies shaped Black education through their funding decisions. Du Bois criticized the strings attached to their gifts: deference to white donors, avoidance of controversial subjects, and a preference for industrial training over liberal education. The Thomas Jesse Jones editorial is the sharpest statement.

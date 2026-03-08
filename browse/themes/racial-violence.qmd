@@ -1,0 +1,28 @@
+---
+title: "The Mob"
+description: "Du Bois's 134 editorials documenting lynching, racial violence, and the anti-lynching campaign in The Crisis (1910-1934)"
+listing:
+  contents: ../../Volumes
+  type: table
+  sort: "date"
+  date-format: "YYYY (MMM)"
+  page-size: 50
+  fields: [date, title, description]
+  filter-ui: true
+  include:
+    categories: "Racial Violence"
+---
+
+The single largest cluster in the collection. Du Bois treated lynching not as aberration but as system: state-sanctioned, economically motivated, legally protected. These 134 editorials range from statistical accounting ("The Lynching Industry") to investigative reporting (the East St. Louis massacre) to savage satire ("Triumph") to structural analysis of how mobs worked. By the late years, Du Bois's conclusion was stark: "the police IS the mob. The courts ARE the lynchers."
+
+### Lynching and Mob Violence
+
+Du Bois documented lynchings by name, date, location, and circumstance. He published victims' identities, exposed the lies used to justify mob action, and tracked the geographic and economic patterns. The Coatesville lynching, the Lowman case, and dozens of others received sustained editorial attention.
+
+### Legal Injustice
+
+The courts as instruments of racial violence. The Scottsboro case, the Sweet trial, the Houston riot courts-martial, and the repeated failure of the Dyer Anti-Lynching Bill. Du Bois showed how the legal system ratified what mobs enforced.
+
+### Armed Self-Defense
+
+The moments when Black communities fought back. The Houston soldiers, the Phillips County farmers, the resistance during Red Summer. Du Bois covered these events with a mixture of pride and grief, knowing that self-defense brought harsher punishment than the violence it answered.

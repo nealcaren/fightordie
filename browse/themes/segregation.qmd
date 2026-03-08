@@ -1,0 +1,32 @@
+---
+title: "The Color Line"
+description: "Du Bois's 144 editorials on segregation, Jim Crow, and the fight for social equality in The Crisis (1910-1934)"
+listing:
+  contents: ../../Volumes
+  type: table
+  sort: "date"
+  date-format: "YYYY (MMM)"
+  page-size: 50
+  fields: [date, title, description]
+  filter-ui: true
+  include:
+    categories: "Segregation"
+---
+
+Du Bois attacked segregation as undemocratic, unscientific, and spiritually degrading. These 144 editorials trace a twenty-four-year argument against the color line in all its forms: in transportation, housing, public accommodations, the federal civil service, and the unwritten codes of racial etiquette that governed daily life. The argument ended in paradox. In his final editorial year, Du Bois held a contradiction he could not resolve: compulsory segregation was evil, yet the segregated had to build excellence within the system they opposed.
+
+### Jim Crow Laws and Practice
+
+The daily machinery of separation. Du Bois documented Jim Crow cars on Southern railroads, segregated waiting rooms, federal civil service segregation under Woodrow Wilson, and the thousand small humiliations that enforced racial hierarchy. He treated each instance not as an isolated indignity but as evidence of a system.
+
+### Social Equality Debates
+
+White newspapers used "social equality" as a weapon: any demand for political or economic rights was reframed as a demand for interracial marriage. Du Bois named this deflection repeatedly, insisting that equal citizenship had nothing to do with private social choices, and that the sexual subtext of segregation was the real taboo.
+
+### Residential Segregation
+
+From Baltimore's pioneering racial zoning ordinance to Harlem's contested blocks, Du Bois tracked how cities used law, covenant, and mob violence to draw racial boundaries in housing. He connected housing segregation to school quality, property values, and political representation.
+
+### The Segregation Paradox
+
+The intellectual drama that ended Du Bois's editorship. Beginning in January 1934, he argued that Black Americans should stop "being stampeded by the word segregation" and build cooperative institutions within segregated communities. The position broke with everything the NAACP stood for and led directly to his resignation.
