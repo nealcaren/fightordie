@@ -3,6 +3,9 @@ project:
   output-dir: docs
   resources:
     - CNAME
+  render:
+    - "!map.qmd"
+    - "**/*.qmd"
 
 execute:
   freeze: auto
@@ -22,7 +25,6 @@ website:
       text: "Du Bois & The Crisis"
     - text: More
       menu:
-      - map.qmd
       - covers.qmd
       - credits.qmd
   open-graph:

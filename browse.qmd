@@ -1,6 +1,6 @@
 ---
 title: "Browse Articles"
-description: "Explore W.E.B. Du Bois's writings from The Crisis by decade, year, or volume"
+description: "Explore W.E.B. Du Bois's writings from The Crisis by theme, subject, person, or place"
 format:
   html:
     toc: false
@@ -36,77 +36,8 @@ Across twenty-four years, Du Bois returned to the same interlocking problems. Th
 
 Also browse by **[Subjects](browse/subjects/)**, **[People](browse/people/)**, or **[Places](browse/places/)**.
 
-[**→ Full Browse Index**](browse/index.qmd)
-
-## By Decade
-
-:::::: {.grid}
-
-::: {.g-col-12 .g-col-md-6}
-### [1910s: The Founding Years](browse/1910s.qmd)
-The Crisis is launched. Du Bois establishes his voice on segregation, voting rights, and the NAACP's mission during a period of intense racial violence and World War I.
-
-**Key themes:** Founding the NAACP, anti-lynching campaigns, WWI and the Great Migration
-:::
-
-::: {.g-col-12 .g-col-md-6}
-### [1920s: Post-War & Renaissance](browse/1920s.qmd)
-The Jazz Age and Harlem Renaissance. Du Bois writes on the "New Negro," Pan-Africanism, and the contradictions of American democracy in an age of cultural flowering.
-
-**Key themes:** Pan-African Congresses, Harlem Renaissance, Marcus Garvey, political disillusionment
-:::
-
-::: {.g-col-12 .g-col-md-6}
-### [1930-1934: Depression Era](browse/1930s.qmd)
-Du Bois's final years at The Crisis. Economic crisis reshapes debates over segregation, self-help, and the role of organized labor.
-
-**Key themes:** Great Depression, economic justice, debates on segregation, Communist Party
-:::
-
-::::::
-
-## By Year
-
-<details>
-<summary><strong>1910-1914: Early Years</strong></summary>
-
-- [1910](browse/1910.qmd) - Launch of The Crisis (Nov-Dec)
-- [1911](browse/1911.qmd) - Establishing the voice
-- [1912](browse/1912.qmd) - Growing influence
-- [1913](browse/1913.qmd) - Political battles
-- [1914](browse/1914.qmd) - Eve of World War I
-
-</details>
-
-<details>
-<summary><strong>1915-1919: World War I Era</strong></summary>
-
-- [1915](browse/1915.qmd) - War in Europe begins
-- [1916](browse/1916.qmd) - Presidential politics
-- [1917](browse/1917.qmd) - U.S. enters war, Great Migration, Houston Mutiny
-- [1918](browse/1918.qmd) - War ends, flu pandemic
-- [1919](browse/1919.qmd) - Red Summer of race riots
-
-</details>
-
-<details>
-<summary><strong>1920-1929: Jazz Age</strong></summary>
-
-- [1920-1924](browse/1920-1924.qmd) - Post-war adjustment, Pan-African Congresses
-- [1925-1929](browse/1925-1929.qmd) - Harlem Renaissance peaks
-
-</details>
-
-<details>
-<summary><strong>1930-1934: Final Years</strong></summary>
-
-- [1930-1934](browse/1930-1934.qmd) - Depression, debates on separation vs integration
-
-</details>
-
 ## Other Ways to Explore
 
-- **[All Articles (Chronological)](listing.qmd)** - Complete listing with search
-- **[By Volume & Issue](browse/volumes.qmd)** - Browse by original publication
-- **[Article Map](map.qmd)** - Geographic visualization
-- **[Magazine Covers](covers.qmd)** - Visual history of The Crisis
+- **[All Articles (Chronological)](listing.qmd)** — Complete listing with search and category filters
+- **[By Volume & Issue](browse/volumes.qmd)** — Browse by original publication
+- **[Magazine Covers](covers.qmd)** — Visual history of The Crisis

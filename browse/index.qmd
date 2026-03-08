@@ -156,5 +156,4 @@ Du Bois's final years at *The Crisis*. Economic crisis reshapes debates over seg
 
 - **[All Articles (Chronological)](../listing.html)** — Complete listing with search
 - **[By Volume & Issue](volumes.html)** — Browse by original publication
-- **[Article Map](../map.html)** — Visualization by semantic similarity
 - **[Magazine Covers](../covers.html)** — Visual history of The Crisis

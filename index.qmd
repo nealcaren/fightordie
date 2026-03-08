@@ -22,7 +22,7 @@ format:
 
 "A toothache is agitation," Du Bois [wrote in November 1910](Volumes/01/01/Agitation.html), answering critics who urged silence. "Is a toothache a good thing? No. Is it therefore useless? No. It is supremely useful, for it tells the body of decay, dyspepsia and death." For twenty-four years he made <span class="crisis-title">The Crisis</span> the toothache of American democracy: documenting lynching, tracking disfranchisement, connecting Jim Crow to empire, and building the case for Black citizenship in prose that could shift from forensic precision to prophetic fury within a single page.
 
-This archive collects over 700 of those editorials, spanning the magazine's founding in 1910 through Du Bois's resignation in 1934. They can be [browsed by theme](browse.qmd), [read chronologically](listing.qmd), or [explored by similarity](map.html).
+This archive collects over 700 of those editorials, spanning the magazine's founding in 1910 through Du Bois's resignation in 1934. They can be [browsed by theme](browse.qmd) or [read chronologically](listing.qmd).
 
 ---
 
@@ -88,11 +88,6 @@ Fourteen thematic pages trace Du Bois's arguments on segregation, lynching, voti
 :::: {.g-col-12 .g-col-md-4 .explore-card}
 ### [All Articles](listing.qmd)
 Over 700 articles, searchable and sortable by date, title, or keyword.
-::::
-
-:::: {.g-col-12 .g-col-md-4 .explore-card}
-### [Article Map](map.html)
-An interactive visualization positioning articles by semantic similarity. Thematically related writings cluster together.
 ::::
 
 :::: {.g-col-12 .g-col-md-4 .explore-card}

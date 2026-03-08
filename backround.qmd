@@ -128,8 +128,6 @@ In the final years, the paradox becomes the central rhetorical form. Du Bois hol
 
 This site collects over 700 of Du Bois's writings from *The Crisis*, spanning the magazine's founding in 1910 through his departure in 1934. The articles can be [browsed chronologically](listing.qmd) or explored by [subject](browse.qmd), including topics like [lynching](browse/themes/racial-violence.qmd), [education](browse/themes/education.qmd), [voting rights](browse/themes/voting.qmd), and [Pan-Africanism](browse/themes/pan-africanism.qmd). They can also be explored by the [people](browse/people/), [places](browse/places/), and [organizations](browse.qmd) that appear in them.
 
-The [article map](map.html) visualizes the entire collection, with articles positioned by semantic similarity. Articles that address related themes cluster together, revealing patterns in Du Bois's editorial attention across twenty-four years.
-
 For readers new to the collection, a few entry points: "[Agitation](Volumes/01/01/Agitation.html)" (1910) establishes the editorial posture from the first issue. "[Returning Soldiers](Volumes/18/01/returning_soldiers.html)" (1919) captures Du Bois at his most rhetorically powerful. "[Criteria of Negro Art](Volumes/32/06/criteria_of_negro_art.html)" (1926) lays out his philosophy of art and politics. "[The Princess of the Hither Isles](Volumes/06/06/princess_of_hither_isles.html)" (1913) reveals the fiction writer. And "[Segregation](Volumes/41/01/segregation.html)" (1934) is the editorial that ended his editorship.
 
 
