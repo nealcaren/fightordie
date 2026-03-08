@@ -1,26 +1,30 @@
 /* Modernized and Reorganized CSS */
 
 /* Import fonts */
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,300;0,400;0,500;0,600;0,700;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,opsz,wght@0,12..23,400..800;1,12..23,400..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
 
 /* CSS Variables */
 :root {
   --color-primary: #800020;
   --color-primary-dark: #660018;
   --color-primary-darker: #33000c;
-  --color-text: #333;
-  --color-background: #fff;
-  --font-primary: 'Roboto', sans-serif;
-  --font-secondary: 'Roboto Serif', serif;
+  --color-nav: #1a0008;
+  --color-text: #2d2a26;
+  --color-background: #faf8f5;
+  --color-border: #e0dbd4;
+  --font-primary: 'Source Sans 3', sans-serif;
+  --font-body: 'EB Garamond', serif;
+  --font-display: 'Playfair Display', serif;
 }
 
 /* Base styles */
 body {
-  font-family: var(--font-secondary);
+  font-family: var(--font-body);
   color: var(--color-text);
   background-color: var(--color-background);
-  line-height: 1.7;
+  line-height: 1.75;
 }
 
 /* Constrain reading width for prose */
@@ -40,10 +44,14 @@ body {
 
 /* Typography */
 h1, h2, h3, h4, h5 {
-  font-family: var(--font-secondary);
+  font-family: var(--font-display);
   color: var(--color-primary);
   border-bottom-width: 0;
 }
+
+h1 { font-size: 2.5rem; font-weight: 700; }
+h2 { font-size: 1.5rem; font-weight: 600; margin-bottom: 0rem; }
+h3 { font-size: 1.25rem; font-weight: 600; }
 
 .quarto-categories {
     font-family: var(--font-primary);
@@ -51,6 +59,7 @@ h1, h2, h3, h4, h5 {
 
 .quarto-title-meta-heading {
     font-family: var(--font-primary);
+    display: none;
 }
 
 /* UI elements use sans-serif */
@@ -67,37 +76,31 @@ h1, h2, h3, h4, h5 {
   font-family: var(--font-primary);
 }
 
-h1 { font-size: 2.5rem; }
-h2 { font-size: 1.45rem; }
-h3 { font-size: 1.25rem; }
-
-h2 {margin-bottom: 0rem;}
-
-.subtitle {
-  font-size: 2rem;
-  color: var(--color-primary);
-  font-family: var(--font-secondary);
-  font-weight: 500;
-}
-
-.crisis-title {
-  font-variant: small-caps;
-  font-weight: 500;
-  font-family: var(--font-secondary);
-}
-
-.small-caps-title {
-  font-variant: small-caps;
-  font-weight: 500;
-  font-family: var(--font-secondary);
-}
-
-.small-caps {
-  font-variant: small-caps;
-}
-
+/* Article title block — editorial byline style */
 #title-block-header {
     margin-block-end: 3rem;
+}
+
+#title-block-header .quarto-title-meta {
+  display: flex;
+  gap: 0.5rem;
+  align-items: baseline;
+  border-top: 1px solid var(--color-border);
+  padding-top: 0.75rem;
+  margin-top: 0.75rem;
+}
+
+#title-block-header .quarto-title-meta-contents p {
+  font-family: var(--font-primary);
+  font-size: 0.95rem;
+  color: #666;
+  margin-bottom: 0;
+}
+
+/* Separator between author and date */
+#title-block-header .quarto-title-meta > div:not(:last-child) {
+  padding-right: 1rem;
+  border-right: 1px solid var(--color-border);
 }
 
 /* Hide SEO description from appearing in article header */
@@ -105,14 +108,67 @@ h2 {margin-bottom: 0rem;}
     display: none;
 }
 
+.subtitle {
+  font-size: 2rem;
+  color: var(--color-primary);
+  font-family: var(--font-display);
+  font-weight: 500;
+}
+
+.crisis-title {
+  font-variant: small-caps;
+  font-weight: 500;
+  font-family: var(--font-body);
+}
+
+.small-caps-title {
+  font-variant: small-caps;
+  font-weight: 500;
+  font-family: var(--font-body);
+}
+
+.small-caps {
+  font-variant: small-caps;
+}
+
+/* Hide anchor icons on headings */
+.anchor-section-icon {
+  display: none !important;
+}
+
+/* Refined horizontal rule — thin burgundy line with centered dot */
 hr {
   border: none;
-  height: 30px;
-  background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 10"><path fill="none" stroke="black" stroke-width="0.5" d="M0,5 C25,0 25,10 50,5 C75,0 75,10 100,5"/><path fill="black" d="M24,4 Q25,5 26,4 Q25,3 24,4 M49,4 Q50,5 51,4 Q50,3 49,4 M74,4 Q75,5 76,4 Q75,3 74,4"/></svg>');
-  background-repeat: repeat-x;
-  margin: 20px auto;
-  width: 50%;
+  height: 1px;
+  background: transparent;
+  margin: 2.5rem auto;
+  width: 40%;
   position: relative;
+  overflow: visible;
+}
+
+hr::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 1px;
+  background: linear-gradient(to right, transparent, var(--color-primary), transparent);
+  opacity: 0.35;
+}
+
+hr::after {
+  content: "◆";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 0.5rem;
+  color: var(--color-primary);
+  background: var(--color-background);
+  padding: 0 0.75rem;
+  opacity: 0.6;
 }
 
 
@@ -131,7 +187,7 @@ hr {
 a {
   color: var(--color-primary);
   text-decoration: none;
-  transition: color 0.3s ease;
+  transition: color 0.2s ease;
 }
 
 a:hover {
@@ -139,25 +195,92 @@ a:hover {
   text-decoration: underline;
 }
 
-/* Navigation */
+/* Navigation — dark bar */
 header {
   font-family: var(--font-primary);
   font-weight: 500;
-  border-bottom: 1px solid #e8e8e8;
+  border-bottom: none;
 }
 
-.navbar-title, .menu-text {
-  color: var(--color-primary);
+.navbar {
+  background-color: var(--color-nav) !important;
+  border-bottom: 1px solid rgba(128, 0, 32, 0.4);
+}
+
+.navbar-title {
+  color: #f0e6e9 !important;
+  font-family: var(--font-display);
+  font-weight: 600;
+  letter-spacing: 0.02em;
+}
+
+.menu-text {
+  color: #d4c4c8 !important;
+  font-size: 0.9rem;
+  letter-spacing: 0.02em;
 }
 
 .nav-link {
   text-decoration: none;
+  color: #d4c4c8 !important;
+  transition: color 0.2s ease;
+}
+
+.nav-link:hover, .nav-link.active {
+  color: #fff !important;
 }
 
 nav a:hover {
-  font-weight: 600;
+  font-weight: 500;
   text-decoration: none;
-  color: var(--color-primary-darker);
+  color: #fff !important;
+}
+
+/* Navbar logo invert for dark background */
+.navbar-brand img {
+  filter: brightness(0) invert(0.9);
+}
+
+/* Search — refined for dark navbar */
+.navbar .aa-Autocomplete .aa-Form {
+  background: rgba(255,255,255,0.08);
+  border: 1px solid rgba(255,255,255,0.15);
+  border-radius: 2px;
+}
+
+.navbar .aa-Autocomplete .aa-Form:focus-within {
+  border-color: rgba(255,255,255,0.3);
+  box-shadow: none;
+}
+
+.navbar .aa-Autocomplete .aa-Input {
+  color: #f0e6e9;
+}
+
+.navbar .aa-Autocomplete .aa-Input::placeholder {
+  color: rgba(255,255,255,0.4);
+}
+
+/* Search icon color */
+.navbar .aa-SubmitIcon {
+  color: #d4c4c8;
+}
+
+/* Dropdown menus inherit dark style */
+.navbar .dropdown-menu {
+  background-color: var(--color-nav);
+  border: 1px solid rgba(128, 0, 32, 0.4);
+}
+
+.navbar .dropdown-item {
+  color: #d4c4c8;
+  font-family: var(--font-primary);
+}
+
+.navbar .dropdown-item:hover,
+.navbar .dropdown-item:focus {
+  background-color: rgba(128, 0, 32, 0.3);
+  color: #fff;
 }
 
 /* Images */
@@ -170,12 +293,12 @@ img {
 .image-wrap img {
     width: 100%;
     height: auto;
-    margin-bottom: 10px; /* Add some space below the image */
+    margin-bottom: 10px;
   }
 
 p {
-    margin-top: 0; /* Reduce top margin to allow closer wrapping */
-    margin-bottom: 1rem; /* Keep some space between paragraphs */
+    margin-top: 0;
+    margin-bottom: 1rem;
 }
 
 /* Image alignment classes */
@@ -187,19 +310,19 @@ p {
 /* Table styles */
 .table {
   border-collapse: collapse;
-  width: auto; /* Set table width to auto for minimal width */
-  margin-left: 2rem; /* Add left margin to the table */
+  width: auto;
+  margin-left: 2rem;
 }
 
 .table td,
 .table th {
   border: none;
-  padding: 0.25rem 1rem; /* Reduced vertical padding */
+  padding: 0.25rem 1rem;
 }
 
 .table tr {
   border-bottom: none;
-  line-height: 1.4; /* Reduced line height for less whitespace */
+  line-height: 1.4;
 }
 
 /* Ensure table doesn't exceed container width */
@@ -238,7 +361,7 @@ p {
 }
 
 .epigraph {
-  font-family: var(--font-secondary);
+  font-family: var(--font-body);
   font-style: italic;
   text-align: justify;
   margin: 20px 0;
@@ -247,23 +370,23 @@ p {
 }
 
 .column-margin {
-  font-family: var(--font-secondary);
+  font-family: var(--font-body);
 }
 
 blockquote {
-  font-family: var(--font-secondary);
+  font-family: var(--font-body);
   border-left: none;
   margin-bottom: 0;
   padding-top: 0rem;
   position: relative;
-  padding-left: 3em;  /* Reduced left padding */
-  padding-right: 2em; /* Reduced right padding */
-  margin-left: 2em;   /* Added left margin to create space for the quotation mark */
+  padding-left: 3em;
+  padding-right: 2em;
+  margin-left: 2em;
 }
 
 blockquote::before,
 blockquote::after {
-  font-family: var(--font-secondary);
+  font-family: var(--font-body);
   font-size: 6em;
   color: var(--color-primary);
   position: absolute;
@@ -272,14 +395,14 @@ blockquote::after {
 }
 
 blockquote::before {
-  font-family: var(--font-secondary);
+  font-family: var(--font-body);
   font-size: 6em;
   color: var(--color-primary);
   position: absolute;
   line-height: 1;
   opacity: 0.5;
   content: "\201C";
-  left: -0.35em;  /* Adjusted to align with main text */
+  left: -0.35em;
   top: -0.1em;
 }
 /*
@@ -298,7 +421,6 @@ blockquote p {
   text-indent: 0;
 }
 
-/* Add this new rule to ensure all paragraphs in blockquotes have consistent styling */
 blockquote p:first-of-type {
   font-size: 1rem;
   line-height: 1.6;
@@ -311,7 +433,7 @@ blockquote br + span {
 }
 
 .poem {
-  font-family: var(--font-secondary);
+  font-family: var(--font-body);
   font-size: .95rem;
   border-left: none;
   padding-left: 2em;
@@ -354,7 +476,7 @@ blockquote br + span {
   height: 420px;
   object-fit: cover;
   object-position: center 20%;
-  filter: brightness(0.35);
+  filter: brightness(0.45);
   margin-bottom: 0;
   display: block;
 }
@@ -368,15 +490,16 @@ blockquote br + span {
   color: #fff !important;
   margin: 0;
   padding: 0 1rem;
-  text-shadow: 0 2px 12px rgba(0,0,0,0.6);
+  text-shadow: 0 2px 12px rgba(0,0,0,0.5);
 }
 
 .hero-title {
   top: 50%;
   transform: translateY(-80%);
-  font-size: 3.2rem;
+  font-size: 3.4rem;
   font-weight: 700;
-  letter-spacing: 0.03em;
+  letter-spacing: 0.04em;
+  font-family: var(--font-display);
 }
 
 .hero-subtitle {
@@ -384,7 +507,8 @@ blockquote br + span {
   transform: translateY(60%);
   font-size: 1.4rem;
   font-weight: 400;
-  letter-spacing: 0.01em;
+  letter-spacing: 0.02em;
+  font-family: var(--font-primary);
 }
 
 .hero-subtitle .crisis-title {
@@ -416,9 +540,10 @@ blockquote br + span {
 .featured-date {
   font-family: var(--font-primary);
   font-size: 0.85rem;
-  color: #777;
+  color: #888;
   display: block;
   margin-bottom: 0.35rem;
+  letter-spacing: 0.02em;
 }
 
 .featured-card p {
@@ -430,8 +555,8 @@ blockquote br + span {
 /* Explore section cards */
 .explore-card {
   padding: 1rem;
-  border: 1px solid #e8e8e8;
-  border-radius: 4px;
+  border: 1px solid var(--color-border);
+  border-radius: 2px;
   margin-bottom: 0.5rem;
   transition: border-color 0.2s ease, box-shadow 0.2s ease;
 }
@@ -450,7 +575,7 @@ blockquote br + span {
 .explore-card p {
   margin-bottom: 0;
   font-size: 0.9rem;
-  color: #555;
+  color: #666;
 }
 
 /* Project note at bottom */
@@ -528,25 +653,25 @@ blockquote br + span {
 .list-no-markers {
     list-style-type: none;
   }
-  
+
 .clear-wrap {
-    clear: both; /* or clear: left/right; depending on your layout */
+    clear: both;
 }
 
 /* Override the bootstrap styles */
 figure {
-    display: inline-block; /* Allow text wrapping */
+    display: inline-block;
     margin-block-end: 1rem;
   }
 
   figcaption {
-    font-family: var(--font-secondary);
+    font-family: var(--font-body);
     font-size: .8rem;
     padding-left: .5rem;
     padding-right: .5rem;
     text-align: center;
   }
-  
+
 /* Caption and Figure Styles */
 .column-figure {
     width: 100%;
@@ -554,13 +679,13 @@ figure {
     flex-direction: column;
     align-items: center;
   }
-  
+
   .figure-img {
     max-width: 100%;
     height: auto;
     padding-top: .5rem;
   }
-  
+
   .chicago-figure-caption {
     width: 100%;
     text-align: center;
@@ -569,48 +694,48 @@ figure {
     border-top: 1px solid var(--color-text);
     border-bottom: 1px solid var(--color-text);
   }
-  
+
   .caption-list {
     display: grid;
     gap: 5px 10px;
   }
-  
+
   .caption-three-list {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 5px;
   }
-  
+
   .caption-four-list {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     gap: 5px 10px;
   }
-  
+
   .caption-column-item {
     display: flex;
     padding-left: 5px;
   }
-  
+
   .caption-item {
     display: flex;
   }
-  
+
   .caption-number {
     min-width: 20px;
     text-align: right;
     margin-right: 5px;
   }
-  
+
   #quarto-appendix.default {
     background-color: var(--color-background);
-    padding-top: 0; 
+    padding-top: 0;
     margin-top: 0;
 }
 
 #quarto-appendix.default * [role=doc-endnotes] > ol, #quarto-appendix.default .quarto-appendix-contents > * :not(h2):not(.h2) {
   font-size: var(--bs-body-font-size);
-  font-family: var(--font-secondary);
+  font-family: var(--font-body);
 
 }
 
@@ -653,9 +778,9 @@ figure {
 .dots {
   flex-grow: 1;
   border-bottom: 1px dotted black;
-  margin: 0 5px; /* Increase the margin to add more space between the dots and the text */
-  line-height: 0; /* This reduces the space between the dots and raises them up a bit */
-  transform: translateY(-8px); /* Fine-tune the vertical positioning */
+  margin: 0 5px;
+  line-height: 0;
+  transform: translateY(-8px);
 }
 
 
@@ -689,10 +814,67 @@ figure {
       grid-template-columns: repeat(2, 1fr);
     }
   }
-  
+
   @media (max-width: 480px) {
     .caption-three-list,
     .caption-four-list {
       grid-template-columns: 1fr;
     }
   }
+
+/* ===================== */
+/* Listing table styles  */
+/* ===================== */
+
+.quarto-listing-table thead th {
+  background-color: var(--color-primary);
+  color: #fff;
+  font-family: var(--font-primary);
+  text-transform: uppercase;
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  padding: 0.6rem 1rem;
+  border-bottom: none;
+}
+
+.quarto-listing-table tbody tr {
+  border-bottom: 1px solid var(--color-border);
+  transition: background-color 0.15s ease;
+}
+
+.quarto-listing-table tbody tr:hover {
+  background-color: rgba(128, 0, 32, 0.03);
+}
+
+/* Category badges */
+.quarto-category {
+  background-color: transparent;
+  border: 1px solid var(--color-primary);
+  color: var(--color-primary);
+  font-size: 0.75rem;
+  letter-spacing: 0.03em;
+  border-radius: 2px;
+  padding: 0.15em 0.5em;
+}
+
+.quarto-category:hover {
+  background-color: var(--color-primary);
+  color: #fff;
+}
+
+/* ===================== */
+/* Footer styles         */
+/* ===================== */
+
+.nav-footer {
+  font-family: var(--font-primary);
+}
+
+.nav-footer a {
+  color: #d4c4c8 !important;
+}
+
+.nav-footer a:hover {
+  color: #fff !important;
+}

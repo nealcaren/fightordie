@@ -17,6 +17,8 @@ website:
   navbar:
     logo: Images/logo.png
     href: https://www.dareyoufight.org
+    background: "#1a0008"
+    foreground: "#f0e6e9"
     right:
     - browse.qmd
     - listing.qmd
@@ -27,6 +29,13 @@ website:
       menu:
       - covers.qmd
       - credits.qmd
+  page-footer:
+    left: "© 2025 Neal Caren · University of North Carolina at Chapel Hill"
+    right:
+      - icon: github
+        href: https://github.com/nealcaren/fightordie
+    background: "#1a0008"
+    foreground: "#d4c4c8"
   open-graph:
     locale: en_US
     site-name: "Dare You Fight"
@@ -38,12 +47,12 @@ format:
   html:
     theme: simplex
     css: styles.css
-    toc: true
+    toc: false
     fontsize: 1.05em
-    mainfont: 'Roboto Serif'
+    mainfont: 'EB Garamond'
     link-external-newwindow: true
-    link-external-icon: true
-    anchor-sections: true
+    link-external-icon: false
+    anchor-sections: false
     include-in-header:
       - text: |
           <script type="application/ld+json">
@@ -70,5 +79,4 @@ format:
             "isAccessibleForFree": true
           }
           </script>
-
 
