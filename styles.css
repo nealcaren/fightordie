@@ -17,10 +17,24 @@
 
 /* Base styles */
 body {
-  font-family: var(--font-primary);
+  font-family: var(--font-secondary);
   color: var(--color-text);
   background-color: var(--color-background);
-  line-height: 1.6;
+  line-height: 1.7;
+}
+
+/* Constrain reading width for prose */
+.quarto-body-content > * {
+  max-width: 750px;
+}
+
+/* Let listings, grids, and hero break out of reading width */
+.quarto-listing,
+.hero,
+.grid,
+.featured-grid,
+.columns {
+  max-width: none;
 }
 
 
@@ -37,6 +51,20 @@ h1, h2, h3, h4, h5 {
 
 .quarto-title-meta-heading {
     font-family: var(--font-primary);
+}
+
+/* UI elements use sans-serif */
+.quarto-title-meta-contents,
+.quarto-listing .listing-filter,
+.quarto-listing select,
+.quarto-listing input,
+.quarto-listing .listing-pagination,
+.quarto-listing table th,
+.featured-date,
+.explore-card p,
+.project-note,
+.quarto-category {
+  font-family: var(--font-primary);
 }
 
 h1 { font-size: 2.5rem; }
@@ -113,8 +141,9 @@ a:hover {
 
 /* Navigation */
 header {
-  font-family: var(--font-secondary);
+  font-family: var(--font-primary);
   font-weight: 500;
+  border-bottom: 1px solid #e8e8e8;
 }
 
 .navbar-title, .menu-text {

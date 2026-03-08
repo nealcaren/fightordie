@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - CNAME
 
 execute:
   freeze: auto
@@ -35,8 +37,8 @@ format:
     theme: simplex
     css: styles.css
     toc: true
-    fontsize: 1.25em
-    mainfont: 'Roboto'
+    fontsize: 1.05em
+    mainfont: 'Roboto Serif'
     link-external-newwindow: true
     link-external-icon: true
     anchor-sections: true

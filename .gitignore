@@ -144,6 +144,9 @@ done.csv
 local/
 
 /.quarto/
+/docs/
+/analysis/
+CLAUDE.md
 .aider*
 /chromadb
 *.sqlite3
