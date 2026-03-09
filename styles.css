@@ -64,7 +64,7 @@ h1, h2, h3, h4, h5 {
 }
 
 h1 { font-size: 2.5rem; font-weight: 700; }
-h2 { font-size: 1.5rem; font-weight: 600; margin-bottom: 0rem; }
+h2 { font-size: 1.5rem; font-weight: 600; margin-top: 2rem; margin-bottom: 0.5rem; }
 h3 { font-size: 1.25rem; font-weight: 600; }
 
 .quarto-categories {
@@ -359,6 +359,35 @@ p {
     float: none;
     width: 100%;
     margin: 0 0 1rem 0;
+  }
+
+  /* Mobile side padding — match NYT 1.25rem gutters */
+  main.content {
+    padding-left: 1.25rem;
+    padding-right: 1.25rem;
+  }
+}
+
+@media (max-width: 480px) {
+  /* Scale down body text on small screens */
+  body {
+    font-size: 1.125rem;
+  }
+
+  /* Scale down article titles */
+  h1 {
+    font-size: 1.8rem;
+  }
+
+  h2 {
+    font-size: 1.25rem;
+  }
+
+  /* Reduce blockquote indentation on mobile */
+  blockquote {
+    padding-left: 1.5em;
+    padding-right: 0.5em;
+    margin-left: 0;
   }
 }
 
