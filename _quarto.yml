@@ -23,7 +23,7 @@ website:
     - browse.qmd
     - listing.qmd
     - about.qmd
-    - href: backround.qmd
+    - href: background.qmd
       text: "Du Bois & The Crisis"
     - text: More
       menu:

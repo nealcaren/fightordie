@@ -1,4 +1,4 @@
-# Quotation Inventory for backround.qmd Revision
+# Quotation Inventory for background.qmd Revision
 
 Working list of Du Bois quotations drawn from the collection, organized by chapter section. Each entry includes the quote, source article, and suggested placement.
 

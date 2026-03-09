@@ -4,7 +4,7 @@ description: "About this digital archive of W.E.B. Du Bois's 700+ writings from 
 ---
 
 ![](/Images/nypl.digitalcollections.510d47dc-8fb3-a3d9-e040-e00a18064a99.001.w.jpg "Schomburg Center for Research in Black Culture, Photographs and Prints Division, The New York Public Library. "W. E. B. Dubois in the office of The Crisis" New York Public Library Digital Collections. Accessed June 20, 2024. https://digitalcollections.nypl.org/items/510d47dc-8fb3-a3d9-e040-e00a18064a99"){width=40% .right}
-This archive contains over 700 articles by W.E.B. Du Bois from <span class="crisis-title">The Crisis</span>, the official journal of the NAACP. Du Bois founded the magazine in 1910 and contributed to each of the 286 issues he edited before leaving in 1934. His writing ranged from short items on Black colleges to long essays on capitalism and racism, fiction, poetry, and satire. For the full story of his editorship, see [Du Bois & <span class="crisis-title">The Crisis</span>](backround.html).
+This archive contains over 700 articles by W.E.B. Du Bois from <span class="crisis-title">The Crisis</span>, the official journal of the NAACP. Du Bois founded the magazine in 1910 and contributed to each of the 286 issues he edited before leaving in 1934. His writing ranged from short items on Black colleges to long essays on capitalism and racism, fiction, poetry, and satire. For the full story of his editorship, see [Du Bois & <span class="crisis-title">The Crisis</span>](background.html).
 
 ## A Note on Content
 
