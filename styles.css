@@ -33,6 +33,8 @@ body {
 /* Constrain reading width for prose */
 main.content > * {
   max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 /* Let listings, grids, hero, and homepage elements break out of reading width */
