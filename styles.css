@@ -587,30 +587,39 @@ blockquote br + span {
   border-bottom: 1px solid var(--color-border);
 }
 
-/* From the Collection — randomized article excerpts */
+/* From the Collection — editorial pull quotes */
 #article-pool {
-  margin-top: 1rem;
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 1rem;
-  max-width: 700px;
+  margin-top: 1.5rem;
+  max-width: 600px;
   margin-left: auto;
   margin-right: auto;
 }
 
 .start-here-item {
-  padding: 1.25rem;
-  border-left: 3px solid var(--color-primary);
-  background: #fff;
-  border-bottom: none;
+  padding: 1.5rem 0;
+  border-bottom: 1px solid var(--color-border);
+}
+
+.start-here-item:first-child {
+  padding-top: 0;
+}
+
+.start-here-excerpt {
+  font-family: var(--font-body);
+  font-size: 1.15rem;
+  line-height: 1.5;
+  color: var(--color-text);
+  font-style: italic;
+  margin-bottom: 0.4rem;
 }
 
 .start-here-title {
-  font-family: var(--font-display);
-  font-size: 1.05rem;
+  font-family: var(--font-primary);
+  font-size: 0.8rem;
   font-weight: 600;
   color: var(--color-primary);
-  display: block;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
 }
 
 .start-here-title:hover {
@@ -620,27 +629,11 @@ blockquote br + span {
 
 .start-here-date {
   font-family: var(--font-primary);
-  font-size: 0.7rem;
+  font-size: 0.8rem;
+  font-weight: 400;
   color: var(--color-text-subtle);
-  letter-spacing: 0.05em;
+  letter-spacing: 0.03em;
   text-transform: uppercase;
-  display: block;
-  margin-top: 0.15rem;
-}
-
-.start-here-excerpt {
-  font-family: var(--font-body);
-  font-size: 0.95rem;
-  line-height: 1.45;
-  color: var(--color-text-light);
-  margin-top: 0.5rem;
-  font-style: italic;
-}
-
-@media (max-width: 600px) {
-  #article-pool {
-    grid-template-columns: 1fr;
-  }
 }
 
 #show-more {
@@ -673,15 +666,14 @@ blockquote br + span {
   display: flex;
   flex-direction: column;
   padding: 1.25rem;
-  border: 1px solid var(--color-border);
+  border-left: 3px solid var(--color-accent);
   background: #fff;
   text-decoration: none;
-  transition: border-color 0.2s ease, box-shadow 0.2s ease;
+  transition: border-color 0.2s ease;
 }
 
 .explore-card:hover {
-  border-color: var(--color-primary);
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+  border-left-color: var(--color-primary);
   text-decoration: none;
 }
 

@@ -131,9 +131,9 @@ function renderArticles() {
     var a = articles[i];
     var div = document.createElement("div");
     div.className = "start-here-item";
-    div.innerHTML = '<a href="' + a.url + '" class="start-here-title">' + a.title + '</a>' +
-      '<span class="start-here-date"> · ' + a.date + '</span>' +
-      '<div class="start-here-excerpt">' + a.excerpt + '</div>';
+    div.innerHTML = '<div class="start-here-excerpt">' + a.excerpt + '</div>' +
+      '<a href="' + a.url + '" class="start-here-title">' + a.title + '</a>' +
+      '<span class="start-here-date"> · ' + a.date + '</span>';
     container.appendChild(div);
   }
 }
