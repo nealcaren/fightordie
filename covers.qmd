@@ -109,4 +109,9 @@ format:
 
 ```{=html}
 </div>
+<script>
+document.querySelectorAll('.covers-page img').forEach(function(img) {
+  img.loading = 'lazy';
+});
+</script>
 ```
