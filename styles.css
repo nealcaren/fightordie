@@ -50,6 +50,8 @@ main.content > .columns,
 main.content > .masthead,
 main.content > .masthead-figure,
 main.content > .intro-text,
+main.content > #from-the-collection,
+main.content > #explore-the-collection,
 main.content > .explore-grid,
 main.content > .collection-stats {
   max-width: none;
@@ -585,27 +587,30 @@ blockquote br + span {
   border-bottom: 1px solid var(--color-border);
 }
 
-/* From the Collection — randomized article list */
+/* From the Collection — randomized article excerpts */
 #article-pool {
   margin-top: 1rem;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+  max-width: 700px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .start-here-item {
-  margin-bottom: 0;
-  padding: 1.25rem 1rem;
-  border-left: none;
-  border-bottom: 1px solid var(--color-border);
-}
-
-.start-here-item:first-child {
-  border-top: 1px solid var(--color-border);
+  padding: 1.25rem;
+  border-left: 3px solid var(--color-primary);
+  background: #fff;
+  border-bottom: none;
 }
 
 .start-here-title {
   font-family: var(--font-display);
-  font-size: 1.15rem;
+  font-size: 1.05rem;
   font-weight: 600;
   color: var(--color-primary);
+  display: block;
 }
 
 .start-here-title:hover {
@@ -615,19 +620,27 @@ blockquote br + span {
 
 .start-here-date {
   font-family: var(--font-primary);
-  font-size: 0.8rem;
+  font-size: 0.7rem;
   color: var(--color-text-subtle);
-  letter-spacing: 0.03em;
+  letter-spacing: 0.05em;
   text-transform: uppercase;
+  display: block;
+  margin-top: 0.15rem;
 }
 
 .start-here-excerpt {
   font-family: var(--font-body);
-  font-size: 1rem;
-  line-height: 1.5;
+  font-size: 0.95rem;
+  line-height: 1.45;
   color: var(--color-text-light);
-  margin-top: 0.3rem;
+  margin-top: 0.5rem;
   font-style: italic;
+}
+
+@media (max-width: 600px) {
+  #article-pool {
+    grid-template-columns: 1fr;
+  }
 }
 
 #show-more {

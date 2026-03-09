@@ -37,15 +37,6 @@ format:
 <p class="collection-stats">708 articles · 24 volumes · 1910–1934</p>
 ```
 
-## From the Collection {.unlisted}
-
-```{=html}
-<div id="article-pool"></div>
-<a id="show-more" href="#">Show me more &rarr;</a>
-```
-
----
-
 ## Explore the Collection {.unlisted}
 
 ```{=html}
@@ -71,6 +62,15 @@ format:
     <span class="explore-card-desc">Editorial conventions, how to cite, and how to contribute.</span>
   </a>
 </div>
+```
+
+---
+
+## From the Collection {.unlisted}
+
+```{=html}
+<div id="article-pool"></div>
+<a id="show-more" href="#">Show me more &rarr;</a>
 ```
 
 
