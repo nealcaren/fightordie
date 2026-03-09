@@ -26,9 +26,12 @@ format:
 </figure>
 ```
 
-"A toothache is agitation," Du Bois [wrote in November 1910](Volumes/01/01/Agitation.html), answering critics who urged silence. "Is a toothache a good thing? No. Is it therefore useless? No. It is supremely useful, for it tells the body of decay, dyspepsia and death." For twenty-four years he made *The Crisis* the toothache of American democracy: documenting lynching, tracking disfranchisement, connecting Jim Crow to empire, and building the case for Black citizenship in prose that could shift from forensic precision to prophetic fury within a single page.
-
-This archive collects over 700 of those editorials, spanning the magazine's founding in 1910 through Du Bois's resignation in 1934. They can be [browsed by theme](browse.qmd) or [read chronologically](listing.qmd).
+```{=html}
+<div class="intro-text">
+<p>"A toothache is agitation," Du Bois <a href="Volumes/01/01/Agitation.html">wrote in November 1910</a>, answering critics who urged silence. "Is a toothache a good thing? No.&nbsp;Is it therefore useless? No.&nbsp;It is supremely useful, for it tells the body of decay, dyspepsia and death." For twenty-four years he made <em>The Crisis</em> the toothache of American democracy: documenting lynching, tracking disfranchisement, connecting Jim Crow to empire, and building the case for Black citizenship in prose that could shift from forensic precision to prophetic fury within a single page.</p>
+<p>This archive collects over 700 of those editorials, spanning the magazine's founding in 1910 through Du Bois's resignation in 1934. They can be <a href="browse.html">browsed by theme</a> or <a href="listing.html">read chronologically</a>.</p>
+</div>
+```
 
 ```{=html}
 <p class="collection-stats">708 articles · 24 volumes · 1910–1934</p>
@@ -55,7 +58,7 @@ This archive collects over 700 of those editorials, spanning the magazine's foun
     <span class="explore-card-title">All Articles</span>
     <span class="explore-card-desc">Over 700 editorials, searchable and sortable by date, title, or keyword.</span>
   </a>
-  <a href="backround.html" class="explore-card">
+  <a href="background.html" class="explore-card">
     <span class="explore-card-title">Du Bois &amp; <em>The Crisis</em></span>
     <span class="explore-card-desc">From Du Bois's first magazines through the war years, the Harlem Renaissance, and his resignation.</span>
   </a>

@@ -43,6 +43,7 @@ main.content > .featured-grid,
 main.content > .columns,
 main.content > .masthead,
 main.content > .masthead-figure,
+main.content > .intro-text,
 main.content > .explore-grid,
 main.content > .collection-stats {
   max-width: none;
@@ -243,9 +244,10 @@ nav a:hover {
   color: #fff !important;
 }
 
-/* Navbar logo invert for dark background */
+/* Navbar logo: invert to white lines on black, then screen blend removes the black */
 .navbar-brand img {
-  filter: brightness(0) invert(0.9);
+  filter: invert(1);
+  mix-blend-mode: screen;
 }
 
 /* Search — refined for dark navbar */
@@ -548,6 +550,12 @@ blockquote br + span {
   color: #888;
   text-align: center;
   font-style: italic;
+}
+
+/* Intro text */
+.intro-text {
+  max-width: 700px;
+  margin: 1.5rem auto;
 }
 
 /* Collection stats bar */
