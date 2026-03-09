@@ -16,6 +16,10 @@
   --color-text: #2d2a26;
   --color-background: #faf8f5;
   --color-border: #e0dbd4;
+  --color-text-light: #555;
+  --color-text-muted: #666;
+  --color-text-faint: #888;
+  --color-text-subtle: #999;
   --font-primary: 'Source Sans 3', sans-serif;
   --font-body: 'EB Garamond', serif;
   --font-display: 'Playfair Display', serif;
@@ -103,7 +107,7 @@ h3 { font-size: 1.25rem; font-weight: 600; }
 #title-block-header .quarto-title-meta-contents p {
   font-family: var(--font-primary);
   font-size: 0.95rem;
-  color: #666;
+  color: var(--color-text-muted);
   margin-bottom: 0;
 }
 
@@ -126,12 +130,6 @@ h3 { font-size: 1.25rem; font-weight: 600; }
 }
 
 .crisis-title {
-  font-variant: small-caps;
-  font-weight: 500;
-  font-family: var(--font-body);
-}
-
-.small-caps-title {
   font-variant: small-caps;
   font-weight: 500;
   font-family: var(--font-body);
@@ -376,7 +374,7 @@ p {
   font-style: italic;
   text-align: justify;
   margin: 20px 0;
-  color: #555;
+  color: var(--color-text-light);
   padding: 0 4rem;
 }
 
@@ -395,16 +393,6 @@ blockquote {
   margin-left: 2em;
 }
 
-blockquote::before,
-blockquote::after {
-  font-family: var(--font-body);
-  font-size: 6em;
-  color: var(--color-primary);
-  position: absolute;
-  line-height: 1;
-  opacity: 0.5;
-}
-
 blockquote::before {
   font-family: var(--font-body);
   font-size: 6em;
@@ -416,13 +404,6 @@ blockquote::before {
   left: -0.35em;
   top: -0.1em;
 }
-/*
-blockquote::after {
-  content: "\201D";
-  right: -0.05em;
-  bottom: -0.45em;
-}
-*/
 
 blockquote p {
   padding-right: 0;
@@ -549,7 +530,7 @@ blockquote br + span {
 .masthead-figure figcaption {
   font-family: var(--font-primary);
   font-size: 0.8rem;
-  color: #888;
+  color: var(--color-text-faint);
   text-align: center;
   font-style: italic;
 }
@@ -569,7 +550,7 @@ blockquote br + span {
   letter-spacing: 0.15em;
   color: var(--color-accent);
   text-align: center;
-  margin: 2rem 0 0.5rem 0;
+  margin: 2rem auto 0.5rem auto;
   padding: 0.75rem 0;
   border-top: 1px solid var(--color-border);
   border-bottom: 1px solid var(--color-border);
@@ -606,7 +587,7 @@ blockquote br + span {
 .start-here-date {
   font-family: var(--font-primary);
   font-size: 0.8rem;
-  color: #999;
+  color: var(--color-text-subtle);
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
@@ -615,7 +596,7 @@ blockquote br + span {
   font-family: var(--font-body);
   font-size: 1rem;
   line-height: 1.5;
-  color: #555;
+  color: var(--color-text-light);
   margin-top: 0.3rem;
   font-style: italic;
 }
@@ -643,7 +624,7 @@ blockquote br + span {
   grid-template-columns: repeat(3, 1fr);
   gap: 1rem;
   max-width: 700px;
-  margin-top: 1rem;
+  margin: 1rem auto;
 }
 
 .explore-card {
@@ -677,7 +658,7 @@ blockquote br + span {
 .explore-card-desc {
   font-family: var(--font-primary);
   font-size: 0.85rem;
-  color: #666;
+  color: var(--color-text-muted);
   line-height: 1.4;
 }
 
@@ -832,6 +813,7 @@ figure {
     background-color: var(--color-background);
     padding-top: 0;
     margin-top: 0;
+    border-top: none;
 }
 
 #quarto-appendix.default * [role=doc-endnotes] > ol, #quarto-appendix.default .quarto-appendix-contents > * :not(h2):not(.h2) {
@@ -875,10 +857,6 @@ figure {
   font-size: 1.25rem !important
 }
 
-#quarto-appendix.default {
-    border-top: none;
-}
-
 /* For text flush left and amount flush right*/
 .container {
   display: flex;
@@ -907,23 +885,22 @@ figure {
 
 
 
-/*Two columns usined in 12/4/two-letters */
+/* Two columns used in 12/4/two-letters */
 
 .columns-container {
   display: grid;
   grid-template-columns: 1fr 1fr;
   width: 100%;
-
 }
+
 .column {
-  padding: none;
   max-width: 100%;
   border: 0;
   padding: 0;
 }
 
 @media (max-width: 768px) {
-  .container {
+  .columns-container {
       grid-template-columns: 1fr;
   }
 }
