@@ -1,7 +1,30 @@
 ---
-title: 'Covers'
+title: 'Magazine Covers'
 description: "View covers from The Crisis magazine spanning 1910-1934, featuring iconic artwork and photography that defined the visual identity of the NAACP's official journal during the Harlem Renaissance era."
+format:
+  html:
+    toc: false
+    include-in-header:
+      - text: |
+          <style>
+          main.content > div.covers-page { max-width: 960px !important; }
+          .covers-intro { font-family: var(--font-primary); font-size: 0.9rem; color: var(--color-text-muted); text-align: center; margin-bottom: 2rem; }
+          .covers-page h2 { font-family: var(--font-display); font-size: 1.8rem; font-weight: 700; color: var(--color-primary); text-align: center; margin-top: 3rem; margin-bottom: 0.5rem; padding-bottom: 0.5rem; border-bottom: 2px solid var(--color-primary); }
+          .covers-page h2:first-of-type { margin-top: 0; }
+          .covers-page h3 { font-family: var(--font-primary); font-size: 0.85rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.15em; color: var(--color-accent); margin-top: 2rem; margin-bottom: 0.75rem; }
+          .covers-page p:not(.covers-intro) { display: grid; grid-template-columns: repeat(6, 1fr); gap: 0.75rem; margin-bottom: 0; }
+          .covers-page p:not(.covers-intro) a { display: block; overflow: hidden; border: 1px solid var(--color-border); background: #fff; transition: transform 0.2s ease, box-shadow 0.2s ease; }
+          .covers-page p:not(.covers-intro) a:hover { transform: translateY(-3px); box-shadow: 0 4px 12px rgba(0,0,0,0.15); text-decoration: none; }
+          .covers-page p:not(.covers-intro) a img { display: block; width: 100%; height: auto; margin: 0; }
+          @media (max-width: 768px) { .covers-page p:not(.covers-intro) { grid-template-columns: repeat(4, 1fr); gap: 0.5rem; } }
+          @media (max-width: 480px) { .covers-page p:not(.covers-intro) { grid-template-columns: repeat(3, 1fr); gap: 0.4rem; } .covers-page h2 { font-size: 1.4rem; } }
+          </style>
 ---
+
+```{=html}
+<div class="covers-page">
+<p class="covers-intro">Each cover links to the full issue on the Internet Archive.</p>
+```
 
 ## 1910s
 
@@ -83,3 +106,7 @@ description: "View covers from The Crisis magazine spanning 1910-1934, featuring
 
 ### 1934
 [![](Images/1934-01_41_1.jpg)](https://archive.org/download/sim_crisis_1934-01_41_1/sim_crisis_1934-01_41_1.pdf)[![](Images/1934-02_41_2.jpg)](https://archive.org/download/sim_crisis_1934-02_41_2/sim_crisis_1934-02_41_2.pdf)[![](Images/1934-03_41_3.jpg)](https://archive.org/download/sim_crisis_1934-03_41_3/sim_crisis_1934-03_41_3.pdf)[![](Images/1934-04_41_4.jpg)](https://archive.org/download/sim_crisis_1934-04_41_4/sim_crisis_1934-04_41_4.pdf)[![](Images/1934-05_41_5.jpg)](https://archive.org/download/sim_crisis_1934-05_41_5/sim_crisis_1934-05_41_5.pdf)[![](Images/1934-06_41_6.jpg)](https://archive.org/download/sim_crisis_1934-06_41_6/sim_crisis_1934-06_41_6.pdf)[![](Images/1934-07_41_7.jpg)](https://archive.org/download/sim_crisis_1934-07_41_7/sim_crisis_1934-07_41_7.pdf)[![](Images/1934-08_41_8.jpg)](https://archive.org/download/sim_crisis_1934-08_41_8/sim_crisis_1934-08_41_8.pdf)
+
+```{=html}
+</div>
+```
