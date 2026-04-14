@@ -19,8 +19,8 @@ places:
 citation: 
   type: article-journal
   container-title: The Crisis
-  volume: 7
-  issue: 1
+  volume: 6
+  issue: 7
   page: 337-338
 google-scholar: true
 
@@ -34,6 +34,14 @@ categories:
   - "Segregation"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1913-11_6_7/sim_crisis_1913-11_6_7.pdf">
+    <img src="/Images/1913-11_6_7.jpg" alt="Cover of The Crisis, November 1913">
+  </a>
+  <p><em>The Crisis</em><br>November 1913</p>
+</div>
+```
 Some  ways of life are so simple. There was, for instance, a few years
 ago, a solution of the Negro problem so ridiculously simple that those
 who did not receive it as gospel were hooted if not stoned. The gist
