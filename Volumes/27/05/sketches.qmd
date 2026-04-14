@@ -42,6 +42,14 @@ categories:
   - "Literary Writing"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1924-03_27_5/sim_crisis_1924-03_27_5.pdf">
+    <img src="/Images/1924-03_27_5.jpg" alt="Cover of The Crisis, March 1924">
+  </a>
+  <p><em>The Crisis</em><br>March 1924</p>
+</div>
+```
 I have taken many journeys but this is the greatest. I have seen all the states of the American Empire and something of the Western Indies. I have seen England and France many times---all parts of Germany and something of Austria, Switzerland and Italy.
 
 But all this (save Armenia) was white, kindly on the whole---intensely interesting, but painfully white. Today I am drifting toward darkness. I have seen the skin grow sallow and the eyes darken and hair quiver, in southern France, in Spain, in Portugal, in the Canary Isles; and now I set my face toward Africa---the Eternal World of Black Folk.

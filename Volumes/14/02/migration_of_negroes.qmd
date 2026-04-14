@@ -43,6 +43,14 @@ categories:
   - "The South"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1917-06_14_2/sim_crisis_1917-06_14_2.pdf">
+    <img src="/Images/1917-06_14_2.jpg" alt="Cover of The Crisis, June 1917">
+  </a>
+  <p><em>The Crisis</em><br>June 1917</p>
+</div>
+```
 Much has been written of the recent migration of colored people from the South to the North, but there have been very few attempts to give a definite, coherent picture of the whole movement. Aided by the funds of the National Association for the Advancement of Colored People, <span class="crisis-title">The Crisis</span> has attempted to put into concrete form such knowledge as we have of this movement.
 
 The data at hand are vague and have been collected from a hundred different sources. While the margin of error is large, the actual information which we have gathered is most valuable.

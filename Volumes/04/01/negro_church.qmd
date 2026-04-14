@@ -43,6 +43,14 @@ categories:
   - "NAACP & Organizational Strategy"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1912-05_4_1/sim_crisis_1912-05_4_1.pdf">
+    <img src="/Images/1912-05_4_1.jpg" alt="Cover of The Crisis, May 1912">
+  </a>
+  <p><em>The Crisis</em><br>May 1912</p>
+</div>
+```
 It happens that during this month, in the North, West and South, there
 are meeting the ruling Methodist ecclesiastical bodies representing a
 membership of 1,175,000 colored Americans. Later, in midsummer, the

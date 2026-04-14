@@ -42,6 +42,14 @@ categories:
   - "Pan-Africanism & Empire"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1921-10_22_6/sim_crisis_1921-10_22_6.pdf">
+    <img src="/Images/1921-10_22_6.jpg" alt="Cover of The Crisis, October 1921">
+  </a>
+  <p><em>The Crisis</em><br>October 1921</p>
+</div>
+```
 Our chance has come! It is not the greatest and best chance, but it is a chance. A Senate committee, composed of McCormick of Illinois, Knox of Pennsylvania, King of Utah, Poindexter of Washington, and Odie of Nevada, is going to investigate conditions in Haiti. They asked the National Association for the Advancement of Colored People and other organizations to present their charges. We are going to do so.
 
 Meantime, let every constituent of these Senators write them and urge them to withdraw the United States army from Haiti and to treat black republics in the way in which white republics want to be treated. Do not delay! Write now, and keep writing. Once in a while, telegraph.

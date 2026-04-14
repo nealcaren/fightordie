@@ -41,6 +41,14 @@ categories:
   - "Retrospective"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1932-08_39_8/sim_crisis_1932-08_39_8.pdf">
+    <img src="/Images/1932-08_39_8.jpg" alt="Cover of The Crisis, August 1932">
+  </a>
+  <p><em>The Crisis</em><br>August 1932</p>
+</div>
+```
 The semi-secret and persistent propaganda on the history and meaning of the Civil War still keeps up to an astonishing degree. No book or article can get even a respectful hearing among the leading reviewers of the nation unless it subscribes fully to this thesis:
 1. The cause of the Civil War was not slavery.
 2. The South would have emancipated the Negroes of its own accord.

@@ -38,6 +38,14 @@ categories:
   - "Religion & Morality"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1917-12_15_2/sim_crisis_1917-12_15_2.pdf">
+    <img src="/Images/1917-12_15_2.jpg" alt="Cover of The Crisis, December 1917">
+  </a>
+  <p><em>The Crisis</em><br>December 1917</p>
+</div>
+```
 Three bishops sat in San Francisco, New Orleans and New York, peering gloomily into three flickering fires which cast and recast shuddering shadows on book-lined walls. Three letters lay in their laps and said:
 
 "And thou, Valdosta, in the land of Georgia, art not least among the princes of America, for out of thee shall come a Governor who shall rule my people."

@@ -31,6 +31,14 @@ categories:
   - "Voting & Elections"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1913-05_6_1/sim_crisis_1913-05_6_1.pdf">
+    <img src="/Images/1913-05_6_1.jpg" alt="Cover of The Crisis, May 1913">
+  </a>
+  <p><em>The Crisis</em><br>May 1913</p>
+</div>
+```
 There seems to be no doubt but that the attempt to draw the color line in the woman's suffrage movement has received a severe and, let us hope, final setback. Both at Washington and St. Louis the right of the black woman to vote and strive for a vote was openly recognized. There was, to be sure, a struggle in both cases and the forces of caste are not demoralized; they are, however, beaten at present, and a great and good cause can go forward with unbedraggled skirts. Let every black man and woman fight for the new democracy which knows no race or sex.
 
 <!-- Similar articles start here -->

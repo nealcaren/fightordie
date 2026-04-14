@@ -41,6 +41,14 @@ categories:
   - "Segregation"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1918-08_16_4/sim_crisis_1918-08_16_4.pdf">
+    <img src="/Images/1918-08_16_4.jpg" alt="Cover of The Crisis, August 1918">
+  </a>
+  <p><em>The Crisis</em><br>August 1918</p>
+</div>
+```
 > From the petition of thirty-one Negro editors unanimously adopted at their meeting in Washington:
 
 WE American Negroes wish to affirm, first of all, our unalterable belief that the defeat of the German government and what it today represents is of paramount importance to the welfare of the world in general and to our people in particular.

@@ -43,6 +43,14 @@ categories:
   - "War & Military"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1913-05_6_1/sim_crisis_1913-05_6_1.pdf">
+    <img src="/Images/1913-05_6_1.jpg" alt="Cover of The Crisis, May 1913">
+  </a>
+  <p><em>The Crisis</em><br>May 1913</p>
+</div>
+```
 At the coming meeting of the peace societies at St. Louis the question of peace between civilized and backward peoples will not probably be considered. The secretary of the New York Peace Society writes us that "Our peace congresses have not dealt in the past with the relations of civilized and non-civilized people;" and he thinks that largely on this account "our American congresses have been more dignified and more influential than those held abroad."
 
 We are not sure about that word "influential," but there is no doubt about the dignity of the American peace movement. It has been so dignified and aristocratic that it has been often most difficult for the humbler sort of folk to recognize it as the opponent of organized murder.

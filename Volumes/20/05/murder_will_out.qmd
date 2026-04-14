@@ -38,6 +38,14 @@ categories:
   - "The South"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1920-09_20_5/sim_crisis_1920-09_20_5.pdf">
+    <img src="/Images/1920-09_20_5.jpg" alt="Cover of The Crisis, September 1920">
+  </a>
+  <p><em>The Crisis</em><br>September 1920</p>
+</div>
+```
 Slowly, too slowly, and yet with inevitable sureness the meaning of the
 South in American civilization is becoming clear to the blindest. T.W.
 O'Connor, President of the International Longshoremen's Association, has

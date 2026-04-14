@@ -39,6 +39,14 @@ categories:
   - "Art & Culture"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1921-06_22_2/sim_crisis_1921-06_22_2.pdf">
+    <img src="/Images/1921-06_22_2.jpg" alt="Cover of The Crisis, June 1921">
+  </a>
+  <p><em>The Crisis</em><br>June 1921</p>
+</div>
+```
 Negro art is today plowing a difficult row, chiefly because we shrink at the portrayal of 
 the truth about ourselves. We are so used to seeing the truth distorted to our despite, that whenever we are portrayed on canvas, in story or on the stage, as simply human with human frailties, we rebel. We want everything that is said about us to tell of the best and highest and noblest in us. We insist that our Art and Propaganda be one. 
 

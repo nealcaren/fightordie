@@ -38,6 +38,14 @@ categories:
   - "Segregation"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1921-12_23_2/sim_crisis_1921-12_23_2.pdf">
+    <img src="/Images/1921-12_23_2.jpg" alt="Cover of The Crisis, December 1921">
+  </a>
+  <p><em>The Crisis</em><br>December 1921</p>
+</div>
+```
 For fifty years we who, *pro* and *con*, have discussed the Negro Problem, have been skulking behind a phrase --- "Social Equality." Today President Harding's speech, like sudden thunder in blue skies, ends the hiding and drives us all into the clear light of truth.
 
 We had our excuses perhaps in the past: about every problem of human relations lurks a penumbra of shadowing possibilities, which we would not discuss. It seems unnecessary, inappropriate, beside the point. And so defenders of the higher training of women have hesitated to explore sex freedom for females; and lovers of democracy have declined to consider the possibility of the masses voting their own wages. It is not that we have denied the ensuing problems that shadow our main object, but we have said with a certain truth: sufficient unto the present tangle is the obvious evil thereof. Let us follow the clear light and afterward turn to other darknesses.

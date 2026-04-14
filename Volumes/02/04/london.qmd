@@ -37,6 +37,14 @@ categories:
   - "Pan-Africanism & Empire"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1911-08_2_4/sim_crisis_1911-08_2_4.pdf">
+    <img src="/Images/1911-08_2_4.jpg" alt="Cover of The Crisis, August 1911">
+  </a>
+  <p><em>The Crisis</em><br>August 1911</p>
+</div>
+```
 There is in the world no city like London. Nor is its distinction merely a matter of size. To be sure, it is a vast aggregation of men---it gives the visitor a curious sense of endlessness by its very disorganization, by the fact that one can find center after center of busy running life stretching away mile after mile and yet all is London. London has no beauty that will compare it to Paris, no blare and flare like New York.
 
 Yet London has an individuality, a tradition and an importance that make it the capital of the world in a sense, true of no other center since the days of imperial Rome. The individuality is peculiar, subtle, striking---yet difficult to express. One sees a busy mart of endless interests, worldwide ramifications, tremendous power. One sees a tradition, a memory clothed in living flesh and word, and a power which makes this city an expression of the empire on which the sun never sets.

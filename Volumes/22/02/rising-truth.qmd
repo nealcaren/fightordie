@@ -39,6 +39,14 @@ categories:
   - "The South"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1921-06_22_2/sim_crisis_1921-06_22_2.pdf">
+    <img src="/Images/1921-06_22_2.jpg" alt="Cover of The Crisis, June 1921">
+  </a>
+  <p><em>The Crisis</em><br>June 1921</p>
+</div>
+```
 Since the founding of <span class="crisis-title">The Crisis</span> one of the criticisms against it which has been hardest to bear has been that of deliberately exaggerating the mistreatment of Negroes, suppressing the favorable truth and seeking to foment race trouble. While the Nashville *Banner*, the Macon *Telegraph*, the Columbia *State*, and men like Weatherford, Bolton Smith and Brough have deliberately spread this false impression, we who sit and see and hear the truth know that far from exaggerating we were more often consciously suppressing and concealing the horrors of southern oppression. Month after month we go through the sordid and horrifying details---the letters, the newspapers, the personal visits and appeals---and say in despair: if we publish all this---if we unveil the whole truth, we will defeat our own cause because the public will not believe it, and our own dark readers will shrink from our pages. And so we have fed the world the atrocities we knew of in carefully regulated doses, often incurring the censure of members of our own race, who knew of particular incidents, for our failure to mention them.
 
 But once in a while, thank God, the sickening shame becomes too much even for the shame-haunted digestions of white bourbons. The shrill cry of Governor Dorsey’s revelations corroborates every word <span class="crisis-title">The Crisis</span> ever wrote, every leaflet the N.A.A.C.P. ever printed: insult, intimidation, stealing, maltreating men and women, illegal arrest and imprisonment, outrageous public officials, almost unbelievable personal cruelty, lynching, torture, murder and deliberate slavery.

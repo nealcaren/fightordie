@@ -39,6 +39,14 @@ categories:
   - "Segregation"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1916-04_11_6/sim_crisis_1916-04_11_6.pdf">
+    <img src="/Images/1916-04_11_6.jpg" alt="Cover of The Crisis, April 1916">
+  </a>
+  <p><em>The Crisis</em><br>April 1916</p>
+</div>
+```
 There are those who from time to time suggest that the National
 Association for the Advancement of Colored People and <span class="crisis-title">The Crisis</span> go far afield in opposing laws to prohibit
 intermarriage between white and colored people. They argue that neither

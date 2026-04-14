@@ -38,6 +38,14 @@ categories:
   - "Segregation"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1912-12_5_2/sim_crisis_1912-12_5_2.pdf">
+    <img src="/Images/1912-12_5_2.jpg" alt="Cover of The Crisis, December 1912">
+  </a>
+  <p><em>The Crisis</em><br>December 1912</p>
+</div>
+```
 The people of America, and especially the people of the Southern States,	have felt so
 keen an appreciation of the qualities of motherhood in the Negro that they have proposed erecting a statue in the National Capital to the black	mammy. The black nurse of slavery days may receive the tribute of enduring bronze from the master class.
 

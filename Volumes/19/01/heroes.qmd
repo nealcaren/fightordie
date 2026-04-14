@@ -34,6 +34,14 @@ categories:
   - "Racial Violence"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1919-11_19_1/sim_crisis_1919-11_19_1.pdf">
+    <img src="/Images/1919-11_19_1.jpg" alt="Cover of The Crisis, November 1919">
+  </a>
+  <p><em>The Crisis</em><br>November 1919</p>
+</div>
+```
 We stand with uncovered heads before the tens of thousands of black men and women of the South who are fighting the real battle of Freedom. They are striking no blows — they are using no violence — they are uttering no threats — in most cases they are speaking no word. But they are standing with bleeding souls and streaming eyes, silently, steadfastly, before the altar of their own beliefs and aspirations. Not one by word, deed or gesture do they flinch.
 
 They believe themselves the equals of any man, and not all the mobs of the bourbon South — not even death and torture — can make them deny it. Neither by money nor fear can they be induced to betray their race, either by the cringing deed of or by the lying admission; in the face of the slobbering "white folks' nigger" with his soothing syrup of false flattery and lies, they stand unmoved. They seek peace and self-respect, but before everything, they insist upon respect in themselves.

@@ -43,6 +43,14 @@ categories:
   - "Segregation"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1932-11_39_11/sim_crisis_1932-11_39_11.pdf">
+    <img src="/Images/1932-11_39_11.jpg" alt="Cover of The Crisis, November 1932">
+  </a>
+  <p><em>The Crisis</em><br>November 1932</p>
+</div>
+```
 The indictment which Americans of Negro descent have against Herbert Hoover is long, and to my mind, unanswerable. The chief counts are the following:
 
 ## Lily-White-ism

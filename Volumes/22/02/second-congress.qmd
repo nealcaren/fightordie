@@ -40,6 +40,14 @@ categories:
   - "Pan-Africanism & Empire"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1921-06_22_2/sim_crisis_1921-06_22_2.pdf">
+    <img src="/Images/1921-06_22_2.jpg" alt="Cover of The Crisis, June 1921">
+  </a>
+  <p><em>The Crisis</em><br>June 1921</p>
+</div>
+```
 It is expected that at the second Pan-African Congress there will be delegates from the United States, the English and French West Indies, Guiana, Cuba, English and French West Africa, the Congo, Haiti, Liberia, Portuguese Africa, Abyssinia and Egypt.
 
 Among the organizations represented will be the A.M.E. and Baptist churches, the Odd Fellows and Masons, the Greek letter fraternities, etc., in the United States; the National Congress of British West Africa, the South Africa Native Congress, the African Political Organization, *L'Union Congolaise*, and others.

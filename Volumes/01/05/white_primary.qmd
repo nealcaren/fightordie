@@ -41,6 +41,14 @@ categories:
   - "The South"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1911-03_1_5/sim_crisis_1911-03_1_5.pdf">
+    <img src="/Images/1911-03_1_5.jpg" alt="Cover of The Crisis, March 1911">
+  </a>
+  <p><em>The Crisis</em><br>March 1911</p>
+</div>
+```
 Any well-intentioned American cans argue this way: the present disfranchisement laws of the South are unfair, but in time, after the special exemptions under the grandfather clause have run out, justice will prevail and all men will vote under educational and property restrictions. 
 
 The prospect for this outcome is not reassuring, because few people realize that even the colored voters of States like Virginia, North Carolina, South Carolina, Georgia, Alabama, Mississippi and Louisiana, who pass the present restrictions, are disfranchised again by the white primary. 

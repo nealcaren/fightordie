@@ -42,6 +42,14 @@ categories:
   - "Art & Culture"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1928-06_35_6/sim_crisis_1928-06_35_6.pdf">
+    <img src="/Images/1928-06_35_6.jpg" alt="Cover of The Crisis, June 1928">
+  </a>
+  <p><em>The Crisis</em><br>June 1928</p>
+</div>
+```
 *Nella Larsen "Quicksand" (Knopf) Claude McKay "Home to Harlem" (Harper and Brothers)*
 
 I have just read the last two novels of Negro America. The one I liked; the other I distinctly did not. I think that Mrs. Imes, writing under the pen name of Nella Larsen, has done a fine, thoughtful and courageous piece of work in her novel. It is, on the whole, the best piece of fiction that Negro America has produced since the heyday of Chesnutt, and stands easily with Jessie Fauset's "There is Confusion," in its subtle comprehension of the curious cross currents that swirl about the black American. 

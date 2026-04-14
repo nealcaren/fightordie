@@ -35,6 +35,14 @@ categories:
   - "Segregation"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1933-07_40_7/sim_crisis_1933-07_40_7.pdf">
+    <img src="/Images/1933-07_40_7.jpg" alt="Cover of The Crisis, July 1933">
+  </a>
+  <p><em>The Crisis</em><br>July 1933</p>
+</div>
+```
 In the Marxist patois, the "class struggle" means the natural antagonism and war between the exploiter and the exploited; that is, between those persons who own capital in the form of machines, raw material and money, and who can command credit, and that other large mass of people who have practically nothing to sell but their labor. Between these two classes, there can be no peace because the profit of the capitalist depends on the amount of surplus value he can extract from the work of the laborer.
 
 One no sooner states this than the expert would say immediately that there is no trace of such class struggle among American Negroes. On second thought, however, he might modify this and say that the occupational differences of American Negroes show at least the beginnings of differentiation into capitalists and laborers.

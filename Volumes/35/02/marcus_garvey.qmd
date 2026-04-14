@@ -1,6 +1,6 @@
 ---
 title: 'Marcus Garvey and the NAACP'
-description: "Clears up Garvey–NAACP myths, records their clashes, and urges a truthful pursuit of Black democracy."
+description: "Du Bois sets the record straight on the NAACP's relationship with Marcus Garvey, tracing The Crisis's coverage from guarded respect in 1920 to open criticism after Garvey's dealings with the Ku Klux Klan."
 author:
   - name:
       given: W.E.B.
@@ -39,6 +39,14 @@ categories:
   - "Internal Debate"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1928-02_35_2/sim_crisis_1928-02_35_2.pdf">
+    <img src="/Images/1928-02_35_2.jpg" alt="Cover of The Crisis, February 1928">
+  </a>
+  <p><em>The Crisis</em><br>February 1928</p>
+</div>
+```
 Many persons are under the impression that the N.A.A.C.P. has been the persistent enemy of Marcus Garvey. This is due to repeated accusations published in the *Negro World* without the slightest basis of fact. For the sake of the truth, it may be well to recall certain matters of clear record.
 
 The Crisis has published five articles on Marcus Garvey. The first two articles, March 1920 and January 1921 ended with this summary:

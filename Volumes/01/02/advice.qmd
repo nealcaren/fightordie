@@ -37,6 +37,14 @@ categories:
   - "Racial Violence"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1910-12_1_2/sim_crisis_1910-12_1_2.pdf">
+    <img src="/Images/1910-12_1_2.jpg" alt="Cover of The Crisis, December 1910">
+  </a>
+  <p><em>The Crisis</em><br>December 1910</p>
+</div>
+```
 There is a matter which calls for a solemn editorial in a metropolitan newspaper, namely, the pre-emptying of seats on suburban trains. The *New York Times* says:
 
 > Very often the question, 'Is this seat taken?' which it is well enough to ask before sitting down beside a stranger, is answered with a gruff and resentful 'Yes,' though obviously it is not then 'taken' by anything more than a hat or a newspaper or a valise. This reply is impudent, and it ought to result in a 'scene,' more or less vivacious, every time it is made.

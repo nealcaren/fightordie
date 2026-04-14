@@ -38,6 +38,14 @@ categories:
   - "Education"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1915-01_9_3/sim_crisis_1915-01_9_3.pdf">
+    <img src="/Images/1915-01_9_3.jpg" alt="Cover of The Crisis, January 1915">
+  </a>
+  <p><em>The Crisis</em><br>January 1915</p>
+</div>
+```
 The following editorial on "The Alleged Failure of Democracy" was written by the editor of The Crisis and printed in the Boston *Sunday Globe*:
 
 We are becoming more democratic, but not easily, not without struggle and misgivings. Our progress seems even slower than it is because we have really experienced so little real democracy in the past. We founded a republic in 1787 which was in reality an aristocracy of the most pronounced tendencies. The democracy ushered in by Andrew Jackson was the beginning of that system of government by deception where "the people" are congratulated on the possession of all powers of government, while the real rulers hide in the background so effectually that their very existence often is not sensed. Since the Civil War we have driven these rulers into the open, and frankly acknowledged, weighed and studied their power.

@@ -28,6 +28,14 @@ categories:
   - "Literary Writing"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1912-09_4_5/sim_crisis_1912-09_4_5.pdf">
+    <img src="/Images/1912-09_4_5.jpg" alt="Cover of The Crisis, September 1912">
+  </a>
+  <p><em>The Crisis</em><br>September 1912</p>
+</div>
+```
 When hit come ter de question er de female vote,       
 De ladies an' de cullud folks is in de same boat.      
 Ef de Boss feelin' good, an' we eats out his han',      

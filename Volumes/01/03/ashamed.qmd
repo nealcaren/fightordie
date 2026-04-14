@@ -26,6 +26,14 @@ categories:
   - "Segregation"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1911-01_1_3/sim_crisis_1911-01_1_3.pdf">
+    <img src="/Images/1911-01_1_3.jpg" alt="Cover of The Crisis, January 1911">
+  </a>
+  <p><em>The Crisis</em><br>January 1911</p>
+</div>
+```
 Any colored man who complains of the treatment he receives in America is apt to be faced sooner or later by the statement that he is ashamed of his race.
 
 The statement usually strikes him as a most astounding piece of illogical reasoning, to which a hot reply is appropriate.

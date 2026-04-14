@@ -38,6 +38,14 @@ categories:
   - "Education"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1911-11_3_1/sim_crisis_1911-11_3_1.pdf">
+    <img src="/Images/1911-11_3_1.jpg" alt="Cover of The Crisis, November 1911">
+  </a>
+  <p><em>The Crisis</em><br>November 1911</p>
+</div>
+```
 We offer no apology for coining a new long needed English word. We simply pause to acknowledge our indebtedness to Miss Pratt and Miss Ovington and to recommend our readers to know the former's stories and to commit to memory the last chapter of "Half-a-Man."
 
 "Ezekielism" is the assumption that the faults of any particular individual are the innate faults of his group and that any virtues he may possess are peculiar to him and quite exceptional so far as his group are concerned.

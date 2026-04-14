@@ -43,6 +43,14 @@ categories:
   - "War & Military"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1918-04_15_6/sim_crisis_1918-04_15_6.pdf">
+    <img src="/Images/1918-04_15_6.jpg" alt="Cover of The Crisis, April 1918">
+  </a>
+  <p><em>The Crisis</em><br>April 1918</p>
+</div>
+```
 Field Artillery has become a highly specialized instrument of great precision. Front line trenches are frequently less than a hundred yards apart and nothing discourages your own infantry more than to receive a shell that was intended for the next trench. When the men of the 92nd Division go "over the top" they will frequently follow an accompanying barrage as close as a hundred yards.
 
 Now that "curtain of fire" behind which colored soldiers will move to the assault of brutal German lines will be laid down by the first field guns ever manned by colored American soldiers. Every Negro in the United States is deeply interested in seeing that the artillery of the 92nd Division becomes as efficient an organization as the Tenth Cavalry, for instance, of which every colored American is justly proud.

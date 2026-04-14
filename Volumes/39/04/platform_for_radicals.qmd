@@ -35,6 +35,14 @@ categories:
   - "Labor & Economics"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1932-04_39_4/sim_crisis_1932-04_39_4.pdf">
+    <img src="/Images/1932-04_39_4.jpg" alt="Cover of The Crisis, April 1932">
+  </a>
+  <p><em>The Crisis</em><br>April 1932</p>
+</div>
+```
 Here is a platform which does not involve murder or revolution, but which we recommend to the most radical of our friends, as a step toward the millennium. Consider it:
 
 1. Absolute publicity of private income and its sources.

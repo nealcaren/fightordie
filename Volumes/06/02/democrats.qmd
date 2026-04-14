@@ -38,6 +38,14 @@ categories:
   - "Racial Violence"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1913-06_6_2/sim_crisis_1913-06_6_2.pdf">
+    <img src="/Images/1913-06_6_2.jpg" alt="Cover of The Crisis, June 1913">
+  </a>
+  <p><em>The Crisis</em><br>June 1913</p>
+</div>
+```
 The Democratic party has been in power three months and the colored population is still free. Only one Negro official has been summarily, and rather rudely, dismissed from office and no "Jim Crow" legislation seems in immediate sight. 
 
 On the contrary, every single bill for the prostitution of colored women introduced into a half dozen different legislatures has so far been either defeated or postponed, and this by the help of Democrats as well as men of other parties. 

@@ -42,6 +42,14 @@ categories:
   - "Women's Rights"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1914-06_8_2/sim_crisis_1914-06_8_2.pdf">
+    <img src="/Images/1914-06_8_2.jpg" alt="Cover of The Crisis, June 1914">
+  </a>
+  <p><em>The Crisis</em><br>June 1914</p>
+</div>
+```
 During the debate in the Senate of the United States on the joint
 resolution proposing to amend the Constitution by extending the suffrage
 to women, the race question obtruded itself and, as a result, many

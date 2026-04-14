@@ -37,6 +37,14 @@ categories:
   - "Art & Culture"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1916-09_12_5/sim_crisis_1916-09_12_5.pdf">
+    <img src="/Images/1916-09_12_5.jpg" alt="Cover of The Crisis, September 1916">
+  </a>
+  <p><em>The Crisis</em><br>September 1916</p>
+</div>
+```
 The war is still with us, has almost become a commonplace, and yet there is no thinking man who does not send his mind two years back and remember the assurance with which he said in those bewildering, tumultuous days of August, 1914, "This cannot last, we are too civilized." 
 
 Well, civilization has met its Waterloo. We have read of attacks by gas, of raids on non-fortified towns, of Zeppelins dropping bombs on women and children, and the whole campaign of "frightfulness" which left us at first cold and faint and even yet inspires in us a Sick distaste. What good can come out of it all? Much is still on the knees of the gods; but it takes no prophet to presage the advent of many things---notably the greater emancipation of European women, the downfall of monarchies, the gradual but certain dissolution of caste and the advance of a true Socialism. All this and much more. But for the immediate present and especially for us there is coming a gradual and subtle encouragement to strengthen race predilections and revel in them unashamed. 

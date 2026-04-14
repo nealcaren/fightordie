@@ -38,6 +38,14 @@ categories:
   - "Voting & Elections"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1921-05_22_1/sim_crisis_1921-05_22_1.pdf">
+    <img src="/Images/1921-05_22_1.jpg" alt="Cover of The Crisis, May 1921">
+  </a>
+  <p><em>The Crisis</em><br>May 1921</p>
+</div>
+```
 Again the pendulum has swung: it is no longer a question of educating the Negro to his just demands as an American citizen. He has ceased to be beguiled by the silly philosophy that a voteless, spineless suppliant who owns a three-story brick house is going to command anybody's respect.
 
 But today comes the question of practical, efficient means of getting the rights which he has at last been persuaded he wants.

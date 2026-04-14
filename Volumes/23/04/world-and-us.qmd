@@ -40,6 +40,14 @@ categories:
   - "Voting & Elections"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1922-02_23_4/sim_crisis_1922-02_23_4.pdf">
+    <img src="/Images/1922-02_23_4.jpg" alt="Cover of The Crisis, February 1922">
+  </a>
+  <p><em>The Crisis</em><br>February 1922</p>
+</div>
+```
 Esthonia has nationalized the holdings of her great land holders and is beginning to distribute her farm lands to farmers. The United States is increasing tenancy and land monopoly. What with this, and our host of political prisoners, our mobs and lynching, our curb of free speech, our color caste, our unemployment and mock of democracy, we bid fair to lead the world—backwards.
 
 ---

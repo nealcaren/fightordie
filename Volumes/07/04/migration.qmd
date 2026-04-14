@@ -38,6 +38,14 @@ categories:
   - "Pan-Africanism & Empire"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1914-02_7_4/sim_crisis_1914-02_7_4.pdf">
+    <img src="/Images/1914-02_7_4.jpg" alt="Cover of The Crisis, February 1914">
+  </a>
+  <p><em>The Crisis</em><br>February 1914</p>
+</div>
+```
 The Oklahoma movement for migration to Africa is a poorly conceived idea and we warn our readers against it. Migration to-day is a serious matter and should be planned and financed on a large scale. It is foolish for individuals with small sums of money and no knowledge of the country to go to Africa. Africa needs capital, not labor; it needs technical knowledge and executive ability and not small farmers.
 
 Ordinary inexperienced farmers and laborers migrating from America to Africa would succumb to the trying climate in very short time.

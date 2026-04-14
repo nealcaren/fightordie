@@ -39,6 +39,14 @@ categories:
   - "Pan-Africanism & Empire"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1930-03_37_3/sim_crisis_1930-03_37_3.pdf">
+    <img src="/Images/1930-03_37_3.jpg" alt="Cover of The Crisis, March 1930">
+  </a>
+  <p><em>The Crisis</em><br>March 1930</p>
+</div>
+```
 I met my friend one morning on Seventh Avenue as we were hurrying opposite ways to our work. She asked:
 
 "Did you attend Smuts lecture?"

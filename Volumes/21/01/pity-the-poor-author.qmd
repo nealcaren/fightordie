@@ -35,6 +35,14 @@ categories:
   - "Art & Culture"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1920-11_21_1/sim_crisis_1920-11_21_1.pdf">
+    <img src="/Images/1920-11_21_1.jpg" alt="Cover of The Crisis, November 1920">
+  </a>
+  <p><em>The Crisis</em><br>November 1920</p>
+</div>
+```
 Every once in a while someone drops in and says cozily:
 
 "I wish you'd give me a copy of your last book."

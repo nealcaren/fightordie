@@ -39,6 +39,14 @@ categories:
   - "Voting & Elections"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1928-09_35_9/sim_crisis_1928-09_35_9.pdf">
+    <img src="/Images/1928-09_35_9.jpg" alt="Cover of The Crisis, September 1928">
+  </a>
+  <p><em>The Crisis</em><br>September 1928</p>
+</div>
+```
 The Republican Party is playing one of its dirtiest political games in the case of Perry Howard. God knows <span class="crisis-title">The Crisis</span> has no brief for Howard. If the charges are true, he is a grafting politician of the most contemptible sort---but accusations against him are not one whit worse than those against Bascom Slemp, erstwhile Congressman from Virginia, then Secretary to Calvin Coolidge and now in charge of the Republican campaign in the South. Slemp, Howard, Tolbert, Ben Davis and most of the Southern politicians, black and white, of both parties, have trafficked in public offices. White Democrats have bought offices and white Republicans, like Herbert Hoover, have received the votes thus paid for in the National Republican Conventions. The whole situation is a crying shame to American politics and remains so because the mass of black voters in the South is disfranchised and their political power wielded by grafting politicians of all colors and conditions. When the pinch comes and the insurgent West joins with the white South in demanding investigation, it is only the black politicians who are investigated while Slemp, Tolbert and their kind, go free. Let all the northern black voters who are fools vote for Hoover in November.
 
 <!-- Similar articles start here -->

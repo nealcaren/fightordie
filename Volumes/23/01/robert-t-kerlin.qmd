@@ -42,6 +42,14 @@ categories:
   - "The South"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1921-11_23_1/sim_crisis_1921-11_23_1.pdf">
+    <img src="/Images/1921-11_23_1.jpg" alt="Cover of The Crisis, November 1921">
+  </a>
+  <p><em>The Crisis</em><br>November 1921</p>
+</div>
+```
 Readers of <span class="crisis-title">The Crisis</span> will remember the appearance a year ago of a compilation of Negro opinion gathered in a volume entitled "The Voice of the Negro." Here for the first time we had a book bringing to the white as well as the colored reader the Negro's criticism, through his own press, of America's treatment of him and his race. The book contained an interesting preface by its compiler, Prof. Robert T. Kerlin, professor of English at Virginia Military Institute, Lexington, Va. Prof. Kerlin followed this by a pamphlet on "Contemporary Negro Poetry." He might have continued his literary efforts undisturbed; but the immediate wrongs of the Negro pressed upon him, and when he read of the condemnation to death of the six Negroes in Arkansas concerned in the Elaine riots, he used his splendid command of English to publish an open letter to Thomas C. McRae, Governor of Arkansas, entreating the Governor to give earnest consideration to the sentence of the courts pronounced upon these Negroes. "Not in the history of our Republic," Prof. Kerlin said, "has a more tremendous responsibility before God and the civilized world devolved upon the shoulders of the chief executive of any State than has devolved upon yours *in re* the Negroes of Phillips County condemned to death in the electric chair and so sentenced by the courts of your State. It is a deed to be contemplated with extreme horror. In the execution of these men, a race is suffering crucifixion."
 
 In his letter, Prof. Kerlin explains the iniquities of the peonage system and the travesty of trial given the Elaine Negroes. The letter received much publicity and was so resented by the Board of the Virginia Military Institute that Prof. Kerlin's resignation was called for. Refusing to resign, he was thereupon dismissed by the Board, which stated that "he had rendered his further connection with the Virginia Military Institute undesirable."

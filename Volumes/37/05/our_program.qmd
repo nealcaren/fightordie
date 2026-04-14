@@ -38,6 +38,14 @@ categories:
   - "Pan-Africanism & Empire"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1930-05_37_5/sim_crisis_1930-05_37_5.pdf">
+    <img src="/Images/1930-05_37_5.jpg" alt="Cover of The Crisis, May 1930">
+  </a>
+  <p><em>The Crisis</em><br>May 1930</p>
+</div>
+```
 The National Association for the Advancement of Colored People stands for the full political, economic and social equality of white folk and Negroes.
 
 We have stood for this so long and fought for it so hard that it scarcely seems possible that anyone could misunderstand or successfully misrepresent our position.

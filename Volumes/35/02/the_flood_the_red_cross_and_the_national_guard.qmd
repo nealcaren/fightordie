@@ -43,6 +43,14 @@ categories:
   - "The South"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1928-02_35_2/sim_crisis_1928-02_35_2.pdf">
+    <img src="/Images/1928-02_35_2.jpg" alt="Cover of The Crisis, February 1928">
+  </a>
+  <p><em>The Crisis</em><br>February 1928</p>
+</div>
+```
 *Second Installment Based on an Investigation Made by the N.A.A.C.P. in October, 1927*
 
 "No One Has Gone Hungry, Unclothed, Unprotected," Herbert Hoover

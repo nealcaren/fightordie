@@ -38,6 +38,14 @@ categories:
   - "Religion & Morality"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1911-10_2_6/sim_crisis_1911-10_2_6.pdf">
+    <img src="/Images/1911-10_2_6.jpg" alt="Cover of The Crisis, October 1911">
+  </a>
+  <p><em>The Crisis</em><br>October 1911</p>
+</div>
+```
 The nemesis of every forward movement in the United States is the Negro question. 
 
 Witness Woman Suffrage, the Liquor Question, Political Reform, the various efforts to revivify the Christian Church, and Socialism. Mrs. Anna Shaw, president of the Woman's Suffrage Association of America, recently made the extraordinary statement that all Negroes were opposed to woman suffrage. This is, of course, a barefaced falsehood. But assuming that Mrs. Shaw believes it true, what is Mrs. Shaw's conclusion? The traveler from Altruria might assume that she would say: 

@@ -37,6 +37,14 @@ categories:
   - "Labor & Economics"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1930-08_37_8/sim_crisis_1930-08_37_8.pdf">
+    <img src="/Images/1930-08_37_8.jpg" alt="Cover of The Crisis, August 1930">
+  </a>
+  <p><em>The Crisis</em><br>August 1930</p>
+</div>
+```
 There is no universal suffrage in modern industry. So far as the government conducts industry, as in the case of the post office and, in some instances, the transportation system, universal political suffrage indirectly controls the industry. But there are great public services, like the railroad, the telephone, gas and electric lighting, the telegraph and others, where the industry, although public in nature, is private in ownership, and conducted by an autocracy, except insofar as public opinion and the granting of privileges and franchises gives remote control to the voters. 
 
 The disfranchisement, therefore, of the mass of workers in this case is the most extraordinary and vital disfranchisement in the modern world. When we talk of industrial democracy, we mean the increased right of the working people to determine the policies of great public services, either through direct public ownership or by private negotiation in the shape of shop committees, working agreements and the like. 

@@ -37,6 +37,14 @@ categories:
   - "Labor & Economics"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1920-01_19_3/sim_crisis_1920-01_19_3.pdf">
+    <img src="/Images/1920-01_19_3.jpg" alt="Cover of The Crisis, January 1920">
+  </a>
+  <p><em>The Crisis</em><br>January 1920</p>
+</div>
+```
 One of the surprising self-deceptions of the white Southerners is illustrated by this story of the war: Because of its large Negro working population, a government shipbuilding yard was brought to Wilmington, N.C., during the late war. The city congratulated itself, but balked finally at providing Negro workingmen with adequate housing. At a public meeting they lauded the whites and their enterprise to the skies, but complained to the government agents of the "burden" of the Negro---the black half of their population, said one pompous orator, was a "liability and not an asset."
 
 "Well," replied an unimaginative northern Colonel, who wanted ships built instead of talk, "if it wasn't for this liability, you wouldn't have gotten this ship-yard!"

@@ -37,6 +37,14 @@ categories:
   - "Racial Violence"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1918-02_15_4/sim_crisis_1918-02_15_4.pdf">
+    <img src="/Images/1918-02_15_4.jpg" alt="Cover of The Crisis, February 1918">
+  </a>
+  <p><em>The Crisis</em><br>February 1918</p>
+</div>
+```
 Sunday, December 2, 1917, immediately after the adjournment of church services, a human being was tortured and burned at the stake in the heart of the town of Dyersburg, Tenn. The victim was a Negro man, thirty years old, who was accused of criminal assault on a white woman of the county.
 
 ## The Town

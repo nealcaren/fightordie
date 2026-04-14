@@ -37,6 +37,14 @@ categories:
   - "Labor & Economics"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1919-12_19_2/sim_crisis_1919-12_19_2.pdf">
+    <img src="/Images/1919-12_19_2.jpg" alt="Cover of The Crisis, December 1919">
+  </a>
+  <p><em>The Crisis</em><br>December 1919</p>
+</div>
+```
 ## Arkansas
 
 The Thirteenth Amendment to the Constitution of the United States has never been enforced thoroughly. This means that involuntary servitude is still wide spread in the southern United States. There are even vestiges of the slave trade in the convict lease system and the arrangements for trading tenants. On the whole, how ever, the slavery that remains is a wide spread system of debt peonage and a map of the farms operated by colored tenants shows approximately the extent of this peonage.

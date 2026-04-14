@@ -38,6 +38,14 @@ categories:
   - "Labor & Economics"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1924-08_28_4/sim_crisis_1924-08_28_4.pdf">
+    <img src="/Images/1924-08_28_4.jpg" alt="Cover of The Crisis, August 1924">
+  </a>
+  <p><em>The Crisis</em><br>August 1924</p>
+</div>
+```
 Let Negroes read with thoughtful care and deep understanding the manifesto of the Third Party. It makes no direct reference to our problems. But what are our problems? They are the world's problems and something more. That something more is color prejudice and that is our immediate problem. But back of that and even with that solved are problems as pressing, as imperative, as tremendous for us as for any working people. These we cannot neglect. Simultaneously with our peculiar problems,  these others call for solution. They cannot be postponed.
 
 What are they? They rise according to La Follette's Cleveland program from the effort of organized force and greed to destroy liberty; and that program therefore proposes

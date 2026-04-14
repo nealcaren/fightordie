@@ -39,6 +39,14 @@ categories:
   - "Voting & Elections"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1928-12_35_12/sim_crisis_1928-12_35_12.pdf">
+    <img src="/Images/1928-12_35_12.jpg" alt="Cover of The Crisis, December 1928">
+  </a>
+  <p><em>The Crisis</em><br>December 1928</p>
+</div>
+```
 For the American Negro this has without doubt been the most humiliating presidential campaign through which he has passed. The agreement and accord of the two leading parties in regard to him has at last become perfect and complete. 
 
 Tentative gropings toward accord date back to 1876 when under the plea of healing the wounds of Civil War, the Federal Government decided to give up all attempt at supervising national elections. This put the nation in the humiliating position of having almost no control over the voters who elect its officials. From this compromise, we moved forward during a long period when it was the recognized function of the Republican Party to deplore disfranchisement and assert stoutly its intention to defend the rights of American Negroes in all ways. The Democratic Party, on the other hand, took a position which accepted responsibility for Negro disfranchisement and made it the declared enemy of Negro advancement. 

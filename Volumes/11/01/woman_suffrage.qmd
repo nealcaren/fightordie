@@ -39,6 +39,14 @@ categories:
   - "Voting & Elections"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1915-11_11_1/sim_crisis_1915-11_11_1.pdf">
+    <img src="/Images/1915-11_11_1.jpg" alt="Cover of The Crisis, November 1915">
+  </a>
+  <p><em>The Crisis</em><br>November 1915</p>
+</div>
+```
 This month 200,000 Negro voters will be called upon to vote on the
 question of giving the right of suffrage to women. <span style="font-variant:small-caps;">The
 Crisis</span>sincerely trusts that everyone of them will vote

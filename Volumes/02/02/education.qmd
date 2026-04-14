@@ -40,6 +40,14 @@ categories:
   - "The South"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1911-06_2_2/sim_crisis_1911-06_2_2.pdf">
+    <img src="/Images/1911-06_2_2.jpg" alt="Cover of The Crisis, June 1911">
+  </a>
+  <p><em>The Crisis</em><br>June 1911</p>
+</div>
+```
 There are people in the United States who say: "We have
 tried education as a solution for the race problem and failed, therefore," etc.
 

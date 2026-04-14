@@ -41,6 +41,14 @@ categories:
   - "Art & Culture"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1924-02_27_4/sim_crisis_1924-02_27_4.pdf">
+    <img src="/Images/1924-02_27_4.jpg" alt="Cover of The Crisis, February 1924">
+  </a>
+  <p><em>The Crisis</em><br>February 1924</p>
+</div>
+```
 <h2>I</h2>
 
 There have been times when we writers of the older set have been afraid that the procession of those who seek to express the life of the American Negro was thinning and that none were coming forward to fill the footsteps of the fathers. Dunbar is dead; Chesnutt is silent; and Kelly Miller is mooning after false gods while Brawley and Woodson are writing history rather than literature. But even as we ask "Where are the young Negro artists to mold and weld this mighty material about us?"---even as we ask, they come. 

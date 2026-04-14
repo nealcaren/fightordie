@@ -35,6 +35,14 @@ categories:
   - "Art & Culture"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1926-03_31_5/sim_crisis_1926-03_31_5.pdf">
+    <img src="/Images/1926-03_31_5.jpg" alt="Cover of The Crisis, March 1926">
+  </a>
+  <p><em>The Crisis</em><br>March 1926</p>
+</div>
+```
 *Porgy. By DuBose Heyward. George H. Doran Company. New York. 1925. 196 pages.*
 
 DuBose Heyward's little novel of colored Charleston life, "Porgy," is a beautiful piece of work. It is the Iliad of a small black beggar in the underworld of labor and crime surrounded by whiskey and lust and sanctified with music, a queer and quaint religion and a great yearning flood of love. 

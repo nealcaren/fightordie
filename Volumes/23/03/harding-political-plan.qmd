@@ -42,6 +42,14 @@ categories:
   - "Voting & Elections"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1922-01_23_3/sim_crisis_1922-01_23_3.pdf">
+    <img src="/Images/1922-01_23_3.jpg" alt="Cover of The Crisis, January 1922">
+  </a>
+  <p><em>The Crisis</em><br>January 1922</p>
+</div>
+```
 Mr. Harding's plan for settling various problems in politics is now in full swing and we are not all sure but what it bids fair to be successful beyond his dreams. The Harding plan involves (1) White leadership for the black South; (2) A division of the Negro vote.
 
 The white leadership of the black South has been strikingly illustrated in Virginia where the white leader, Col. Henry W. Anderson, talked some real, plain English. He said, for instance, at Barton Heights, October 22, "Senator Trinkle [his Democratic opponent] fears the Negro in Virginia politics. Our platform has eliminated the Negro from Virginia politics. Thirty-two Negroes now hold office in this State. They were appointed by the Democrats. I have asked Senator Trinkle to join with me in a movement to have these Negro judges removed from office. He has never replied to me on this matter.

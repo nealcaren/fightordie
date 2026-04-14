@@ -40,6 +40,14 @@ categories:
   - "The South"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1915-09_10_5/sim_crisis_1915-09_10_5.pdf">
+    <img src="/Images/1915-09_10_5.jpg" alt="Cover of The Crisis, September 1915">
+  </a>
+  <p><em>The Crisis</em><br>September 1915</p>
+</div>
+```
 The white southern oligarchy is laughing silently behind its hand.
 Two decades' years ago it faced a dilemma. A wretched Negro public
 school system (which has since grown worse in most southern states) made

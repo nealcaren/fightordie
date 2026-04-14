@@ -42,6 +42,14 @@ categories:
   - "The South"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1928-06_35_6/sim_crisis_1928-06_35_6.pdf">
+    <img src="/Images/1928-06_35_6.jpg" alt="Cover of The Crisis, June 1928">
+  </a>
+  <p><em>The Crisis</em><br>June 1928</p>
+</div>
+```
 There is probably no modern play-ground whose social foundation is more
 utterly false and criminal than Florida. Before the boom, Florida was a
 lovely, sleepy semi-tropical land with a working class predominantly Negro and with unusually cordial

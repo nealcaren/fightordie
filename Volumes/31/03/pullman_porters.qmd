@@ -41,6 +41,14 @@ categories:
   - "Labor & Economics"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1926-01_31_3/sim_crisis_1926-01_31_3.pdf">
+    <img src="/Images/1926-01_31_3.jpg" alt="Cover of The Crisis, January 1926">
+  </a>
+  <p><em>The Crisis</em><br>January 1926</p>
+</div>
+```
 There are some things connected with the fight of Pullman porters for recognition as modern working men which should hold our attention. First, there is the threat of the Pullman Company to substitute Filipino porters. This threat is sheer poppycock. Let them import as many Filipinos as they want. The Negro porters can easily hold their own. But of course the Pullman Company has not the slightest intention of importing Filipinos even if they could do so legally. They are simply trying to scare colored men. 
 
 Then again they are trying to influence the Negro press and apparently they are succeeding. Of the five or more colored papers in Chicago not a single one has come out openly and fearlessly in defense of the porters. Most of them have treated the matter with shuffling and with silence. 

@@ -44,6 +44,14 @@ categories:
   - "NAACP & Organizational Strategy"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1919-03_17_5/sim_crisis_1919-03_17_5.pdf">
+    <img src="/Images/1919-03_17_5.jpg" alt="Cover of The Crisis, March 1919">
+  </a>
+  <p><em>The Crisis</em><br>March 1919</p>
+</div>
+```
 Gentlemen:
 
 I beg hereby to lay before you certain tentative suggestions as to a Pan-African Congress to be held in Paris in February, 1919.

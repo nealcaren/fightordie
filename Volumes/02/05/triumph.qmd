@@ -38,6 +38,14 @@ categories:
   - "Literary Writing"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1911-09_2_5/sim_crisis_1911-09_2_5.pdf">
+    <img src="/Images/1911-09_2_5.jpg" alt="Cover of The Crisis, September 1911">
+  </a>
+  <p><em>The Crisis</em><br>September 1911</p>
+</div>
+```
 Let the eagle scream! Again the burden of upholding the best traditions of Anglo-Saxon civilization has fallen on the sturdy shoulders of the American republic. Once more a howling mob of the best citizens in a foremost State of the Union has vindicated the self-evident superiority of the white race. The case was perfectly clear; it was not that murder had been done, for we Americans are not squeamish at mere murder. Off and on we do more of that kind of thing than most folk. Moreover, there was not much of a murder---only the crazed act of a drunken man quite unpremeditated. The point is he was black.
 
 Blackness must be punished. Blackness is the crime of crimes, as the opera-bouffe senator-elect from Mississippi has amply proven. Why is it a crime? Because it threatens white supremacy. A black might---why, civilization might be black! It is therefore necessary, as every white scoundrel in the nation knows, to let slip no opportunity of punishing this crime of crimes. Of course, if possible, the pretext should be great and overwhelming---some awful stunning crime made even more horrible by reporters' imaginations. Failing this, mere murder, arson, barn burning or impudence may do; indeed, must do. 

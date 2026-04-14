@@ -39,6 +39,14 @@ categories:
   - "Segregation"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1927-01_33_3/sim_crisis_1927-01_33_3.pdf">
+    <img src="/Images/1927-01_33_3.jpg" alt="Cover of The Crisis, January 1927">
+  </a>
+  <p><em>The Crisis</em><br>January 1927</p>
+</div>
+```
 A man named Lawton writing in the *Independent* says that the N.A.A.C.P. "expressly advocates intermarriage" of whites and blacks. It does nothing of the sort. It simply declares that if white folk will have sexual commerce with blacks, this must take place under legal restrictions; that prohibition of such legal marriage is a direct bid for bastards and prostitutes and removes all civilized protection from colored girls and women; and finally that if two grown, sane, healthy persons wish to marry that that is their business and neither Mr. Lawton's nor ours. This is a long way from advocating such marriage. Despite everything we still maintain that English dukes should have the right to marry Americans: But we do not "advocate" it. We have too much respect for Americans. 
 
 <!-- Similar articles start here -->

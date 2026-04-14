@@ -42,6 +42,14 @@ categories:
   - "Internal Debate"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1934-05_41_5/sim_crisis_1934-05_41_5.pdf">
+    <img src="/Images/1934-05_41_5.jpg" alt="Cover of The Crisis, May 1934">
+  </a>
+  <p><em>The Crisis</em><br>May 1934</p>
+</div>
+```
 Monroe Trotter was a man of heroic proportions, and probably one of the most selfless of Negro leaders during all our American history. His father was Recorder of Deeds for the District of Columbia, at the time when Recorders were paid by fees; and as a result, he retired from office with a small fortune, which he husbanded carefully. Thus, his son was born in comfortable circumstances, and with his talent for business, and his wide acquaintanceship with the best class of young Massachusetts men in his day, might easily have accumulated wealth. 
 
 But he turned aside. He had in his soul all that went to make a fanatic, a knight errant. Ready to sacrifice himself, fearing nobody and nothing, strong in body, sturdy in conviction, full of unbending belief. 

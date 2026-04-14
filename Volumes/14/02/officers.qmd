@@ -40,6 +40,14 @@ categories:
   - "Segregation"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1917-06_14_2/sim_crisis_1917-06_14_2.pdf">
+    <img src="/Images/1917-06_14_2.jpg" alt="Cover of The Crisis, June 1917">
+  </a>
+  <p><em>The Crisis</em><br>June 1917</p>
+</div>
+```
 Give us Negro officers for Negro troops. This is the slogan and let no specious argument turn us from it. Liars tell us that only white men can lead black men, and they tell us this in the face of the record of Sonni Ali, Touissaint L'Ouverture, General Dodd, Charles Young, and Frank Dennison. Give us Negro officers for Negro troops. 
 
 Justice and right calls for the admission of Negroes to the civilian training camps on the same terms as white men. This right the <span class="crisis-title">Crisis</span> and Dr. Spingarn demanded from the first and we were refused. 

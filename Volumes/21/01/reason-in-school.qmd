@@ -41,6 +41,14 @@ categories:
   - "Labor & Economics"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1920-11_21_1/sim_crisis_1920-11_21_1.pdf">
+    <img src="/Images/1920-11_21_1.jpg" alt="Cover of The Crisis, November 1920">
+  </a>
+  <p><em>The Crisis</em><br>November 1920</p>
+</div>
+```
 A correspondent asks us to denounce a Negro theatre that has refused to employ colored architects, engineers or builders; another writer takes us to task for our article on Wilberforce; and several of our readers dislike the article on the "Weaknesses of the Negro College."
 
 These and other letters lead us to again make clear the position of <span class="crisis-title">The Crisis</span>: we believe that colored people should support Negro business enterprise; but on the other hand we do not believe in the exclusion of white teachers from all Negro colleges. We regard the African Methodist Church as perhaps the greatest accomplishment done by black folk in the last 500 years; we are desperately eager to see Wilberforce University survive as a church school and for this very reason we oppose policies that threaten its very existence.

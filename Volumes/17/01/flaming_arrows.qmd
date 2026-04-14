@@ -44,6 +44,14 @@ categories:
   - "Pan-Africanism & Empire"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1918-11_17_1/sim_crisis_1918-11_17_1.pdf">
+    <img src="/Images/1918-11_17_1.jpg" alt="Cover of The Crisis, November 1918">
+  </a>
+  <p><em>The Crisis</em><br>November 1918</p>
+</div>
+```
 It was a tremendous speech that Woodrow Wilson made in New York City, September 27, 1918. On one point alone was its meaning vague to us of the darker world, who listened with bated breath. Listen to these words:
 
 > Shall the military power of any nation or group of nations be suffered to determine the fortunes of peoples over whom they have no right to rule, except the right of force?    

@@ -37,6 +37,14 @@ categories:
   - "Internal Debate"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1929-05_36_5/sim_crisis_1929-05_36_5.pdf">
+    <img src="/Images/1929-05_36_5.jpg" alt="Cover of The Crisis, May 1929">
+  </a>
+  <p><em>The Crisis</em><br>May 1929</p>
+</div>
+```
 Nothing is more dangerous than unintelligent optimism; childish faith in the triumph of good; the "God's-in-His-Heaven" attitude, assumed because one is too lazy to be worried. On the other hand, the worst moral dyspepsia must face facts; and looking back on the history of the Negro race in America for the last few years one cannot help feeling a sense of tremendous encouragement.
 
 The legal defense of black men instead of being sporadic and occasional is taking definite, determined form and it is becoming increasingly difficult to cheat and oppress and mob colored people simply because they are colored.

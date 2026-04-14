@@ -32,6 +32,14 @@ categories:
   - "Segregation"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1911-01_1_3/sim_crisis_1911-01_1_3.pdf">
+    <img src="/Images/1911-01_1_3.jpg" alt="Cover of The Crisis, January 1911">
+  </a>
+  <p><em>The Crisis</em><br>January 1911</p>
+</div>
+```
 At last we have a definition of the very elusive phrase "Social Equality" as applied to the Negro problem. In stating their grievances colored people have recently specified these points:
 
 1. Disfranchisement, even of educated Negroes.

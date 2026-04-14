@@ -41,6 +41,14 @@ categories:
   - "Pan-Africanism & Empire"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1919-09_18_5/sim_crisis_1919-09_18_5.pdf">
+    <img src="/Images/1919-09_18_5.jpg" alt="Cover of The Crisis, September 1919">
+  </a>
+  <p><em>The Crisis</em><br>September 1919</p>
+</div>
+```
 We black folk easily drift into intellectual provincialism. We know our problem and tend to radical thought in its solution, but do we strive to know the problems of other forward forging groups whose difficulties are inevitably intertwined with ours?
 
 Here, for instance, is the question of the ownership of public utilities---the railroads, the telegraph and telephone and the street cars---utilities used largely, if not primarily, by the working class, and businesses which have yielded immense fortunes to private owners in the past.

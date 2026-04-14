@@ -35,6 +35,14 @@ categories:
   - "NAACP & Organizational Strategy"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1914-01_7_3/sim_crisis_1914-01_7_3.pdf">
+    <img src="/Images/1914-01_7_3.jpg" alt="Cover of The Crisis, January 1914">
+  </a>
+  <p><em>The Crisis</em><br>January 1914</p>
+</div>
+```
 <span class="crisis-title">The Crisis</span> exists for one great purpose.
 
 <span class="crisis-title">The Crisis</span> seeks to entertain its readers, and entertainment is a legitimate object for a popular magazine. Our pictures, our stories and our ornamentation are for entertainment. But the object of <span class="crisis-title">The Crisis</span> is not simply to entertain.

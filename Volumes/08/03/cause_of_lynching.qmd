@@ -34,6 +34,14 @@ categories:
   - "Racial Violence"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1914-07_8_3/sim_crisis_1914-07_8_3.pdf">
+    <img src="/Images/1914-07_8_3.jpg" alt="Cover of The Crisis, July 1914">
+  </a>
+  <p><em>The Crisis</em><br>July 1914</p>
+</div>
+```
 It is exceedingly difficult to get at the real cause of lynching but <span class="crisis-title">The Crisis</span> is more and more convinced that the real cause is seldom the one In the barbaric Oklahoma case of the lynching of a woman, the press despatches made it a quarrel in a "redlight" district, but two private letters in our hands from apparently trustworthy persons declare that it was the case of a seventeen-year-old girl defending her own honor.
 
 From Shreveport there are newspaper accounts of a horrible lynching of a Negro boy for attacking a ten-year-old child. But again a private letter tells us that the girl was old enough to be ticket seller in a theatre; that she was not injured in the slightest degree, but was found "hale and hearty and singing" the day after; and that, as a matter of fact, the boy was lynched because of his relations with another and older white woman.

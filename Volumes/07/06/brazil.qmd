@@ -42,6 +42,14 @@ categories:
   - "Racial Violence"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1914-04_7_6/sim_crisis_1914-04_7_6.pdf">
+    <img src="/Images/1914-04_7_6.jpg" alt="Cover of The Crisis, April 1914">
+  </a>
+  <p><em>The Crisis</em><br>April 1914</p>
+</div>
+```
 As a magnificent essay in valiant timidity we recommend Mr. Theodore Roosevelt's "Brazil and the Negro" in the <i>Outlook</i>. The story which he has to tell is simple: There are in Brazil 8,300,000 Negroes and mulattoes; 3,700,000 Indian and mixed Indian-whites and 8,000,000 persons of European descent. All these elements are fusing into one light mulatto race. 
 
 These are the simple facts. Mr. Roosevelt has hitherto rather ostentatiously avoided them. He visited Rio Janeiro, with a Negroid population in the hundred thousands, and almost overlooked them; he visited Bahia, if we mistake not, which has more Negroes than any city in the world, and quite forgot them. 

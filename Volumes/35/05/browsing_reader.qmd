@@ -37,6 +37,14 @@ categories:
   - "Art & Culture"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1928-05_35_5/sim_crisis_1928-05_35_5.pdf">
+    <img src="/Images/1928-05_35_5.jpg" alt="Cover of The Crisis, May 1928">
+  </a>
+  <p><em>The Crisis</em><br>May 1928</p>
+</div>
+```
 "Ebony and Topaz," a "Collectanea" edited by C. S. Johnson and published by the Urban League contains so much work and of such uneven quality, that it is difficult to judge or characterize it. It is a sort of big scrap book, quite without unity, even of race, and containing stories, poems, essays, plays, translations, biographies, reprints, drawings, etc. Some bits are lovely, some mediocre and others make any judgment doubtful. If the whole thing had been split up into a half dozen little booklets, each with its artistic unity and clear spiritual message, the net result would surely have been greater and more valuable. 
 
 <!-- Similar articles start here -->

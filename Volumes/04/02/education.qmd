@@ -38,6 +38,14 @@ categories:
   - "Internal Debate"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1912-06_4_2/sim_crisis_1912-06_4_2.pdf">
+    <img src="/Images/1912-06_4_2.jpg" alt="Cover of The Crisis, June 1912">
+  </a>
+  <p><em>The Crisis</em><br>June 1912</p>
+</div>
+```
 Consider this argument: Education is the training of men for life. The best training is experience, but if we depended entirely upon this each generation would begin where the last began and _ civilization could not advance. 
 
 We must then depend largely on oral and written tradition and on such bits of typical experience as we can arrange for the child's guidance to life. 

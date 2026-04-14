@@ -42,6 +42,14 @@ categories:
   - "Education"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1931-04_38_4/sim_crisis_1931-04_38_4.pdf">
+    <img src="/Images/1931-04_38_4.jpg" alt="Cover of The Crisis, April 1931">
+  </a>
+  <p><em>The Crisis</em><br>April 1931</p>
+</div>
+```
 The Baltimore *Afro-American* coined the term "Woofterism." It calls for definition and extension. Recently, the United States government has sent out a release based on a study by Dr. Woofter on "The Economic Status of the Negro." This survey was made under a grant from the Julius Rosenwald Fund of Chicago. The complete report in manuscript has been sent me by the Fund. It consists of a volume of studies with appendix, made in June, 1930, and a summary and recommendations by Dr. Woofter and a committee which acted with him.
 
 ## The Report

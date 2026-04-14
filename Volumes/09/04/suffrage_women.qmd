@@ -31,6 +31,14 @@ categories:
   - "Voting & Elections"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1915-02_9_4/sim_crisis_1915-02_9_4.pdf">
+    <img src="/Images/1915-02_9_4.jpg" alt="Cover of The Crisis, February 1915">
+  </a>
+  <p><em>The Crisis</em><br>February 1915</p>
+</div>
+```
 The woman suffrage movement this year needs special protection against
 its fool friends. One friend of suffrage has issued a circular asking if
 the New York electorate would be improved if the women voted. She proves

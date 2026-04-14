@@ -35,6 +35,14 @@ categories:
   - "Labor & Economics"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1920-02_19_4/sim_crisis_1920-02_19_4.pdf">
+    <img src="/Images/1920-02_19_4.jpg" alt="Cover of The Crisis, February 1920">
+  </a>
+  <p><em>The Crisis</em><br>February 1920</p>
+</div>
+```
 Several coöperative efforts are starting among colored people. Probably today, there are fifty or more local efforts. Most of them are sporadic, and will fail. Some few are the efforts of individuals who use the magic word coöperation for stores in which there is not a trace of the coöperation principle.
 
 There are a dozen or more which are largely coöperative, but not entirely---for instance, they have shares, and the number which one man may own is limited. The shareholders are obliged to buy a certain minimum amount of goods before they can share in the profits.

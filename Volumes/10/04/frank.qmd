@@ -42,6 +42,14 @@ categories:
   - "The South"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1915-08_10_4/sim_crisis_1915-08_10_4.pdf">
+    <img src="/Images/1915-08_10_4.jpg" alt="Cover of The Crisis, August 1915">
+  </a>
+  <p><em>The Crisis</em><br>August 1915</p>
+</div>
+```
 The Frank case only offers illustration of the truth that in the South
 all things may be brought about by an appeal to prejudice. This case
 differs from similar cases principally in that the victim was a Jew

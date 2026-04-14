@@ -41,6 +41,14 @@ categories:
   - "NAACP & Organizational Strategy"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1916-10_12_6/sim_crisis_1916-10_12_6.pdf">
+    <img src="/Images/1916-10_12_6.jpg" alt="Cover of The Crisis, October 1916">
+  </a>
+  <p><em>The Crisis</em><br>October 1916</p>
+</div>
+```
 There is for the future one and only one effective political move for colored voters. We have long foreseen it, have sought to avoid it. It is a move of segregation, it "hyphenates" us, it separates us from our fellow Americans; but self-defense knows no nice hesitations. The American Negro must either vote as a unit or continue to be politically emasculated as at present.
 
 

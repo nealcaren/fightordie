@@ -40,6 +40,14 @@ categories:
   - "NAACP & Organizational Strategy"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1916-08_12_4/sim_crisis_1916-08_12_4.pdf">
+    <img src="/Images/1916-08_12_4.jpg" alt="Cover of The Crisis, August 1916">
+  </a>
+  <p><em>The Crisis</em><br>August 1916</p>
+</div>
+```
 <span class="crisis-title">The Crisis</span>
 hastens to extend to you on your accession to the headship of Tuskegee the  assurances of its good will and personal respect. The <span class="crisis-title">Crisis</span> 
 does this all the more willingly because it has to some extent been the mouthpiece of many who have had occasion repeatedly to criticize the words and deeds of your predecessor. 

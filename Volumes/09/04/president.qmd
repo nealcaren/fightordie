@@ -33,6 +33,14 @@ categories:
   - "Segregation"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1915-02_9_4/sim_crisis_1915-02_9_4.pdf">
+    <img src="/Images/1915-02_9_4.jpg" alt="Cover of The Crisis, February 1915">
+  </a>
+  <p><em>The Crisis</em><br>February 1915</p>
+</div>
+```
 It is difficult to see how any clear-minded American can longer doubt the
 insincerity of President Wilson so far as the American Negro is
 concerned. With those of us who were most determined to keep our faith

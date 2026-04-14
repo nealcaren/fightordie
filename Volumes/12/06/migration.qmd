@@ -34,6 +34,14 @@ categories:
   - "The South"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1916-10_12_6/sim_crisis_1916-10_12_6.pdf">
+    <img src="/Images/1916-10_12_6.jpg" alt="Cover of The Crisis, October 1916">
+  </a>
+  <p><em>The Crisis</em><br>October 1916</p>
+</div>
+```
 It has long been the custom of colored leaders to advise the colored people to stay in the South. This has been supplemented by the startling information on the part of southern whites
 that they are the "best friends of the colored people," etc.
 

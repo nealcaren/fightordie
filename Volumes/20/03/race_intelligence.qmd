@@ -40,6 +40,14 @@ categories:
   - "Internal Debate"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1920-07_20_3/sim_crisis_1920-07_20_3.pdf">
+    <img src="/Images/1920-07_20_3.jpg" alt="Cover of The Crisis, July 1920">
+  </a>
+  <p><em>The Crisis</em><br>July 1920</p>
+</div>
+```
 For a century or more it has been the dream of those who do not believe Negroes are human that their wish should find some scientific basis. For years they depended on the weight of the human brain, trusting that the alleged underweight of less than a thousand Negro brains, measured without reference to age, stature, nutrition or cause of death, would convince the world that black men simply could not be educated. Today scientists acknowledge that there is no warrant for such a conclusion and that in any case the absolute weight of the brain is no criterion of racial ability. 
 
 Measurements of the bony skeleton followed and great hopes of the scientific demonstration of race inferiority were held for a while. But they had to be surrendered when Zulus and Englishmen were found in the same dolichocephalic class. 

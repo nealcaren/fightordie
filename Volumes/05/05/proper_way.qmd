@@ -43,6 +43,14 @@ categories:
   - "Racial Violence"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1913-03_5_5/sim_crisis_1913-03_5_5.pdf">
+    <img src="/Images/1913-03_5_5.jpg" alt="Cover of The Crisis, March 1913">
+  </a>
+  <p><em>The Crisis</em><br>March 1913</p>
+</div>
+```
 The editor of the Cleveland *Gazette* names three main points of attack for any national association which aims to help colored people:
 
 1. Disfranchisement.

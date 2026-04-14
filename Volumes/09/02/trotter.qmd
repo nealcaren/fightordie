@@ -34,6 +34,14 @@ categories:
   - "Internal Debate"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1914-12_9_2/sim_crisis_1914-12_9_2.pdf">
+    <img src="/Images/1914-12_9_2.jpg" alt="Cover of The Crisis, December 1914">
+  </a>
+  <p><em>The Crisis</em><br>December 1914</p>
+</div>
+```
 William Monroe Trotter is a brave man. Of his fearlessness and his unselfish devotion to the highest interests of the Negro race there can be no doubt. 
 
 President Woodrow Wilson is a keenly sensitive man. He has high ideals and he is following them. On one subject alone he is by birth and education unfitted for largeness of view or depth of feeling. His attitude on the Negro problem is essentially the attitude of the old philanthropic South of fifty years ago. He feels "kindly" toward Negroes, he wants to "help" them, he would not knowingly hinder them; but when it comes to treating black men as independent human beings, the equals of other citizens in the United States, the thing is simply beyond Mr. Wilson's conception. 

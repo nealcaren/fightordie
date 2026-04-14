@@ -42,6 +42,14 @@ categories:
   - "The South"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1920-05_20_1/sim_crisis_1920-05_20_1.pdf">
+    <img src="/Images/1920-05_20_1.jpg" alt="Cover of The Crisis, May 1920">
+  </a>
+  <p><em>The Crisis</em><br>May 1920</p>
+</div>
+```
 Extradition cases where northern governors are refusing to return colored prisoners to Southern States on account of the prevalence of lynching and mob rule, are accumulating and bid fair eventually to rival in importance and legal significance the celebrated fugitive slave cases. In 1917, Governor Call of Massachusetts refused to return John Johnson to West Virginia because of "danger of a serious miscarriage of justice".
 
 In March, 1920, Governor Allen of Kansas refused to return to Oklahoma Robert L. Hill, accused of fomenting "insurrection", on the ground that the testimony against him was procured by torture and that if returned he would probably be lynched.

@@ -41,6 +41,14 @@ categories:
   - "The South"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1911-10_2_6/sim_crisis_1911-10_2_6.pdf">
+    <img src="/Images/1911-10_2_6.jpg" alt="Cover of The Crisis, October 1911">
+  </a>
+  <p><em>The Crisis</em><br>October 1911</p>
+</div>
+```
 Mr. William Taft, President of these United States, shows a marvelous facility for getting on the right track and saying the wrong thing. The most glaring example of this is, of course, the tariff, but his attitude toward the American Negro is a . fatal second. Not only is Mr. Taft *particeps minims* with the late Mr. Roosevelt in the crime of Brownsville, but he added to that the Taft Doctrine of recognizing race prejudice, instead of fitness, in Federal appointments. On top of this, and in the face of a record of murder, lynching and burning in this country which has appalled the civilized world and loosened the tongue of many a man long since dumb on the race problem, in spite of this, Mr. Taft has blandly informed a deputation of colored men that any action on his part is quite outside his power, if not his interest.
 
 Finally, Mr. Taft has several times expressed himself on Negro education. First he was quite enthusiastic for the education of the Negroes' hands. Then---on the eve of his nomination to the presidency---he discovered at Fisk University a few black brains that deserved cultivation, but sparingly---sparingly. He would not overdo this sort of thing. Lately, on the eve of his campaign of renomination to the presidency, Mr. Taft has again declared that the Negro "ought to come and is coming more and more under the guardianship of the South!" This statement is, to speak mildly, extraordinary; and it will make thinking black men carefully considerate as to whether they are willing to enthrone this policy in the White House for another four years.

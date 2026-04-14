@@ -42,6 +42,14 @@ categories:
   - "Art & Culture"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1922-02_23_4/sim_crisis_1922-02_23_4.pdf">
+    <img src="/Images/1922-02_23_4.jpg" alt="Cover of The Crisis, February 1922">
+  </a>
+  <p><em>The Crisis</em><br>February 1922</p>
+</div>
+```
 What gives us hope for the final solution of this trying race problem is the willingness of persons in each encampment to link hands occasionally across the dividing line. Sometimes the impetus is given by common interests in art, in work, in religion. Sometimes it is stirred by sheer human kindness. Whatever the cause the phenomenon recurs.
 
 One such figure, Natalie Curtis Burlin, died last October in France, but not before she had devoted years to the work of interpreting one group to the other.

@@ -43,6 +43,14 @@ categories:
   - "Labor & Economics"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1933-03_40_3/sim_crisis_1933-03_40_3.pdf">
+    <img src="/Images/1933-03_40_3.jpg" alt="Cover of The Crisis, March 1933">
+  </a>
+  <p><em>The Crisis</em><br>March 1933</p>
+</div>
+```
 Without doubt the greatest
 figure in the science of modern
 industry is Karl Marx. He has

@@ -34,6 +34,14 @@ categories:
   - "Internal Debate"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1921-03_21_5/sim_crisis_1921-03_21_5.pdf">
+    <img src="/Images/1921-03_21_5.jpg" alt="Cover of The Crisis, March 1921">
+  </a>
+  <p><em>The Crisis</em><br>March 1921</p>
+</div>
+```
 Under the caption "Marcus Garvey" we published in our December and January numbers two articles which incidentally discussed the affairs of the Black Star Line Steamship Corporation. We regret that certain statements therein might be misconstrued. Our statement that the *Yarmouth* is a wooden vessel was incorrect, as it is in fact steel. We have naturally no intention to embarrass this corporation in its business or operations.
 
 <!-- Similar articles start here -->

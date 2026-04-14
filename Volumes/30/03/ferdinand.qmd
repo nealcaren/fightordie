@@ -39,6 +39,14 @@ categories:
   - "Voting & Elections"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1925-07_30_3/sim_crisis_1925-07_30_3.pdf">
+    <img src="/Images/1925-07_30_3.jpg" alt="Cover of The Crisis, July 1925">
+  </a>
+  <p><em>The Crisis</em><br>July 1925</p>
+</div>
+```
 There has been going on in black New York during the last ten years a revolution in practical politics which few Negroes know or understand. There are two political attitudes usual to Negroes. One widely advocated by <span class="crisis-title">The Crisis</span> is that of standing outside parties and throwing a mass of independent votes here or there as the candidates bid until parties will recognize Negro strength and cater to it. The weakness of this stand is that the choices after nominations are made are really few or none. Hence the real fight of the practical politicians is inside the party in the organizing of wards and precincts and the primary elections.
 
 

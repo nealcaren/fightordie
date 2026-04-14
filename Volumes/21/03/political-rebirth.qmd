@@ -40,6 +40,14 @@ categories:
   - "Voting & Elections"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1921-01_21_3/sim_crisis_1921-01_21_3.pdf">
+    <img src="/Images/1921-01_21_3.jpg" alt="Cover of The Crisis, January 1921">
+  </a>
+  <p><em>The Crisis</em><br>January 1921</p>
+</div>
+```
 Slowly but steadily and with unflinching determination the American Negro is returning to political power. In the last presidential election, black folk put 13 members of their race into the legislatures of the Northern States; they have dozens of representatives in the city councils, not to mention thousands in the civil service. Congressional districts in Missouri, Illinois, Pennsylvania and New York will put black men in Congress before 1925.
 
 It is time, therefore, for us to consider seriously the use of our new and growing political power. We must realize that this country is not a democracy; that it is an oligarchy ruled by the Rich and Powerful, and that the right to vote is the beginning and not the end of the dream of transferring to the masses of men the power now held by the few. This can be done only by the study of modern political and social problems by colored voters, and above all by the discard of the chronic colored office seeker.

@@ -37,6 +37,14 @@ categories:
   - "Segregation"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1911-07_2_3/sim_crisis_1911-07_2_3.pdf">
+    <img src="/Images/1911-07_2_3.jpg" alt="Cover of The Crisis, July 1911">
+  </a>
+  <p><em>The Crisis</em><br>July 1911</p>
+</div>
+```
 Northern paper defends race discrimination in this wise:
 
 > A Negro is good enough to associate with a Negro. If not, why not? Why is not a 'Jim Crow' car good enough for a Negro to ride in if it is just as good as the cars used by white people? Why is not a colored church good enough for a colored congregation? Why is not a colored school good enough for colored children? To say that they are not is to join Governor Vardaman in declaring that Negroes are an inferior and criminal people.

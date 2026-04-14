@@ -35,6 +35,14 @@ categories:
   - "Literary Writing"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1923-06_26_2/sim_crisis_1923-06_26_2.pdf">
+    <img src="/Images/1923-06_26_2.jpg" alt="Cover of The Crisis, June 1923">
+  </a>
+  <p><em>The Crisis</em><br>June 1923</p>
+</div>
+```
 It was one o'clock and I was hungry. I walked into a restaurant, seated myself and reached for the bill-of-fare. My table companion rose.
 
 "Sir," said he, "do you wish to force your company on those who do not want you?"

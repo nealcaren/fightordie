@@ -41,6 +41,14 @@ categories:
   - "Labor & Economics"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1917-03_13_5/sim_crisis_1917-03_13_5.pdf">
+    <img src="/Images/1917-03_13_5.jpg" alt="Cover of The Crisis, March 1917">
+  </a>
+  <p><em>The Crisis</em><br>March 1917</p>
+</div>
+```
 An interesting exchange of letters has appeared in the New York *Nation* in which a Canadian has taken the South severely to task for lynching and for its pretended excuses for lynching. A Texan has hotly replied that the culture of the South must not be accused of dishonesty nor made responsible for southern barbarities. To which the Canadian replies: "If editors, preachers, lawyers, teachers, indeed, all the professional classes, and all business men of consequence, are as genuinely indignant as your correspondent supposes, the influence of these persons must be painfully small. And unfortunately it is the common man who counts. It is he who determines the selection of a governor. It is he whose pressure upon the administration decides whether or not the majesty of the law shall be protected. It is he who pours petroleum upon the body of an unpopular Negro. And the whole point of my contention was that the common man of Georgia or Texas has a very different feeling towards the lyncher from that of common men elsewhere."
 
 This brings out the real dilemma of those who would interpret the present South. Is the South a land of barbarism leavened with culture, or a land of culture leavened with barbarism? If we accept the former explanation we can explain lynching. It is a barbaric outburst and survival, and against it the better elements of the South are gradually making headway and gaining strength. But they are not yet strong enough to overcome it. Yet this rational explanation makes the Southerners furious. "No!" they yell, "The South is a center of culture and civilization. It is really one of the most civilized parts of the globe. It is 'pure' in its blood and ideals and suited and able to lead the world." But, if this is so, what about lynching and lawlessness? What sort of a culture is it that cannot control itself in the most fundamental of human relations, that is given over to mobs, reactionary legislation and cruel practices?

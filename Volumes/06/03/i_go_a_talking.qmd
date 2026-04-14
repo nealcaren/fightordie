@@ -40,6 +40,14 @@ categories:
   - "Literary Writing"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1913-07_6_3/sim_crisis_1913-07_6_3.pdf">
+    <img src="/Images/1913-07_6_3.jpg" alt="Cover of The Crisis, July 1913">
+  </a>
+  <p><em>The Crisis</em><br>July 1913</p>
+</div>
+```
 I have made a great journey to three of the four corners of this Western world, over a distance of 7,000 miles, and through thirty States; and I am overwhelmed almost to
 silence over the things I have seen, the persons I have known and the forces I have felt.
 

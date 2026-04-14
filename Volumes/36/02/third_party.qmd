@@ -39,6 +39,14 @@ categories:
   - "Voting & Elections"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1929-02_36_2/sim_crisis_1929-02_36_2.pdf">
+    <img src="/Images/1929-02_36_2.jpg" alt="Cover of The Crisis, February 1929">
+  </a>
+  <p><em>The Crisis</em><br>February 1929</p>
+</div>
+```
 The pressing political problem in the United States is that of establishing the principle of a Third Party movement. It does not matter how logical and convincing an appeal is launched by any group, unless they can effectively place this before the voters of the nation, their work is in vain. For many years we have seen in the United States the rise of Third Party movements which have come to naught. They have failed, not because they did not have a good program and a right to persist and grow, but because they could not get the proper political hearing. 
 
 The difficulty of making the appeal of the Third Party effective, arises in part from our indirect method of electing presidents, but the greater reason is the so-called Solid South. This is a difficulty which for years no gentleman was permitted to discuss. Anyone who dared to attack or arraign the astonishing political machine which dominates twelve states of the United States and is in almost absolute control of 124 out of 531 electoral votes, is supposed to be reactionary, opposed to national unity and a fanatic on the race problem. Hiding back of these excuses, there has been built up in the South a political machine before which Tammany pales into insignificance. It is a machine which dictates the presidency, declares war, fosters imperialism, maintains a protective tariff, bolsters plutocracy, and above all, makes the chances of any Third Party movement impossible. 

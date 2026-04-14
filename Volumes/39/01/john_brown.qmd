@@ -43,6 +43,14 @@ categories:
   - "Retrospective"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1932-01_39_1/sim_crisis_1932-01_39_1.pdf">
+    <img src="/Images/1932-01_39_1.jpg" alt="Cover of The Crisis, January 1932">
+  </a>
+  <p><em>The Crisis</em><br>January 1932</p>
+</div>
+```
 A singular contretemps has arisen at Harpers Ferry from the project of United Daughters of the Confederacy to erect a monument in memory of the slaves who remained faithful during the John Brown raid. According to their statement: "John Brown, a Connecticut abolitionist, with a criminal record behind him," planned a raid to free the slaves, but "not a single slave joined the conspirators." A boulder was accordingly put in place and dedicated and at its dedication, to the surprise of the colored world, Henry T. McDonald, the white President of colored Storer College, and the Reverend George F. Bragg, Jr., colored rector of the St. James Episcopal Church, Baltimore, took part.
 
 During the exercises, white speakers condemned the Haitian Revolution, lauded the "black mammy," and called John Brown crazy. It was a pro-slavery celebration and most, people will agree with the Editor of the *Afro-American* that it was disgraceful for the President of Storer College and Dr. Bragg to have any part in this travesty.

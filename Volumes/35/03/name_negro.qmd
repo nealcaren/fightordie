@@ -37,6 +37,14 @@ categories:
   - "Internal Debate"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1928-03_35_3/sim_crisis_1928-03_35_3.pdf">
+    <img src="/Images/1928-03_35_3.jpg" alt="Cover of The Crisis, March 1928">
+  </a>
+  <p><em>The Crisis</em><br>March 1928</p>
+</div>
+```
 > South Bend, Ind.
 >  
 > Dear Sir: 

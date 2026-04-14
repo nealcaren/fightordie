@@ -38,6 +38,14 @@ categories:
   - "The South"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1914-02_7_4/sim_crisis_1914-02_7_4.pdf">
+    <img src="/Images/1914-02_7_4.jpg" alt="Cover of The Crisis, February 1914">
+  </a>
+  <p><em>The Crisis</em><br>February 1914</p>
+</div>
+```
 > Should I become President of the United States, they (the colored
 people) may count on me for absolute fair dealing and for everything by
 which I could assist in advancing the interests of their race in the

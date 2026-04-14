@@ -38,6 +38,14 @@ categories:
   - "Art & Culture"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1927-10_34_8/sim_crisis_1927-10_34_8.pdf">
+    <img src="/Images/1927-10_34_8.jpg" alt="Cover of The Crisis, October 1927">
+  </a>
+  <p><em>The Crisis</em><br>October 1927</p>
+</div>
+```
 Many colored people have undertaken to answer Mr. Mencken's remarks about Negro artists. Most of them apparently make the mistake of questioning his attitude rather than his facts. There can be no question of H. L. Mencken's attitude toward Negroes. It is calmly and judiciously fair. He neither loves nor hates them. He has a predilection for men. 
 
 But he, like many other Americans, does not understand just where the shoe pinches. When American artists of Negro descent have work worth while he believes that they are not barred by magazines or publishers. Of course not. But the point is that the themes on which Negro writers naturally write best, with deepest knowledge and clearest understanding, are precisely the themes which most editors do not want treated. These are themes which white readers are tired of or do not wish to hear. What is the "freedom" cry to a white American or "discrimination"? He is fed up on this which is the breath of life to black folk. While the feelings of insulted men, their reaction to the color line --- well this he will not read about. Consequently the chief reading public in America will not buy precisely the sort of thing that Negroes must write about if they are sincere and honest.

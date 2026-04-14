@@ -39,6 +39,14 @@ categories:
   - "War & Military"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1918-10_16_6/sim_crisis_1918-10_16_6.pdf">
+    <img src="/Images/1918-10_16_6.jpg" alt="Cover of The Crisis, October 1918">
+  </a>
+  <p><em>The Crisis</em><br>October 1918</p>
+</div>
+```
 The commutation of ten death sentences of Negro soldiers by the President and his word of recognition of Negro loyalty are deeply appreciated. Nevertheless, the punishment of the Houston soldiers remains perhaps the most drastic in modern military history and two steps the Government is still called upon to take by every dictate of justice: the court martial of the officers of the Twenty-fourth Infantry and the punishment of the white civilians who incited the uprising. Only these things and the eventual pardon of the fifty or more soldiers sentenced to life imprisonment will satisfy colored America.
 
 <!-- Similar articles start here -->

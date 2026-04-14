@@ -42,6 +42,14 @@ categories:
   - "Pan-Africanism & Empire"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1932-03_39_3/sim_crisis_1932-03_39_3.pdf">
+    <img src="/Images/1932-03_39_3.jpg" alt="Cover of The Crisis, March 1932">
+  </a>
+  <p><em>The Crisis</em><br>March 1932</p>
+</div>
+```
 The assault on a white woman in Hawaii brings this whole volcanic structure to the world's notice. Hawaii is a volcano and a series of volcanoes in more senses of the word than one. It is near the exact center of the Pacific Ocean. It was settled in prehistoric times by dark Mongolians with many evidences of a strong Negro strain. It was discovered by Captain James Cook in 1778. A company of missionaries landed there in 1820 and in 1823 came the great revival when the Queen and one-fifth of the population were converted to Christianity.
 
 Troubles with foreigners ensued, culminating in a revolution in 1893, which deposed the native Queen and made a missionary's son President. Hawaii was annexed to the United States in 1898. But the real conquest of Hawaii was the investment there of millions of dollars to raise pineapples, sugar, coffee, bananas, and other merchandise. Nearly eight hundred thousand tons of sugar are annually exported and two hundred and thirteen million cans of pineapples. To raise this produce, the exploiters of Hawaii encouraged an immigration which has resulted in the most astonishing mixture of races known to the modern world.

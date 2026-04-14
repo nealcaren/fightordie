@@ -39,6 +39,14 @@ categories:
   - "Voting & Elections"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1920-06_20_2/sim_crisis_1920-06_20_2.pdf">
+    <img src="/Images/1920-06_20_2.jpg" alt="Cover of The Crisis, June 1920">
+  </a>
+  <p><em>The Crisis</em><br>June 1920</p>
+</div>
+```
 We have asked 17 men mentioned for the presidency what their attitude is on:
 
 1. Lynching

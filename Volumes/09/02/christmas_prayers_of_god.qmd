@@ -37,6 +37,14 @@ categories:
   - "Racial Violence"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1914-12_9_2/sim_crisis_1914-12_9_2.pdf">
+    <img src="/Images/1914-12_9_2.jpg" alt="Cover of The Crisis, December 1914">
+  </a>
+  <p><em>The Crisis</em><br>December 1914</p>
+</div>
+```
 <div class="poem">
 <p class = "verse">Name of God&rsquo;s Name!  
 <p class = "verse">Red murder reigns;  

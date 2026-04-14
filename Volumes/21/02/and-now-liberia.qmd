@@ -42,6 +42,14 @@ categories:
   - "Pan-Africanism & Empire"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1920-12_21_2/sim_crisis_1920-12_21_2.pdf">
+    <img src="/Images/1920-12_21_2.jpg" alt="Cover of The Crisis, December 1920">
+  </a>
+  <p><em>The Crisis</em><br>December 1920</p>
+</div>
+```
 The Wilson Plan of assisting Liberia has been finally revealed in detail. Its terms, which include a loan of five million dollars, are found to be disastrously rigid. Worley, a white Virginian, as General Receiver, is the one prominent figure and would be the real ruler of Liberia under this plan, together with his band of white pensioners. He and our Secretary of Legation, Bundy, sought to force the plan through, but President King called an extra session of the Legislature to consider amendments. While the Legislature was in session a cablegram was received from the United States, saying that no amendments to the Plan would be accepted and that the Plan must be signed as submitted by them, "or the friendly interest which has heretofore existed would become lessened."
 
 The Liberians, however, refused to be frightened and are preparing to send another commission to America, now that the election is over, to discuss some reasonable changes in the proposed financial arrangements.

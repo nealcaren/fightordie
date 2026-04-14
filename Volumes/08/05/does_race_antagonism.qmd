@@ -34,6 +34,14 @@ categories:
   - "Education"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1914-09_8_5/sim_crisis_1914-09_8_5.pdf">
+    <img src="/Images/1914-09_8_5.jpg" alt="Cover of The Crisis, September 1914">
+  </a>
+  <p><em>The Crisis</em><br>September 1914</p>
+</div>
+```
 There are four classes of reasons usually given in defense of Race Antagonism.
 
 <ol start="1">

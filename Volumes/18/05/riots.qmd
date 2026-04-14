@@ -37,6 +37,14 @@ categories:
   - "Racial Violence"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1919-09_18_5/sim_crisis_1919-09_18_5.pdf">
+    <img src="/Images/1919-09_18_5.jpg" alt="Cover of The Crisis, September 1919">
+  </a>
+  <p><em>The Crisis</em><br>September 1919</p>
+</div>
+```
 I reached Washington early in the evening of July 22. As the train neared the capital I could feel the tenseness of the situation grow. It showed itself in the air of the passengers as they read the newspapers, with their glaring headlines telling of the awful night before and intimating that the worst was yet to come. As I  passed through the cars on my way to the diner and back, men and women glanced up at me with what seemed to be a look with a glance which of mild surprise; seemed to say, "This man must indeed have very important business in Washington."
 
 The porters and waiters plainly showed the strain under which they were doing their work---the strain of suppressed excitement with, perhaps, an added sense of dread of going into something, they knew not what. They moved about quietly, in fact, grimly and entirely without their customary good humor and gaiety. One of the porters who knew who I was questioned the wisdom of my going through with the trip. I may have felt that his question was not absolutely without reason, but I did not admit it. When I left the car he said to me, "Take good care of yourself." I assured him that I would spare no effort to do so.

@@ -38,6 +38,14 @@ categories:
   - "Education"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1920-07_20_3/sim_crisis_1920-07_20_3.pdf">
+    <img src="/Images/1920-07_20_3.jpg" alt="Cover of The Crisis, July 1920">
+  </a>
+  <p><em>The Crisis</em><br>July 1920</p>
+</div>
+```
 The principal of a State school for Negroes writes us:
 
 > For seven years I contended for the right to make this school available

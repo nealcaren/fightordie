@@ -40,6 +40,14 @@ categories:
   - "Segregation"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1919-06_18_2/sim_crisis_1919-06_18_2.pdf">
+    <img src="/Images/1919-06_18_2.jpg" alt="Cover of The Crisis, June 1919">
+  </a>
+  <p><em>The Crisis</em><br>June 1919</p>
+</div>
+```
 ## Foreword
 
 The mayor of Domfront stood in the village inn, high on the hill that hovers green in the blue sky of Normandy; and he sang as we sang: "Allons, enfants de la patrie!" God! How we sang! How the low, grey-clouded room rang with the strong voice of the little Frenchman in the corner, swinging his arms in deep emotion; with the vibrant voices of a score of black American officers who sat round about. Their hearts were swelling---torn in sunder. Never have I seen black folk---and I have seen many---so bitter and disillusioned at the seemingly bottomless depths of American color hatred---so uplifted at the vision of real democracy dawning on them in France.

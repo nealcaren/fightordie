@@ -37,6 +37,14 @@ categories:
   - "Racial Violence"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1927-08_34_6/sim_crisis_1927-08_34_6.pdf">
+    <img src="/Images/1927-08_34_6.jpg" alt="Cover of The Crisis, August 1927">
+  </a>
+  <p><em>The Crisis</em><br>August 1927</p>
+</div>
+```
 There has been developed in the United States a regular technique in matters of mob violence. Matters move somewhat as follows:
 
 A crime is committed. The police hasten to accuse a Negro. This, of course, is popular because the white public readily believes in Negro crime. A Negro is arrested. If he is promptly lynched the police are vindicated and the guilty white persons saved from fear of detection. If lynching is delayed but threatened a mob usually attacks the Negro district. This gives a chance for looting and stealing. If any Negroes defend themselves, immediately the police, often assisted by the militia, promptly disarm all Negroes and charge a number with rioting. If any white people are arrested for rioting nearly all of them are discharged; but the Negroes are held and prosecuted. This serves to intimidate the Negro population and keeps it from attempting any self-defense, however innocent the defenders may be, and in no matter how grave danger to life, limb and property.

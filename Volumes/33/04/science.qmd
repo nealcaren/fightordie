@@ -38,6 +38,14 @@ categories:
   - "Education"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1927-02_33_4/sim_crisis_1927-02_33_4.pdf">
+    <img src="/Images/1927-02_33_4.jpg" alt="Cover of The Crisis, February 1927">
+  </a>
+  <p><em>The Crisis</em><br>February 1927</p>
+</div>
+```
 Dr. N.M. Hirsh, "former Fellow of the National Research Council", has made an astounding discovery. By testing 5,500 New England school children he finds that Negroes and Portuguese have the least intelligence. And then he adds blithely, "The children tested were all attending public schools in four factory towns of Massachusetts, *with the exception of 449 Negro children from Tennessee!*"
 
 One-fourth of the Negroes of Tennessee are illiterate and the State spends less than five dollars a head each year in training colored children. Massachusetts spends seven times this amount on her children, but the poor Portuguese who are recent immigrants have had scant chance to take advantage of it. As a scientist, Mr. Hirsh deserves to be classed with Frederick L. Hoffman.

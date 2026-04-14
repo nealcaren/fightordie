@@ -40,6 +40,14 @@ categories:
   - "Racial Violence"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1913-07_6_3/sim_crisis_1913-07_6_3.pdf">
+    <img src="/Images/1913-07_6_3.jpg" alt="Cover of The Crisis, July 1913">
+  </a>
+  <p><em>The Crisis</em><br>July 1913</p>
+</div>
+```
 For the first time in history, Southern white men and Southern black men have met under Southern white auspices and frankly discussed the race problems of the South before an audience of both races. At the Southern Sociological Congress the professional Negro lover was absent, and the white demagogue was silent. There was scarcely a word uttered which <span class="crisis-title">The Crisis</span> does not cordially endorse.
 
 It was a splendid occasion. It was epoch making, and men like Dillard, Hunley, Branson Morse, Hammond and Scroggs are the real leaders of the newest South.

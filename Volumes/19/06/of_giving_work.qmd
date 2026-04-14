@@ -34,6 +34,14 @@ categories:
   - "The South"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1920-04_19_6/sim_crisis_1920-04_19_6.pdf">
+    <img src="/Images/1920-04_19_6.jpg" alt="Cover of The Crisis, April 1920">
+  </a>
+  <p><em>The Crisis</em><br>April 1920</p>
+</div>
+```
 "We give you people work and if we didn't, how would you live?"
 
 The speaker was a southern white man. He was of the genus called "good". He had come down from the Big House to advise these Negroes, in the forlorn little church which crouched on the creek. He didn't come to learn, but to teach. The result was that he did not learn, and he saw only that blank, impervious gaze which colored people know how to assume; and that dark wall of absolute silence which they have a habit of putting up instead of applause. He felt awkward, but he repeated what he had said, because he could not think of anything else to say:

@@ -41,6 +41,14 @@ categories:
   - "Women's Rights"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1918-12_17_2/sim_crisis_1918-12_17_2.pdf">
+    <img src="/Images/1918-12_17_2.jpg" alt="Cover of The Crisis, December 1918">
+  </a>
+  <p><em>The Crisis</em><br>December 1918</p>
+</div>
+```
 We hail as prophetic the swan-song of Senator Thomas William Hardwick, of Georgia. He entered Congress in 1903, on a platform calling for the repeal of the Fifteenth Amendment. He leaves the Senate in 1919, at the special request of President Wilson, on account of his disloyalty,---not simply to his party leader and his country, but to the foundation principles of democratic government.
 
 He said in helping to defeat Woman's Suffrage:

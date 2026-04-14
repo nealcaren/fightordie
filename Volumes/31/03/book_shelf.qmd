@@ -42,6 +42,14 @@ categories:
   - "Art & Culture"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1926-01_31_3/sim_crisis_1926-01_31_3.pdf">
+    <img src="/Images/1926-01_31_3.jpg" alt="Cover of The Crisis, January 1926">
+  </a>
+  <p><em>The Crisis</em><br>January 1926</p>
+</div>
+```
 <h2><em>The New Negro</em>, edited by Alain Locke. Albert and Charles Boni, New York, 1925. 446 pages.</h2>
 
 This extraordinary book in many ways marks an epoch. It is in many respects sprawling, illogical, with an open and unashamed lack of unity and continuity, and yet it probably expresses better than any book that has been published in the last ten years the present state of thought and culture among American Negroes and it expresses it so well and so adequately, with such ramification into all phases of thought and attitude, that it is a singularly satisfying and inspiring thing. 

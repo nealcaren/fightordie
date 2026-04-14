@@ -39,6 +39,14 @@ categories:
   - "Racial Violence"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1912-01_3_3/sim_crisis_1912-01_3_3.pdf">
+    <img src="/Images/1912-01_3_3.jpg" alt="Cover of The Crisis, January 1912">
+  </a>
+  <p><em>The Crisis</em><br>January 1912</p>
+</div>
+```
 The were sitting on the leeward deck of the vessel and the colored man was there with his usual look of unconcern, before the seasickness his presence aboard had caused some upheaval. The Woman, for instance, glancing at the Southerner, had refused point blank to sit beside him at meals, so she had changed places with the Little Old Lady. The Westerner, who sat opposite, said he did not care a ------,
 then he looked at the Little Old Lady, and added in a lower voice to the New Yorker that there was no accounting for tastes. The Southerner from the other table broadened his back and tried to express with his shoulders both ancestors and hauteur. All this, however, was half forgotten during the seasickness, and the Woman sat beside the colored man for a full half hour before she noticed it. and then was glad to realize that the Southerner was too sick to see. Now again with sunshine and smiling weather, they all quite naturally reverted (did the Southerner suggest it?) to the Negro problem. The usual solutions had been suggested: education, work, emigration. etc.
 

@@ -29,6 +29,14 @@ categories:
   - "Voting & Elections"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1910-11_1_1/sim_crisis_1910-11_1_1.pdf">
+    <img src="/Images/1910-11_1_1.jpg" alt="Cover of The Crisis, November 1910">
+  </a>
+  <p><em>The Crisis</em><br>November 1910</p>
+</div>
+```
 If there is one thing that should be urged upon colored voters throughout the United States this fall it is independence. No intelligent man should vote one way simply from habit. Only through careful scrutiny of candidates and policies can a man put himself in position to help rule one hundred million people. It is because of the suspicion that colored men are not capable of doing this, or are unwilling to do it, that so many American citizens acquiesce in the nullification of democracy known as disfranchisement. Let every colored man who can, vote; and whether he vote the Republican or Democratic or Socialist ticket, let him vote it, not because his father did or because he is afraid, but because after intelligent consideration he thinks the success of that ticket best for his people and his country.
 
 <!-- Similar articles start here -->

@@ -41,6 +41,14 @@ categories:
   - "Racial Violence"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1921-05_22_1/sim_crisis_1921-05_22_1.pdf">
+    <img src="/Images/1921-05_22_1.jpg" alt="Cover of The Crisis, May 1921">
+  </a>
+  <p><em>The Crisis</em><br>May 1921</p>
+</div>
+```
 The bourbons have put the question up to Mr. Harding sooner than we had anticipated. The issue is clearly drawn: 500 clerks in the Bureau of the Registry of the Treasury do not want as chief any person of Negro descent. They refuse to consider any man or woman, however educated, gifted or fitted for the place, if his or her grandmother was of African descent. They do not object to any ignorant scoundrel, if only he be “white”! Can you conceive such a stand? How will Mr. Harding meet it?
 
 Meantime, how are we meeting it? Not in the wisest way. In the first place, our politicians have not learned much in the last decade. We had hoped that the intelligent conduct of the  Negro voter during the war and in the last campaign, added to the great critical problems facing our race, would lead to a dignified plan of action in conduct and demand after the new President’s accession.

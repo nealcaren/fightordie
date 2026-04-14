@@ -41,6 +41,14 @@ categories:
   - "Pan-Africanism & Empire"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1912-06_4_2/sim_crisis_1912-06_4_2.pdf">
+    <img src="/Images/1912-06_4_2.jpg" alt="Cover of The Crisis, June 1912">
+  </a>
+  <p><em>The Crisis</em><br>June 1912</p>
+</div>
+```
 By a vote of 203 against 133, the German Reichstag has declared that
 marriages between Germans and native women in the colonies are legal.
 This is a triumph of sheer decency. It does not compel any German to

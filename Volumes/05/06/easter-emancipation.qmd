@@ -40,6 +40,14 @@ categories:
   - "Art & Culture"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1913-04_5_6/sim_crisis_1913-04_5_6.pdf">
+    <img src="/Images/1913-04_5_6.jpg" alt="Cover of The Crisis, April 1913">
+  </a>
+  <p><em>The Crisis</em><br>April 1913</p>
+</div>
+```
 <div class="poem">
 <p class = "verse">I am dead;
 <p class = "verse">Yet somehow, somewhere,

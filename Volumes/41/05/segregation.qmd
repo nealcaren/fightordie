@@ -36,6 +36,14 @@ categories:
   - "Segregation"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1934-05_41_5/sim_crisis_1934-05_41_5.pdf">
+    <img src="/Images/1934-05_41_5.jpg" alt="Cover of The Crisis, May 1934">
+  </a>
+  <p><em>The Crisis</em><br>May 1934</p>
+</div>
+```
 A girl with brown and serious face, came to me after a lecture. She was not satisfied with what I had said, nor to my answer to her questions from the floor. She said: "It seems to me you used to fight Segregation, and that now you are ready to compromise." I answered: If you mean by fighting Segregation, fighting with fists, this is a thing I have never advocated, because it seems to me that such a policy always loses more than it gains. I have fought Segregation and other evils with reason, with facts, and with agitation. In this way, I'm still fighting. I said in the past that Segregation is wrong. I am still saying it.
 
 As to my willingness to compromise, that depends upon what you mean by compromise. If you mean by compromise, taking less than you want, but not wanting less, then I do compromise. I take what I can get, as I always have in the past. Yet I want all. And if in this matter of taking what I can get, I compromise, so do you, and so must you.

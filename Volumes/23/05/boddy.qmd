@@ -39,6 +39,14 @@ categories:
   - "Racial Violence"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1922-03_23_5/sim_crisis_1922-03_23_5.pdf">
+    <img src="/Images/1922-03_23_5.jpg" alt="Cover of The Crisis, March 1922">
+  </a>
+  <p><em>The Crisis</em><br>March 1922</p>
+</div>
+```
 What more pathetic, baffling, and heartrending case can one conceive? Here is a boy of nineteen—too young even to have begun to live. He is comely, straight, quick of brain, and 
 with lightning speed of hands. He can read and write. He has spent two years in the high school. And yet he stands today a murderer, frank and red-handed. 
 

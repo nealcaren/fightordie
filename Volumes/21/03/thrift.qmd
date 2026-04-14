@@ -39,6 +39,14 @@ categories:
   - "Labor & Economics"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1921-01_21_3/sim_crisis_1921-01_21_3.pdf">
+    <img src="/Images/1921-01_21_3.jpg" alt="Cover of The Crisis, January 1921">
+  </a>
+  <p><em>The Crisis</em><br>January 1921</p>
+</div>
+```
 A Teacher writes us from Texas:
 
 > Now that prices are on the decline and there is a consequent rise in the value of money, it occurs to me that this is an opportune time to start a national thrift movement among our people.  

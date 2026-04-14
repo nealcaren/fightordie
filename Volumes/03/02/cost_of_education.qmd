@@ -39,6 +39,14 @@ categories:
   - "The South"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1911-12_3_2/sim_crisis_1911-12_3_2.pdf">
+    <img src="/Images/1911-12_3_2.jpg" alt="Cover of The Crisis, December 1911">
+  </a>
+  <p><em>The Crisis</em><br>December 1911</p>
+</div>
+```
 A favorite argument in the South is that the white people "pay for" the education of colored children. For instance, an alderman in Lexington, Ky., argues this way, in answer to a complaint about poor colored schools:
 
 The Negroes of Lexington hold $774,735 worth of property, on which the school tax is $4,415.99. The white people pay taxes on $22,000,000, on which the school tax is $77,000. The colored schools cost $24,971.35. "These," concludes the *Richmond Times-Despatch*, "are very striking figures and dispose of the complaint made by the Negro leaders."

@@ -40,6 +40,14 @@ categories:
   - "Segregation"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1913-03_5_5/sim_crisis_1913-03_5_5.pdf">
+    <img src="/Images/1913-03_5_5.jpg" alt="Cover of The Crisis, March 1913">
+  </a>
+  <p><em>The Crisis</em><br>March 1913</p>
+</div>
+```
 SIR:
 
 Your inauguration to the Presidency of the United States is to the colored people, to the white South and to the nation a momentous occasion. For the first time since the emancipation of slaves the government of this nation—the Presidency, the Senate, the House of Representatives and, practically, the Supreme Court—passes on the 4th of March into the hands of the party which a half century ago fought desperately to keep black men as real estate in the eyes of the law.

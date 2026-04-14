@@ -41,6 +41,14 @@ categories:
   - "War & Military"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1917-09_14_5/sim_crisis_1917-09_14_5.pdf">
+    <img src="/Images/1917-09_14_5.jpg" alt="Cover of The Crisis, September 1917">
+  </a>
+  <p><em>The Crisis</em><br>September 1917</p>
+</div>
+```
 Let us enter this war for Liberty with clean hands. May no blood-smeared garments bind our feet when we rise to make the world safe for Democracy. The New Freedom cannot survive if it means Waco, Memphis and East St. Louis. We cannot lynch 2,867 untried black men and women in thirty-one years and pose successfully as leaders of civilization. Rather let us bow our shamed heads and in sack cloth and ashes declare that when in awful war we raise our weapons against the enemies of mankind, so, too, and in that same hour here at home we raise our hands to Heaven and pledge our sacred honor to make our own America a real land of the free:
 <ul style="list-style: none;">
 <li>To stop lynching and mob violence.

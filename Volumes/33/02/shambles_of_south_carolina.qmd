@@ -1,6 +1,6 @@
 ---
 title: The Shambles of South Carolina
-description: White, Walter in The Crisis (1926) examines the brutal lynching of the Lowman family and Southern mob terror.
+description: "Walter White's 1926 NAACP investigation of the Aiken, South Carolina mob that dragged Bertha Lowman and her brothers Demon and Clarence from the county jail and shot them on the Dixie Highway."
 author: White, Walter
 date: Jun. 1926
 subjects:
@@ -39,6 +39,14 @@ categories:
   - "The South"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1926-12_33_2/sim_crisis_1926-12_33_2.pdf">
+    <img src="/Images/1926-12_33_2.jpg" alt="Cover of The Crisis, December 1926">
+  </a>
+  <p><em>The Crisis</em><br>December 1926</p>
+</div>
+```
 Four men went down the darkened corridor of the Aiken, S. C., jail towards the cell where slept a colored woman. Through the brick and steel structure, there had grown all night a sense of impending terror. Here and there, prisoners unable to sleep with the shadow over them, moved restlessly about their cells, sensing vaguely the form of Tragedy standing nearby. 
 
 Before the woman's cell the four men paused. One of them unlocked the door and two others went in and shook the sleeping figure. Bertha Lowman awoke. "What do you want now?" she demanded. The answer was a gruff demand that she get on her clothes and go downstairs. She knew instinctively that something was wrong and refused to go. In nearby cells, other prisoners saw her seized by two of the men and dragged from the iron-barred room.

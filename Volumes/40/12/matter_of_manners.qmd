@@ -37,6 +37,14 @@ categories:
   - "The South"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1933-12_40_12/sim_crisis_1933-12_40_12.pdf">
+    <img src="/Images/1933-12_40_12.jpg" alt="Cover of The Crisis, December 1933">
+  </a>
+  <p><em>The Crisis</em><br>December 1933</p>
+</div>
+```
 There was a time when the Negro race in America had a right to boast that its manners were better than those of its white neighbors. They were insistently courteous and soft-voiced. Their experience of public insult gave them a sort of social sense of what was due the individual in personal deference and of the good policy and kindliness that lay behind: "Excuse me," "I thank you," "Please."
 
 It was perhaps inevitable that this phase should pass. No group of people who have been so persistently insulted as American Negroes, can be expected to preserve their manners; but it is worthwhile that they should at least regret the loss and not forget what is after all due themselves. There is a story, probably apocryphal, that George Washington was rebuked for raising his hat to a colored person and simply said that he could not let anyone outdo him in politeness. Nothing of this older ideal of a Southern gentleman remains.

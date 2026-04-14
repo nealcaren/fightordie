@@ -39,6 +39,14 @@ categories:
   - "The South"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1921-04_21_6/sim_crisis_1921-04_21_6.pdf">
+    <img src="/Images/1921-04_21_6.jpg" alt="Cover of The Crisis, April 1921">
+  </a>
+  <p><em>The Crisis</em><br>April 1921</p>
+</div>
+```
 The white Executive Secretary of the Mississippi Welfare League, J.C. Wilson, writes thus to Moorfield Storey:
 
 > The attitude of <span class="crisis-title">The Crisis</span>, which claims to be working in the interest of the Negro race to bring about better relations between the races in the United States, is, on the other hand, endeavoring to help the situation by using tactics which never bring peace, but war inevitably. And unless such radical papers change their attitudes and cease to abuse and defame the characters of the leading white people of the South who are earnestly and sincerely endeavoring to help the black man, the gulf will be widened between them.

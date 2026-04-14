@@ -35,6 +35,14 @@ categories:
   - "The South"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1915-06_10_2/sim_crisis_1915-06_10_2.pdf">
+    <img src="/Images/1915-06_10_2.jpg" alt="Cover of The Crisis, June 1915">
+  </a>
+  <p><em>The Crisis</em><br>June 1915</p>
+</div>
+```
 To the People of the United States:
 
 This is an appeal not for any privilege, indulgence or preference of any kind, but for simple justice.

@@ -36,6 +36,14 @@ categories:
   - "Labor & Economics"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1932-03_39_3/sim_crisis_1932-03_39_3.pdf">
+    <img src="/Images/1932-03_39_3.jpg" alt="Cover of The Crisis, March 1932">
+  </a>
+  <p><em>The Crisis</em><br>March 1932</p>
+</div>
+```
 With twelve million Negroes in America and at least ten millions in the adjacent West Indies, is the black race economically helpless? These two groups as consumers must at the very lowest estimate spend ten billion dollars a year. Perhaps the larger part of this expenditure is compulsory, and we have small choice as to where and how it should be spent. But there must be hundreds of millions where we do have choice in the direction of its expenditure. This expenditure can and must, if we survive in America, be so directed as to employ our own muscle and brains in the production of the goods and services which we need. Such production demands skill, but what skill, and how shall we gain this skill?
 
 The way is clear. Our colleges are or may be centers of information and learning. They should study the facts concerning the consumption of goods by American Negroes and West Indians. They should measure and make clear our economic demands. We have industrial schools. Those industrial schools should train young people, so that they would have skill to do the kind of work which is necessary to satisfy our demands. Their aims should not be simply to do the work and make the goods which white folks demand. Their aim should not be simply to train for decadent and outworn trades where there is a lessening demand for workers. Their main object should be to train Negroes to supply Negroes' needs.

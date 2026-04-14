@@ -35,6 +35,14 @@ categories:
   - "Art & Culture"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1910-12_1_2/sim_crisis_1910-12_1_2.pdf">
+    <img src="/Images/1910-12_1_2.jpg" alt="Cover of The Crisis, December 1910">
+  </a>
+  <p><em>The Crisis</em><br>December 1910</p>
+</div>
+```
 A large audience was leaving New York's finest theatre. The play had been upon the Negro question, and one couple had been especially thrilled by the fine heroism of the white man, who, finding that he had a few drops of colored blood, allied himself with the despised race. "How magnificent," they were saying, "to dedicate oneself to the cause of the oppressed!"
 
 Walking a few blocks they turned into a restaurant. After giving their order they noticed a man, a mulatto in coloring, enter and seat himself at a table. Presently a waiter came to him and whispered something. The man shook his head, and the waiter went to the proprietor.

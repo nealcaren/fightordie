@@ -35,6 +35,14 @@ categories:
   - "Segregation"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1916-09_12_5/sim_crisis_1916-09_12_5.pdf">
+    <img src="/Images/1916-09_12_5.jpg" alt="Cover of The Crisis, September 1916">
+  </a>
+  <p><em>The Crisis</em><br>September 1916</p>
+</div>
+```
 A number of papers have been repeating a recent dictum that it is conduct, not color, that counts in the advance  of the Negro race. We wish this were the truth; but it is not the truth and those who say it know that it is not the truth. Conduct counts, but color counts more. It is this that constitutes the Negro problem.
 
 <!-- Similar articles start here -->

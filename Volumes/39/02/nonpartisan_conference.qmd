@@ -42,6 +42,14 @@ categories:
   - "Labor & Economics"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1932-02_39_2/sim_crisis_1932-02_39_2.pdf">
+    <img src="/Images/1932-02_39_2.jpg" alt="Cover of The Crisis, February 1932">
+  </a>
+  <p><em>The Crisis</em><br>February 1932</p>
+</div>
+```
 There was held in December in Washington a "Non-Partisan Negro Conference" called by Congressman Oscar De Priest. It brought together speakers of all sorts and kinds, and speeches good, bad and indifferent. The general spirit, however, seemed excellent and the independence of thought, knowledge of subjects discussed and general morale were commendable.
 
 I was invited to discuss "The Economic Condition of the Negro." When I had finished, the Chairman of the Committee on Findings, Kelly Miller, asked me if I had prepared an "economic plank." I replied that I had not known I was expected to, but that I would gladly write one, even then, if I could have a stenographer. No stenographer was forthcoming, so I returned to New York and early next morning dispatched a proposed plank by air mail, offering at the same time by telegram to send the plank by wire if necessary. I had no reply.

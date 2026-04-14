@@ -38,6 +38,14 @@ categories:
   - "Art & Culture"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1916-02_11_4/sim_crisis_1916-02_11_4.pdf">
+    <img src="/Images/1916-02_11_4.jpg" alt="Cover of The Crisis, February 1916">
+  </a>
+  <p><em>The Crisis</em><br>February 1916</p>
+</div>
+```
 From time to time persons write us for a brief statement of the reasons for capitalizing the word *Negro*.
 
 The ordinary rules of capitalization enjoin the use of a capital letter for all proper nouns, all names of tribes, races, sects or organized bodies of men.

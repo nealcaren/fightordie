@@ -41,6 +41,14 @@ categories:
   - "Voting & Elections"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1921-03_21_5/sim_crisis_1921-03_21_5.pdf">
+    <img src="/Images/1921-03_21_5.jpg" alt="Cover of The Crisis, March 1921">
+  </a>
+  <p><em>The Crisis</em><br>March 1921</p>
+</div>
+```
 The colored women have made a splendid record at their first national election. Applying for registration in large numbers, they endured purposeful delays and deliberate insults. They have shown themselves in states like Georgia and Louisiana to be more modern and sensible than their white sisters; and throughout the country they cast a large and influential vote.
 
 In the encouragement which they have received before and since the election there has been but one false note. James B. Dudley, colored president of a state school in Greensboro, 

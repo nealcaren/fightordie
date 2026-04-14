@@ -40,6 +40,14 @@ categories:
   - "Segregation"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1923-08_26_4/sim_crisis_1923-08_26_4.pdf">
+    <img src="/Images/1923-08_26_4.jpg" alt="Cover of The Crisis, August 1923">
+  </a>
+  <p><em>The Crisis</em><br>August 1923</p>
+</div>
+```
 There is developing within the Negro race a situation bordering on tragedy in regard to the "Jim Crow" movement now growing and spreading in the North. The tragedy has been with us before but it has been more or less dormant and unspoken. To-day it is flaring to red flame and we must sit down and reason together.
 
 <p style="text-align:center"> ~~~~~~~~~~~~~~~ </p>

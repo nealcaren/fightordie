@@ -41,6 +41,14 @@ categories:
   - "Voting & Elections"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1928-09_35_9/sim_crisis_1928-09_35_9.pdf">
+    <img src="/Images/1928-09_35_9.jpg" alt="Cover of The Crisis, September 1928">
+  </a>
+  <p><em>The Crisis</em><br>September 1928</p>
+</div>
+```
 *This article was originally prepared for the Stock-Taking and Fact-Finding Conference which met in Durham, North Carolina, in December, 1927. With some additions and revisions it was delivered again before the opening meeting of the 19th Annual N.A.A.C.P. Conference at Los Angeles in June, 1928. It appears in print for the first time and will be published in two parts.*
 
 In the presidential campaign just beginning one question transcends all others. This question which transcends, in its importance and immediacy, the questions of farm relief, flood control, national control of superpower, liquor and the tariff, is the question as to how far the policies of this government are going to be controlled by the vote of its citizens. 

@@ -42,6 +42,14 @@ categories:
   - "Racial Violence"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1917-07_14_3/sim_crisis_1917-07_14_3.pdf">
+    <img src="/Images/1917-07_14_3.jpg" alt="Cover of The Crisis, July 1917">
+  </a>
+  <p><em>The Crisis</em><br>July 1917</p>
+</div>
+```
 We seem to hear four voices screaming above the mobs of Memphis and East St. Louis---Why will Negroes be Scabs, Why will Negroes Stay in the South, How Can We Stop Negro Migration, Where Can Negroes Be Treated Justly?
 
 We believe we can answer all these questions and for the first we quote a letter of Charles Augustono, a colored bricklayer of Camden, N. J.:

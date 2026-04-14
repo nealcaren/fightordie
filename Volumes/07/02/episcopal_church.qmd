@@ -41,6 +41,14 @@ categories:
   - "Education"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1913-12_7_2/sim_crisis_1913-12_7_2.pdf">
+    <img src="/Images/1913-12_7_2.jpg" alt="Cover of The Crisis, December 1913">
+  </a>
+  <p><em>The Crisis</em><br>December 1913</p>
+</div>
+```
 In the red blood-guiltiness of the Christian church in America toward black folk the Episcopal Church has undoubtedly larger share any other group. It was the Episcopal Church that for 250 years made itself the center and bulwark of man stealing and chattel slavery. It was the Episcopal Church that deliberately closed its doors in the face of the praying slave; it was the Episcopal Church that refused after the war to educate the freedmen, and is still refusing, and it is only on the rostrum of the Episcopal Church that such reactionary heathenism could find welcome expression as was uttered by the bishops of Georgia and Tennessee at the last general convention.
 
 The setting was characteristic. In the Cathedral of St. John the Divine were gathered 1,000 persons, three-fourths of whom represented the emancipated and risen race whom the church for two centuries had insulted and spit upon. They were quiet, well bred and earnest people, long suffering and self-sacrificing. They did not complain when the obsequious ushers pushed them to the rear and carried forward the snobs and pretenders—the smug-faced hypocrites who are making the Episcopal Church in America a hissing in the ears of righteous men.

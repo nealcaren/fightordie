@@ -32,6 +32,14 @@ categories:
   - "Segregation"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1920-11_21_1/sim_crisis_1920-11_21_1.pdf">
+    <img src="/Images/1920-11_21_1.jpg" alt="Cover of The Crisis, November 1920">
+  </a>
+  <p><em>The Crisis</em><br>November 1920</p>
+</div>
+```
 When The National Association for the Advancement of Colored People was organized it seemed to us that the subject of "social equality" between races was not one that we need touch officially whatever our private opinions might be. We announced clearly our object as being the political and civil rights of Negroes and this seemed to us a sufficiently clear explanation of our work.
 
 We soon found, however, certain difficulties: Was the right to attend a theatre a civil or a social right? Is a hotel a private or a public institution? What should be our stand as to public travel or public celebrations or public dinners to discuss social uplift? And above all, should we be silent when laws were proposed taking away from a white father all legal responsibility for his colored child?

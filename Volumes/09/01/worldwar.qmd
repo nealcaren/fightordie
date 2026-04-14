@@ -40,6 +40,14 @@ categories:
   - "Pan-Africanism & Empire"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1914-11_9_1/sim_crisis_1914-11_9_1.pdf">
+    <img src="/Images/1914-11_9_1.jpg" alt="Cover of The Crisis, November 1914">
+  </a>
+  <p><em>The Crisis</em><br>November 1914</p>
+</div>
+```
 Many colored persons, and persons interested in them, may easily make the mistake of supposing that the present war is far removed from the color problem of America and that in the face of this great catastrophe we may forget for a moment such local problems and give all attention and contributions to the seemingly more pressing cause.
 
 This attitude is a mistake. The present war in Europe is one of the great disasters due to race and color prejudice and it but foreshadows greater disasters in the future.

@@ -42,6 +42,14 @@ categories:
   - "Voting & Elections"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1928-09_35_9/sim_crisis_1928-09_35_9.pdf">
+    <img src="/Images/1928-09_35_9.jpg" alt="Cover of The Crisis, September 1928">
+  </a>
+  <p><em>The Crisis</em><br>September 1928</p>
+</div>
+```
 If the Democratic party was openly and thoughtfully planning to alienate the intelligent Negro vote in the North, they certainly were eminently successful. They opened their convention with an atrocious lynching. They segregated their black visitors back of a wire cage. They nominated for Vice President (an office which, since the Civil War, has made its incumbent President in four cases) a typical Arkansas bourbon. Even the nomination of Alfred Smith does not relieve the situation. Smith is an excellent administrator and his attitude on liquor is at least honest, while Hoover's is not; but so far as we can learn Alfred Smith has seldom been aware of the black citizens of the state of New York. He has given 250,000 Negroes of the state only one major appointment and has shown for black people not the slightest personal interest or appreciation. He has consistently vetoed every bill and movement which Negroes advocated.
 
 The Catholic church, to which Smith belongs, knows no color line in all the world *except* in the United States; but here it is "Jim-Crow" from top to bottom in church attendance, in education, in philanthropy, in missionary endeavor.

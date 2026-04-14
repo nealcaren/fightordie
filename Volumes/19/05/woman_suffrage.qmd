@@ -35,6 +35,14 @@ categories:
   - "Voting & Elections"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1920-03_19_5/sim_crisis_1920-03_19_5.pdf">
+    <img src="/Images/1920-03_19_5.jpg" alt="Cover of The Crisis, March 1920">
+  </a>
+  <p><em>The Crisis</em><br>March 1920</p>
+</div>
+```
 Thirty-one states, with a population of 681,325 colored women, 21 years of age and over, in 1910, and at least 750,000 today, have ratified the proposed Woman Suffrage Amendment:
 
 |               |       |               |         |

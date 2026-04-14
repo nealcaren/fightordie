@@ -41,6 +41,14 @@ categories:
   - "Labor & Economics"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1930-01_37_1/sim_crisis_1930-01_37_1.pdf">
+    <img src="/Images/1930-01_37_1.jpg" alt="Cover of The Crisis, January 1930">
+  </a>
+  <p><em>The Crisis</em><br>January 1930</p>
+</div>
+```
 As compared with crap-shooting, always supposed to be the peculiar diversion of Negroes, nine-tenths of the operations of the Wall Street Stock Exchange favors craps, by every consideration of morals and social welfare. Unless the dice are loaded, crap-shooting is a game of pure chance, and the utmost that can happen is the transfer of actual wealth from one gambler to another. But in Wall Street, we have something much more complicated and much less defensible.
 
 We have a great gambling pool, forming nine-tenths of a set of operations, of which the remaining tenth is legitimate and under present conditions necessary effort to sell capital to the highest bidder.

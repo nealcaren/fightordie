@@ -40,6 +40,14 @@ categories:
   - "War & Military"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1919-09_18_5/sim_crisis_1919-09_18_5.pdf">
+    <img src="/Images/1919-09_18_5.jpg" alt="Cover of The Crisis, September 1919">
+  </a>
+  <p><em>The Crisis</em><br>September 1919</p>
+</div>
+```
 The American Legion is composed, as President Wilson tells us, of "the men who have served in the Army, Navy and Marine Corps, and who are now banding together to preserve the splendid traditions of that service."
 
 The Legion was formed at preliminary meetings, held in Paris and St. Louis, and sought to settle the inevitable color question by giving all authority as to admitting posts to the state bodies. The South promised faithfully to treat Negroes fairly. As a result, in South Carolina "our committee was told flatly by the Executive Committee of the state organization that it was a white man’s organization and that Negroes would not be admitted.” In Louisiana, Negroes were also excluded; but Virginia caps the climax by offering to admit Negroes on condition that

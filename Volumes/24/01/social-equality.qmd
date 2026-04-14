@@ -35,6 +35,14 @@ categories:
   - "Segregation"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1922-05_24_1/sim_crisis_1922-05_24_1.pdf">
+    <img src="/Images/1922-05_24_1.jpg" alt="Cover of The Crisis, May 1922">
+  </a>
+  <p><em>The Crisis</em><br>May 1922</p>
+</div>
+```
 Do I want Social Equality? Certainly I do. Every normal decent human being wants to associate with his fellowmen on terms of equality. We like to be invited out. We want people to want us. We are unhappy if we are ostracised and ignored and despised and forgotten. Booker T. Washington wanted social equality and got it. R.R. Moton accepts it whenever and wherever it is offered. I, he, they, everybody wants men to want us.
 
 If they do not want us---if they hate and despise us, very well. There may be little or nothing which we can do to change their attitude. But one thing we can do: we can refuse to hate and despise them or to say that we think hatred and contempt are fine human habits.

@@ -1,6 +1,6 @@
 ---
 title: 'The N.A.A.C.P. and Race Segregation'
-description: "Explains the NAACP’s pragmatic fight against race segregation—defending civil rights, schools, hospitals, and democracy."
+description: "Du Bois's 1934 account of the NAACP's historic approach to segregation, tracing specific fights against Jim Crow cars, Kansas City residential covenants, and Full Crew railroad bills."
 author:
   - name:
       given: W.E.B.
@@ -41,6 +41,14 @@ categories:
   - "Internal Debate"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1934-02_41_2/sim_crisis_1934-02_41_2.pdf">
+    <img src="/Images/1934-02_41_2.jpg" alt="Cover of The Crisis, February 1934">
+  </a>
+  <p><em>The Crisis</em><br>February 1934</p>
+</div>
+```
 There is a good deal of misapprehension as to the historic attitude of the National Association for the Advancement of Colored People and race segregation. As a matter of fact, the Association, while it has from time to time discussed the larger aspects of this matter, has taken no general stand and adopted no general philosophy. Of course its action, and often very effective action, has been in specific cases of segregation where the call for a definite stand was clear and decided. For instance, in the preliminary National Negro Convention which met in New York May 31st and June 1st, 1909, segregation was only mentioned in a protest against Jim-Crow car laws and that because of an amendment by William M. Trotter. In the First Annual Report, January 1, 1911, the Association evolved a statement of its purpose, which said that "it seeks to uplift the colored men and women of this country by securing to them the full enjoyment of their rights as citizens, justice in all courts, and equality of opportunity everywhere." Later, this general statement was epitomized in the well-known declaration: "It conceives its mission to be the completion of the work which the great Emancipator began. It proposes to make a group of ten million Americans free from the lingering shackles of past slavery, physically free from peonage, mentally free from ignorance, politically free from disfranchisement, and socially free from insult." This phrase which I first wrote myself for the Annual Report of 1915 still expresses pregnantly the object of the N.A.A.C.P. and it has my own entire adherence.
 
 It will be noted, however, that here again segregation comes in only by implication. Specifically, it was first spoken of in the Second Report of the Association, January 1, 1912, when the attempt to destroy the property of Negroes in Kansas City because they had moved into a white section was taken up. This began our fight on a specific phase of segregation, namely, the attempt to establish a Negro ghetto by force of law. This phase of segregation we fought vigorously for years and often achieved notable victories in the highest courts of the land.

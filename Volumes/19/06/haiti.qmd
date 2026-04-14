@@ -40,6 +40,14 @@ categories:
   - "Pan-Africanism & Empire"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1920-04_19_6/sim_crisis_1920-04_19_6.pdf">
+    <img src="/Images/1920-04_19_6.jpg" alt="Cover of The Crisis, April 1920">
+  </a>
+  <p><em>The Crisis</em><br>April 1920</p>
+</div>
+```
 The United States is at war with Haiti. Congress has never
 sanctioned this war. Josephus Daniels has illegally and unjustly
 occupied a free foreign

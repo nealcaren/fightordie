@@ -36,6 +36,14 @@ categories:
   - "Labor & Economics"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1916-08_12_4/sim_crisis_1916-08_12_4.pdf">
+    <img src="/Images/1916-08_12_4.jpg" alt="Cover of The Crisis, August 1916">
+  </a>
+  <p><em>The Crisis</em><br>August 1916</p>
+</div>
+```
 Few colored people know or realize what Ireland has suffered at the hands of England. On the other hand, the open dislike of Irish and colored people in the United States has given the Irish cause little or no sympathy so far as Negroes are concerned.
 
 It happened unfortunately that the first Irish immigration to the United States took place just as the free Negroes of the North were making their most impressive forward movement. Irishmen and black men came, therefore, in bitter industrial competition in such cities as Boston, New York and Philadelphia. Riots and street fights ensued. Irishmen hanged Negroes during the draft riots in New York City, and drove them off the streets in Philadelphia.

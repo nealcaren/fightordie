@@ -39,6 +39,14 @@ categories:
   - "War & Military"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1918-07_16_3/sim_crisis_1918-07_16_3.pdf">
+    <img src="/Images/1918-07_16_3.jpg" alt="Cover of The Crisis, July 1918">
+  </a>
+  <p><em>The Crisis</em><br>July 1918</p>
+</div>
+```
 This is The Crisis of the world.
 
 For all the long years to come men will point to the at year 1918 as the great Day of Decision, the day when the world decided whether it would submit to military despotism and an endless armed peace---if peace it could be called---or whether they would put down the menace of German militarism and inaugurate the United States of the World.

@@ -41,6 +41,14 @@ categories:
   - "Voting & Elections"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1920-07_20_3/sim_crisis_1920-07_20_3.pdf">
+    <img src="/Images/1920-07_20_3.jpg" alt="Cover of The Crisis, July 1920">
+  </a>
+  <p><em>The Crisis</em><br>July 1920</p>
+</div>
+```
 The eleventh annual conference of the N.A.A.C.P. marked an epoch. For the first time since Reconstruction a radical Negro organization, whose aims were well known and clearly enunciated, has met openly in the center of the South and demanded without equivocation:
 
 <ul class="list-no-markers">

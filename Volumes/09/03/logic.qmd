@@ -38,6 +38,14 @@ categories:
   - "Racial Violence"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1915-01_9_3/sim_crisis_1915-01_9_3.pdf">
+    <img src="/Images/1915-01_9_3.jpg" alt="Cover of The Crisis, January 1915">
+  </a>
+  <p><em>The Crisis</em><br>January 1915</p>
+</div>
+```
 One of the interesting ways of settling the race problem comes to the
 fore in this period of unemployment among the poor. In Waterloo, Ky.,
 the enterprising chief of police is arresting all unemployed Negroes and

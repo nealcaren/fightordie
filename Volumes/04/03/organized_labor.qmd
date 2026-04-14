@@ -41,6 +41,14 @@ categories:
   - "Segregation"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1912-07_4_3/sim_crisis_1912-07_4_3.pdf">
+    <img src="/Images/1912-07_4_3.jpg" alt="Cover of The Crisis, July 1912">
+  </a>
+  <p><em>The Crisis</em><br>July 1912</p>
+</div>
+```
 <span class="crisis-title">The Crisis</span> believes in organized labor. It realizes that the standard of living among' workers has been raised in the last half century through the efforts and sacrifice of laborers banded together in unions, and that all American labor to-day, white, black and yellow, benefits from this great movement. 
 
 For such reasons we carry on our front cover the printer's union label to signify that the printing and binding of this magazine is done under conditions and with wages satisfactory to the printers' union. 

@@ -40,6 +40,14 @@ categories:
   - "Voting & Elections"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1916-10_12_6/sim_crisis_1916-10_12_6.pdf">
+    <img src="/Images/1916-10_12_6.jpg" alt="Cover of The Crisis, October 1916">
+  </a>
+  <p><em>The Crisis</em><br>October 1916</p>
+</div>
+```
 The Negro voter enters the present campaign with no
 enthusiasm. Four years ago the intelligent Negro voter tried a great and
 important experiment. He knew that the rank and file of the Bourbon

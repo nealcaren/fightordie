@@ -41,6 +41,14 @@ categories:
   - "Women's Rights"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1920-11_21_1/sim_crisis_1920-11_21_1.pdf">
+    <img src="/Images/1920-11_21_1.jpg" alt="Cover of The Crisis, November 1920">
+  </a>
+  <p><em>The Crisis</em><br>November 1920</p>
+</div>
+```
 There was a time when the South appealed to the world against the Negro on the ground that he was ignorant and inefficient. The answer to this was that education and social justice would gradually work the same changes in black as in white folk. Nevertheless, the strength of the southern argument lay in its insistence that during the transition from the ignorance of slavery to the efficiency of freedom, temporary disfranchisement and segregation were justifiable. It was this plea, repeated again and again with every appeal to class feeling and personal experience, that gained in the land and in the world so wide an acquiescence in the Southern Caste program.
 
 Meantime in slow and fatal certainty the problem changed. The educated and efficient Negro appeared---now here and there, now in groups and mass movements. Subtly the southern argument changed. It was not merely ignorance and inefficiency that was to be feared---it was rather the intelligence and efficiency of black folk. Indeed the more gifted and better trained the black man, the more the white man must fear him. In other words, it is not human stupidity and blundering that the South fights, it is race; and if one immediately points out that according to modern science there is no such thing as "race," the argument marches right on with the mediaeval Blumenbach and Gobineau.

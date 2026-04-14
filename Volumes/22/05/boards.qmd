@@ -37,6 +37,14 @@ categories:
   - "Internal Debate"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1921-09_22_5/sim_crisis_1921-09_22_5.pdf">
+    <img src="/Images/1921-09_22_5.jpg" alt="Cover of The Crisis, September 1921">
+  </a>
+  <p><em>The Crisis</em><br>September 1921</p>
+</div>
+```
 Graceful interlude at Detroit was the quite unexpected presentation of a loving cup to Miss Ovington, Chairman of the Board, and of a travelling bag to the Secretary, Mr. Johnson, as a token of appreciation by the Branches of their work for the Association.
 
 The writer has spent all his life working for boards—boards of trustees, boards of directors and committees—during which time he himself has usually been a member of some board, some committee or some faculty. He appreciates vividly, therefore, the advantages and disadvantages and the difficulties of this mode of human government, for such it is. In the future, in increasing degree, industry, social control and political government are going to be carried on by this method of democracy, and perhaps we ought to be more seriously preparing for it and adjusting our canons of praise and blame; especially when it is as conspicuously successful as in the case of the N.A.A.C.P. and its two chief executive officers, Miss Ovington and Mr. Johnson.

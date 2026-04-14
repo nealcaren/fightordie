@@ -38,6 +38,14 @@ categories:
   - "Voting & Elections"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1916-03_11_5/sim_crisis_1916-03_11_5.pdf">
+    <img src="/Images/1916-03_11_5.jpg" alt="Cover of The Crisis, March 1916">
+  </a>
+  <p><em>The Crisis</em><br>March 1916</p>
+</div>
+```
 Colored St. Louis and its friends are today fighting for life and breath. It has been a fight not simply against the enemy, but also an inner fight. This is as it must be, although most of us forget it. Most of us assume that the colored people know their rights and want them and are ready to fight for them. On the contrary, what slavery means is that its victims should be uncertain as to their place in the world; as to just what they really want; and as to their readiness to strive for the satisfaction of those wants. 
 
 This was the case in St. Louis. When the segregation proposal came up the masses of the colored people were indifferent. "We are already segregated," they said, "and what, pray, is the difference between customary segregation and legal segregation?" A large number of business men openly and publicly favored segregation when they scented a monopoly of colored business.

@@ -39,6 +39,14 @@ categories:
   - "Labor & Economics"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1915-06_10_2/sim_crisis_1915-06_10_2.pdf">
+    <img src="/Images/1915-06_10_2.jpg" alt="Cover of The Crisis, June 1915">
+  </a>
+  <p><em>The Crisis</em><br>June 1915</p>
+</div>
+```
 AN AMAZING ISLAND
 
 Jamaica is a most amazing island. I have seen something of the earth, more especially Europe and America which leave, to be sure, much of the lands that I have unseen; but looked upon hitherto Jamaica is the most startling. The ride from Spanishtown to the northwestern sea is one of the great rides of the world to be likened to the Horse Shoe Bend or St. Gotthard. The Wag Water is a beautiful stream and Montego Bay is the bay of Naples. The whole island is a mass of gray, green mountains thrown on the face of the sea with gash and shadow and veil. The rain of Jamaica is the maddest, wildest and wettest of rains and the sunshine is God's. There in Jamaica the world is met. Africa and Asia and Europe all meet which may mean little and yet may be the most fateful meeting the world ever saw. In Jamaica for the first time in my life I lived beyond the color line---not on one side of it but beyond its end. There in strange places I could sense its curious paths stopping and wavering and fading into uncertain threads. Of course, I was ever looking for it. That is my inborn nature. I saw that the moving picture films, for instance, were "approved" by "His Worship, the Mayor," and when I sat beside His Worship, the Mayor at dinner, behold, His Worship was colored. I almost hesitated at the barber shops but the barbers did not hesitate. It was a strange sort of luxury to ride on railways where engineers, firemen, conductor and brakemen were black. The smart, dark Constables in their gleaming 

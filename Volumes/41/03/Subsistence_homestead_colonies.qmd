@@ -34,6 +34,14 @@ categories:
   - "Segregation"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1934-03_41_3/sim_crisis_1934-03_41_3.pdf">
+    <img src="/Images/1934-03_41_3.jpg" alt="Cover of The Crisis, March 1934">
+  </a>
+  <p><em>The Crisis</em><br>March 1934</p>
+</div>
+```
 The difficulty with the modern wage contract is that the contracting parties, the worker and the employer, do not meet with equal power to negotiate. The wage earner must accept in most cases any wage offer because otherwise he will starve to death; and since the employer's profit depends on the amount that he can save from wages, he is tempted to reduce the wage as nearly as possible to the bare necessities for keeping the worker alive.
 
 To attack this difficulty there have been many proposals, like minimum wage laws, the distribution of capital among workers and other socialistic and communistic experiments.

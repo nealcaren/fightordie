@@ -42,6 +42,14 @@ categories:
   - "Segregation"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1917-04_13_6/sim_crisis_1917-04_13_6.pdf">
+    <img src="/Images/1917-04_13_6.jpg" alt="Cover of The Crisis, April 1917">
+  </a>
+  <p><em>The Crisis</em><br>April 1917</p>
+</div>
+```
 We Negroes ever face it.
 
 We cannot escape it.

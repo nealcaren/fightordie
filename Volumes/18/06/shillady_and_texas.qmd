@@ -38,6 +38,14 @@ categories:
   - "The South"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1919-10_18_6/sim_crisis_1919-10_18_6.pdf">
+    <img src="/Images/1919-10_18_6.jpg" alt="Cover of The Crisis, October 1919">
+  </a>
+  <p><em>The Crisis</em><br>October 1919</p>
+</div>
+```
 There was once a man who said that if he owned Hell and Texas, he would prefer to rent out Texas and live in Hell. He may have exaggerated, but he had some supporting facts: Texas was settled by white Southerners in order to extend slave territory; it was forcibly stolen from Mexico in 1837, largely because Mexico tried to abolish slavery in 1829. Thereupon Texas became a center of the African slave trade and the "most shameful violations" of United States slave trade laws were perpetrated through Texas. During the years of Texan independence slaves were rushed in at the rate of 15,000 or more a year and the annexation of Texas and the Mexican War were movements to extend Negro slavery.
 
 Out of this past has risen the present Texas. In that state the first public burning alive of a Negro took place, at Paris. Since 1889 Texas has lynched 338 human beings---standing second only to Georgia and Mississippi in this horrible eminence.

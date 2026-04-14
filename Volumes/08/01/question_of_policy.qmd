@@ -43,6 +43,14 @@ categories:
   - "Segregation"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1914-05_8_1/sim_crisis_1914-05_8_1.pdf">
+    <img src="/Images/1914-05_8_1.jpg" alt="Cover of The Crisis, May 1914">
+  </a>
+  <p><em>The Crisis</em><br>May 1914</p>
+</div>
+```
 ## A Question of Policy
 
 The  Editor of <span class="crisis-title">The Crisis</span>:

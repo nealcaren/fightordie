@@ -29,6 +29,14 @@ categories:
   - "NAACP & Organizational Strategy"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1910-11_1_1/sim_crisis_1910-11_1_1.pdf">
+    <img src="/Images/1910-11_1_1.jpg" alt="Cover of The Crisis, November 1910">
+  </a>
+  <p><em>The Crisis</em><br>November 1910</p>
+</div>
+```
 The object of this publication is to set forth those facts and arguments which show the danger of race prejudice, particularly as manifested to-day toward colored people. It takes its name from the fact that the editors believe that this is a critical time in the history of the advancement of men. Catholicity and tolerance, reason and forbearance can to-day make the world-old dream of human brotherhood approach realization; while bigotry and prejudice, emphasized race consciousness and force can repeat the awful his tory of the contact of nations and groups in the past. We strive for this higher and broader vision of Peace and Good Will.     
 
 The policy of <span class="crisis-title">The Crisis</span> will be simple and well defined:       

@@ -37,6 +37,14 @@ categories:
   - "Religion & Morality"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1911-10_2_6/sim_crisis_1911-10_2_6.pdf">
+    <img src="/Images/1911-10_2_6.jpg" alt="Cover of The Crisis, October 1911">
+  </a>
+  <p><em>The Crisis</em><br>October 1911</p>
+</div>
+```
 American civilization moves steadily and graciously forward. Consider this gem from a New York morning paper: 
 > Fifth Avenue, near 114th Street, was well filled with men and women as well as crowds of children at play, about 10 o'clock last night, when a young girl accosted another of about her age, and as the latter suddenly darted off along 114th Street started in pursuit shouting: 'Stop her! She's a thief!'   
 > &nbsp;

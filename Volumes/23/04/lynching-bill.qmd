@@ -39,6 +39,14 @@ categories:
   - "Racial Violence"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1922-02_23_4/sim_crisis_1922-02_23_4.pdf">
+    <img src="/Images/1922-02_23_4.jpg" alt="Cover of The Crisis, February 1922">
+  </a>
+  <p><em>The Crisis</em><br>February 1922</p>
+</div>
+```
 Those persons who see technical difficulties and constitutional questions in any effort to stop lynching simply do not realize the enormity of this evil.
 
 Lynching is wholesale murder publicly approved by that section of our land where mob rule is an institution. It is the negation and failure of law, order and government. It is not a punishment for one crime or for any crime: it is simply and purely blood lust unparalleled in the civilized world. Not the bull fights of Spain nor the gladiatorial battles of Rome approach it in indecency, cruelty, monstrous sadism and orgies almost beyond belief.

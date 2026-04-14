@@ -38,6 +38,14 @@ categories:
   - "Labor & Economics"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1918-03_15_5/sim_crisis_1918-03_15_5.pdf">
+    <img src="/Images/1918-03_15_5.jpg" alt="Cover of The Crisis, March 1918">
+  </a>
+  <p><em>The Crisis</em><br>March 1918</p>
+</div>
+```
 I am among the few colored men who have tried conscientiously to bring about understanding and co-operation between American Negroes and the Labor Unions. I have sought to look upon the Sons of Freedom as simply a part of the great mass of the earth's Disinherited, and to realize that world movements which have lifted the lowly in the past and are opening the gates of opportunity to them today are of equal value for all men, white and black, then and now.
 
 I carry on the title page, for instance, of this magazine the Union label, and yet I know, and everyone of my Negro readers knows, that the very fact that this label is there is an advertisement that no Negro's hand is engaged in the printing of this magazine, since the International Typographical Union systematically and deliberately excludes every Negro that it dares from membership, no matter what his qualifications.

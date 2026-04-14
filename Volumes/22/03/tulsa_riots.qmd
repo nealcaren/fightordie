@@ -38,6 +38,14 @@ categories:
   - "Racial Violence"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1921-07_22_3/sim_crisis_1921-07_22_3.pdf">
+    <img src="/Images/1921-07_22_3.jpg" alt="Cover of The Crisis, July 1921">
+  </a>
+  <p><em>The Crisis</em><br>July 1921</p>
+</div>
+```
 Within six hours of the time, on June 1, when the New York *Evening Post* called up the National Office on the telephone to ask whether anything had been heard of race trouble in Tulsa, Okla., a representative was on the way to the battle-scarred city to investigate for the Association. Meanwhile reports continued to come in which showed that one of the most serious race riots in the country's history was in progress, lasting until June 2. The newspapers reported that practically the entire colored residence section of Tulsa was in flames, that shooting was going on and that motor cars and airplanes were being used by white people in the battle. 
 
 One of the first steps which the secretary took was to send a telegram to Governor Robertson of Oklahoma, urging him to use the full power of his office to put an end to the reign of violence and terror. Statements were also issued to the New York newspapers warning their readers that a race riot is never caused by one isolated case of assault, and that probably conditions of peonage in the country surrounding Tulsa had brought about a situation of dangerous ill feeling. 

@@ -41,6 +41,14 @@ categories:
   - "Labor & Economics"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1916-06_12_2/sim_crisis_1916-06_12_2.pdf">
+    <img src="/Images/1916-06_12_2.jpg" alt="Cover of The Crisis, June 1916">
+  </a>
+  <p><em>The Crisis</em><br>June 1916</p>
+</div>
+```
 We sincerely trust that individuals and organizations friendly to the
 Negro are not going to be led into segregation schemes and ghetto plans
 by organized real estate interests masking as philanthropists. Movements

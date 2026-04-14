@@ -41,6 +41,14 @@ categories:
   - "Labor & Economics"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1930-03_37_3/sim_crisis_1930-03_37_3.pdf">
+    <img src="/Images/1930-03_37_3.jpg" alt="Cover of The Crisis, March 1930">
+  </a>
+  <p><em>The Crisis</em><br>March 1930</p>
+</div>
+```
 Fortunately, the attention of thinkers, black and white, is being drawn to the economic crisis which faces the American Negro. Norman Thomas, the white leader of American Socialists, writing in the *New Leader*, said recently:
 
 > Jim Crow cars, poor schools, segregation, bad housing and exclusion from industrial opportunity make up the tale of the Negroes' woes against which there is a rising tide of justifiable resentment. If anything, lack of economic opportunity in trades is growing worse and not better. This is in part a byproduct of technological unemployment which increases the pressure for jobs; in part it is due to racial prejudice. There is, for instance, a shift in the South from colored to white barbers and waiters. I have previously referred to the outrageous action of a local of the Upholsterers' Union here in New York in refusing a card to a Negro carpet layer on account of his color. Unions that follow this practice kill their own soul.    

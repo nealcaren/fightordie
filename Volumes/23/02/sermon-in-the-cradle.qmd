@@ -36,6 +36,14 @@ categories:
   - "Literary Writing"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1921-12_23_2/sim_crisis_1921-12_23_2.pdf">
+    <img src="/Images/1921-12_23_2.jpg" alt="Cover of The Crisis, December 1921">
+  </a>
+  <p><em>The Crisis</em><br>December 1921</p>
+</div>
+```
 Now when Jesus was born in Benin of Nigeria in the days of English rule, behold, there came wise men from the East to London.
 
 Saying, Where is he that is born King of the Blacks? For we have seen his star in the east, and are come to worship him.

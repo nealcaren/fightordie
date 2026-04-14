@@ -38,6 +38,14 @@ categories:
   - "Pan-Africanism & Empire"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1911-11_3_1/sim_crisis_1911-11_3_1.pdf">
+    <img src="/Images/1911-11_3_1.jpg" alt="Cover of The Crisis, November 1911">
+  </a>
+  <p><em>The Crisis</em><br>November 1911</p>
+</div>
+```
 How long is practical Christianity going to be able to survive its own hypocrisy? How long is the world going to be able to profess a system of unselfish ethics, of lofty ideal, which it does not pretend to practice? If the augurs of Rome laughed at each other as they passed, how long at the present rate will Christian ministers be able to keep straight faces?
 
 At least we trust for the good of the world that the Christian missionaries who go to the Mohammedan lands in the future will go to learn rather than to teach. What will they say to the latest exhibition of pure Christian brigandage on a weaker people? Why is Europe in general and Italy in particular falling afoul of

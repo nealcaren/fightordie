@@ -40,6 +40,14 @@ categories:
   - "Women's Rights"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1928-09_35_9/sim_crisis_1928-09_35_9.pdf">
+    <img src="/Images/1928-09_35_9.jpg" alt="Cover of The Crisis, September 1928">
+  </a>
+  <p><em>The Crisis</em><br>September 1928</p>
+</div>
+```
 What intrigues us about Mary of the Unfortunate Name is not the fact that she is colored and the daughter of the late Isaiah Montgomery; or even that she is a machine politician of what is to us the most offensive sort; but what really interests us is the inner workings of the minds of those distinguished white ladies who called the late conference of the Republican Committee Women in Washington. They were, many of them well-bred and all of them well-gowned. Most of them belonged to Christian churches. Yet, jointly and severally, they did a disgustingly mean thing. They invited Mrs. Booze to entertainment and luncheon and then sneaked off when her back was turned and lunched without her. In all this, Mrs.  Booze comes out decidedly in the better position. These Republican women acted like cads; the Negro woman swallowed the insult, explained it away and remained---a Republican.
 
 <!-- Similar articles start here -->

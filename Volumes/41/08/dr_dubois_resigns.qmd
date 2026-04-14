@@ -38,6 +38,14 @@ categories:
   - "Internal Debate"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1934-08_41_8/sim_crisis_1934-08_41_8.pdf">
+    <img src="/Images/1934-08_41_8.jpg" alt="Cover of The Crisis, August 1934">
+  </a>
+  <p><em>The Crisis</em><br>August 1934</p>
+</div>
+```
 **The full text of his letter and the resolution of the N.A.A.C.P. Board accepting his resignation**
 
 The Board of Directors of the National Association for the Advancement of Colored people at the June meeting took no action upon the resignation of Dr. Du Bois, tendered as of June 11, but named a committee to confer with Dr. Du Bois and see if some satisfactory settlement of differences could not be arranged.

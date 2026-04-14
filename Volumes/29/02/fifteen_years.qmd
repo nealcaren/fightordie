@@ -22,8 +22,8 @@ organizations:
 citation: 
   type: article-journal
   container-title: The Crisis
-  volume: 291
-  issue: 29
+  volume: 29
+  issue: 2
   page: 56-57
 google-scholar: true
 
@@ -36,6 +36,14 @@ categories:
   - "Retrospective"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1924-12_29_2/sim_crisis_1924-12_29_2.pdf">
+    <img src="/Images/1924-12_29_2.jpg" alt="Cover of The Crisis, December 1924">
+  </a>
+  <p><em>The Crisis</em><br>December 1924</p>
+</div>
+```
 ### Fifteen Years
 
 With the November number <span class="crisis-title">The Crisis</span> began the 15th year of its life. It has weathered doubt and distrust, misrepresentation and throttling, hatred, concealed plot and open bribery. Without recourse to chronicling crime, broadcasting flattery, retailing petty gossip or specializing in slapstick comedy---without cringing to friend or foe, <span class="crisis-title">The Crisis</span> has made its way to every state in the nation and every country in the world. All this has drawn bloody sweat, heartache and despair, with all the inspiration of high resolve and unflinching courage.

@@ -38,6 +38,14 @@ categories:
   - "Racial Violence"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1923-02_25_4/sim_crisis_1923-02_25_4.pdf">
+    <img src="/Images/1923-02_25_4.jpg" alt="Cover of The Crisis, February 1923">
+  </a>
+  <p><em>The Crisis</em><br>February 1923</p>
+</div>
+```
 Most colored folk do not yet quite understand modern advertising. They still think of advertising as a species of bribery, hush-money or charity given to newspapers to secure their support or reward their faithfulness or pay their debts.
 
 There is, of course, much of this sort of "advertising" still with us and in high places. But modern advertising of the efficient sort is far beyond this. It is an effort to carry a message to those who ought to get it; to tell people who use soap, about a new, good, cheap soap; to tell people who buy clothes, where they may buy a certain kind. 

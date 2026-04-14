@@ -42,6 +42,14 @@ categories:
   - "Art & Culture"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1916-08_12_4/sim_crisis_1916-08_12_4.pdf">
+    <img src="/Images/1916-08_12_4.jpg" alt="Cover of The Crisis, August 1916">
+  </a>
+  <p><em>The Crisis</em><br>August 1916</p>
+</div>
+```
 > Hear ye, hear ye! Men of all the Americas, and listen to the tale of the Eldest and Strongest of the Races of men whose faces be Black. Hear ye, hear ye! For lo! Upon this night a world shall pass before your souls, bathed in color, wound with song and set to the dancing of a thousand feet. And this shall be the message of this pageantry: Of the Black man's Gift of Iron to the world; of Ethiopia and her Glory; of the Valley of Humiliation through which God would she pass and of the Vision Everlasting when the Cross of Christ and the Star of Freedom set atop the Pillar of Eternal Light. Men of the world keep silence and in reverence see this holy thing.
 
 This has been the opening cry of the dark and crimson-turbaned Herald in three presentations of the pageant, "The Star of Ethiopia," given by colored people in New York, Washington and Philadelphia before audiences aggregating nearly 35,000 people.

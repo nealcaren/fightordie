@@ -29,6 +29,14 @@ categories:
   - "NAACP & Organizational Strategy"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1910-11_1_1/sim_crisis_1910-11_1_1.pdf">
+    <img src="/Images/1910-11_1_1.jpg" alt="Cover of The Crisis, November 1910">
+  </a>
+  <p><em>The Crisis</em><br>November 1910</p>
+</div>
+```
 Some good friends of the cause we represent fear agitation. They say: "Do not agitate---do not make a noise; work." They add, "Agitation is destructive or at best negative---what is wanted is positive constructive work."
 
 Such honest critics mistake the function of agitation. A toothache is agitation. Is a toothache a good thing? No. Is it therefore useless? No. It is supremely useful, for it tells the body of decay, dyspepsia and death. Without it the body would suffer unknowingly. It would think: All is well, when lo! danger lurks.

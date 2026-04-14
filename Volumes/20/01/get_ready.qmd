@@ -38,6 +38,14 @@ categories:
   - "Women's Rights"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1920-05_20_1/sim_crisis_1920-05_20_1.pdf">
+    <img src="/Images/1920-05_20_1.jpg" alt="Cover of The Crisis, May 1920">
+  </a>
+  <p><em>The Crisis</em><br>May 1920</p>
+</div>
+```
 Woman Suffrage is coming. Make no mistake about that. This month possibly, this year certainly will see sex discrimination in voting swept away from the United States. Are we getting ready for this mighty change? Are we consulting and laying plans? The white South is. There is already some open discussion among newspapers and a feverish discussion in secret societies and behind closed doors after the servants retire. The South proposes to keep colored women from voting in exactly the same way in which it has disfranchised colored men. Can it do it? Are we going to let it do it?
 
 The Southerners will be handicapped by the "Grandfather" decision of the Supreme Court, but they will rely upon our apathy and the policy of "Sh! Don't agitate---we are your friends!" They will marshall every black Judas and traitor to "advise" us to remain slaves.

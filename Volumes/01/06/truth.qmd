@@ -36,6 +36,14 @@ categories:
   - "NAACP & Organizational Strategy"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1911-04_1_6/sim_crisis_1911-04_1_6.pdf">
+    <img src="/Images/1911-04_1_6.jpg" alt="Cover of The Crisis, April 1911">
+  </a>
+  <p><em>The Crisis</em><br>April 1911</p>
+</div>
+```
 There is to-day a tendency among colored people and among their earnest friends to tell the half-truth concerning the situation of the colored people and to condemn those who seek to tell the whole truth. Such people rightly herald the recent peonage decision of the Supreme Court, they commend the saving of Pink Franklin's life, they point to many other instances of help and good will on the part of Southern whites.
 
 These things are true and deserve wide currency; to conceal or neglect them would be wrong. But they are not the whole truth, and when by silence or intimation the world is given to believe by such well-meaning persons that they are the whole truth, a great and dangerous injustice is perpetrated. With the peonage decision we must not forget the shame of the Berea decision; with the saving of one life we cannot forget the widespread and crying injustice of Southern courts and methods of punishment; with the fact of the rise here and there of Southern white friends of the black men. it is a dangerous falsehood to overlook the tireless and daily assault of enemies of humanity like Judge Harris Dickson.

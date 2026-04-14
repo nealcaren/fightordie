@@ -34,6 +34,14 @@ categories:
   - "The South"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1917-05_14_1/sim_crisis_1917-05_14_1.pdf">
+    <img src="/Images/1917-05_14_1.jpg" alt="Cover of The Crisis, May 1917">
+  </a>
+  <p><em>The Crisis</em><br>May 1917</p>
+</div>
+```
 Nothing better illustrates the attitude of the Bourbon South than the recent tales about German propaganda among Negroes.
 
 Slowly, but surely the Negro is winning his fight. Despite wretchedly inadequate schools, peonage, low wages and public insult, the Negro is getting education, buying land and homes and migrating slowly but surely to a land of liberty.

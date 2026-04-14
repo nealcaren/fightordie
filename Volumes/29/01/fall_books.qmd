@@ -37,6 +37,14 @@ categories:
   - "The South"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1924-11_29_1/sim_crisis_1924-11_29_1.pdf">
+    <img src="/Images/1924-11_29_1.jpg" alt="Cover of The Crisis, November 1924">
+  </a>
+  <p><em>The Crisis</em><br>November 1924</p>
+</div>
+```
 Walter White has written in "The Fire in the Flint" a good, stirring story and a strong bit of propaganda against the white Klansman and the black pussyfoot. White knows his Georgia from A to Z. There is not a single incident or a single character in the book which has not its prototype in real life today. All Mr. White's white people are not villains nor are all his Negroes saints, but one gets a thrilling sense of the devilish tangle that involves good and evil in the southern South.
 
 Perhaps most significant however is the fact that a book like this can at last be printed. For years a flood of filth about the Negro has poured out of the South while no northern firm would consider a book telling even temperately the well-known and widely proven facts concerning the Negro. Subtly and slowly the change has come and Mr. White has been among the first to sense it and to persist courageously and doggedly in having his say. 

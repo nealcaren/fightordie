@@ -40,6 +40,14 @@ categories:
   - "Religion & Morality"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1928-06_35_6/sim_crisis_1928-06_35_6.pdf">
+    <img src="/Images/1928-06_35_6.jpg" alt="Cover of The Crisis, June 1928">
+  </a>
+  <p><em>The Crisis</em><br>June 1928</p>
+</div>
+```
 Nothing more unfortunate has happened in the recent history of the Negro
 race than the attitude of black ministers in Washington toward Clarence
 Darrow. Here is a man whose voice has been raised for righteousness in

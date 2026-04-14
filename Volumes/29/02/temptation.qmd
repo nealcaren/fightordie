@@ -22,8 +22,8 @@ places:
 citation: 
   type: article-journal
   container-title: The Crisis
-  volume: 291
-  issue: 29
+  volume: 29
+  issue: 2
   page: 58
 google-scholar: true
 
@@ -37,6 +37,14 @@ categories:
   - "Religion & Morality"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1924-12_29_2/sim_crisis_1924-12_29_2.pdf">
+    <img src="/Images/1924-12_29_2.jpg" alt="Cover of The Crisis, December 1924">
+  </a>
+  <p><em>The Crisis</em><br>December 1924</p>
+</div>
+```
 There was a man standing in the Wilderness. He was black and thin; his clothes were shabby but his eyes burned toward heaven.
 
 *Then was Jesus led up of the Spirit into the wilderness to be tempted of the devil.*

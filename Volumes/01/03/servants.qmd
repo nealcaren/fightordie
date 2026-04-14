@@ -38,6 +38,14 @@ categories:
   - "Labor & Economics"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1911-01_1_3/sim_crisis_1911-01_1_3.pdf">
+    <img src="/Images/1911-01_1_3.jpg" alt="Cover of The Crisis, January 1911">
+  </a>
+  <p><em>The Crisis</em><br>January 1911</p>
+</div>
+```
 The noticeable reservation in all attempts, North and South, to separate black folk and white is the saving phrase, "Except servants."
 
 Are not servants colored? Is the objection, then, to colored people or to colored people who are not servants? In other words, is this race prejudice inborn antipathy or a social and economic caste?

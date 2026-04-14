@@ -1,6 +1,6 @@
 ---
 title: 'The Flood, the Red Cross and the National Guard'
-description: "Exposes how Red Cross relief and the Mississippi National Guard coerced Black refugees into labor and racial oppression."
+description: "A 1928 Crisis report on the 1927 Mississippi flood, documenting how the Red Cross and the Mississippi National Guard ran segregated refugee camps at Vicksburg and coerced Black refugees into forced labor."
 author:
   - name:
       given: W.E.B.
@@ -40,6 +40,14 @@ categories:
   - "Labor & Economics"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1928-01_35_1/sim_crisis_1928-01_35_1.pdf">
+    <img src="/Images/1928-01_35_1.jpg" alt="Cover of The Crisis, January 1928">
+  </a>
+  <p><em>The Crisis</em><br>January 1928</p>
+</div>
+```
 There were four refugee camps at Vicksburg: Camp Hayes, Camp Juarez, Camp Louisiana and Camp Fort Hill. The lovely hills of the National Park, where once the Confederate and Union armies were camped, made an ideal location high above the muddy River and the little town of Vicksburg.
 
 In Camp Hayes a spreading magnolia tree opened its waxy blossoms over the Red Cross Headquarters tent, on the top of the hill. On either side in regular rows stretched the brown tents sheltering twelve hundred white refugees: one family to a tent; a cot to each member of the family; and as many blankets as necessary. While among them were a few owners and occasional small merchants or mechanics, the majority of these refugees were tenant-farmers or share-croppers on large plantations, in a state of perpetual indebtedness to the planter. Being white they had recourse to law to defend themselves and were accorded a certain consideration and respect. Economically they were little or no better off than the Negroes on the same plantations, which increased their race hatred, as well as their resentment toward the planters. "They treat us like niggers," they remarked bitterly, indicating the lowest inhumanity. Many of them were sturdy, hard working citizens, struggling to get ahead enough to buy their few acres. Those who were already owners were burdened by heavy mortgages. Among them were some who were known in their local communities as desperadoes, bragging of the number of murders they had committed. "I killed five before breakfast once," one of these drawled. "Didn't hurt my appetite none." Yes, he was acquitted — the jury valued their own lives.

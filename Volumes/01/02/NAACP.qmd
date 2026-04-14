@@ -28,6 +28,14 @@ categories:
   - "NAACP & Organizational Strategy"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1910-12_1_2/sim_crisis_1910-12_1_2.pdf">
+    <img src="/Images/1910-12_1_2.jpg" alt="Cover of The Crisis, December 1910">
+  </a>
+  <p><em>The Crisis</em><br>December 1910</p>
+</div>
+```
 What is the National Association for the Advancement of Colored People? It is a union of those who believe that earnest, active opposition is the only effective way of meeting the forces of evil. They believe that the growth of race prejudice in the United States is evil. It is not always consciously evil. Much of it is born of ignorance and misapprehension, honest mistake and misguided zeal. However caused, it is none the less evil, wrong, dangerous, fertile of harm. For this reason it must be combatted. It is neither safe nor sane to sit down dumbly before such human error or to seek to combat it with smiles and hushed whispers. Fight the wrong with every human weapon in every civilized way.  
 
 The National Association for the Advancement of Colored People is organized to fight the wrong of race prejudice:    

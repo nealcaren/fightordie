@@ -36,6 +36,14 @@ categories:
   - "Religion & Morality"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1919-12_19_2/sim_crisis_1919-12_19_2.pdf">
+    <img src="/Images/1919-12_19_2.jpg" alt="Cover of The Crisis, December 1919">
+  </a>
+  <p><em>The Crisis</em><br>December 1919</p>
+</div>
+```
 She was very small and pretty and black and lived in the cabin beyond the Big Road and down the lane by the creek, where one field on field of green cotton was flowering in the spring. And one night as she sat there all alone and wistful, watching the stars, a woman passed by and hailed her. She shrank back in the shadows, but the woman smiled and said full softly:
 
 "Fear not, Mary: for thou hast found favor with God."

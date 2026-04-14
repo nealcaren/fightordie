@@ -35,6 +35,14 @@ categories:
   - "Labor & Economics"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1926-04_31_6/sim_crisis_1926-04_31_6.pdf">
+    <img src="/Images/1926-04_31_6.jpg" alt="Cover of The Crisis, April 1926">
+  </a>
+  <p><em>The Crisis</em><br>April 1926</p>
+</div>
+```
 As a class Pullman porters are gentlemen in the best sense of that overworked word. They are courteous, silent and of infinite patience. Nowhere in the traveling world can one find a set of public servants who do their work so thoroughly and so well.
 
 The porters are men of unusual skill. Let the doubter try to keep house and make and unmake beds and even serve meals, and at the same time satisfy the exacting and querulous tastes of two or three dozen persons, in a room 36 by 10 feet. In addition to that they have the most delicate duties and responsibilities. The womanhood of America rides undressed under their care and service and not in one case in a million have the porters even been impolite much less impertinent. The porters must decide difficult problems as to men and women, young and old, rich and poor, noisy and nervous, gamblers and prohibitionists, white and black.

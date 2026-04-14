@@ -40,6 +40,14 @@ categories:
   - "Racial Violence"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1916-08_12_4/sim_crisis_1916-08_12_4.pdf">
+    <img src="/Images/1916-08_12_4.jpg" alt="Cover of The Crisis, August 1916">
+  </a>
+  <p><em>The Crisis</em><br>August 1916</p>
+</div>
+```
 Carrizal was a glory and a blunder, a joke and a crucifixion; a blunder
 on the part of a President who sent an army on a fool's errand and on
 the part of a gay, young officer who needlessly risked human life on the

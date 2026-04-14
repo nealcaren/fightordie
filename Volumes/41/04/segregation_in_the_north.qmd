@@ -40,6 +40,14 @@ categories:
   - "Internal Debate"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1934-04_41_4/sim_crisis_1934-04_41_4.pdf">
+    <img src="/Images/1934-04_41_4.jpg" alt="Cover of The Crisis, April 1934">
+  </a>
+  <p><em>The Crisis</em><br>April 1934</p>
+</div>
+```
 I have with interest the various criticisms on my recent discussions of segregation. Those like that of Mr. Pierce of Cleveland, do not impress me. I am not worried about being inconsistent. What worries me is the Truth. I am talking about conditions in 1934 and not in 1910. I do not care what I said in 1910 or 1810 or in B.C. 700.
 
 The arguments of Walter White, George Schuyler and Kelly Miller have logic, but they seem to me quite beside the point. In the first place, Walter White is white. He has more white companions and friends than colored. He goes where he will in New York City and naturally meets no Color Line, for the simple and sufficient reason that he isn't "colored"; he feels his new freedom in bitter contrast to what he was born to in Georgia. This is perfectly natural and he does what anyone else of his complexion would do.

@@ -43,6 +43,14 @@ categories:
   - "Pan-Africanism & Empire"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1926-06_32_2/sim_crisis_1926-06_32_2.pdf">
+    <img src="/Images/1926-06_32_2.jpg" alt="Cover of The Crisis, June 1926">
+  </a>
+  <p><em>The Crisis</em><br>June 1926</p>
+</div>
+```
 ! [1935 edition maps of Abyssinia]
 (https://www.loc.gov/resource/g8330m.g2009575707/?sp=3&st=image&r=0.143,0.493,0.388,0.335,0)
 

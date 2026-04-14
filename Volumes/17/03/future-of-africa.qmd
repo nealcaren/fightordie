@@ -42,6 +42,14 @@ categories:
   - "Pan-Africanism & Empire"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1919-01_17_3/sim_crisis_1919-01_17_3.pdf">
+    <img src="/Images/1919-01_17_3.jpg" alt="Cover of The Crisis, January 1919">
+  </a>
+  <p><em>The Crisis</em><br>January 1919</p>
+</div>
+```
 In the early days of the European War Dr. W. E. Burghardt Du Bois wrote an article for the *Atlantic Monthly* on “The African Roots of War.” Of the many discussions of the cause of the great conflict none was more timely or important. In the article in question the writer points out that today, as so often in the past, the wealth of Africa leads to a common lust for conquest and exploitation of the native population. This was displayed in its most barbarous form in the old days of the Belgium Congo Free State and in the recent days of the German colonies. But none of the colonial powers are without guilt since all look upon the natives, not as people to be educated and encouraged to self-development, but as ignorant laborers to be used for the production of wealth which the European appropriates later to spend in his own land. This exploitation carries with it intense race prejudice and results increasingly in confining the black man to those places where life, for climatic, historical and political reasons, is most difficult to live and most easily dominated by Europe for Europe’s gain.
 
 This is the picture of Africa today, but now, with the end of the war, we look to the picture of the Africa of the future. This future is being widely discussed and will be one of the most important of the problems to be decided at the Peace Conference. The N.A.A.C.P. stands on the following platform drawn up by Dr. Du Bois:

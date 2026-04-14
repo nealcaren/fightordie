@@ -39,6 +39,14 @@ categories:
   - "NAACP & Organizational Strategy"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1911-09_2_5/sim_crisis_1911-09_2_5.pdf">
+    <img src="/Images/1911-09_2_5.jpg" alt="Cover of The Crisis, September 1911">
+  </a>
+  <p><em>The Crisis</em><br>September 1911</p>
+</div>
+```
 The greatest event of the twentieth century so far was the First Universal Races Congress. It was more significant than the Russian-Japanese war, the Hague Conference or the rise of Socialism. It was significant not on account of the size of its meetings, well attended as they were; not on account of the weight of its utterances, weighty as they were; not on account of the publicity it received or the influence it spread.
 
 The Universal Races Congress was great because it marked the first time in the history of mankind when a world congress dared openly and explicitly to take its stand on the platform of human equality---the essential divinity of man.

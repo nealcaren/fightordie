@@ -40,6 +40,14 @@ categories:
   - "Labor & Economics"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1933-02_40_2/sim_crisis_1933-02_40_2.pdf">
+    <img src="/Images/1933-02_40_2.jpg" alt="Cover of The Crisis, February 1933">
+  </a>
+  <p><em>The Crisis</em><br>February 1933</p>
+</div>
+```
 Our death rate is without the slightest doubt a death rate due to poverty and discrimination.
 
 What little racial factor is present is too small to be taken into account. The scientific validity of such studies is utterly vitiated by ignoring not only the social condition and environment of those measured, but by classing all persons of Negro descent as belonging to the "Negro" race no matter what their percentage of white or Indian blood. Moreover, the majority of such "scientists" has been distinctly prejudiced and determined to prove an already assumed case.

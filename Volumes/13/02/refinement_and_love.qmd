@@ -36,6 +36,14 @@ categories:
   - "Racial Violence"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1916-12_13_2/sim_crisis_1916-12_13_2.pdf">
+    <img src="/Images/1916-12_13_2.jpg" alt="Cover of The Crisis, December 1916">
+  </a>
+  <p><em>The Crisis</em><br>December 1916</p>
+</div>
+```
 A colored girl writes us from Oswego, N. Y., saying:
 
 > Do you want to know what I like best about <span class="crisis-title">The Crisis</span>? What I enjoy most? What fires my ambition to struggle on? Well, it is just this: The successes of other members of my race and what they are doing in this United States.  <p> And do you want to know what I like least? Just such expressions as these: 'The recent Irish revolt may have been foolish, but would to God some of us had sense enough to be fools!' The great Napoleon realized after all that the use of force was not the best way to achieve one's ends. That sort of a foundation is too weak; it cannot last. So is it not better to keep before our people ideas and thoughts of culture, refinement, service and love and in that way build our progress on a sure foundation?

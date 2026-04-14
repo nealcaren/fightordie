@@ -38,6 +38,14 @@ categories:
   - "Racial Violence"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1932-02_39_2/sim_crisis_1932-02_39_2.pdf">
+    <img src="/Images/1932-02_39_2.jpg" alt="Cover of The Crisis, February 1932">
+  </a>
+  <p><em>The Crisis</em><br>February 1932</p>
+</div>
+```
 There have been this year thirteen or more persons lynched. I say thirteen "or more." It may have been fifteen or eighteen, but I am taking the reports of Tuskegee, which are usually just below the truth. This means that once a month in the United States mobs have seized prisoners, who in every case but one were black, and have murdered them without any attempt to find out whether they were guilty or not.
 
 When this was said in other years, it was always assumed, despite our vehement protest, that these victims were guilty and that they had raped white women. But we have this year the astonishing findings of the "Southern Commission on the Study of Lynching" issued under the title "Lynchings and What They Mean." This committee of thirteen had a white chairman and seven other Southern white men as members, and five Negroes.

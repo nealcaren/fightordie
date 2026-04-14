@@ -41,6 +41,14 @@ categories:
   - "Pan-Africanism & Empire"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1920-03_19_5/sim_crisis_1920-03_19_5.pdf">
+    <img src="/Images/1920-03_19_5.jpg" alt="Cover of The Crisis, March 1920">
+  </a>
+  <p><em>The Crisis</em><br>March 1920</p>
+</div>
+```
 Two criticisms have been made of the editorial on England in the January number of <span style="font-variant:small-caps;">The Crisis</span>. One writer reminds us of the great work of emancipation and the suppression of the slave trade, started by England early in the nineteenth century. The other, would not have us forget the hostile attitude of Irish Americans toward Negroes.
 
 Of none of these facts are we a moment forgetful. In the Emancipation of Negroes, Englishmen, like Clarkson, Wilberforce, and Sharpe, were splendid pioneers; and the riots against Negroes in Cincinnati, Philadelphia, and New York, during the nineteenth century, in nearly all cases, were instigated and led by Irishmen. More than this: Today, the decisive influence in the American Catholic Church, which keeps black priests out of her pulpits, is the Irish influence,---for the mother Catholic Church is not, and never was, anti-Negro. Her black priests and bishops have for a thousand years sat in her counsels, and the first Catholic bishop of North America, was a full-blooded Negro.

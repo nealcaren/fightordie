@@ -36,6 +36,14 @@ categories:
   - "Education"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1918-07_16_3/sim_crisis_1918-07_16_3.pdf">
+    <img src="/Images/1918-07_16_3.jpg" alt="Cover of The Crisis, July 1918">
+  </a>
+  <p><em>The Crisis</em><br>July 1918</p>
+</div>
+```
 Much mist and misunderstanding has been consciously and unconsciously put in the colored public mind by recent discussions of the schools. We colored people must, however, keep one thing clearly before us: the first fours years' of a child's life, no matter what his race or condition, must be devoted by every modern country which wishes to survive and grow to a very simple program of study: (1) The child must learn to read so as to be able easily to understand what men have written; (2) the child must learn to write so as to be able to communicate with his fellow men; (3) the child must learn to count so as to be able to handle the extraordinary multiplicity of the world's things. To read, to write, to cipher---this is the program and the only program of the first four years of a child's school life. The neglect to do this work then means, in practically all cases, the fatal crippling of the child. This program of study is a matter of technique and difficult technique. It must be learned early and thoroughly or it may not be learned at all. It must be carefully drilled in and be made second nature to the child.
 
 Whenever any person, country or age seeks to substitute for this work anything else, they are either themselves deceived or deliberately deceiving. Other things may appear in the program of the primary school but they are simply subsidiary to the main program and designed to make the main program more easily acquired. Play, for instance, is there as a matter of health and recreation; moral habits are always to be indirectly acquired in home and in school, but the technical business of the primary school is to teach the child to read, to write and to cipher.

@@ -40,6 +40,14 @@ categories:
   - "Education"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1922-02_23_4/sim_crisis_1922-02_23_4.pdf">
+    <img src="/Images/1922-02_23_4.jpg" alt="Cover of The Crisis, February 1922">
+  </a>
+  <p><em>The Crisis</em><br>February 1922</p>
+</div>
+```
 <span class="crisis-title">The Crisis</span> believes and has always believed in national aid to common schools, because of the shameful fact that the South spends only the miserably inadequate sum of $10.32 a head on the education of white children and only $2.89 for each colored child.
 
 The Smith-Towner Education bill now before Congress seeks to appropriate $7,500,000 annually "to encourage the States to remove illiteracy", and for this reason is directly in line with our wishes. But on reading the bill we learn: "All funds apportioned to a State for the removal of illiteracy shall be distributed and administered in accordance with the laws of said State *in like manner as the funds provided by State and local authorities for the same purpose*, and the State and local educational authorities of said State shall determine the courses of study, plans, and methods for carrying out the purposes of this section within said State in accordance with the laws thereof."

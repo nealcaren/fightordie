@@ -39,6 +39,14 @@ categories:
   - "Labor & Economics"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1917-06_14_2/sim_crisis_1917-06_14_2.pdf">
+    <img src="/Images/1917-06_14_2.jpg" alt="Cover of The Crisis, June 1917">
+  </a>
+  <p><em>The Crisis</em><br>June 1917</p>
+</div>
+```
 The American Negro more unanimously than any other American group has offered his services in this war as officer and soldier. He has done this earnestly and unselfishly, overlooking his just resentment and grievous wrongs. 
 
 Up to the present his offer has been received with sullen and ungracious silence, or at best in awkward complaisance. 

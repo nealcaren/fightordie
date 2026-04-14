@@ -39,6 +39,14 @@ categories:
   - "War & Military"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1914-06_8_2/sim_crisis_1914-06_8_2.pdf">
+    <img src="/Images/1914-06_8_2.jpg" alt="Cover of The Crisis, June 1914">
+  </a>
+  <p><em>The Crisis</em><br>June 1914</p>
+</div>
+```
 There is, without doubt, a deep hesitancy throughout this nation in the
 matter of war with Mexico. This was not true when we gaily Cuba and
 benevolently assimilated the Philippines. What did we care for race problems then? We had our problems settled easily and

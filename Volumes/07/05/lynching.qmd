@@ -37,6 +37,14 @@ categories:
   - "Racial Violence"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1914-03_7_5/sim_crisis_1914-03_7_5.pdf">
+    <img src="/Images/1914-03_7_5.jpg" alt="Cover of The Crisis, March 1914">
+  </a>
+  <p><em>The Crisis</em><br>March 1914</p>
+</div>
+```
 We do not blame the people of the United States for being ashamed of lynching, but we have serious doubts if recent methods of curing the evil are going to be really efficacious. We do not refer now to the unjust and dangerous hastening of the trials of accused persons, nor even to the proposed lessening of the penalty for mob murder; but rather to an attempt, deliberate or unintentional, to suppress the truth concerning the present extent of lynching in this land.
 
 <span class="crisis-title">The Crisis</span>noted this last year. The first reports suggested that only thirty-four persons had been lynched during 1912. The second report published in other papers raised the amount to fifty or more while <span class="crisis-title">The Crisis</span>' record was "sixty-three, possibly sixty-eight."

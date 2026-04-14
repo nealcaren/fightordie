@@ -40,6 +40,14 @@ categories:
   - "Art & Culture"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1911-04_1_6/sim_crisis_1911-04_1_6.pdf">
+    <img src="/Images/1911-04_1_6.jpg" alt="Cover of The Crisis, April 1911">
+  </a>
+  <p><em>The Crisis</em><br>April 1911</p>
+</div>
+```
 The death of Frances Watkins Harper calls our attention to the literature of American Negroes. Mrs. Harper was born in Baltimore in 1825. Her active life, beginning with her first published book of poems, covered over sixty years of stirring history, from the Compromise of 1850 down to Mr. Taft's inaugural address. She was associated with all the great leaders of the abolition cause and has lectured to hundreds of audiences throughout the land.
 
 It is, however, for her attempts to forward literature among colored people that Frances Harper deserves most to be remembered. She was not a great singer, but she had some sense of song; she was not a great writer, but she wrote much worth reading. She was above all, sincere. She took

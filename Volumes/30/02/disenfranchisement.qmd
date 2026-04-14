@@ -38,6 +38,14 @@ categories:
   - "Voting & Elections"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1925-06_30_2/sim_crisis_1925-06_30_2.pdf">
+    <img src="/Images/1925-06_30_2.jpg" alt="Cover of The Crisis, June 1925">
+  </a>
+  <p><em>The Crisis</em><br>June 1925</p>
+</div>
+```
 How is the Negro disenfranchised? The process is so complicated that few Negroes themselves know definitely. Beginning with 1890 laws have been passed in various Southern states which today disfranchise approximately four million Negroes 21 years of age and over, over half of whom can read and write and who own property which runs into the hundreds of millions. The restrictions by which these have been accomplished are eight in number:
 1. Illiteracy: The voter must be able to read and write.
 2. Property: The voter must own a certain amount of property.

@@ -40,6 +40,14 @@ categories:
   - "Racial Violence"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1931-04_38_4/sim_crisis_1931-04_38_4.pdf">
+    <img src="/Images/1931-04_38_4.jpg" alt="Cover of The Crisis, April 1931">
+  </a>
+  <p><em>The Crisis</em><br>April 1931</p>
+</div>
+```
 We have nothing but praise for the Southern Commission on the study of lynching. It has eleven members: the white members are: George F. Milton, Dr. W. J. McGlothlin, W. P. King, Julian Harris, Dr. Edward W. Odum, and Alexander Spence. The colored members are: Dr. R. R. Moton, Dr. John Hope, Dr. Charles S. Johnson, President B. F. Hubert and Professor John Work.
 
 At the same time, we know the temptation that faces such a committee working in the South. They are almost forced to be diplomatic before they are absolutely truthful. We trust, therefore, that they are going to be brave enough to say this plain word about lynching: the cause of lynching lies in ignorance, economic exploitation, religious intolerance, political disfranchisement, and sex prejudice.

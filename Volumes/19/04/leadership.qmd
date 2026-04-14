@@ -41,6 +41,14 @@ categories:
   - "Pan-Africanism & Empire"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1920-02_19_4/sim_crisis_1920-02_19_4.pdf">
+    <img src="/Images/1920-02_19_4.jpg" alt="Cover of The Crisis, February 1920">
+  </a>
+  <p><em>The Crisis</em><br>February 1920</p>
+</div>
+```
 Many a good cause has been killed by suspected leadership. For a thousand years, the world had dreamed of a Nation of Nations. Ever since the fall of Imperial Rome, the need of a united world organization of culture has been felt. The greatest thinkers, the greatest leaders, have dreamed and sung and prophesied of this Empire of All.
 
 Today the reality comes---but who leads it? England and Woodrow Wilson. England who has, with cold blood and calculating selfishness, reaped from the war:

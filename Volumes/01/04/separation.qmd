@@ -35,6 +35,14 @@ categories:
   - "The South"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1911-02_1_4/sim_crisis_1911-02_1_4.pdf">
+    <img src="/Images/1911-02_1_4.jpg" alt="Cover of The Crisis, February 1911">
+  </a>
+  <p><em>The Crisis</em><br>February 1911</p>
+</div>
+```
 It is a cruel mental strain to which honest colored men are being put to-day, particularly in the South. They want to come to terms with their neighbors. They are being urged to do this---urged by black leaders and white and by strong public opinion. The South sometimes is represented as aggressively friendly. They are seeking piteously, therefore,
 to agree wjth the dominant race and yet preserve something of their self-respect. It is very difficult. Take, for instance, the letter of an honest colored man in the New Orleans *Times-Democrat*. He says:
 

@@ -39,6 +39,14 @@ categories:
   - "Labor & Economics"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1913-08_6_4/sim_crisis_1913-08_6_4.pdf">
+    <img src="/Images/1913-08_6_4.jpg" alt="Cover of The Crisis, August 1913">
+  </a>
+  <p><em>The Crisis</em><br>August 1913</p>
+</div>
+```
 The civilization of South Africa, by means of theft, disfranchisement and slavery, goes on apace. Recently the better-paid white workingmen who have long been attempting to climb to affluence and democracy on the necks of black slaves have been led to strike. London papers thus detail their reasons:
 
 > The mining of gold in South Africa produces an appalling death roll.    

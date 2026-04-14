@@ -35,6 +35,14 @@ categories:
   - "Education"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1918-10_16_6/sim_crisis_1918-10_16_6.pdf">
+    <img src="/Images/1918-10_16_6.jpg" alt="Cover of The Crisis, October 1918">
+  </a>
+  <p><em>The Crisis</em><br>October 1918</p>
+</div>
+```
 This is school month. Send the children to school. Do not be tempted to keep them at work because they are earning large wages. The race is to the intelligent and not merely to the busy. Wisdom is the principal thing, therefore, GET WISDOM! Hustle the children off the farms and out of the factories and into the schools. Do not wait---do not hesitate. Our life depends upon it. Our rise is founded on the rock of knowledge. Put the children in school. Keep the children in school.
 
 <!-- Similar articles start here -->

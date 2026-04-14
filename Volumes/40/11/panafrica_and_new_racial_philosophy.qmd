@@ -39,6 +39,14 @@ categories:
   - "Segregation"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1933-10_40_10/sim_crisis_1933-10_40_10.pdf">
+    <img src="/Images/1933-10_40_10.jpg" alt="Cover of The Crisis, October 1933">
+  </a>
+  <p><em>The Crisis</em><br>October 1933</p>
+</div>
+```
 We have considered all these matters in relation to the American Negro but our underlying thought has been continually that they can and must be seen not against any narrow, provincial or even national background, but in relation to the great problem of the colored races of the world and particularly those of African descent.
 
 There are still large numbers of American Negroes who in all essential particulars conceive themselves as belonging to the white race. And this, not on account of their color, which may be yellow, brown or black, but on account of their history and their social surroundings. They react as white Americans. They have all the racial prejudices of white America, not only against Asiatics and Jews, but even against Mexicans and West Indians. In all questions of human interest, they would flock to white America before they would flock to the brown West Indies or to black Africa or to yellow Asia.

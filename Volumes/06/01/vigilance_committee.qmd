@@ -38,6 +38,14 @@ categories:
   - "Segregation"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1913-05_6_1/sim_crisis_1913-05_6_1.pdf">
+    <img src="/Images/1913-05_6_1.jpg" alt="Cover of The Crisis, May 1913">
+  </a>
+  <p><em>The Crisis</em><br>May 1913</p>
+</div>
+```
 There is scarcely a community in the United States where a group of colored people live that has not its vigilance committee. Sometimes this committee is organized and has a name indicating its function. Sometimes it is organized for other purposes and becomes a vigilance committee on occasion. In other cases the committee has no regular organization or membership; it springs into being on occasion, but consists of approximately the same group of persons from year to year.
 
 The work of these vigilance committees is to protect the colored people in their several communities from aggression.

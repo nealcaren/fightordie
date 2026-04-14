@@ -42,6 +42,14 @@ categories:
   - "NAACP & Organizational Strategy"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1915-03_9_5/sim_crisis_1915-03_9_5.pdf">
+    <img src="/Images/1915-03_9_5.jpg" alt="Cover of The Crisis, March 1915">
+  </a>
+  <p><em>The Crisis</em><br>March 1915</p>
+</div>
+```
 It is noticeable that the number of colored people asking charity in hard times like the present is much less than the great poverty of the race would lead one to expect. The reason for this is the large amount of unrecorded and personal charity that takes place inside the race lines: the cheerful helping of neighbors, the adoption of children and the care of the old. In the latter work Negro charity has become institutional and the old folks' home is perhaps the most characteristic Negro charity.
 
 There are today in the United States not less than one hundred homes supported and conducted very largely by colored people. One of them, the Home for Aged and Infirm Colored Persons at Philadelphia, was endowed by a colored man in 1864 with a capital of about $100,000. Philanthropic whites have added to this until the Home's property now is worth $400,000. In other cases, as in Springfield, Mass., a colored man, Primus Mason, founded a home for all races; and in New Bedford, a colored woman, Miss Elizabeth C. Carter, has a home for which she has collected over $35,000.

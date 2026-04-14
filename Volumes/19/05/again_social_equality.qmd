@@ -32,6 +32,14 @@ categories:
   - "Segregation"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1920-03_19_5/sim_crisis_1920-03_19_5.pdf">
+    <img src="/Images/1920-03_19_5.jpg" alt="Cover of The Crisis, March 1920">
+  </a>
+  <p><em>The Crisis</em><br>March 1920</p>
+</div>
+```
 Mr. Paleface entered his parlor mincingly,---"My dear man," he said, expressively. 
 
 "I am Brownson," said the dark man quietly. 

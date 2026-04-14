@@ -40,6 +40,14 @@ categories:
   - "Art & Culture"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1912-11_5_1/sim_crisis_1912-11_5_1.pdf">
+    <img src="/Images/1912-11_5_1.jpg" alt="Cover of The Crisis, November 1912">
+  </a>
+  <p><em>The Crisis</em><br>November 1912</p>
+</div>
+```
 It is natural that there should be many misapprehensions concerning the origin of <span class="crisis-title">The Crisis</span> as well as its object. Every man with a cause longs to voice his belief. Most men, however, like the editor of this magazine, are held back by a very genuine doubt as to whether the public will recognize any worth in the proposed message. They know---or they think they know---that when the message is voiced, and the world realizes its full import, it will welcome and help actively in its spread. 
 
 The problem is then how to begin, how first to spread the message. Capital must be had for the launching of such an enterprise, but how may one raise it and whence? It seemed to the editor of <span class="crisis-title">The Crisis</span> in earlier years that the benevolent rich might be approached with such a proposition. He forgot that the benevolent are besieged with schemes of all sorts and have little time or ability to judge a matter the justification of which lies in the far future. They are used to helping the thing that has already proven its worth. 

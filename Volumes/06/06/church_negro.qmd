@@ -38,6 +38,14 @@ categories:
   - "Segregation"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1913-10_6_6/sim_crisis_1913-10_6_6.pdf">
+    <img src="/Images/1913-10_6_6.jpg" alt="Cover of The Crisis, October 1913">
+  </a>
+  <p><em>The Crisis</em><br>October 1913</p>
+</div>
+```
 The relation of the church to the Negro is, or should be, a very simple
 proposition. Leaving aside the supernatural significance of the church
 organization, we have here groups of people working for human uplift and

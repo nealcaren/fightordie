@@ -40,6 +40,14 @@ categories:
   - "Voting & Elections"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1920-10_20_6/sim_crisis_1920-10_20_6.pdf">
+    <img src="/Images/1920-10_20_6.jpg" alt="Cover of The Crisis, October 1920">
+  </a>
+  <p><em>The Crisis</em><br>October 1920</p>
+</div>
+```
 # Triumph
 
 At last the work of Susan B. Anthony and Frederick Douglass is crowned. From this day on in the United States a grown human being has the right to a voice in his own government, even if he is a woman.

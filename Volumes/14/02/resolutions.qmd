@@ -42,6 +42,14 @@ categories:
   - "Pan-Africanism & Empire"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1917-06_14_2/sim_crisis_1917-06_14_2.pdf">
+    <img src="/Images/1917-06_14_2.jpg" alt="Cover of The Crisis, June 1917">
+  </a>
+  <p><em>The Crisis</em><br>June 1917</p>
+</div>
+```
 The representatives of Negro organizations embracing many millions of men, together with their friends and fellow workers of other races, deem it fitting at this critical time in the history of our country and the world to express the attitude and aspirations which they think fitting for the twelve million Americans of Negro descent and for many other millions resident in America, in Africa, and in the islands of the sea.
 
 We trace the real cause of this world war to the despising of the darker races by the dominant groups of men, and the consequent fierce rivalry among European nations in their effort to use darker and backward people for purposes of selfish gain regardless of the ultimate good of the oppressed. 

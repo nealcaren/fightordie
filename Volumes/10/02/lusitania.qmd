@@ -40,6 +40,14 @@ categories:
   - "Racial Violence"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1915-06_10_2/sim_crisis_1915-06_10_2.pdf">
+    <img src="/Images/1915-06_10_2.jpg" alt="Cover of The Crisis, June 1915">
+  </a>
+  <p><em>The Crisis</em><br>June 1915</p>
+</div>
+```
 The last horror of a horrible war is come! It puts a period to what we
 have already said: European civilization has failed. Its failure did not
 come with this war but with this war it has been made manifest. Whatever

@@ -42,6 +42,14 @@ categories:
   - "Labor & Economics"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1933-10_40_10/sim_crisis_1933-10_40_10.pdf">
+    <img src="/Images/1933-10_40_10.jpg" alt="Cover of The Crisis, October 1933">
+  </a>
+  <p><em>The Crisis</em><br>October 1933</p>
+</div>
+```
 I was the great Jew, Benjamin Disraeli, who said: "Youth is a blunder; manhood a struggle; old age a regret." And so with blunder and regret and perhaps something of struggle, we came together last month in the second Amenia Conference.
 
 The first conference at Joel Spingarn's beautiful country estate, took place in 1916. And after its few days of frank fellowship there was no adequate reason left for essential differences of opinion between the followers of Booker T. Washington, then just dead, and those younger men who had so vigorously opposed some of his policies.

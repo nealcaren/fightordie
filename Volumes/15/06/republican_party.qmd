@@ -40,6 +40,14 @@ categories:
   - "Voting & Elections"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1918-04_15_6/sim_crisis_1918-04_15_6.pdf">
+    <img src="/Images/1918-04_15_6.jpg" alt="Cover of The Crisis, April 1918">
+  </a>
+  <p><em>The Crisis</em><br>April 1918</p>
+</div>
+```
 If any Negro has a lingering hope that the Republican Party has learned anything recently let him straightway give it up. The Republican National Committee at St. Louis deliberately defeated Perry Howard, a Mississippi Negro, for a place among its members and elected a Negro-hating "Lily White" sent there by a convention which the committee itself acknowledged was illegal.
 
 The Republican Party not only deliberately refused to nominate a Negro in the largest Negro congressional district in the North, but went into court and tried to prevent Reedy C. Ransom from even running as an independent in New York City.

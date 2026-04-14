@@ -37,6 +37,14 @@ categories:
   - "Racial Violence"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1918-09_16_5/sim_crisis_1918-09_16_5.pdf">
+    <img src="/Images/1918-09_16_5.jpg" alt="Cover of The Crisis, September 1918">
+  </a>
+  <p><em>The Crisis</em><br>September 1918</p>
+</div>
+```
 ***An investigation by Walter F. White, Assistant Secretary, National Association for the Advancement of Colored People, in Brooks and Lowndes Counties, Georgia.***
 
 The recent strong letter of President Wilson on lynching was undoubtedly called forth by representations from colored people following the lynchings in Brooks and Lowndes Counties, Ga., May 17--24. Hampton Smith, a white farmer, was killed, and newspaper dispatches report six persons as having been lynched for complicity. Investigation shows that at least eleven persons were killed.

@@ -40,6 +40,14 @@ categories:
   - "The South"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1914-03_7_5/sim_crisis_1914-03_7_5.pdf">
+    <img src="/Images/1914-03_7_5.jpg" alt="Cover of The Crisis, March 1914">
+  </a>
+  <p><em>The Crisis</em><br>March 1914</p>
+</div>
+```
 Negroes form 40 per cent. of the population of Memphis, Tenn. The city laid the following taxes during the year 1912:
 
 |                                |               |

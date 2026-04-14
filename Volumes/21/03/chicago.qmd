@@ -42,6 +42,14 @@ categories:
   - "Segregation"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1921-01_21_3/sim_crisis_1921-01_21_3.pdf">
+    <img src="/Images/1921-01_21_3.jpg" alt="Cover of The Crisis, January 1921">
+  </a>
+  <p><em>The Crisis</em><br>January 1921</p>
+</div>
+```
 We would advise our Chicago friends to watch narrowly the work and forthcoming report of the Inter-racial Commission appointed by the Governor of Illinois after the late riot. The Commission consists of colored men who apparently have a much too complacent trust in their white friends; of white men who are too busy to know; and of enemies of the Negro race who under the guise of impartiality and good will are pushing insidiously but unswervingly a program of racial segregation. They have, for instance, sent a "questionnaire" to prominent colored men, consisting of 15 questions, which with all their surface frankness and innocence seek to betray black folk by means of the logical dilemma of "segregation" and "racial solidarity". By subtle suggestion these queries say: If you believe in colored churches, why not in colored ghettos? Does not Negro advancement increase anti-Negro hatred? Are not Negroes prejudiced against whites? Are not the mistakes of Negro leaders manifest? And so on.
 
 Indeed if a professed enemy of black folk and their progress had set out to start a controversy so as to divide the Negroes and their friends in counsel and throw the whole burden of such nasty outbreaks of race hate as the East St. Louis, Washington and Chicago riots upon them, he would have framed just such a questionnaire as has been sent out by this Commission.

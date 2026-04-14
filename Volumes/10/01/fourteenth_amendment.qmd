@@ -37,6 +37,14 @@ categories:
   - "Voting & Elections"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1915-05_10_1/sim_crisis_1915-05_10_1.pdf">
+    <img src="/Images/1915-05_10_1.jpg" alt="Cover of The Crisis, May 1915">
+  </a>
+  <p><em>The Crisis</em><br>May 1915</p>
+</div>
+```
 A correspondent asks us "in view of the explicit and imperative terms of the Fourteenth Amendment is it not the binding duty of Congress to cut down southern representation in apportioning members to Congress to the various states?" We answer, it is. But who is going to make Congress do its duty? We are trying to do this and have tried and will continue to try, but we have not yet succeeded.
 
 _____

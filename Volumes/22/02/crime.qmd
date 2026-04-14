@@ -40,6 +40,14 @@ categories:
   - "Religion & Morality"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1921-06_22_2/sim_crisis_1921-06_22_2.pdf">
+    <img src="/Images/1921-06_22_2.jpg" alt="Cover of The Crisis, June 1921">
+  </a>
+  <p><em>The Crisis</em><br>June 1921</p>
+</div>
+```
 If once, then a thousand times white Southerners fling at us: why do you not denounce Negro crime as well as white lynching?
 
 Because there is no "Negro" crime. There is crime committed by Negroes and by white men; by Southerners and Northerners; by yellow and red, Englishmen, Frenchmen, Germans and Russians; and against this frightful failure of civilization and religion, of culture, humanity and decency, we continually inveigh. We hate delinquency, cruelty and outrage with perfect hatred; and when it is done by blacks, the hurt and shame go deeper than in any other case, not only because we know that innocent blacks will suffer more than the guilty, but because our ideals for Negroes are high.

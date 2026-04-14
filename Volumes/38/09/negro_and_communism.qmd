@@ -42,6 +42,14 @@ categories:
   - "Internal Debate"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1931-09_38_9/sim_crisis_1931-09_38_9.pdf">
+    <img src="/Images/1931-09_38_9.jpg" alt="Cover of The Crisis, September 1931">
+  </a>
+  <p><em>The Crisis</em><br>September 1931</p>
+</div>
+```
 The Scottsboro, Alabama, cases have brought squarely before the American Negro the question of his attitude toward Communism.
 
 The importance of the Russian Revolution can not be gainsaid. It is easily the greatest event in the world since the French Revolution and possibly since the fall of Rome. The experiment is increasingly successful. Russia occupies the center of the world's attention today and as a state it is recognized by every civilized nation, except the United States, Spain, Portugal and some countries of South America.

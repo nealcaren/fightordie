@@ -35,6 +35,14 @@ categories:
   - "Art & Culture"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1931-05_38_5/sim_crisis_1931-05_38_5.pdf">
+    <img src="/Images/1931-05_38_5.jpg" alt="Cover of The Crisis, May 1931">
+  </a>
+  <p><em>The Crisis</em><br>May 1931</p>
+</div>
+```
 *This is the speech made by the Editor of The Crisis when the Lieutenant Governor of the State of New York bestowed the 17th Spingarn Medal on Richard B. Harrison.*
 
 *The investiture took place in Mansfield Theatre, New York, where "The Green Pastures" is beginning its second year's run. There were present, the author and producer of the play, four Spingarn Medalists, the founder of the Medal and an audience of one thousand.*

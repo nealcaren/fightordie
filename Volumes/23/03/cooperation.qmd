@@ -35,6 +35,14 @@ categories:
   - "Labor & Economics"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1922-01_23_3/sim_crisis_1922-01_23_3.pdf">
+    <img src="/Images/1922-01_23_3.jpg" alt="Cover of The Crisis, January 1922">
+  </a>
+  <p><em>The Crisis</em><br>January 1922</p>
+</div>
+```
 For several years we have sought to interest the colored people of the United States in coöperative business and we have had some beginnings of success. But coöperation among us suffers just as it does among the whites: not everything is "coöperative" that is called coöperative and the first desire of rascals is to call some scheme of doubtful validity "coöperative" so as to attract the pennies of the masses. Recently we have been told that the "Coöperative Society of America" has made a gigantic failure, and this must have scared and warned many colored people. But it is to be hoped that their fear was not misplaced, for the so called "Coöperative Society of America" was not coöperative at all, but was a gigantic fraud. Meantime, the genuine coöperative movement is not only sound but successful. In the State of Illinois, where the fraudulent society failed, there are 200 successful coöperative societies. In Pennsylvania there are 200 coöperative stores in the mining regions, and throughout Europe the coöperative movement is the only economic movement that has successfully withstood the war.
 
 <!-- Similar articles start here -->

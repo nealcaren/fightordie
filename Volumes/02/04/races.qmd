@@ -41,6 +41,14 @@ categories:
   - "Education"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1911-08_2_4/sim_crisis_1911-08_2_4.pdf">
+    <img src="/Images/1911-08_2_4.jpg" alt="Cover of The Crisis, August 1911">
+  </a>
+  <p><em>The Crisis</em><br>August 1911</p>
+</div>
+```
 If Americans who have long since said the last word con­cerning the races of men and their proper relations will read the papers laid before the First Universal Races Congress, they will realize that America is fifty years behind the scientific world in its racial philosophy.
 
 Before the publication of this epoch-making volume, <span class="crisis-title">The Crisis</span> would not dare to express the statements which are contained therein. The leading scientists of the world have come forward in this book and laid down in categorical terms a series of proposi­tions which may be summarized as follows:

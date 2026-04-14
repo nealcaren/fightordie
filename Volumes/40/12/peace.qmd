@@ -44,6 +44,14 @@ categories:
   - "Pan-Africanism & Empire"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1933-12_40_12/sim_crisis_1933-12_40_12.pdf">
+    <img src="/Images/1933-12_40_12.jpg" alt="Cover of The Crisis, December 1933">
+  </a>
+  <p><em>The Crisis</em><br>December 1933</p>
+</div>
+```
 To one who does not comprehend the reasons, the present attitude of the civilized world toward peace would be incomprehensible. Here is a world which is literally wasting most of its taxes on war; preparing incredible machines for murder, arson and theft.
 
  Giving of its time, devoting its energy and its brains to destruction and hurt. It is the greatest single threat to civilization. We have just come through a time when war put human culture in ever greater danger than when the barbarians descended upon Rome.

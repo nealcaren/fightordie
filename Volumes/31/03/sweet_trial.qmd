@@ -39,6 +39,14 @@ categories:
   - "Segregation"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1926-01_31_3/sim_crisis_1926-01_31_3.pdf">
+    <img src="/Images/1926-01_31_3.jpg" alt="Cover of The Crisis, January 1926">
+  </a>
+  <p><em>The Crisis</em><br>January 1926</p>
+</div>
+```
 ***The Assistant Secretary of the N.A.A.C.P. "Covered" the Trial of the Negroes of Detroit Who Were Tried for Murder Because They Defended Their Home Against a Mob***
 
 

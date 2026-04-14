@@ -41,6 +41,14 @@ categories:
   - "War & Military"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1918-04_15_6/sim_crisis_1918-04_15_6.pdf">
+    <img src="/Images/1918-04_15_6.jpg" alt="Cover of The Crisis, April 1918">
+  </a>
+  <p><em>The Crisis</em><br>April 1918</p>
+</div>
+```
 | HOUSTON                                                                              | EAST ST. LOUIS                                |
 |--------------------------------------------------------------------------------------|-----------------------------------------------|
 | 17 WHITE persons killed.                                                             | 125 NEGROES killed.                           |

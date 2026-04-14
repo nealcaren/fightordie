@@ -39,6 +39,14 @@ categories:
   - "Racial Violence"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1911-06_2_2/sim_crisis_1911-06_2_2.pdf">
+    <img src="/Images/1911-06_2_2.jpg" alt="Cover of The Crisis, June 1911">
+  </a>
+  <p><em>The Crisis</em><br>June 1911</p>
+</div>
+```
 Two utterances by Mr. Booker T. Washington this week illustrate the reasons why so many thinking men, black and white, are coming to doubt Mr. Washington's statesmanship. One statement is in the current Outlook and is to the effect that Mr. John E. Milholland and "certain members of my own race in the North have objected because they said I did not paint conditions in the South black enough. … I have never denied that the Negro in the South frequently meets with wrong and injustice, but he does not starve." And he quotes facts to show that there is actual starvation in London.
 
 This argument reduces itself to several propositions:

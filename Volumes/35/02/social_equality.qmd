@@ -37,6 +37,14 @@ categories:
   - "Segregation"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1928-02_35_2/sim_crisis_1928-02_35_2.pdf">
+    <img src="/Images/1928-02_35_2.jpg" alt="Cover of The Crisis, February 1928">
+  </a>
+  <p><em>The Crisis</em><br>February 1928</p>
+</div>
+```
 Lothrop Stoddard, professional "nigger" hater and protagonist of the Ku Klux Klan, made two astonishing admissions the other night when he debated the subject of social equality with the Editor of <span class="crisis-title">The Crisis</span>.
 
 The first was this: "The basic reason for white America’s attitude and policy toward the Negro is not a belief in the Negro’s inferiority, but the fact of his difference." This is a shifting of ground which was bound to come, but we had not expected it so soon or from such a source.

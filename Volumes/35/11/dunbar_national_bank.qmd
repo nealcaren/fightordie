@@ -41,6 +41,14 @@ categories:
   - "Pan-Africanism & Empire"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1928-11_35_11/sim_crisis_1928-11_35_11.pdf">
+    <img src="/Images/1928-11_35_11.jpg" alt="Cover of The Crisis, November 1928">
+  </a>
+  <p><em>The Crisis</em><br>November 1928</p>
+</div>
+```
 The establishment of the Dunbar National Bank in New York City, may be simply another bank; but it might prove to be an epoch making event for the darker races of the world. Here is a bank with over a million dollars of capital and surplus, with a colored and white directorate and a colored and white personnel. Even though white business men and capital predominate in numbers and authority, yet the possibilities of such an organization are tremendous.
 
 In the present organization of the world in politics and industry the line between capital and labor coincides roughly to the line between the white and darker races. Whatever salvation the darker races seek under present conditions must be attained through their admission to the ranks of capitalists.

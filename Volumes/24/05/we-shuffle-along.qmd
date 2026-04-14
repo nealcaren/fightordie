@@ -42,6 +42,14 @@ categories:
   - "Segregation"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1922-09_24_5/sim_crisis_1922-09_24_5.pdf">
+    <img src="/Images/1922-09_24_5.jpg" alt="Cover of The Crisis, September 1922">
+  </a>
+  <p><em>The Crisis</em><br>September 1922</p>
+</div>
+```
 For a solid year colored artists have maintained on Broadway, New York, one of the cleanest, tunefulest and cleverest variety shows ever given. The colored comedians, Miller and Lyles, and the composers, Sissle and Blake, staged the play under great difficulties. They searched long for a manager and longer for a theatre and finally found an old disused music hall around a corner and out of the way, ill-furnished and inconvenient; and then they literally made New York and the world come to see and hear in droves for twelve long months. This is heartening---but see the sequel.
 
 We accuse white America of prejudice, and God knows it has aplenty. But worse than the prejudice is the ignorance. White folk hate and discriminate because they do not realize or know. When they do know they become usually honest, sympathetic human souls. Thousands of them were prejudiced against "nigger shows," but when they had a chance to see "Shuffle Along,"" they applauded generously.

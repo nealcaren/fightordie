@@ -39,6 +39,14 @@ categories:
   - "Education"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1933-12_40_12/sim_crisis_1933-12_40_12.pdf">
+    <img src="/Images/1933-12_40_12.jpg" alt="Cover of The Crisis, December 1933">
+  </a>
+  <p><em>The Crisis</em><br>December 1933</p>
+</div>
+```
 Forty-odd years ago, when stalwart Young Dendy and slim Martha Duckett were married, their fortune consisted of youth, health and intelligence. They went to housekeeping with cheerful enthusiasm in a one-roomed cabin. Today they live in a spacious home; but the South has robbed them of their gay enthusiasm.
 
 Then their future held no shadow. Young was a carpenter, able and reliable, hence always in demand. He did not know what it meant to be out of a job. His energetic Martha took in washings, kept the cabin spic and span, nursed and cared for her healthy brown babies. Together they worked and saved and shrewdly invested their savings. They moved into a two-roomed cabin, and then, as they prospered and their family grew, they built themselves a neat, four-roomed cottage.

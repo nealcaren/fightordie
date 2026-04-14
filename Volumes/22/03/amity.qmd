@@ -34,6 +34,14 @@ categories:
   - "Religion & Morality"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1921-07_22_3/sim_crisis_1921-07_22_3.pdf">
+    <img src="/Images/1921-07_22_3.jpg" alt="Cover of The Crisis, July 1921">
+  </a>
+  <p><em>The Crisis</em><br>July 1921</p>
+</div>
+```
 A convention of colored and white people took place in Washington, D.C., in May, which deserves thought. The programs carried these words: 
 
 > Half a century ago in America slavery was abolished.     <p> Now there has arisen need for another great effort.    <p>Correction of the present wrong requires no army, for the field of action is the hearts of our citizens. The instrument to be used is kindness; the ammunition, understanding of all by all. The actor in this engagement for right is every inhabitant of these United States.    <p>The great work we have to do and for which this convention is called is the establishment of amity between the white and colored people of our land.    <p> When we have put our own house in order, then we may be trusted to carry the message of universal peace to all mankind.

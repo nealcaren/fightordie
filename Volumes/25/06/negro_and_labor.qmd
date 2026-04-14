@@ -40,6 +40,14 @@ categories:
   - "Pan-Africanism & Empire"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1923-04_25_6/sim_crisis_1923-04_25_6.pdf">
+    <img src="/Images/1923-04_25_6.jpg" alt="Cover of The Crisis, April 1923">
+  </a>
+  <p><em>The Crisis</em><br>April 1923</p>
+</div>
+```
 The usual American attitude toward Negroes in industrial countries like this is two-fold. On the one hand, the white laboring man excludes the Negro from work just as far as possible, particularly in the skilled trades; this is because, as he says, the Negro will work for lower wages and does not deserve the consideration of white labor. The employer, on the other hand, will employ Negroes when he can get them more cheaply than white men, but he considers them less efficient and their presence raises problems. They are, nevertheless, always a possible substitute when white labor becomes too exorbitant in its demands. 
 
 Neither party is apt to consider the point of view of the colored man. He needs work and being usually excluded from the union, gets his chance to labor by underbidding the white laborer, and is compelled often to regard the man who hires "scab" labor as his benefactor. On the other hand, being compelled to live somewhere, being poor and ignorant, he brings to such employers and their friends problems in housing and other social matters. 

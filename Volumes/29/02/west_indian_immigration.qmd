@@ -23,8 +23,8 @@ events:
 citation: 
   type: article-journal
   container-title: The Crisis
-  volume: 291
-  issue: 29
+  volume: 29
+  issue: 2
   page: 57
 google-scholar: true
 
@@ -38,6 +38,14 @@ categories:
   - "Segregation"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1924-12_29_2/sim_crisis_1924-12_29_2.pdf">
+    <img src="/Images/1924-12_29_2.jpg" alt="Cover of The Crisis, December 1924">
+  </a>
+  <p><em>The Crisis</em><br>December 1924</p>
+</div>
+```
 The Nordic champions undoubtedly put one over on us in the recent immigration bill. If our West Indian friends had watched more carefully and warned us, we might have been able to take some effective step. As it was, by the simple device of discriminating between self-governing and crown colonies in the British empire, a device whose significance at the time escaped us, immigration to the United States from the West Indies has practically been barred.
 
 This is unfortunate, because the United States would be a better and finer country if in its future development a larger strain of the Latin and Negro peoples went into its national veins and a smaller strain of English, Scandinavian and German blood. This does not mean that in any blood there is innate superiority or inferiority. There are superior strains among all peoples, black as well as white, and misfortune comes only when inferior strains of one race are admitted and superior strains of others are barred.

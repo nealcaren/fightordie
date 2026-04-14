@@ -42,6 +42,14 @@ categories:
   - "Voting & Elections"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1916-11_13_1/sim_crisis_1916-11_13_1.pdf">
+    <img src="/Images/1916-11_13_1.jpg" alt="Cover of The Crisis, November 1916">
+  </a>
+  <p><em>The Crisis</em><br>November 1916</p>
+</div>
+```
 We are sorry that Mr. Charles Evans Hughes has not found opportunity to answer the courteous and pertinent letter printed on page 16 and sent him nearly a month ago. 
 
 We are told by Mr. Herbert Parsons, of the Republican National Committee, that the failure to answer was not intentional nor significant. Mr. John E. Milholland, a staunch friend of the Negro, also assures us that Mr. Hughes' attitude is right on every question raised in our letter. 

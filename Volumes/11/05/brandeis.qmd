@@ -39,6 +39,14 @@ categories:
   - "Labor & Economics"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1916-03_11_5/sim_crisis_1916-03_11_5.pdf">
+    <img src="/Images/1916-03_11_5.jpg" alt="Cover of The Crisis, March 1916">
+  </a>
+  <p><em>The Crisis</em><br>March 1916</p>
+</div>
+```
 There seems to be a chance to put a modern man on the Bench of the
 Supreme Court. We have had some fine Judges there. We have had a few men
 like the late Justice Harlan who stood straight as an arrow for human

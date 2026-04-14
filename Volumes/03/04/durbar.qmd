@@ -43,6 +43,14 @@ categories:
   - "Pan-Africanism & Empire"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1912-02_3_4/sim_crisis_1912-02_3_4.pdf">
+    <img src="/Images/1912-02_3_4.jpg" alt="Cover of The Crisis, February 1912">
+  </a>
+  <p><em>The Crisis</em><br>February 1912</p>
+</div>
+```
 The greatest concession wrung from an arrogant modern nation by a dark-skinned people has just been gained by the Indians from the English. The Durbar was not simply a ceremonial---it was a concession. For a long time England has been trying to conciliate India by social deference to her princes. Few of the great drawing rooms of London have not been graced in recent years by these Eastern potentates, and every public honor has been shown them. All this is an old method with rulers. Even with the American Negro the experiment is continually tried locally and nationally of extravagantly honoring leaders who can be depended on to do the tyrant's will unquestioningly.
 
 The rank and file, however, soon learn to discriminate between such empty honors and the real good of the people. Ground down by ignorance and poverty, India demands education and political autonomy. Oppressed by color prejudice they demand the treatment of men.

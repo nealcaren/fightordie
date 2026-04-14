@@ -42,6 +42,14 @@ categories:
   - "Internal Debate"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1912-07_4_3/sim_crisis_1912-07_4_3.pdf">
+    <img src="/Images/1912-07_4_3.jpg" alt="Cover of The Crisis, July 1912">
+  </a>
+  <p><em>The Crisis</em><br>July 1912</p>
+</div>
+```
 As the colored people become more and more a self-conscious,
 selfdirecting group, with organs of intelligence and moving
 representatives, it is becoming difficult to deceive them as to men and

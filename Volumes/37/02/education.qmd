@@ -38,6 +38,14 @@ categories:
   - "Education"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1930-02_37_2/sim_crisis_1930-02_37_2.pdf">
+    <img src="/Images/1930-02_37_2.jpg" alt="Cover of The Crisis, February 1930">
+  </a>
+  <p><em>The Crisis</em><br>February 1930</p>
+</div>
+```
 Suppose that a Congressman is interested in the American Negro, realizing that the oppression of any group of twelve million people in America is dangerous to the whole country. Suppose he wants to do something to help the Negroes? What would be the most obvious thing that he could do?
 
 He might think of *disfranchisement* in the South; he might think of *lynching*, but he certainly would have to think of *education*. In education, the American Negro has suffered the most vital and damaging and inexcusable discrimination. He was forced by law to be illiterate until Emancipation; and since then the public schools of the South have proceeded to distribute public taxation so that, for instance, in Georgia, where the Negroes form 43 per cent of the population, they get but 9 per cent of the school funds; while $36.29 is expended for each white child a year, only $4.59 is expended for each colored child. In Mississippi, in many counties where the Negro forms three-fourths of the population, less than a $1.00 a year per child is spent on Negro education. In Tunica County, white children receive $63 a year for education and Negroes $4.40. In South Carolina, where a majority of the inhabitants are Negroes, the state spent, 1925--26, $14,673,719, for white schools, and $1,655,652 for Negro schools.

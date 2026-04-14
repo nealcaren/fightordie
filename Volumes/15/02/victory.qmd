@@ -41,6 +41,14 @@ categories:
   - "Segregation"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1917-12_15_2/sim_crisis_1917-12_15_2.pdf">
+    <img src="/Images/1917-12_15_2.jpg" alt="Cover of The Crisis, December 1917">
+  </a>
+  <p><em>The Crisis</em><br>December 1917</p>
+</div>
+```
 > Minneapolis Branch and friends of the Northwest join in grateful thanks and congratulations to you, Storey, Spingarn, Villard, and army of leaders, and friends who secured the splendid victory in Segregation fight. It is the most consoling and inspiring news received within a quarter century.    
 > &nbsp;     
 > The colored citizens of Denver and Colorado desire that the Denver Branch convey to you, Moorfield Storey, and associates their deepest gratitude and appreciation of the noble work and splendid victory won before the United States Supreme Court in the Segregation cases, the most important step toward world democracy since the Civil Rights Bill.

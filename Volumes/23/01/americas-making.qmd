@@ -40,6 +40,14 @@ categories:
   - "Art & Culture"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1921-11_23_1/sim_crisis_1921-11_23_1.pdf">
+    <img src="/Images/1921-11_23_1.jpg" alt="Cover of The Crisis, November 1921">
+  </a>
+  <p><em>The Crisis</em><br>November 1921</p>
+</div>
+```
 The part which each group has had in the development of this land will be clearly shown in "America's Making," a pageant and exhibit which will show three centuries of racial and immigrant contributions to our national life. From October 29 to November 12, through pageants, festivities and exhibits, the gift of each race to America will be set forth. This demonstration is under the general supervision of the State Board of Education and of the City of New York.
 
 The overhead expense is being cared for by the city and state, but each racial or national group is expected to defray the expenses of its own exhibit and pageants.

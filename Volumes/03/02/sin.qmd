@@ -35,6 +35,14 @@ categories:
   - "Religion & Morality"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1911-12_3_2/sim_crisis_1911-12_3_2.pdf">
+    <img src="/Images/1911-12_3_2.jpg" alt="Cover of The Crisis, December 1911">
+  </a>
+  <p><em>The Crisis</em><br>December 1911</p>
+</div>
+```
 "He doesn't really believe what he says---he wants the same things that you want, but you see he has to talk this way." 
 
 "Tillman? Oh, Tillman is a good friend of Negroes---his anti-Negro talk is just for political effect." And so forth. The young man then sits back and eyes us pleasantly. He considers that what he says is explanation and excuse. Is it not perfectly clear that men are often "in a position" where they must say what they do not for a moment believe? Well, does not this fact explain and excuse their actions and utterances?

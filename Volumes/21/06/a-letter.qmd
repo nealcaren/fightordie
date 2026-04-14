@@ -39,6 +39,14 @@ categories:
   - "Segregation"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1921-04_21_6/sim_crisis_1921-04_21_6.pdf">
+    <img src="/Images/1921-04_21_6.jpg" alt="Cover of The Crisis, April 1921">
+  </a>
+  <p><em>The Crisis</em><br>April 1921</p>
+</div>
+```
 Mrs. Paul Gaston Darrot,</br>
 National Board, Y.W.C.A.
 

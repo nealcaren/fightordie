@@ -36,6 +36,14 @@ categories:
   - "Religion & Morality"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1912-10_4_6/sim_crisis_1912-10_4_6.pdf">
+    <img src="/Images/1912-10_4_6.jpg" alt="Cover of The Crisis, October 1912">
+  </a>
+  <p><em>The Crisis</em><br>October 1912</p>
+</div>
+```
 This is the Children's Number, and as it has grown and developed in the
 editor's hesitating hands, it has in some way come to seem a typical
 rather than a special number. Indeed, there is a sense in which all

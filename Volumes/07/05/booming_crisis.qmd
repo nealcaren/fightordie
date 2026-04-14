@@ -40,6 +40,14 @@ categories:
   - "Internal Debate"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1914-03_7_5/sim_crisis_1914-03_7_5.pdf">
+    <img src="/Images/1914-03_7_5.jpg" alt="Cover of The Crisis, March 1914">
+  </a>
+  <p><em>The Crisis</em><br>March 1914</p>
+</div>
+```
 The Washington *Bee,* a weekly colored periodical has been stirred to its
 vitals by the fear that the money collected in Washington and elsewhere
 for the National Association for the Advancement of Colored People is

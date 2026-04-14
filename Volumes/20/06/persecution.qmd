@@ -38,6 +38,14 @@ categories:
   - "Internal Debate"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1920-10_20_6/sim_crisis_1920-10_20_6.pdf">
+    <img src="/Images/1920-10_20_6.jpg" alt="Cover of The Crisis, October 1920">
+  </a>
+  <p><em>The Crisis</em><br>October 1920</p>
+</div>
+```
 ## Persecution
 
 <span class="crisis-title">The Crisis</span> has said nothing concerning the extraordinary persecution of Roscoe Conkling Bruce in Washington. No one can accuse <span class="crisis-title">The Crisis</span> of being partisan to Mr. Bruce, because it has at times frankly disagreed with him and his policies. But the situation in Washington has gone far beyond all personal consideration and has become a national disgrace---a feud which is doing much to discredit us as a civilized group.

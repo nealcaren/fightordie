@@ -40,6 +40,14 @@ categories:
   - "Labor & Economics"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1914-07_8_3/sim_crisis_1914-07_8_3.pdf">
+    <img src="/Images/1914-07_8_3.jpg" alt="Cover of The Crisis, July 1914">
+  </a>
+  <p><em>The Crisis</em><br>July 1914</p>
+</div>
+```
 If the Negroes are to keep what little they have gained in the right to occupy decent dwelling places on the island of Manhattan, they would better be up and doing.
 
 For a long time the widespread conspiracy of real-estate agencies has been seeking to attack the dwelling places of colored people in Harlem. Every effort has been made artificially to depress the value of real estate in that section, and financial institutions, including those which carry thousands of dollars belonging to colored people on deposit, have refused to renew the most reasonable mortgage propositions. If the Negro was a large capitalist like the Jew he could reap great advantage from this campaign by simply buying up this depressed property. Some day, through widespread co-operation, colored people will learn to do this.

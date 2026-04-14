@@ -42,6 +42,14 @@ categories:
   - "Education"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1932-11_39_11/sim_crisis_1932-11_39_11.pdf">
+    <img src="/Images/1932-11_39_11.jpg" alt="Cover of The Crisis, November 1932">
+  </a>
+  <p><em>The Crisis</em><br>November 1932</p>
+</div>
+```
 If someone should give you a million dollars to spend in the settlement of the Negro problem over a period of twenty years, how would you spend it? 
 
 One piquant answer to this question is furnished by the Twenty Year Report of the Phelps stokes Fund, showing its activities from 1911 to 1931. During that time, the Fund has disbursed $1,244,447.55. If we subtract from this the expenses of administration and certain sums spent exclusively for white folk and American Indians, we have a net sum of $929,010 spent for Negroes. 

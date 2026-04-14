@@ -38,6 +38,14 @@ categories:
   - "Segregation"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1930-02_37_2/sim_crisis_1930-02_37_2.pdf">
+    <img src="/Images/1930-02_37_2.jpg" alt="Cover of The Crisis, February 1930">
+  </a>
+  <p><em>The Crisis</em><br>February 1930</p>
+</div>
+```
 The Raleigh, North Carolina *Times* tells Antonio M. Roper, a student at St. Augustine's College, that it will not capitalize "Negro" because it does not capitalize "white." This logic is beneath contempt. The word corresponding to "white" is "black" or "colored," while the words corresponding to Negro are Caucasian, Mongolian, Nordic, Indian, Jewish, European, African, American, and similar words referring to great groups of people. This, of course, will not influence the Editor of the Raleigh *Times*. He spells it "negro," because that is the way he thinks. 
 
 <!-- Similar articles start here -->

@@ -42,6 +42,14 @@ categories:
   - "Pan-Africanism & Empire"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1919-02_17_4/sim_crisis_1919-02_17_4.pdf">
+    <img src="/Images/1919-02_17_4.jpg" alt="Cover of The Crisis, February 1919">
+  </a>
+  <p><em>The Crisis</em><br>February 1919</p>
+</div>
+```
 Europe had begun to look with covetous eyes toward Africa as early as 1415 when the Portuguese at the Battle of Ceuta gained a foothold in Morocco. Thereafter Prince Henry of Portugal instituted the series of explorations which resulted not only in the discovery of Cape Verde, the Guinea Coast and the Cape of Good Hope, but by 1487 gave to Portugal the possession of a very fair slice of the African East Coast. This was the beginning of the Portuguese Colonies of Guinea, Angola and East Africa. Other European nations, France, Holland, Spain, England and Denmark, followed and set up trading stations along the African coast whose chief reason for existence was the fostering of the slave trade.
 
 But the partition of Africa as we know it is much more recent and begins with the founding in 1884 of the Congo Free State whose inception was so zealously fostered by Leopold of Belgium and which in 1908 was annexed to Belgium. The "scramble" for African colonies was on and within a quarter of a century Africa was virtually in the hands of Europe.

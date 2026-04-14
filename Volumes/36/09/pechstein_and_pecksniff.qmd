@@ -43,6 +43,14 @@ categories:
   - "Segregation"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1929-09_36_9/sim_crisis_1929-09_36_9.pdf">
+    <img src="/Images/1929-09_36_9.jpg" alt="Cover of The Crisis, September 1929">
+  </a>
+  <p><em>The Crisis</em><br>September 1929</p>
+</div>
+```
 Dr. R.L.A. Pechstein of the University of Cincinnati last February made a Report at the National Society of College Teachers meeting in Cleveland. His thesis was that the "Segregation of Negro and white children in separate schools accomplished far more for the black race than can be gained in mixed classes." 
 
 He stated that among Negroes there were two opinions: That the Radicals ask for mixed schools, and the Conservatives want separate schools. His basis of fact was that Negro high schools had more Negro graduates than mixed high schools; that a study of 100 Negroes of eminence showed that 83 per cent attended separate elementary schools, and that about half attended mixed colleges; a study of 3,000 Negro pupils showed much mental deficiency and retardation, calling for special classes. 

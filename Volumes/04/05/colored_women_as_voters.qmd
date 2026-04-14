@@ -33,6 +33,14 @@ categories:
   - "Voting & Elections"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1912-09_4_5/sim_crisis_1912-09_4_5.pdf">
+    <img src="/Images/1912-09_4_5.jpg" alt="Cover of The Crisis, September 1912">
+  </a>
+  <p><em>The Crisis</em><br>September 1912</p>
+</div>
+```
 More and mocre colored women are studying public questions and civics. As they gain information and have experience in their daily vocations and in their efforts for human betterment they are convinced, as many other women have long ago been convinced, that their efforts would be more telling if women had the vote.
 
 The fashion of saying "I do not care to meddle with politics" is disappearing among the colored woman faster than most people think, for this same woman has learned that politics meddle constantly with her and hers.

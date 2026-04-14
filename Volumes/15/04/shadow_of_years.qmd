@@ -43,6 +43,14 @@ categories:
   - "Retrospective"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1918-02_15_4/sim_crisis_1918-02_15_4.pdf">
+    <img src="/Images/1918-02_15_4.jpg" alt="Cover of The Crisis, February 1918">
+  </a>
+  <p><em>The Crisis</em><br>February 1918</p>
+</div>
+```
 The most disquieting sign of my mounting years is a certain garrulity about myself, quite foreign to my young days. I find a growing tendency to fix innocent listeners with my stern eye, despite their all too evident longing to escape, and to tell them what life has meant to me. In this case I have been most easily persuaded that <span style="small-caps">Crisis</span> readers are more than anxious to know about me, simply because I am having a birthday. *Selah!* 
 
 I was born by a golden river and in the shadow of two great hills, five years after the Emancipation Proclamation. The house was quaint, with clap-boards running up and down, neatly trimmed, and there were five rooms, a tiny porch, a rosy front yard, and unbelievably delicious strawberries in the rear. A South Carolinian owned all this---tall, thin, and black, with golden earrings, and given to religious trances. My own people were poor. I never remember being cold or hungry, but I do remember that shoes and coal and flour caused mother moments of anxious thought in winter; a new suit was an event. 

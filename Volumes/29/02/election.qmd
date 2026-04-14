@@ -28,8 +28,8 @@ events:
 citation: 
   type: article-journal
   container-title: The Crisis
-  volume: 291
-  issue: 29
+  volume: 29
+  issue: 2
   page: 55-56
 google-scholar: true
 
@@ -42,6 +42,14 @@ categories:
   - "Voting & Elections"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1924-12_29_2/sim_crisis_1924-12_29_2.pdf">
+    <img src="/Images/1924-12_29_2.jpg" alt="Cover of The Crisis, December 1924">
+  </a>
+  <p><em>The Crisis</em><br>December 1924</p>
+</div>
+```
 # The Election
 
 Looking back on the election what have Negro Americans gained and lost?

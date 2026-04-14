@@ -34,6 +34,14 @@ categories:
   - "Education"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1934-03_41_3/sim_crisis_1934-03_41_3.pdf">
+    <img src="/Images/1934-03_41_3.jpg" alt="Cover of The Crisis, March 1934">
+  </a>
+  <p><em>The Crisis</em><br>March 1934</p>
+</div>
+```
 That we continually face in this problem of race segregation in the United States is a paradox like this:
 
 1. Compulsory separation of human beings by essentially artificial criteria, such as birth, nationality, language, color and race, is the cause of human hate, jealousy and war, and the destruction of talent and art.    

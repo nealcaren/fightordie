@@ -43,6 +43,14 @@ categories:
   - "Labor & Economics"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1917-09_14_5/sim_crisis_1917-09_14_5.pdf">
+    <img src="/Images/1917-09_14_5.jpg" alt="Cover of The Crisis, September 1917">
+  </a>
+  <p><em>The Crisis</em><br>September 1917</p>
+</div>
+```
 ![](../../../Images/mesl_1.jpg)
 
 ***The National Association for the Advancement of Colored People 70 Fifth Avenue, New York, sent Martha Gruening and W. E. Burghardt Du Bois to East St. Louis, as special investigators of the recent outrages. These two collected in person the facts and pictures from which this article is compiled.***

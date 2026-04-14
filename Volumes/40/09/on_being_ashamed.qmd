@@ -39,6 +39,14 @@ categories:
   - "Segregation"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1933-09_40_9/sim_crisis_1933-09_40_9.pdf">
+    <img src="/Images/1933-09_40_9.jpg" alt="Cover of The Crisis, September 1933">
+  </a>
+  <p><em>The Crisis</em><br>September 1933</p>
+</div>
+```
 My Grandfather left a passage in his diary expressing his indignation at receiving an invitation to a "Negro" picnic. Alexander DuBois, born in the Bahamas, son of Dr. James DuBois of the well-known DuBois family of Poughkeepsie, N. Y., had been trained as a gentleman in the Cheshire School of Connecticut, and the implications of a Negro picnic were anathema to his fastidious soul. It meant close association with poverty, ignorance and suppressed and disadvantaged people, dirty and with bad manners.
 
 This was in 1856. Seventy years later, Marcus Garvey discovered that a black skin was in itself a sort of patent to nobility, and that Negroes ought to be proud of themselves and their ancestors, for the same or analogous reasons that made white folk feel superior.

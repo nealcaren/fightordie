@@ -41,6 +41,14 @@ categories:
   - "Education"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1913-06_6_2/sim_crisis_1913-06_6_2.pdf">
+    <img src="/Images/1913-06_6_2.jpg" alt="Cover of The Crisis, June 1913">
+  </a>
+  <p><em>The Crisis</em><br>June 1913</p>
+</div>
+```
 The logical end of hatred is murder. Race prejudice is traditional hatred of human beings. Its end is lynching, war and extermination.
 
 To say this thus bluntly and brutally is to invite strong denial. Race prejudice has often been professed by men of highest ideal and motive who would shrink at violence of any kind. But this is because such men are deliberately illogical, and their followers in the long run are not illogical, but carry their leaders' doctrine to the bitter end. For instance, it is said this group of people are inferior to my group. Therefore, they are not entitled to the same privileges. But suppose they demand rights beyond their desert; then refuse them; if they keep demanding, silence them by law; if legal means do not keep them in their place, mob law is justifiable.

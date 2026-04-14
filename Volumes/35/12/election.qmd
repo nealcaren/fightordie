@@ -43,6 +43,14 @@ categories:
   - "Voting & Elections"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1928-12_35_12/sim_crisis_1928-12_35_12.pdf">
+    <img src="/Images/1928-12_35_12.jpg" alt="Cover of The Crisis, December 1928">
+  </a>
+  <p><em>The Crisis</em><br>December 1928</p>
+</div>
+```
 Herbert Hoover and our only hope lies in the smashed and riven "white primary" of the lower South and the faint but heartening promise of the Socialist Third Party. 
 
 Meantime, we congratulate Oscar DePriest, the first Negro Congressman from the North and the first Negro in Congress for a generation. He represents a vicious political machine, but he cannot be nearly as bad as the white men who run that machine and have been elected to rule Chicago. Moreover, unless Tammany, Thompson and Vare give us a political chance, who will? Not Hoover. Not Smith. 

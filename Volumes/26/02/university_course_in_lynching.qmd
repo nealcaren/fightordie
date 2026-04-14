@@ -43,6 +43,14 @@ categories:
   - "Education"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1923-06_26_2/sim_crisis_1923-06_26_2.pdf">
+    <img src="/Images/1923-06_26_2.jpg" alt="Cover of The Crisis, June 1923">
+  </a>
+  <p><em>The Crisis</em><br>June 1923</p>
+</div>
+```
 We are glad to note that the University of Missouri has opened a course in Applied Lynching. Many of our American Universities have long defended the institution, but they have not been frank or brave enough actually to arrange a mob murder so that the students could see it in detail.
 
 

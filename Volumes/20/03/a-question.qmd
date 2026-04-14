@@ -43,6 +43,14 @@ categories:
   - "Religion & Morality"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1920-07_20_3/sim_crisis_1920-07_20_3.pdf">
+    <img src="/Images/1920-07_20_3.jpg" alt="Cover of The Crisis, July 1920">
+  </a>
+  <p><em>The Crisis</em><br>July 1920</p>
+</div>
+```
 Consider, my pale friends, what should be done in cases such as these:
 
 At the recent convention of the Y.W.C.A. at Cleveland a final banquet was arranged at the Hotel Statler. This hotel refused to admit the forty colored delegates who were in attendance. Instead of removing the banquet to any one of several other first class hotels which have never drawn the color line, a separate banquet for the colored delegates was given in the dining-room of the Y.W.C.A.

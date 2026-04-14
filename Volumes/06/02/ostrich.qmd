@@ -34,6 +34,14 @@ categories:
   - "The South"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1913-06_6_2/sim_crisis_1913-06_6_2.pdf">
+    <img src="/Images/1913-06_6_2.jpg" alt="Cover of The Crisis, June 1913">
+  </a>
+  <p><em>The Crisis</em><br>June 1913</p>
+</div>
+```
 Some folks are mental ostriches. We are not referring to their intellectual digestions, although there we realize is room for a whole. We are referring now to the method of mind that is able to persuade itself that the unseen is non-existent. An astounding number of people rushing through earth's deserts escape the evil that haunts them by sticking their heads in a hole in the ground and saying insistingly: "I don't believe it, and even if it is true I won't regard it."
 
 Now the world is without doubt full of things, incidents, thoughts, men that are best disregarded; that are best unheard, unseen, ignored. But make no mistake, friend of the unseeing eye, for there is evil in the world which may not be ignored and that cannot be escaped by sticking our heads in the ground and closing our eyes. 

@@ -39,6 +39,14 @@ categories:
   - "Voting & Elections"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1922-01_23_3/sim_crisis_1922-01_23_3.pdf">
+    <img src="/Images/1922-01_23_3.jpg" alt="Cover of The Crisis, January 1922">
+  </a>
+  <p><em>The Crisis</em><br>January 1922</p>
+</div>
+```
 Mr. Perry Howard complains because <span class="crisis-title">The Crisis</span> said concerning his appointment to the United States Department of Justice: "The appointment given Mr. Perry Howard was one that we wish Mr. Howard had been able to refuse, as it is too unimportant and inadequate to be at all representative."
 
 Mr. Howard informs us that his office is important; that it is not "Jim-Crowed"; that he has charge, as counsel for the Government, of all railroads suits brought against it in the United States Court of Claims; that he has an assistant in the person of Captain L. R. Mehlinger, a trained young colored attorney; and that his work is that of practitioner and counsel and has not the least semblance of any clerical position.

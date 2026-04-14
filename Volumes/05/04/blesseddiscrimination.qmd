@@ -36,6 +36,14 @@ categories:
   - "Labor & Economics"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1913-02_5_4/sim_crisis_1913-02_5_4.pdf">
+    <img src="/Images/1913-02_5_4.jpg" alt="Cover of The Crisis, February 1913">
+  </a>
+  <p><em>The Crisis</em><br>February 1913</p>
+</div>
+```
 A good friend sends us this word:
 > As an optimist of <span class="crisis-title">The Crisis</span> persuasion, I find myself more or less frequently engaged in arguments on the eternal race question. Here is an argument I am often called upon to meet: "Jim Crow" laws make us save money; discrimination makes us appreciate and patronize our own; segregation gives our business men a chance; separate schools give our girls and boys something to work for. Possibly there are many doubtful minds who would be benefited by a word from you on this subject through the columns of <span class="crisis-title">The Crisis</span>.
 

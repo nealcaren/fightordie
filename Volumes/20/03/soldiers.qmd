@@ -39,6 +39,14 @@ categories:
   - "Segregation"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1920-07_20_3/sim_crisis_1920-07_20_3.pdf">
+    <img src="/Images/1920-07_20_3.jpg" alt="Cover of The Crisis, July 1920">
+  </a>
+  <p><em>The Crisis</em><br>July 1920</p>
+</div>
+```
 The statement by the Secretary of War in this number is a most disappointing pronouncement. It means that the Negro-hating section of the General Staff has had its way and that Negroes in the National Guard are not to be treated as soldiers; that, taking advantage of a strained interpretation of the law, Negro militia is not to be organized as an integral part of the state guard, but is to be regarded as potentially in separate divisions. This, however, would call for training in all arms of the service and by inference it would demand Negro officers. To avoid this the Negro militia units are to be admitted to none of the arms of the service but organized as "pioneers" from which in case of stress either laborers or real soldiers could be recruited.
 
 If the United States Army used half as much brains and ingenuity to make an effective fighting machine as it uses to exclude the Negro as an officer and soldier it might in time escape the derision of the military world.

@@ -39,6 +39,14 @@ categories:
   - "Voting & Elections"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1922-02_23_4/sim_crisis_1922-02_23_4.pdf">
+    <img src="/Images/1922-02_23_4.jpg" alt="Cover of The Crisis, February 1922">
+  </a>
+  <p><em>The Crisis</em><br>February 1922</p>
+</div>
+```
 Some persons continue to admonish the Negro that political power is not omnipotent, and that without it much may be done to uplift the people; while with it, much may be left undone. The real answer to this argument lies in the facts, and Mr. S. D. Redmond of Jackson, Mississippi, has furnished some facts to the editor of the *Commercial Appeal*, Memphis, Tenn., which the editor did not see fit to publish.
 
 Mr. Redmond points, for instance, to the fact that in Mississippi there are 525 consolidated rural schools combining grammar and high school grades, teaching vocal and instrumental music, domestic science and manual training. They have free teachers' homes and agricultural experiment plots, and 200 auto cars transport pupils to these schools at a cost of $99,477 a month. And yet, while 525 of these schools are furnished to the 175,000 *white* school children of the state, *not a single one* is furnished to the 200,000 colored children.

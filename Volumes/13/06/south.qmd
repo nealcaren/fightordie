@@ -39,6 +39,14 @@ categories:
   - "Literary Writing"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1917-04_13_6/sim_crisis_1917-04_13_6.pdf">
+    <img src="/Images/1917-04_13_6.jpg" alt="Cover of The Crisis, April 1917">
+  </a>
+  <p><em>The Crisis</em><br>April 1917</p>
+</div>
+```
 One feels the ground swell and the restless, persistent motion; little new sky-scrapers rise suddenly like warts in little cities; "Suburban developments" crown bare hills; men are beginning to hurry around; and through all and with all are nervous black folk, working, saving, migrating, protesting, or sullenly viewing the land with great, sad eyes, or swaggering bravado. An empire is building here but the building stones are yet as unshaped and bloody as ever went to the making of any cruel and short-lived garden of Babylon.
 
 <!-- Similar articles start here -->

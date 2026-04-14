@@ -37,6 +37,14 @@ categories:
   - "Voting & Elections"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1912-06_4_2/sim_crisis_1912-06_4_2.pdf">
+    <img src="/Images/1912-06_4_2.jpg" alt="Cover of The Crisis, June 1912">
+  </a>
+  <p><em>The Crisis</em><br>June 1912</p>
+</div>
+```
 The woman suffragists are wincing a bit under the plain speaking of  <span class="crisis-title">The Crisis</span>. President Anna Shaw writes us:
 
 

@@ -36,6 +36,14 @@ categories:
   - "War & Military"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1918-08_16_4/sim_crisis_1918-08_16_4.pdf">
+    <img src="/Images/1918-08_16_4.jpg" alt="Cover of The Crisis, August 1918">
+  </a>
+  <p><em>The Crisis</em><br>August 1918</p>
+</div>
+```
 FIRST, This is Our Country:
 
 We have worked for it, we have suffered for it, we have fought for it; we have made its music, we have tinged its ideals, its poetry, its religion, its dreams; we have reached in this land our highest modern development and nothing, humanly speaking, can prevent us from eventually reaching here the full stature of our manhood. Our country is at war. The war is critical, dangerous and worldwide. If this is OUR country, then this is OUR war. We must fight it with every ounce of blood and treasure.

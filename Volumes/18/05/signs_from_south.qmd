@@ -40,6 +40,14 @@ categories:
   - "The South"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1919-09_18_5/sim_crisis_1919-09_18_5.pdf">
+    <img src="/Images/1919-09_18_5.jpg" alt="Cover of The Crisis, September 1919">
+  </a>
+  <p><em>The Crisis</em><br>September 1919</p>
+</div>
+```
 There are signs---faint and few, but hopeful---that the South is slowly learning the inevitable lesson that no true democracy can be confined to a sex or a race and live.
 
 In Putnam County, Ga., because a Negro made "some insulting remarks about serving white people and not serving a Negro," the enraged whites burned five Negro churches, two Negro schools and one schoolhouse. Immediately the more decent whites offered $1,100 reward for the criminals and started a fund of $5,000 toward rebuilding. Of course, no one will ever be punished for the arson, but the community did speak out in clear condemnation.

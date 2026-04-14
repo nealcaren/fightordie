@@ -36,6 +36,14 @@ categories:
   - "Pan-Africanism & Empire"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1914-11_9_1/sim_crisis_1914-11_9_1.pdf">
+    <img src="/Images/1914-11_9_1.jpg" alt="Cover of The Crisis, November 1914">
+  </a>
+  <p><em>The Crisis</em><br>November 1914</p>
+</div>
+```
 <div class="poem">
 <p class = "verse">Dark daughter of the lotus leaves that watch the Southern sea,</p>
 <p class = "verse">Wan spirit of a prisoned soul a-panting to be free;</p>

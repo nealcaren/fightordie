@@ -40,6 +40,14 @@ categories:
   - "Segregation"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1914-08_8_4/sim_crisis_1914-08_8_4.pdf">
+    <img src="/Images/1914-08_8_4.jpg" alt="Cover of The Crisis, August 1914">
+  </a>
+  <p><em>The Crisis</em><br>August 1914</p>
+</div>
+```
 Boxing is an ancient sport. It is mentioned in Homer's Iliad and Virgil's
 Aeneid and was a recognized branch of the celebrated Olympic games.
 During the middle age boxing went out of style among most nations, the

@@ -39,6 +39,14 @@ categories:
   - "Segregation"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1918-11_17_1/sim_crisis_1918-11_17_1.pdf">
+    <img src="/Images/1918-11_17_1.jpg" alt="Cover of The Crisis, November 1918">
+  </a>
+  <p><em>The Crisis</em><br>November 1918</p>
+</div>
+```
 Letters
 
 A young southern white woman writes us:

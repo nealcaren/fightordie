@@ -36,6 +36,14 @@ categories:
   - "Pan-Africanism & Empire"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1925-12_31_2/sim_crisis_1925-12_31_2.pdf">
+    <img src="/Images/1925-12_31_2.jpg" alt="Cover of The Crisis, December 1925">
+  </a>
+  <p><em>The Crisis</em><br>December 1925</p>
+</div>
+```
 In the fight for human rights across the color bar where is the firing line? In the United States, in the West Indies, or in Africa?
 
 Many sincere persons seem to think that this line is in Africa. This is not so. It may be so one hundred years from now but today Europe has so manipulated matters that the fight for rights in Africa is exceedingly difficult. The European countries with the army, the navy and the police in their hands; with their domination of the courts; with their ownership of capital and commerce and all lines of communication make any effort at uplift and reform a matter of disloyalty and rebellion which can bring summary punishment of the most violent sort. Free speech is impossible. There is no right to vote in the larger part of Africa. Consequently the fighting line-in Africa reduces itself to appeals to far-off powers who may perhaps never hear the appealing voices. Or it is a matter of revolt with every chance in favor of the oppressor. No, the firing line today is not in Africa.

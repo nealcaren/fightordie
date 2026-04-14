@@ -41,6 +41,14 @@ categories:
   - "Segregation"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1934-05_41_5/sim_crisis_1934-05_41_5.pdf">
+    <img src="/Images/1934-05_41_5.jpg" alt="Cover of The Crisis, May 1934">
+  </a>
+  <p><em>The Crisis</em><br>May 1934</p>
+</div>
+```
 In recent years, it has been my custom to visit Chicago and regions about it, at least once a year, and to use the excuse of lecturing in order to become acquainted again, at first hand, with the great Middle West. It is painfully easy in the United States for a great metropolis to mistake itself for the nation. This was once true of Boston. In some respects, it is true of Washington. Nearly always, it is true of New York; and the great difficulty of argument and understanding for the nation today, is that with the concentration of power and brains in New York, it is so easily assumed that there is no power, that there are no centers of thought and development outside of Manhattan Island.
 
 This year and last, I have not only viewed the national scene from Georgia, but also gone for brief visits into Alabama, Louisiana, Tennessee and Texas. And finally, I took a trip West in March.

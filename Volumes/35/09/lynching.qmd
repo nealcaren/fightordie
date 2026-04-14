@@ -39,6 +39,14 @@ categories:
   - "Racial Violence"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1928-09_35_9/sim_crisis_1928-09_35_9.pdf">
+    <img src="/Images/1928-09_35_9.jpg" alt="Cover of The Crisis, September 1928">
+  </a>
+  <p><em>The Crisis</em><br>September 1928</p>
+</div>
+```
 ![](images/melbourne_lynching.jpg){width=40% .right}
 
 In the annual address to the country issued by the N.A.A.C.P., we congratulated the United States because one period of one hundred and twenty days passed without a Negro being lynched. It seems that after all we were wrong. Here is the photograph of a man lynched in Florida "sometime during the latter part of February or the first of March". The snapshot was taken by a travelling salesman who had the film developed at Melbourne, Alabama, and then gave a copy to a colored police officer. We have been able to get no further information. We do not know what the name of the man who was lynched was or of what he was accused. He is evidently a well-dressed person and the hand-cuffs on his wrists show that he was in the custody of the officers of the law when murdered.

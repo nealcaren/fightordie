@@ -39,6 +39,14 @@ categories:
   - "Internal Debate"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1918-09_16_5/sim_crisis_1918-09_16_5.pdf">
+    <img src="/Images/1918-09_16_5.jpg" alt="Cover of The Crisis, September 1918">
+  </a>
+  <p><em>The Crisis</em><br>September 1918</p>
+</div>
+```
 The leading editorial in the July <span class="crisis-title">Crisis</span>, called "[Close Ranks](../03/close_ranks.html)," has been the subject of much comment. To a few it has seemed to indicate some change of position on the part of the National Association for the Advancement of Colored People and <span class="crisis-title">Crisis</span>. It is needless to say that it indicates nothing of the sort. This Association and this magazine stand today exactly where they have stood during the eight years of their work; viz., for the full manhood rights of the American Negro.
 
 The July editorial is not in the slightest degree inconsistent with these principles. It was submitted to prominent members and officers of the board before printing and found no objection.

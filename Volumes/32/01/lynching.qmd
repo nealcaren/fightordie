@@ -40,6 +40,14 @@ categories:
   - "Racial Violence"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1926-05_32_1/sim_crisis_1926-05_32_1.pdf">
+    <img src="/Images/1926-05_32_1.jpg" alt="Cover of The Crisis, May 1926">
+  </a>
+  <p><em>The Crisis</em><br>May 1926</p>
+</div>
+```
 Every 23 days a man is lynched in America and we say lynching is over because once we lynched two men every three days. The situation is still intolerable and uncivilized. The Southern states are still incapable of punishing lynchers. Even men whom the courts have declared innocent have been seized by mobs and lynched and then those same courts were unable to punish the lynchers.
 
 The Dyer Anti-Lynching Bill is before the Congress. The South is cowering and complaining. The Galveston *News* calls it "legislation by revenge." The Columbia, S. C. *State* calls it "rotten politics" to "incite race feeling." The Houston, Texas *Post* sees an "invasion" of state rights. The New Orleans *Picayune* declares it "unconstitutional," etc.

@@ -34,6 +34,14 @@ categories:
   - "Pan-Africanism & Empire"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1913-10_6_6/sim_crisis_1913-10_6_6.pdf">
+    <img src="/Images/1913-10_6_6.jpg" alt="Cover of The Crisis, October 1913">
+  </a>
+  <p><em>The Crisis</em><br>October 1913</p>
+</div>
+```
 Her soul was very beautiful, wherefore she kept it veiled in lightly
 laced Humility, and Fear, out of which peered anxiously ever and anon
 the white and blue and pale gold of her face --- beautiful as daybreak or

@@ -36,6 +36,14 @@ categories:
   - "Labor & Economics"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1914-01_7_3/sim_crisis_1914-01_7_3.pdf">
+    <img src="/Images/1914-01_7_3.jpg" alt="Cover of The Crisis, January 1914">
+  </a>
+  <p><em>The Crisis</em><br>January 1914</p>
+</div>
+```
 We will suppose, dear reader, that you are "Free, white and twenty-one;" that you are reasonably patriotic and would rather the world grew
 better than worse.
 

@@ -41,6 +41,14 @@ categories:
   - "Art & Culture"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1922-01_23_3/sim_crisis_1922-01_23_3.pdf">
+    <img src="/Images/1922-01_23_3.jpg" alt="Cover of The Crisis, January 1922">
+  </a>
+  <p><em>The Crisis</em><br>January 1922</p>
+</div>
+```
 The Negro race as an interpreter of beauty to the world is gradually coming to its own. Not only are our musicians like Burleigh and Dett pursuing their high and successful career, but we are beginning to be listened to in painting and sculpture. Pageantry is appearing and the white artist and writer is beginning to discover us as human beings and not as conventional lay figures. Recently in New York City there was held in the branch of the public library which is in Harlem, an exhibit of Negro art with specimens of the work of H.O. Tanner, Laura Wheeler, W.M. Farrow, Richard Lonsdale Brown, W.E. Scott, Louise Lattimer, Meta Fuller and many others. The exhibit was a revelation in its accomplishment and a promise in its originality and beauty.
 
 <!-- Similar articles start here -->

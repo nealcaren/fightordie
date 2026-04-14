@@ -41,6 +41,14 @@ categories:
   - "Pan-Africanism & Empire"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1920-09_20_5/sim_crisis_1920-09_20_5.pdf">
+    <img src="/Images/1920-09_20_5.jpg" alt="Cover of The Crisis, September 1920">
+  </a>
+  <p><em>The Crisis</em><br>September 1920</p>
+</div>
+```
 # The History of Haiti
 
 Haiti, one of the most beautiful islands in the world, was discovered by Christopher Columbus, December 6, 1492. The Spaniards enslaved and killed the Indian inhabitants until in 1511 only 14,000 of the original million were left. French pirates began to frequent the island in the seventeenth century and in 1663 the French annexed the eastern part and since then the island has been divided into Spanish and French halves, the former known as Santo Domingo and the latter as Haiti. African slaves were introduced and for a while cruelty, murder and desperate revolts took place all over the island.

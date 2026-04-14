@@ -42,6 +42,14 @@ categories:
   - "Pan-Africanism & Empire"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1922-03_23_5/sim_crisis_1922-03_23_5.pdf">
+    <img src="/Images/1922-03_23_5.jpg" alt="Cover of The Crisis, March 1922">
+  </a>
+  <p><em>The Crisis</em><br>March 1922</p>
+</div>
+```
 India has been called a land of saints, the home of religions, and, living up to her well earned reputation, she produces in our own time a man who from sheer impeccability of character, and extraordinary personality, and from loftiness and originality of doctrine and ideas, takes rank at once among the great men of the world whose mark is high enough to make for them a permanent niche in the repository of the benefactors of mankind. 
 
 No man who is in the least interested in the throbbing mass of peoples of the earth can fail to take notice of this exceptional soul called forth by a great need and destined to make a significant contribution to the very human effort which man is putting forth to get himself out of the encircling gloom into the promised land. I say "destined," but that is to detract from the glory which already enshrines Mohandas Karamchand Gandhi. I should speak in the present instead of the future tense, for the man about whom I write, not only will be but is indeed he is so vital a factor that  he is called at once the most dangerous yet the most beloved man in India today. 

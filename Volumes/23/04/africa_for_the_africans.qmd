@@ -41,6 +41,14 @@ categories:
   - "Pan-Africanism & Empire"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1922-02_23_4/sim_crisis_1922-02_23_4.pdf">
+    <img src="/Images/1922-02_23_4.jpg" alt="Cover of The Crisis, February 1922">
+  </a>
+  <p><em>The Crisis</em><br>February 1922</p>
+</div>
+```
 The Associated Press in a Paris dispatch, put into the mouth of the editor a statement that a colored Americans could not withstand the African climate, could not oust the Europeans, and did not desire to do so.
 
 It ought to go without saying that the editor never made any such statement. The American Negro is just as able to withstand the African climate as American white men and no more able. The climate is severe and trying, but a healthy man who follows the rules of tropical hygiene can live there. There is, therefore, no necessary barrier of climate to keep American Negroes out of Africa.

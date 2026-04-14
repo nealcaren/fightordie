@@ -38,6 +38,14 @@ categories:
   - "Art & Culture"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1921-02_21_4/sim_crisis_1921-02_21_4.pdf">
+    <img src="/Images/1921-02_21_4.jpg" alt="Cover of The Crisis, February 1921">
+  </a>
+  <p><em>The Crisis</em><br>February 1921</p>
+</div>
+```
 We have good authority for stating that 65% of the phonograph records made for the Southern trade by a well-known company are sold to colored people. Nevertheless, this company employs only one colored artist regularly and only occasionally a colored orchestra or quartet. All these musicians are confined strictly to a certain class of music and on no account are they allowed to attempt anything else, no matter what their gifts or ability.
 
 This company, however, is much more liberal than most phonograph companies. They have thousands of white singers under contract and pay them hundreds of thousands of dollars annually, and yet no colored singer may apply even for their Negro music.

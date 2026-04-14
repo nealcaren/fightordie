@@ -37,6 +37,14 @@ categories:
   - "Voting & Elections"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1933-05_40_5/sim_crisis_1933-05_40_5.pdf">
+    <img src="/Images/1933-05_40_5.jpg" alt="Cover of The Crisis, May 1933">
+  </a>
+  <p><em>The Crisis</em><br>May 1933</p>
+</div>
+```
 Scottsboro is the perfect fruit of a generation of organized lying concerning conditions in the South.
 
 It is doubtful if anybody believes that these young, ignorant Negroes were guilty of any crime; but, on the other hand, in order to defend the judicial system of the South; in order to protect manipulation of juries and political rotten boroughs; in order to uphold the integrity of the white race; it is necessary for public officials to go into court and to swear that Negroes may and do serve on juries in Alabama; that the testimony of a poor social outcast is to be believed to the extent of murdering seven human beings, and that the courts of Alabama seek to give fair and exact justice to colored persons who are arrested!

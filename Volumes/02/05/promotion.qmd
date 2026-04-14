@@ -40,6 +40,14 @@ categories:
   - "The South"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1911-09_2_5/sim_crisis_1911-09_2_5.pdf">
+    <img src="/Images/1911-09_2_5.jpg" alt="Cover of The Crisis, September 1911">
+  </a>
+  <p><em>The Crisis</em><br>September 1911</p>
+</div>
+```
 Complacent people sit before
 race prejudice with folded hands. How unfortunate, they say, but how unchangeable! Then they select the appropriate adverbs "always" and "never" to show the impossibility of great change in. such human attitudes within any reasonable time.
 

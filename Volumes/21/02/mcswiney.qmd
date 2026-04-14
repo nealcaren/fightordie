@@ -40,6 +40,14 @@ categories:
   - "Pan-Africanism & Empire"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1920-12_21_2/sim_crisis_1920-12_21_2.pdf">
+    <img src="/Images/1920-12_21_2.jpg" alt="Cover of The Crisis, December 1920">
+  </a>
+  <p><em>The Crisis</em><br>December 1920</p>
+</div>
+```
 The veriest coward may die for a cause in the frenzy of battle with court martial and disgrace behind him and flaming medals in front. A brave man may rush to his death at sudden call in time of peace. But the bravest of the brave is he who without hurt or hate simply lies still and for the sake of Right dies by inches through endless days. No cause with such martyrs can ever die.
 
 ::: {.column-margin}

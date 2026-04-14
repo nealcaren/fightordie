@@ -38,6 +38,14 @@ categories:
   - "Segregation"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1920-02_19_4/sim_crisis_1920-02_19_4.pdf">
+    <img src="/Images/1920-02_19_4.jpg" alt="Cover of The Crisis, February 1920">
+  </a>
+  <p><em>The Crisis</em><br>February 1920</p>
+</div>
+```
 At the time of the Chicago riots, Medill McCormack, United States Congressman from Illinois, was reported as follows in an interview:
 
 > Thousands of these colored boys came to Chicago from the South. They were used to being handled without concern down there, and when they came to Chicago, they had a kind of an idea that they could sit in your lap, or do anything they pleased.    

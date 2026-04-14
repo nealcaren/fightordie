@@ -35,6 +35,14 @@ categories:
   - "Education"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1917-10_14_6/sim_crisis_1917-10_14_6.pdf">
+    <img src="/Images/1917-10_14_6.jpg" alt="Cover of The Crisis, October 1917">
+  </a>
+  <p><em>The Crisis</em><br>October 1917</p>
+</div>
+```
 In the patois of his very religious speech the Negro is about to lose the real significance of a fine word---Consecration; and back of it all a finer idea. As it is, we have come to look upon consecration as a negative, spineless, namby-pamby thing, the incarnation of the "mustn't" idea, the fear of the "Thou shalt not." The consecration that is needed today has all the thunders of "Thou shalt." It is action, doing, deeds. Better in this awful era of bitter want that we should sin by over-action, by overdoing, rather than die by the cowardice of inertia.
 
 Look upon these little faces that broider our pages. Think of the millions that are not here---just as lovely and alluring---and remember that it is our present business to write in on the souls that look through these dark eyes wishes, wills, determinations, consecration.

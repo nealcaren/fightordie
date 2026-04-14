@@ -36,6 +36,14 @@ categories:
   - "Racial Violence"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1912-02_3_4/sim_crisis_1912-02_3_4.pdf">
+    <img src="/Images/1912-02_3_4.jpg" alt="Cover of The Crisis, February 1912">
+  </a>
+  <p><em>The Crisis</em><br>February 1912</p>
+</div>
+```
 Many people object to the policy of <span class="crisis-title">The Crisis</span> because, as they usually put it, <span class="crisis-title">The Crisis</span> is "bitter." Some add that our news is depressing or that we are determined to look on the dark side, and so forth. 
 
 It may be acknowledged at the outset that <span class="crisis-title">The Crisis</span> does not try to be funny. Not that we object to fun: our office is a cheerful place, with bits of sunshine and eager young lives and high joyful purpose. But our stock in trade is not jokes. We are in earnest. This is a newspaper. It tries to tell the Truth. It will not consciously exaggerate in any way, but its whole reason for being is the revelation of the facts of racial antagonism now in the world, and these facts are not humorous. 

@@ -42,6 +42,14 @@ categories:
   - "Art & Culture"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1923-08_26_4/sim_crisis_1923-08_26_4.pdf">
+    <img src="/Images/1923-08_26_4.jpg" alt="Cover of The Crisis, August 1923">
+  </a>
+  <p><em>The Crisis</em><br>August 1923</p>
+</div>
+```
 We have developed in the United States a technique of race discrimination which gains its dispicable ends by methods so subtle and evasive that the man on the street not only cannot place the blame but after a few bewildered gestures is tempted to look upon the whole thing as an "Act of God."
 
 Consider, for instance, the now well-known case of Miss Augusta Savage. Miss Savage struggled up through the wretched public schools of Florida; came to New York and eventually began studying art at Cooper Union. "Miss Savage's record," writes the Art Director, "has been excellent and her conduct irreproachable." The friends of Miss Savage sought to get her a chance to do some study abroad in the "Fontainebleau School of the Fine Arts"; financed by Americans and established as "a summer school for American architects, painters and sculptors."

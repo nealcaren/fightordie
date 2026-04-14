@@ -38,6 +38,14 @@ categories:
   - "Segregation"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1925-11_31_1/sim_crisis_1925-11_31_1.pdf">
+    <img src="/Images/1925-11_31_1.jpg" alt="Cover of The Crisis, November 1925">
+  </a>
+  <p><em>The Crisis</em><br>November 1925</p>
+</div>
+```
 In Detroit, Michigan, a black man has shot into a mob which was threatening him, his family, his friends and his home in order to make him move out of the neighborhood. He killed one man and wounded another.
 
 <p style="text-align:center"> ~~~~~~~~~~~~~~~ </p>

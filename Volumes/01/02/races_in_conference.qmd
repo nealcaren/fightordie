@@ -32,6 +32,14 @@ categories:
   - "Pan-Africanism & Empire"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1910-12_1_2/sim_crisis_1910-12_1_2.pdf">
+    <img src="/Images/1910-12_1_2.jpg" alt="Cover of The Crisis, December 1910">
+  </a>
+  <p><em>The Crisis</em><br>December 1910</p>
+</div>
+```
 We doubt if the Twentieth Century will bring forth a greater idea than the First Universal Races Congress in London, in the summer of 1911. Its possibilities are tremendous and its plan unique. Many will, of course, instinctively fear it. They will ask: "What good after all can come of such a congress? What can it do save talk---what can it initiate save profitless agitation?" The chief outcome of the Congress will be human contact---the meeting of men; not simply the physical meeting, eye to eye and hand to hand of those actually present, but the resultant spiritual contact which will run round the world. 
 
 Great as is the theoretical value of such human meeting there are many men and good men who shrink from it with strange fear. Some quail at meeting any stranger, more at meeting men alien in look and habit. 

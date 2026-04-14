@@ -42,6 +42,14 @@ categories:
   - "Pan-Africanism & Empire"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1930-02_37_2/sim_crisis_1930-02_37_2.pdf">
+    <img src="/Images/1930-02_37_2.jpg" alt="Cover of The Crisis, February 1930">
+  </a>
+  <p><em>The Crisis</em><br>February 1930</p>
+</div>
+```
 Jan Smuts, former Prime Minister of the Union of South Africa, has been traveling in England and is now in the United States. He is a man whom many regard as a great international statesman, but for us American Negroes, he has one intolerable defect which we more clearly than other peoples can see will forever keep him from true greatness.
 
 He was born and trained into the ingrained prejudice of the white South African against black folk. His whole conception of the world is that of a world not necessarily composed entirely of white people, but certainly organized, directed and established for white people. When he says that he wants white civilization to triumph in Africa, he does not mean simply that he wants civilization to triumph, it must be civilization owned by white people. The black people must share it only insofar as they cater to white peoples wants and even whims. Smuts is not so provincial as Hertzog. He does not want to face the conscience of the world with actual laws to keep Negroes from being artisans or from any real economic or political rights, or from any social status. But he wants to accomplish exactly the same thing that Hertzog wants to accomplish: that is, to put the black man back "in his place" and to keep him there. Beyond this, none of the liberalism of Jan Smuts has ever been able to stir a single step.

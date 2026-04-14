@@ -39,6 +39,14 @@ categories:
   - "Retrospective"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1933-01_40_1/sim_crisis_1933-01_40_1.pdf">
+    <img src="/Images/1933-01_40_1.jpg" alt="Cover of The Crisis, January 1933">
+  </a>
+  <p><em>The Crisis</em><br>January 1933</p>
+</div>
+```
 A college graduate came to me yesterday and asked: "What has the N.A.A.C.P. published concerning the present problems of the Negro, and especially of young Negroes just out of college?"
 
 I started to answer with stereotyped remarks; and then I said suddenly, "Nothing."

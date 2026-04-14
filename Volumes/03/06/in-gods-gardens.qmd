@@ -35,6 +35,14 @@ categories:
   - "Literary Writing"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1912-04_3_6/sim_crisis_1912-04_3_6.pdf">
+    <img src="/Images/1912-04_3_6.jpg" alt="Cover of The Crisis, April 1912">
+  </a>
+  <p><em>The Crisis</em><br>April 1912</p>
+</div>
+```
 <div class="poem">
 <p class = "verse">O mist-blown Lily of the north,
 <p class = "verse">A-bending southward in thy bloom,

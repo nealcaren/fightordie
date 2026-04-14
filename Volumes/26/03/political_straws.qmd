@@ -42,6 +42,14 @@ categories:
   - "Voting & Elections"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1923-07_26_3/sim_crisis_1923-07_26_3.pdf">
+    <img src="/Images/1923-07_26_3.jpg" alt="Cover of The Crisis, July 1923">
+  </a>
+  <p><em>The Crisis</em><br>July 1923</p>
+</div>
+```
 (*From information furnished by Morris Lewis of Chicago and R. McCants Andrews of Durham, N.C.*) 
 
 Next year a new President of the 

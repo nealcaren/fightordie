@@ -36,6 +36,14 @@ categories:
   - "Labor & Economics"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1912-03_3_5/sim_crisis_1912-03_3_5.pdf">
+    <img src="/Images/1912-03_3_5.jpg" alt="Cover of The Crisis, March 1912">
+  </a>
+  <p><em>The Crisis</em><br>March 1912</p>
+</div>
+```
 The injustice toward colored people who want decent living conditions is almost unbelievable unless one comes face to face with the facts. The New York *Times*, which spares few opportunities to treat black folk unjustly, says in an editorial:
 
 

@@ -20,9 +20,15 @@
   --color-text-muted: #666;
   --color-text-faint: #888;
   --color-text-subtle: #999;
+  --color-text-meta: #6b5a5e;
   --font-primary: 'Source Sans 3', sans-serif;
-  --font-body: 'EB Garamond', serif;
-  --font-display: 'Playfair Display', serif;
+  --font-body: 'EB Garamond', Georgia, serif;
+  --font-display: 'EB Garamond', Georgia, serif;
+  --text-label: 0.85rem;
+  --text-byline: 1rem;
+  --text-secondary: 1.1rem;
+  --text-body: 1.25rem;
+  --text-title: 2.5rem;
 }
 
 /* Base styles */
@@ -124,6 +130,78 @@ h3 { font-size: 1.25rem; font-weight: 600; }
     display: none;
 }
 
+/* Hide category badge from article title block (still used for listings) */
+#title-block-header .quarto-categories {
+    display: none;
+}
+
+/* Byline and date in serif to match title and body */
+#title-block-header .quarto-title-meta,
+#title-block-header .quarto-title-meta * {
+    font-family: var(--font-body);
+}
+#title-block-header .quarto-title-meta {
+    font-size: var(--text-byline);
+    font-style: italic;
+    color: var(--color-text-meta);
+    border-top: none;
+    padding-top: 0;
+    margin-top: 0.25rem;
+}
+#title-block-header .quarto-title-meta-heading {
+    display: none;
+}
+/* Hide "Published" block (date already shown under cover and in citation) */
+#title-block-header .quarto-title-meta > div:has(.date) {
+    display: none;
+}
+/* Remove the horizontal rule above the byline */
+#title-block-header hr,
+#title-block-header .quarto-title-meta::before {
+    display: none;
+}
+
+/* Crisis issue cover thumbnail in left margin beside title */
+#title-block-header.has-cover {
+  position: relative;
+}
+.crisis-cover {
+  position: absolute;
+  top: 0;
+  left: -190px;
+  width: 150px;
+  text-align: center;
+  font-family: var(--font-primary);
+  font-size: var(--text-label);
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--color-text-meta);
+  line-height: 1.4;
+}
+.crisis-cover em {
+  font-style: normal;
+}
+.crisis-cover p {
+  margin: 0.5rem 0 0;
+}
+.crisis-cover img {
+  width: 100%;
+  height: auto;
+  border: 1px solid #d4c4c8;
+  box-shadow: 0 3px 10px rgba(28, 18, 16, 0.2);
+  transition: box-shadow 0.2s ease, transform 0.2s ease;
+}
+.crisis-cover a:hover img {
+  box-shadow: 0 5px 14px rgba(28, 18, 16, 0.3);
+  transform: translateY(-1px);
+}
+@media (max-width: 1100px) {
+  .crisis-cover {
+    display: none;
+  }
+}
+
 .subtitle {
   font-size: 2rem;
   color: var(--color-primary);
@@ -190,7 +268,44 @@ hr::after {
 }
 
 #related-articles {
-  margin-top: 4rem;
+  margin-top: 1.25rem;
+  padding-top: 0;
+  border-top: none;
+}
+#related-articles h4 {
+  font-family: var(--font-primary);
+  font-size: var(--text-label);
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: var(--color-text-meta);
+  margin-bottom: 0.75rem;
+}
+#related-articles ul {
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+  font-family: var(--font-body);
+  font-size: var(--text-secondary);
+  line-height: 1.7;
+}
+#related-articles li {
+  display: inline;
+}
+#related-articles li:not(:last-child)::after {
+  content: " • ";
+  color: #b5a5a8;
+  padding: 0 0.35rem;
+}
+#related-articles li a {
+  color: var(--color-nav);
+  border-bottom: 1px solid rgba(168, 50, 30, 0.3);
+  padding-bottom: 1px;
+}
+#related-articles li a:hover {
+  color: var(--color-primary);
+  border-bottom-color: var(--color-primary);
+  text-decoration: none;
 }
 
 /* Links */
@@ -865,30 +980,37 @@ figure {
     padding-left: 1rem;
     padding-top: 0;
     position: relative;
+    font-family: var(--font-body);
+    font-size: var(--text-secondary);
+    line-height: 1.25;
+    color: var(--color-nav);
+}
+/* Hide the permalink inside the citation (still captured for Copy button) */
+#quarto-appendix.default .quarto-appendix-citeas a[href*="dareyoufight"] {
+    display: none;
 }
 
-/* Copy citation button */
-.cite-copy-btn {
-  display: inline-block;
-  margin-top: 0.5rem;
-  padding: 0.25rem 0.75rem;
-  font-family: var(--font-primary);
-  font-size: 0.8rem;
-  color: var(--color-accent);
-  border: 1px solid var(--color-accent);
-  border-radius: 2px;
-  background: transparent;
-  cursor: pointer;
-  transition: background-color 0.2s ease, color 0.2s ease;
+#quarto-appendix.default {
+  margin-top: 3rem;
+  border-top: 1px solid #e0d5d8;
+  padding-top: 1.5rem;
+  padding-bottom: 0;
 }
-
-.cite-copy-btn:hover {
-  background-color: var(--color-accent);
-  color: #fff;
+#quarto-appendix.default .quarto-appendix-contents {
+  margin-bottom: 0;
+  padding-bottom: 0;
 }
-
+#quarto-appendix.default .quarto-appendix-contents + .quarto-appendix-contents {
+  margin-top: 1rem;
+}
 #quarto-appendix.default .quarto-appendix-heading {
-  font-size: 1.25rem !important
+  font-family: var(--font-primary);
+  font-size: var(--text-label) !important;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: var(--color-text-meta);
+  margin-bottom: 0.75rem;
 }
 
 /* For text flush left and amount flush right*/

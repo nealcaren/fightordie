@@ -37,6 +37,14 @@ categories:
   - "Internal Debate"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1921-09_22_5/sim_crisis_1921-09_22_5.pdf">
+    <img src="/Images/1921-09_22_5.jpg" alt="Cover of The Crisis, September 1921">
+  </a>
+  <p><em>The Crisis</em><br>September 1921</p>
+</div>
+```
 They are so brave! My God! The fire that blows from their dilated nostrils and the spite that sputters from mouths---but---go to Atlanta? No *sir*! Not *me*! I'm busy. I'm just about the busiest person you ever saw.
 
 O, they were radical! They were Red and red-hot. They had fought for their country. They belonged to the American Legion and they sat 500 strong, clamorous with applause.

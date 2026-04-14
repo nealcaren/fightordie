@@ -40,6 +40,14 @@ categories:
   - "Religion & Morality"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1916-04_11_6/sim_crisis_1916-04_11_6.pdf">
+    <img src="/Images/1916-04_11_6.jpg" alt="Cover of The Crisis, April 1916">
+  </a>
+  <p><em>The Crisis</em><br>April 1916</p>
+</div>
+```
 This is a critical day for the Christian church. The white church of Christ finds itself in a position which gives the lie to many of its finest professions. It is a church of
 Peace; and its followers are at war. It is a church of the Masses in
 theory while in practice it is a church of the Classes. It is an

@@ -40,6 +40,14 @@ categories:
   - "Education"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1917-01_13_3/sim_crisis_1917-01_13_3.pdf">
+    <img src="/Images/1917-01_13_3.jpg" alt="Cover of The Crisis, January 1917">
+  </a>
+  <p><em>The Crisis</em><br>January 1917</p>
+</div>
+```
 What is to become of the secondary and higher Negro schools that are
 not smiled upon by the ring of rich
 philanthropists represented by the General Education Board and like

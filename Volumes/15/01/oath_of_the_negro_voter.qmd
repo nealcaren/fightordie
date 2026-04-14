@@ -37,6 +37,14 @@ categories:
   - "Voting & Elections"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1917-11_15_1/sim_crisis_1917-11_15_1.pdf">
+    <img src="/Images/1917-11_15_1.jpg" alt="Cover of The Crisis, November 1917">
+  </a>
+  <p><em>The Crisis</em><br>November 1917</p>
+</div>
+```
 As one of the Earth's Disowned I swear to hold my Ballot as the sacred pawn of Liberty for all mankind and for my prisoned race.
 
 I will accept no price for my priceless Vote, save alone just laws, honestly dealt, without regard to color, wealth or strength. I will make the first and foremost aim of my voting the Enfranchisement of every citizen, male and female; and particularly the restoring of the stolen franchise to my people, by which continuing theft the 1 enemies of the Negro race sit in high places today and wretchedly misgovern.

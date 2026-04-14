@@ -41,6 +41,14 @@ categories:
   - "Internal Debate"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1920-05_20_1/sim_crisis_1920-05_20_1.pdf">
+    <img src="/Images/1920-05_20_1.jpg" alt="Cover of The Crisis, May 1920">
+  </a>
+  <p><em>The Crisis</em><br>May 1920</p>
+</div>
+```
 There is one charge against the N.A.A.C.P. which is made, now openly and now by veiled innuendo, which it is necessary to answer plainly. It is said that this Association is not a Negro association, but is conducted by white people and that, therefore, it cannot effectively serve the cause of Negro freedom. The veiled assumption is that the efforts of the Negroes in the Association are controlled and largely nullified by whites.
 
 The Association is not an exclusively Negro Association. We do not believe in the color line against either white or black. The N.A.A.C.P. is a union of American citizens of all colors and races who believe that Democracy in America is a failure if it proscribes Negroes, as such, politically, economically, or socially.

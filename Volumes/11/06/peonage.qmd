@@ -43,6 +43,14 @@ categories:
   - "The South"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1916-04_11_6/sim_crisis_1916-04_11_6.pdf">
+    <img src="/Images/1916-04_11_6.jpg" alt="Cover of The Crisis, April 1916">
+  </a>
+  <p><em>The Crisis</em><br>April 1916</p>
+</div>
+```
 The picture on the opposite page is authentic. It was taken in Lee County, Ga., where on January 20 five were taken from the jail, rushed into the adjoining county in automobiles, hanged and shot. The photograph was taken on the spot and a copy sent to a prominent white man in a neighboring city. His colored servant took it while he was at lunch, handed it to a <span class = "small-caps"> Crisis</span> agent, who had it quickly copied. The original was then returned and the copy sent to us. It was a little dim and has been slightly retouched. Otherwise it is absolutely authentic.
 
 These men were killed for defending themselves from "arrest." The arresting mob was led by a sheriff. The sheriff was killed. What was the real cause back of this wholesale lynching and back of the lynching of six Negroes in Early County, December 30th?

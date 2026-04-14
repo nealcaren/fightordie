@@ -37,6 +37,14 @@ categories:
   - "War & Military"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1922-02_23_4/sim_crisis_1922-02_23_4.pdf">
+    <img src="/Images/1922-02_23_4.jpg" alt="Cover of The Crisis, February 1922">
+  </a>
+  <p><em>The Crisis</em><br>February 1922</p>
+</div>
+```
 The life of Charles Young was a triumph of tragedy. No one ever knew the truth about the Hell he went through at West Point. He seldom even mentioned it. The pain was too great. Few knew what faced him always in his army life. It was not enough for him to do well--he must always do better; and so much and so conspicuously better, as to disarm the scoundrels that ever taunted him. He lived in the army surrounded by insult and intrigue and yet he set his teeth and kept his soul serene and triumphed.
 
 He was one of the few men I know who literally turned the other cheek with Jesus Christ. He was laughed at for it and his own people chided him bitterly, yet he persisted. When a white Southern pigmy at West Point protested at taking food from a dish passed first to Young, Young passed it to him first and afterward to himself. When officers of inferior rank refused to salute a "nigger", he saluted them. Seldom did he lose his temper, seldom complain.

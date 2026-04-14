@@ -37,6 +37,14 @@ categories:
   - "Segregation"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1916-11_13_1/sim_crisis_1916-11_13_1.pdf">
+    <img src="/Images/1916-11_13_1.jpg" alt="Cover of The Crisis, November 1916">
+  </a>
+  <p><em>The Crisis</em><br>November 1916</p>
+</div>
+```
 *The following letter was sent to Honorable Charles Evans Hughes, September 28, 1916:*
 
 Sir: 

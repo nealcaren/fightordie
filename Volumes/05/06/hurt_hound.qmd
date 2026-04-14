@@ -38,6 +38,14 @@ categories:
   - "Racial Violence"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1913-04_5_6/sim_crisis_1913-04_5_6.pdf">
+    <img src="/Images/1913-04_5_6.jpg" alt="Cover of The Crisis, April 1913">
+  </a>
+  <p><em>The Crisis</em><br>April 1913</p>
+</div>
+```
 The editor has received this news note from a colored friend:
 
 > January 22—Revs. G.H. Burks and P.A. Nichols, returning from Louisville to Paducah, Ky., over the I.C. Railroad, on being detained from 5 p.m. to 2 a.m., by reason of a freight wreck, were ushered into the dining car and given supper without one single word of comment or protest from the whites, who were eating at the same time.

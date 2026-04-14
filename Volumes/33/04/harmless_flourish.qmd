@@ -41,6 +41,14 @@ categories:
   - "Voting & Elections"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1927-02_33_4/sim_crisis_1927-02_33_4.pdf">
+    <img src="/Images/1927-02_33_4.jpg" alt="Cover of The Crisis, February 1927">
+  </a>
+  <p><em>The Crisis</em><br>February 1927</p>
+</div>
+```
 Senator Harris of Georgia is pained because of the sale of Federal offices in that State. He wants the matter investigated. Senator Ernst of Kentucky proposed to add to this an investigation of disfranchisement in Georgia. Whereupon the bourbon *New York Times* is aghast. Evidently Mr. Ernst's proposal is "politics to catch the Negro vote". It undoubtedly is. And why shouldn't it be? Why should the rotten boroughs of Georgia, by wholesale disfranchisement of black and white voters, make bribery and graft in national politics almost unavoidable and then be allowed to yell "Force Bill!" if any proposal is made to investigate the situation? Georgia casts less than 12,000 votes for a congressman, while in New York it takes over 60,000. Less than ten per cent of Georgia's voting population actually votes. And yet to a leading American newspaper it is a political joke to investigate this, while the sale of a petty post office job is a high crime and misdemeanor.
 
 Of course Federal offices are sold in Georgia; of course they are sold in Virginia, as President Coolidge's first Private Secretary can testify; of course Federal offices are bought in Pennsylvania and Illinois. And why? Does the fact that a southern voter has seven times the political power of a western voter play no part?

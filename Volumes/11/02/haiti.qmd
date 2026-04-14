@@ -41,6 +41,14 @@ categories:
   - "Racial Violence"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1915-12_11_2/sim_crisis_1915-12_11_2.pdf">
+    <img src="/Images/1915-12_11_2.jpg" alt="Cover of The Crisis, December 1915">
+  </a>
+  <p><em>The Crisis</em><br>December 1915</p>
+</div>
+```
 At first, inquiries at the White House concerning the intentions of the United States in Haiti were appeased by reference to the proclamation of the southern-born admiral, who is now ruling that island as conqueror. This proclamation contains certain smooth
 promises of benevolent guardianship in Haiti with no intention to
 interfere with the political integrity in Haiti. Recently, however, the

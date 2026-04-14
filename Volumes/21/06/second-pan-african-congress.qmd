@@ -1,6 +1,6 @@
 ---
 title: 'The Second Pan-African Congress'
-description: "Announces the Second Pan-African Congress in Paris, arguing logistics and anti-colonial solidarity unite Black communities."
+description: "Du Bois announces the Second Pan-African Congress, meeting in Paris the first week of September 1921, and explains why Europe, rather than the United States, is the natural meeting ground for the dark peoples of the world."
 author:
   - name:
       given: W.E.B.
@@ -42,6 +42,14 @@ categories:
   - "Pan-Africanism & Empire"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1921-04_21_6/sim_crisis_1921-04_21_6.pdf">
+    <img src="/Images/1921-04_21_6.jpg" alt="Cover of The Crisis, April 1921">
+  </a>
+  <p><em>The Crisis</em><br>April 1921</p>
+</div>
+```
 According to the decision made by the members of the Permanent Committee of the first Pan-African Congress, which was held in Paris February 19-21, 1919, a second Pan-African Congress is to meet in Paris during the first week in September, 1921.
 
 We are asked occasionally why the Congress should be held in Europe rather than in the United States. We would answer that question by calling the attention of our readers to the map below, which shows the relative distribution of the dark peoples of the world (indicated by the straight, black lines), and also the relative facility of means of transportation. It is very much easier for Africa, the West Indies, South America and the United States to get to Europe, than it is for all first three named to get to us. Also the well-known friendliness and cordiality of the French toward the Negro visitor is to be considered.

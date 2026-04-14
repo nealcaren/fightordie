@@ -39,6 +39,14 @@ categories:
   - "War & Military"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1920-12_21_2/sim_crisis_1920-12_21_2.pdf">
+    <img src="/Images/1920-12_21_2.jpg" alt="Cover of The Crisis, December 1920">
+  </a>
+  <p><em>The Crisis</em><br>December 1920</p>
+</div>
+```
 Three years ago December 11, at 7:17 in the morning, thirteen American Negro soldiers were murdered on the scaffold by the American government to satisfy the bloodlust of Texas on account of the Houston riot. This was bad enough; but in addition to this there are today languishing in the United States Penitentiary at Leavenworth, Kan., 56 colored men sentenced to life imprisonment and 5 men sentenced to imprisonment for 15 years, all for the same alleged offence. This shameful injustice is a trumpet call to every American Negro and we should never rest until these men are pardoned and freed,---
 
 <div class="poem">

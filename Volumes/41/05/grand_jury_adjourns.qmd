@@ -1,6 +1,6 @@
 ---
 title: 'Grand Jury Adjourns: Laurens County Fails to Indict Dendy Lynchers'
-description: "Boardman, Helen in The Crisis (1934) examines the failure to indict Norris Dendy's lynchers and state inaction in South Carolina."
+description: "How a Laurens County grand jury adjourned without indicting the lynchers of Norris Dendy, killed in Clinton, South Carolina on July 4, 1933, despite testimony from his mother Martha Dendy and eyewitnesses named in Helen Boardman's NAACP report."
 author: Boardman, Helen
 date: May 1934
 subjects:
@@ -37,6 +37,15 @@ format:
 categories:
   - "Racial Violence"
 ---
+
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1934-05_41_5/sim_crisis_1934-05_41_5.pdf">
+    <img src="/Images/1934-05_41_5.jpg" alt="Cover of The Crisis, May 1934">
+  </a>
+  <p><em>The Crisis</em><br>May 1934</p>
+</div>
+```
 
 After the lynching of Norris Dendy on the Fourth of July, 1933, two detectives came to Clinton, South Carolina. Within an hour of their arrival the interested citizens knew that they were the state investigators from Columbia who were working on the Dendy lynching case. Not a move they made went unnoticed and unreported. Persons whom they interviewed knew well that no privacy attended their utterances; and when such persons were colored, no overt threat was needed to make them guard their words with the utmost discretion. After the investigators had made their report, Governor Blackwood stated his belief that Norris Dendy had been murdered (not lynched) by persons unknown; and added that the state would endeavor to find and prosecute the criminals.
 

@@ -37,6 +37,14 @@ categories:
   - "Literary Writing"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1914-09_8_5/sim_crisis_1914-09_8_5.pdf">
+    <img src="/Images/1914-09_8_5.jpg" alt="Cover of The Crisis, September 1914">
+  </a>
+  <p><em>The Crisis</em><br>September 1914</p>
+</div>
+```
 Once upon a time there lay a land in the southern seas; a dark, grim land, walled well against the world. And in that land rose three rivers and a fourth, all flowing out to seek the sea. One river was born amid the Lakes and Mountains of the Moon, sun-kissed, snow-capped, and fled to the northward silent, swiftly; it clambered over the hills and swam the marshes. It threaded the sands---the narrow, choking sands that grew hotter and narrower as it went; yet the river swept on to wider, greener fields, to a laughing plain until through many mouths it burst like a rocket to the Middle Sea with all its myriads of men.
 
 In the wake of the river came dark men creeping, dancing, marching, building, until their pyramids and temples dotted the land and dared the Heavens, and the Thought of their souls and cities was the Beginning of the World.

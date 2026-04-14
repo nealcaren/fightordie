@@ -39,6 +39,14 @@ categories:
   - "Labor & Economics"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1933-05_40_5/sim_crisis_1933-05_40_5.pdf">
+    <img src="/Images/1933-05_40_5.jpg" alt="Cover of The Crisis, May 1933">
+  </a>
+  <p><em>The Crisis</em><br>May 1933</p>
+</div>
+```
 Karl Marx was a Jew born at Treves, Germany, in March, 1818. He came of an educated family and studied at the Universities of Bonn and Berlin, planning first to become a lawyer, and then to teach philosophy.
 
 But his ideas were too radical for the government. He turned to journalism, and finally gave his life to economic reform, dying in London in 1883, after having lived in Germany, Belgium, France, and, for the last thirty-five years of his life, in England. He published in 1867, the first volume of his monumental work, "Capital."

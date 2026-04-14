@@ -38,6 +38,14 @@ categories:
   - "Racial Violence"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1922-03_23_5/sim_crisis_1922-03_23_5.pdf">
+    <img src="/Images/1922-03_23_5.jpg" alt="Cover of The Crisis, March 1922">
+  </a>
+  <p><em>The Crisis</em><br>March 1922</p>
+</div>
+```
 There is a species of propaganda going on against the Negro which is so subtle that most people do not notice it. For instance, *The Spectator*, an insurance magazine periodical, records from year to year all homicides,---that is all persons killed in the United States by criminal violence. It notes that for every million of population in 31 cities there are 85 homicides and that the rate is increasing. 
 
 Then the statement, which is written by Frederick L. Hoffman, goes on to say (the italics are ours): "*Furthermore, it will be noted that the cities experiencing the highest rates are those having a large colored population.*" And comparing North and South, he says that the homicide rate among the whites in the South "is but little higher than for the New England and Middle Atlantic States and below that for the West. *For the colored race the incidence is shown to be four times as frequent as among the whites in the South.*" 

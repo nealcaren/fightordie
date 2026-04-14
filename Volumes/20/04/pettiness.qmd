@@ -38,6 +38,14 @@ categories:
   - "Internal Debate"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1920-08_20_4/sim_crisis_1920-08_20_4.pdf">
+    <img src="/Images/1920-08_20_4.jpg" alt="Cover of The Crisis, August 1920">
+  </a>
+  <p><em>The Crisis</em><br>August 1920</p>
+</div>
+```
 "God save us from petty things!" prayed the Wise Man. Once upon a time some of our girls planned a party in honor of Kate. They asked for a list of her friends. Among others Kate suggested Jane. But Mrs. Smith, at whose home the party was to be held, was not "friendly" with Jane and moreover Jane and Sallie who were also invited, did not agree. Mary was asked and telephoned that she would bring her friend Paula along. But Alice thereupon announced that she would not come if Paula came. Rose and Sarah are "not speaking" and so Sarah could not be asked and for similar reasons Berenice vetoed Flora. And so forth.
 
 This is not fiction. It actually took place among colored college girls less than a year ago in Harlem.

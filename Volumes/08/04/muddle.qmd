@@ -41,6 +41,14 @@ categories:
   - "NAACP & Organizational Strategy"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1914-07_8_3/sim_crisis_1914-07_8_3.pdf">
+    <img src="/Images/1914-07_8_3.jpg" alt="Cover of The Crisis, July 1914">
+  </a>
+  <p><em>The Crisis</em><br>July 1914</p>
+</div>
+```
 The Negro problem is undoubtedly reaching a degree of spiritual
 complication which makes the onlooker hesitate between tears and
 hysterical laughter. A National Conference of Charities and Correction

@@ -39,6 +39,14 @@ categories:
   - "Segregation"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1928-12_35_12/sim_crisis_1928-12_35_12.pdf">
+    <img src="/Images/1928-12_35_12.jpg" alt="Cover of The Crisis, December 1928">
+  </a>
+  <p><em>The Crisis</em><br>December 1928</p>
+</div>
+```
 Very slowly but with unexpected success, the fight against governmental segregation in the departments at Washington has reached a stage where a record of achievement can be made and a new alignment of forces for the future planned. 
 
 Beginning with the administration of Woodrow Wilson, and recurring under President Harding, efforts were made to segregate Negro clerks in Washington as follows: 

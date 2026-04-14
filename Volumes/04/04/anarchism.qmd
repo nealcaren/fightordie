@@ -39,6 +39,14 @@ categories:
   - "The South"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1912-08_4_4/sim_crisis_1912-08_4_4.pdf">
+    <img src="/Images/1912-08_4_4.jpg" alt="Cover of The Crisis, August 1912">
+  </a>
+  <p><em>The Crisis</em><br>August 1912</p>
+</div>
+```
 <span class="crisis-title">The Crisis</span> has continually insisted that peonage, false arrest and
 injustice in the Southern courts were responsible for the mass of
 so-called Negro crime. The testimony to this comes continually from

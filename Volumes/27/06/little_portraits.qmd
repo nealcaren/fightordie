@@ -35,6 +35,14 @@ categories:
   - "Literary Writing"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1924-04_27_6/sim_crisis_1924-04_27_6.pdf">
+    <img src="/Images/1924-04_27_6.jpg" alt="Cover of The Crisis, April 1924">
+  </a>
+  <p><em>The Crisis</em><br>April 1924</p>
+</div>
+```
 ## The Place, The People
 
 Africa is vegetation. It is the riotous, unbridled bursting life of leaf and limb. It is sunshine---pitiless shine of blue rising from morning mists and sinking to hot night shadows. And then the stars--- very near are the stars to Africa, near and bright and curiously arrayed. The tree is Africa. The strong, blinding strength of it---the wide deep shade, the burly lavish height of it. Animal life is there wild and abundant---perhaps in the inner jungle I should note it more but here the herb is triumphant, savagely sure---such beautiful shrubbery, such splendor of leaf and gorgeousness of flower I have never seen.

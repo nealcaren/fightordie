@@ -34,6 +34,14 @@ categories:
   - "Literary Writing"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1914-10_8_6/sim_crisis_1914-10_8_6.pdf">
+    <img src="/Images/1914-10_8_6.jpg" alt="Cover of The Crisis, October 1914">
+  </a>
+  <p><em>The Crisis</em><br>October 1914</p>
+</div>
+```
 Come, all my father's children, and sit beside my knee, here with this
 child of mine, and listen:
 

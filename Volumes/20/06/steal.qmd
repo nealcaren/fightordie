@@ -42,6 +42,14 @@ categories:
   - "Labor & Economics"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1920-10_20_6/sim_crisis_1920-10_20_6.pdf">
+    <img src="/Images/1920-10_20_6.jpg" alt="Cover of The Crisis, October 1920">
+  </a>
+  <p><em>The Crisis</em><br>October 1920</p>
+</div>
+```
 We trust the Negro world has watched with intelligent comprehension the extraordinary conjunction of Church and Steel in recent events. When the Interchurch movement came <span class="crisis-title">The Crisis</span> was dumb with astonishment. Was it possible that the white followers of Jesus Christ were actually going to forget Infant Damnation and Justification by Faith long enough to work together for education, the abolition of child labor, opposition to race prejudice, co-operation in national missionary effort, social uplift and fair wages? As the survey progressed and the Negro and Africa were included and, too, not in the appendix, it looked as though the Christian Church was about to be reborn.
 
 Of course, we expected the white southern Baptists to refuse co-operation. They are too much interested in lynching and immersion to heed the call of the black and the poor. But the movement grew and swelled and swept until it struck hard Steel. Until it struck Steal.

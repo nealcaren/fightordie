@@ -41,6 +41,14 @@ categories:
   - "Internal Debate"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1918-01_15_3/sim_crisis_1918-01_15_3.pdf">
+    <img src="/Images/1918-01_15_3.jpg" alt="Cover of The Crisis, January 1918">
+  </a>
+  <p><em>The Crisis</em><br>January 1918</p>
+</div>
+```
 Efficiency
 
 The National Association for the Advancement of Colored People has, in its comparatively brief career, dealt Bourbonism in the United States three telling blows. First: by helping to secure the celebrated Grandfather Decision before the Supreme Court, it began the overthrow of Disfranchisement and secured the first official affirmation of the validity of the Fifteenth Amendment. Second: it dealt Caste in the Nation a telling blow when it secured the admission of nearly seven hundred Colored Officers of the United States Army. Third: in securing the Segregation Decision before the Supreme Court, it stopped the most outrageous invasion of the Negro's rights yet attempted.

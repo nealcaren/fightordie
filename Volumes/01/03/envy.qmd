@@ -36,6 +36,14 @@ categories:
   - "Internal Debate"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1911-01_1_3/sim_crisis_1911-01_1_3.pdf">
+    <img src="/Images/1911-01_1_3.jpg" alt="Cover of The Crisis, January 1911">
+  </a>
+  <p><em>The Crisis</em><br>January 1911</p>
+</div>
+```
 It is unfortunate that in the recent newspaper discussion of an Appeal to Europe sent out not by this Association but by a number of colored men of influence and standing, reference was constantly made to the lowest personal motives and seldom to the arguments presented.
 
 It is true that with all peoples, and especially with a race in the throes of birth-pain, personal likes and jealousies play a wretchedly large, part. But it does not follow that they explain all the struggle and difference of opinion. It is true that the rise of a man like Mr. Booker T. Washington to a place of commanding influence has made him an object of envy to many narrow souls. But it does not follow that the thousands of intelligent people who differ with Mr. Washington are all actuated by such motives, or are unable to distinguish great and vital principles apart from personal feeling.

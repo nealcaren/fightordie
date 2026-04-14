@@ -1,6 +1,6 @@
 ---
 title: 'The Capital N'
-description: "Argues that capitalizing Negro affirms racial self-respect and records a press shift tied to civil-rights advocacy."
+description: "Du Bois on the periodical press's 1930 decision to capitalize the word Negro, and the NAACP letter campaign that pressured hundreds of American publishers to follow suit."
 author:
   - name:
       given: W.E.B.
@@ -40,6 +40,14 @@ categories:
   - "Internal Debate"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1930-05_37_5/sim_crisis_1930-05_37_5.pdf">
+    <img src="/Images/1930-05_37_5.jpg" alt="Cover of The Crisis, May 1930">
+  </a>
+  <p><em>The Crisis</em><br>May 1930</p>
+</div>
+```
 Recently and with a certain suddenness, the periodical press of the United States has decided to capitalize the word Negro.
 
 

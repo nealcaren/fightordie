@@ -42,6 +42,14 @@ categories:
   - "Pan-Africanism & Empire"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1921-11_23_1/sim_crisis_1921-11_23_1.pdf">
+    <img src="/Images/1921-11_23_1.jpg" alt="Cover of The Crisis, November 1921">
+  </a>
+  <p><em>The Crisis</em><br>November 1921</p>
+</div>
+```
 The second Pan-African Congress which met in London, Brussels and Paris, August 28, 29 and 31 and September 2, 3, 5 and 6, represented 26 different groups of people of Negro descent: namely, British Nigeria, Gold Coast and Sierra Leone; the Egyptian Sudan, British East Africa, former German East Africa; French Senegal, the French Congo and Madagascar; Belgian Congo; Portuguese St. Thomé, Angola and Mozambique; Liberia; Abyssinia; Haiti; British Jamaica and Grenada; French Martinique and Guadeloupe; British Guiana; the United States of America, Negroes resident in England, France, Belgium and Portugal, and fraternal visitors from India, Morocco, the Philippines and Annam.
 
 The Congress adopted two sets of resolutions differing somewhat in detail but essentially identical. The first set of resolutions (adopted unanimously at London) is presented in its original English text; the second set (discussed at Brussels and adopted unanimously at Paris) is presented in its original French text.

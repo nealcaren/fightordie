@@ -35,6 +35,14 @@ categories:
   - "NAACP & Organizational Strategy"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1911-01_1_3/sim_crisis_1911-01_1_3.pdf">
+    <img src="/Images/1911-01_1_3.jpg" alt="Cover of The Crisis, January 1911">
+  </a>
+  <p><em>The Crisis</em><br>January 1911</p>
+</div>
+```
 There is without doubt a large criminal and semi-criminal class among colored people. This is but another way of saying that the social uplift of a group of freedmen is a serious task. But it is also true, and painfully true, that the crime imputed carelessly and recklessly against colored people gives an impression of far greater criminality than the facts warrant.
 
 Take, for instance, a typical case: A little innocent schoolgirl is brutally murdered in New Jersey. A Negro vagabond is arrested. Immediately the news is heralded from East to West, from North to South, in Europe and Asia, of the crime of this black murderer. Immediately a frenzied, hysterical mob gathers and attempts to lynch the poor wretch. He is spirited away and the public is almost sorry that he has escaped summary justice. Without counsel or friends, the man is shut up in prison and tortured to make him confess. "They did pretty near everything to me except kill me,' whispered the wretched man to the first friend he saw.

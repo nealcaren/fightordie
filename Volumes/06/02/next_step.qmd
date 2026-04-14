@@ -39,6 +39,14 @@ categories:
   - "Voting & Elections"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1913-06_6_2/sim_crisis_1913-06_6_2.pdf">
+    <img src="/Images/1913-06_6_2.jpg" alt="Cover of The Crisis, June 1913">
+  </a>
+  <p><em>The Crisis</em><br>June 1913</p>
+</div>
+```
 The vicious attempts to degrade colored women in Washington, Iowa,
 Kansas, Michigan, Wisconsin, Ohio, Pennsylvania, New York and the
 District of Columbia have been killed by the defeat of the intermarriage

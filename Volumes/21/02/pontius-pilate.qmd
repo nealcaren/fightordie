@@ -41,6 +41,14 @@ categories:
   - "Literary Writing"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1920-12_21_2/sim_crisis_1920-12_21_2.pdf">
+    <img src="/Images/1920-12_21_2.jpg" alt="Cover of The Crisis, December 1920">
+  </a>
+  <p><em>The Crisis</em><br>December 1920</p>
+</div>
+```
 Pontius Pilate, Federal Governor of Mississippi, sat in the Judgment seat at Jackson. Before him stretched a table of shining gold and the morning sun sang through the eastern windows. It lighted the faces of the Chief Priest and the Elders as they bent eagerly toward him, and twisted itching hands.
 
 He was fingering a pile of silver money which seemed to have been tossed or thrown upon the table before him.

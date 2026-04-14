@@ -41,6 +41,14 @@ categories:
   - "Segregation"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1930-02_37_2/sim_crisis_1930-02_37_2.pdf">
+    <img src="/Images/1930-02_37_2.jpg" alt="Cover of The Crisis, February 1930">
+  </a>
+  <p><em>The Crisis</em><br>February 1930</p>
+</div>
+```
 The Houston, Texas *Post-Dispatch* says in a recent editorial:
 
 > In announcing the annual convention of the Texas Commission on Inter-racial Co-operation in Dallas for November 1-2, Dr. R. M. Woods, instructor in sociology in Sam Houston State Teachers' college at Huntsville, director of the commission in this State, makes it clear that attainment of social equality between the races is not the aim of the organization. Friendliness between the white and colored people is promoted, but there is no thought of bringing them together on an equal social plane, he states. 

@@ -39,6 +39,14 @@ categories:
   - "Segregation"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1917-09_14_5/sim_crisis_1917-09_14_5.pdf">
+    <img src="/Images/1917-09_14_5.jpg" alt="Cover of The Crisis, September 1917">
+  </a>
+  <p><em>The Crisis</em><br>September 1917</p>
+</div>
+```
 On the afternoon of Saturday July 28, a vast body of Negroes marched through the streets of New York in silent protest against the recent race riots and outrages. The *New York American* says:
 
 > In silent protest against the recent killing of Negroes in race riots in Waco, Memphis and East St. Louis, 15,000 Negroes marched here yesterday afternoon. The parade formed in Fifth avenue and marched from Fifty-seventh street to Madison Square. <p> Placards carried by boy scouts, aged men and by women and children explained the purpose of the demonstration.

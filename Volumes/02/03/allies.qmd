@@ -39,6 +39,14 @@ categories:
   - "War & Military"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1911-07_2_3/sim_crisis_1911-07_2_3.pdf">
+    <img src="/Images/1911-07_2_3.jpg" alt="Cover of The Crisis, July 1911">
+  </a>
+  <p><em>The Crisis</em><br>July 1911</p>
+</div>
+```
 Occasionally we find in
 the columns of a national press, which as a rule regards the wrongs of colored citizens as "stale news" not worth printing, some really splendid argument in support
 of the militant position taken by this Association. What, for instance, could be more gratifying than this?

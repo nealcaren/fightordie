@@ -43,6 +43,14 @@ categories:
   - "Internal Debate"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1922-01_23_3/sim_crisis_1922-01_23_3.pdf">
+    <img src="/Images/1922-01_23_3.jpg" alt="Cover of The Crisis, January 1922">
+  </a>
+  <p><em>The Crisis</em><br>January 1922</p>
+</div>
+```
 In this season of holiday and joy have you thought of *your* Christmas gift for Freedom? Thinking of what you have earned and spent for the year, what you have accomplished and enjoyed, does it occur to you that you owe something, not simply to your race and to your country, but to humanity---to the upward striving forces of the world? Have you paid that debt or any part of it?
 
 If not, consider the claims of the National Association for the Advancement of Colored People. During the year 1921 we have:

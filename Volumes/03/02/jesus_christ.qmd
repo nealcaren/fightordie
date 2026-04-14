@@ -38,6 +38,14 @@ categories:
   - "Religion & Morality"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1911-12_3_2/sim_crisis_1911-12_3_2.pdf">
+    <img src="/Images/1911-12_3_2.jpg" alt="Cover of The Crisis, December 1911">
+  </a>
+  <p><em>The Crisis</em><br>December 1911</p>
+</div>
+```
 ![](../../../Images/03_02_jcg-2.jpg)  
 
 The convict guard laughed.

@@ -41,6 +41,14 @@ categories:
   - "War & Military"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1919-12_19_2/sim_crisis_1919-12_19_2.pdf">
+    <img src="/Images/1919-12_19_2.jpg" alt="Cover of The Crisis, December 1919">
+  </a>
+  <p><em>The Crisis</em><br>December 1919</p>
+</div>
+```
 The carefully arranged attack on the Negro soldier, delayed and somewhat disarranged by <span class="crisis-title">The Crisis</span>' revelation in May and June, was at last launched in *Harvey's Weekly*. The article consisted of a series of falsehoods and half-truths.
 
 > The Ninety-Second Division---was the only Negro division sent to France.

@@ -42,6 +42,14 @@ categories:
   - "The South"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1917-05_14_1/sim_crisis_1917-05_14_1.pdf">
+    <img src="/Images/1917-05_14_1.jpg" alt="Cover of The Crisis, May 1917">
+  </a>
+  <p><em>The Crisis</em><br>May 1917</p>
+</div>
+```
 There can be no doubt bit that the South is lacking in certain moral stamina which must be found among successful, forward-striving people. Recently, for instance, the press of the country went wild over the brave action of Governor Stanley of Kentucky. What then? This same Governor Stanley is apparently going to allow the rescued victim of that mob to be lynched by court under forms of law. There would seem to be no reasonable doubt but that Lube Martin killed Guthrie Diuguid in self-defense after Diuguid had followed him for a year and sworn to kill him. 
 
 Yet Martin is sentenced to death and the Governor dares not raise his voice. So too in South Carolina. A  man is lynched because he is a self-respecting, wealthy Negro citizen who refuses to let a dirty mob publicly whip him. Governor Manning makes brave professions and sends them out through the associated press yet to-day every single lyncher  is free and unindicted. The Governor does nothing and will do nothing. How different is the tale at  Lima, Ohio! There a mob attempted to lynch a Negro but was foiled by the brave sheriff. The ring leaders of the mob were arrested and the sheriff writes us: 

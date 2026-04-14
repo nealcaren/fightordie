@@ -31,6 +31,14 @@ categories:
   - "Segregation"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1919-11_19_1/sim_crisis_1919-11_19_1.pdf">
+    <img src="/Images/1919-11_19_1.jpg" alt="Cover of The Crisis, November 1919">
+  </a>
+  <p><em>The Crisis</em><br>November 1919</p>
+</div>
+```
 Every time the American Negro seeks reasonably and earnestly to bring his case before the white South and the nation the bourbons proceed to throw dust in the eyes of the public by screaming frantically, "Social Equality."
 
 That bogey can be easily met: If "Social Equality" means the right to vote, the abolition of "Jim-Crow" cars, the stoppage of lynching, universal education and civil rights, then social equality is exactly what we want and what eventually we will and must have.

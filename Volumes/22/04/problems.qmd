@@ -36,6 +36,14 @@ categories:
   - "Voting & Elections"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1921-08_22_4/sim_crisis_1921-08_22_4.pdf">
+    <img src="/Images/1921-08_22_4.jpg" alt="Cover of The Crisis, August 1921">
+  </a>
+  <p><em>The Crisis</em><br>August 1921</p>
+</div>
+```
 Why is it that nothing is said of social equality save in the case of Negroes? The nation is mute as to Irishmen, Italians, Poles and Armenians. One may dine with Chinese, Japanese or East Indians. But Negroes? Social Equality!
 
 Why is it that only Negroes should give up the right to vote?

@@ -39,6 +39,14 @@ categories:
   - "The South"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1920-08_20_4/sim_crisis_1920-08_20_4.pdf">
+    <img src="/Images/1920-08_20_4.jpg" alt="Cover of The Crisis, August 1920">
+  </a>
+  <p><em>The Crisis</em><br>August 1920</p>
+</div>
+```
 There is one sentence in the resignation of Mr. Shillady, our former secretary, which has arrested the attention of us all. He says:
 
 > I am less confident than heretofore of the speedy success of the Association's full program, and of the probability of overcoming, within a reasonable period, the forces opposed to Negro equality, by the means and methods which are within the Association's power to employ.

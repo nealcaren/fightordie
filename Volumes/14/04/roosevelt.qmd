@@ -41,6 +41,14 @@ categories:
   - "Voting & Elections"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1917-08_14_4/sim_crisis_1917-08_14_4.pdf">
+    <img src="/Images/1917-08_14_4.jpg" alt="Cover of The Crisis, August 1917">
+  </a>
+  <p><em>The Crisis</em><br>August 1917</p>
+</div>
+```
 Greeting, Theodore Roosevelt! Forgotten is Brownsville! Forgotten is the misbirth of the Progressive Party! We only remember to-day that of all Americans mouthing of Liberty and Justice and a world "free for Democracy" you alone had the courage to stand and condemn the murder and riot in East St. Louis. All honor to you and all shame to that silent man in the White House who wants Home Rule for Ireland, Freedom for Poles, and Justice for Armenians, but has no single word for the 3,000 American citizens lynched North and South, principally by the South which he is crowding more and more "into the Saddle." You have gained the votes of twelve million Americans, Theodore Roosevelt, by one strong word.
 
 <!-- Similar articles start here -->

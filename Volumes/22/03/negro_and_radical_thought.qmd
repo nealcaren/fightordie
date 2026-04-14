@@ -41,6 +41,14 @@ categories:
   - "Labor & Economics"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1921-07_22_3/sim_crisis_1921-07_22_3.pdf">
+    <img src="/Images/1921-07_22_3.jpg" alt="Cover of The Crisis, July 1921">
+  </a>
+  <p><em>The Crisis</em><br>July 1921</p>
+</div>
+```
 Mr. Claude McKay, one of the editors of *The Liberator* and a Negro poet of distinction, writes us as follows: 
 
 > I am surprised and sorry that in your editorial, "The Drive," published in <span class="crisis-title">The Crisis</span> for May, you should leap out of your sphere to sneer at the Russian Revolution, the greatest event in the history of humanity; much greater than the French Revolution, which is held up as a wonderful achievement to Negro children and students in white and black schools. For American Negroes the indisputable and outstanding fact of the Russian Revolution is that a mere handful of Jews, much less in ratio to the number of Negroes in the American population, have attained, through the Revolution, all the political and social rights that were denied to them under the regime of the Czar.   

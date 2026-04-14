@@ -42,6 +42,14 @@ categories:
   - "Labor & Economics"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1913-08_6_4/sim_crisis_1913-08_6_4.pdf">
+    <img src="/Images/1913-08_6_4.jpg" alt="Cover of The Crisis, August 1913">
+  </a>
+  <p><em>The Crisis</em><br>August 1913</p>
+</div>
+```
 There is no doubt but that the Bourbon South is fighting hard to control Mr. Wilson's Negro policy. For a time they held back the spectacular fire caters and marked time, being content with the dismissal of two or three leading Negro officeholders. Then they plucked up courage. Postmaster-General Burleson is said on good authority to have frankly announced this policy: The gradual weeding of the Negro out of the civil service of the United States until he is left only menial positions. Encouraged by this the white railway mail clerks are conducting a systematic and open campaign against the colored clerks in defiance of the plain rules of the service. The official organ, the *Railway Mail*, says editorially:
 
 > There is a new man at the head of the postoffice department, a man from the South, who knows the Negro problem as it is. ….   

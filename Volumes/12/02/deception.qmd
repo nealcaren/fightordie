@@ -41,6 +41,14 @@ categories:
   - "The South"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1916-06_12_2/sim_crisis_1916-06_12_2.pdf">
+    <img src="/Images/1916-06_12_2.jpg" alt="Cover of The Crisis, June 1916">
+  </a>
+  <p><em>The Crisis</em><br>June 1916</p>
+</div>
+```
 One of the unforgivable things about the southern white press is the
 way in which it deliberately deceives its readers as to the attitude of civilized communities toward Negroes. Even
 the Columbia, S. C., *State* stoops to this petty deception. The *State*

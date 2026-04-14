@@ -37,6 +37,14 @@ categories:
   - "War & Military"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1916-03_11_5/sim_crisis_1916-03_11_5.pdf">
+    <img src="/Images/1916-03_11_5.jpg" alt="Cover of The Crisis, March 1916">
+  </a>
+  <p><em>The Crisis</em><br>March 1916</p>
+</div>
+```
 In the presence of a world gone stark mad it seems of little use to talk of anything but war. Yet we wonder if a voice out of the South may not possibly call our war-mad President back to the kind of preparedness that some of us expected of him when he took the presidential chair.
 
 The University Commission of Southern Race Problems sends a letter to college men about the horror of lynching. Surely President Wilson has read these paragraphs from a letter signed by white college professors in eleven Southern states:

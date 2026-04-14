@@ -37,6 +37,14 @@ categories:
   - "Voting & Elections"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1920-04_19_6/sim_crisis_1920-04_19_6.pdf">
+    <img src="/Images/1920-04_19_6.jpg" alt="Cover of The Crisis, April 1920">
+  </a>
+  <p><em>The Crisis</em><br>April 1920</p>
+</div>
+```
 The foundations of the present political South are built upon sand.
 It requires only a resolute executive in the White House and a free
 House of Representatives; then when the Representatives from the

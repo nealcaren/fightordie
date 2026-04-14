@@ -37,6 +37,14 @@ categories:
   - "The South"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1911-05_2_1/sim_crisis_1911-05_2_1.pdf">
+    <img src="/Images/1911-05_2_1.jpg" alt="Cover of The Crisis, May 1911">
+  </a>
+  <p><em>The Crisis</em><br>May 1911</p>
+</div>
+```
 Few people who argue about the race problem know how that problem changes. Within the last twenty years this change has been so great that many fail to realize it, or if they do realize it more or less vaguely, they are puzzled at its new outcroppings. It seems to them as though this human difficulty was continually developing new and unexpected centers of trouble. As a matter of fact, however, what we have to-day might easily have been foreseen twenty years ago. We are having a change in the problem, but the change is logical and represents a more or less regular development.
 
 To illustrate this let us remember what the argument against the Negro was in slavery days. It was said that he was an indolent tropical being who would not work without being driven and that it was utterly impossible that he should become a self-directing worker and work with initiative and a decent standard of life, and that if he were allowed to go free he would become a pauper or criminal, and very soon be extinct. This argument was thoroughly believed in by the mass of the best Southern people, and it undoubtedly did much to hold their hands back from all schemes of emancipation.

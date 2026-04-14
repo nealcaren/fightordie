@@ -40,6 +40,14 @@ categories:
   - "Religion & Morality"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1914-08_8_4/sim_crisis_1914-08_8_4.pdf">
+    <img src="/Images/1914-08_8_4.jpg" alt="Cover of The Crisis, August 1914">
+  </a>
+  <p><em>The Crisis</em><br>August 1914</p>
+</div>
+```
 Is it not singular that so many white folk in advising black folk---and the ancient industry of advising blacks is booming just now---are careful to say, first and last: "Don't be bitter!" Why is there this insistence on the necessity of a sweet and even temper as an asset in life? Manifestly it is because most Americans who know or who begin faintly to realize the difficulties, complications and insults of a dark man's life today cannot imagine themselves suffering such wrongs without resorting to dynamite or suicide.
 
 With the best will, therefore, they hasten to say: " Don't be bitter---don't mind---look on the bright side---and---and---"---then they trail off helplessly and look you rather miserably and apologetically in the face.

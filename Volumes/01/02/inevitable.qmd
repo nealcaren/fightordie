@@ -28,6 +28,14 @@ categories:
   - "Racial Violence"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1910-12_1_2/sim_crisis_1910-12_1_2.pdf">
+    <img src="/Images/1910-12_1_2.jpg" alt="Cover of The Crisis, December 1910">
+  </a>
+  <p><em>The Crisis</em><br>December 1910</p>
+</div>
+```
 In the argument of the prejudiced there is a certain usual ending: "But this is inevitable." For instance, a crime is committed by you. I am lynched. "It is inevitable," cries the bystander, "they were both Negroes." A brown man is admitted to a theatre, misbehaves and is ejected.
 
 I apply for a ticket and am refused. "It is inevitable," sighs the manager, "you are brown." A yellow man is a fool; therefore, Smith, who is also yellow, is treated like an idiot. "I am sorry," remarks the policeman, "but they are both yellow."

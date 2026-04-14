@@ -39,6 +39,14 @@ categories:
   - "The South"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1912-01_3_3/sim_crisis_1912-01_3_3.pdf">
+    <img src="/Images/1912-01_3_3.jpg" alt="Cover of The Crisis, January 1912">
+  </a>
+  <p><em>The Crisis</em><br>January 1912</p>
+</div>
+```
 A favorite argument with shallow thinkers is: Stop
 crime and lynching will cease. Such a statement is both historically and logically false. Historically, lynching leads to lynching, burning to burning; and lynching for great crimes to lynching for trivial offenses. Moreover, lynching as practised today in the Uited States is not the result of crime---it is a cause of crime, on account of the flagrant, awful injustice it inflicts in so many cases on innocent men. Take, for instance, the story of the lynching in Florida, as told by Governor Gilchrist. He says, in answer to a correspondent:
 

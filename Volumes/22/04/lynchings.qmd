@@ -37,6 +37,14 @@ categories:
   - "Racial Violence"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1921-08_22_4/sim_crisis_1921-08_22_4.pdf">
+    <img src="/Images/1921-08_22_4.jpg" alt="Cover of The Crisis, August 1921">
+  </a>
+  <p><em>The Crisis</em><br>August 1921</p>
+</div>
+```
 You are frightened? Thieves, hold-ups and crime? But the police and the courts are with you. Public opinion is behind you; your neighbor's arm is ready to help.
 
 How would you feel if you were a Negro and lived in Georgia or Mississippi or Oklahoma?

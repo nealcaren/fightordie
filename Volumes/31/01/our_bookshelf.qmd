@@ -40,6 +40,14 @@ categories:
   - "The South"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1925-11_31_1/sim_crisis_1925-11_31_1.pdf">
+    <img src="/Images/1925-11_31_1.jpg" alt="Cover of The Crisis, November 1925">
+  </a>
+  <p><em>The Crisis</em><br>November 1925</p>
+</div>
+```
 <h2>The Book of American Negro Spirituals</h2> 
 
 James Weldon Johnson has edited, with an introduction, a book of Negro spirituals containing musical arrangements chiefly by his brother, J. Rosamond Johnson, and with other arrangements by Lawrence Brown. The result is peculiarly satisfying. 

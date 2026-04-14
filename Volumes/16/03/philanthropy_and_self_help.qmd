@@ -40,6 +40,14 @@ categories:
   - "Education"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1918-07_16_3/sim_crisis_1918-07_16_3.pdf">
+    <img src="/Images/1918-07_16_3.jpg" alt="Cover of The Crisis, July 1918">
+  </a>
+  <p><em>The Crisis</em><br>July 1918</p>
+</div>
+```
 ## Philanthropy
 
 The Negro race in America owes a mighty debt, first, to that army of teachers that followed the emancipating hosts of the Civil War and taught the colored people until they were able in a measure to teach themselves; secondly, to the many millions of people, some rich and some poor, who now for a half-century have been giving monies to support Negro education. It is not strange that the time is approaching and practically is upon us when the stream of financial help from this source is beginning to cease. We must frankly face the prospect that after the war when new calls for help and rehabilitation pour in from all sides and ask aid and succor from an impoverished world that the flow of Northern wealth to Southern colored schools will definitely diminish.

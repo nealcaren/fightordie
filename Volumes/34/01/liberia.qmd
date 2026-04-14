@@ -40,6 +40,14 @@ categories:
   - "Pan-Africanism & Empire"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1927-03_34_1/sim_crisis_1927-03_34_1.pdf">
+    <img src="/Images/1927-03_34_1.jpg" alt="Cover of The Crisis, March 1927">
+  </a>
+  <p><em>The Crisis</em><br>March 1927</p>
+</div>
+```
 We have not the full text of President King's recent word concerning missions. But we would like to point out to those writers who are easily and hastily criticizing this decision and the Firestone concession that a more sympathetic attitude toward Liberia and her problems would better accord with the facts.
 
 Of the great good will back of Christian missions and the spirit of sacrifice no one doubts. Education and sanitation in Africa and Asia owe a great debt to them. On the other hand they have much evil to answer for: they have helped introduce imperial aggression and harmful trade and they have interfered again and again with blundering ignorance into the delicate internal affairs of nations and peoples they did not understand. When a great rich foreign church establishes in a small poor African land a missionary church and school it can easily come to assume toward the little country an attitude of mastery and dictation which is annoying and dangerous. The American Church in Turkey and the English Church in China are grave political problems in those countries and if Liberia believes that foreign missions are endangering her stability and advance, then instead of swearing at her and calling her names it would be wiser and more Christian to sit in conference with the Liberians and find out how Christianity could help and not hinder that struggling land.

@@ -37,6 +37,14 @@ categories:
   - "Labor & Economics"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1933-06_40_6/sim_crisis_1933-06_40_6.pdf">
+    <img src="/Images/1933-06_40_6.jpg" alt="Cover of The Crisis, June 1933">
+  </a>
+  <p><em>The Crisis</em><br>June 1933</p>
+</div>
+```
 Usually, <span class="crisis-title">The Crisis</span> has discussed voting among Negroes during elections and sought to give specific advice concerning the action of black voters.
 
 In the discussion today, however, it is perhaps better that in the calm that succeeds a presidential election, we should more carefully ask ourselves, what the object of our voting is, and by what methods and strategy we are going to be able to accomplish it?

@@ -1,6 +1,6 @@
 ---
 title: Counsels of Despair
-description: "Rejects counsels of despair, urging race uplift through education, institutions, and strategic anti-segregation action."
+description: "Du Bois answers critics who called his 1934 segregation stance a counsel of despair, arguing that Black institutions and self-organization are weapons in the fight, not surrender to Jim Crow."
 author:
 - name:
     given: W.E.B.
@@ -35,6 +35,14 @@ categories:
   - "Internal Debate"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1934-06_41_6/sim_crisis_1934-06_41_6.pdf">
+    <img src="/Images/1934-06_41_6.jpg" alt="Cover of The Crisis, June 1934">
+  </a>
+  <p><em>The Crisis</em><br>June 1934</p>
+</div>
+```
 Many persons have interpreted my reassertion of our current attitude toward segregation as a counsel of despair. We can't win, therefore, give up and accept the inevitable. Never, and nonsense. Our business in this world is to fight and fight again, and never to yield. But after all, one must fight with his brains, if he has any. He gathers strength to fight. He gathers knowledge, and he raises children who are proud to fight and who know what they are fighting about. And above all, they learn that what they are fighting for is the opportunity and the chance to know and associate with black folk. They are not fighting to escape themselves. They are fighting to say to the world: the opportunity of knowing Negroes is worth so much to us and is so appreciated, that we want you to know them too.
 
 Negroes are not extraordinary human beings. They are just like other human beings, with all their foibles and ignorance and mistakes. But they are human beings, and human nature is always worth knowing, and withal, splendid in its manifestations. Therefore, we are fighting to keep open the avenues of human contact; but in the meantime, we are taking every advantage of what opportunities of contact are already open to us, and among those opportunities which are open, and which are splendid and inspiring, is the opportunity of Negroes to work together in the twentieth century for the uplift and development of the Negro race. It is no counsel of despair to emphasize and hail the opportunity for such work.

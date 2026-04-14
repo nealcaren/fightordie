@@ -36,6 +36,14 @@ categories:
   - "Pan-Africanism & Empire"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1921-03_21_5/sim_crisis_1921-03_21_5.pdf">
+    <img src="/Images/1921-03_21_5.jpg" alt="Cover of The Crisis, March 1921">
+  </a>
+  <p><em>The Crisis</em><br>March 1921</p>
+</div>
+```
 No people can more exactly interpret the inmost meaning of the present situation in Ireland than the American Negro. The scheme is simple. You knock a man down and then have him arrested for assault. You kill a man and then hang the corpse for murder. We black folk are only too familiar with this procedure. In a given city, a mob attacks us unprepared, unsuspecting, and kills innocent and harmless black workingmen in cold blood. The bewildered Negroes rush together and begin to defend themselves. Immediately by swift legerdemain the mob becomes the militia or a gang of "deputy sheriffs". They search, harry and kill the Negroes. They disarm them and loot their homes, and when the city awakes after the "race riot", the jail is filled with Negroes charged with rioting and fomenting crime!
 
 So in Ireland! The Irish resist, as they have resisted for hundreds of years, various and exasperating forms of English oppression. Their resistance is called crime and under ordinary conditions would be crime; in retaliation not only the "guilty" but the innocent among them are murdered and robbed and public property is burned by English guardians of the Peace!

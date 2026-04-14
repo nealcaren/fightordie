@@ -36,6 +36,14 @@ categories:
   - "Segregation"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1920-01_19_3/sim_crisis_1920-01_19_3.pdf">
+    <img src="/Images/1920-01_19_3.jpg" alt="Cover of The Crisis, January 1920">
+  </a>
+  <p><em>The Crisis</em><br>January 1920</p>
+</div>
+```
 Our friends are hard---very hard---to please. Only yesterday they were preaching fm! "Race Pride." "Go to!" they said, and be PROUD of your race. If we hesitated or sought to explain---"Away," they yelled; "Ashamed-of Yourself and Want-to-be-White!" Of course, the Amazing Major is still at it, but do you notice that others say less,---because they see that bullheaded worship of any "race," as such, may lead and does lead to curious complications?
 
 For instance: Today Negroes, Indians, Chinese, and other groups, are gaining new faith in themselves; they are beginning to "like" themselves; they are discovering that the current theories and stories of "backward" peoples are largely lies and assumptions; that human genius and possibility are not limited by color, race, or blood. What is this new self-consciousness leading to? Inevitably and directly to distrust and hatred of whites; to demands for self-government, separation, driving out of foreigners,---"Asia for the Asiatics," "Africa for the Africans," and "Negro officers for Negro troops!"

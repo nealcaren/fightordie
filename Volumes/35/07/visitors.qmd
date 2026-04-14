@@ -39,6 +39,14 @@ categories:
   - "Literary Writing"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1928-07_35_7/sim_crisis_1928-07_35_7.pdf">
+    <img src="/Images/1928-07_35_7.jpg" alt="Cover of The Crisis, July 1928">
+  </a>
+  <p><em>The Crisis</em><br>July 1928</p>
+</div>
+```
 To the hard worker in a great modern city the problem of the casual
 visitor is baffling. No one needs visitors more than he: he needs the
 enlivening and quickening contact with the world outside the office. He

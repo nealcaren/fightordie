@@ -36,6 +36,14 @@ categories:
   - "Labor & Economics"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1926-12_33_2/sim_crisis_1926-12_33_2.pdf">
+    <img src="/Images/1926-12_33_2.jpg" alt="Cover of The Crisis, December 1926">
+  </a>
+  <p><em>The Crisis</em><br>December 1926</p>
+</div>
+```
 Eugene Debs was one of the few leaders of organized labor in the United States who realized that a large part of the laboring force in this country is of Negro descent. Most labor leaders are either too ignorant or too prejudiced to acknowledge this. Debs knew that no real emancipation of laboring classes in the United States can come as long as black laborers are in partial serfdom. He realized that that emancipation called for effort on the part of both black people and white; that black people must recognize that their future lies not on a foundation of wealth and luxury but with the people who work and save; that only by a united effort on the part of labor can organized wealth be kept from autocracy and the degradation of vast portions of mankind. On the other hand, unless white labor recognizes the brotherhood of man, it becomes the helpless tool of modern industrial imperialism. 
 
 The death of so great a mind and so brave a heart as that of Eugene Debs is a calamity to this poor nation. 

@@ -39,6 +39,14 @@ categories:
   - "Racial Violence"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1921-11_23_1/sim_crisis_1921-11_23_1.pdf">
+    <img src="/Images/1921-11_23_1.jpg" alt="Cover of The Crisis, November 1921">
+  </a>
+  <p><em>The Crisis</em><br>November 1921</p>
+</div>
+```
 The white knights are on the run. Their flowing robes no longer present the dignified appearance made familiar to millions of Americans by "The Birth of a Nation." Instead they stream in ridiculous tatters. Since the New York *World* has described the mischievous and dangerous plans plotted behind their masks their power is ended. We have learned a great deal about their Grand Wizard and their Kleagles and we know now that the Klan is a money-making affair selling stock based on race prejudice.
 
 Congratulations to the New York *World* for its wonderful exposure. The part that the Association took in the exposure, the assistance that it was able to give, is told in this number under National Association notes.

@@ -40,6 +40,14 @@ categories:
   - "Pan-Africanism & Empire"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1917-05_14_1/sim_crisis_1917-05_14_1.pdf">
+    <img src="/Images/1917-05_14_1.jpg" alt="Cover of The Crisis, May 1917">
+  </a>
+  <p><em>The Crisis</em><br>May 1917</p>
+</div>
+```
 When the United States takes possession of foreign territory it sends to govern it a naval officer. But, naval officers are not trained to govern. They are trained to fight! They have made no study of social organization, of human development, of industrial organization; if they are not quite unsympathetic, it is no fault of their training or of the traditions of their caste; yet, today they are well-nigh absolute masters in Nicaragua, San Domingo, Hayti and the erstwhile Danish West Indies. It would be impossible to conceive a more dangerous or foolhardy experiment.
 
 <!-- Similar articles start here -->

@@ -34,6 +34,14 @@ categories:
   - "Pan-Africanism & Empire"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1928-03_35_3/sim_crisis_1928-03_35_3.pdf">
+    <img src="/Images/1928-03_35_3.jpg" alt="Cover of The Crisis, March 1928">
+  </a>
+  <p><em>The Crisis</em><br>March 1928</p>
+</div>
+```
 The struggle for the liberation of the working classes in general and of the Negro race in America in particular is, of course, at bottom the same struggle. But great difficulty faces both the workers because the essential identity of the problem is not recognized either by white workingmen or black. Black workingmen are the heirs of every effort which the white working masses have made toward freedom: the bestowal of universal suffrage; the shortening of the hours of labor; the protection of women and children in industry; the recognition of the right to collective bargaining; and all the rest of the victories more or less completely won by the working class movement. Through these victories Negroes were emancipated from slavery in America; partially enfranchised; and given at least a fighting chance for a living wage. On the other hand, all this story has not been told Negroes and they are not born knowing all about it. The working class movement has seldom attempted any intelligent propaganda to let them know of the past struggle; the Negro home does not know it; and the Negro school does not teach it. And to make the matter worse, both white and black workingmen have come under the sinister influence of the white employer.
 
 The white workingman has swallowed the white employer's race prejudice, lock, stock and barrel; so that he doesn't want to work beside Negroes; he doesn't want to live in their neighborhood; he doesn't want to vote for them or with them; he doesn't want to share the same parks, movies, street cars and railway trains; and he doesn't want anybody to think that he is as low as a Negro.

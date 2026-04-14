@@ -36,6 +36,14 @@ categories:
   - "Religion & Morality"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1932-04_39_4/sim_crisis_1932-04_39_4.pdf">
+    <img src="/Images/1932-04_39_4.jpg" alt="Cover of The Crisis, April 1932">
+  </a>
+  <p><em>The Crisis</em><br>April 1932</p>
+</div>
+```
 It is to the disgrace of the American Negro, and particularly of his religious and philanthropic organizations, that they continually and systematically neglect Negroes who have been arrested, or who are accused of crime, or who have been convicted and incarcerated.
 
 One can easily realize the reason for this: ever since Emancipation and even before, accused and taunted with being criminals, the emancipated and rising Negro has tried desperately to disassociate himself from his own criminal class. He has been all too eager to class criminals as outcasts, and to condemn every Negro who has the misfortune to be arrested or accused. He has joined with the bloodhounds in anathematizing every Negro in jail, and has called High Heaven to witness that he has absolutely no sympathy and no known connection with any black man who has committed crime.

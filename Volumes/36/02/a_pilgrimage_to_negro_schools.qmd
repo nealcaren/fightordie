@@ -43,6 +43,14 @@ categories:
   - "The South"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1929-02_36_2/sim_crisis_1929-02_36_2.pdf">
+    <img src="/Images/1929-02_36_2.jpg" alt="Cover of The Crisis, February 1929">
+  </a>
+  <p><em>The Crisis</em><br>February 1929</p>
+</div>
+```
 These are snapshots, and  they have the validity and weakness of snapshots. I got mere glimpses of these various institutions, and from the glimpses came impressions and judgments. In some cases these impressions are doubtless right, in others, just as surely they are quite wrong. I give them, therefore, not as final judgments, but simply for what they are worth, and | shall be glad to know of any mistakes I may have made. 
 
 ## Palmer and Petersburg

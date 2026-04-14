@@ -37,6 +37,14 @@ categories:
   - "Art & Culture"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1914-04_7_6/sim_crisis_1914-04_7_6.pdf">
+    <img src="/Images/1914-04_7_6.jpg" alt="Cover of The Crisis, April 1914">
+  </a>
+  <p><em>The Crisis</em><br>April 1914</p>
+</div>
+```
 We have spoken before of the custom in the United States of refusing to capitalize the word "Negro."
 
 Before 1850 the use of the capital letter was practically universal, but with the determined onslaught upon the Negro-American in the decade previous to the war, the present insulting custom was fixed. Note for a moment the quite unconscious result:

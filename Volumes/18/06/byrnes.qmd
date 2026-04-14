@@ -38,6 +38,14 @@ categories:
   - "Racial Violence"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1919-10_18_6/sim_crisis_1919-10_18_6.pdf">
+    <img src="/Images/1919-10_18_6.jpg" alt="Cover of The Crisis, October 1919">
+  </a>
+  <p><em>The Crisis</em><br>October 1919</p>
+</div>
+```
 You have, perhaps, noticed our double-page advertisement in the *Congressional Record,* due to the kindness of our good friend James Francis Byrnes, of South Carolina. Congressman Byrnes is from the Second District and a confrère of the late Congressman James W. Ragsdale, who died suddenly during the Washington riots.
 
 The Congressional Districts of these two gentlemen have about 400,000 inhabitants and probably 80,000 of these are males of voting age, the majority being Negroes. Mr. Byrnes was elected to Congress by a vote of 7,681 ballots out of a total of 7,801 ballots cast.

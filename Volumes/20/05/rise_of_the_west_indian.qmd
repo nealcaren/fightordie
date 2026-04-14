@@ -38,6 +38,14 @@ categories:
   - "Labor & Economics"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1920-09_20_5/sim_crisis_1920-09_20_5.pdf">
+    <img src="/Images/1920-09_20_5.jpg" alt="Cover of The Crisis, September 1920">
+  </a>
+  <p><em>The Crisis</em><br>September 1920</p>
+</div>
+```
 In 1880 there were 14,017 foreign born Negroes in the United States. This number increased slowly to 19,979 in 1890 and 20,336 in 1900. Then sudvdenly it doubled in a single decade to 40,339 in 1910 and in the last decade they have been arriving at the rate of over 5,000 a year. At present there are probably more than 100,000 foreign born Negroes in the United States, two-thirds of whom are from the West Indies and adjacent parts of South America.
 
 These facts make it increasingly necessary for us to understand this

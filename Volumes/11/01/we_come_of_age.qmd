@@ -36,6 +36,14 @@ categories:
   - "NAACP & Organizational Strategy"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1915-11_11_1/sim_crisis_1915-11_11_1.pdf">
+    <img src="/Images/1915-11_11_1.jpg" alt="Cover of The Crisis, November 1915">
+  </a>
+  <p><em>The Crisis</em><br>November 1915</p>
+</div>
+```
 Five years ago this month the first number of <span class="crisis-title">The Crisis</span>
 was issued. It was a very modest little edition consisting of one
 thousand copies with twenty pages each. The total cost was fifty

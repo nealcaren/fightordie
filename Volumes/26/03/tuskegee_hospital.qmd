@@ -41,6 +41,14 @@ categories:
   - "Internal Debate"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1923-07_26_3/sim_crisis_1923-07_26_3.pdf">
+    <img src="/Images/1923-07_26_3.jpg" alt="Cover of The Crisis, July 1923">
+  </a>
+  <p><em>The Crisis</em><br>July 1923</p>
+</div>
+```
 We have strong reasons for 
 believing that the following 
 are the actual facts concerning the Tuskegee Hospital:

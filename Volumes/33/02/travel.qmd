@@ -42,6 +42,14 @@ categories:
   - "Pan-Africanism & Empire"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1926-12_33_2/sim_crisis_1926-12_33_2.pdf">
+    <img src="/Images/1926-12_33_2.jpg" alt="Cover of The Crisis, December 1926">
+  </a>
+  <p><em>The Crisis</em><br>December 1926</p>
+</div>
+```
 It was a brilliant idea when the Walker Manufacturing Company conceived the free trip around the world method of advertising. They have sent now for the third year groups of from four to six popular persons traveling over Europe and Asia and in so doing they have impressed upon certain of our leading citizens the fact that problems of race and color are problems of the world and not simply of the United States.
 
 It has been for the purpose of realizing and teaching this fact that I have visited the old world eight times. First, in my young manhood to Germany on a fellowship. Second, to the Paris Exposition at my own expense. Third, to England and Scotland through the gift of an English friend. Fourth, to the Races Congress at the expense of the National Association for the Advancement of Colored People and John E. Millholland. Fifth and sixth, to the First and Second Pan-African Congresses at the expense of the National Association for the Advancement of Colored People. Seventh, to the Third. Pan-African Congress at the expense of the Circle for Negro War Relief, then a committee of the N.A.C.W. 

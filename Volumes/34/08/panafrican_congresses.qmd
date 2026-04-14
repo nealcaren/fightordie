@@ -43,6 +43,14 @@ categories:
   - "Pan-Africanism & Empire"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1927-10_34_8/sim_crisis_1927-10_34_8.pdf">
+    <img src="/Images/1927-10_34_8.jpg" alt="Cover of The Crisis, October 1927">
+  </a>
+  <p><em>The Crisis</em><br>October 1927</p>
+</div>
+```
 The *first Pan-African Congress* was held February 19-21, *1919*, in the Grand Hotel, Paris. The executive committee consisted of M. Blaise Diagne, President; Dr. W. E. B. Du Bois, Secretary; Mrs. Ida Gibbs Hunt and Mr. M. E. F. Fredericks. Fifty-seven delegates representing fifteen countries were present and among the speakers were members of the French Parliament, the President of Liberia, a former Secretary of State of Portugal and several other distinguished persons.
 
 The *second Pan-African Congress* met in London August 28 and 29, *1921*, in Brussels, Belgium, August 31, and September 1 and 2, *1921*, and in Paris, France, September 4 and 5, *1921*, with M. Blaise Diagne as President and W. E. B. Du Bois as Executive Secretary. A special committee visited the Assembly of the League of Nations with a petition, September 6. There were present one hundred and ten delegates representing thirty-three different countries and the sessions were attended by about a thousand visitors. Among the speakers were Florence Kelley of America, Norman Leys of England, Senator LaFontaine and Professor Otlet of Belgium, Blaise Diagne and M. Barthèlemy of the French Chamber of Deputies, General Sorelas of Spain, M. Paul Panda of the Belgian Congo and others. The European press of England, Scotland, France, Belgium, Germany and Italy took wide notice of the Congress.

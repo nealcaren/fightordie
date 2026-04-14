@@ -36,6 +36,14 @@ categories:
   - "Voting & Elections"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1920-02_19_4/sim_crisis_1920-02_19_4.pdf">
+    <img src="/Images/1920-02_19_4.jpg" alt="Cover of The Crisis, February 1920">
+  </a>
+  <p><em>The Crisis</em><br>February 1920</p>
+</div>
+```
 Where is the chief seat of lawlessness in this land?
 
 *The South.*

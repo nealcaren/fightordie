@@ -39,6 +39,14 @@ categories:
   - "Pan-Africanism & Empire"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1919-05_18_1/sim_crisis_1919-05_18_1.pdf">
+    <img src="/Images/1919-05_18_1.jpg" alt="Cover of The Crisis, May 1919">
+  </a>
+  <p><em>The Crisis</em><br>May 1919</p>
+</div>
+```
 I went to Paris because today the destinies of mankind center there. Make no mistake as to this, my readers. Podunk may easily persuade itself that only Podunk matters and that nothing is going on in New York. The South Sea Islander may live ignorant and careless of London. Some Americans may think that Europe does not count, and a few Negroes may argue vociferously that the Negro problem is a domestic matter, to be settled in Richmond and New Orleans.
 
 But all these careless thinkers are wrong. The destinies of mankind for a hundred years to come are being settled today in a small room of the *Hotel Crillon* by four unobtrusive gentlemen who glance out speculatively now and then to Cleopatra's Needle on the Place de la Concorde.

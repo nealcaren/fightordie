@@ -42,6 +42,14 @@ categories:
   - "Education"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1916-04_11_6/sim_crisis_1916-04_11_6.pdf">
+    <img src="/Images/1916-04_11_6.jpg" alt="Cover of The Crisis, April 1916">
+  </a>
+  <p><em>The Crisis</em><br>April 1916</p>
+</div>
+```
 Nothing will better illustrate the exact work of the Negro church in America than three notable examples: the Dixwell Avenue Congregational Church of New Haven, Conn.; the St. John's A.M.E. Church of Norfolk, Va., and the St. Mark's M.E. Church of New York City.
 
 Dixwell Avenue Congregational Church was established in 1820 when a white man, Simeon S. Jocelyn, gathered in New Haven twenty-four colored persons to teach them. He met much abuse and received many threats from the whites, but his congregation grew until in 1829 they became a regular Congregational Church.

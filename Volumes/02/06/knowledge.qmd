@@ -40,6 +40,14 @@ categories:
   - "Education"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1911-10_2_6/sim_crisis_1911-10_2_6.pdf">
+    <img src="/Images/1911-10_2_6.jpg" alt="Cover of The Crisis, October 1911">
+  </a>
+  <p><em>The Crisis</em><br>October 1911</p>
+</div>
+```
 One of the comfortable theories of the South is its intimate and careful knowledge of everything relating to black folk. Governor Donaghey of Arkansas, for instance, recently said to the Negro Business League:
 
 > While you are said to be an imitative race, you never suicide or suffer from nervous trouble. I believe it was your chairman who tells us of the young Negro in Harvard University who specialized on nervous diseases with a view of practicing medicine in the Mississippi bottoms. He, of course, would never have had a patient.

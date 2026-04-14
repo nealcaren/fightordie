@@ -1,6 +1,6 @@
 ---
 title: 'Thomas Jesse Jones'
-description: "(The Crisis, 1921) criticizes T. J. Jones for imposing white control over Black education, missions and leadership, urging Black representation."
+description: "Du Bois's 1921 account of Thomas Jesse Jones, Phelps-Stokes Fund director and former Hampton Institute teacher, as a case study in white philanthropic control over Black education and leadership."
 author:
   - name:
       given: W.E.B.
@@ -39,6 +39,14 @@ categories:
   - "Pan-Africanism & Empire"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1921-10_22_6/sim_crisis_1921-10_22_6.pdf">
+    <img src="/Images/1921-10_22_6.jpg" alt="Cover of The Crisis, October 1921">
+  </a>
+  <p><em>The Crisis</em><br>October 1921</p>
+</div>
+```
 Thomas Jesse Jones was born in Wales, in 1873, and came to America when he was 11 years old. He was educated in Virginia, Ohio, and New York, and received the degree of Doctor of Philosophy from Columbia in 1899. He has been a social settlement worker, a teacher in Hampton Institute, a statistician in the United States Census Bureau, and at present he is Director of Research of the Phelps-Stokes Fund.
 
 Mr. Jones' career would call for no special notice were it not that it illustrates in a peculiar way the present transition period of the Negro problem.

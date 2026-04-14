@@ -36,6 +36,14 @@ categories:
   - "Racial Violence"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1919-09_18_5/sim_crisis_1919-09_18_5.pdf">
+    <img src="/Images/1919-09_18_5.jpg" alt="Cover of The Crisis, September 1919">
+  </a>
+  <p><em>The Crisis</em><br>September 1919</p>
+</div>
+```
 Brothers we are on the Great Deep. We have cast off on the vast voyage which will lead to Freedom or Death.
 
 For three centuries we have suffered and cowered. No race ever gave Passive Resistance and Submission to Evil longer, more piteous trial. Today we raise the terrible weapon of Self-Defense. When the murderer comes, he shall not longer strike us in the back. When the armed lynchers gather, we too must gather armed. When the mob moves, we propose to meet it with bricks and clubs and guns.

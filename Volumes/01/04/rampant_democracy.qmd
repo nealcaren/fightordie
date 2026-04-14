@@ -43,6 +43,14 @@ categories:
   - "Segregation"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1911-02_1_4/sim_crisis_1911-02_1_4.pdf">
+    <img src="/Images/1911-02_1_4.jpg" alt="Cover of The Crisis, February 1911">
+  </a>
+  <p><em>The Crisis</em><br>February 1911</p>
+</div>
+```
 There is an artist in New York who rose from the humblest circumstances and now lives in a suburb of the city. In his rise he has evidently learned the essentials of democracy, for his wife in an interview says that they want separate Negro schools in that suburb. They need to have them, but a very foolish law interfered, she laments: 
 
 > We got along here very well with our separate Negro school. At the same time the Catholic Church maintained a parochial school, to which most of the Italian children went, so that public schools had practically no problem to solve at all as to the commingling of children of different races.

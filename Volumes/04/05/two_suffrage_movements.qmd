@@ -31,6 +31,14 @@ categories:
   - "Women's Rights"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1912-09_4_5/sim_crisis_1912-09_4_5.pdf">
+    <img src="/Images/1912-09_4_5.jpg" alt="Cover of The Crisis, September 1912">
+  </a>
+  <p><em>The Crisis</em><br>September 1912</p>
+</div>
+```
 The woman suffrage movement in England and America really dates from the beginning of the anti-slavery struggle. It was not only contemporaneous with it, but it owes its existence in a large measure to this phase of the struggle for human rights. For it was in the abolitionist ranks that the early suffragists received their training, both as thinkers and propagandists. It was impossible for them to agitate continually for the freedom of the Negro without desiring freedom for themselves, or realizing the parallel between his situation and their own. For if the Negro was a slave the married woman of that day was no less a chattel. She was no longer openly bought and sold,[^fn] but she had no more than he, a separate legal existence. If the Negro slave belonged to his master, she belonged no less, absolutely, to her husband as did her property, her earnings, and even her children. Both were disfranchised. Both were deprived of education and subject to economic disabilities which they shared with no other class. Even the constitutional right of free speech was not extended to woman when it meant public speech, as she found when she wished to join in the protest against slavery; and even among the abolitionists her presence on platforms and committees caused serious dissensions.
 
 The most striking instance of this was offered at the World's Anti-slavery Convention held in London in 1840, when the credentials of the American women delegates were refused for no other reason than that they were women. They were, indeed, allowed to be present, but not to have any part in the proceedings. With this they had to be content, as their fellow delegates apparently were, the only exceptions being William Lloyd Garrison and Nathaniel Rogers, the editor of the *Herald of Freedom*. Of all the men present these two alone seemed to realize that a principle was at stake, and rather than compromise on a point they felt to be vital they resigned their seats in the convention, remaining merely as spectators in the gallery.

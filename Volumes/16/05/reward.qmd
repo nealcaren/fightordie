@@ -43,6 +43,14 @@ categories:
   - "Voting & Elections"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1918-09_16_5/sim_crisis_1918-09_16_5.pdf">
+    <img src="/Images/1918-09_16_5.jpg" alt="Cover of The Crisis, September 1918">
+  </a>
+  <p><em>The Crisis</em><br>September 1918</p>
+</div>
+```
 Certain honest thinkers among us hesitate at that last sentence. They say it is all well to be idealistic, but is it not true that while we have fought our country's battles for one hundred fifty years, we have *not* gained our rights? There is just enough fact in this half truth to make it a whole and a very mischievous lie. No, we have not gained all our rights, but we have gained rights and gained them rapidly and effectively by our loyalty in time of trial.
 
 Five thousand Negroes fought in the Revolution; the result was the emancipation of slaves in the North and the abolition of the African slave trade. At least three thousand Negro soldiers and sailors fought in the War of 1812; the result was the enfranchisement of the Negro in many Northern States and the beginning of a strong movement for general emancipation. Two hundred thousand Negroes enlisted in the Civil War, and the result was the emancipation of four million slaves, and the enfranchisement of the black man. Some ten thousand Negroes fought in the Spanish-American War, and in the twenty years ensuing since that war, despite many set backs, we have doubled our landholding acreage and quadrupled our accumulated wealth. We have established a strong leadership of education and character, we have expanded our business interests and we have established the N.A.A.C.P., with forty thousand members.

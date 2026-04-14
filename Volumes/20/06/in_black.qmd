@@ -39,6 +39,14 @@ categories:
   - "Internal Debate"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1920-10_20_6/sim_crisis_1920-10_20_6.pdf">
+    <img src="/Images/1920-10_20_6.jpg" alt="Cover of The Crisis, October 1920">
+  </a>
+  <p><em>The Crisis</em><br>October 1920</p>
+</div>
+```
 It was in Chicago. John Haynes Holmes was talking.
 
 He said: "I met two children---one as fair as the dawn---the other as beautiful as the night." Then he paused. He had to pause for the audience guffawed in wild merriment.

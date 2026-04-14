@@ -35,6 +35,14 @@ categories:
   - "Labor & Economics"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1920-08_20_4/sim_crisis_1920-08_20_4.pdf">
+    <img src="/Images/1920-08_20_4.jpg" alt="Cover of The Crisis, August 1920">
+  </a>
+  <p><em>The Crisis</em><br>August 1920</p>
+</div>
+```
 It was in a Southern city and the white people were on the one and
 favorite subject---the "Nig-ra." This time it was health, a safe and
 absorbing subject. They were told of the horrible danger of having their

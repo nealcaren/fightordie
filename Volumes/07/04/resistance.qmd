@@ -32,6 +32,14 @@ categories:
   - "Pan-Africanism & Empire"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1914-02_7_4/sim_crisis_1914-02_7_4.pdf">
+    <img src="/Images/1914-02_7_4.jpg" alt="Cover of The Crisis, February 1914">
+  </a>
+  <p><em>The Crisis</em><br>February 1914</p>
+</div>
+```
 The Hindus in Natal and the Chinese in Panama are resisting white oppression. It is a good sign, not simply for colored folk, but for white folk. Bad as oppression is for the oppressed, it is worse for the oppressor. For the sake of both it should cease.
 
 <!-- Similar articles start here -->

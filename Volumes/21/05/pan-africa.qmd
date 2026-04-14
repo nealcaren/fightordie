@@ -42,6 +42,14 @@ categories:
   - "Pan-Africanism & Empire"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1921-03_21_5/sim_crisis_1921-03_21_5.pdf">
+    <img src="/Images/1921-03_21_5.jpg" alt="Cover of The Crisis, March 1921">
+  </a>
+  <p><em>The Crisis</em><br>March 1921</p>
+</div>
+```
 The growth of a body of public opinion among peoples of Negro descent broad enough to be called Pan-African is a movement belonging almost entirely to the twentieth century.
 
 Seven hundred and fifty years before Christ the Negroes as rulers of Ethiopia and conquerors of Egypt were practically supreme in the civilized world; but the character of the African continent was such that this supremacy brought no continental unity; rather the inhabitants of the narrow Nile Valley set their faces toward the Mediterranean and Asia more than toward the western Sudan, the valley of the Congo and the Atlantic.

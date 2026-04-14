@@ -41,6 +41,14 @@ categories:
   - "Voting & Elections"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1928-05_35_5/sim_crisis_1928-05_35_5.pdf">
+    <img src="/Images/1928-05_35_5.jpg" alt="Cover of The Crisis, May 1928">
+  </a>
+  <p><em>The Crisis</em><br>May 1928</p>
+</div>
+```
 While I was in Chicago, a listener at Winnetka threw this question at
 me, tensely, with evident deep resentment: "What have you to say to the
 course of Negro politicians who are following Thompson in the municipal

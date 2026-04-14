@@ -41,6 +41,14 @@ categories:
   - "Racial Violence"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1921-05_22_1/sim_crisis_1921-05_22_1.pdf">
+    <img src="/Images/1921-05_22_1.jpg" alt="Cover of The Crisis, May 1921">
+  </a>
+  <p><em>The Crisis</em><br>May 1921</p>
+</div>
+```
 <figure class="right" style="width: 50%;">
 ![](images/7000-map.png "Map showing United States with line draw between cities on the East Coast."){width=100%}
 <figcaption>

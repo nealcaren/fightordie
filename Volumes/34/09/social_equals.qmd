@@ -30,6 +30,14 @@ categories:
   - "Segregation"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1927-11_34_9/sim_crisis_1927-11_34_9.pdf">
+    <img src="/Images/1927-11_34_9.jpg" alt="Cover of The Crisis, November 1927">
+  </a>
+  <p><em>The Crisis</em><br>November 1927</p>
+</div>
+```
 This is a typical Negro American story which my friend told me the other night. He is a law examiner in one of the departments in Washington. Recently, together with three other professional men, he made a trip to the biennial meeting of a colored fraternity in Detroit. They took the "Red Arrow" all Pullman train out of Washington. As they were talking in the smoking room, a porter came in.
 
 "A doctor, a doctor," he cried. "There is a lady dying in my car! Is there a doctor in here?"

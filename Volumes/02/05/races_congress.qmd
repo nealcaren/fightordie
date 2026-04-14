@@ -42,6 +42,14 @@ categories:
   - "Pan-Africanism & Empire"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1911-09_2_5/sim_crisis_1911-09_2_5.pdf">
+    <img src="/Images/1911-09_2_5.jpg" alt="Cover of The Crisis, September 1911">
+  </a>
+  <p><em>The Crisis</em><br>September 1911</p>
+</div>
+```
 ## I.---What Was the Races Congress? 
 
 Several years ago at Eisenach, Germany, Dr. Felix Adler suggested a congress of the races of the world. No attempt was made to follow up this idea for several years; then the Ethical Culture Society permitted one of its best organizers, Gustave Spiller, to devote two years to the organizing of such a congress. It was planned to hold the congress in the summer of 1911. Extraordinary difficulties faced the organizer. He had' no funds; he had no special clientele to appeal to, and he was embarking upon what large numbers of practical people thought a fanciful, if not an impossible, attempt. Then, too, other people feared and opposed it for political and social reasons. Nevertheless, Mr. Spiller went to work.

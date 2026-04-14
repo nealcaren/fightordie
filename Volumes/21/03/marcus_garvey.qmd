@@ -37,6 +37,14 @@ categories:
   - "Internal Debate"
 ---
 
+```{=html}
+<div class="crisis-cover">
+  <a href="https://archive.org/download/sim_crisis_1921-01_21_3/sim_crisis_1921-01_21_3.pdf">
+    <img src="/Images/1921-01_21_3.jpg" alt="Cover of The Crisis, January 1921">
+  </a>
+  <p><em>The Crisis</em><br>January 1921</p>
+</div>
+```
 *An article in the December <span style="small-caps">Crisis</span> gave Mr. Garvey's personal history. This article considers his industrial enterprises and the feasibility of his general plans.*
 
 When it comes to Mr.Garvey's industrial and commercial enterprises there is more ground for doubt and misgiving than in the matter of his character. First of all, his enterprises are incorporated in Delaware, where the corporation laws are loose and where no financial statements are required.[^fn2] So far as I can find, and I have searched with care, Mr. Garvey has never published a complete statement of the income and expenditures of the Negro Improvement Association or of the Black Star Line or of any of his enterprises, which really revealed his financial situation. A courteous letter of inquiry sent to him July 22, 1920, asking for such financial data as he was willing for the public to know, remains to this day unacknowledged and unanswered.
