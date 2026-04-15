@@ -43,6 +43,9 @@ website:
     creator: "@nealcaren"
     card-style: summary_large_image
 
+filters:
+  - article-jsonld.lua
+
 format:
   html:
     theme: simplex
