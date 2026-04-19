@@ -104,7 +104,7 @@ function Meta(meta)
     table.insert(about, { ['@type'] = 'Organization', name = s })
   end
   for _, s in ipairs(get_list(meta.events) or {}) do
-    table.insert(about, { ['@type'] = 'Event', name = s })
+    table.insert(about, { ['@type'] = 'Thing', name = s })
   end
 
   local mentions = {}
